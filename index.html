@@ -452,10 +452,21 @@ async function fetchFeedDirect(url) {
   return await r.text();
 }
 async function fetchFeedProxy(url) {
-  const r = await withTimeout(fetch('https://r.jina.ai/' + url), 9000);
-  if (!r.ok) throw new Error('proxy ' + r.status);
-  const text = await r.text();
-  return text.replace(/^[\s\S]*?(<\?xml|<rss|<feed)/i, '$1');
+  const proxies = [
+    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
+    'https://corsproxy.io/?url=' + encodeURIComponent(url),
+    'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
+  ];
+  for (const p of proxies) {
+    try {
+      const r = await withTimeout(fetch(p), 8000);
+      if (!r.ok) continue;
+      const text = await r.text();
+      const xml = text.replace(/^[\s\S]*?(<\?xml|<rss|<feed)/i, '$1');
+      if (xml.includes('<rss') || xml.includes('<feed') || xml.includes('<item')) return xml;
+    } catch(e) {}
+  }
+  throw new Error('all proxies failed');
 }
 async function fetchFeed(url) {
   try { return await fetchFeedDirect(url); } catch(e) {}
@@ -499,7 +510,7 @@ async function fetchCVEs() {
   const r = await withTimeout(fetch(url), 12000);
   if (!r.ok) throw new Error('nvd ' + r.status);
   const json = await r.json();
-  // Group by product/vendor
+  // Group by product/vendor — conservative: only use product if exactly 1 vendor+product
   const groups = {};
   (json.vulnerabilities || []).forEach(v => {
     const cve = v.cve;
@@ -508,34 +519,35 @@ async function fetchCVEs() {
     const score = cvss?.baseScore || 0;
     const severity = cvss?.baseSeverity || (score >= 9 ? 'CRITICAL' : score >= 7 ? 'HIGH' : score >= 4 ? 'MEDIUM' : 'LOW');
     const desc = (cve.description?.[0]?.value || '').slice(0, 300);
-    // extract product
-    let product = 'Multiple Products';
-    const configs = cve.configurations || [];
+    // extract product — only if single clear product
+    let product = '';
     const affectedSet = new Set();
+    const configs = cve.configurations || [];
     configs.forEach(c => (c.nodes || []).forEach(n => (n.cpeMatch || []).forEach(m => {
       if (m.vulnerable) {
         const parts = m.criteria.split(':');
         if (parts.length > 4) {
           const vendor = parts[3], prod = parts[4];
-          if (vendor && prod && vendor !== 'c' && prod !== 'c') {
+          if (vendor && prod && vendor !== 'c' && prod !== 'c' && vendor !== '-' && prod !== '-') {
             affectedSet.add(vendor + ' ' + prod);
           }
         }
       }
     })));
     if (affectedSet.size === 1) product = [...affectedSet][0];
-    else if (affectedSet.size > 1) product = [...affectedSet][0];
-    if (!groups[product]) groups[product] = { product, cves: [], maxScore: 0, severity: 'LOW', date: cve.published, desc: '' };
-    groups[product].cves.push(cve.id);
-    if (score > groups[product].maxScore) {
-      groups[product].maxScore = score;
-      groups[product].severity = severity;
+    const key = product || cve.id; // fallback: each CVE is its own group
+    if (!groups[key]) groups[key] = { product: product || cve.id, cves: [], maxScore: 0, severity: 'LOW', date: cve.published, desc: '' };
+    groups[key].cves.push(cve.id);
+    if (score > groups[key].maxScore) {
+      groups[key].maxScore = score;
+      groups[key].severity = severity;
     }
-    if (!groups[product].desc) groups[product].desc = desc;
-    if (new Date(cve.published) > new Date(groups[product].date)) groups[product].date = cve.published;
+    if (!groups[key].desc) groups[key].desc = desc;
+    if (new Date(cve.published) > new Date(groups[key].date)) groups[key].date = cve.published;
   });
+  // Sort: products with multiple CVEs first, then by score
   const items = Object.values(groups).map(g => ({
-    title: g.product + (g.cves.length > 1 ? `（${g.cves.length} 個漏洞）` : ''),
+    title: g.cves.length > 1 ? g.product + `（${g.cves.length} 個漏洞）` : g.product + (g.desc ? '：' + g.desc.slice(0, 60) + '…' : ''),
     link: 'https://nvd.nist.gov/vuln/detail/' + g.cves[0],
     pubDate: g.date,
     description: g.desc,
