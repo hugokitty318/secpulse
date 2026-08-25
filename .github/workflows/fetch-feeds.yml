@@ -1,0 +1,189 @@
+name: Fetch News Feeds
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'  # every 15 minutes
+  workflow_dispatch: {}      # manual trigger
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch all feeds
+        id: fetch
+        run: |
+          set -e
+          OUTPUT="[]"
+          
+          fetch_feed() {
+            local SOURCE="$1"
+            local URL="$2"
+            local TAB="$3"
+            echo "Fetching: $SOURCE ($URL)"
+            
+            local XML=""
+            # Try direct
+            XML=$(curl -sL --max-time 10 -H "Accept: application/rss+xml, application/xml, text/xml" "$URL" 2>/dev/null || true)
+            
+            # Validate
+            if ! echo "$XML" | grep -q "<rss\|<feed\|<item\|<entry"; then
+              echo "  -> Failed or empty, skipping"
+              return
+            fi
+            
+            # Parse XML to JSON using python
+            echo "$XML" | python3 -c "
+          import sys, xml.etree.ElementTree as ET, json, re, html
+          
+          source = '$SOURCE'
+          tab = '$TAB'
+          items = []
+          data = sys.stdin.read()
+          
+          try:
+              root = ET.fromstring(data)
+          except ET.ParseError:
+              sys.exit(0)
+          
+          # RSS 2.0
+          for item in root.iter('item'):
+              title = (item.findtext('title') or '').strip()
+              link = (item.findtext('link') or '').strip()
+              pubDate = (item.findtext('pubDate') or '').strip()
+              desc_raw = (item.findtext('description') or '').strip()
+              desc = re.sub(r'<[^>]*>', '', desc_raw)
+              desc = html.unescape(desc).strip()[:250]
+              if title:
+                  items.append({'title': title, 'link': link, 'pubDate': pubDate, 'description': desc, 'source': source})
+          
+          # Atom
+          if not items:
+              ns = {'a': 'http://www.w3.org/2005/Atom'}
+              for entry in root.findall('.//a:entry', ns):
+                  title = (entry.findtext('a:title', namespaces=ns) or '').strip()
+                  link_el = entry.find("a:link[@rel='alternate']", ns) or entry.find('a:link', ns)
+                  link = (link_el.get('href') or '').strip() if link_el is not None else ''
+                  pubDate = (entry.findtext('a:published', namespaces=ns) or entry.findtext('a:updated', namespaces=ns) or '').strip()
+                  desc_raw = (entry.findtext('a:summary', namespaces=ns) or entry.findtext('a:content', namespaces=ns) or '').strip()
+                  desc = re.sub(r'<[^>]*>', '', desc_raw)
+                  desc = html.unescape(desc).strip()[:250]
+                  if title:
+                      items.append({'title': title, 'link': link, 'pubDate': pubDate, 'description': desc, 'source': source})
+          
+          # HKCERT special parsing
+          if source == 'HKCERT':
+              parsed = []
+              for it in items:
+                  full_desc = it.get('description', '')
+                  severity = 'MEDIUM'
+                  if re.search(r'critical|極高', full_desc, re.I): severity = 'CRITICAL'
+                  elif re.search(r'high risk|高度', full_desc, re.I): severity = 'HIGH'
+                  cves = re.findall(r'CVE-\d{4}-\d+', full_desc)
+                  it['severity'] = severity
+                  it['cveIds'] = ', '.join(list(dict.fromkeys(cves)))
+                  it['products'] = it['title'].replace('Multiple Vulnerabilities', '').strip()
+                  parsed.append(it)
+              items = parsed
+          
+          print(json.dumps(items[:15]))
+          " 2>/dev/null || echo "[]"
+          }
+
+          # We'll build the full JSON in python at the end
+          # Save each feed's result to a temp file
+          mkdir -p /tmp/feeds
+
+          # CN Security
+          for pair in "iThome資安|https://www.ithome.com.tw/rss/security" "iThome|https://www.ithome.com.tw/rss/"; do
+            SRC="${pair%%|*}"
+            URL="${pair#*|}"
+            RESULT=$(fetch_feed "$SRC" "$URL" "cn_sec" || echo "[]")
+            echo "$RESULT" > "/tmp/feeds/cn_sec_${RANDOM}.json"
+          done
+
+          # CN Tech
+          for pair in "iThome|https://www.ithome.com.tw/rss/" "INSIDE|https://www.inside.com.tw/feed/" "TechOrange|https://feeds.feedburner.com/techorange"; do
+            SRC="${pair%%|*}"
+            URL="${pair#*|}"
+            RESULT=$(fetch_feed "$SRC" "$URL" "cn_tech" || echo "[]")
+            echo "$RESULT" > "/tmp/feeds/cn_tech_${RANDOM}.json"
+          done
+
+          # EN Security
+          for pair in "TheHackerNews|https://feeds.feedburner.com/TheHackersNews" "BleepingComputer|https://www.bleepingcomputer.com/feed/"; do
+            SRC="${pair%%|*}"
+            URL="${pair#*|}"
+            RESULT=$(fetch_feed "$SRC" "$URL" "en_sec" || echo "[]")
+            echo "$RESULT" > "/tmp/feeds/en_sec_${RANDOM}.json"
+          done
+
+          # EN Tech
+          for pair in "TechCrunch|https://techcrunch.com/feed/" "TheVerge|https://www.theverge.com/rss/index.xml"; do
+            SRC="${pair%%|*}"
+            URL="${pair#*|}"
+            RESULT=$(fetch_feed "$SRC" "$URL" "en_tech" || echo "[]")
+            echo "$RESULT" > "/tmp/feeds/en_tech_${RANDOM}.json"
+          done
+
+          # HKCERT (Product Advisories)
+          RESULT=$(fetch_feed "HKCERT" "https://www.hkcert.org/getrss/security-bulletin" || echo "[]")
+          echo "$RESULT" > "/tmp/feeds/cve_0.json"
+
+          # Merge all into data.json
+          python3 << 'PYEOF'
+          import json, glob, os
+          from datetime import datetime, timezone
+
+          tabs = {'cn_sec': [], 'cn_tech': [], 'en_sec': [], 'en_tech': [], 'cve': []}
+          
+          for f in glob.glob('/tmp/feeds/*.json'):
+              tab = f.split('/')[-1].rsplit('_', 1)[0]
+              try:
+                  with open(f) as fh:
+                      items = json.load(fh)
+                  if isinstance(items, list):
+                      tabs[tab].extend(items)
+              except:
+                  pass
+
+          # Dedupe within each tab (by normalized title)
+          for tab in tabs:
+              seen = set()
+              unique = []
+              for it in sorted(tabs[tab], key=lambda x: x.get('pubDate',''), reverse=True):
+                  key = (it.get('title','') or '').strip().lower()
+                  if not key or key in seen:
+                      continue
+                  seen.add(key)
+                  unique.append(it)
+              tabs[tab] = unique[:20]
+
+          # Cross-tab dedupe: if same title appears in cn_sec and cn_tech, keep in cn_sec only
+          cn_sec_titles = set(it.get('title','').strip().lower() for it in tabs['cn_sec'])
+          tabs['cn_tech'] = [it for it in tabs['cn_tech'] if it.get('title','').strip().lower() not in cn_sec_titles]
+
+          data = {
+              'ts': datetime.now(timezone.utc).isoformat(),
+              'tabs': tabs
+          }
+
+          with open('data.json', 'w', encoding='utf-8') as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+
+          total = sum(len(v) for v in tabs.values())
+          print(f"Wrote data.json: {total} items across {len(tabs)} tabs")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          fi
