@@ -81,9 +81,7 @@ body {
   align-items: center;
   gap: 8px;
 }
-.search-wrap {
-  position: relative;
-}
+.search-wrap { position: relative; }
 .search-input {
   width: 180px;
   padding: 6px 10px 6px 28px;
@@ -142,11 +140,7 @@ body {
   color: var(--text3);
   margin-bottom: 8px;
 }
-.hl-list {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
+.hl-list { display: flex; flex-direction: column; gap: 4px; }
 .hl-item {
   display: flex;
   align-items: center;
@@ -161,11 +155,7 @@ body {
 .hl-item:hover { border-color: var(--text3); }
 .hl-item a { color: var(--text); text-decoration: none; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
 .hl-item a:hover { color: var(--accent); }
-.hl-dot {
-  width: 7px; height: 7px;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
+.hl-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
 .hl-badge {
   font-size: 10px;
   font-weight: 600;
@@ -218,11 +208,7 @@ body {
   text-transform: uppercase;
   letter-spacing: .3px;
 }
-.nc-time {
-  font-size: 11px;
-  color: var(--text3);
-  margin-left: auto;
-}
+.nc-time { font-size: 11px; color: var(--text3); margin-left: auto; }
 .nc-title {
   font-size: 13px;
   font-weight: 500;
@@ -232,10 +218,7 @@ body {
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
-.news-card.expanded .nc-title {
-  -webkit-line-clamp: unset;
-  display: block;
-}
+.news-card.expanded .nc-title { -webkit-line-clamp: unset; display: block; }
 .nc-title a { color: var(--text); text-decoration: none; }
 .nc-title a:hover { color: var(--accent); }
 .nc-desc {
@@ -256,14 +239,11 @@ body {
 .cvss-high { background: rgba(245,158,11,.15); color: var(--orange); }
 .cvss-medium { background: rgba(234,179,8,.15); color: var(--yellow); }
 .cvss-low { background: rgba(34,197,94,.15); color: var(--green); }
-.cve-id { font-weight: 600; font-size: 12px; }
 .nc-products {
   margin-top: 6px;
   font-size: 11px;
   color: var(--text2);
 }
-.news-card:has(.cvss-score) .nc-products { display: block; }
-.news-card.expanded .nc-products { display: block; }
 
 /* Expand btn */
 .expand-btn {
@@ -323,12 +303,12 @@ body {
   <div class="tabs" id="tabs"></div>
   <div class="header-actions">
     <div class="search-wrap">
-      <span class="search-icon">⌕</span>
+      <span class="search-icon">&#x2315;</span>
       <input class="search-input" id="searchInput" type="text" placeholder="">
     </div>
-    <button class="icon-btn" id="themeBtn" title="">☽</button>
+    <button class="icon-btn" id="themeBtn" title="">&#9790;</button>
     <button class="icon-btn" id="langBtn" title="">EN</button>
-    <button class="icon-btn" id="refreshBtn" title="">⟳</button>
+    <button class="icon-btn" id="refreshBtn" title="">&#10227;</button>
   </div>
 </div>
 
@@ -347,71 +327,48 @@ body {
 </div>
 
 <script>
-// ===== i18n =====
 const I18N = {
   zh: {
-    search: '搜尋標題...',
-    todayHighlights: '今日重點',
-    loading: '載入中...',
-    loadMore: '查看更多 ↓',
-    showLess: '收起 ↑',
-    items: '條',
-    lastUpdated: '更新於',
-    refresh: '刷新',
-    theme: '切換主題',
+    search: '\u641c\u5c0b\u6a19\u984c...',
+    todayHighlights: '\u4eca\u65e5\u91cd\u9ede',
+    loading: '\u8f09\u5165\u4e2d...',
+    loadMore: '\u67e5\u770b\u66f4\u591a \u2193',
+    showLess: '\u6536\u8d77 \u2191',
+    items: '\u689d',
+    lastUpdated: '\u66f4\u65b0\u65bc',
+    refresh: '\u5237\u65b0',
+    theme: '\u5207\u63db\u4e3b\u984c',
     lang: 'EN',
-    empty: '暫無資料',
-    error: '載入失敗，請檢查網絡',
-    tabs: ['資安動態','科技前沿','Security','Tech & AI','Product Advisories'],
+    empty: '\u66ab\u7121\u8cc7\u6599\u3002GitHub Actions \u6b63\u5728\u8f09\u5165\u4e2d\uff0c\u8acb\u5be6\u969b\u5f8c\u518d\u8a66\u3002',
+    error: '\u8f09\u5165\u5931\u6557\u3002\u8acb\u6aa2\u67e5\u7db2\u7d61\u3002',
+    tabs: ['\u8cc7\u5b89\u52d5\u614b','\u79d1\u6280\u524d\u6cbf','Security','Tech & AI','Product Advisories'],
   },
   en: {
     search: 'Search headlines...',
-    todayHighlights: 'Today\'s Highlights',
+    todayHighlights: "Today's Highlights",
     loading: 'Loading...',
-    loadMore: 'Show more ↓',
-    showLess: 'Show less ↑',
+    loadMore: 'Show more \u2193',
+    showLess: 'Show less \u2191',
     items: 'items',
     lastUpdated: 'Updated',
     refresh: 'Refresh',
     theme: 'Toggle theme',
-    lang: '繁',
-    empty: 'No items',
-    error: 'Failed to load, check network',
+    lang: '\u7e41',
+    empty: 'No data yet. GitHub Actions is fetching feeds, please try again shortly.',
+    error: 'Failed to load. Check network.',
     tabs: ['Security CN','Tech CN','Security EN','Tech & AI','Product Advisories'],
   }
 };
 
-// ===== State =====
 let lang = 'zh';
 let currentTab = 0;
 let searchQuery = '';
-let allData = {}; // { tabKey: [items] }
+let allData = {};
 let expanded = false;
+let lastFetchTs = 0;
 
-// ===== Feeds =====
-const FEEDS = {
-  cn_sec: [
-    { source: 'iThome 資安', url: 'https://www.ithome.com.tw/rss/security' },
-    { source: 'iThome', url: 'https://www.ithome.com.tw/rss/' },
-  ],
-  cn_tech: [
-    { source: 'iThome', url: 'https://www.ithome.com.tw/rss/' },
-    { source: 'INSIDE', url: 'https://www.inside.com.tw/feed/' },
-    { source: 'TechOrange', url: 'https://feeds.feedburner.com/techorange' },
-  ],
-  en_sec: [
-    { source: 'The Hacker News', url: 'https://feeds.feedburner.com/TheHackersNews' },
-    { source: 'BleepingComputer', url: 'https://www.bleepingcomputer.com/feed/' },
-  ],
-  en_tech: [
-    { source: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
-    { source: 'The Verge', url: 'https://www.theverge.com/rss/index.xml' },
-  ],
-};
 const TAB_KEYS = ['cn_sec', 'cn_tech', 'en_sec', 'en_tech', 'cve'];
-const CACHE_TTL = 10 * 60 * 1000;
 
-// ===== Utils =====
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 function timeAgo(dateStr) {
   if (!dateStr) return '';
@@ -419,217 +376,51 @@ function timeAgo(dateStr) {
   if (isNaN(d)) return '';
   const diff = Date.now() - d.getTime();
   const m = Math.floor(diff / 60000);
-  if (m < 1) return 'just now';
+  if (m < 1) return 'now';
   if (m < 60) return m + 'm';
   const h = Math.floor(m / 60);
   if (h < 24) return h + 'h';
   return Math.floor(h / 24) + 'd';
 }
-function cacheKey(k) { return 'secpulse_' + k + '_' + (k === 'cve' ? 'cve' : k); }
-function getCache(k) {
+
+// ===== Data Loading =====
+async function loadData() {
   try {
-    const raw = localStorage.getItem(cacheKey(k));
-    if (!raw) return null;
-    const obj = JSON.parse(raw);
-    if (Date.now() - obj.ts < CACHE_TTL) return obj.items;
-  } catch(e) {}
-  return null;
-}
-function setCache(k, items) {
-  try { localStorage.setItem(cacheKey(k), JSON.stringify({ ts: Date.now(), items })); } catch(e) {}
-}
-function withTimeout(promise, ms) {
-  return Promise.race([promise, new Promise((_, rej) => setTimeout(() => rej(new Error('timeout')), ms))]);
-}
-
-// ===== Fetch =====
-async function fetchFeedDirect(url) {
-  const r = await withTimeout(fetch(url, {
-    cache: 'no-store',
-    headers: { Accept: 'application/rss+xml, application/xml, text/xml, application/atom+xml, */*' }
-  }), 7000);
-  if (!r.ok) throw new Error('http ' + r.status);
-  return await r.text();
-}
-async function fetchFeedProxy(url) {
-  const proxies = [
-    'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
-    'https://corsproxy.io/?url=' + encodeURIComponent(url),
-    'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
-  ];
-  for (const p of proxies) {
-    try {
-      const r = await withTimeout(fetch(p), 8000);
-      if (!r.ok) continue;
-      const text = await r.text();
-      const xml = text.replace(/^[\s\S]*?(<\?xml|<rss|<feed)/i, '$1');
-      if (xml.includes('<rss') || xml.includes('<feed') || xml.includes('<item')) return xml;
-    } catch(e) {}
+    const r = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error('http ' + r.status);
+    const data = await r.json();
+    lastFetchTs = data.ts || '';
+    allData = data.tabs || {};
+  } catch(e) {
+    console.error('loadData failed:', e);
   }
-  throw new Error('all proxies failed');
-}
-async function fetchFeed(url) {
-  try { return await fetchFeedDirect(url); } catch(e) {}
-  try { return await fetchFeedProxy(url); } catch(e) {}
-  throw new Error('all failed: ' + url);
-}
-
-function parseRssXml(xmlText, source) {
-  const doc = new DOMParser().parseFromString(xmlText, 'text/xml');
-  if (doc.querySelector('parsererror')) return [];
-  const items = [];
-  const clean = v => String(v || '').replace(/<[^>]*>/g, '').trim();
-  doc.querySelectorAll('item').forEach(node => {
-    const title = clean(node.querySelector('title')?.textContent);
-    const link = clean(node.querySelector('link')?.textContent) || clean(node.querySelector('guid')?.textContent);
-    const pubDate = clean(node.querySelector('pubDate')?.textContent || node.querySelector('dc\\:date')?.textContent);
-    const desc = clean(node.querySelector('description')?.textContent);
-    if (title) items.push({ title, link, pubDate, description: desc, source });
-  });
-  if (items.length === 0) {
-    doc.querySelectorAll('entry').forEach(node => {
-      const title = clean(node.querySelector('title')?.textContent);
-      const linkEl = node.querySelector('link[rel="alternate"]') || node.querySelector('link[href]');
-      const link = linkEl?.getAttribute('href') || clean(linkEl?.textContent);
-      const pubDate = clean(node.querySelector('published')?.textContent || node.querySelector('updated')?.textContent);
-      const desc = clean(node.querySelector('summary')?.textContent || node.querySelector('content')?.textContent);
-      if (title) items.push({ title, link, pubDate, description: desc, source });
-    });
-  }
-  return items.slice(0, 12);
-}
-
-// ===== CVE =====
-async function fetchCVEs() {
-  const cached = getCache('cve');
-  if (cached) return cached;
-  const now = new Date();
-  const start = new Date(now.getTime() - 24 * 3600 * 1000);
-  const fmt = d => d.toISOString().replace(/\.\d+Z$/, 'Z');
-  const url = `https://services.nvd.nist.gov/rest/json/cves/2.0?resultsPerPage=70&pubStartDate=${encodeURIComponent(fmt(start))}&pubEndDate=${encodeURIComponent(fmt(now))}`;
-  const r = await withTimeout(fetch(url), 12000);
-  if (!r.ok) throw new Error('nvd ' + r.status);
-  const json = await r.json();
-  // Group by product/vendor — conservative: only use product if exactly 1 vendor+product
-  const groups = {};
-  (json.vulnerabilities || []).forEach(v => {
-    const cve = v.cve;
-    const metrics = cve.metrics?.cvssMetricV31 || cve.metrics?.cvssMetricV40 || cve.metrics?.cvssMetricV30;
-    const cvss = metrics?.[0]?.cvssData;
-    const score = cvss?.baseScore || 0;
-    const severity = cvss?.baseSeverity || (score >= 9 ? 'CRITICAL' : score >= 7 ? 'HIGH' : score >= 4 ? 'MEDIUM' : 'LOW');
-    const desc = (cve.description?.[0]?.value || '').slice(0, 300);
-    // extract product — only if single clear product
-    let product = '';
-    const affectedSet = new Set();
-    const configs = cve.configurations || [];
-    configs.forEach(c => (c.nodes || []).forEach(n => (n.cpeMatch || []).forEach(m => {
-      if (m.vulnerable) {
-        const parts = m.criteria.split(':');
-        if (parts.length > 4) {
-          const vendor = parts[3], prod = parts[4];
-          if (vendor && prod && vendor !== 'c' && prod !== 'c' && vendor !== '-' && prod !== '-') {
-            affectedSet.add(vendor + ' ' + prod);
-          }
-        }
-      }
-    })));
-    if (affectedSet.size === 1) product = [...affectedSet][0];
-    const key = product || cve.id; // fallback: each CVE is its own group
-    if (!groups[key]) groups[key] = { product: product || cve.id, cves: [], maxScore: 0, severity: 'LOW', date: cve.published, desc: '' };
-    groups[key].cves.push(cve.id);
-    if (score > groups[key].maxScore) {
-      groups[key].maxScore = score;
-      groups[key].severity = severity;
-    }
-    if (!groups[key].desc) groups[key].desc = desc;
-    if (new Date(cve.published) > new Date(groups[key].date)) groups[key].date = cve.published;
-  });
-  // Sort: products with multiple CVEs first, then by score
-  const items = Object.values(groups).map(g => ({
-    title: g.cves.length > 1 ? g.product + `（${g.cves.length} 個漏洞）` : g.product + (g.desc ? '：' + g.desc.slice(0, 60) + '…' : ''),
-    link: 'https://nvd.nist.gov/vuln/detail/' + g.cves[0],
-    pubDate: g.date,
-    description: g.desc,
-    source: 'NVD',
-    cvss: g.maxScore,
-    severity: g.severity,
-    cveIds: g.cves.slice(0, 8).join(', '),
-    products: g.product,
-  }));
-  items.sort((a, b) => (b.cvss || 0) - (a.cvss || 0));
-  setCache('cve', items);
-  return items;
-}
-
-// ===== Load =====
-async function loadTab(key) {
-  if (key === 'cve') {
-    const data = await fetchCVEs();
-    allData.cve = data;
-    return;
-  }
-  const cached = getCache(key);
-  if (cached) { allData[key] = cached; return; }
-  const feeds = FEEDS[key] || [];
-  const results = [];
-  for (let i = 0; i < feeds.length; i += 2) {
-    const batch = feeds.slice(i, i + 2);
-    const settled = await Promise.allSettled(batch.map(f =>
-      fetchFeed(f.url).then(xml => parseRssXml(xml, f.source))
-    ));
-    settled.forEach(s => { if (s.status === 'fulfilled') results.push(...s.value); });
-  }
-  // dedupe
-  const seen = new Set();
-  const all = results.filter(it => {
-    const k = (it.title || '').trim().toLowerCase();
-    if (!k || seen.has(k)) return false;
-    seen.add(k); return true;
-  });
-  all.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
-  setCache(key, all);
-  allData[key] = all;
 }
 
 async function refreshAll() {
   document.getElementById('refreshBtn').classList.add('spinning');
-  Object.keys(allData).forEach(k => delete allData[k]);
-  // clear caches
-  TAB_KEYS.forEach(k => { try { localStorage.removeItem(cacheKey(k)); } catch(e){} });
-  await render();
+  await loadData();
   document.getElementById('refreshBtn').classList.remove('spinning');
+  render();
 }
 
 // ===== Render =====
 function render() {
-  const key = TAB_KEYS[currentTab];
   renderTabs();
   renderHighlights();
   renderContent();
   renderStatus();
 }
 
-async function renderContent() {
+function renderContent() {
   const key = TAB_KEYS[currentTab];
   const content = document.getElementById('content');
-  // show skeleton if loading
-  if (!allData[key]) {
-    content.innerHTML = '<div class="loading"><div class="skeleton"><div class="skel-card"></div><div class="skel-card"></div><div class="skel-card"></div><div class="skel-card"></div><div class="skel-card"></div><div class="skel-card"></div></div></div>';
-    try {
-      await loadTab(key);
-    } catch(e) {
-      content.innerHTML = `<div class="empty-state">${I18N[lang].error}</div>`;
-      return;
-    }
-  }
   let items = allData[key] || [];
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
     items = items.filter(it => (it.title || '').toLowerCase().includes(q));
   }
   if (items.length === 0) {
-    content.innerHTML = `<div class="empty-state">${I18N[lang].empty}</div>`;
+    content.innerHTML = '<div class="empty-state">' + I18N[lang].empty + '</div>';
     return;
   }
   const showCount = expanded ? items.length : Math.min(8, items.length);
@@ -639,34 +430,37 @@ async function renderContent() {
   visible.forEach(item => {
     const safeLink = /^https?:\/\//i.test(String(item.link || '').trim());
     if (isCve) {
-      const cls = (item.severity || '').toLowerCase();
-      const riskLabel = cls === 'critical' ? '極高風險' : cls === 'high' ? '高度風險' : cls === 'medium' ? '中度風險' : '低度風險';
-      const riskLabelEn = cls === 'critical' ? 'Critical' : cls === 'high' ? 'High Risk' : cls === 'medium' ? 'Medium' : 'Low';
+      const cls = (item.severity || 'medium').toLowerCase();
+      const riskZh = cls === 'critical' ? '\u6975\u9ad8\u98a8\u96aa' : cls === 'high' ? '\u9ad8\u5ea6\u98a8\u96aa' : cls === 'medium' ? '\u4e2d\u5ea6\u98a8\u96aa' : '\u4f4e\u5ea6\u98a8\u96aa';
+      const riskEn = cls === 'critical' ? 'Critical' : cls === 'high' ? 'High Risk' : cls === 'medium' ? 'Medium Risk' : 'Low Risk';
       const badgeCls = cls === 'critical' ? 'cvss-critical' : cls === 'high' ? 'cvss-high' : cls === 'medium' ? 'cvss-medium' : 'cvss-low';
       const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('zh-TW', {year:'numeric',month:'long',day:'numeric'}) : '';
-      html += `<div class="news-card${expanded ? ' expanded' : ''}" data-link="${esc(item.link)}">
-        <div class="nc-top">
-          <span class="cvss-score ${badgeCls}">${riskLabel} ${riskLabelEn}</span>
-          <span class="nc-time">${dateStr}</span>
-        </div>
-        <div class="nc-title"><a href="${safeLink ? esc(item.link) : '#'}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
-        <div class="nc-desc">${esc(item.description || '')}</div>
-        <div class="nc-products">CVSS: ${item.cvss ? item.cvss.toFixed(1) : 'N/A'} | ${esc(item.cveIds || '')}</div>
-      </div>`;
+      const metaParts = [];
+      if (item.cveIds) metaParts.push(item.cveIds);
+      if (item.products) metaParts.push(item.products);
+      html += '<div class="news-card' + (expanded ? ' expanded' : '') + '" data-link="' + esc(item.link) + '">' +
+        '<div class="nc-top">' +
+        '<span class="cvss-score ' + badgeCls + '">' + riskZh + ' ' + riskEn + '</span>' +
+        '<span class="nc-time">' + dateStr + '</span>' +
+        '</div>' +
+        '<div class="nc-title"><a href="' + (safeLink ? esc(item.link) : '#') + '" target="_blank" rel="noopener">' + esc(item.title) + '</a></div>' +
+        '<div class="nc-desc">' + esc(item.description || '') + '</div>' +
+        '<div class="nc-products">' + esc(metaParts.join(' | ')) + '</div>' +
+        '</div>';
     } else {
-      html += `<div class="news-card${expanded ? ' expanded' : ''}" data-link="${esc(item.link)}">
-        <div class="nc-top">
-          <span class="nc-source">${esc(item.source)}</span>
-          <span class="nc-time">${timeAgo(item.pubDate)}</span>
-        </div>
-        <div class="nc-title"><a href="${safeLink ? esc(item.link) : '#'}" target="_blank" rel="noopener">${esc(item.title)}</a></div>
-        <div class="nc-desc">${esc((item.description || '').slice(0, 200))}</div>
-      </div>`;
+      html += '<div class="news-card' + (expanded ? ' expanded' : '') + '" data-link="' + esc(item.link) + '">' +
+        '<div class="nc-top">' +
+        '<span class="nc-source">' + esc(item.source) + '</span>' +
+        '<span class="nc-time">' + timeAgo(item.pubDate) + '</span>' +
+        '</div>' +
+        '<div class="nc-title"><a href="' + (safeLink ? esc(item.link) : '#') + '" target="_blank" rel="noopener">' + esc(item.title) + '</a></div>' +
+        '<div class="nc-desc">' + esc((item.description || '').slice(0, 200)) + '</div>' +
+        '</div>';
     }
   });
   html += '</div>';
   if (items.length > 8) {
-    html += `<div class="expand-btn" id="expandBtn">${expanded ? I18N[lang].showLess : I18N[lang].loadMore}</div>`;
+    html += '<div class="expand-btn" id="expandBtn">' + (expanded ? I18N[lang].showLess : I18N[lang].loadMore) + '</div>';
   }
   content.innerHTML = html;
   const expandBtn = document.getElementById('expandBtn');
@@ -677,56 +471,42 @@ async function renderContent() {
 
 function renderHighlights() {
   const hlList = document.getElementById('hlList');
-  const hlLabel = document.getElementById('hlLabel');
-  hlLabel.textContent = I18N[lang].todayHighlights;
-  // Collect top items: CVE first (top 3), then other tabs (top 2)
+  document.getElementById('hlLabel').textContent = I18N[lang].todayHighlights;
   const items = [];
-  const cveItems = allData.cve || [];
-  cveItems.slice(0, 3).forEach(c => {
-    const cls = (c.severity || '').toLowerCase();
+  // CVE/advisories first
+  (allData.cve || []).slice(0, 3).forEach(c => {
+    const cls = (c.severity || 'medium').toLowerCase();
     const dotColor = cls === 'critical' ? 'var(--red)' : cls === 'high' ? 'var(--orange)' : 'var(--yellow)';
     const badgeCls = cls === 'critical' ? 'badge-critical' : cls === 'high' ? 'badge-high' : 'badge-medium';
-    const riskShort = cls === 'critical' ? '極高' : cls === 'high' ? 'High' : 'Med';
-    items.push({
-      dot: dotColor,
-      badge: `<span class="hl-badge ${badgeCls}">${riskShort}</span>`,
-      title: c.title,
-      link: c.link
-    });
+    const riskShort = cls === 'critical' ? '\u6975\u9ad8' : cls === 'high' ? 'High' : 'Med';
+    items.push({ dot: dotColor, badge: '<span class="hl-badge ' + badgeCls + '">' + riskShort + '</span>', title: c.title, link: c.link });
   });
-  // top from current tab
-  const curItems = allData[TAB_KEYS[currentTab]] || [];
-  curItems.slice(0, 2).forEach(it => {
-    if (!items.find(x => x.title === it.title)) {
-      items.push({ dot: 'var(--accent)', badge: '', title: it.title, link: it.link });
-    }
-  });
-  // fill from other tabs if needed
+  // Top from other tabs
   TAB_KEYS.forEach(k => {
     if (items.length >= 5) return;
     (allData[k] || []).slice(0, 2).forEach(it => {
       if (items.length < 5 && !items.find(x => x.title === it.title)) {
-        items.push({ dot: 'var(--text3)', badge: '', title: it.title, link: it.link });
+        items.push({ dot: 'var(--accent)', badge: '', title: it.title, link: it.link });
       }
     });
   });
   if (items.length === 0) {
-    hlList.innerHTML = `<div style="font-size:12px;color:var(--text3);padding:8px">${I18N[lang].loading}</div>`;
+    hlList.innerHTML = '<div style="font-size:12px;color:var(--text3);padding:8px">' + I18N[lang].loading + '</div>';
     return;
   }
   hlList.innerHTML = items.slice(0, 5).map(it =>
-    `<div class="hl-item">
-      <span class="hl-dot" style="background:${it.dot}"></span>
-      <a href="${/^https?:\/\//i.test(it.link||'') ? esc(it.link) : '#'}" target="_blank" rel="noopener">${esc(it.title)}</a>
-      ${it.badge}
-    </div>`
+    '<div class="hl-item">' +
+    '<span class="hl-dot" style="background:' + it.dot + '"></span>' +
+    '<a href="' + (/^https?:\/\//i.test(it.link||'') ? esc(it.link) : '#') + '" target="_blank" rel="noopener">' + esc(it.title) + '</a>' +
+    it.badge +
+    '</div>'
   ).join('');
 }
 
 function renderTabs() {
   const tabs = document.getElementById('tabs');
   tabs.innerHTML = I18N[lang].tabs.map((t, i) =>
-    `<div class="tab${i === currentTab ? ' active' : ''}" data-i="${i}">${t}</div>`
+    '<div class="tab' + (i === currentTab ? ' active' : '') + '" data-i="' + i + '">' + t + '</div>'
   ).join('');
   tabs.querySelectorAll('.tab').forEach(el => {
     el.onclick = () => { currentTab = +el.dataset.i; expanded = false; render(); };
@@ -736,19 +516,10 @@ function renderTabs() {
 function renderStatus() {
   const key = TAB_KEYS[currentTab];
   const items = allData[key] || [];
-  document.getElementById('statusLeft').textContent = `${items.length} ${I18N[lang].items}`;
+  let left = items.length + ' ' + I18N[lang].items;
+  if (lastFetchTs) left += '  \u00b7  ' + I18N[lang].lastUpdated + ' ' + timeAgo(lastFetchTs);
+  document.getElementById('statusLeft').textContent = left;
   document.getElementById('statusRight').textContent = '';
-}
-
-// ===== Preload all tabs (background) =====
-async function preloadAll() {
-  await render();
-  // background load other tabs
-  const others = TAB_KEYS.filter((k, i) => i !== currentTab);
-  for (const k of others) {
-    try { await loadTab(k); } catch(e) {}
-  }
-  renderHighlights();
 }
 
 // ===== Init =====
@@ -761,7 +532,7 @@ function init() {
   document.getElementById('themeBtn').onclick = () => {
     const isDark = document.body.dataset.theme === 'dark';
     document.body.dataset.theme = isDark ? 'light' : 'dark';
-    document.getElementById('themeBtn').textContent = isDark ? '☀' : '☽';
+    document.getElementById('themeBtn').textContent = isDark ? '\u2600' : '\u263d';
   };
   document.getElementById('langBtn').onclick = () => {
     lang = lang === 'zh' ? 'en' : 'zh';
@@ -776,7 +547,6 @@ function init() {
     renderContent();
   };
 
-  // keyboard: / to focus search
   document.addEventListener('keydown', e => {
     if (e.key === '/' && document.activeElement !== document.getElementById('searchInput')) {
       e.preventDefault();
@@ -784,7 +554,8 @@ function init() {
     }
   });
 
-  preloadAll();
+  // Load data then render
+  loadData().then(() => render());
 }
 init();
 </script>
