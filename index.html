@@ -339,7 +339,7 @@ const I18N = {
     refresh: '\u5237\u65b0',
     theme: '\u5207\u63db\u4e3b\u984c',
     lang: 'EN',
-    empty: '\u66ab\u7121\u8cc7\u6599\u3002GitHub Actions \u6b63\u5728\u8f09\u5165\u4e2d\uff0c\u8acb\u5be6\u969b\u5f8c\u518d\u8a66\u3002',
+    empty: '\u66ab\u7121\u8cc7\u6599\u3002\u4ee3\u7406\u670d\u52d9\u53ef\u80fd\u66ab\u6642\u4e0d\u7a69\u5b9a\uff0c\u8acb\u6309\u5237\u65b0\u518d\u8a66\u3002',
     error: '\u8f09\u5165\u5931\u6557\u3002\u8acb\u6aa2\u67e5\u7db2\u7d61\u3002',
     tabs: ['\u8cc7\u5b89\u52d5\u614b','\u79d1\u6280\u524d\u6cbf','Security','Tech & AI','Product Advisories'],
   },
@@ -354,7 +354,7 @@ const I18N = {
     refresh: 'Refresh',
     theme: 'Toggle theme',
     lang: '\u7e41',
-    empty: 'No data. Feeds may be temporarily unavailable, try refresh.',
+    empty: 'No data. Proxy services may be temporarily unavailable — try refresh.',
     error: 'Failed to load. Check network.',
     tabs: ['Security CN','Tech CN','Security EN','Tech & AI','Product Advisories'],
   }
@@ -407,34 +407,11 @@ const FEEDS = {
   ]
 };
 
-function parseRss(xml, source) {
-  const parser = new DOMParser();
-  const doc = parser.parseFromString(xml, 'text/xml');
-  const items = [];
-  // RSS 2.0
-  doc.querySelectorAll('item').forEach(el => {
-    const title = (el.querySelector('title')?.textContent || '').trim();
-    const link = (el.querySelector('link')?.textContent || '').trim();
-    const pubDate = (el.querySelector('pubDate')?.textContent || '').trim();
-    const descRaw = (el.querySelector('description')?.textContent || '').trim();
-    const desc = descRaw.replace(/<[^>]*>/g, '').slice(0, 250);
-    if (title) items.push({ title, link, pubDate, description: desc, source });
+function finalizeItems(items, source) {
+  items.forEach(it => {
+    it.description = (it.description || '').replace(/<[^>]*>/g, '').slice(0, 250);
+    if (!it.source) it.source = source;
   });
-  // Atom fallback
-  if (items.length === 0) {
-    const ns = 'http://www.w3.org/2005/Atom';
-    doc.querySelectorAll('entry').forEach(el => {
-      const title = (el.getElementsByTagNameNS(ns, 'title')[0]?.textContent || el.querySelector('title')?.textContent || '').trim();
-      const linkEl = el.querySelector('link[rel="alternate"]') || el.querySelector('link');
-      const link = (linkEl?.getAttribute('href') || '').trim();
-      const pubDate = (el.getElementsByTagNameNS(ns, 'published')[0]?.textContent || el.getElementsByTagNameNS(ns, 'updated')[0]?.textContent || el.querySelector('published,updated')?.textContent || '').trim();
-      const descEl = el.getElementsByTagNameNS(ns, 'summary')[0] || el.getElementsByTagNameNS(ns, 'content')[0] || el.querySelector('summary,content');
-      const descRaw = (descEl?.textContent || '').trim();
-      const desc = descRaw.replace(/<[^>]*>/g, '').slice(0, 250);
-      if (title) items.push({ title, link, pubDate, description: desc, source });
-    });
-  }
-  // HKCERT special
   if (source === 'HKCERT') {
     items.forEach(it => {
       const d = it.description || '';
@@ -450,23 +427,109 @@ function parseRss(xml, source) {
   return items.slice(0, 15);
 }
 
-async function fetchFeed(feed) {
-  const proxyUrl = 'https://r.jina.ai/' + feed.url;
-  const r = await fetch(proxyUrl, { headers: { 'Accept': 'text/plain' } });
-  if (!r.ok) throw new Error('http ' + r.status);
-  const text = await r.text();
-  if (!text || !/<rss|<feed|<item|<entry/i.test(text)) throw new Error('not xml');
-  return parseRss(text, feed.name);
+function parseRss(xml, source) {
+  const doc = new DOMParser().parseFromString(xml, 'text/xml');
+  const items = [];
+  doc.querySelectorAll('item').forEach(el => {
+    const title = (el.querySelector('title')?.textContent || '').trim();
+    const link = (el.querySelector('link')?.textContent || '').trim();
+    const pubDate = (el.querySelector('pubDate')?.textContent || '').trim();
+    const descRaw = (el.querySelector('description')?.textContent || '').trim();
+    if (title) items.push({ title, link, pubDate, description: descRaw, source });
+  });
+  if (items.length === 0) {
+    const ns = 'http://www.w3.org/2005/Atom';
+    doc.querySelectorAll('entry').forEach(el => {
+      const title = (el.getElementsByTagNameNS(ns, 'title')[0]?.textContent || el.querySelector('title')?.textContent || '').trim();
+      const linkEl = el.querySelector('link[rel="alternate"]') || el.querySelector('link');
+      const link = (linkEl?.getAttribute('href') || '').trim();
+      const pubDate = (el.getElementsByTagNameNS(ns, 'published')[0]?.textContent || el.getElementsByTagNameNS(ns, 'updated')[0]?.textContent || el.querySelector('published,updated')?.textContent || '').trim();
+      const descEl = el.getElementsByTagNameNS(ns, 'summary')[0] || el.getElementsByTagNameNS(ns, 'content')[0] || el.querySelector('summary,content');
+      const descRaw = (descEl?.textContent || '').trim();
+      if (title) items.push({ title, link, pubDate, description: descRaw, source });
+    });
+  }
+  return finalizeItems(items, source);
 }
 
-async function loadData() {
+const NEWS_CACHE_TTL = 10 * 60 * 1000;
+function newsCacheKey(feed) { return 'secPulse_' + feed.url; }
+function getNewsCache(feed) {
+  try {
+    const raw = localStorage.getItem(newsCacheKey(feed));
+    if (!raw) return null;
+    const obj = JSON.parse(raw);
+    if (Date.now() - obj.ts < NEWS_CACHE_TTL) return obj.items;
+  } catch {}
+  return null;
+}
+function setNewsCache(feed, items) {
+  try { localStorage.setItem(newsCacheKey(feed), JSON.stringify({ ts: Date.now(), items })); } catch {}
+}
+function clearNewsCache() {
+  Object.values(FEEDS).flat().forEach(f => {
+    try { localStorage.removeItem(newsCacheKey(f)); } catch {}
+  });
+}
+function withTimeout(promise, ms) {
+  return Promise.race([
+    promise,
+    new Promise((_, rej) => setTimeout(() => rej(new Error('timeout')), ms))
+  ]);
+}
+async function tryProxy(fn) {
+  const res = await fn();
+  if (res && res.length) return res;
+  throw new Error('empty');
+}
+
+async function fetchFeed(feed, skipCache = false) {
+  if (!skipCache) {
+    const cached = getNewsCache(feed);
+    if (cached) return cached;
+  }
+  const proxies = [
+    () => fetch('https://api.rss2json.com/v1/api.json?count=15&rss_url=' + encodeURIComponent(feed.url))
+      .then(r => r.json()).then(data => {
+        if (data && data.status === 'ok' && Array.isArray(data.items) && data.items.length) {
+          return finalizeItems(data.items.slice(0, 15).map(it => ({
+            title: it.title || '',
+            link: it.link || '',
+            pubDate: it.pubDate || '',
+            description: it.description || '',
+            source: feed.name
+          })), feed.name);
+        }
+        return null;
+      }),
+    () => fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent(feed.url))
+      .then(r => r.text()).then(xml => {
+        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
+        return parseRss(xml, feed.name);
+      }),
+    () => fetch('https://corsproxy.io/?url=' + encodeURIComponent(feed.url))
+      .then(r => r.text()).then(xml => {
+        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
+        return parseRss(xml, feed.name);
+      })
+  ];
+  try {
+    const winner = await Promise.any(proxies.map(p => withTimeout(tryProxy(p), 8000)));
+    if (winner && winner.length) {
+      if (!skipCache) setNewsCache(feed, winner);
+      return winner;
+    }
+  } catch {}
+  return [];
+}
+
+async function loadData(skipCache = false) {
   const tabs = { cn_sec: [], cn_tech: [], en_sec: [], en_tech: [], cve: [] };
   const promises = Object.keys(FEEDS).map(async key => {
-    const results = await Promise.allSettled(FEEDS[key].map(f => fetchFeed(f)));
+    const results = await Promise.allSettled(FEEDS[key].map(f => fetchFeed(f, skipCache)));
     results.forEach(r => { if (r.status === 'fulfilled') tabs[key].push(...r.value); });
   });
   await Promise.all(promises);
-  // Dedupe within tab
   for (const key of Object.keys(tabs)) {
     const seen = new Set();
     tabs[key] = tabs[key]
@@ -474,7 +537,6 @@ async function loadData() {
       .filter(it => { const k = (it.title || '').trim().toLowerCase(); if (!k || seen.has(k)) return false; seen.add(k); return true; })
       .slice(0, 20);
   }
-  // Cross-tab dedupe
   const cnSecTitles = new Set(tabs.cn_sec.map(it => (it.title || '').trim().toLowerCase()));
   tabs.cn_tech = tabs.cn_tech.filter(it => !cnSecTitles.has((it.title || '').trim().toLowerCase()));
   allData = tabs;
@@ -483,7 +545,8 @@ async function loadData() {
 
 async function refreshAll() {
   document.getElementById('refreshBtn').classList.add('spinning');
-  await loadData();
+  clearNewsCache();
+  await loadData(true);
   document.getElementById('refreshBtn').classList.remove('spinning');
   render();
 }

@@ -1,6 +1,6 @@
 # SecPulse
 
-QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零依賴。
+QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零依賴、零 token、零 Actions。
 
 ## 功能
 
@@ -11,15 +11,24 @@ QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零
 - 關鍵字即時搜尋
 - 深色/淺色主題
 - 繁中/EN 語言切換
-- 1080p 無滾動
+
+## CORS 怎麼解決？
+
+瀏覽器不允許 GitHub Pages 直接抓外部 RSS，所以頁面透過 **3 個公開 CORS 代理並行競速** 取回資料：
+
+1. `rss2json` — JSON 格式，最快
+2. `allorigins.win` — 原始 RSS XML，前端解析
+3. `corsproxy.io` — 備援代理
+
+任一代理成功即用其結果，無需手動更新資料檔、無需 GitHub Actions 或 token。
 
 ## 部署
 
-1. 建一個 GitHub repo（例如 `testdatagen` 旁邊建 `secpulse`）
-2. 將呢個資料夾所有內容 push 上去
-3. 去 repo Settings → Pages → Source 選 `main` branch, root `/`
-4. 等第一次 GitHub Actions 跑完（約 1-2 分鐘），`data.json` 就會有數據
-5. 之後每 15 分鐘自動更新
+1. 建 GitHub repo，push `index.html`（只需這一個檔案）
+2. Repo → **Settings → Pages** → Source 選 `main` branch、root `/`
+3. 開啟 `https://<username>.github.io/<repo>/` 給 QA 查看
+
+每次 QA 開啟或按刷新，頁面會自動從新聞源拉最新資料。本機 `localStorage` 快取 10 分鐘以加速重複瀏覽。
 
 ## 新聞源
 
@@ -31,18 +40,14 @@ QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零
 | Tech & AI | TechCrunch、The Verge |
 | Product Advisories | HKCERT Security Bulletin |
 
-## 技術
-
-- 前端：單一 `index.html`（零依賴、零 build）
-- 數據：GitHub Actions 每 15 分鐘抓 RSS → 寫入 `data.json` → commit
-- CORS 問題：由 Actions server-side curl 解決，前端只 fetch 同域 JSON
-
 ## 檔案結構
 
 ```
-├── index.html          # 前端
-├── data.json           # 數據（Actions 自動更新）
-└── .github/
-    └── workflows/
-        └── fetch-feeds.yml  # Actions workflow
+├── index.html          # 前端（唯一必要檔案）
+└── README.md
 ```
+
+## 注意事項
+
+- 代理服務為第三方免費服務，偶爾可能不穩定；按「刷新」可重試
+- 若公司網路封鎖外部代理，可能無法載入；可改用本機 `python -m http.server` 測試
