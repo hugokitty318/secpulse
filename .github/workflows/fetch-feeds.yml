@@ -12,132 +12,86 @@ jobs:
       - uses: actions/checkout@v4
 
       - name: Fetch all feeds
-        id: fetch
         run: |
-          set -e
-          OUTPUT="[]"
-          
+          mkdir -p /tmp/feeds
+          rm -f /tmp/feeds/*.json
+
           fetch_feed() {
             local SOURCE="$1"
             local URL="$2"
-            local TAB="$3"
-            echo "Fetching: $SOURCE ($URL)"
-            
-            local XML=""
-            # Try direct
-            XML=$(curl -sL --max-time 10 -H "Accept: application/rss+xml, application/xml, text/xml" "$URL" 2>/dev/null || true)
-            
-            # Validate
-            if ! echo "$XML" | grep -q "<rss\|<feed\|<item\|<entry"; then
-              echo "  -> Failed or empty, skipping"
+            local OUTFILE="$3"
+            echo "Fetching: $SOURCE"
+            local XML
+            XML=$(curl -sL --max-time 15 -H "User-Agent: Mozilla/5.0" -H "Accept: application/rss+xml, application/xml, text/xml" "$URL" 2>/dev/null) || XML=""
+            if [ -z "$XML" ] || ! echo "$XML" | grep -q "<rss\|<feed\|<item\|<entry"; then
+              echo "  -> Failed, writing empty"
+              echo "[]" > "$OUTFILE"
               return
             fi
-            
-            # Parse XML to JSON using python
             echo "$XML" | python3 -c "
           import sys, xml.etree.ElementTree as ET, json, re, html
-          
-          source = '$SOURCE'
-          tab = '$TAB'
+          source = '''$SOURCE'''
           items = []
           data = sys.stdin.read()
-          
           try:
               root = ET.fromstring(data)
           except ET.ParseError:
+              print(json.dumps([]))
               sys.exit(0)
-          
-          # RSS 2.0
           for item in root.iter('item'):
               title = (item.findtext('title') or '').strip()
               link = (item.findtext('link') or '').strip()
               pubDate = (item.findtext('pubDate') or '').strip()
               desc_raw = (item.findtext('description') or '').strip()
-              desc = re.sub(r'<[^>]*>', '', desc_raw)
-              desc = html.unescape(desc).strip()[:250]
+              desc = html.unescape(re.sub(r'<[^>]*>', '', desc_raw)).strip()[:250]
               if title:
                   items.append({'title': title, 'link': link, 'pubDate': pubDate, 'description': desc, 'source': source})
-          
-          # Atom
           if not items:
               ns = {'a': 'http://www.w3.org/2005/Atom'}
               for entry in root.findall('.//a:entry', ns):
                   title = (entry.findtext('a:title', namespaces=ns) or '').strip()
-                  link_el = entry.find("a:link[@rel='alternate']", ns) or entry.find('a:link', ns)
+                  link_el = entry.find(\"a:link[@rel='alternate']\", ns) or entry.find('a:link', ns)
                   link = (link_el.get('href') or '').strip() if link_el is not None else ''
                   pubDate = (entry.findtext('a:published', namespaces=ns) or entry.findtext('a:updated', namespaces=ns) or '').strip()
                   desc_raw = (entry.findtext('a:summary', namespaces=ns) or entry.findtext('a:content', namespaces=ns) or '').strip()
-                  desc = re.sub(r'<[^>]*>', '', desc_raw)
-                  desc = html.unescape(desc).strip()[:250]
+                  desc = html.unescape(re.sub(r'<[^>]*>', '', desc_raw)).strip()[:250]
                   if title:
                       items.append({'title': title, 'link': link, 'pubDate': pubDate, 'description': desc, 'source': source})
-          
-          # HKCERT special parsing
           if source == 'HKCERT':
-              parsed = []
               for it in items:
-                  full_desc = it.get('description', '')
-                  severity = 'MEDIUM'
-                  if re.search(r'critical|極高', full_desc, re.I): severity = 'CRITICAL'
-                  elif re.search(r'high risk|高度', full_desc, re.I): severity = 'HIGH'
-                  cves = re.findall(r'CVE-\d{4}-\d+', full_desc)
-                  it['severity'] = severity
+                  d = it.get('description','')
+                  sev = 'MEDIUM'
+                  if re.search(r'critical|極高', d, re.I): sev = 'CRITICAL'
+                  elif re.search(r'high risk|高度', d, re.I): sev = 'HIGH'
+                  cves = re.findall(r'CVE-\d{4}-\d+', d)
+                  it['severity'] = sev
                   it['cveIds'] = ', '.join(list(dict.fromkeys(cves)))
-                  it['products'] = it['title'].replace('Multiple Vulnerabilities', '').strip()
-                  parsed.append(it)
-              items = parsed
-          
+                  it['products'] = it['title'].replace('Multiple Vulnerabilities','').strip()
           print(json.dumps(items[:15]))
-          " 2>/dev/null || echo "[]"
+          " 2>/dev/null > "$OUTFILE" || echo "[]" > "$OUTFILE"
+            echo "  -> Saved to $OUTFILE"
           }
 
-          # We'll build the full JSON in python at the end
-          # Save each feed's result to a temp file
-          mkdir -p /tmp/feeds
+          fetch_feed "iThome資安" "https://www.ithome.com.tw/rss/security" "/tmp/feeds/cn_sec_1.json"
+          fetch_feed "iThome" "https://www.ithome.com.tw/rss/" "/tmp/feeds/cn_sec_2.json"
+          fetch_feed "iThome" "https://www.ithome.com.tw/rss/" "/tmp/feeds/cn_tech_1.json"
+          fetch_feed "INSIDE" "https://www.inside.com.tw/feed/" "/tmp/feeds/cn_tech_2.json"
+          fetch_feed "TechOrange" "https://feeds.feedburner.com/techorange" "/tmp/feeds/cn_tech_3.json"
+          fetch_feed "TheHackerNews" "https://feeds.feedburner.com/TheHackersNews" "/tmp/feeds/en_sec_1.json"
+          fetch_feed "BleepingComputer" "https://www.bleepingcomputer.com/feed/" "/tmp/feeds/en_sec_2.json"
+          fetch_feed "TechCrunch" "https://techcrunch.com/feed/" "/tmp/feeds/en_tech_1.json"
+          fetch_feed "TheVerge" "https://www.theverge.com/rss/index.xml" "/tmp/feeds/en_tech_2.json"
+          fetch_feed "HKCERT" "https://www.hkcert.org/getrss/security-bulletin" "/tmp/feeds/cve_1.json"
 
-          # CN Security
-          for pair in "iThome資安|https://www.ithome.com.tw/rss/security" "iThome|https://www.ithome.com.tw/rss/"; do
-            SRC="${pair%%|*}"
-            URL="${pair#*|}"
-            RESULT=$(fetch_feed "$SRC" "$URL" "cn_sec" || echo "[]")
-            echo "$RESULT" > "/tmp/feeds/cn_sec_${RANDOM}.json"
-          done
+          echo "All feeds fetched."
 
-          # CN Tech
-          for pair in "iThome|https://www.ithome.com.tw/rss/" "INSIDE|https://www.inside.com.tw/feed/" "TechOrange|https://feeds.feedburner.com/techorange"; do
-            SRC="${pair%%|*}"
-            URL="${pair#*|}"
-            RESULT=$(fetch_feed "$SRC" "$URL" "cn_tech" || echo "[]")
-            echo "$RESULT" > "/tmp/feeds/cn_tech_${RANDOM}.json"
-          done
-
-          # EN Security
-          for pair in "TheHackerNews|https://feeds.feedburner.com/TheHackersNews" "BleepingComputer|https://www.bleepingcomputer.com/feed/"; do
-            SRC="${pair%%|*}"
-            URL="${pair#*|}"
-            RESULT=$(fetch_feed "$SRC" "$URL" "en_sec" || echo "[]")
-            echo "$RESULT" > "/tmp/feeds/en_sec_${RANDOM}.json"
-          done
-
-          # EN Tech
-          for pair in "TechCrunch|https://techcrunch.com/feed/" "TheVerge|https://www.theverge.com/rss/index.xml"; do
-            SRC="${pair%%|*}"
-            URL="${pair#*|}"
-            RESULT=$(fetch_feed "$SRC" "$URL" "en_tech" || echo "[]")
-            echo "$RESULT" > "/tmp/feeds/en_tech_${RANDOM}.json"
-          done
-
-          # HKCERT (Product Advisories)
-          RESULT=$(fetch_feed "HKCERT" "https://www.hkcert.org/getrss/security-bulletin" || echo "[]")
-          echo "$RESULT" > "/tmp/feeds/cve_0.json"
-
-          # Merge all into data.json
+      - name: Merge and write data.json
+        run: |
           python3 << 'PYEOF'
-          import json, glob, os
+          import json, glob
           from datetime import datetime, timezone
 
           tabs = {'cn_sec': [], 'cn_tech': [], 'en_sec': [], 'en_tech': [], 'cve': []}
-          
           for f in glob.glob('/tmp/feeds/*.json'):
               tab = f.split('/')[-1].rsplit('_', 1)[0]
               try:
@@ -148,7 +102,6 @@ jobs:
               except:
                   pass
 
-          # Dedupe within each tab (by normalized title)
           for tab in tabs:
               seen = set()
               unique = []
@@ -160,20 +113,15 @@ jobs:
                   unique.append(it)
               tabs[tab] = unique[:20]
 
-          # Cross-tab dedupe: if same title appears in cn_sec and cn_tech, keep in cn_sec only
           cn_sec_titles = set(it.get('title','').strip().lower() for it in tabs['cn_sec'])
           tabs['cn_tech'] = [it for it in tabs['cn_tech'] if it.get('title','').strip().lower() not in cn_sec_titles]
 
-          data = {
-              'ts': datetime.now(timezone.utc).isoformat(),
-              'tabs': tabs
-          }
-
+          data = {'ts': datetime.now(timezone.utc).isoformat(), 'tabs': tabs}
           with open('data.json', 'w', encoding='utf-8') as f:
               json.dump(data, f, ensure_ascii=False, indent=2)
 
           total = sum(len(v) for v in tabs.values())
-          print(f"Wrote data.json: {total} items across {len(tabs)} tabs")
+          print(f"Wrote data.json: {total} items")
           PYEOF
 
       - name: Commit and push
