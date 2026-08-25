@@ -35,7 +35,7 @@ QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零
 | Tab | 來源 |
 |-----|------|
 | 資安動態 | iThome 資安、iThome |
-| 科技前沿 | iThome、INSIDE、TechOrange |
+| 科技前沿 | iThome、TechOrange |
 | Security | The Hacker News、BleepingComputer |
 | Tech & AI | TechCrunch、The Verge |
 | Product Advisories | HKCERT Security Bulletin |

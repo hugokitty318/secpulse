@@ -113,7 +113,8 @@ body {
   transition: color .15s, border-color .15s;
 }
 .icon-btn:hover { color: var(--text); border-color: var(--text3); }
-.icon-btn.spinning { animation: spin .6s linear; }
+.icon-btn:disabled { opacity: .45; cursor: wait; }
+.icon-btn.spinning { animation: spin .8s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* Main */
@@ -270,6 +271,24 @@ body {
   color: var(--text3);
   font-size: 13px;
 }
+.loading-indicator {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+.loading-spinner {
+  width: 16px;
+  height: 16px;
+  border: 2px solid var(--border);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+}
+.content.is-refreshing {
+  opacity: .55;
+  pointer-events: none;
+  transition: opacity .15s;
+}
 .skeleton {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -340,6 +359,7 @@ const I18N = {
     theme: '\u5207\u63db\u4e3b\u984c',
     lang: 'EN',
     empty: '\u66ab\u7121\u8cc7\u6599\u3002\u4ee3\u7406\u670d\u52d9\u53ef\u80fd\u66ab\u6642\u4e0d\u7a69\u5b9a\uff0c\u8acb\u6309\u5237\u65b0\u518d\u8a66\u3002',
+    refreshing: '\u5237\u65b0\u4e2d...',
     error: '\u8f09\u5165\u5931\u6557\u3002\u8acb\u6aa2\u67e5\u7db2\u7d61\u3002',
     tabs: ['\u8cc7\u5b89\u52d5\u614b','\u79d1\u6280\u524d\u6cbf','Security','Tech & AI','Product Advisories'],
   },
@@ -355,6 +375,7 @@ const I18N = {
     theme: 'Toggle theme',
     lang: '\u7e41',
     empty: 'No data. Proxy services may be temporarily unavailable — try refresh.',
+    refreshing: 'Refreshing...',
     error: 'Failed to load. Check network.',
     tabs: ['Security CN','Tech CN','Security EN','Tech & AI','Product Advisories'],
   }
@@ -366,8 +387,12 @@ let searchQuery = '';
 let allData = {};
 let expanded = false;
 let lastFetchTs = 0;
+let isLoading = false;
+let loadProgress = 0;
+let loadTotal = 5;
 
 const TAB_KEYS = ['cn_sec', 'cn_tech', 'en_sec', 'en_tech', 'cve'];
+const SNAPSHOT_KEY = 'secPulse_snapshot';
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 function timeAgo(dateStr) {
@@ -391,7 +416,6 @@ const FEEDS = {
   ],
   cn_tech: [
     { name: 'iThome', url: 'https://www.ithome.com.tw/rss/' },
-    { name: 'INSIDE', url: 'https://www.inside.com.tw/feed/' },
     { name: 'TechOrange', url: 'https://feeds.feedburner.com/techorange' }
   ],
   en_sec: [
@@ -454,22 +478,66 @@ function parseRss(xml, source) {
 
 const NEWS_CACHE_TTL = 10 * 60 * 1000;
 function newsCacheKey(feed) { return 'secPulse_' + feed.url; }
-function getNewsCache(feed) {
+function getNewsCache(feed, allowStale = false) {
   try {
     const raw = localStorage.getItem(newsCacheKey(feed));
     if (!raw) return null;
     const obj = JSON.parse(raw);
-    if (Date.now() - obj.ts < NEWS_CACHE_TTL) return obj.items;
+    if (allowStale || Date.now() - obj.ts < NEWS_CACHE_TTL) return obj.items;
   } catch {}
   return null;
 }
 function setNewsCache(feed, items) {
   try { localStorage.setItem(newsCacheKey(feed), JSON.stringify({ ts: Date.now(), items })); } catch {}
 }
-function clearNewsCache() {
-  Object.values(FEEDS).flat().forEach(f => {
-    try { localStorage.removeItem(newsCacheKey(f)); } catch {}
-  });
+function hasAnyData(data = allData) {
+  return TAB_KEYS.some(k => (data[k] || []).length > 0);
+}
+function cloneTabs(tabs) {
+  const out = {};
+  TAB_KEYS.forEach(k => { out[k] = (tabs[k] || []).map(it => ({ ...it })); });
+  return out;
+}
+function saveSnapshot() {
+  if (!hasAnyData()) return;
+  try {
+    localStorage.setItem(SNAPSHOT_KEY, JSON.stringify({ ts: Date.now(), tabs: allData, lastFetchTs }));
+  } catch {}
+}
+function restoreSnapshot() {
+  try {
+    const raw = localStorage.getItem(SNAPSHOT_KEY);
+    if (!raw) return false;
+    const obj = JSON.parse(raw);
+    if (Date.now() - obj.ts > NEWS_CACHE_TTL || !obj.tabs) return false;
+    allData = obj.tabs;
+    lastFetchTs = obj.lastFetchTs || '';
+    return hasAnyData();
+  } catch { return false; }
+}
+function showContentSkeleton() {
+  document.getElementById('content').innerHTML =
+    '<div class="loading"><div class="loading-indicator"><span class="loading-spinner"></span><span>' +
+    esc(I18N[lang].loading) + '</span></div></div>';
+  document.getElementById('hlList').innerHTML =
+    '<div style="font-size:12px;color:var(--text3);padding:8px">' + esc(I18N[lang].loading) + '</div>';
+}
+function setLoadingUI(active, refreshing = false) {
+  isLoading = active;
+  const btn = document.getElementById('refreshBtn');
+  const content = document.getElementById('content');
+  btn.disabled = active;
+  btn.classList.toggle('spinning', active);
+  content.classList.toggle('is-refreshing', active && refreshing && hasAnyData());
+  const statusRight = document.getElementById('statusRight');
+  if (!active) {
+    statusRight.textContent = '';
+    return;
+  }
+  const label = refreshing ? I18N[lang].refreshing : I18N[lang].loading;
+  statusRight.textContent = loadProgress > 0
+    ? label + ' ' + loadProgress + '/' + loadTotal
+    : label;
 }
 function withTimeout(promise, ms) {
   return Promise.race([
@@ -489,6 +557,25 @@ async function fetchFeed(feed, skipCache = false) {
     if (cached) return cached;
   }
   const proxies = [
+    () => fetch('https://corsproxy.io/?url=' + encodeURIComponent(feed.url))
+      .then(r => { if (!r.ok) throw new Error('http'); return r.text(); })
+      .then(xml => {
+        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
+        return parseRss(xml, feed.name);
+      }),
+    () => fetch('https://api.allorigins.win/get?url=' + encodeURIComponent(feed.url))
+      .then(r => { if (!r.ok) throw new Error('http'); return r.json(); })
+      .then(data => {
+        const xml = data && data.contents;
+        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
+        return parseRss(xml, feed.name);
+      }),
+    () => fetch('https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(feed.url))
+      .then(r => { if (!r.ok) throw new Error('http'); return r.text(); })
+      .then(xml => {
+        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
+        return parseRss(xml, feed.name);
+      }),
     () => fetch('https://api.rss2json.com/v1/api.json?count=15&rss_url=' + encodeURIComponent(feed.url))
       .then(r => r.json()).then(data => {
         if (data && data.status === 'ok' && Array.isArray(data.items) && data.items.length) {
@@ -501,54 +588,77 @@ async function fetchFeed(feed, skipCache = false) {
           })), feed.name);
         }
         return null;
-      }),
-    () => fetch('https://api.allorigins.win/raw?url=' + encodeURIComponent(feed.url))
-      .then(r => r.text()).then(xml => {
-        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
-        return parseRss(xml, feed.name);
-      }),
-    () => fetch('https://corsproxy.io/?url=' + encodeURIComponent(feed.url))
-      .then(r => r.text()).then(xml => {
-        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
-        return parseRss(xml, feed.name);
       })
   ];
   try {
-    const winner = await Promise.any(proxies.map(p => withTimeout(tryProxy(p), 8000)));
+    const winner = await Promise.any(proxies.map(p => withTimeout(tryProxy(p), 6000)));
     if (winner && winner.length) {
-      if (!skipCache) setNewsCache(feed, winner);
+      setNewsCache(feed, winner);
       return winner;
     }
   } catch {}
-  return [];
+  return getNewsCache(feed, true) || [];
 }
 
-async function loadData(skipCache = false) {
-  const tabs = { cn_sec: [], cn_tech: [], en_sec: [], en_tech: [], cve: [] };
-  const promises = Object.keys(FEEDS).map(async key => {
-    const results = await Promise.allSettled(FEEDS[key].map(f => fetchFeed(f, skipCache)));
-    results.forEach(r => { if (r.status === 'fulfilled') tabs[key].push(...r.value); });
-  });
-  await Promise.all(promises);
-  for (const key of Object.keys(tabs)) {
+function processTabs(tabs) {
+  const next = cloneTabs(tabs);
+  for (const key of TAB_KEYS) {
     const seen = new Set();
-    tabs[key] = tabs[key]
+    next[key] = (next[key] || [])
       .sort((a, b) => (b.pubDate || '').localeCompare(a.pubDate || ''))
-      .filter(it => { const k = (it.title || '').trim().toLowerCase(); if (!k || seen.has(k)) return false; seen.add(k); return true; })
+      .filter(it => {
+        const k = (it.title || '').trim().toLowerCase();
+        if (!k || seen.has(k)) return false;
+        seen.add(k);
+        return true;
+      })
       .slice(0, 20);
   }
-  const cnSecTitles = new Set(tabs.cn_sec.map(it => (it.title || '').trim().toLowerCase()));
-  tabs.cn_tech = tabs.cn_tech.filter(it => !cnSecTitles.has((it.title || '').trim().toLowerCase()));
-  allData = tabs;
-  lastFetchTs = new Date().toISOString();
+  const cnSecTitles = new Set(next.cn_sec.map(it => (it.title || '').trim().toLowerCase()));
+  next.cn_tech = next.cn_tech.filter(it => !cnSecTitles.has((it.title || '').trim().toLowerCase()));
+  return next;
+}
+
+async function loadData({ skipCache = false, onProgress = null } = {}) {
+  const tabs = { cn_sec: [], cn_tech: [], en_sec: [], en_tech: [], cve: [] };
+  const backup = cloneTabs(allData);
+  const backupTs = lastFetchTs;
+  loadTotal = TAB_KEYS.length;
+  loadProgress = 0;
+
+  await Promise.all(TAB_KEYS.map(async key => {
+    const results = await Promise.allSettled(FEEDS[key].map(f => fetchFeed(f, skipCache)));
+    results.forEach(r => { if (r.status === 'fulfilled') tabs[key].push(...r.value); });
+    loadProgress += 1;
+    if (onProgress) {
+      allData = processTabs(tabs);
+      onProgress();
+    }
+  }));
+
+  const processed = processTabs(tabs);
+  if (hasAnyData(processed)) {
+    allData = processed;
+    lastFetchTs = new Date().toISOString();
+    saveSnapshot();
+  } else if (hasAnyData(backup)) {
+    allData = backup;
+    lastFetchTs = backupTs;
+  } else {
+    allData = processed;
+    lastFetchTs = new Date().toISOString();
+  }
 }
 
 async function refreshAll() {
-  document.getElementById('refreshBtn').classList.add('spinning');
-  clearNewsCache();
-  await loadData(true);
-  document.getElementById('refreshBtn').classList.remove('spinning');
-  render();
+  if (isLoading) return;
+  setLoadingUI(true, true);
+  try {
+    await loadData({ skipCache: true, onProgress: () => { setLoadingUI(true, true); render(); } });
+  } finally {
+    setLoadingUI(false);
+    render();
+  }
 }
 
 // ===== Render =====
@@ -562,6 +672,10 @@ function render() {
 function renderContent() {
   const key = TAB_KEYS[currentTab];
   const content = document.getElementById('content');
+  if (isLoading && !hasAnyData()) {
+    showContentSkeleton();
+    return;
+  }
   let items = allData[key] || [];
   if (searchQuery) {
     const q = searchQuery.toLowerCase();
@@ -620,6 +734,10 @@ function renderContent() {
 function renderHighlights() {
   const hlList = document.getElementById('hlList');
   document.getElementById('hlLabel').textContent = I18N[lang].todayHighlights;
+  if (isLoading && !hasAnyData()) {
+    hlList.innerHTML = '<div style="font-size:12px;color:var(--text3);padding:8px">' + esc(I18N[lang].loading) + '</div>';
+    return;
+  }
   const items = [];
   // CVE/advisories first
   (allData.cve || []).slice(0, 3).forEach(c => {
@@ -639,7 +757,8 @@ function renderHighlights() {
     });
   });
   if (items.length === 0) {
-    hlList.innerHTML = '<div style="font-size:12px;color:var(--text3);padding:8px">' + I18N[lang].loading + '</div>';
+    hlList.innerHTML = '<div style="font-size:12px;color:var(--text3);padding:8px">' +
+      esc(isLoading ? I18N[lang].loading : I18N[lang].empty) + '</div>';
     return;
   }
   hlList.innerHTML = items.slice(0, 5).map(it =>
@@ -667,7 +786,9 @@ function renderStatus() {
   let left = items.length + ' ' + I18N[lang].items;
   if (lastFetchTs) left += '  \u00b7  ' + I18N[lang].lastUpdated + ' ' + timeAgo(lastFetchTs);
   document.getElementById('statusLeft').textContent = left;
-  document.getElementById('statusRight').textContent = '';
+  if (!isLoading) {
+    document.getElementById('statusRight').textContent = '';
+  }
 }
 
 // ===== Init =====
@@ -702,8 +823,16 @@ function init() {
     }
   });
 
-  // Load data then render
-  loadData().then(() => render());
+  // Bootstrap: snapshot first for instant paint, then fetch fresh
+  render();
+  const hasSnapshot = restoreSnapshot();
+  if (hasSnapshot) render();
+  else showContentSkeleton();
+
+  setLoadingUI(true, false);
+  loadData({ onProgress: () => { setLoadingUI(true, false); render(); } })
+    .then(() => { setLoadingUI(false); render(); })
+    .catch(() => { setLoadingUI(false); render(); });
 }
 init();
 </script>
