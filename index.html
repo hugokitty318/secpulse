@@ -3,6 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#0f1117">
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="icon" type="image/svg+xml" href="favicon.svg">
+<link rel="apple-touch-icon" href="favicon.svg">
 <title>SecPulse — QA Security News</title>
 <style>
 :root {
@@ -133,7 +138,7 @@ body {
 
 /* Highlights */
 .highlights {
-  padding: 12px 24px;
+  padding: 10px 24px;
   border-bottom: 1px solid var(--border);
   flex-shrink: 0;
 }
@@ -142,7 +147,7 @@ body {
   font-weight: 600;
   letter-spacing: .5px;
   color: var(--text3);
-  margin-bottom: 8px;
+  margin-bottom: 6px;
 }
 [data-lang="en"] .hl-label {
   text-transform: uppercase;
@@ -150,21 +155,15 @@ body {
 .hl-list {
   display: flex;
   flex-direction: column;
-  gap: 5px;
-  max-height: 172px;
-  overflow-y: auto;
-  overflow-x: hidden;
-  padding-right: 2px;
+  gap: 4px;
 }
-.hl-list::-webkit-scrollbar { width: 4px; }
-.hl-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
 .hl-item {
   display: flex;
   align-items: center;
-  gap: 10px;
-  font-size: 13px;
-  padding: 7px 10px;
-  min-height: 34px;
+  gap: 8px;
+  font-size: 12px;
+  padding: 5px 10px;
+  min-height: 28px;
   background: var(--bg2);
   border-radius: 6px;
   border: 1px solid var(--border);
@@ -389,10 +388,7 @@ body {
     font-size: 13px;
   }
   .highlights {
-    padding: 10px 12px;
-  }
-  .hl-list {
-    max-height: 148px;
+    padding: 8px 12px;
   }
   .content {
     padding: 12px;
@@ -506,7 +502,7 @@ const I18N = {
     empty: 'No data available. Proxy services may be temporarily unavailable — try refreshing.',
     refreshing: 'Refreshing...',
     error: 'Failed to load. Please check your network connection.',
-    tabs: ['Taiwan Security', 'Taiwan Tech', 'Global Security', 'Global Tech', 'Advisories'],
+    tabs: ['Security', 'Technology', 'Cybersecurity', 'Tech & AI', 'Advisories'],
     risk: { critical: 'Critical', high: 'High Risk', medium: 'Medium Risk', low: 'Low Risk' },
     riskShort: { critical: 'Crit', high: 'High', medium: 'Med', low: 'Low' },
     timeNow: 'just now',
@@ -535,6 +531,7 @@ let loadTotal = 5;
 
 const TAB_KEYS = ['cn_sec', 'cn_tech', 'en_sec', 'en_tech', 'cve'];
 const SNAPSHOT_KEY = 'secPulse_snapshot';
+const HL_MAX = 3;
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 function sourceLabel(name) { return (I18N[lang].sources && I18N[lang].sources[name]) || name || ''; }
@@ -563,6 +560,8 @@ function updatePageMeta() {
   document.title = I18N[lang].pageTitle;
   document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
   document.body.dataset.lang = lang;
+  const meta = document.querySelector('meta[name="theme-color"]');
+  if (meta) meta.content = document.body.dataset.theme === 'light' ? '#fafafa' : '#0f1117';
 }
 
 // ===== Data Loading =====
@@ -896,7 +895,7 @@ function renderHighlights() {
   }
   const items = [];
   // CVE/advisories first
-  (allData.cve || []).slice(0, 3).forEach(c => {
+  (allData.cve || []).slice(0, 2).forEach(c => {
     const cls = (c.severity || 'medium').toLowerCase();
     const dotColor = cls === 'critical' ? 'var(--red)' : cls === 'high' ? 'var(--orange)' : 'var(--yellow)';
     const badgeCls = cls === 'critical' ? 'badge-critical' : cls === 'high' ? 'badge-high' : 'badge-medium';
@@ -909,9 +908,9 @@ function renderHighlights() {
   });
   // Top from other tabs
   TAB_KEYS.forEach(k => {
-    if (items.length >= 5) return;
-    (allData[k] || []).slice(0, 2).forEach(it => {
-      if (items.length < 5 && !items.find(x => x.title === it.title)) {
+    if (k === 'cve' || items.length >= HL_MAX) return;
+    (allData[k] || []).slice(0, 1).forEach(it => {
+      if (items.length < HL_MAX && !items.find(x => x.title === it.title)) {
         items.push({ dot: 'var(--accent)', badge: '', title: it.title, link: it.link });
       }
     });
@@ -921,7 +920,7 @@ function renderHighlights() {
       esc(isLoading ? I18N[lang].loading : I18N[lang].empty) + '</div>';
     return;
   }
-  hlList.innerHTML = items.slice(0, 5).map(it =>
+  hlList.innerHTML = items.slice(0, HL_MAX).map(it =>
     '<div class="hl-item">' +
     '<span class="hl-dot" style="background:' + it.dot + '"></span>' +
     '<a href="' + (/^https?:\/\//i.test(it.link||'') ? esc(it.link) : '#') + '" target="_blank" rel="noopener">' + esc(it.title) + '</a>' +
@@ -964,6 +963,7 @@ function init() {
     const isDark = document.body.dataset.theme === 'dark';
     document.body.dataset.theme = isDark ? 'light' : 'dark';
     document.getElementById('themeBtn').textContent = isDark ? '\u2600' : '\u263d';
+    updatePageMeta();
   };
   document.getElementById('langBtn').onclick = () => {
     lang = lang === 'zh' ? 'en' : 'zh';

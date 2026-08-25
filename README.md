@@ -24,7 +24,7 @@ QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零
 
 ## 部署
 
-1. 建 GitHub repo，push `index.html`（只需這一個檔案）
+1. 建 GitHub repo，push `index.html` 和 `favicon.svg`
 2. Repo → **Settings → Pages** → Source 選 `main` branch、root `/`
 3. 開啟 `https://<username>.github.io/<repo>/` 給 QA 查看
 
@@ -43,7 +43,8 @@ QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零
 ## 檔案結構
 
 ```
-├── index.html          # 前端（唯一必要檔案）
+├── index.html          # 前端
+├── favicon.svg         # 網站圖示（避免 iOS / GitHub 預設綠色圖示）
 └── README.md
 ```
 
