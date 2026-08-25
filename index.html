@@ -354,7 +354,7 @@ const I18N = {
     refresh: 'Refresh',
     theme: 'Toggle theme',
     lang: '\u7e41',
-    empty: 'No data yet. GitHub Actions is fetching feeds, please try again shortly.',
+    empty: 'No data. Feeds may be temporarily unavailable, try refresh.',
     error: 'Failed to load. Check network.',
     tabs: ['Security CN','Tech CN','Security EN','Tech & AI','Product Advisories'],
   }
@@ -384,16 +384,101 @@ function timeAgo(dateStr) {
 }
 
 // ===== Data Loading =====
-async function loadData() {
-  try {
-    const r = await fetch('data.json?t=' + Date.now(), { cache: 'no-store' });
-    if (!r.ok) throw new Error('http ' + r.status);
-    const data = await r.json();
-    lastFetchTs = data.ts || '';
-    allData = data.tabs || {};
-  } catch(e) {
-    console.error('loadData failed:', e);
+const FEEDS = {
+  cn_sec: [
+    { name: 'iThome資安', url: 'https://www.ithome.com.tw/rss/security' },
+    { name: 'iThome', url: 'https://www.ithome.com.tw/rss/' }
+  ],
+  cn_tech: [
+    { name: 'iThome', url: 'https://www.ithome.com.tw/rss/' },
+    { name: 'INSIDE', url: 'https://www.inside.com.tw/feed/' },
+    { name: 'TechOrange', url: 'https://feeds.feedburner.com/techorange' }
+  ],
+  en_sec: [
+    { name: 'TheHackerNews', url: 'https://feeds.feedburner.com/TheHackersNews' },
+    { name: 'BleepingComputer', url: 'https://www.bleepingcomputer.com/feed/' }
+  ],
+  en_tech: [
+    { name: 'TechCrunch', url: 'https://techcrunch.com/feed/' },
+    { name: 'TheVerge', url: 'https://www.theverge.com/rss/index.xml' }
+  ],
+  cve: [
+    { name: 'HKCERT', url: 'https://www.hkcert.org/getrss/security-bulletin' }
+  ]
+};
+
+function parseRss(xml, source) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xml, 'text/xml');
+  const items = [];
+  // RSS 2.0
+  doc.querySelectorAll('item').forEach(el => {
+    const title = (el.querySelector('title')?.textContent || '').trim();
+    const link = (el.querySelector('link')?.textContent || '').trim();
+    const pubDate = (el.querySelector('pubDate')?.textContent || '').trim();
+    const descRaw = (el.querySelector('description')?.textContent || '').trim();
+    const desc = descRaw.replace(/<[^>]*>/g, '').slice(0, 250);
+    if (title) items.push({ title, link, pubDate, description: desc, source });
+  });
+  // Atom fallback
+  if (items.length === 0) {
+    const ns = 'http://www.w3.org/2005/Atom';
+    doc.querySelectorAll('entry').forEach(el => {
+      const title = (el.getElementsByTagNameNS(ns, 'title')[0]?.textContent || el.querySelector('title')?.textContent || '').trim();
+      const linkEl = el.querySelector('link[rel="alternate"]') || el.querySelector('link');
+      const link = (linkEl?.getAttribute('href') || '').trim();
+      const pubDate = (el.getElementsByTagNameNS(ns, 'published')[0]?.textContent || el.getElementsByTagNameNS(ns, 'updated')[0]?.textContent || el.querySelector('published,updated')?.textContent || '').trim();
+      const descEl = el.getElementsByTagNameNS(ns, 'summary')[0] || el.getElementsByTagNameNS(ns, 'content')[0] || el.querySelector('summary,content');
+      const descRaw = (descEl?.textContent || '').trim();
+      const desc = descRaw.replace(/<[^>]*>/g, '').slice(0, 250);
+      if (title) items.push({ title, link, pubDate, description: desc, source });
+    });
   }
+  // HKCERT special
+  if (source === 'HKCERT') {
+    items.forEach(it => {
+      const d = it.description || '';
+      let sev = 'medium';
+      if (/critical|極高/i.test(d)) sev = 'critical';
+      else if (/high risk|高度/i.test(d)) sev = 'high';
+      const cves = [...d.matchAll(/CVE-\d{4}-\d+/g)].map(m => m[0]);
+      it.severity = sev;
+      it.cveIds = [...new Set(cves)].join(', ');
+      it.products = it.title.replace('Multiple Vulnerabilities', '').trim();
+    });
+  }
+  return items.slice(0, 15);
+}
+
+async function fetchFeed(feed) {
+  const proxyUrl = 'https://r.jina.ai/' + feed.url;
+  const r = await fetch(proxyUrl, { headers: { 'Accept': 'text/plain' } });
+  if (!r.ok) throw new Error('http ' + r.status);
+  const text = await r.text();
+  if (!text || !/<rss|<feed|<item|<entry/i.test(text)) throw new Error('not xml');
+  return parseRss(text, feed.name);
+}
+
+async function loadData() {
+  const tabs = { cn_sec: [], cn_tech: [], en_sec: [], en_tech: [], cve: [] };
+  const promises = Object.keys(FEEDS).map(async key => {
+    const results = await Promise.allSettled(FEEDS[key].map(f => fetchFeed(f)));
+    results.forEach(r => { if (r.status === 'fulfilled') tabs[key].push(...r.value); });
+  });
+  await Promise.all(promises);
+  // Dedupe within tab
+  for (const key of Object.keys(tabs)) {
+    const seen = new Set();
+    tabs[key] = tabs[key]
+      .sort((a, b) => (b.pubDate || '').localeCompare(a.pubDate || ''))
+      .filter(it => { const k = (it.title || '').trim().toLowerCase(); if (!k || seen.has(k)) return false; seen.add(k); return true; })
+      .slice(0, 20);
+  }
+  // Cross-tab dedupe
+  const cnSecTitles = new Set(tabs.cn_sec.map(it => (it.title || '').trim().toLowerCase()));
+  tabs.cn_tech = tabs.cn_tech.filter(it => !cnSecTitles.has((it.title || '').trim().toLowerCase()));
+  allData = tabs;
+  lastFetchTs = new Date().toISOString();
 }
 
 async function refreshAll() {
