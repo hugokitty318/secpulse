@@ -63,6 +63,7 @@ body {
   gap: 2px;
   margin-left: 12px;
   flex: 1;
+  min-width: 0;
 }
 .tab {
   padding: 6px 14px;
@@ -80,6 +81,7 @@ body {
   display: flex;
   align-items: center;
   gap: 8px;
+  flex-shrink: 0;
 }
 .search-wrap { position: relative; }
 .search-input {
@@ -312,6 +314,72 @@ body {
   justify-content: space-between;
   height: 28px;
   align-items: center;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .header {
+    flex-wrap: wrap;
+    height: auto;
+    padding: 10px 12px;
+    gap: 8px;
+    row-gap: 6px;
+  }
+  .logo {
+    font-size: 14px;
+  }
+  .header-actions {
+    margin-left: auto;
+    flex-shrink: 0;
+    gap: 6px;
+  }
+  .tabs {
+    order: 3;
+    flex: 1 1 100%;
+    width: 100%;
+    min-width: 0;
+    margin-left: 0;
+    overflow-x: auto;
+    overflow-y: hidden;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    gap: 0;
+    padding-bottom: 2px;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    flex-shrink: 0;
+    padding: 6px 10px;
+    font-size: 12px;
+  }
+  .search-input {
+    width: 110px;
+    min-width: 0;
+  }
+  .search-input:focus {
+    width: 130px;
+  }
+  .icon-btn {
+    width: 30px;
+    height: 30px;
+    font-size: 13px;
+  }
+  .main {
+    height: calc(100dvh - 96px);
+  }
+  .highlights {
+    padding: 10px 12px;
+    max-height: 120px;
+  }
+  .content {
+    padding: 12px;
+  }
+  .cards-grid {
+    grid-template-columns: 1fr;
+  }
+  .status-bar {
+    padding: 6px 12px;
+  }
 }
 </style>
 </head>
