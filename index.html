@@ -35,6 +35,9 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html, body { height: 100%; overflow: hidden; }
 body {
+  display: flex;
+  flex-direction: column;
+  height: 100dvh;
   font-family: -apple-system, 'SF Pro Display', 'Segoe UI', system-ui, sans-serif;
   background: var(--bg);
   color: var(--text);
@@ -49,7 +52,7 @@ body {
   gap: 16px;
   padding: 14px 24px;
   border-bottom: 1px solid var(--border);
-  height: 52px;
+  flex-shrink: 0;
 }
 .logo {
   font-size: 15px;
@@ -123,7 +126,8 @@ body {
 .main {
   display: flex;
   flex-direction: column;
-  height: calc(100vh - 52px);
+  flex: 1;
+  min-height: 0;
   overflow: hidden;
 }
 
@@ -131,32 +135,53 @@ body {
 .highlights {
   padding: 12px 24px;
   border-bottom: 1px solid var(--border);
-  max-height: 140px;
-  overflow: hidden;
   flex-shrink: 0;
 }
 .hl-label {
   font-size: 11px;
   font-weight: 600;
-  text-transform: uppercase;
   letter-spacing: .5px;
   color: var(--text3);
   margin-bottom: 8px;
 }
-.hl-list { display: flex; flex-direction: column; gap: 4px; }
+[data-lang="en"] .hl-label {
+  text-transform: uppercase;
+}
+.hl-list {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  max-height: 172px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 2px;
+}
+.hl-list::-webkit-scrollbar { width: 4px; }
+.hl-list::-webkit-scrollbar-thumb { background: var(--border); border-radius: 2px; }
 .hl-item {
   display: flex;
   align-items: center;
   gap: 10px;
   font-size: 13px;
-  padding: 4px 10px;
+  padding: 7px 10px;
+  min-height: 34px;
   background: var(--bg2);
   border-radius: 6px;
   border: 1px solid var(--border);
   transition: border-color .15s;
 }
 .hl-item:hover { border-color: var(--text3); }
-.hl-item a { color: var(--text); text-decoration: none; flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.hl-item a {
+  color: var(--text);
+  text-decoration: none;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  line-height: 1.45;
+  padding: 1px 0;
+}
 .hl-item a:hover { color: var(--accent); }
 .hl-dot { width: 7px; height: 7px; border-radius: 50%; flex-shrink: 0; }
 .hl-badge {
@@ -320,7 +345,6 @@ body {
 @media (max-width: 768px) {
   .header {
     flex-wrap: wrap;
-    height: auto;
     padding: 10px 12px;
     gap: 8px;
     row-gap: 6px;
@@ -364,26 +388,46 @@ body {
     height: 30px;
     font-size: 13px;
   }
-  .main {
-    height: calc(100dvh - 96px);
-  }
   .highlights {
     padding: 10px 12px;
-    max-height: 120px;
+  }
+  .hl-list {
+    max-height: 148px;
   }
   .content {
     padding: 12px;
   }
-  .cards-grid {
+  .cards-grid,
+  .skeleton {
     grid-template-columns: 1fr;
   }
   .status-bar {
     padding: 6px 12px;
   }
 }
+
+/* Tablet */
+@media (min-width: 769px) and (max-width: 1100px) {
+  .header {
+    flex-wrap: wrap;
+    padding: 12px 16px;
+    row-gap: 8px;
+  }
+  .tabs {
+    order: 3;
+    flex: 1 1 100%;
+    margin-left: 0;
+    overflow-x: auto;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab { flex-shrink: 0; }
+  .search-input { width: 150px; }
+  .search-input:focus { width: 170px; }
+}
 </style>
 </head>
-<body data-theme="dark">
+<body data-theme="dark" data-lang="zh">
 
 <div class="header">
   <div class="logo">Sec<span>Pulse</span></div>
@@ -416,36 +460,66 @@ body {
 <script>
 const I18N = {
   zh: {
-    search: '\u641c\u5c0b\u6a19\u984c...',
-    todayHighlights: '\u4eca\u65e5\u91cd\u9ede',
-    loading: '\u8f09\u5165\u4e2d...',
-    loadMore: '\u67e5\u770b\u66f4\u591a \u2193',
-    showLess: '\u6536\u8d77 \u2191',
-    items: '\u689d',
-    lastUpdated: '\u66f4\u65b0\u65bc',
-    refresh: '\u5237\u65b0',
-    theme: '\u5207\u63db\u4e3b\u984c',
+    pageTitle: 'SecPulse — QA 資安新聞',
+    search: '搜尋標題...',
+    todayHighlights: '今日重點',
+    loading: '載入中...',
+    loadMore: '查看更多 ↓',
+    showLess: '收起 ↑',
+    items: '則',
+    lastUpdated: '更新於',
+    refresh: '重新整理',
+    theme: '切換主題',
     lang: 'EN',
-    empty: '\u66ab\u7121\u8cc7\u6599\u3002\u4ee3\u7406\u670d\u52d9\u53ef\u80fd\u66ab\u6642\u4e0d\u7a69\u5b9a\uff0c\u8acb\u6309\u5237\u65b0\u518d\u8a66\u3002',
-    refreshing: '\u5237\u65b0\u4e2d...',
-    error: '\u8f09\u5165\u5931\u6557\u3002\u8acb\u6aa2\u67e5\u7db2\u7d61\u3002',
-    tabs: ['\u8cc7\u5b89\u52d5\u614b','\u79d1\u6280\u524d\u6cbf','Security','Tech & AI','Product Advisories'],
+    langSwitch: '切換為英文',
+    empty: '暫無資料。代理服務可能暫時不穩定，請按重新整理再試。',
+    refreshing: '重新整理中...',
+    error: '載入失敗，請檢查網路連線。',
+    tabs: ['資安動態', '科技前沿', '國際資安', '國際科技', '漏洞公告'],
+    risk: { critical: '極高風險', high: '高度風險', medium: '中度風險', low: '低度風險' },
+    riskShort: { critical: '極高', high: '高', medium: '中', low: '低' },
+    timeNow: '剛剛',
+    sources: {
+      'iThome資安': 'iThome 資安',
+      'iThome': 'iThome',
+      'TechOrange': '科技報橘',
+      'TheHackerNews': 'The Hacker News',
+      'BleepingComputer': 'BleepingComputer',
+      'TechCrunch': 'TechCrunch',
+      'TheVerge': 'The Verge',
+      'HKCERT': 'HKCERT'
+    }
   },
   en: {
+    pageTitle: 'SecPulse — QA Security News',
     search: 'Search headlines...',
     todayHighlights: "Today's Highlights",
     loading: 'Loading...',
-    loadMore: 'Show more \u2193',
-    showLess: 'Show less \u2191',
+    loadMore: 'Show more ↓',
+    showLess: 'Show less ↑',
     items: 'items',
     lastUpdated: 'Updated',
     refresh: 'Refresh',
     theme: 'Toggle theme',
-    lang: '\u7e41',
-    empty: 'No data. Proxy services may be temporarily unavailable — try refresh.',
+    lang: '繁',
+    langSwitch: 'Switch to Chinese',
+    empty: 'No data available. Proxy services may be temporarily unavailable — try refreshing.',
     refreshing: 'Refreshing...',
-    error: 'Failed to load. Check network.',
-    tabs: ['Security CN','Tech CN','Security EN','Tech & AI','Product Advisories'],
+    error: 'Failed to load. Please check your network connection.',
+    tabs: ['Taiwan Security', 'Taiwan Tech', 'Global Security', 'Global Tech', 'Advisories'],
+    risk: { critical: 'Critical', high: 'High Risk', medium: 'Medium Risk', low: 'Low Risk' },
+    riskShort: { critical: 'Crit', high: 'High', medium: 'Med', low: 'Low' },
+    timeNow: 'just now',
+    sources: {
+      'iThome資安': 'iThome Security',
+      'iThome': 'iThome',
+      'TechOrange': 'TechOrange',
+      'TheHackerNews': 'The Hacker News',
+      'BleepingComputer': 'BleepingComputer',
+      'TechCrunch': 'TechCrunch',
+      'TheVerge': 'The Verge',
+      'HKCERT': 'HKCERT'
+    }
   }
 };
 
@@ -463,17 +537,32 @@ const TAB_KEYS = ['cn_sec', 'cn_tech', 'en_sec', 'en_tech', 'cve'];
 const SNAPSHOT_KEY = 'secPulse_snapshot';
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function sourceLabel(name) { return (I18N[lang].sources && I18N[lang].sources[name]) || name || ''; }
+function riskLabel(severity) {
+  const cls = (severity || 'medium').toLowerCase();
+  return I18N[lang].risk[cls] || I18N[lang].risk.medium;
+}
+function riskShortLabel(severity) {
+  const cls = (severity || 'medium').toLowerCase();
+  return I18N[lang].riskShort[cls] || I18N[lang].riskShort.medium;
+}
 function timeAgo(dateStr) {
   if (!dateStr) return '';
   const d = new Date(dateStr);
   if (isNaN(d)) return '';
   const diff = Date.now() - d.getTime();
   const m = Math.floor(diff / 60000);
-  if (m < 1) return 'now';
-  if (m < 60) return m + 'm';
+  if (m < 1) return I18N[lang].timeNow;
+  if (m < 60) return lang === 'zh' ? m + ' 分鐘前' : m + 'm ago';
   const h = Math.floor(m / 60);
-  if (h < 24) return h + 'h';
-  return Math.floor(h / 24) + 'd';
+  if (h < 24) return lang === 'zh' ? h + ' 小時前' : h + 'h ago';
+  const days = Math.floor(h / 24);
+  return lang === 'zh' ? days + ' 天前' : days + 'd ago';
+}
+function updatePageMeta() {
+  document.title = I18N[lang].pageTitle;
+  document.documentElement.lang = lang === 'zh' ? 'zh-Hant' : 'en';
+  document.body.dataset.lang = lang;
 }
 
 // ===== Data Loading =====
@@ -761,16 +850,15 @@ function renderContent() {
     const safeLink = /^https?:\/\//i.test(String(item.link || '').trim());
     if (isCve) {
       const cls = (item.severity || 'medium').toLowerCase();
-      const riskZh = cls === 'critical' ? '\u6975\u9ad8\u98a8\u96aa' : cls === 'high' ? '\u9ad8\u5ea6\u98a8\u96aa' : cls === 'medium' ? '\u4e2d\u5ea6\u98a8\u96aa' : '\u4f4e\u5ea6\u98a8\u96aa';
-      const riskEn = cls === 'critical' ? 'Critical' : cls === 'high' ? 'High Risk' : cls === 'medium' ? 'Medium Risk' : 'Low Risk';
       const badgeCls = cls === 'critical' ? 'cvss-critical' : cls === 'high' ? 'cvss-high' : cls === 'medium' ? 'cvss-medium' : 'cvss-low';
-      const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString('zh-TW', {year:'numeric',month:'long',day:'numeric'}) : '';
+      const locale = lang === 'zh' ? 'zh-TW' : 'en-US';
+      const dateStr = item.pubDate ? new Date(item.pubDate).toLocaleDateString(locale, { year: 'numeric', month: 'long', day: 'numeric' }) : '';
       const metaParts = [];
       if (item.cveIds) metaParts.push(item.cveIds);
       if (item.products) metaParts.push(item.products);
       html += '<div class="news-card' + (expanded ? ' expanded' : '') + '" data-link="' + esc(item.link) + '">' +
         '<div class="nc-top">' +
-        '<span class="cvss-score ' + badgeCls + '">' + riskZh + ' ' + riskEn + '</span>' +
+        '<span class="cvss-score ' + badgeCls + '">' + esc(riskLabel(cls)) + '</span>' +
         '<span class="nc-time">' + dateStr + '</span>' +
         '</div>' +
         '<div class="nc-title"><a href="' + (safeLink ? esc(item.link) : '#') + '" target="_blank" rel="noopener">' + esc(item.title) + '</a></div>' +
@@ -780,7 +868,7 @@ function renderContent() {
     } else {
       html += '<div class="news-card' + (expanded ? ' expanded' : '') + '" data-link="' + esc(item.link) + '">' +
         '<div class="nc-top">' +
-        '<span class="nc-source">' + esc(item.source) + '</span>' +
+        '<span class="nc-source">' + esc(sourceLabel(item.source)) + '</span>' +
         '<span class="nc-time">' + timeAgo(item.pubDate) + '</span>' +
         '</div>' +
         '<div class="nc-title"><a href="' + (safeLink ? esc(item.link) : '#') + '" target="_blank" rel="noopener">' + esc(item.title) + '</a></div>' +
@@ -812,8 +900,12 @@ function renderHighlights() {
     const cls = (c.severity || 'medium').toLowerCase();
     const dotColor = cls === 'critical' ? 'var(--red)' : cls === 'high' ? 'var(--orange)' : 'var(--yellow)';
     const badgeCls = cls === 'critical' ? 'badge-critical' : cls === 'high' ? 'badge-high' : 'badge-medium';
-    const riskShort = cls === 'critical' ? '\u6975\u9ad8' : cls === 'high' ? 'High' : 'Med';
-    items.push({ dot: dotColor, badge: '<span class="hl-badge ' + badgeCls + '">' + riskShort + '</span>', title: c.title, link: c.link });
+    items.push({
+      dot: dotColor,
+      badge: '<span class="hl-badge ' + badgeCls + '">' + esc(riskShortLabel(cls)) + '</span>',
+      title: c.title,
+      link: c.link
+    });
   });
   // Top from other tabs
   TAB_KEYS.forEach(k => {
@@ -862,9 +954,11 @@ function renderStatus() {
 // ===== Init =====
 function init() {
   const t = I18N[lang];
+  updatePageMeta();
   document.getElementById('searchInput').placeholder = t.search;
   document.getElementById('themeBtn').title = t.theme;
   document.getElementById('refreshBtn').title = t.refresh;
+  document.getElementById('langBtn').title = t.langSwitch;
 
   document.getElementById('themeBtn').onclick = () => {
     const isDark = document.body.dataset.theme === 'dark';
@@ -874,8 +968,12 @@ function init() {
   document.getElementById('langBtn').onclick = () => {
     lang = lang === 'zh' ? 'en' : 'zh';
     const t = I18N[lang];
+    updatePageMeta();
     document.getElementById('searchInput').placeholder = t.search;
     document.getElementById('langBtn').textContent = t.lang;
+    document.getElementById('langBtn').title = t.langSwitch;
+    document.getElementById('refreshBtn').title = t.refresh;
+    document.getElementById('themeBtn').title = t.theme;
     render();
   };
   document.getElementById('refreshBtn').onclick = refreshAll;
