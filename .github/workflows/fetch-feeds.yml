@@ -104,7 +104,7 @@ jobs:
           print(f"Total: {sum(len(v) for v in tabs.values())} items")
           EOF
 
-           - name: Commit
+      - name: Commit
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -117,4 +117,3 @@ jobs:
             git commit -m "feeds $(date -u +%H:%M)"
             git push "https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git" HEAD:main
           fi
-
