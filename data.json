@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T18:54:12.257122Z",
+  "ts": "2026-09-01T21:45:04.132612Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,6 +287,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+        "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400",
+        "description": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Aesto Health says data breach affects over 9.5 million patients",
+        "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+        "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400",
+        "description": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
         "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
         "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530",
@@ -376,23 +390,51 @@
         "pubDate": "Mon, 31 Aug 2026 17:44:00 +0530",
         "description": "The threat actor known as Silver Fox has been observed distributing the ValleyRAT backdoor disguised as a signed Chinese adware application, running the malware under a trusted process to slip past users who add such software to their antivirus exclu",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Aurora Ransomware Operators Use Cursor AI in Attacks Against 10 Targets",
-        "link": "https://thehackernews.com/2026/08/aurora-ransomware-operators-use-cursor.html",
-        "pubDate": "Mon, 31 Aug 2026 17:17:24 +0530",
-        "description": "Threat actors associated with Aurora (aka Aur0ra) ransomware have been observed using SpaceX's artificial intelligence (AI)-powered coding assistant Cursor to break into target networks, according to findings from CloudSEK and Gambit Security.\n\nThe t",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Securing Claude Code: The New Compliance API, Local Visibility, and Identity Governance",
-        "link": "https://thehackernews.com/2026/08/securing-claude-code-new-compliance-api.html",
-        "pubDate": "Mon, 31 Aug 2026 17:01:47 +0530",
-        "description": "Claude Code reads files, runs shell commands, invokes MCP tools, and acts through the credentials available on a developer’s machine. Anthropic’s new Compliance API endpoints give security teams their clearest view yet into that activity. They also e",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+        "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
+        "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+        "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
+        "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X says attackers are targeting user accounts after the launch of X Money",
+        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
+        "pubDate": "Tue, 01 Sep 2026 20:48:32 +0000",
+        "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
+        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+        "pubDate": "Tue, 01 Sep 2026 19:45:28 +0000",
+        "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+        "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
+        "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
+        "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
+        "pubDate": "Tue, 01 Sep 2026 19:30:24 +0000",
+        "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Who is John Ternus, the new Apple CEO?",
         "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
@@ -457,80 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Fambot introduces an ‘AI chief of staff’ for families",
-        "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
-        "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
-        "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Florida and Texas move to block Flock cameras over privacy concerns",
-        "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
-        "pubDate": "Tue, 01 Sep 2026 15:00:10 +0000",
-        "description": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
-        "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
-        "pubDate": "Tue, 01 Sep 2026 14:52:12 +0000",
-        "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego, and Tampa",
-        "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
-        "pubDate": "Tue, 01 Sep 2026 14:20:44 +0000",
-        "description": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
-        "pubDate": "Tue, 01 Sep 2026 14:03:00 +0000",
-        "description": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
-        "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
-        "pubDate": "Tue, 01 Sep 2026 13:58:42 +0000",
-        "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "John Ternus sends first memo as Apple CEO teasing a &#8216;huge launch next week&#8217;",
-        "link": "https://www.theverge.com/tech/987583/apple-john-ternus-staff-memo",
-        "pubDate": "2026-09-01T14:24:16-04:00",
-        "description": "New Apple CEO John Ternus sent out his first staff memo, thanking his predecessor Tim Cook, and quickly turning to what the company will do next, reports Bloomberg. \"We have a huge launch next week that's going to be phenomenal. Thanks for everything",
+        "title": "Apple Maps follows Google in renaming Lake Ontario",
+        "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+        "pubDate": "2026-09-01T17:22:56-04:00",
+        "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade",
         "source": "TheVerge"
       },
       {
-        "title": "Apple accuses OpenAI of destroying evidence",
-        "link": "https://www.theverge.com/tech/987575/apple-openai-destroying-evidence-trade-secrets-lawsuit",
-        "pubDate": "2026-09-01T14:19:26-04:00",
-        "description": "Apple is pushing for \"expedited discovery\" in its legal battle against OpenAI over concerns the company is actively destroying evidence, as reported earlier by Bloomberg. In a filing on Monday, Apple alleges OpenAI only just handed over a MacBook use",
+        "title": "Lenovo&#8217;s 2-in-1 Yoga 7i is a great Labor Day deal at $750",
+        "link": "https://www.theverge.com/gadgets/987670/lenovo-yoga-7i-2in1-deal-sale",
+        "pubDate": "2026-09-01T16:54:08-04:00",
+        "description": "Best Buy is celebrating Labor Day all week long with big deals, including a deep discount on the Lenovo Yoga 7i 2-in-1, taking its original $1,1199.99 price down to $749.99. It’s a capable configuration for the price, with a Core 7 Ultra 256V process",
         "source": "TheVerge"
       },
       {
-        "title": "Google Find Hub will soon help you locate things without a tracker",
-        "link": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-        "pubDate": "2026-09-01T14:00:00-04:00",
-        "description": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness ",
+        "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+        "pubDate": "2026-09-01T16:45:49-04:00",
+        "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In Jul",
         "source": "TheVerge"
       },
       {
-        "title": "Homey just made the smart home controller I hoped Apple would build",
-        "link": "https://www.theverge.com/tech/987462/homey-lg-smart-portal-smart-home-controller-price-specs-release-date",
-        "pubDate": "2026-09-01T13:00:00-04:00",
-        "description": "Smart homes have gotten really good at making things really complicated. Turning on a light can involve multiple steps, compared to just flipping a switch. Homey, the Dutch-based smart home platform owned by LG, thinks it has a solution. This week it",
+        "title": "On first listen, the Sonos Beam Ultra sounds great",
+        "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+        "pubDate": "2026-09-01T16:08:38-04:00",
+        "description": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung’s Galaxy Z Fold 8 Ultra hits its lowest price since launch",
-        "link": "https://www.theverge.com/gadgets/987490/galaxy-z-fold-8-ultra-remarkable-paper-pro-move-deal-sale",
-        "pubDate": "2026-09-01T12:48:45-04:00",
-        "description": "If you missed the release promotions for the recent round of Samsung Galaxy phones, you’re in luck. The Samsung Galaxy Z Fold 8 Ultra is $300 off at Best Buy, the best deal we’ve seen since the phone launched last month. The phone impressed us with i",
+        "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
+        "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
+        "pubDate": "2026-09-01T15:43:39-04:00",
+        "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from ",
         "source": "TheVerge"
       }
     ],
