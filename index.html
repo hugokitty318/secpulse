@@ -468,7 +468,7 @@ const I18N = {
     theme: '切換主題',
     lang: 'EN',
     langSwitch: '切換為英文',
-    empty: '暫無資料。代理服務可能暫時不穩定，請按重新整理再試。',
+    empty: '暫無資料。請確認 data.json 已部署，或稍後再試。',
     refreshing: '重新整理中...',
     error: '載入失敗，請檢查網路連線。',
     tabs: ['資安動態', '科技前沿', '國際資安', '國際科技', '漏洞公告'],
@@ -499,7 +499,7 @@ const I18N = {
     theme: 'Toggle theme',
     lang: '繁',
     langSwitch: 'Switch to Chinese',
-    empty: 'No data available. Proxy services may be temporarily unavailable — try refreshing.',
+    empty: 'No data available. Ensure data.json is deployed, or try again later.',
     refreshing: 'Refreshing...',
     error: 'Failed to load. Please check your network connection.',
     tabs: ['Security', 'Technology', 'Cybersecurity', 'Tech & AI', 'Advisories'],
@@ -707,17 +707,45 @@ async function tryProxy(fn) {
   throw new Error('empty');
 }
 
+function parseJinaMarkdown(text, source) {
+  const items = [];
+  const re = /### \[([^\]]+)\]\((https?:\/\/[^)]+)\)[^\n]*\n(?:\[[^\]]+\]\([^)]+\)[^\n]*\n)?([^\n#]+)?/g;
+  let m;
+  while ((m = re.exec(text)) !== null && items.length < 15) {
+    const title = (m[1] || '').trim();
+    const link = (m[2] || '').trim();
+    const pubDate = (m[3] || '').trim();
+    if (title && link) items.push({ title, link, pubDate, description: '', source });
+  }
+  return finalizeItems(items, source);
+}
+
+async function loadStaticJson(force = false) {
+  try {
+    const r = await fetch('data.json?t=' + Date.now(), { cache: force ? 'no-store' : 'default' });
+    if (!r.ok) return false;
+    const data = await r.json();
+    if (!data || !data.tabs || !hasAnyData(data.tabs)) return false;
+    allData = data.tabs;
+    lastFetchTs = data.ts || '';
+    saveSnapshot();
+    return true;
+  } catch {}
+  return false;
+}
+
 async function fetchFeed(feed, skipCache = false) {
   if (!skipCache) {
     const cached = getNewsCache(feed);
     if (cached) return cached;
   }
   const proxies = [
-    () => fetch('https://corsproxy.io/?url=' + encodeURIComponent(feed.url))
+    () => fetch('https://r.jina.ai/' + feed.url, { headers: { 'Accept': 'text/plain' } })
       .then(r => { if (!r.ok) throw new Error('http'); return r.text(); })
-      .then(xml => {
-        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
-        return parseRss(xml, feed.name);
+      .then(text => {
+        if (text && /### \[[^\]]+\]\(https?:\/\//.test(text)) return parseJinaMarkdown(text, feed.name);
+        if (text && /<rss|<feed|<item|<entry/i.test(text)) return parseRss(text, feed.name);
+        return null;
       }),
     () => fetch('https://api.allorigins.win/get?url=' + encodeURIComponent(feed.url))
       .then(r => { if (!r.ok) throw new Error('http'); return r.json(); })
@@ -725,29 +753,10 @@ async function fetchFeed(feed, skipCache = false) {
         const xml = data && data.contents;
         if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
         return parseRss(xml, feed.name);
-      }),
-    () => fetch('https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(feed.url))
-      .then(r => { if (!r.ok) throw new Error('http'); return r.text(); })
-      .then(xml => {
-        if (!xml || !/<rss|<feed|<item|<entry/i.test(xml)) return null;
-        return parseRss(xml, feed.name);
-      }),
-    () => fetch('https://api.rss2json.com/v1/api.json?count=15&rss_url=' + encodeURIComponent(feed.url))
-      .then(r => r.json()).then(data => {
-        if (data && data.status === 'ok' && Array.isArray(data.items) && data.items.length) {
-          return finalizeItems(data.items.slice(0, 15).map(it => ({
-            title: it.title || '',
-            link: it.link || '',
-            pubDate: it.pubDate || '',
-            description: it.description || '',
-            source: feed.name
-          })), feed.name);
-        }
-        return null;
       })
   ];
   try {
-    const winner = await Promise.any(proxies.map(p => withTimeout(tryProxy(p), 6000)));
+    const winner = await Promise.any(proxies.map(p => withTimeout(tryProxy(p), 10000)));
     if (winner && winner.length) {
       setNewsCache(feed, winner);
       return winner;
@@ -775,7 +784,7 @@ function processTabs(tabs) {
   return next;
 }
 
-async function loadData({ skipCache = false, onProgress = null } = {}) {
+async function loadLiveFeeds({ skipCache = false, onProgress = null } = {}) {
   const tabs = { cn_sec: [], cn_tech: [], en_sec: [], en_tech: [], cve: [] };
   const backup = cloneTabs(allData);
   const backupTs = lastFetchTs;
@@ -806,10 +815,27 @@ async function loadData({ skipCache = false, onProgress = null } = {}) {
   }
 }
 
+async function loadData({ skipCache = false, onProgress = null } = {}) {
+  if (!skipCache && await loadStaticJson()) return;
+
+  const backup = cloneTabs(allData);
+  const backupTs = lastFetchTs;
+  await loadLiveFeeds({ skipCache, onProgress });
+
+  if (!hasAnyData()) {
+    if (await loadStaticJson(true)) return;
+    if (hasAnyData(backup)) {
+      allData = backup;
+      lastFetchTs = backupTs;
+    }
+  }
+}
+
 async function refreshAll() {
   if (isLoading) return;
   setLoadingUI(true, true);
   try {
+    if (await loadStaticJson(true)) return;
     await loadData({ skipCache: true, onProgress: () => { setLoadingUI(true, true); render(); } });
   } finally {
     setLoadingUI(false);
