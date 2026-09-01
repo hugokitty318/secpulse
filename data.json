@@ -1,7 +1,28 @@
 {
-  "ts": "2026-09-01T05:52:07.440102Z",
+  "ts": "2026-09-01T11:34:59.396219Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "勒索軟體Aurora同時借助Cursor AI與Claude Sonnet的力量，鎖定ESXi環境加密檔案",
+        "link": "https://www.ithome.com.tw/news/178592",
+        "pubDate": "2026-09-01 16:41",
+        "description": "資安公司Gambit Security指出，勒索軟體Aurora鎖定虛擬化環境ESXi，借助Cursor AI與Claude Sonnet的力量入侵及加密檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "勒索軟體Aurora濫用Cursor AI從事攻擊活動",
+        "link": "https://www.ithome.com.tw/news/178583",
+        "pubDate": "2026-09-01 15:53",
+        "description": "資安公司CloudSEK揭露勒索軟體Aurora活動，指出駭客利用AI程式碼助手Cursor規畫了能重複執行的攻擊行動，並在3個月的時間裡有超過20家受害組織，且有部分已支付贖金",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月1日，AI生成詐騙內容成新威脅，數發部與Meta、Google等四大平臺聯手建立源頭阻詐防線",
+        "link": "https://www.ithome.com.tw/news/178579",
+        "pubDate": "2026-09-01 14:52",
+        "description": "依「詐欺犯罪危害防制條例」，四大網路廣告平臺須落實詐欺風險評估、廣告主實名制及資訊揭露，數發部並與業者合作，提供詐騙情資供AI訓練，以識別具有風險的詐騙內容",
+        "source": "iThome資安"
+      },
       {
         "title": "研究人員Nightmare Eclipse公開Nvidia記憶體中斷漏洞GreenSection",
         "link": "https://www.ithome.com.tw/news/178574",
@@ -52,6 +73,20 @@
         "source": "iThome資安"
       },
       {
+        "title": "Gartner估2027年AI安全市場規模達48億美元，年增近7成",
+        "link": "https://www.ithome.com.tw/news/178560",
+        "pubDate": "2026-09-01 08:00",
+        "description": "Gartner預估，AI安全市場未來兩年將持續擴大。2027年以AI應用程式安全規模最大，預估達8.51億美元；AI使用控制則達7.49億美元，成長速度最快",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
+        "link": "https://www.ithome.com.tw/news/178542",
+        "pubDate": "2026-09-01 08:00",
+        "description": "CISA最新漏洞分析顯示，近兩年的已知遭利用漏洞（KEV）中，有41.5%涉及長期持續出現的軟體弱點。即使CVE數量快速攀升，輸入驗證、記憶體安全與命令注入等老問題仍持續成為攻擊突破口",
+        "source": "iThome資安"
+      },
+      {
         "title": "Kubernetes 1.37強化工作負載身分安全，Pod憑證升為穩定版",
         "link": "https://www.ithome.com.tw/news/178549",
         "pubDate": "2026-09-01 08:00",
@@ -63,20 +98,6 @@
         "link": "https://www.ithome.com.tw/news/178557",
         "pubDate": "2026-09-01 08:00",
         "description": "Google在Android 17導入ECH、區域網路存取權限與憑證透明度等安全機制，進一步限制App存取同一網路內設備，並降低連線資訊與異常憑證遭濫用的風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
-        "link": "https://www.ithome.com.tw/news/178542",
-        "pubDate": "2026-09-01 08:00",
-        "description": "CISA最新漏洞分析顯示，近兩年的已知遭利用漏洞（KEV）中，有41.5%涉及長期持續出現的軟體弱點。即使CVE數量快速攀升，輸入驗證、記憶體安全與命令注入等老問題仍持續成為攻擊突破口",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Gartner估2027年AI安全市場規模達48億美元，年增近7成",
-        "link": "https://www.ithome.com.tw/news/178560",
-        "pubDate": "2026-09-01 08:00",
-        "description": "Gartner預估，AI安全市場未來兩年將持續擴大。2027年以AI應用程式安全規模最大，預估達8.51億美元；AI使用控制則達7.49億美元，成長速度最快",
         "source": "iThome資安"
       },
       {
@@ -94,20 +115,6 @@
         "source": "iThome"
       },
       {
-        "title": "新加坡讓公立醫院、診所都能自建AI代理人",
-        "link": "https://www.ithome.com.tw/news/178565",
-        "pubDate": "2026-09-01  10:09:53",
-        "description": "新加坡政府8月底公布一項公立醫療AI平臺Synapxe AgentSea，要讓所有公立醫療機構都能不用寫程式即可自行建立、使用和分享客製化AI代理人。",
-        "source": "iThome"
-      },
-      {
-        "title": "傳蘋果App Store主管Phil Schiller下臺，續任院士",
-        "link": "https://www.ithome.com.tw/news/178564",
-        "pubDate": "2026-09-01  10:09:49",
-        "description": "在庫克（Tim Cook）步下執行長之時，彭博報導引述消息人士指出，蘋果App Store主管暨產品發表大會核心人物Phil Schiller將離開現職，續任蘋果院士榮譽職。\n9月1日，蘋果新任執行長John Ternus正式接掌大位，宣告庫克時代的結束。庫克則轉任Apple Executive Chairman，協助處理公司特定事務，包括與全球各地政策制定者進行交流。",
-        "source": "iThome"
-      },
-      {
         "title": "ChatGPT、Reddit及Roblox被納入歐盟《數位服務法》規範",
         "link": "https://www.ithome.com.tw/news/178567",
         "pubDate": "2026-09-01  10:09:43",
@@ -115,35 +122,56 @@
         "source": "iThome"
       },
       {
-        "title": "SonicWall修補NetExtender重大漏洞，若未更新可能導致攻擊者以root權限寫入任意檔案",
-        "link": "https://www.ithome.com.tw/news/178559",
-        "pubDate": "2026-08-31 18:38",
-        "description": "NetExtender Linux Client存在路徑遍歷、寫入任意檔案問題，可能導致攻擊者覆寫或竄改系統關鍵檔案",
-        "source": "iThome資安"
+        "title": "Anthropic調整Claude Code每周用量上限，9月14日起較目前減少17%",
+        "link": "https://www.ithome.com.tw/news/178590",
+        "pubDate": "2026-09-01  04:09:50",
+        "description": "Anthropic調整AI程式開發工具Claude Code的每周用量上限，9月14日起，Pro、Max、Team及按席位計費的Enterprise方案，標準額度將比原本提高25%。不過目前使用者享有50%的臨時加碼，在新制上路後，實際可用額度會比現在減少約17%。",
+        "source": "iThome"
       },
       {
-        "title": "電商平臺Shopline花一年半，把看不見的資安做成店家看得到的分數",
-        "link": "https://www.ithome.com.tw/news/178556",
-        "pubDate": "2026-08-31 17:32",
-        "description": "一場結構性翻轉，促使近九成資安「薄弱」的商家在一年內轉為中高防護等級，Shopline資訊安全中心用評分機制與風險量化思維，示範電商SaaS平臺如何把資安從後臺深處，搬到商家眼前",
-        "source": "iThome資安"
+        "title": "OpenAI ChatGPT Ads年化收入突破10億美元",
+        "link": "https://www.ithome.com.tw/news/178582",
+        "pubDate": "2026-09-01  03:09:54",
+        "description": "OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以來，受到數萬家廣告主的青睞，年化收入已突破10億美元。",
+        "source": "iThome"
       },
       {
-        "title": "Check Point警示四種生成式AI可能導致的大量資料外洩現況，印證其已成為企業日常顧慮的資安風險",
-        "link": "https://www.ithome.com.tw/news/178555",
-        "pubDate": "2026-08-31 17:27",
-        "description": "生成式AI風險不再是理論而是企業日常實際需處理的議題，Check Point上週列出企業近期面臨的4種現況，警告企業AI風險暴露程度可能正在迅速擴大",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全球逾8千個Gitea系統仍未修補重大漏洞CVE-2026-60004",
-        "link": "https://www.ithome.com.tw/news/178554",
-        "pubDate": "2026-08-31 17:20",
-        "description": "Shadowserver基金會警告，在美國警告開源版本控制系統Gitea漏洞CVE-2026-60004遭到積極利用之後，全球仍有超選8千臺Gitea伺服器未修補而曝險",
-        "source": "iThome資安"
+        "title": "FSB警告AI可能會破壞全球金融穩定",
+        "link": "https://www.ithome.com.tw/news/178584",
+        "pubDate": "2026-09-01  03:09:25",
+        "description": "負責制定國際金融監理標準的金融穩定委員會（Financial Stability Board，FSB）主席Andrew Bailey周一（8/31）警告，指出隨著具備高自主性的「前沿AI模型」崛起，結合市場日益高漲的槓桿，正讓全球金融體系的風險版圖更趨複雜，恐衝擊市場信心與金融穩定。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
+        "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 17:43:06 +0800",
+        "description": "AI 持續推動半導體需求，但產業也開始尋找下一個關鍵應用。SEMI 全球行銷長暨台灣區總裁曹世綸在 SEMICON Taiwan 展會期間指出，產業正關注如何在半導體之後找到全新的關鍵應用，量子科技就是推動下一世代發展的焦點之一。 量子電腦正從數百顆 qubit 往千顆、甚至更大規模推進，但硬體規模增加，距離真正解決產業問題還有多遠？現階段量子位元仍容易受到雜訊干擾，要長時間執行複雜運算，業界正朝容錯量子運算（fault-tolerant quantum computing，FTQC）發展，利用",
+        "source": "TechOrange"
+      },
+      {
+        "title": "ChatGPT、Grok 進駐五角大廈：300 萬美軍用生成式 AI，敏感資料如何不外流？",
+        "link": "https://techorange.com/2026/09/01/the-pentagon-version-chatgpt-grok/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 17:06:39 +0800",
+        "description": "五角大廈近日推出 OpenAI 的 ChatGPT 與 xAI 的 Grok 軍方專用版本，《TechCrunch》報導，此舉讓美國國防部約 300 萬名軍職與文職人員，都能使用專為「作戰人員需求」打造的生成式 AI 工具。 ChatGPT Mil 與 Grok for Government 是針對政府與軍方需求打造的版本，目前都已整合進 GenAI.mil。這個安全的 AI 入口平台去年啟用，最初提供 Google Gemini，讓美國國防部官員可以在受控環境中使用商業 AI 模型，同時避免敏",
+        "source": "TechOrange"
+      },
+      {
+        "title": "日誌分散、警示疲勞，企業如何以 Bindplane 與 Google SecOps 破解資安盲點",
+        "link": "https://techorange.com/2026/09/01/cloudmile-bindplane-google-secops/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 14:06:19 +0800",
+        "description": "隨著 Google Security Operations 正式在 Google Cloud 台灣雲端區域啟用，台灣企業在導入雲端原生與 AI 驅動的資安營運能力時，也具備了回應資料治理、資料落地與數位主權需求的關鍵基礎。企業可在本地儲存並處理安全日誌與分析數據，進一步為威脅偵測、事件調查與回應流程建立更完整的資安營運條件。 然而，對多雲、混合雲與地端環境並存的企業而言，真正的挑戰仍在於如何把分散在防火牆、伺服器、端點、雲端服務與第三方安全設備中的安全日誌，穩定、完整且有效率地收容進 Googl",
+        "source": "TechOrange"
+      },
+      {
+        "title": "不只賣算力也賣架構：NVIDIA 砸 35 億美元投資聯發科，佈局客製化 AI 晶片生態系",
+        "link": "https://techorange.com/2026/09/01/nvidia-mediatek-partnership-build-ai-edge-cloud-computing-platforms/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 11:58:39 +0800",
+        "description": "《Reuters》報導，NVIDIA 將認購晶片大廠聯發科發行的可轉換公司債，投資金額達 35 億美元。雙方進一步展開晶片與 AI 基礎設施合作，聯發科預計採用 NVIDIA 相關技術，為 AI 公司及超大規模雲端服務商（hyperscalers）開發客製化晶片，並讓這些晶片直接部署於採用 NVIDIA 架構的資料中心。 NVIDIA 開放 NVLink 生態系，築起 AI 基礎設施護城河 《TechCrunch》指出，這項交易反映 AI 公司與大型雲端服務商正加速投入自研晶片，包括亞馬遜、Go",
+        "source": "TechOrange"
+      },
       {
         "title": "導入 AI 不必樣樣都做，IKEA 用「雙軸四象限」決定投入順序",
         "link": "https://techorange.com/2026/09/01/ikea-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,37 +248,44 @@
         "pubDate": "Mon, 31 Aug 2026 11:30:00 +0800",
         "description": "隨著生成式 AI 與 AI Agent 風潮持續發酵，台灣製造業正迎來下一道更難的考題：AI 如何從「回答問題」走向「參與產品研發」？ 達梭系統大中華區技術諮詢部資深技術經理陳哲基認為，製造業已經進入由  AI  驅動營運流程的階段，企業更希望 AI 成為與工程師並肩作戰的夥伴，參與產品設計、模擬與驗證作業，降低工程師在重複性工作上的時間，加速產品開發迭代，讓企業在產品愈來愈複雜、上市週期愈來愈短的競爭環境下，仍有能力整合跨領域專業、傳承資深工程師的  Know-how 及降低試錯成本。 Ind",
         "source": "TechOrange"
-      },
-      {
-        "title": "【指地上說「清這裡」就能動】不靠 App、不用學操作，Matic 掃地機器人聽懂 70 種語言和人類手勢",
-        "link": "https://techorange.com/2026/08/31/matic-cues/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 11:01:35 +0800",
-        "description": "當你指著廚房地板上的咖啡漬，說一句「嘿，Matic，把這裡清乾淨」，這台清潔機器人會像人或寵物聽到呼喚一樣，轉身面向你的方向，看懂你指的位置，接著自己移動過去清理，不需要開任何 App，也不用事先替房間建立地圖或標籤。這是加州機器人公司 Matic 近期推出的軟體更新 Matic Cues，帶來的功能體驗。 能聽懂 70 多種語言與手勢 Matic 機器人配備五顆相機與四支麥克風組成的陣列。使用者說出喚醒詞時，機器人靠麥克風陣列判斷聲音方向轉身面向使用者，接著透過相機辨識使用者的手、手指與眼神，",
-        "source": "TechOrange"
-      },
-      {
-        "title": "從白帽駭客到 AI 雙軌審查，QNAP 如何做到「儲存＋資安」一體化？",
-        "link": "https://techorange.com/2026/08/31/qnap-hitcon-bountyprogram-adrandrx-psirt-sbom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 11:00:00 +0800",
-        "description": "在日前台灣駭客年會 HITCON 2026 中，QNAP 透過展出漏洞賞金計畫（Bounty Program）成果，以及具備內網威脅偵測能力的 ADRA NDR X 設備，展現近年資安領域的堅實防禦力。「我們希望在產品設計初期，就把資安元素納入核心。」QNAP 軟體安全架構部研發經理廖敬指出，QNAP 持續以 Secure by Design 的理念，將參與外部資安社群交流視為強化防禦機制的關鍵一環。此外，QNAP 也在今（2026）年順利取得日本認可的 JC-STAR Level 1 產品安全",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Uber 曾 4 個月燒完全年 AI 預算，後來怎麼管住 Agent 成本？",
-        "link": "https://techorange.com/2026/08/31/uber-ai-token-software-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 06:09:00 +0800",
-        "description": "AI Agent（AI 代理）用得越多，企業的下一道難題也開始從怎麼導入，轉向怎麼控制成本。Uber 今年就碰上這個問題。《Fortune》5 月報導，Uber 前 4 個月便用完原先編列一整年的 AI coding 工具預算。但幾個月後，情況出現明顯反差。 Uber 近期公布，今年 2 月至 8 月，公司內每週 Agent 請求量成長 9.4 倍、活躍使用者增加 7 倍，超過 70% 的程式碼合併請求（pull request，PR）已有 Agent 參與，但整體 AI 支出自 4 月起維持穩",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】OpenAI 11 月停止供應 Cursor 模型，SK 海力士逾 40 億美元美國 HBM 廠動工",
-        "link": "https://techorange.com/2026/08/31/openai-cursor-sk-hynix-hbm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 11 月停止向 Cursor 供應模型，SpaceX 600 億美元收購後合作破局 OpenAI 宣布，計畫終止向 AI 程式開發工具 Cursor 提供旗下模型，擬於 11 月 12 日停止服務，並表示已依合約提供最長通知時間。Cursor 母公司 Anysphere 今年由馬斯克旗下 SpaceX 以 600 億美元收購，交易已於 8 月完成。OpenAI 表示，Cursor 控制權改變後，公司依據合約條款啟動終止程序，原因是",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
+        "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
+        "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530",
+        "description": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"tw",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
+        "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
+        "pubDate": "Tue, 01 Sep 2026 13:56:24 +0530",
+        "description": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted ana",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
+        "pubDate": "Tue, 01 Sep 2026 12:52:30 +0530",
+        "description": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
+        "link": "https://www.bleepingcomputer.com/news/security/five-venezuelans-plead-guilty-to-atm-jackpotting-attacks-in-us/",
+        "pubDate": "Tue, 01 Sep 2026 05:15:07 -0400",
+        "description": "Five Venezuelan nationals pleaded guilty to attempting to empty automated teller machines (ATMs) using malware in a series of ATM jackpotting attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Recently patched PaperCut zero-days used in data theft attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/recently-patched-papercut-zero-days-used-in-data-theft-attacks/",
+        "pubDate": "Tue, 01 Sep 2026 03:48:24 -0400",
+        "description": "Two security vulnerabilities in the PaperCut NG and MF print management software, patched last week after being exploited as zero-days, are now being abused in data theft attacks. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor",
         "link": "https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html",
@@ -285,20 +320,6 @@
         "pubDate": "Sat, 29 Aug 2026 21:55:03 +0530",
         "description": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nTh",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic is cutting Claude Code's current weekly limits by 17%",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-cutting-claude-codes-current-weekly-limits-by-17-percent/",
-        "pubDate": "Sat, 29 Aug 2026 19:11:51 -0400",
-        "description": "Anthropic is permanently increasing Claude Code's standard weekly usage limits by 25% for Pro, Max, Team, and seat-based Enterprise plans, but it's not as good as it sounds. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Brave browser adds email aliases to help users evade tracking",
-        "link": "https://www.bleepingcomputer.com/news/security/brave-browser-adds-email-aliases-to-help-users-evade-tracking/",
-        "pubDate": "Sat, 29 Aug 2026 10:19:23 -0400",
-        "description": "The latest version of the Brave browser, 1.94, introduces a feature called 'Email Aliases' that allows users to generate disposable email addresses when signing up to a new service. [...]",
-        "source": "BleepingComputer"
       },
       {
         "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
@@ -369,30 +390,16 @@
         "pubDate": "Mon, 31 Aug 2026 14:34:55 +0530",
         "description": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts u",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "DoJ Corrects China Hacking Claim, Says U.S. Agencies Were Targets, Not Victims",
-        "link": "https://thehackernews.com/2026/08/doj-corrects-china-hacking-claim-says.html",
-        "pubDate": "Mon, 31 Aug 2026 13:26:53 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Friday corrected a previously issued press statement that several of its agencies were victims of attacks carried out by Chinese threat actors, instead now pointing out that they were among those targeted.\n\nLas",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Exchange Online outage causes email failures, auth issues",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-exchange-online-outage-causes-email-failures-auth-issues/",
-        "pubDate": "Mon, 31 Aug 2026 12:56:57 -0400",
-        "description": "Microsoft is investigating a widespread service issue causing authentication issues, email delays and failures, and various other issues for Exchange Online customers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenAI confirms ChatGPT outage as users report errors",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-outage-as-users-report-errors/",
-        "pubDate": "Mon, 31 Aug 2026 12:50:50 -0400",
-        "description": "ChatGPT Work is experiencing a partial outage, and users across multiple subscription plans may be unable to start or continue tasks. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "If space data centers feel far-fetched, why not interstellar travel?",
+        "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
+        "pubDate": "Tue, 01 Sep 2026 10:00:00 +0000",
+        "description": "The team behind Starcloud's orbital data centers has a new high-risk space project: Sending a probe to Alpha Centauri.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
         "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
@@ -492,45 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Hackers claim millions of patient records stolen during data breach at healthcare giant McKesson",
-        "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
-        "pubDate": "Mon, 31 Aug 2026 18:10:09 +0000",
-        "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-        "source": "TechCrunch"
+        "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
+        "link": "https://www.theverge.com/tech/987043/tim-cook-biggest-wins-misses",
+        "pubDate": "2026-09-01T07:00:00-04:00",
+        "description": "Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary cofounder in 2011. He inherited a company on a blockbuster run, after Steve Jobs returned and revitalized the Mac, launched the iPod, and oversaw th",
+        "source": "TheVerge"
+      },
+      {
+        "title": "TP-Link’s first Wi-Fi 8 router is almost here",
+        "link": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability",
+        "pubDate": "2026-09-01T06:18:36-04:00",
+        "description": "The Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router and Deco 8 Ultra mesh system at IFA 2026, which utilize the upcoming IEE",
+        "source": "TheVerge"
+      },
+      {
+        "title": "John Ternus is now the CEO of Apple",
+        "link": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
+        "pubDate": "2026-09-01T06:04:02-04:00",
+        "description": "For the first time since 2011, one of the world's most valuable companies has a new leader, as today marks John Ternus' first day as Apple's CEO. He's replacing Tim Cook, who will continue on as the executive chairman on Apple's board and departed wi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Dyson made a camera-equipped toothbrush that flosses for you",
+        "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
+        "pubDate": "2026-09-01T05:30:00-04:00",
+        "description": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a camera into the brush head. Avai",
+        "source": "TheVerge"
       },
       {
         "title": "The Google TV Streamer now costs $50 more",
         "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
         "pubDate": "2026-08-31T18:32:51-04:00",
         "description": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a cou",
-        "source": "TheVerge"
-      },
-      {
-        "title": "JMGO’s very bright all-in-one projector looks ideal for gamers and sports",
-        "link": "https://www.theverge.com/tech/985986/jmgo-4k-gaming-projector-price-specs",
-        "pubDate": "2026-08-31T18:00:00-04:00",
-        "description": "JMGO's 4K 120Hz Iris Ultra Max all-in-one Google TV projector is now available outside China. It gets its name from a new dual-iris system that lets it produce an impressive 10,000:1 native contrast, according to JMGO. It boosts the contrast - always",
-        "source": "TheVerge"
-      },
-      {
-        "title": "FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads",
-        "link": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-        "pubDate": "2026-08-31T17:41:42-04:00",
-        "description": "The FTC and 22 state attorneys general are suing Amazon for allegedly using a \"secret ad surcharge\" to drive up prices for ads on its website and app. FTC chairman Andrew Ferguson claims in a blog post on the lawsuit that the higher advertising price",
-        "source": "TheVerge"
-      },
-      {
-        "title": "I went to the loneliest baseball game on Apple Vision Pro",
-        "link": "https://www.theverge.com/tech/986967/apple-vision-pro-mlb-red-sox-yankees-immersive-game",
-        "pubDate": "2026-08-31T17:18:27-04:00",
-        "description": "This weekend, I strapped on an Apple Vision Pro to watch a baseball game in immersive virtual reality for the first time. It was technically impressive, visually pretty remarkable, and also didn't make that much sense. Apple and Major League Baseball",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Alienware’s budget-friendly QD-OLED is discounted for the first time",
-        "link": "https://www.theverge.com/gadgets/986901/alienware-qdoled-2726dm-deal-sale",
-        "pubDate": "2026-08-31T15:31:59-04:00",
-        "description": "While memory and storage prices are still high, there are still good discounts on other gaming-related hardware. Take Alienware’s AW2726DM, for example. Dell is selling it for $319.99, a $30 break from the usual price of $349.99. The 27-inch gaming m",
         "source": "TheVerge"
       }
     ],
