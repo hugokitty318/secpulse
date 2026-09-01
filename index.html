@@ -532,6 +532,7 @@ let loadTotal = 5;
 const TAB_KEYS = ['cn_sec', 'cn_tech', 'en_sec', 'en_tech', 'cve'];
 const SNAPSHOT_KEY = 'secPulse_snapshot';
 const HL_MAX = 3;
+const STALE_MS = 30 * 60 * 1000;
 
 function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
 function sourceLabel(name) { return (I18N[lang].sources && I18N[lang].sources[name]) || name || ''; }
@@ -562,6 +563,12 @@ function updatePageMeta() {
   document.body.dataset.lang = lang;
   const meta = document.querySelector('meta[name="theme-color"]');
   if (meta) meta.content = document.body.dataset.theme === 'light' ? '#fafafa' : '#0f1117';
+}
+function isDataStale() {
+  if (!lastFetchTs) return true;
+  const d = new Date(lastFetchTs);
+  if (isNaN(d)) return true;
+  return Date.now() - d.getTime() > STALE_MS;
 }
 
 // ===== Data Loading =====
@@ -831,6 +838,24 @@ async function loadData({ skipCache = false, onProgress = null } = {}) {
   }
 }
 
+async function backgroundLiveRefresh() {
+  const backup = cloneTabs(allData);
+  const backupTs = lastFetchTs;
+  setLoadingUI(true, false);
+  try {
+    await loadLiveFeeds({ skipCache: true, onProgress: () => render() });
+    if (!hasAnyData()) {
+      allData = backup;
+      lastFetchTs = backupTs;
+    } else {
+      lastFetchTs = new Date().toISOString();
+      saveSnapshot();
+    }
+  } catch {}
+  setLoadingUI(false);
+  render();
+}
+
 async function refreshAll() {
   if (isLoading) return;
   setLoadingUI(true, true);
@@ -1023,7 +1048,11 @@ function init() {
 
   setLoadingUI(true, false);
   loadData({ onProgress: () => { setLoadingUI(true, false); render(); } })
-    .then(() => { setLoadingUI(false); render(); })
+    .then(async () => {
+      setLoadingUI(false);
+      render();
+      if (isDataStale()) await backgroundLiveRefresh();
+    })
     .catch(() => { setLoadingUI(false); render(); });
 }
 init();

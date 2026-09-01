@@ -1,54 +1,69 @@
 # SecPulse
 
-QA 資安/科技新聞聚合器。單一 HTML 檔案，GitHub Pages 部署，零依賴、零 token、零 Actions。
+QA 資安/科技新聞聚合器。GitHub Pages 部署。
 
-## 功能
-
-- 5 個分類：資安動態 / 科技前沿 / Security / Tech & AI / Product Advisories
-- Product Advisories 來源：HKCERT Security Bulletin（產品名 + 風險級別 + CVE 編號）
-- 中文/英文新聞自動去重（跨 tab 同標題只保留一次）
-- 每日重點（top 5，CVE 優先）
-- 關鍵字即時搜尋
-- 深色/淺色主題
-- 繁中/EN 語言切換
-
-## CORS 怎麼解決？
-
-瀏覽器不允許 GitHub Pages 直接抓外部 RSS，所以頁面透過 **3 個公開 CORS 代理並行競速** 取回資料：
-
-1. `rss2json` — JSON 格式，最快
-2. `allorigins.win` — 原始 RSS XML，前端解析
-3. `corsproxy.io` — 備援代理
-
-任一代理成功即用其結果，無需手動更新資料檔、無需 GitHub Actions 或 token。
-
-## 部署
-
-1. 建 GitHub repo，push `index.html` 和 `favicon.svg`
-2. Repo → **Settings → Pages** → Source 選 `main` branch、root `/`
-3. 開啟 `https://<username>.github.io/<repo>/` 給 QA 查看
-
-每次 QA 開啟或按刷新，頁面會自動從新聞源拉最新資料。本機 `localStorage` 快取 10 分鐘以加速重複瀏覽。
-
-## 新聞源
-
-| Tab | 來源 |
-|-----|------|
-| 資安動態 | iThome 資安、iThome |
-| 科技前沿 | iThome、TechOrange |
-| 國際資安 | The Hacker News、BleepingComputer |
-| 國際科技 | TechCrunch、The Verge |
-| 漏洞公告 | HKCERT Security Bulletin |
-
-## 檔案結構
+## 運作方式
 
 ```
-├── index.html          # 前端
-├── favicon.svg         # 網站圖示（避免 iOS / GitHub 預設綠色圖示）
-└── README.md
+GitHub Actions 排程 → data.json（同域讀取，無 CORS）
+         ↓（若 data.json 超過 30 分鐘未更新）
+    開啟頁面時自動透過 jina.ai 補抓
 ```
 
-## 注意事項
+## 部署檔案
 
-- 代理服務為第三方免費服務，偶爾可能不穩定；按「刷新」可重試
-- 若公司網路封鎖外部代理，可能無法載入；可改用本機 `python -m http.server` 測試
+```
+index.html
+data.json
+favicon.svg
+update_feeds.py
+.github/workflows/update-data.yml
+```
+
+## 定時更新排程
+
+### 排程時間
+
+Workflow **Update News Data** 在 **UTC 每小時第 12、42 分**執行（香港時間約 **:12、:42**）。
+
+### 若排程沒有自動跑（schedule = 0 次）
+
+已確認你的 repo 是 **Public**，但 GitHub API 顯示 `schedule` 事件 **從未觸發過**（只有手動 `workflow_dispatch` 成功）。請依序檢查：
+
+**① 啟用 Workflow**
+
+1. 打開 **Actions** → **Update News Data**
+2. 若看到黃色橫幅「This workflow was disabled」→ 點 **Enable workflow**
+3. 右上角 **⋯** → 確認沒有被 Disable
+
+**② 確認 Actions 權限**
+
+**Settings → Actions → General → Workflow permissions**  
+選 **Read and write permissions** → Save
+
+**③ 重新註冊排程（建議）**
+
+Push 新版 `.github/workflows/update-data.yml`（已取代舊的 `fetch-feeds.yml`），然後：
+
+1. 到 Actions 手動 **Run workflow** 一次
+2. 等下一個 **:12 或 :42（UTC）** 看是否出現 `schedule` 觸發紀錄
+
+**④ 驗證是否成功**
+
+Actions 篩選 Event = **schedule**，或看 `data.json` 的 `ts` 是否更新。
+
+### 排程仍不行時的備援
+
+即使 Actions 排程失敗，**QA 開啟頁面時**：
+
+- 先快速顯示 `data.json`
+- 若超過 30 分鐘未更新，自動背景補抓最新新聞
+
+也可手動 **Run workflow** 更新 `data.json`。
+
+## 本機手動更新
+
+```bash
+python update_feeds.py
+git add data.json && git commit -m "Update feeds" && git push
+```
