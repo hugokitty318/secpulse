@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T03:26:14.961708Z",
+  "ts": "2026-09-01T03:33:19.543229Z",
   "tabs": {
     "cn_sec": [
       {
@@ -138,6 +138,20 @@
     ],
     "cn_tech": [
       {
+        "title": "【情境工程人才缺口】不只是寫提示詞，企業需要能設計 AI 運作環境的人",
+        "link": "https://techorange.com/2026/09/01/ai-context-engineering-jobs-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 09:38:29 +0800",
+        "description": "提示工程（Prompt Engineering）曾是極為熱門的新興 AI 職缺之一，如科技人才招募公司 SPG Resourcing 就於 2025 年指出，英國當地的 AI 提示詞工程師職缺數量，相較前一年增長了 180%。 提示詞工程師的招募熱潮，精準捕捉了生成式 AI 崛起時的商業氛圍，當時的企業正試圖理解如何與大型語言模型（LLM）對話，並試圖將各種早期實驗轉化為實用成果。 隨著 AI 不斷發展，根據會計師事務所 PwC 統計，英國當地對於 AI 專家的職缺招募，今年僅較去年增長約 61",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【中小企業 AI 代理】AI 代理讓中小企業擁有數位勞動力，「信任邊界」決定它能走多遠",
+        "link": "https://techorange.com/2026/09/01/ai-agents-are-reshaping-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 09:37:47 +0800",
+        "description": "過去幾年，中小企業使用 AI 最常見的方式仍是叫它產出一篇貼文、一張圖片或一段商品介紹。這些工具降低了內容生產門檻，但核心工作並未消失，因為文案寫完仍要人手動更新網站，收到客戶詢問要人工判斷並輸入 CRM，預約還得另外確認行事曆。 商業網站代管公司 Bluehost 執行長 Sachin Puri 認為，AI 代理真正的改變就在這裡；過去的 AI 幫企業創造東西，代理則開始幫企業把事情做完。 從產生內容，到完成一整段工作流程 一般生成式 AI 接到「寫一篇母親節促銷文案」的指令，能完成文字，但何",
+        "source": "TechOrange"
+      },
+      {
         "title": "【科技早餐】AI 算力愈強、傳輸愈吃緊！台積電：矽光子 2027 年市占破 50%",
         "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 01 Sep 2026 05:30:00 +0800",
@@ -226,20 +240,6 @@
         "link": "https://techorange.com/2026/08/31/openai-cursor-sk-hynix-hbm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 31 Aug 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 11 月停止向 Cursor 供應模型，SpaceX 600 億美元收購後合作破局 OpenAI 宣布，計畫終止向 AI 程式開發工具 Cursor 提供旗下模型，擬於 11 月 12 日停止服務，並表示已依合約提供最長通知時間。Cursor 母公司 Anysphere 今年由馬斯克旗下 SpaceX 以 600 億美元收購，交易已於 8 月完成。OpenAI 表示，Cursor 控制權改變後，公司依據合約條款啟動終止程序，原因是",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Hugging Face 推 399 美元雙足機器人 Microduck，主打開源、可教學與自主反應",
-        "link": "https://techorange.com/2026/08/28/microduck-hugging-face-unveils-singing-skating-duck-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 28 Aug 2026 16:32:14 +0800",
-        "description": "AI 平台 Hugging Face 推出第二款機器人 Microduck，售價 399 美元。這款外型可愛、只有一隻眼睛的雙足機器人不僅會唱歌，使用者還能透過強化學習、模擬環境及開源軟體，教它學習新的動作與技能。Hugging Face 表示，希望藉此讓 AI 與機器人更容易走入一般消費者的生活。 Microduck 目前已開放預購，市場反應相當熱烈。Hugging Face 共同創辦人 Thomas Wolf 接受《Bloomberg》訪問時表示，自開放預購後，平均每 4 秒就能賣出 1 台",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI Agent 上線三個月就被冷凍？CYBERBIZ 技術長：會反悔的 AI 才是能上線的 AI",
-        "link": "https://techorange.com/2026/08/28/cyberbiz-ai-agent-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 28 Aug 2026 15:28:46 +0800",
-        "description": "文／CYBERBIZ 技術長 李健華 過去一年，我最常被問的問題是：「你們的 AI 功能什麼時候上線？」 但真正讓我印象深刻的，是另一句話，一位已經導入 AI 工具的品牌營運主管私下跟我說：「上線了啊，可是三個月後，大家還是用原本的方式做事。」 Gartner 在 2025 年就預警，超過四成的 Agentic AI 專案會在 2027 年前被取消，原因不是技術不到位，而是成本失控、商業價值不清、風險控制不足，翻成白話也就是老闆花了錢、工程師接了 API、模型也真的很聰明，但沒有人真的敢用它。 ",
         "source": "TechOrange"
       }
     ],
