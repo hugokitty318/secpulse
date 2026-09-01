@@ -1,0 +1,40 @@
+name: Update News Data
+
+on:
+  schedule:
+    # UTC 每小時第 12、42 分（避開整點高峰）
+    - cron: '12,42 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-news-data
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Show trigger info
+        run: |
+          echo "Event: ${{ github.event_name }}"
+          echo "UTC: $(date -u)"
+
+      - name: Fetch feeds and write data.json
+        run: python3 update_feeds.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update feeds $(date -u +%Y-%m-%dT%H:%M:%SZ) [${{ github.event_name }}]"
+            git push
+          fi
