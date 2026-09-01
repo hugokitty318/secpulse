@@ -1,7 +1,28 @@
 {
-  "ts": "2026-09-01T03:38:27.929744Z",
+  "ts": "2026-09-01T05:52:07.440102Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "研究人員Nightmare Eclipse公開Nvidia記憶體中斷漏洞GreenSection",
+        "link": "https://www.ithome.com.tw/news/178574",
+        "pubDate": "2026-09-01 12:34",
+        "description": "本週資安研究人員Nightmare Eclipse公布Nvidia漏洞GreenSection，並指出攻擊者可輕易跨使用者利用，或破壞dwm.exe的處理程序",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客假冒《俠盜獵車手VI》外流遊戲檔案，散布惡意程式",
+        "link": "https://www.ithome.com.tw/news/178573",
+        "pubDate": "2026-09-01 12:25",
+        "description": "研究人員發現網路流傳113GB的《俠盜獵車手VI》ISO檔案幾乎全由零值資料填充，另夾帶惡意程式，玩家下載恐遭感染",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員Nightmare Eclipse公布卡巴斯基、Avast防毒軟體的零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/178570",
+        "pubDate": "2026-09-01 11:52",
+        "description": "近日資安研究人員Nightmare Eclipse公布卡巴斯基、Avast防毒軟體零時差漏洞HardBreacher、PrettyPrague，並指出皆可被用於權限提升",
+        "source": "iThome資安"
+      },
       {
         "title": "美國槍砲監管機構ATF遭網路入侵，勒索軟體組織Qilin聲稱犯行",
         "link": "https://www.ithome.com.tw/news/178569",
@@ -59,6 +80,20 @@
         "source": "iThome資安"
       },
       {
+        "title": "Microsoft 365驗證異常擴大，Exchange Online郵件與Teams等多項服務受影響",
+        "link": "https://www.ithome.com.tw/news/178571",
+        "pubDate": "2026-09-01  12:09:58",
+        "description": "微軟於臺灣時間9月1日凌晨開始調查Exchange Online異常，隨後確認問題波及多項Microsoft 365服務。Exchange Online受影響最明顯，使用者可能遇到郵件收發延遲或失敗、登入錯誤、信箱搜尋異常及管理功能無法正常操作，微軟初步將問題指向服務用來處理使用者身分驗證的核心設定，事故也波及Microsoft Teams、OneDrive for Business、SharePoint Online、Microsoft Purview及Microsoft Defender X",
+        "source": "iThome"
+      },
+      {
+        "title": "FTC攜22州控告Amazon廣告拍賣「暗藏加價」逾7年",
+        "link": "https://www.ithome.com.tw/news/178572",
+        "pubDate": "2026-09-01  12:09:16",
+        "description": "美國聯邦交易委員會（Federal Trade Commission，FTC）本周一（8/31）聯合阿拉斯加、亞利桑那、加州、科羅拉多、佛羅里達、華盛頓州等22州檢察長，向亞馬遜（Amazon）提起訴訟，指控其電商廣告拍賣機制長期暗藏隱形加價，涉及超過100萬名品牌與賣家，認為Amazon可能因此非法多賺逾200億美元。",
+        "source": "iThome"
+      },
+      {
         "title": "新加坡讓公立醫院、診所都能自建AI代理人",
         "link": "https://www.ithome.com.tw/news/178565",
         "pubDate": "2026-09-01  10:09:53",
@@ -106,37 +141,16 @@
         "pubDate": "2026-08-31 17:20",
         "description": "Shadowserver基金會警告，在美國警告開源版本控制系統Gitea漏洞CVE-2026-60004遭到積極利用之後，全球仍有超選8千臺Gitea伺服器未修補而曝險",
         "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客利用ownCloud漏洞竊取菲律賓研究機構的核能資料",
-        "link": "https://www.ithome.com.tw/news/178553",
-        "pubDate": "2026-08-31 16:42",
-        "description": "威脅情報公司Hunt.io揭露中國駭客鎖定菲律賓核能研究機構與造船公司的網路間諜活動，其中針對核能研究機構的部分，攻擊者利用CVE-2023-49105滲透ownCloud伺服器，試圖竊取內部資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI生成詐騙內容成新威脅，數發部與Meta、Google等四大平臺聯手建立AI源頭阻詐防線",
-        "link": "https://www.ithome.com.tw/news/178552",
-        "pubDate": "2026-08-31 16:02",
-        "description": "依「詐欺犯罪危害防制條例」，四大網路廣告平臺須建立詐欺風險評估、防制計畫、廣告主實名制及廣告資訊揭露制度，並配合主動或依政府通知下架涉詐廣告，以提升廣告透明度並避免冒用他人身分投放廣告。數發部今與四大網路平臺合作，提供詐騙情資給平臺業者，供AI訓練，以識別具有風險的詐騙內容。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "列印管理系統PaperCut遭遇零時差漏洞攻擊，該公司兩度緊急修補",
-        "link": "https://www.ithome.com.tw/news/178550",
-        "pubDate": "2026-08-31 15:13",
-        "description": "列印管理系統供應商PaperCut警告，旗下的PaperCut NG與PaperCut MF系統存在零時差漏洞CVE-2026-82078、CVE-2026-81578，並於8月27日、28日發布緊急更新，呼籲用戶應儘速採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "本機AI工具LM Studio Bionic新增Shell指令自動審查，先程式分析再交AI代理判斷",
-        "link": "https://www.ithome.com.tw/news/178558",
-        "pubDate": "2026-08-31  09:08:24",
-        "description": "本機AI模型工具LM Studio推出的AI代理應用Bionic，新增Shell指令自動審查功能Auto Review。Bionic可使用本機或雲端的開放模型處理程式開發、文件等工作，當AI代理準備執行Shell指令時，Auto Review會先以程式分析辨識可安全執行的操作，無法完整判斷時才交由獨立的審查代理處理，減少使用者逐一確認指令的情況。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "導入 AI 不必樣樣都做，IKEA 用「雙軸四象限」決定投入順序",
+        "link": "https://techorange.com/2026/09/01/ikea-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 01 Sep 2026 10:49:15 +0800",
+        "description": "AI 熱潮席捲零售業，各大企業紛紛投入資源探索生成式 AI 與 AI Agent，但對 IKEA 而言，真正的挑戰並非「能用什麼 AI」，而是「哪些 AI 值得做」。 作為全球最大的 IKEA 加盟商，Ingka Group 數位長 Parag Parekh 接受麥肯錫採訪表示，IKEA 建立一套雙軸四象限矩陣，將 AI 專案依照「顧客導向或員工導向」以及「成長導向或成本導向」進行分類，再根據商業價值與顧客體驗影響力排列優先順序。推薦引擎、定價與代理式商業等應用屬於顧客成長領域，供應鏈與最後一哩",
+        "source": "TechOrange"
+      },
       {
         "title": "【情境工程人才缺口】不只是寫提示詞，企業需要能設計 AI 運作環境的人",
         "link": "https://techorange.com/2026/09/01/ai-context-engineering-jobs-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -156,13 +170,6 @@
         "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 01 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電：矽光子 2027 年光收發器市占估破 50%，AI 傳輸成新瓶頸 SEMICON Taiwan 國際半導體展 9 月 2 日登場，展前技術論壇率先聚焦 AI 運算瓶頸。台積電指出，AI 推理與代理式 AI 帶動運算量快速成長，但記憶體頻寬與資料傳輸速度跟不上。台積電引用高盛預估，到 2030 年全球 AI Token 使用量將較 2026 年增加 24 倍；AI 運算能力每兩年約成長 3 倍，I/O 效能卻僅成長約 1.4 倍。隨著資料",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【金融 AI 的生產力變現鴻溝】40% 機構實現獲利增長：年預算破 10 萬美元、微調自研專屬模型是關鍵",
-        "link": "https://techorange.com/2026/08/29/ai-in-financial-services-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 29 Aug 2026 06:29:00 +0800",
-        "description": "根據劍橋另類金融中心（Cambridge Centre for Alternative Finance, CAFF）聯合世界銀行、國際貨幣基金組織、國際清算銀行，以及世界經濟論壇發佈的《2026 年全球金融服務 AI 報告》（The 2026 Global AI in Financial Services Report），全球金融業正處於中期過渡階段。 然而在此過渡期中，行業正顯現出「普及率高、獲利轉化低」的失衡反差。 全球 AI 採用率雖高達 81%，實質實現獲利增長的機構卻僅有 40%。此變",
         "source": "TechOrange"
       },
       {
@@ -387,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Magna increases bet on battery swapping in India with $35M for Yuma",
+        "link": "https://techcrunch.com/2026/08/31/magna-increases-bet-on-battery-swapping-in-india-with-35m-for-yuma/",
+        "pubDate": "Tue, 01 Sep 2026 05:00:00 +0000",
+        "description": "Magna's investment in Yuma Energy has reached $87 million as the Canadian auto supplier increases its majority stake in the Indian battery-swapping firm.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Lachy Groom backs Indian startup aiming to keep aircraft aloft for a year",
         "link": "https://techcrunch.com/2026/08/31/lachy-groom-backs-indian-startup-aiming-to-keep-aircraft-aloft-for-a-year/",
         "pubDate": "Tue, 01 Sep 2026 00:30:00 +0000",
@@ -482,13 +496,6 @@
         "link": "https://techcrunch.com/2026/08/31/hackers-claim-millions-of-patient-records-stolen-during-data-breach-at-healthcare-giant-mckesson/",
         "pubDate": "Mon, 31 Aug 2026 18:10:09 +0000",
         "description": "The company, which distributes medicines and medical devices to hospitals and healthcare practices across the U.S., said it was hacked and expects intermittent service degradation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ryan Breslow is raising up to $27M in pay-to-play bridge funding to save Bolt",
-        "link": "https://techcrunch.com/2026/08/31/ryan-breslow-is-raising-up-to-27m-in-pay-to-play-bridge-funding-to-save-bolt/",
-        "pubDate": "Mon, 31 Aug 2026 17:14:44 +0000",
-        "description": "The controversial founder of the checkout startup once valued at $11 billion is putting in $5 million of his own money.",
         "source": "TechCrunch"
       },
       {
