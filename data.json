@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-01T11:34:59.396219Z",
+  "ts": "2026-09-01T15:32:13.157083Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,6 +252,27 @@
     ],
     "en_sec": [
       {
+        "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
+        "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
+        "pubDate": "Tue, 01 Sep 2026 19:37:20 +0530",
+        "description": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of sp",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
+        "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
+        "pubDate": "Tue, 01 Sep 2026 18:38:58 +0530",
+        "description": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems usi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
+        "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
+        "pubDate": "Tue, 01 Sep 2026 17:00:00 +0530",
+        "description": "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
         "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
         "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530",
@@ -271,6 +292,34 @@
         "pubDate": "Tue, 01 Sep 2026 12:52:30 +0530",
         "description": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
+        "pubDate": "Tue, 01 Sep 2026 10:45:06 -0400",
+        "description": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Novocure data breach affects more than 1,400 cancer patients",
+        "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
+        "pubDate": "Tue, 01 Sep 2026 10:28:40 -0400",
+        "description": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
+        "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
+        "pubDate": "Tue, 01 Sep 2026 10:01:11 -0400",
+        "description": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify r",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
+        "pubDate": "Tue, 01 Sep 2026 08:38:35 -0400",
+        "description": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Five Venezuelans plead guilty to ATM jackpotting attacks in US",
@@ -294,45 +343,10 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "FulcrumSec claims Manchester Airports hack, theft of 86 GB of data",
-        "link": "https://www.bleepingcomputer.com/news/security/fulcrumsec-claims-manchester-airports-hack-theft-of-86-gb-of-data/",
-        "pubDate": "Sun, 30 Aug 2026 11:00:21 -0400",
-        "description": "FulcrumSec claims it stole 86 GB of data from Manchester Airports Group. BleepingComputer validated one traveller's record, while samples revealed detailed customer, booking, and travel information beyond what MAG initially disclosed. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Anthropic warns infostealer malware is hijacking Claude sessions to drain usage",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-warns-infostealer-malware-is-hijacking-claude-sessions-to-drain-usage/",
-        "pubDate": "Sun, 30 Aug 2026 10:30:25 -0400",
-        "description": "Anthropic is warning some Claude users that infostealer malware on their PCs has stolen active Claude login sessions, allowing attackers to access accounts and consume their usage. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Chrome Web Store extensions caught stealing crypto, browser data",
-        "link": "https://www.bleepingcomputer.com/news/security/chrome-web-store-extensions-caught-stealing-crypto-browser-data/",
-        "pubDate": "Sun, 30 Aug 2026 10:17:44 -0400",
-        "description": "Multiple extensions for Google Chrome and Microsoft Edge delivered a malware framework that deployed modules to steal cryptocurrency, sensitive data, and browser history, as well as inject ClickFix lures. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE",
         "link": "https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html",
         "pubDate": "Sat, 29 Aug 2026 21:55:03 +0530",
         "description": "Multiple critical security flaws have been disclosed in WordPress plugins and themes, including WPMU DEV Dashboard, Avada, TranslatePress, Pods, and GiveWP, that could lead to authentication bypass, account takeover, and arbitrary code execution.\n\nTh",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
-        "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
-        "pubDate": "Sat, 29 Aug 2026 03:00:52 +0530",
-        "description": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands.\n\nThe same statement disclosed that",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
-        "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
-        "pubDate": "Sat, 29 Aug 2026 02:08:47 +0530",
-        "description": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026.\n\nThe vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critica",
         "source": "TheHackerNews"
       },
       {
@@ -376,23 +390,58 @@
         "pubDate": "Mon, 31 Aug 2026 16:47:54 -0400",
         "description": "The Cronos blockchain network has resumed trading activity after a price-manipulation attack on the Tectonic cryptocurrency lending platform allowed an attacker to borrow $74 million. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft warns of TerminalFix attacks deploying reverse tunnels",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-terminalfix-attacks-deploying-reverse-tunnels/",
-        "pubDate": "Mon, 31 Aug 2026 14:51:04 -0400",
-        "description": "A new ClickFix variant dubbed TerminalFix uses fake Cloudflare CAPTCHA prompts on compromised websites to trick victims into running malicious PowerShell commands in Windows Terminal. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "China-Linked Fire Ant Hijacks Cisco Routers to Steal Credentials and Blind Security Logs",
-        "link": "https://thehackernews.com/2026/08/china-linked-fire-ant-hijacks-cisco.html",
-        "pubDate": "Mon, 31 Aug 2026 14:34:55 +0530",
-        "description": "A China-nexus cyber espionage actor tracked as Fire Ant has expanded a long-running campaign beyond VMware hypervisors to compromise Cisco IOS XR routers, Terminal Access Controller Access-Control System (TACACS) servers, and Linux management hosts u",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Microsoft 365 outage drags on, but things are improving",
+        "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
+        "pubDate": "Tue, 01 Sep 2026 15:23:15 +0000",
+        "description": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fambot introduces an ‘AI chief of staff’ for families",
+        "link": "https://techcrunch.com/2026/09/01/fambot-introduces-an-ai-chief-of-staff-for-families/",
+        "pubDate": "Tue, 01 Sep 2026 15:10:58 +0000",
+        "description": "Fambot is building an AI “chief of staff” to help families manage the emails, calendars, school updates, sports schedules, and other logistics of raising kids.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Florida and Texas move to block Flock cameras over privacy concerns",
+        "link": "https://techcrunch.com/2026/09/01/florida-and-texas-move-to-block-flock-cameras-over-privacy-concerns/",
+        "pubDate": "Tue, 01 Sep 2026 15:00:10 +0000",
+        "description": "Flock's searchable network of 130,000 license plate cameras around the U.S. have sparked bipartisan privacy and civil liberties concerns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "This startup is fuel-injecting hydrogen to make cargo ships more efficient",
+        "link": "https://techcrunch.com/2026/09/01/this-startup-is-fuel-injecting-hydrogen-to-make-cargo-ships-more-efficient/",
+        "pubDate": "Tue, 01 Sep 2026 14:52:12 +0000",
+        "description": "Newlight has raised a $9 million seed round and completed an 8,500-nautical-mile test run from Singapore to Ghana.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo accelerates robotaxi expansion with launches in Denver, San Diego and Tampa",
+        "link": "https://techcrunch.com/2026/09/01/waymo-accelerates-robotaxi-expansion-with-launches-in-denver-san-diego-and-tampa/",
+        "pubDate": "Tue, 01 Sep 2026 14:20:44 +0000",
+        "description": "Waymo will begin inviting riders on a rolling basis and slowly ramp up access in the three cities, following its usual commercial playbook.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Help build the future of startups: Volunteer at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/01/help-build-the-future-of-startups-volunteer-at-techcrunch-disrupt-2026/",
+        "pubDate": "Tue, 01 Sep 2026 14:03:00 +0000",
+        "description": "TechCrunch Disrupt is where those moments happen. And we can't pull it off without volunteers like you.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s Unacademy sells to rival upGrad for $206M, about 94% less than its peak valuation",
+        "link": "https://techcrunch.com/2026/09/01/indias-unacademy-sells-to-rival-upgrad-for-206m-about-94-less-than-its-peak-valuation/",
+        "pubDate": "Tue, 01 Sep 2026 13:58:42 +0000",
+        "description": "\"We raised at a peak, but sold at a fraction of that,\" Unacademy co-founder and CEO Gaurav Munjal wrote. \"I'm not going to dress these facts up.\"",
+        "source": "TechCrunch"
+      },
       {
         "title": "If space data centers feel far-fetched, why not interstellar travel?",
         "link": "https://techcrunch.com/2026/09/01/if-space-data-centers-feel-far-fetched-why-not-interstellar-travel/",
@@ -450,87 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The Pentagon now has its own version of ChatGPT and Grok",
-        "link": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
-        "pubDate": "Mon, 31 Aug 2026 20:13:45 +0000",
-        "description": "Versions of OpenAI's ChatGPT and SpaceXAI's Grok will join Google's Gemini on the Pentagon's central portal for AI tools.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apply now to host a Side Event at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/08/31/apply-now-to-host-a-side-event-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 31 Aug 2026 19:32:21 +0000",
-        "description": "Apply before September 4 to be a part of the TechCrunch Disrupt community by hosting your own Side Event.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Instagram puts new limits on undisclosed AI profiles",
-        "link": "https://techcrunch.com/2026/08/31/instagram-puts-new-limits-on-undisclosed-ai-profiles/",
-        "pubDate": "Mon, 31 Aug 2026 19:16:59 +0000",
-        "description": "As frustration over AI influencers has been growing, Instagram is limiting the reach of undisclosed AI profiles.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple’s top App Store exec, Phil Schiller, follows wave of exits as CEO Tim Cook steps down",
-        "link": "https://techcrunch.com/2026/08/31/apples-top-app-store-exec-phil-schiller-follows-wave-of-exits-as-ceo-tim-cook-steps-down/",
-        "pubDate": "Mon, 31 Aug 2026 19:02:06 +0000",
-        "description": "The longtime executive won't be leaving Apple just yet but staff at the company say it's a step closer to Schiller retiring.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft tests fix for latest hours-long Outlook outage",
-        "link": "https://techcrunch.com/2026/08/31/microsoft-tests-fix-for-latest-hours-long-outlook-outage/",
-        "pubDate": "Mon, 31 Aug 2026 18:56:41 +0000",
-        "description": "Microsoft says it's testing a fix for the widespread Outlook issues that have led to email delays and failures.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Kalshi bans George Santos for life over State of the Union bets",
-        "link": "https://techcrunch.com/2026/08/31/kalshi-bans-george-santos-for-life-over-state-of-the-union-bets/",
-        "pubDate": "Mon, 31 Aug 2026 18:53:41 +0000",
-        "description": "The disciplinary action comes two months after the Commodity Futures Trading Commission settled charges against Santos.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’",
-        "link": "https://techcrunch.com/2026/08/31/harvard-law-dropout-raises-6m-for-blue-voice-to-build-a-harvey-for-police-officers/",
-        "pubDate": "Mon, 31 Aug 2026 18:35:11 +0000",
-        "description": "Blue Voice is trained on department-specific laws, local ordinances, protocols, and guidelines that general-purpose AI tools can't access on the public internet.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tim Cook’s Apple: his 10 biggest wins and misses",
-        "link": "https://www.theverge.com/tech/987043/tim-cook-biggest-wins-misses",
-        "pubDate": "2026-09-01T07:00:00-04:00",
-        "description": "Expectations for Tim Cook were almost impossibly high when he stepped in to replace Apple's visionary cofounder in 2011. He inherited a company on a blockbuster run, after Steve Jobs returned and revitalized the Mac, launched the iPod, and oversaw th",
+        "title": "Sonos introduces new headphones, soundbar, and software in its biggest announcement in years",
+        "link": "https://www.theverge.com/tech/987129/sonos-27-ace-ultra-beam-ultra-announcement",
+        "pubDate": "2026-09-01T10:00:00-04:00",
+        "description": "At an event in New York City, Sonos announced two new audio products - the Sonos Beam Ultra soundbar and Sonos Ace Ultra headphones, details of which were found in an FCC filing in early August - and a major update to its audio operating system dubbe",
         "source": "TheVerge"
       },
       {
-        "title": "TP-Link’s first Wi-Fi 8 router is almost here",
-        "link": "https://www.theverge.com/gadgets/987277/tplink-wifi-8-archer-8-ultra-availability",
-        "pubDate": "2026-09-01T06:18:36-04:00",
-        "description": "The Wi-Fi 8 standard is far from finalized, but TP-Link is almost ready to release its first hardware targeting the next-gen spec. It unveiled the Archer 8 Ultra tri-band router and Deco 8 Ultra mesh system at IFA 2026, which utilize the upcoming IEE",
+        "title": "Tim Cook’s legacy isn’t just phones, it’s politics",
+        "link": "https://www.theverge.com/policy/987356/tim-cook-apple-trump-xi",
+        "pubDate": "2026-09-01T09:51:02-04:00",
+        "description": "As much as any Apple product released during his time as CEO, Tim Cook's tenure will be remembered for its ruthlessly efficient tight-rope walk between an autocrat in China and a would-be autocrat in the US. During his 15 years as CEO, Cook steered A",
         "source": "TheVerge"
       },
       {
-        "title": "John Ternus is now the CEO of Apple",
-        "link": "https://www.theverge.com/tech/987150/apple-ceo-john-ternus",
-        "pubDate": "2026-09-01T06:04:02-04:00",
-        "description": "For the first time since 2011, one of the world's most valuable companies has a new leader, as today marks John Ternus' first day as Apple's CEO. He's replacing Tim Cook, who will continue on as the executive chairman on Apple's board and departed wi",
+        "title": "John Ternus takes over as Apple&#8217;s new CEO",
+        "link": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
+        "pubDate": "2026-09-01T09:28:43-04:00",
+        "description": "The multitrillion-dollar home of the iPhone, Mac, and so many other tech gadgets has a new leaader, as Tim Cook has been replaced as CEO as of September 1st by former hardware boss John Ternus. How will we look back on Cook’s legacy, and what will Ap",
         "source": "TheVerge"
       },
       {
-        "title": "Dyson made a camera-equipped toothbrush that flosses for you",
-        "link": "https://www.theverge.com/tech/986737/dyson-camerajet-smart-toothbrush-live-camera-flosser-pricing-availability",
-        "pubDate": "2026-09-01T05:30:00-04:00",
-        "description": "Dyson is once again expanding its line of personal care products with a device that focuses on your teeth instead of your hair. As the name implies, the $499 CameraJet is the first electric toothbrush to incorporate a camera into the brush head. Avai",
+        "title": "Florida blocks Flock cams on state highways",
+        "link": "https://www.theverge.com/tech/987353/florida-flock-cam-ban-state-highways",
+        "pubDate": "2026-09-01T09:17:36-04:00",
+        "description": "Florida is banning Flock cameras and other automated license plate readers across state highways, as reported earlier by NBC News and local news outlet WUSF. In a memo on Monday, Florida's Department of Transportation says it's revoking permits for a",
         "source": "TheVerge"
       },
       {
-        "title": "The Google TV Streamer now costs $50 more",
-        "link": "https://www.theverge.com/tech/987032/google-tv-streamer-price-increase",
-        "pubDate": "2026-08-31T18:32:51-04:00",
-        "description": "Google raised the price of its 4K streaming box to $149, up $50 from its original $99 price. The new price is currently live at the Google Store and Best Buy, but Amazon appears to still be offering the original price. The price hike comes just a cou",
+        "title": "Get ready for a really busy month of smartphones",
+        "link": "https://www.theverge.com/tech/986236/smartphones-september-ifa-apple-iphone-oppo-vivo-xiaomi",
+        "pubDate": "2026-09-01T09:00:00-04:00",
+        "description": "We're not even half a day into September, and two new smartphones have already launched: the Poco F9 Pro and F9 Ultra. We're expecting more this week, as the IFA trade show kicks off in Berlin, before we get new iPhones a week after that. And that's ",
         "source": "TheVerge"
       }
     ],
