@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-01T21:45:04.132612Z",
+  "ts": "2026-09-02T00:07:02.928442Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "TerminalFix社交工程攻擊將受害主機變成存取企業內網的跳板",
+        "link": "https://www.ithome.com.tw/news/178577",
+        "pubDate": "2026-09-02 08:00",
+        "description": "微軟揭露新一波ClickFix社交工程攻擊，駭客利用假Cloudflare驗證畫面誘導使用者執行惡意命令，之後透過多階段感染流程偵察組織內部環境，並部署可建立遠端連線的惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安新創Corma種子輪募資6,000萬美元，開發資安防禦AI模型",
+        "link": "https://www.ithome.com.tw/news/178568",
+        "pubDate": "2026-09-02 08:00",
+        "description": "資安新創Corma完成6,000萬美元種子輪募資，主打專為資安防禦打造的AI基礎模型",
+        "source": "iThome資安"
+      },
+      {
+        "title": "信任運算聯盟訂TPM抗量子密碼就緒門檻，企業採購有查核依據",
+        "link": "https://www.ithome.com.tw/news/178561",
+        "pubDate": "2026-09-02 08:00",
+        "description": "信任運算聯盟針對信賴平臺模組是否符合抗量子密碼就緒要求提出明確門檻，企業可要求供應商提出符合PTP 1.07的證明，確認產品是否達到相關技術要求",
+        "source": "iThome資安"
+      },
+      {
+        "title": "德國企業資安調查揭外國情報機構首度成第二大攻擊者類型",
+        "link": "https://www.ithome.com.tw/news/178575",
+        "pubDate": "2026-09-02 08:00",
+        "description": "外國情報機構正成為德國企業更難忽視的資安威脅。Bitkom最新調查顯示，37%受影響企業曾將事件歸因於外國情報機構，首度升為第二大攻擊者類型",
+        "source": "iThome資安"
+      },
       {
         "title": "勒索軟體Aurora同時借助Cursor AI與Claude Sonnet的力量，鎖定ESXi環境加密檔案",
         "link": "https://www.ithome.com.tw/news/178592",
@@ -73,31 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Gartner估2027年AI安全市場規模達48億美元，年增近7成",
-        "link": "https://www.ithome.com.tw/news/178560",
-        "pubDate": "2026-09-01 08:00",
-        "description": "Gartner預估，AI安全市場未來兩年將持續擴大。2027年以AI應用程式安全規模最大，預估達8.51億美元；AI使用控制則達7.49億美元，成長速度最快",
-        "source": "iThome資安"
-      },
-      {
         "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
         "link": "https://www.ithome.com.tw/news/178542",
         "pubDate": "2026-09-01 08:00",
         "description": "CISA最新漏洞分析顯示，近兩年的已知遭利用漏洞（KEV）中，有41.5%涉及長期持續出現的軟體弱點。即使CVE數量快速攀升，輸入驗證、記憶體安全與命令注入等老問題仍持續成為攻擊突破口",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Kubernetes 1.37強化工作負載身分安全，Pod憑證升為穩定版",
-        "link": "https://www.ithome.com.tw/news/178549",
-        "pubDate": "2026-09-01 08:00",
-        "description": "Kubernetes過去主要透過服務帳號JWT識別工作負載，但這類持有者權杖一旦遭竊，可能被攻擊者冒用。新版導入以X.509憑證為基礎的Pod身分驗證方式，支援憑證自動輪替",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Android 17強化網路隱私與2G防護，降低網路追蹤與偽基地臺攻擊風險",
-        "link": "https://www.ithome.com.tw/news/178557",
-        "pubDate": "2026-09-01 08:00",
-        "description": "Google在Android 17導入ECH、區域網路存取權限與憑證透明度等安全機制，進一步限制App存取同一網路內設備，並降低連線資訊與異常憑證遭濫用的風險",
         "source": "iThome資安"
       },
       {
@@ -112,13 +119,6 @@
         "link": "https://www.ithome.com.tw/news/178572",
         "pubDate": "2026-09-01  12:09:16",
         "description": "美國聯邦交易委員會（Federal Trade Commission，FTC）本周一（8/31）聯合阿拉斯加、亞利桑那、加州、科羅拉多、佛羅里達、華盛頓州等22州檢察長，向亞馬遜（Amazon）提起訴訟，指控其電商廣告拍賣機制長期暗藏隱形加價，涉及超過100萬名品牌與賣家，認為Amazon可能因此非法多賺逾200億美元。",
-        "source": "iThome"
-      },
-      {
-        "title": "ChatGPT、Reddit及Roblox被納入歐盟《數位服務法》規範",
-        "link": "https://www.ithome.com.tw/news/178567",
-        "pubDate": "2026-09-01  10:09:43",
-        "description": "歐盟執委會（European Commission，EC）周一（8/31）宣布，將ChatGPT納入《數位服務法》（Digital Services Act，DSA）超大型線上搜尋引擎（Very Large Online Search Engine，VLOSE）名單，Reddit與Roblox則被列為超大型線上平臺（Very Large Online Platform，VLOP），即日起適用DSA最嚴格規範，須於四個月內、即2027年1月前完成合規。",
         "source": "iThome"
       },
       {
@@ -394,7 +394,35 @@
     ],
     "en_tech": [
       {
-        "title": "Open AI’s Astra model is on the way—and very good at breaking into computer systems",
+        "title": "Larry Page’s flying car company Pivotal loses its CEO",
+        "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
+        "pubDate": "Tue, 01 Sep 2026 23:59:59 +0000",
+        "description": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reliance’s JioHotstar takes its streaming empire global — without sports",
+        "link": "https://techcrunch.com/2026/09/01/reliances-jiohotstar-takes-its-streaming-empire-global-without-sports/",
+        "pubDate": "Tue, 01 Sep 2026 23:00:00 +0000",
+        "description": "JioHotstar will only have entertainment content when it launches in the UK, Canada, and Singapore.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
+        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
+        "pubDate": "Tue, 01 Sep 2026 22:13:34 +0000",
+        "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+        "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
+        "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
         "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
         "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
@@ -404,7 +432,7 @@
         "title": "Google’s Android update tackles motion sickness, accessibility, and more",
         "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
         "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
-        "description": "The new features coming to Android are aimed at reducing motion sickness, helping blind users navigate their surroundings, and more.",
+        "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
         "source": "TechCrunch"
       },
       {
@@ -471,32 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "GoPro to be acquired for $285M, will remain a public company",
-        "link": "https://techcrunch.com/2026/09/01/gopro-to-be-acquired-for-285m-will-remain-a-public-company/",
-        "pubDate": "Tue, 01 Sep 2026 15:57:23 +0000",
-        "description": "GoPro is merging with a company that builds AI infrastructure, and will continue supporting existing consumer products.",
-        "source": "TechCrunch"
+        "title": "Google needs Hollywood more than the studios need AI",
+        "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+        "pubDate": "2026-09-01T18:50:29-04:00",
+        "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals",
+        "source": "TheVerge"
       },
       {
-        "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-        "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-        "pubDate": "Tue, 01 Sep 2026 15:51:55 +0000",
-        "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-        "link": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
-        "pubDate": "Tue, 01 Sep 2026 15:45:51 +0000",
-        "description": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft 365 outage drags on, but things are improving",
-        "link": "https://techcrunch.com/2026/09/01/microsoft-365-outage-drags-on-but-things-are-improving/",
-        "pubDate": "Tue, 01 Sep 2026 15:23:15 +0000",
-        "description": "Microsoft 365 and Outlook are still seeing service degradations on Tuesday, the company's status page indicates.",
-        "source": "TechCrunch"
+        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+        "pubDate": "2026-09-01T18:01:36-04:00",
+        "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 2",
+        "source": "TheVerge"
       },
       {
         "title": "Apple Maps follows Google in renaming Lake Ontario",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
         "pubDate": "2026-09-01T16:45:49-04:00",
         "description": "After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shore up its safety work, the company wrote Tuesday in a blog post. In Jul",
-        "source": "TheVerge"
-      },
-      {
-        "title": "On first listen, the Sonos Beam Ultra sounds great",
-        "link": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-        "pubDate": "2026-09-01T16:08:38-04:00",
-        "description": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Tim Cook did alright by the environment — but AI could upend his climate legacy",
-        "link": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-        "pubDate": "2026-09-01T15:43:39-04:00",
-        "description": "As he steps down from his post as Apple CEO today, Tim Cook leaves behind a mostly positive environmental record. As far as billionaire tech moguls and the environment go, Cook will likely be remembered as one of the better ones - certainly far from ",
         "source": "TheVerge"
       }
     ],
