@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-02T13:35:51.323479Z",
+  "ts": "2026-09-02T17:20:04.334721Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,6 +252,34 @@
     ],
     "en_sec": [
       {
+        "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
+        "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
+        "pubDate": "Wed, 02 Sep 2026 19:36:59 +0530",
+        "description": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
+        "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
+        "pubDate": "Wed, 02 Sep 2026 19:14:16 +0530",
+        "description": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-co",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
+        "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
+        "pubDate": "Wed, 02 Sep 2026 18:42:45 +0530",
+        "description": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separat",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
+        "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
+        "pubDate": "Wed, 02 Sep 2026 17:52:02 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infecte",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
         "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
         "pubDate": "Wed, 02 Sep 2026 17:00:00 +0530",
@@ -301,6 +329,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
+        "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
+        "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
+        "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
+        "pubDate": "Wed, 02 Sep 2026 10:02:12 -0400",
+        "description": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring oper",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Dropbox accounts breached through Lenovo email verification flaw",
         "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
         "pubDate": "Wed, 02 Sep 2026 08:30:22 -0400",
@@ -348,51 +390,72 @@
         "pubDate": "Tue, 01 Sep 2026 22:49:24 +0530",
         "description": "Brazilian financial services, retail, and e-commerce organizations have become the target of a financially motivated threat actor dubbed Breeze Comet (formerly UNC5669) since 2024.\n\nGoogle Threat Intelligence Group (GTIG) and Mandiant teams described",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "13 Malicious Packagist Packages Target Unpatched iPhones to Steal Crypto Wallet Seeds",
-        "link": "https://thehackernews.com/2026/09/13-malicious-packagist-packages-target.html",
-        "pubDate": "Tue, 01 Sep 2026 19:37:20 +0530",
-        "description": "Cybersecurity researchers have identified a set of 13 malicious Composer theme packages on Packagist that are designed to inject JavaScript into Vietnamese movie and comic streaming sites that install those libraries and initiate the deployment of sp",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Iranian Hackers Pose as Recruiters to Deliver Cross-Platform RATs Through Coding Tests",
-        "link": "https://thehackernews.com/2026/09/iranian-hackers-pose-as-recruiters-to.html",
-        "pubDate": "Tue, 01 Sep 2026 18:38:58 +0530",
-        "description": "The Iranian Nimbus Manticore hacking group has been attributed to two previously undocumented malware families that highlight the continued evolution of its toolset and likely expand its targeting footprint to infect Linux and Apple macOS systems usi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones",
-        "link": "https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html",
-        "pubDate": "Tue, 01 Sep 2026 17:00:00 +0530",
-        "description": "The most common way into a company last year was to ask.\n\nA web page tells the visitor to prove they are not a robot. While they read the instructions, it quietly places a command on their clipboard. Then it talks them through opening a terminal and ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-        "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400",
-        "description": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Aesto Health says data breach affects over 9.5 million patients",
-        "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-        "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400",
-        "description": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Steal METR API Key and Consume AI Credits Worth About $600,000",
-        "link": "https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html",
-        "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530",
-        "description": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"tw",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
+        "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+        "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
+        "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X shifts US creator payouts from Stripe to X Money",
+        "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
+        "pubDate": "Wed, 02 Sep 2026 17:12:27 +0000",
+        "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "U.S. government sides with OpenAI on issue of training LLMs on copyrighted material",
+        "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
+        "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
+        "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
+        "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
+        "pubDate": "Wed, 02 Sep 2026 16:54:23 +0000",
+        "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
+        "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+        "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
+        "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
+        "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
+        "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
+        "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+        "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
+        "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
+        "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
+        "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
+        "pubDate": "Wed, 02 Sep 2026 14:56:34 +0000",
+        "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Adobe acquires Indian market intelligence startup Rilo",
+        "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
+        "pubDate": "Wed, 02 Sep 2026 14:03:57 +0000",
+        "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
+        "source": "TechCrunch"
+      },
       {
         "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
         "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
@@ -411,7 +474,7 @@
         "title": "Uber is laying off 10% of staff, or 3,300 people",
         "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
         "pubDate": "Wed, 02 Sep 2026 12:14:35 +0000",
-        "description": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
+        "description": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
         "source": "TechCrunch"
       },
       {
@@ -436,101 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple follows Google in adopting Trump’s ‘Lake America’ name",
-        "link": "https://techcrunch.com/2026/09/01/apple-follows-google-in-adopting-trumps-lake-america-name/",
-        "pubDate": "Tue, 01 Sep 2026 22:13:34 +0000",
-        "description": "Apple Maps is following President Trump's executive order to change the name of Lake Ontario to Lake America.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
-        "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
-        "pubDate": "Tue, 01 Sep 2026 22:08:24 +0000",
-        "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-        "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
-        "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
-        "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-        "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-        "pubDate": "Tue, 01 Sep 2026 20:53:05 +0000",
-        "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "X says attackers are targeting user accounts after the launch of X Money",
-        "link": "https://techcrunch.com/2026/09/01/x-says-attackers-are-targeting-accounts-after-the-launch-of-x-money/",
-        "pubDate": "Tue, 01 Sep 2026 20:48:32 +0000",
-        "description": "X is investigating a wave of unsolicited password reset emails that it believes may be tied to the rollout of its new payments service.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "John Ternus hypes ‘huge launch next week’ in first memo as Apple CEO",
-        "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
-        "pubDate": "Tue, 01 Sep 2026 19:45:28 +0000",
-        "description": "Apple is hosting its iPhone release event next week, which is rumored to feature the first-ever foldable iPhone.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic’s new Fable release is cheaper, less restrictive",
-        "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
-        "pubDate": "Tue, 01 Sep 2026 19:39:22 +0000",
-        "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Thrive’s Kushner defends involvement in FIFA mess, hires Elon’s go-to lawyer",
-        "link": "https://techcrunch.com/2026/09/01/thrives-kushner-defends-involvement-in-fifa-mess-hires-elons-go-to-lawyer/",
-        "pubDate": "Tue, 01 Sep 2026 19:30:24 +0000",
-        "description": "New York's prestigious-yet-secretive venture firm Thrive Capital finally speaks out about its involvement in the messy drama upending international soccer.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Who is John Ternus, the new Apple CEO?",
-        "link": "https://techcrunch.com/2026/09/01/who-is-john-ternus-the-incoming-apple-ceo/",
-        "pubDate": "Tue, 01 Sep 2026 18:02:00 +0000",
-        "description": "Starting on September 1, Ternus will lead one of the world's most valuable companies, but if you're not a dedicated Apple enthusiast, you've probably never heard of this man, who has largely remained out of the spotlight until now.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
-        "link": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
-        "pubDate": "2026-09-02T09:00:00-04:00",
-        "description": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every Wednesday, each featuring \"a twist\" on games like Word",
+        "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
+        "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
+        "pubDate": "2026-09-02T13:01:08-04:00",
+        "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spa",
         "source": "TheVerge"
       },
       {
-        "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
-        "link": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
-        "pubDate": "2026-09-02T08:00:00-04:00",
-        "description": "Believe it or not, the Tesla Cybercab is coming. Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing door sporting, steering wheel-free two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them ",
+        "title": "The best tech and gadgets announced at IFA so far",
+        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "pubDate": "2026-09-02T12:43:50-04:00",
+        "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of th",
         "source": "TheVerge"
       },
       {
-        "title": "The amazing USB-C gadgets that play old Nintendo cartridges",
-        "link": "https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes",
-        "pubDate": "2026-09-02T07:30:00-04:00",
-        "description": "Last week, I powered on a 26-year-old copy of Pokémon Pinball, one of the best Game Boy games ever made. My save file was no more. The Charmander I'd caught for my daughter, the high scores we'd set together… gone. Before flash memory, Nintendo cartr",
+        "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+        "pubDate": "2026-09-02T12:40:50-04:00",
+        "description": "OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testing. As details about the model trickle out, researchers are warning it",
         "source": "TheVerge"
       },
       {
-        "title": "The robot butler dream doesn’t have legs",
-        "link": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
-        "pubDate": "2026-09-02T07:00:00-04:00",
-        "description": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of th",
+        "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+        "pubDate": "2026-09-02T12:12:25-04:00",
+        "description": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articl",
         "source": "TheVerge"
       },
       {
-        "title": "Is this the future of America?",
-        "link": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
-        "pubDate": "2026-09-02T06:00:01-04:00",
-        "description": "In 2007, the US was on the cusp of an economic recession, and Buddy Rizer was tasked with finding Loudoun County, Virginia, a new way to make money. Rizer’s earlier career as a radio DJ didn’t exactly make him an obvious candidate to find a solution,",
+        "title": "Google is sending MrBeast into the wilderness, armed with AI",
+        "link": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
+        "pubDate": "2026-09-02T11:47:03-04:00",
+        "description": "MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jimmy \"MrBeast\" Donaldson turning to Gemini for wilderness survival advic",
         "source": "TheVerge"
       }
     ],
