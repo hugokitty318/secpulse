@@ -1,7 +1,21 @@
 {
-  "ts": "2026-09-02T09:01:00.207718Z",
+  "ts": "2026-09-02T13:35:51.323479Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "微軟開源AI代理自動化框架UFO存在重大漏洞，攻擊者可直接遠端控制Android裝置",
+        "link": "https://www.ithome.com.tw/news/178636",
+        "pubDate": "2026-09-02 18:24",
+        "description": "UFO框架的Mobile MCP服務缺乏身分驗證，攻擊者可透過網路取得Android裝置螢幕資料並遠端操作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PaperCut預告零時差漏洞可能還會有更多修補程式",
+        "link": "https://www.ithome.com.tw/news/178627",
+        "pubDate": "2026-09-02 17:32",
+        "description": "列印管理軟體廠商PaperCut在解決本次零時差漏洞攻擊活動的作法上，與大部分廠商採取完全不同的作法，該公司似乎選擇且戰且走，在初次提供緩解漏洞的措施後，又在不到一週內推出兩次緊急更新，該公司共同創辦人暨執行長Chris Dance指出，接下來他們還會視情況推出其他更新",
+        "source": "iThome資安"
+      },
       {
         "title": "李飛飛發布Atlas，世界模型進入新時代",
         "link": "https://www.ithome.com.tw/news/178624",
@@ -21,6 +35,13 @@
         "link": "https://www.ithome.com.tw/news/178620",
         "pubDate": "2026-09-02 15:27",
         "description": "本週半導體矽智財興櫃公司乾瞻（7898）發布資安重訊，指出ERP系統遭到加密攻擊，未擴及研發環境的資訊系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月2日，近2.2萬臺Exchange Server暴露於漏洞導致的接管風險，臺灣也有250臺",
+        "link": "https://www.ithome.com.tw/news/178617",
+        "pubDate": "2026-09-02 14:51",
+        "description": "針對微軟8月份修補的Exchange Server高風險漏洞CVE-2026-62911，荷蘭國家網路安全中心（NCSC-NL）警告漏洞PoC已公開，Shadowserver掃描發現全球仍有近2.2萬臺Exchange Server主機直接暴露於網際網路且尚未修補",
         "source": "iThome資安"
       },
       {
@@ -45,14 +66,14 @@
         "source": "iThome資安"
       },
       {
-        "title": "PaperCut揭露零時差漏洞發現過程，透露攻擊鏈涉及列印管理系統鮮少使用的功能",
+        "title": "PaperCut揭露零時差漏洞發現過程，該公司借助客戶通報的情資掌握攻擊鏈",
         "link": "https://www.ithome.com.tw/news/178612",
         "pubDate": "2026-09-02 13:34",
-        "description": "針對處理零時差漏洞CVE-2026-82078與CVE-2026-81578的攻擊活動，PaperCut在發布第三版緊急更新的同時，共同創辦人暨執行長Chris Dance說明目前為止的處理情形，並透露漏洞利用鏈源自一項鮮少使用的PaperCut功能",
+        "description": "針對處理零時差漏洞CVE-2026-82078與CVE-2026-81578的攻擊活動，PaperCut在發布第三版緊急更新的同時，共同創辦人暨執行長Chris Dance說明目前為止的處理情形，並透露漏洞利用活動範圍有限",
         "source": "iThome資安"
       },
       {
-        "title": "近2.2萬臺Exchange Server暴露於因漏洞導致的外網接管風險，臺灣也有250臺",
+        "title": "近2.2萬臺Exchange Server暴露於漏洞導致的接管風險，臺灣也有250臺",
         "link": "https://www.ithome.com.tw/news/178609",
         "pubDate": "2026-09-02 12:46",
         "description": "荷蘭國家網路安全中心（NCSC-NL）警告Exchange Server高風險漏洞CVE-2026-62911的PoC已公開，遭利用風險大增，用戶應儘速更新",
@@ -87,45 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "Google更新Chrome 152穩定版，修補26個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178601",
-        "pubDate": "2026-09-02 11:01",
-        "description": "Chrome瀏覽器修補FileSystem、TabStrip、FullScreen等元件漏洞，以記憶體安全與授權機制問題為主",
-        "source": "iThome資安"
-      },
-      {
-        "title": "光電廠杭特遭網路攻擊",
-        "link": "https://www.ithome.com.tw/news/178600",
-        "pubDate": "2026-09-02 10:56",
-        "description": "本週光電廠杭特（3297）發布資安重訊，指出資訊系統遭到攻擊，已採取防禦機制因應，初步評估對公司營運無重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "富驊企業偵測到網路攻擊．緊急啟動應變機制將受影響系統隔離",
-        "link": "https://www.ithome.com.tw/news/178599",
-        "pubDate": "2026-09-02 10:48",
-        "description": "電腦及週邊設備商富驊企業（5465）透過股市公開資訊觀測站發布重大訊息，指出部分資訊系統遭受網路安全事件攻擊，該公司已即刻啟動資安應變機制進行處理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版",
-        "link": "https://www.ithome.com.tw/news/178604",
-        "pubDate": "2026-09-02  12:09:56",
-        "description": "Apple再次提醒Mac開發者，macOS 27將是Rosetta一般用途支援的最後一版。使用Apple silicon晶片的Mac升級至macOS 27後，仍可透過Rosetta執行僅提供Intel版本的應用程式，但從macOS 28起，除部分舊遊戲外，一般Intel版應用程式將無法繼續執行。",
+        "title": "藥局藥師也有專用的Agent！藥事AI Agent計畫正式啟動、首波瞄南部50家示範藥局",
+        "link": "https://www.ithome.com.tw/news/178639",
+        "pubDate": "2026-09-02  08:09:30",
+        "description": "為響應行政院大南方新矽谷推動方案，高通與華碩旗下台智雲、台生科今日宣布啟動藥事AI Agent計畫，首波預計導入嘉義、臺南、高雄、屏東50家示範藥局。這套Agent結合AI筆電與邊緣AI推論平臺，在裝置端執行開源AI模型，還能透過OCR辨識處方箋、藥袋等資料，再搭配食藥署藥品仿單建立的RAG知識庫，提供28項用藥適切性安全檢核，包括藥物交互作用、重複用藥、不適當用藥等風險，並支援藥師進行病患用藥諮詢與衛教。",
         "source": "iThome"
       },
       {
-        "title": "John Ternus正式接任蘋果執行長",
-        "link": "https://www.ithome.com.tw/news/178608",
-        "pubDate": "2026-09-02  12:09:05",
-        "description": "蘋果本周二（9/1）正式完成備受矚目的執行長交接，由硬體工程資深副總裁John Ternus接替掌舵15年的Tim Cook，成為蘋果新任執行長，Cook則轉任董事會執行董事長。當天蘋果股價上漲了2.61%，以325.13美元作收。\n現年51歲的Ternus自2001年加入蘋果產品設計團隊，2013年升任硬體工程副總裁，2021年進入執行團隊擔任硬體工程資深副總裁，在蘋果已服務25年。",
+        "title": "Diraq將8量子位元矽自旋量子電腦搬進Equinix，驗證商用資料中心部署",
+        "link": "https://www.ithome.com.tw/news/178625",
+        "pubDate": "2026-09-02  07:09:14",
+        "description": "澳洲量子運算業者Diraq與Equinix宣布，將在雪梨的Equinix資料中心部署8量子位元矽自旋量子電腦，預計10月完成安裝。整套設備包含低溫冷卻與控制系統，功耗低於20千瓦，可放在既有商用資料中心與一般伺服器共同運作。雙方將測試量子電腦的網路連線、遠端監控，以及與CPU、GPU等現有運算設備整合。",
         "source": "iThome"
       },
       {
-        "title": "Meta推出即時音訊模型Muse Voice Transcribe，Mac按住Fn鍵即可系統級語音輸入",
-        "link": "https://www.ithome.com.tw/news/178605",
-        "pubDate": "2026-09-02  11:09:25",
-        "description": "Meta周二（9/1）正式推出由超級智慧實驗室（Meta Superintelligence Labs，MSL）所開發的首個即時音訊感知模型Muse Voice Transcribe。該模型將串流式自動語音辨識、說話者分離（Diarization）與端點偵測（Endpointing）整合於單一模型之中，用戶說話時系統可同步輸出文字，無需等待完整錄音結束後再進行後製處理。",
+        "title": "數發部AIEC公布國內外通用模型主權AI評測結果，模型不只要懂繁中、社會環境，還要懂臺灣價值觀",
+        "link": "https://www.ithome.com.tw/news/178626",
+        "pubDate": "2026-09-02  05:09:49",
+        "description": "數發部今天(9/2)公布AI產品與系統評測中心（AIEC）的",
         "source": "iThome"
       },
       {
@@ -144,6 +144,34 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "SEMICON 大師論壇：AI 需求快到擴產追不上，台灣供應鏈下一步怎麼走？",
+        "link": "https://techorange.com/2026/09/02/semicon-ceo_summit-fireside-chat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 19:15:19 +0800",
+        "description": "AI 算力需求加速，但台灣半導體供應鏈面對的問題，已不只是要不要擴產，而是供應鏈產能跟不跟得上的問題。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會爐邊對談一開始就拋出這個問題。他指出，全球正全力增加 AI 基礎建設，而台灣供應鏈目前仍是其中的瓶頸之一。當 AI 同時牽動地緣政治與全球產業發展，台灣接下來該扮演什麼角色，也成為這場對談一路追問的主軸。 第一個問題，就是需求究竟漲得有多快。台灣半導體產業協會理事長侯永清在對談",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 基建走向系統級整合，下一波效率從哪來？專訪微軟 Azure 全球基礎架構總經理",
+        "link": "https://techorange.com/2026/09/02/ai-semicon-microsoft-sillicon-to-system/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 17:31:32 +0800",
+        "description": "AI 爆發性成長，AI 基礎設施也在全球持續擴張，當中最難克服的限制究竟是晶片、電力，還是資料中心容量？微軟 Azure 全球基礎架構總經理 Alistair Speirs 藉著 SEMICON Taiwan 國際半導體展來台、接受《TechOrange》專訪時，給出的答案是：「時間。時間是最大的限制。」 原因在於，支撐 AI 的技術堆疊有著完全不同的建設與更新週期。Speirs 指出，新增電力供應往往得提前 10 年、20 年，甚至 30 年規劃；資料中心需要數年建設；晶片持續快速換代；軟體卻",
+        "source": "TechOrange"
+      },
+      {
+        "title": "史上最大筆收購，NVIDIA 為什麼要買一個開源社群？",
+        "link": "https://techorange.com/2026/09/02/cloudmile-nvidia-hugging-face/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 17:29:46 +0800",
+        "description": "如果你是 NVIDIA，模型公司、應用公司、開源社群，三個只能買一個，你買哪個？大部分人會選前兩個，模型最貴、最有名，也最像 AI 本身，應用離客戶最近，最快看得到營收，但 NVIDIA 選了第三個，它買的是一個年營收 1.5 億美元、平台上大部分東西還免費的社群平台。 NVIDIA 日前以 129 億美元收購 Hugging Face，是它史上最大一筆收購案，超過 2020 年收購 Mellanox 的 70 億美元，Hugging Face 的年化營收據報導僅約 1.5 億美元，129 億美",
+        "source": "TechOrange"
+      },
+      {
+        "title": "高盛、花旗等 21 家銀行組隊發穩定幣：技術不是難題，真正的考驗在哪？",
+        "link": "https://techorange.com/2026/09/02/goldman-sachs-bofa-plan-dollar-stablecoin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 17:01:40 +0800",
+        "description": "包括高盛、美國銀行、花旗和德意志銀行在內的 21 家金融機構表示，將於今年成立一家新公司，並於 2027 年上半年發行一種與美元掛鉤的加密貨幣。《Reuters》報導，這個團體最早於 2025 年 10 月公布，當時共有 10 家銀行參與。該團體在一份聲明中提到，除了美元穩定幣之外，希望進一步推出與其他 G7 貨幣掛鉤的穩定幣，其中歐元是優先發展目標。 價格反彈與川普支持助攻，區塊鏈技術加速穩定幣挺進主流金融 穩定幣是一種以加密貨幣形式在全球轉移資金的工具，目前主要用於加密貨幣交易。隨著 202",
+        "source": "TechOrange"
+      },
       {
         "title": "AI Agent 的 Token 燒得比預期快，不想收到超額帳單該注意哪些事？",
         "link": "https://techorange.com/2026/09/02/cloudmile-ai-agent-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,37 +248,37 @@
         "pubDate": "Tue, 01 Sep 2026 10:49:15 +0800",
         "description": "AI 熱潮席捲零售業，各大企業紛紛投入資源探索生成式 AI 與 AI Agent，但對 IKEA 而言，真正的挑戰並非「能用什麼 AI」，而是「哪些 AI 值得做」。 作為全球最大的 IKEA 加盟商，Ingka Group 數位長 Parag Parekh 接受麥肯錫採訪表示，IKEA 建立一套雙軸四象限矩陣，將 AI 專案依照「顧客導向或員工導向」以及「成長導向或成本導向」進行分類，再根據商業價值與顧客體驗影響力排列優先順序。推薦引擎、定價與代理式商業等應用屬於顧客成長領域，供應鏈與最後一哩",
         "source": "TechOrange"
-      },
-      {
-        "title": "【情境工程人才缺口】不只是寫提示詞，企業需要能設計 AI 運作環境的人",
-        "link": "https://techorange.com/2026/09/01/ai-context-engineering-jobs-boom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 01 Sep 2026 09:38:29 +0800",
-        "description": "提示工程（Prompt Engineering）曾是極為熱門的新興 AI 職缺之一，如科技人才招募公司 SPG Resourcing 就於 2025 年指出，英國當地的 AI 提示詞工程師職缺數量，相較前一年增長了 180%。 提示詞工程師的招募熱潮，精準捕捉了生成式 AI 崛起時的商業氛圍，當時的企業正試圖理解如何與大型語言模型（LLM）對話，並試圖將各種早期實驗轉化為實用成果。 隨著 AI 不斷發展，根據會計師事務所 PwC 統計，英國當地對於 AI 專家的職缺招募，今年僅較去年增長約 61",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【中小企業 AI 代理】AI 代理讓中小企業擁有數位勞動力，「信任邊界」決定它能走多遠",
-        "link": "https://techorange.com/2026/09/01/ai-agents-are-reshaping-business/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 01 Sep 2026 09:37:47 +0800",
-        "description": "過去幾年，中小企業使用 AI 最常見的方式仍是叫它產出一篇貼文、一張圖片或一段商品介紹。這些工具降低了內容生產門檻，但核心工作並未消失，因為文案寫完仍要人手動更新網站，收到客戶詢問要人工判斷並輸入 CRM，預約還得另外確認行事曆。 商業網站代管公司 Bluehost 執行長 Sachin Puri 認為，AI 代理真正的改變就在這裡；過去的 AI 幫企業創造東西，代理則開始幫企業把事情做完。 從產生內容，到完成一整段工作流程 一般生成式 AI 接到「寫一篇母親節促銷文案」的指令，能完成文字，但何",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】AI 算力愈強、傳輸愈吃緊！台積電：矽光子 2027 年市占破 50%",
-        "link": "https://techorange.com/2026/09/01/tsmc-silicon-photonics-ai-interconnect/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 01 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊台積電：矽光子 2027 年光收發器市占估破 50%，AI 傳輸成新瓶頸 SEMICON Taiwan 國際半導體展 9 月 2 日登場，展前技術論壇率先聚焦 AI 運算瓶頸。台積電指出，AI 推理與代理式 AI 帶動運算量快速成長，但記憶體頻寬與資料傳輸速度跟不上。台積電引用高盛預估，到 2030 年全球 AI Token 使用量將較 2026 年增加 24 倍；AI 運算能力每兩年約成長 3 倍，I/O 效能卻僅成長約 1.4 倍。隨著資料",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 發展還在第一階段，吳田玉：台灣要加速把基礎建設做出來",
-        "link": "https://techorange.com/2026/08/31/semicon-2026-ase-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 20:14:18 +0800",
-        "description": "AI 持續推高半導體投資，但是算力基礎建設越蓋越大，也開始擠壓土地、人才、資金與電力。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 展前記者會指出，AI 發展短期確實帶來資源與地緣政治的「擠壓現象」，原因是 AI 從人類既有經驗開始發展，部分工作與生產模式可能因此被取代；但若拉長時間來看，AI 更大的價值在於跨領域創新，台灣仍必須加速投資，推動 AI 跳脫目前階段、繼續往前發展。 吳田玉把目前 AI 的發展視為一條更長路徑的起點，指出「第一階段是人",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
+        "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
+        "pubDate": "Wed, 02 Sep 2026 17:00:00 +0530",
+        "description": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed w",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
+        "pubDate": "Wed, 02 Sep 2026 16:23:49 +0530",
+        "description": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall's William",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
+        "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
+        "pubDate": "Wed, 02 Sep 2026 14:48:02 +0530",
+        "description": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.\n\nThe project shipped fixes in versions 4.",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
+        "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
+        "pubDate": "Wed, 02 Sep 2026 14:40:23 +0530",
+        "description": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 20",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
         "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
@@ -271,6 +299,27 @@
         "pubDate": "Wed, 02 Sep 2026 12:26:30 +0530",
         "description": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was undertaken on August 31, 2026, by authorities from",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Dropbox accounts breached through Lenovo email verification flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
+        "pubDate": "Wed, 02 Sep 2026 08:30:22 -0400",
+        "description": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft Defender flags legitimate Google search links as malicious",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
+        "pubDate": "Wed, 02 Sep 2026 06:29:39 -0400",
+        "description": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "US charges Russian for infecting 80,000 freelancers with malware",
+        "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
+        "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
+        "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Sality botnet infrastructure dismantled in joint global takedown",
@@ -341,58 +390,37 @@
         "pubDate": "Tue, 01 Sep 2026 14:35:30 +0530",
         "description": "METR (short for Model Evaluation and Threat Research and pronounced \"Meter\"), a research non-profit that evaluates frontier artificial intelligence (AI) models for their ability to carry out long-horizon, agentic tasks, disclosed that it suffered \"tw",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis",
-        "link": "https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html",
-        "pubDate": "Tue, 01 Sep 2026 13:56:24 +0530",
-        "description": "Cybersecurity researchers have disclosed a new technique dubbed GuardBreaker that's been put to use by a Russia-aligned threat actor known as UAC-0099 against a target in Ukraine with an aim to interfere with artificial intelligence (AI)-assisted ana",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Langflow flaw exploited to steal OpenAI and AWS keys",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-langflow-flaw-exploited-to-steal-openai-and-aws-keys/",
-        "pubDate": "Tue, 01 Sep 2026 13:54:22 -0400",
-        "description": "Threat actors are exploiting an unauthenticated remote code execution vulnerability (CVE-2026-0768) in Langflow, an open-source framework for building AI applications, to steal credentials, tokens, and keys. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html",
-        "pubDate": "Tue, 01 Sep 2026 12:52:30 +0530",
-        "description": "Threat actors are exploiting two critical flaws impacting Langflow and Ruby on Rails, according to new findings from VulnCheck.\n\nThe vulnerabilities in question are listed below -\n\n\n  CVE-2026-0768 (CVSS score: 9.8) - A lack of proper validation of a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers push malicious Virtualizor update in BGP hijacking attack",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-push-malicious-virtualizor-update-in-bgp-hijacking-attack/",
-        "pubDate": "Tue, 01 Sep 2026 10:45:06 -0400",
-        "description": "Hackers delivered malicious updates to the Virtualizor VPS management software after hijacking BGP routing for its update infrastructure and redirecting update requests to malicious servers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Novocure data breach affects more than 1,400 cancer patients",
-        "link": "https://www.bleepingcomputer.com/news/security/novocure-data-breach-affects-more-than-1-400-cancer-patients/",
-        "pubDate": "Tue, 01 Sep 2026 10:28:40 -0400",
-        "description": "Healthtech company Novocure says the data of an undisclosed number of employees and more than 1,400 U.S. cancer patients has been exposed in a mid-August cyberattack. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Why Even the Best Edge Security Still Misses High-Risk Sessions",
-        "link": "https://www.bleepingcomputer.com/news/security/why-even-the-best-edge-security-still-misses-high-risk-sessions/",
-        "pubDate": "Tue, 01 Sep 2026 10:01:11 -0400",
-        "description": "Attackers can hide behind residential proxies, VPNs, and other infrastructure that makes malicious sessions appear legitimate to existing edge security controls. Spur explains how session enrichment adds data points that help organizations identify r",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Nearly 22,000 Microsoft Exchange servers vulnerable to hijack attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/nearly-22-000-microsoft-exchange-servers-vulnerable-to-hijack-attacks/",
-        "pubDate": "Tue, 01 Sep 2026 08:38:35 -0400",
-        "description": "Nearly 22,000 Microsoft Exchange servers exposed online remain unpatched against a high-severity authentication bypass vulnerability that allows attackers to hijack all user mailboxes. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
+        "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
+        "pubDate": "Wed, 02 Sep 2026 13:11:47 +0000",
+        "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Adobe is making its tools available in Slack",
+        "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
+        "pubDate": "Wed, 02 Sep 2026 13:09:27 +0000",
+        "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber is laying off 10% of staff, or 3,300 people",
+        "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+        "pubDate": "Wed, 02 Sep 2026 12:14:35 +0000",
+        "description": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ride-sharing, delivery, and robotaxi divisions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+        "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+        "pubDate": "Wed, 02 Sep 2026 12:09:42 +0000",
+        "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Larry Page’s flying car company Pivotal loses its CEO",
         "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
@@ -471,66 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-        "link": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-        "pubDate": "Tue, 01 Sep 2026 17:35:37 +0000",
-        "description": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "ChatGPT Health adds Epic integration for clinicians to import patient data",
-        "link": "https://techcrunch.com/2026/09/01/chatgpt-health-adds-epic-integration-for-clinicians-to-import-patient-data/",
-        "pubDate": "Tue, 01 Sep 2026 17:00:00 +0000",
-        "description": "OpenAI said that the integration provides read-only access to health records for clinicians.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Waymo goes on offense ahead of Tesla’s Cybercab launch",
-        "link": "https://techcrunch.com/2026/09/01/waymo-goes-on-offense-ahead-of-teslas-cybercab-launch/",
-        "pubDate": "Tue, 01 Sep 2026 16:49:12 +0000",
-        "description": "Waymo argued that fully autonomous vehicles aren't possible without using a mix of sensors and warned that pure end-to-end AI systems aren't safe enough.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-        "link": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-        "pubDate": "Tue, 01 Sep 2026 16:31:04 +0000",
-        "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Dell’s newest laptop sounds a lot like a MacBook Neo",
-        "link": "https://www.theverge.com/gadgets/987839/dell-14s-student-laptop-ifa-2026-price-specs",
-        "pubDate": "2026-09-02T03:00:00-04:00",
-        "description": "Dell's new Dell 14S laptop sounds a lot like a MacBook Neo: it comes in four colors, is aimed at students, and it starts with 8GB of RAM and 256GB of storage. Announced at IFA 2026, the 14S is meant to sit below the recently launched XPS 13 and offer",
+        "title": "‘Wordle in 1’ is the NYT’s new puzzle just for subscribers",
+        "link": "https://www.theverge.com/games/988099/nyt-bonus-puzzle-games-weekly-wordle",
+        "pubDate": "2026-09-02T09:00:00-04:00",
+        "description": "The New York Times has prepared some exclusive goodies for its subscribers: a weekly drop of bonus puzzles based on the publication's popular games. Five to six new puzzles will be released every Wednesday, each featuring \"a twist\" on games like Word",
         "source": "TheVerge"
       },
       {
-        "title": "This new Roomba seals itself to your carpet",
-        "link": "https://www.theverge.com/tech/987582/irobot-roomba-max-875-sealforce-robot-vacuum-announced",
-        "pubDate": "2026-09-02T02:00:00-04:00",
-        "description": "iRobot has announced a new flagship robot vacuum, which it will showcase at IFA in Berlin this week, the company's first big tech trade show in years. The Roomba maker will be exhibiting under its new owner, Picea Robotics, the contract manufacturer ",
+        "title": "Elon Musk’s heterodox robotaxi philosophy gets put to the test",
+        "link": "https://www.theverge.com/transportation/987901/tesla-cybercab-launch-elon-musk-robotaxi-camera-lidar",
+        "pubDate": "2026-09-02T08:00:00-04:00",
+        "description": "Believe it or not, the Tesla Cybercab is coming. Nearly two years after Elon Musk first unveiled the gold-tinted, gull-wing door sporting, steering wheel-free two-seaters as the future of Tesla's autonomy efforts, the company is finally putting them ",
         "source": "TheVerge"
       },
       {
-        "title": "Google needs Hollywood more than the studios need AI",
-        "link": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
-        "pubDate": "2026-09-01T18:50:29-04:00",
-        "description": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals",
+        "title": "The amazing USB-C gadgets that play old Nintendo cartridges",
+        "link": "https://www.theverge.com/games/987972/epilogue-gb-sn-operator-review-nintendo-game-boy-snes",
+        "pubDate": "2026-09-02T07:30:00-04:00",
+        "description": "Last week, I powered on a 26-year-old copy of Pokémon Pinball, one of the best Game Boy games ever made. My save file was no more. The Charmander I'd caught for my daughter, the high scores we'd set together… gone. Before flash memory, Nintendo cartr",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
-        "pubDate": "2026-09-01T18:01:36-04:00",
-        "description": "Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude Fable 5.1 offers stronger performance than Fable 5, but costs around 2",
+        "title": "The robot butler dream doesn’t have legs",
+        "link": "https://www.theverge.com/tech/987756/humanoid-robot-butlers-lg-cloid-smart-home-ifa",
+        "pubDate": "2026-09-02T07:00:00-04:00",
+        "description": "The idea of humanoid robots running our homes has been the stuff of science fiction for years. But unlike hoverboards and self-tying sneakers, a robot housekeeper has never felt close to rolling into our homes. Until now. This has been the year of th",
         "source": "TheVerge"
       },
       {
-        "title": "Apple Maps follows Google in renaming Lake Ontario",
-        "link": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-        "pubDate": "2026-09-01T17:22:56-04:00",
-        "description": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade",
+        "title": "Is this the future of America?",
+        "link": "https://www.theverge.com/cs/features/975597/loudoun-county-virginia-data-center-backlash",
+        "pubDate": "2026-09-02T06:00:01-04:00",
+        "description": "In 2007, the US was on the cusp of an economic recession, and Buddy Rizer was tasked with finding Loudoun County, Virginia, a new way to make money. Rizer’s earlier career as a radio DJ didn’t exactly make him an obvious candidate to find a solution,",
         "source": "TheVerge"
       }
     ],
