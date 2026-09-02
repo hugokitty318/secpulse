@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-02T20:05:45.605110Z",
+  "ts": "2026-09-02T22:35:41.002198Z",
   "tabs": {
     "cn_sec": [
       {
@@ -243,10 +243,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "導入 AI 不必樣樣都做，IKEA 用「雙軸四象限」決定投入順序",
-        "link": "https://techorange.com/2026/09/01/ikea-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 01 Sep 2026 10:49:15 +0800",
-        "description": "AI 熱潮席捲零售業，各大企業紛紛投入資源探索生成式 AI 與 AI Agent，但對 IKEA 而言，真正的挑戰並非「能用什麼 AI」，而是「哪些 AI 值得做」。 作為全球最大的 IKEA 加盟商，Ingka Group 數位長 Parag Parekh 接受麥肯錫採訪表示，IKEA 建立一套雙軸四象限矩陣，將 AI 專案依照「顧客導向或員工導向」以及「成長導向或成本導向」進行分類，再根據商業價值與顧客體驗影響力排列優先順序。推薦引擎、定價與代理式商業等應用屬於顧客成長領域，供應鏈與最後一哩",
+        "title": "【科技早餐】OpenAI Astra 可自主找出零日漏洞，戴爾 AI 伺服器年營收上看 740 億美元",
+        "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 03 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI Astra 測試發現兩個零日漏洞，首度達關鍵級資安門檻 OpenAI 表示，即將推出的新模型 Astra，已達到公司準備框架中的關鍵級資安能力門檻，是 OpenAI 第一個被列入這個等級的模型。在取得適當工具與權限後，Astra 可以找出過去未知的軟體漏洞、設計可實際運作的攻擊方法，並在不需要人類逐步指揮的情況下，對多個高防護系統執行完整攻擊策略，能力高於目前公開的 GPT-5.6 Sol。 OpenAI 測試顯示，Astra 曾",
         "source": "TechOrange"
       }
     ],
@@ -292,6 +292,13 @@
         "pubDate": "Wed, 02 Sep 2026 17:52:02 +0530",
         "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infecte",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
+        "pubDate": "Wed, 02 Sep 2026 17:00:13 -0400",
+        "description": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
@@ -383,16 +390,37 @@
         "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
         "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Sality botnet infrastructure dismantled in joint global takedown",
-        "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-        "pubDate": "Wed, 02 Sep 2026 04:00:43 -0400",
-        "description": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
+        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
+        "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
+        "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+        "pubDate": "Wed, 02 Sep 2026 21:38:34 +0000",
+        "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
+        "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
+        "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
+        "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
+        "pubDate": "Wed, 02 Sep 2026 20:12:41 +0000",
+        "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+        "source": "TechCrunch"
+      },
       {
         "title": "It sure looks like hackers breached a major ID card verification service",
         "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
@@ -425,7 +453,7 @@
         "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
         "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
         "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
-        "description": "\"The United States has a strong interest in continuing to develop a robust and competitive\nartificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+        "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
         "source": "TechCrunch"
       },
       {
@@ -471,32 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Norway considers ban on camera-enabled wearable ‘pervert glasses’",
-        "link": "https://techcrunch.com/2026/09/02/norway-considers-ban-on-camera-enabled-wearable-pervert-glasses/",
-        "pubDate": "Wed, 02 Sep 2026 13:11:47 +0000",
-        "description": "The Nordic country says wearable camera headsets need to be regulated given their privacy risks.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Adobe is making its tools available in Slack",
-        "link": "https://techcrunch.com/2026/09/02/adobe-is-making-its-tools-available-in-slack/",
-        "pubDate": "Wed, 02 Sep 2026 13:09:27 +0000",
-        "description": "Users will be able to access Express, Premiere, and Acrobat in Slack",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uber is laying off 10% of staff, or 3,300 people",
-        "link": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-        "pubDate": "Wed, 02 Sep 2026 12:14:35 +0000",
-        "description": "Uber is laying off about 3,300 people, or about 10% of its global headcount, in a bid to reduce management layers and invest more in its ridesharing, delivery, and robotaxi divisions.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
-        "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
-        "pubDate": "Wed, 02 Sep 2026 12:09:42 +0000",
-        "description": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
-        "source": "TechCrunch"
+        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+        "pubDate": "2026-09-02T16:11:40-04:00",
+        "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the s",
+        "source": "TheVerge"
       },
       {
         "title": "Here are some of REI’s best Labor Day sale deals",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
         "pubDate": "2026-09-02T13:01:08-04:00",
         "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The best tech and gadgets announced at IFA so far",
-        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
-        "pubDate": "2026-09-02T12:43:50-04:00",
-        "description": "The doors to Europe's largest consumer tech show haven't opened to the public yet, but there's already plenty of news coming out of IFA 2026 in Berlin, Germany. If you're already struggling to keep up with what has been announced, here are some of th",
         "source": "TheVerge"
       }
     ],
