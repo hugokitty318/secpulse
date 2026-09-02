@@ -1,12 +1,75 @@
 {
-  "ts": "2026-09-02T00:07:02.928442Z",
+  "ts": "2026-09-02T04:25:32.067833Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "TerminalFix社交工程攻擊將受害主機變成存取企業內網的跳板",
-        "link": "https://www.ithome.com.tw/news/178577",
+        "title": "為因應零時差漏洞攻擊活動，PaperCut三度發布緊急修補程式",
+        "link": "https://www.ithome.com.tw/news/178607",
+        "pubDate": "2026-09-02 11:44",
+        "description": "9月1日PaperCut發布緊急修補程式第3版（Emergency Patch Release 3），其中解決新的弱點，並針對零時差漏洞攻擊活動加入額外的強化及緩解措施",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布ChromeOS長期支援版更新，修補28個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178606",
+        "pubDate": "2026-09-02 11:40",
+        "description": "ChromeOS LTS-144版修補Extensions、Input、UI與FileSystem等元件的高風險漏洞，以記憶體安全與驗證問題居多",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Palo Alto Networks併購Console，擴充AI代理資安能力",
+        "link": "https://www.ithome.com.tw/news/178603",
+        "pubDate": "2026-09-02 11:17",
+        "description": "Palo Alto Networks完成對AI原生IT服務管理平臺Console的交易，將運用其AI代理技術強化Cortex，讓安全團隊以自然語言處理資安訊號調查、工作排序與後續處置",
+        "source": "iThome資安"
+      },
+      {
+        "title": "偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查",
+        "link": "https://www.ithome.com.tw/news/178602",
+        "pubDate": "2026-09-02 11:03",
+        "description": "電子零組件廠偉訓（3032）遭遇網路攻擊，事發後隔離受影響的資訊系統因應，初步評估對公司營運沒有重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google更新Chrome 152穩定版，修補26個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178601",
+        "pubDate": "2026-09-02 11:01",
+        "description": "Chrome瀏覽器修補FileSystem、TabStrip、FullScreen等元件漏洞，以記憶體安全與授權機制問題為主",
+        "source": "iThome資安"
+      },
+      {
+        "title": "光電廠杭特遭網路攻擊",
+        "link": "https://www.ithome.com.tw/news/178600",
+        "pubDate": "2026-09-02 10:56",
+        "description": "本週光電廠杭特（3297）發布資安重訊，指出資訊系統遭到攻擊，已採取防禦機制因應，初步評估對公司營運無重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "富驊企業偵測到網路攻擊．緊急啟動應變機制將受影響系統隔離",
+        "link": "https://www.ithome.com.tw/news/178599",
+        "pubDate": "2026-09-02 10:48",
+        "description": "電腦及週邊設備商富驊企業（5465）透過股市公開資訊觀測站發布重大訊息，指出部分資訊系統遭受網路安全事件攻擊，該公司已即刻啟動資安應變機制進行處理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NSA發布ASIC安全最佳實務，歸納18類威脅強化晶片供應鏈防禦",
+        "link": "https://www.ithome.com.tw/news/178589",
+        "pubDate": "2026-09-02 10:17",
+        "description": "美國國家安全局（NSA）發布《ASIC最佳實踐威脅目錄》與《ASIC保證等級1最佳實踐》兩份技術報告，針對特殊應用積體電路在設計與製造流程中的蓄意威脅，歸納出18項對手破壞途徑並提出緩解建議",
+        "source": "iThome資安"
+      },
+      {
+        "title": "24個惡意NPM套件濫用鏡像架釣魚頁，攻擊者可遠端更換轉址目標",
+        "link": "https://www.ithome.com.tw/news/178596",
+        "pubDate": "2026-09-02 09:42",
+        "description": "攻擊者把假Cloudflare驗證頁藏進NPM套件，藉鏡像服務在合法網域呈現，再透過KeyVal遠端變更目的地，安裝套件本身雖不會中毒，但風險出現在使用者開啟頁面並遭轉址後",
+        "source": "iThome資安"
+      },
+      {
+        "title": "德國企業資安調查揭外國情報機構首度成第二大攻擊者類型",
+        "link": "https://www.ithome.com.tw/news/178575",
         "pubDate": "2026-09-02 08:00",
-        "description": "微軟揭露新一波ClickFix社交工程攻擊，駭客利用假Cloudflare驗證畫面誘導使用者執行惡意命令，之後透過多階段感染流程偵察組織內部環境，並部署可建立遠端連線的惡意程式",
+        "description": "外國情報機構正成為德國企業更難忽視的資安威脅。Bitkom最新調查顯示，37%受影響企業曾將事件歸因於外國情報機構，首度升為第二大攻擊者類型",
         "source": "iThome資安"
       },
       {
@@ -24,11 +87,39 @@
         "source": "iThome資安"
       },
       {
-        "title": "德國企業資安調查揭外國情報機構首度成第二大攻擊者類型",
-        "link": "https://www.ithome.com.tw/news/178575",
+        "title": "TerminalFix社交工程攻擊將受害主機變成存取企業內網的跳板",
+        "link": "https://www.ithome.com.tw/news/178577",
         "pubDate": "2026-09-02 08:00",
-        "description": "外國情報機構正成為德國企業更難忽視的資安威脅。Bitkom最新調查顯示，37%受影響企業曾將事件歸因於外國情報機構，首度升為第二大攻擊者類型",
+        "description": "微軟揭露新一波ClickFix社交工程攻擊，駭客利用假Cloudflare驗證畫面誘導使用者執行惡意命令，之後透過多階段感染流程偵察組織內部環境，並部署可建立遠端連線的惡意程式",
         "source": "iThome資安"
+      },
+      {
+        "title": "Apple再促淘汰Intel Mac應用，macOS 27將成Rosetta通用支援最後一版",
+        "link": "https://www.ithome.com.tw/news/178604",
+        "pubDate": "2026-09-02  12:09:56",
+        "description": "Apple再次提醒Mac開發者，macOS 27將是Rosetta一般用途支援的最後一版。使用Apple silicon晶片的Mac升級至macOS 27後，仍可透過Rosetta執行僅提供Intel版本的應用程式，但從macOS 28起，除部分舊遊戲外，一般Intel版應用程式將無法繼續執行。",
+        "source": "iThome"
+      },
+      {
+        "title": "John Ternus正式接任蘋果執行長",
+        "link": "https://www.ithome.com.tw/news/178608",
+        "pubDate": "2026-09-02  12:09:05",
+        "description": "蘋果本周二（9/1）正式完成備受矚目的執行長交接，由硬體工程資深副總裁John Ternus接替掌舵15年的Tim Cook，成為蘋果新任執行長，Cook則轉任董事會執行董事長。當天蘋果股價上漲了2.61%，以325.13美元作收。\n現年51歲的Ternus自2001年加入蘋果產品設計團隊，2013年升任硬體工程副總裁，2021年進入執行團隊擔任硬體工程資深副總裁，在蘋果已服務25年。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta推出即時音訊模型Muse Voice Transcribe，Mac按住Fn鍵即可系統級語音輸入",
+        "link": "https://www.ithome.com.tw/news/178605",
+        "pubDate": "2026-09-02  11:09:25",
+        "description": "Meta周二（9/1）正式推出由超級智慧實驗室（Meta Superintelligence Labs，MSL）所開發的首個即時音訊感知模型Muse Voice Transcribe。該模型將串流式自動語音辨識、說話者分離（Diarization）與端點偵測（Endpointing）整合於單一模型之中，用戶說話時系統可同步輸出文字，無需等待完整錄音結束後再進行後製處理。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenClaw 2.0擴充跨裝置與雲端代理工作，團隊可直接接手既有任務",
+        "link": "https://www.ithome.com.tw/news/178597",
+        "pubDate": "2026-09-02  09:09:47",
+        "description": "開源AI代理平臺OpenClaw推出2.0版本，重新調整初次安裝與瀏覽器操作介面，並擴充AI代理工作的執行方式。使用者可將正在進行的工作連同相關檔案，移至其他已配對裝置或雲端工作節點繼續執行，團隊成員也能加入既有工作，在保留原有對話脈絡下共同處理或接手任務。\nOpenClaw 2.0修改範圍涵蓋安裝、訊息、記憶、技能、模型、自動化、瀏覽器與原生App、外掛及安全機制。官方表示，本次版本共有933名貢獻者參與，其中569人首次參與專案，累計整合超過1.6萬個程式碼變更請求。",
+        "source": "iThome"
       },
       {
         "title": "勒索軟體Aurora同時借助Cursor AI與Claude Sonnet的力量，鎖定ESXi環境加密檔案",
@@ -43,107 +134,37 @@
         "pubDate": "2026-09-01 15:53",
         "description": "資安公司CloudSEK揭露勒索軟體Aurora活動，指出駭客利用AI程式碼助手Cursor規畫了能重複執行的攻擊行動，並在3個月的時間裡有超過20家受害組織，且有部分已支付贖金",
         "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月1日，AI生成詐騙內容成新威脅，數發部與Meta、Google等四大平臺聯手建立源頭阻詐防線",
-        "link": "https://www.ithome.com.tw/news/178579",
-        "pubDate": "2026-09-01 14:52",
-        "description": "依「詐欺犯罪危害防制條例」，四大網路廣告平臺須落實詐欺風險評估、廣告主實名制及資訊揭露，數發部並與業者合作，提供詐騙情資供AI訓練，以識別具有風險的詐騙內容",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員Nightmare Eclipse公開Nvidia記憶體中斷漏洞GreenSection",
-        "link": "https://www.ithome.com.tw/news/178574",
-        "pubDate": "2026-09-01 12:34",
-        "description": "本週資安研究人員Nightmare Eclipse公布Nvidia漏洞GreenSection，並指出攻擊者可輕易跨使用者利用，或破壞dwm.exe的處理程序",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客假冒《俠盜獵車手VI》外流遊戲檔案，散布惡意程式",
-        "link": "https://www.ithome.com.tw/news/178573",
-        "pubDate": "2026-09-01 12:25",
-        "description": "研究人員發現網路流傳113GB的《俠盜獵車手VI》ISO檔案幾乎全由零值資料填充，另夾帶惡意程式，玩家下載恐遭感染",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員Nightmare Eclipse公布卡巴斯基、Avast防毒軟體的零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/178570",
-        "pubDate": "2026-09-01 11:52",
-        "description": "近日資安研究人員Nightmare Eclipse公布卡巴斯基、Avast防毒軟體零時差漏洞HardBreacher、PrettyPrague，並指出皆可被用於權限提升",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國槍砲監管機構ATF遭網路入侵，勒索軟體組織Qilin聲稱犯行",
-        "link": "https://www.ithome.com.tw/news/178569",
-        "pubDate": "2026-09-01 11:08",
-        "description": "美國菸酒槍砲及爆炸物管理局確認獨立系統遭入侵，已立即切斷連線並展開調查，企業網路與線上服務系統未受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "應對AI漏洞挑戰，FIRST國際資安應變組織擴大漏洞研討會規模",
-        "link": "https://www.ithome.com.tw/news/178563",
-        "pubDate": "2026-09-01 10:50",
-        "description": "因應2026年CVE漏洞數量預計突破6.6萬個的歷史新高，加上AI被導入漏洞發現與利用後帶來的不確定性，FIRST國際資安應變組織決定將原有的Vuln4Cast漏洞預測研討會更名擴大，於9月下旬推出為期3天的VulnOptiCON 2026，盼集結資安實務人員、漏洞研究人員與學界力量，共同應對漏洞生態的劇烈變化",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PaperCut零時差漏洞疑似被用於竊取資料",
-        "link": "https://www.ithome.com.tw/news/178566",
-        "pubDate": "2026-09-01 10:46",
-        "description": "威脅情報公司Huntress、watchTowr、Defused Cyber先後指出，他們觀察到PaperCut零時差漏洞CVE-2026-82078、CVE-2026-81578的攻擊活動，活動類型從原本的偵察行為，演變成資料竊取活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國警告PaperCut零時差漏洞遭到積極利用",
-        "link": "https://www.ithome.com.tw/news/178562",
-        "pubDate": "2026-09-01 10:06",
-        "description": "本週PaperCut零時差漏洞被美國網路安全與基礎設施安全局（CISA）列入已遭利用的漏洞名單（KEV），聯邦機構需在兩週內完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA揭近兩年CVE數量翻倍，逾4成已知遭利用漏洞涉及長期軟體弱點",
-        "link": "https://www.ithome.com.tw/news/178542",
-        "pubDate": "2026-09-01 08:00",
-        "description": "CISA最新漏洞分析顯示，近兩年的已知遭利用漏洞（KEV）中，有41.5%涉及長期持續出現的軟體弱點。即使CVE數量快速攀升，輸入驗證、記憶體安全與命令注入等老問題仍持續成為攻擊突破口",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Microsoft 365驗證異常擴大，Exchange Online郵件與Teams等多項服務受影響",
-        "link": "https://www.ithome.com.tw/news/178571",
-        "pubDate": "2026-09-01  12:09:58",
-        "description": "微軟於臺灣時間9月1日凌晨開始調查Exchange Online異常，隨後確認問題波及多項Microsoft 365服務。Exchange Online受影響最明顯，使用者可能遇到郵件收發延遲或失敗、登入錯誤、信箱搜尋異常及管理功能無法正常操作，微軟初步將問題指向服務用來處理使用者身分驗證的核心設定，事故也波及Microsoft Teams、OneDrive for Business、SharePoint Online、Microsoft Purview及Microsoft Defender X",
-        "source": "iThome"
-      },
-      {
-        "title": "FTC攜22州控告Amazon廣告拍賣「暗藏加價」逾7年",
-        "link": "https://www.ithome.com.tw/news/178572",
-        "pubDate": "2026-09-01  12:09:16",
-        "description": "美國聯邦交易委員會（Federal Trade Commission，FTC）本周一（8/31）聯合阿拉斯加、亞利桑那、加州、科羅拉多、佛羅里達、華盛頓州等22州檢察長，向亞馬遜（Amazon）提起訴訟，指控其電商廣告拍賣機制長期暗藏隱形加價，涉及超過100萬名品牌與賣家，認為Amazon可能因此非法多賺逾200億美元。",
-        "source": "iThome"
-      },
-      {
-        "title": "Anthropic調整Claude Code每周用量上限，9月14日起較目前減少17%",
-        "link": "https://www.ithome.com.tw/news/178590",
-        "pubDate": "2026-09-01  04:09:50",
-        "description": "Anthropic調整AI程式開發工具Claude Code的每周用量上限，9月14日起，Pro、Max、Team及按席位計費的Enterprise方案，標準額度將比原本提高25%。不過目前使用者享有50%的臨時加碼，在新制上路後，實際可用額度會比現在減少約17%。",
-        "source": "iThome"
-      },
-      {
-        "title": "OpenAI ChatGPT Ads年化收入突破10億美元",
-        "link": "https://www.ithome.com.tw/news/178582",
-        "pubDate": "2026-09-01  03:09:54",
-        "description": "OpenAI周一（8/31）宣布，旗下廣告業務ChatGPT Ads上線約200天以來，受到數萬家廣告主的青睞，年化收入已突破10億美元。",
-        "source": "iThome"
-      },
-      {
-        "title": "FSB警告AI可能會破壞全球金融穩定",
-        "link": "https://www.ithome.com.tw/news/178584",
-        "pubDate": "2026-09-01  03:09:25",
-        "description": "負責制定國際金融監理標準的金融穩定委員會（Financial Stability Board，FSB）主席Andrew Bailey周一（8/31）警告，指出隨著具備高自主性的「前沿AI模型」崛起，結合市場日益高漲的槓桿，正讓全球金融體系的風險版圖更趨複雜，恐衝擊市場信心與金融穩定。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "電力跟不上 AI 需求，能源危機逼出「低功耗 AI」與「邊緣運算」的戰略地位",
+        "link": "https://techorange.com/2026/09/02/csem-low-power-ai-and-small-nations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 10:29:50 +0800",
+        "description": "低功耗 AI 與去中心化人工智慧等替代性架構，正日益展現其戰略地位的重要性，瑞士電子與微技術中心（CSEM）專家認為，小國家將有機會借助低功耗 AI 參與全球競爭。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【shady AI 現形】比 shadow AI 更難防，已核准的 AI 工具，正在製造新的資安黑洞",
+        "link": "https://techorange.com/2026/09/02/shady-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 10:28:33 +0800",
+        "description": "2026 年 3 月，Meta 內部一起「Sev 1」等級事故，讓資安圈開始正視一種過去未曾被明確定義的風險。事情的起點，是一名 Meta 員工在內部論壇貼出技術問題，工程師使用公司已核准的 AI 代理來分析，這個代理卻在未經授權的情況下，把回覆內容公開發布。 員工照著建議操作，無意間讓大量敏感資料，暴露給未經授權的工程師長達兩小時以上。 Meta 事故揭露的新風險型態 這起事故的特殊之處在於，涉事的不是違規工具，而是一套正式核准的 AI 代理，只是它的行為方式沒人事先預料到。這正是資安領域下一",
+        "source": "TechOrange"
+      },
+      {
+        "title": "首屆 AFA Awards 2026 得獎名單出爐，馬來西亞、新加坡及臺灣五家企業奪下五大獎",
+        "link": "https://techorange.com/2026/09/02/afa-awards-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 09:51:15 +0800",
+        "description": "亞洲金融科技聯盟（Asia FinTech Alliance, AFA 9 月 1 日於臺北舉辦首屆 2026 亞洲金融科技聯盟大獎（AFA Awards 2026）決賽暨頒獎典禮，五大獎項得主正式出爐，在七位國際評審的嚴格評選，來自馬來西亞、新加坡及臺灣的五家金融科技企業，從 88 件提名中脫穎而出，分別拿下年度跨境金融科技獨角獸潛力獎、金融基礎設施卓越獎、監理合規卓越獎、市場拓展卓越獎及高速成長卓越獎。 數位發展部林宜敬部長親自蒞臨指導，並擔任頒獎嘉賓。他表示，金融科技是一個「高風險、高報酬",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】NVIDIA 35 億美元「準入股」聯發科，Anthropic 傳一週簽 800 億美元算力合約",
+        "link": "https://techorange.com/2026/09/02/nvidia-mediatek-investment-anthropic-ai-compute-deals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 02 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊NVIDIA 35 億美元「準入股」聯發科，合作跨 AI 資料中心、PC 與車用 聯發科（MediaTek）與 NVIDIA 宣布深化合作，NVIDIA 以 35 億美元認購聯發科發行的海外可轉換公司債，占這次 39 億美元發行規模近九成。這筆 39 億美元發行案，是台灣資本市場至今規模最大的海外可轉債。據《工商時報》統計，這是 NVIDIA 首度投資台灣上市公司，也是目前在美國以外規模最大的單一企業投資。由於可轉債未來可依條件轉換為股票，市場",
+        "source": "TechOrange"
+      },
       {
         "title": "量子電腦如何才算「有用」？SEMICON 上，各家正在給出不同答案",
         "link": "https://techorange.com/2026/09/01/semicon-quantum-taiwan-forum-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -219,34 +240,6 @@
         "link": "https://techorange.com/2026/08/31/nvidia-worlds-robots-china-physical-artificial-intelligence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 31 Aug 2026 16:24:16 +0800",
         "description": "《華爾街日報》報導，NVIDIA 的晶片不再局限於訓練聊天機器人，公司正全面擴大在機器人、車輛與無人機等實體 AI 領域的布局，大舉押注真實世界的硬體應用，而中國正崛起為其核心買家。 開放模型綁定軟硬體生態：解析 NVIDIA 實體 AI 未來成長動能 《華爾街日報》提及，實體 AI 業務每年已為 NVIDIA 挹注約 100 億美元營收。雖然這相較於該公司截至今年 7 月的前四季總營收（高達 3,030 億美元）僅占一小部分，但執行長黃仁勳預測，這項業務在未來十年內將迎來 10 倍的爆發性成長",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Meta 測試資料中心機器人：能換線、重啟伺服器，員工估最多接手 80% 工作",
-        "link": "https://techorange.com/2026/08/31/metas-experiments-data-center-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 12:36:55 +0800",
-        "description": "Meta 已在部分資料中心投入機器人，同時也持續測試更多機型，讓機器人執行插拔線纜、重新啟動伺服器及其他資料中心維運工作。《WIRED》報導，多名熟悉相關專案的現任及前任員工透露，相關計畫目前仍在進行，且此前從未對外曝光。隨著 Meta 在 AI 基礎設施上的支出急遽攀升，若相關測試最終成功，公司未來可能減少資料中心的人力需求，在控制人事成本的同時，維持日益擴大的資料中心規模。 Meta 啟動資料中心自動化測試：引進機器人，有望承接重複性工作 《WIRED》引述熟悉相關計畫的員工指出，Meta ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "鴻海研究院實例解析 AI、HPC、量子混合架構如何加速解決現實世界難題",
-        "link": "https://techorange.com/2026/08/31/foxconn-hhri-quantum-centric-supercomputing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 12:10:59 +0800",
-        "description": "AI 正大幅加快量子技術從理論走向實際商業應用的速度，TechOrange 科技報橘日前舉辦的「2026 量子高峰論壇」，特別邀請鴻海研究院量子計算研究所所長謝明修以「量子 x AI 如何加速解決現實世界的難題」為題進行主題演講。謝明修雖然因行程安排無法親臨現場，仍透過預錄影片跨海捎來前沿洞察。 「近期真正可行的路徑，不是等待一台量子電腦取代所有電腦，而是讓 AI、超級電腦（HPC）與量子處理器各自處理最適合的部分，」謝明修透過研究實例解析量子與 AI 如何雙向加乘，從單一技術的突破，轉向不同科",
-        "source": "TechOrange"
-      },
-      {
-        "title": "HBM 缺貨，現在該擴產嗎？勤業眾信：循環融資恐放大需求訊號，避免把短期訂單誤判為長期需求",
-        "link": "https://techorange.com/2026/08/31/deloitte-2026-semiconductor-industry-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 11:40:00 +0800",
-        "description": "專訪：沈貝怡撰稿：李昀蔚 AI 正在把全球半導體產業推向新一波高峰。根據 Deloitte 勤業眾信近期發布的《2026 Semiconductor Industry Outlook》，2026 年全球半導體產業營收預估將上看 9,750 億美元，逼近一兆美元，年成長率高達 26%，其中 AI 晶片更貢獻將近一半營收。然而，這片榮景背後卻藏著一個「高風險矛盾」：AI 晶片雖然貢獻接近半數營收，出貨量卻不到整體半導體出貨量的 0.2%。這也代表，少量、高單價的 AI 晶片正支撐愈來愈高比例的產業成",
-        "source": "TechOrange"
-      },
-      {
-        "title": "達梭系統三大 AI Agent 攜手 NVIDIA，打造可落地的 Industrial AI",
-        "link": "https://techorange.com/2026/08/31/dassaultsystemes-aiagent-nvidia-industrialai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 31 Aug 2026 11:30:00 +0800",
-        "description": "隨著生成式 AI 與 AI Agent 風潮持續發酵，台灣製造業正迎來下一道更難的考題：AI 如何從「回答問題」走向「參與產品研發」？ 達梭系統大中華區技術諮詢部資深技術經理陳哲基認為，製造業已經進入由  AI  驅動營運流程的階段，企業更希望 AI 成為與工程師並肩作戰的夥伴，參與產品設計、模擬與驗證作業，降低工程師在重複性工作上的時間，加速產品開發迭代，讓企業在產品愈來愈複雜、上市週期愈來愈短的競爭環境下，仍有能力整合跨領域專業、傳承資深工程師的  Know-how 及降低試錯成本。 Ind",
         "source": "TechOrange"
       }
     ],
@@ -397,7 +390,7 @@
         "title": "Larry Page’s flying car company Pivotal loses its CEO",
         "link": "https://techcrunch.com/2026/09/01/larry-pages-flying-car-company-pivotal-loses-its-ceo/",
         "pubDate": "Tue, 01 Sep 2026 23:59:59 +0000",
-        "description": "The company told TechCrunch he is \"pursuing new endeavors.\"",
+        "description": "The company told TechCrunch he is \"pursuing new endeavors.\" Karklin will be replaced on an interim basis by Mike Ross, an aviation executive who joined Pivotal's board of directors in November 2025.",
         "source": "TechCrunch"
       },
       {
@@ -422,7 +415,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+        "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
         "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
         "pubDate": "Tue, 01 Sep 2026 21:06:24 +0000",
         "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
@@ -556,19 +549,9 @@
         "products": "Veeam Backup & Replication Information Disclosure Vulnerability"
       },
       {
-        "title": "GitLab Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260819",
-        "pubDate": "Wed, 19 Aug 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "GitLab"
-      },
-      {
         "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260819",
-        "pubDate": "Wed, 19 Aug 2026 11:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260902",
+        "pubDate": "Wed, 02 Sep 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
@@ -576,14 +559,24 @@
         "products": "Mozilla Products"
       },
       {
-        "title": "Oracle Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260819",
-        "pubDate": "Wed, 19 Aug 2026 11:00:00 +0800",
+        "title": "F5 Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260902",
+        "pubDate": "Wed, 02 Sep 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Oracle Products"
+        "products": "F5 Products"
+      },
+      {
+        "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260902",
+        "pubDate": "Wed, 02 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "RedHat Linux Kernel"
       },
       {
         "title": "SUSE Linux Kernel Multiple Vulnerabilities",
