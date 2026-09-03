@@ -1,7 +1,21 @@
 {
-  "ts": "2026-09-02T22:35:41.002198Z",
+  "ts": "2026-09-03T00:38:13.114983Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "英國NCSC示警全球OT網攻活動升溫",
+        "link": "https://www.ithome.com.tw/news/178598",
+        "pubDate": "2026-09-03 08:00",
+        "description": "英國NCSC指出，OT設備直接暴露於公開網路，可能成為攻擊目標，呼籲組織加強存取管控、更新邊界設備、啟用多因素驗證，以及做好網路分段與備份復原",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國財政部成立金融業PQC工作小組，聚焦供應商整備",
+        "link": "https://www.ithome.com.tw/news/178613",
+        "pubDate": "2026-09-03 08:00",
+        "description": "美國財政部將金融業PQC轉型重點放在密碼學敏捷性、系統互通與營運韌性，並要求金融機構一併掌握外部供應商與第三方服務的相依關係",
+        "source": "iThome資安"
+      },
       {
         "title": "微軟開源AI代理自動化框架UFO存在重大漏洞，攻擊者可直接遠端控制Android裝置",
         "link": "https://www.ithome.com.tw/news/178636",
@@ -94,20 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Palo Alto Networks併購Console，擴充AI代理資安能力",
-        "link": "https://www.ithome.com.tw/news/178603",
-        "pubDate": "2026-09-02 11:17",
-        "description": "Palo Alto Networks完成對AI原生IT服務管理平臺Console的交易，將運用其AI代理技術強化Cortex，讓安全團隊以自然語言處理資安訊號調查、工作排序與後續處置",
-        "source": "iThome資安"
-      },
-      {
-        "title": "偉訓部分資訊系統遭網路安全事件，已隔離受影響系統並啟動調查",
-        "link": "https://www.ithome.com.tw/news/178602",
-        "pubDate": "2026-09-02 11:03",
-        "description": "電子零組件廠偉訓（3032）遭遇網路攻擊，事發後隔離受影響的資訊系統因應，初步評估對公司營運沒有重大影響",
-        "source": "iThome資安"
-      },
-      {
         "title": "藥局藥師也有專用的Agent！藥事AI Agent計畫正式啟動、首波瞄南部50家示範藥局",
         "link": "https://www.ithome.com.tw/news/178639",
         "pubDate": "2026-09-02  08:09:30",
@@ -133,13 +133,6 @@
         "link": "https://www.ithome.com.tw/news/178621",
         "pubDate": "2026-09-02  04:09:40",
         "description": "Google釋出整合式開發環境（IDE）Android Studio Quail 4穩定版，該工具直接預載23個由Android團隊整理的代理技能，AI代理收到開發指令後，會依工作內容自動找出適合的技能並套用。新版也整合Gemma 4本機模型，可在沒有網路連線的情況下處理跨多個檔案的修改，程式碼不必傳送到雲端。",
-        "source": "iThome"
-      },
-      {
-        "title": "Salesforce強化企業Agent服務，推百套Skills、支援第三方Agent協作，AI Coding也進入Slack",
-        "link": "https://www.ithome.com.tw/news/178614",
-        "pubDate": "2026-09-02  02:09:41",
-        "description": "Salesforce日前公布今年冬季產品更新Winter ’27，一口氣揭露15項產品更新，從客服案件處理、預約派工、商品搜尋到軟體開發都有Agent介入，預計10月12日正式推出。",
         "source": "iThome"
       }
     ],
@@ -394,6 +387,20 @@
     ],
     "en_tech": [
       {
+        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
+        "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+        "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
+        "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
+        "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
         "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
         "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
@@ -485,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "PSA: Amazon’s shopping AI can now tell you if that message is a scam",
-        "link": "https://techcrunch.com/2026/09/02/psa-amazons-shopping-ai-can-now-tell-you-if-that-message-is-a-scam/",
-        "pubDate": "Wed, 02 Sep 2026 14:56:34 +0000",
-        "description": "Amazon is adding a scam-detection feature to Alexa for Shopping that can verify whether suspicious emails, texts, and other messages actually came from the retailer.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Adobe acquires Indian market intelligence startup Rilo",
-        "link": "https://techcrunch.com/2026/09/02/adobe-acquires-indian-market-intelligence-startup-rilo/",
-        "pubDate": "Wed, 02 Sep 2026 14:03:57 +0000",
-        "description": "This is Adobe's second acquisition out of India after Rephrase.ai in 2023",
-        "source": "TechCrunch"
+        "title": "Uber beats Waymo as first to launch robotaxis in London",
+        "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
+        "pubDate": "2026-09-02T19:00:00-04:00",
+        "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a m",
+        "source": "TheVerge"
       },
       {
         "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
@@ -524,13 +524,6 @@
         "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
         "pubDate": "2026-09-02T13:52:56-04:00",
         "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Range Rover’s new EV looks just like a regular Range Rover — that’s refreshing",
-        "link": "https://www.theverge.com/transportation/988232/range-rover-electric-range-battery-specs",
-        "pubDate": "2026-09-02T13:01:08-04:00",
-        "description": "I think automakers are finally getting the memo. Rather than try to reinvent the wheel with its new electric vehicle, Range Rover just made one that looks nearly identical to its lineup of gas-powered SUVs. They didn't try to pass off some sleek, spa",
         "source": "TheVerge"
       }
     ],
