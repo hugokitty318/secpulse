@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-03T18:02:59.337800Z",
+  "ts": "2026-09-03T20:58:45.525482Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,13 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Meta Ads Push StreamRat Android Trojan That Can Gain Near-Complete Device Control",
-        "link": "https://thehackernews.com/2026/09/meta-ads-push-streamrat-android-trojan.html",
-        "pubDate": "Wed, 02 Sep 2026 17:52:02 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called StreamRat that was promoted to Spanish-speaking users through a fake television-streaming campaign on Meta and can give operators near-complete control of infecte",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
         "pubDate": "Wed, 02 Sep 2026 17:00:13 -0400",
@@ -329,18 +322,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft Defender flags legitimate Google search links as malicious",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-flags-legitimate-google-search-links-as-malicious/",
-        "pubDate": "Wed, 02 Sep 2026 06:29:39 -0400",
-        "description": "Microsoft is investigating an issue causing the Defender for Office 365 security software to mistakenly block access to legitimate Google search links. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "US charges Russian for infecting 80,000 freelancers with malware",
-        "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
-        "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
-        "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
-        "source": "BleepingComputer"
+        "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
+        "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
+        "pubDate": "Thu, 03 Sep 2026 23:32:47 +0530",
+        "description": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?\n\nThat idea runs through this edition. Attackers use real tools, fake logi",
+        "source": "TheHackerNews"
       },
       {
         "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
@@ -385,6 +371,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Coder's registry infrastructure compromised to push malicious modules",
+        "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
+        "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400",
+        "description": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
+        "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400",
+        "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
         "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
         "pubDate": "Thu, 03 Sep 2026 14:13:17 +0530",
@@ -394,38 +394,38 @@
     ],
     "en_tech": [
       {
-        "title": "The Builders Stage brings practical strategies for scaling startups to TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/02/the-builders-stage-brings-practical-strategies-for-scaling-startups-to-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 02 Sep 2026 23:01:00 +0000",
-        "description": "The Builders Stage is returning to TechCrunch Disrupt, bringing together founders, startup operators, and investors for practical conversations on what it takes to build and scale.",
+        "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
+        "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
+        "pubDate": "Thu, 03 Sep 2026 19:42:48 +0000",
+        "description": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
         "source": "TechCrunch"
       },
       {
-        "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-        "link": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say/",
-        "pubDate": "Wed, 02 Sep 2026 22:44:56 +0000",
-        "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+        "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+        "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
+        "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026’s new Real World AI Stage features Nvidia, robots, and extinct animals",
-        "link": "https://techcrunch.com/2026/09/02/techcrunch-disrupt-2026s-new-real-world-ai-stage-features-nvidia-robots-and-extinct-animals/",
-        "pubDate": "Wed, 02 Sep 2026 22:24:09 +0000",
-        "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
+        "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
+        "pubDate": "Thu, 03 Sep 2026 19:29:16 +0000",
+        "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-        "link": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-        "pubDate": "Wed, 02 Sep 2026 21:38:34 +0000",
-        "description": "Google has dodged an effort to break up its ad business, but a judge said Wednesday that the company will need to adjust its business to benefit competitors.",
+        "title": "Abliteration.ai is making a business out of removing AI guardrails",
+        "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
+        "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
+        "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-        "link": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts/",
-        "pubDate": "Wed, 02 Sep 2026 20:19:14 +0000",
-        "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+        "title": "Meta is paying to peek at how you use their latest AI model",
+        "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+        "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
+        "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
         "source": "TechCrunch"
       },
       {
@@ -499,6 +499,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
+        "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+        "pubDate": "2026-09-03T16:48:05-04:00",
+        "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign setti",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
+        "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
+        "pubDate": "2026-09-03T14:37:57-04:00",
+        "description": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
+        "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
+        "pubDate": "2026-09-03T14:14:07-04:00",
+        "description": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. I",
+        "source": "TheVerge"
+      },
+      {
         "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
         "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
         "pubDate": "2026-09-03T14:00:00-04:00",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
         "pubDate": "2026-09-03T13:00:00-04:00",
         "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-        "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-        "pubDate": "2026-09-03T13:00:00-04:00",
-        "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who d",
-        "source": "TheVerge"
-      },
-      {
-        "title": "I held the first truly bezel-free phone",
-        "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
-        "pubDate": "2026-09-03T12:00:00-04:00",
-        "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, pr",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
-        "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
-        "pubDate": "2026-09-03T12:00:00-04:00",
-        "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward thos",
         "source": "TheVerge"
       }
     ],
