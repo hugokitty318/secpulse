@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-03T20:58:45.525482Z",
+  "ts": "2026-09-03T23:15:18.134345Z",
   "tabs": {
     "cn_sec": [
       {
@@ -180,13 +180,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "能自主跑 38 小時、成本最多省 45%：Anthropic 推出 Fable 5.1，預告 EFS 架構秋季上線",
-        "link": "https://techorange.com/2026/09/02/claude-fable-and-mythos-5-1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 13:04:59 +0800",
-        "description": "Anthropic 發布 Claude Fable 5.1 與 Mythos 5.1，兩者採用相同底層模型。Fable 5.1 已正式開放使用，主打長時間、持續性的複雜任務；Mythos 5.1 則透過限制存取計畫，提供經審核的資安與生命科學組織使用。 《VentureBeat》報導，此次更新的重點包括 Fable 5.1 的模型能力提升、快取成本下降，以及企業級 AI 使用監控機制 EFS。 長效執行力提升仍面臨價格戰：Fable 5.1 主攻 Agent 應用，對決 GPT-5.6 與 Ge",
-        "source": "TechOrange"
-      },
-      {
         "title": "Google 看 AI 硬體下一步：運算便宜、搬資料昂貴，專用化還會加深",
         "link": "https://techorange.com/2026/09/03/semicon-2026-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 03 Sep 2026 18:13:17 +0800",
@@ -247,6 +240,13 @@
         "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 03 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI Astra 測試發現兩個零日漏洞，首度達關鍵級資安門檻 OpenAI 表示，即將推出的新模型 Astra，已達到公司準備框架中的關鍵級資安能力門檻，是 OpenAI 第一個被列入這個等級的模型。在取得適當工具與權限後，Astra 可以找出過去未知的軟體漏洞、設計可實際運作的攻擊方法，並在不需要人類逐步指揮的情況下，對多個高防護系統執行完整攻擊策略，能力高於目前公開的 GPT-5.6 Sol。 OpenAI 測試顯示，Astra 曾",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】台積電近 20 廠仍追不上 AI，OpenAI 開發 AI 自動關閉機制",
+        "link": "https://techorange.com/2026/09/04/semicon-2026-tsmc-ai-demand-openai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SEMICON Taiwan 2026：台積電近 20 廠仍追不上 AI，Microsoft：擴產還不夠 台灣半導體產業協會理事長暨台積電副共同營運長侯永清，在 SEMICON Taiwan 2026 爐邊對談表示，AI 需求成長速度是過去 30 年未見。台積電去年底估算 2026 年為滿足客戶需求所需採購的設備，僅過一季就提高至原估值的 1.5 倍，7 月再增至 1.9 倍。目前台灣同步興建 13 座晶圓廠，海外另有 5 至 6 座，全球合計",
         "source": "TechOrange"
       }
     ],
@@ -315,13 +315,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Dropbox accounts breached through Lenovo email verification flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/dropbox-accounts-breached-through-lenovo-email-verification-flaw/",
-        "pubDate": "Wed, 02 Sep 2026 08:30:22 -0400",
-        "description": "Dropbox is warning some users that an unauthorized party accessed their accounts by exploiting a flaw in Lenovo's email verification process to register fraudulent Lenovo IDs. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
         "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
         "pubDate": "Thu, 03 Sep 2026 23:32:47 +0530",
@@ -348,6 +341,13 @@
         "pubDate": "Thu, 03 Sep 2026 20:09:05 +0530",
         "description": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "French hospital fined €500,000 after breach exposes data of 727,000",
+        "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
+        "pubDate": "Thu, 03 Sep 2026 18:01:37 -0400",
+        "description": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
@@ -393,6 +393,27 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Oura files to go public",
+        "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
+        "pubDate": "Thu, 03 Sep 2026 22:35:41 +0000",
+        "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla is asking people if they want to buy and run Cybercab fleets",
+        "link": "https://techcrunch.com/2026/09/03/tesla-is-asking-people-if-they-want-to-buy-and-run-cybercab-fleets/",
+        "pubDate": "Thu, 03 Sep 2026 22:18:30 +0000",
+        "description": "The company published a form on its website Thursday soliciting info from people who are interested in \"Cybercab fleet vehicle purchasing.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Startup ARR is less secure than ever, new research shows",
+        "link": "https://techcrunch.com/2026/09/03/startup-arr-is-less-secure-than-ever-new-research-shows/",
+        "pubDate": "Thu, 03 Sep 2026 20:59:23 +0000",
+        "description": "The AI era has completely broken enterprise buying patterns, and startups haven't yet figured out how to navigate.",
+        "source": "TechCrunch"
+      },
       {
         "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
         "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
@@ -478,34 +499,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
-        "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
-        "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
-        "description": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
-        "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
-        "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
-        "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
-        "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
-        "pubDate": "Thu, 03 Sep 2026 12:12:56 +0000",
-        "description": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-        "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-        "pubDate": "2026-09-03T16:48:05-04:00",
-        "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign setti",
-        "source": "TheVerge"
-      },
-      {
         "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
         "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
         "pubDate": "2026-09-03T14:37:57-04:00",
@@ -531,6 +524,13 @@
         "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
         "pubDate": "2026-09-03T13:00:00-04:00",
         "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+        "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+        "pubDate": "2026-09-03T13:00:00-04:00",
+        "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who d",
         "source": "TheVerge"
       }
     ],
