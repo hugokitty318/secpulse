@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-03T14:30:23.945098Z",
+  "ts": "2026-09-03T18:02:59.337800Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,32 +301,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "How to Secure Enterprise AI: From Adoption to Incident Readiness",
-        "link": "https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html",
-        "pubDate": "Wed, 02 Sep 2026 17:00:00 +0530",
-        "description": "The debate about whether AI delivers business value is over. The challenge now is implementing it at scale and securely across every function while meeting board-level pressure to move fast. Organizations must focus on adopting AI at business speed w",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html",
-        "pubDate": "Wed, 02 Sep 2026 16:23:49 +0530",
-        "description": "SonicWall has released security updates to address two security flaws impacting its Secure Mobile Access (SMA) 1000 series VPN appliances that have been exploited in zero-day attacks.\n\nThe vulnerabilities, discovered internally by SonicWall's William",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
         "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
         "pubDate": "Wed, 02 Sep 2026 15:28:46 -0400",
         "description": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends",
-        "link": "https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html",
-        "pubDate": "Wed, 02 Sep 2026 14:48:02 +0530",
-        "description": "Two vulnerabilities in GeoNetwork can be chained to achieve unauthenticated remote code execution (RCE) on the open-source geospatial metadata catalog, which sits behind many government and agency geoportals.\n\nThe project shipped fixes in versions 4.",
-        "source": "TheHackerNews"
       },
       {
         "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
@@ -364,32 +343,53 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Sality botnet infrastructure dismantled in joint global takedown",
-        "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
-        "pubDate": "Wed, 02 Sep 2026 04:00:43 -0400",
-        "description": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
-        "source": "BleepingComputer"
+        "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
+        "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
+        "pubDate": "Thu, 03 Sep 2026 21:22:07 +0530",
+        "description": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella ",
+        "source": "TheHackerNews"
       },
       {
-        "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
-        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
-        "pubDate": "Wed, 02 Sep 2026 02:39:29 -0400",
-        "description": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
-        "source": "BleepingComputer"
+        "title": "BraZetsu Malware Turns Compromised Windows Hosts Into Criminal Marketplace Inventory",
+        "link": "https://thehackernews.com/2026/09/brazetsu-malware-turns-compromised.html",
+        "pubDate": "Thu, 03 Sep 2026 20:56:47 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a sophisticated Python-based Windows malware framework called BraZetsu that fuels an underground marketplace commercializing access to compromised hosts.\n\n\"Unlike the standard infostealer model, Bra",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
-        "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400",
-        "description": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
-        "source": "BleepingComputer"
+        "title": "Thomson Reuters Court Software Breach May Have Exposed SSNs and Sealed Data",
+        "link": "https://thehackernews.com/2026/09/thomson-reuters-court-software-breach.html",
+        "pubDate": "Thu, 03 Sep 2026 20:09:05 +0530",
+        "description": "Thomson Reuters disclosed on Wednesday that an unauthorized party obtained files from C-Track, the court case management platform sold by its West Publishing Corporation unit, in March 2026, affecting courts in 11 U.S. states, the U.S. Virgin Islands",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Aesto Health says data breach affects over 9.5 million patients",
-        "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
-        "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400",
-        "description": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
-        "source": "BleepingComputer"
+        "title": "US Becomes Top Target in RMM Phishing Campaign Spanning 46 Countries",
+        "link": "https://thehackernews.com/2026/09/us-becomes-top-target-in-rmm-phishing.html",
+        "pubDate": "Thu, 03 Sep 2026 17:28:00 +0530",
+        "description": "An RMM phishing campaign initially associated with Canadian targeting due to its use of Canada Revenue Agency (CRA) tax forms as lures has turned out to be part of a broader campaign spanning 46 countries.\n\nAround 45% of observed activity was associa",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
+        "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
+        "pubDate": "Thu, 03 Sep 2026 16:13:01 +0530",
+        "description": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
+        "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
+        "pubDate": "Thu, 03 Sep 2026 16:06:39 +0530",
+        "description": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, clo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
+        "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
+        "pubDate": "Thu, 03 Sep 2026 14:13:17 +0530",
+        "description": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analysis confirmed that an iMessage ",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -429,45 +429,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "MapQuest is now the No. 1 US app after bucking Trump’s ‘Lake America’ renaming",
-        "link": "https://techcrunch.com/2026/09/02/mapquest-is-now-the-no-1-u-s-app-after-bucking-trumps-lake-america-renaming/",
-        "pubDate": "Wed, 02 Sep 2026 20:12:41 +0000",
-        "description": "The once-dominant mapping app has surged to the top of Apple’s U.S. App Store after refusing to adopt Trump’s “Lake America” name, drawing more than half of its 2026 U.S. downloads in just six days.",
+        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+        "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
+        "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
+        "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
         "source": "TechCrunch"
       },
       {
-        "title": "It sure looks like hackers breached a major ID card verification service",
-        "link": "https://techcrunch.com/2026/09/02/it-sure-looks-like-hackers-breached-a-major-id-card-verification-service/",
-        "pubDate": "Wed, 02 Sep 2026 19:35:09 +0000",
-        "description": "An identity theft search site claimed to have more than 150 million driver's license photos stolen from an ID verification service. The crime site has now shut down.",
+        "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
+        "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+        "pubDate": "Thu, 03 Sep 2026 17:00:00 +0000",
+        "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
         "source": "TechCrunch"
       },
       {
-        "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-        "link": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-        "pubDate": "Wed, 02 Sep 2026 19:25:35 +0000",
-        "description": "If approved, the combined company would become one of the largest food delivery platforms in the world.",
+        "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
+        "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+        "pubDate": "Thu, 03 Sep 2026 16:42:54 +0000",
+        "description": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
         "source": "TechCrunch"
       },
       {
-        "title": "Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’",
-        "link": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
-        "pubDate": "Wed, 02 Sep 2026 17:18:13 +0000",
-        "description": "The internet has a trust problem, and it’s not just because social media feeds are filling up with AI slop. AI-generated text and images are now making their way into job applications, product reviews, and even insurance claims, leaving platforms and",
+        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
+        "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
+        "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
+        "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
         "source": "TechCrunch"
       },
       {
-        "title": "X shifts US creator payouts from Stripe to X Money",
-        "link": "https://techcrunch.com/2026/09/02/x-shifts-us-creator-payouts-from-stripe-to-x-money/",
-        "pubDate": "Wed, 02 Sep 2026 17:12:27 +0000",
-        "description": "X says U.S. creator payouts will now be handled through its X Money payments service, a change that appears to replace the previous Stripe-powered payout system.",
+        "title": "Google launches AI voice features in Gmail, Docs, and Keep",
+        "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
+        "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
+        "description": "Users can search for emails or draft documents using the new conversational feature.",
         "source": "TechCrunch"
       },
       {
-        "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
-        "link": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material/",
-        "pubDate": "Wed, 02 Sep 2026 17:09:06 +0000",
-        "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use\nglobally,\" the brief reads.",
+        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
+        "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
+        "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
+        "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
         "source": "TechCrunch"
       },
       {
@@ -481,7 +481,7 @@
         "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
         "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
         "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
-        "description": "TikTok’s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the",
+        "description": "With the additions, the app is borrowing features from messaging apps as it looks to deepen engagement on its platform.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Hohem’s tiny steadycam has a removable action cam",
-        "link": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
-        "pubDate": "2026-09-03T10:00:00-04:00",
-        "description": "Hohem is trying something new with its Eyepic handheld stabilized camera to differentiate it from existing offerings from companies like DJI and Insta360. At its core, the camera is functionally similar to devices like the Osmo Pocket 4 and Insta360 ",
+        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
+        "pubDate": "2026-09-03T14:00:00-04:00",
+        "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also ",
         "source": "TheVerge"
       },
       {
-        "title": "How Sonos rebooted itself",
-        "link": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
-        "pubDate": "2026-09-03T10:00:00-04:00",
-        "description": "Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer of Pandora, VP of product at Snap, and the chief product officer of Quibi. He was also on the board at Sonos d",
+        "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+        "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+        "pubDate": "2026-09-03T13:00:00-04:00",
+        "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year",
         "source": "TheVerge"
       },
       {
-        "title": "SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it",
-        "link": "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch",
-        "pubDate": "2026-09-03T10:00:00-04:00",
-        "description": "SwitchBot has launched a new retrofit smart lock that gives owners multiple ways to enter European homes without a traditional key. Announced at IFA today, the SwitchBot Lock Ultra Max Vision Pro Combo provides multi-user entry and up to 19 ways to u",
+        "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
+        "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
+        "pubDate": "2026-09-03T13:00:00-04:00",
+        "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who d",
         "source": "TheVerge"
       },
       {
-        "title": "DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
-        "link": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
-        "pubDate": "2026-09-03T09:06:10-04:00",
-        "description": "DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles. But more importantly for DJI, a new local-only data mode should go some way to reassu",
+        "title": "I held the first truly bezel-free phone",
+        "link": "https://www.theverge.com/tech/985009/tecno-bezelless-concept-phone-ifa",
+        "pubDate": "2026-09-03T12:00:00-04:00",
+        "description": "Cast your mind back a decade or so, and smartphone makers were obsessed with shrinking the bezel on phones. Screens got bigger, the black bars around them got smaller, and for a while it looked like truly edge-to-edge displays were imminent. Then, pr",
         "source": "TheVerge"
       },
       {
-        "title": "Nvidia is buying Hugging Face for almost $13 billion",
-        "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
-        "pubDate": "2026-09-03T08:12:06-04:00",
-        "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform fo",
+        "title": "Circular’s new smart rings add contactless payments and vibrating alerts",
+        "link": "https://www.theverge.com/tech/988517/circular-ring-3-pro-slim-nfc-contactless-payment-vibrating-alerts",
+        "pubDate": "2026-09-03T12:00:00-04:00",
+        "description": "Circular announced its new Ring 3 Series today as a follow-up to the Ring 2 that debuted at CES 2025 with upgraded sensors and FDA-cleared atrial fibrillation detection. The new Ring 3 collection consists of both a Pro model that carries forward thos",
         "source": "TheVerge"
       }
     ],
