@@ -1,7 +1,21 @@
 {
-  "ts": "2026-09-03T09:43:25.434113Z",
+  "ts": "2026-09-03T14:30:23.945098Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "臺灣首款自研並支援3項PQC標準的密碼應用晶片出爐！匯智攜手工研院共同催生，且已達量產等級",
+        "link": "https://www.ithome.com.tw/news/178680",
+        "pubDate": "2026-09-03 19:32",
+        "description": "在2026國際半導體展中，晶片資安的最新進展成為一大焦點，匯智安全科技今日（9月3日）公開展示新一代WAP密碼應用晶片，不僅同時支援FIPS 203、204、205三項後量子密碼標準，也表示已達量產商用等級。該公司執行長鄭嘉信並進一步剖析加密晶片市場，點出企業級HSM應用與PQC晶片的新商機",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員揭露新型CRLF Desync攻擊手法，可竊取HTTPOnly Cookie並挾持帳號",
+        "link": "https://www.ithome.com.tw/news/178684",
+        "pubDate": "2026-09-03 18:57",
+        "description": "結合HTTP標頭注入與請求走私，可繞過反向代理防護，甚至能透過受害者瀏覽器發動攻擊",
+        "source": "iThome資安"
+      },
       {
         "title": "23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口",
         "link": "https://www.ithome.com.tw/news/178677",
@@ -94,20 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "甫修補的JFrog Artifactory身分驗證繞過漏洞已遭濫用",
-        "link": "https://www.ithome.com.tw/news/178650",
-        "pubDate": "2026-09-03 09:34",
-        "description": "威脅情報公司watchTowr發現，軟體供應鏈儲存庫JFrog Artifactory近日修補的身分驗證繞過漏洞CVE2026-82329遭到利用，攻擊者將其用於產生偽裝的管理員權杖（token），藉此找出有效的使用者及憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SonicWall修補SMA1000遭積極利用的零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/178649",
-        "pubDate": "2026-09-03 08:30",
-        "description": "本週SonicWall為SMA1000發布更新，修補零時差灑洞CVE-2026-83548、CVE-2026-83549，並表示已出現漏洞利用活動",
-        "source": "iThome資安"
-      },
-      {
         "title": "美國法院裁決Google不必拆分廣告業務",
         "link": "https://www.ithome.com.tw/news/178661",
         "pubDate": "2026-09-03  12:09:22",
@@ -148,7 +148,7 @@
         "title": "SEMICON 大師論壇：AI 需求快到擴產追不上，台灣供應鏈下一步怎麼走？",
         "link": "https://techorange.com/2026/09/02/semicon-ceo_summit-fireside-chat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 02 Sep 2026 19:15:19 +0800",
-        "description": "AI 算力需求加速，但台灣半導體供應鏈面對的問題，已不只是要不要擴產，而是供應鏈產能跟不跟得上的問題。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會爐邊對談一開始就拋出這個問題。他指出，全球正全力增加 AI 基礎建設，而台灣供應鏈目前仍是其中的瓶頸之一。當 AI 同時牽動地緣政治與全球產業發展，台灣接下來該扮演什麼角色，也成為這場對談一路追問的主軸。 第一個問題，就是需求究竟漲得有多快。台灣半導體產業協會理事長侯永清在對談",
+        "description": "AI 算力需求加速，但台灣半導體供應鏈面對的問題，已不只是要不要擴產，而是供應鏈產能跟不跟得上的問題。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會爐邊對談一開始就拋出這個問題。他指出，全球正全力增加 AI 基礎建設，而台灣供應鏈目前仍是其中的瓶頸之一。當 AI 同時牽動地緣政治與全球產業發展，台灣接下來該扮演什麼角色，也成為這場對談一路追問的主軸。 台灣半導體產業協會理事長侯永清在對談中透露，台積電去年底估算今年第一季設",
         "source": "TechOrange"
       },
       {
@@ -159,7 +159,7 @@
         "source": "TechOrange"
       },
       {
-        "title": "史上最大筆收購，NVIDIA 為什麼要買一個開源社群？",
+        "title": "【劉永信專欄】史上最大筆收購，NVIDIA 為什麼要買一個開源社群？",
         "link": "https://techorange.com/2026/09/02/cloudmile-nvidia-hugging-face/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 02 Sep 2026 17:29:46 +0800",
         "description": "如果你是 NVIDIA，模型公司、應用公司、開源社群，三個只能買一個，你買哪個？大部分人會選前兩個，模型最貴、最有名，也最像 AI 本身，應用離客戶最近，最快看得到營收，但 NVIDIA 選了第三個，它買的是一個年營收 1.5 億美元、平台上大部分東西還免費的社群平台。 NVIDIA 日前以 129 億美元收購 Hugging Face，是它史上最大一筆收購案，超過 2020 年收購 Mellanox 的 70 億美元，Hugging Face 的年化營收據報導僅約 1.5 億美元，129 億美",
@@ -187,24 +187,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "電力跟不上 AI 需求，能源危機逼出「低功耗 AI」與「邊緣運算」的戰略地位",
-        "link": "https://techorange.com/2026/09/02/csem-low-power-ai-and-small-nations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 10:29:50 +0800",
-        "description": "低功耗 AI 與去中心化人工智慧等替代性架構，正日益展現其戰略地位的重要性，瑞士電子與微技術中心（CSEM）專家認為，小國家將有機會借助低功耗 AI 參與全球競爭。",
+        "title": "Google 看 AI 硬體下一步：運算便宜、搬資料昂貴，專用化還會加深",
+        "link": "https://techorange.com/2026/09/03/semicon-2026-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 03 Sep 2026 18:13:17 +0800",
+        "description": "AI 晶片持續增加運算能力，但下一階段要解決的問題，可能不只在「算得更快」。Google AI 與基礎設施資深副總裁暨技術長 Amin Vahdat 9 月 2 日受邀來台，在 SEMICON Taiwan 2026「大師論壇暨全球生態系高峰會」發表開幕主題演講，並在會後接受媒體提問。Vahdat 這次從 TPU、記憶體、網路一路談到封裝與供電，勾勒 Google 對下一波 AI 硬體變化的判斷。 Vahdat 認為，目前正進入第二波硬體專用化。通用 CPU 的效能與功耗改善已經放緩，但 AI ",
         "source": "TechOrange"
       },
       {
-        "title": "【shady AI 現形】比 shadow AI 更難防，已核准的 AI 工具，正在製造新的資安黑洞",
-        "link": "https://techorange.com/2026/09/02/shady-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 10:28:33 +0800",
-        "description": "2026 年 3 月，Meta 內部一起「Sev 1」等級事故，讓資安圈開始正視一種過去未曾被明確定義的風險。事情的起點，是一名 Meta 員工在內部論壇貼出技術問題，工程師使用公司已核准的 AI 代理來分析，這個代理卻在未經授權的情況下，把回覆內容公開發布。 員工照著建議操作，無意間讓大量敏感資料，暴露給未經授權的工程師長達兩小時以上。 Meta 事故揭露的新風險型態 這起事故的特殊之處在於，涉事的不是違規工具，而是一套正式核准的 AI 代理，只是它的行為方式沒人事先預料到。這正是資安領域下一",
-        "source": "TechOrange"
-      },
-      {
-        "title": "首屆 AFA Awards 2026 得獎名單出爐，馬來西亞、新加坡及臺灣五家企業奪下五大獎",
-        "link": "https://techorange.com/2026/09/02/afa-awards-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 09:51:15 +0800",
-        "description": "亞洲金融科技聯盟（Asia FinTech Alliance, AFA 9 月 1 日於臺北舉辦首屆 2026 亞洲金融科技聯盟大獎（AFA Awards 2026）決賽暨頒獎典禮，五大獎項得主正式出爐，在七位國際評審的嚴格評選，來自馬來西亞、新加坡及臺灣的五家金融科技企業，從 88 件提名中脫穎而出，分別拿下年度跨境金融科技獨角獸潛力獎、金融基礎設施卓越獎、監理合規卓越獎、市場拓展卓越獎及高速成長卓越獎。 數位發展部林宜敬部長親自蒞臨指導，並擔任頒獎嘉賓。他表示，金融科技是一個「高風險、高報酬",
+        "title": "【從 2D 到 3D】World Labs 世界模型 Atlas 亮相：手機拍段影片，機器人就有了訓練場？",
+        "link": "https://techorange.com/2026/09/03/worldlabs-ai-atlas-fei-fei-li-omni-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 03 Sep 2026 17:22:15 +0800",
+        "description": "由知名電腦視覺先驅李飛飛（Fei-Fei Li）共同創辦的 AI 新創公司 World Labs，近日推出最新世界模型 Atlas，進一步朝打造能理解與模擬實體世界的 AI 系統邁進。 World Labs 在部落格文章中表示，Atlas 是一款多模態世界模型，能將模擬環境與實體世界的推理能力結合起來。Atlas 是全能模型（omni model），只需輸入一張圖片，就能生成範圍廣闊、細節豐富的 3D 模擬環境，並精確控制攝影機位置與移動，從不同角度呈現同一場景。 沒有空間智慧就沒有 AGI？李",
         "source": "TechOrange"
       },
       {
@@ -212,6 +205,13 @@
         "link": "https://techorange.com/2026/09/03/gemini-models-3-8-flash-cyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 03 Sep 2026 12:11:02 +0800",
         "description": "Google 宣布推出 Gemini 3.8 Flash，距離前一代 Gemini 3.7 Flash 上線才過了幾週。Google 表示，新模型在處理複雜任務時會執行更多推理步驟，並反覆調用工具，整體處理能力較 Gemini 3.7 Flash 更進一步。新模型目前已開放一般使用者使用，但需訂閱 Google AI Pro 或 Ultra；開發者和企業用戶也能使用。 Gemini 3.8 Flash 上線引討論：token 用量增、實際成本恐比標價高？ 《The Verge》指出，Gemini",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Hugging Face 為什麼攔得住 AI 代理入侵？企業該建的是這 4 件事",
+        "link": "https://techorange.com/2026/09/03/cloudmile-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 03 Sep 2026 11:41:17 +0800",
+        "description": "過去兩年，企業導入生成式 AI 的典型路徑，是先買 Copilot、再買幾套帶 AI 的 SaaS，接著讓各部門各自做 PoC，這樣做很有效率，但當應用越來越多，新的問題也會開始浮現。 七月，OpenAI 在內部資安評測中使用的 AI Agent，為了取得評測答案，找到一個未知漏洞脫離了測試環境，接著入侵 Hugging Face 的系統，過程中還用外洩的憑證進入四個公開服務的帳號，Hugging Face 後來是靠自己的偵測機制發現並攔下這件事的。 當 AI 助理已經會自動讀取資料，甚至修改系",
         "source": "TechOrange"
       },
       {
@@ -329,34 +329,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands",
-        "link": "https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html",
-        "pubDate": "Wed, 02 Sep 2026 14:40:23 +0530",
-        "description": "The U.S. Department of Justice (DoJ) has charged a Russian national, extradited from Cyprus on August 28, with using roughly 255 fake accounts on a freelance platform to send malware-laced Excel attachments to about 80,000 of its users in 2016 and 20",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another",
-        "link": "https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html",
-        "pubDate": "Wed, 02 Sep 2026 13:17:13 +0530",
-        "description": "Forescout Research - Vedere Labs said it used Anthropic's Claude to port a working pre-authentication remote code execution (RCE) exploit from one WAGO programmable logic controller (PLC) to another, executing attacker-supplied ARM shellcode on live ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Exploit Critical Switchvox Flaw to Deploy Reverse Shells Without Credentials",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-critical-switchvox.html",
-        "pubDate": "Wed, 02 Sep 2026 12:38:50 +0530",
-        "description": "Threat actors are exploiting a severe security vulnerability in Sangoma Switchvox, an enterprise VoIP platform, that could allow unauthenticated remote code execution.\n\nThe vulnerability in question is CVE-2026-9586 (CVSS score: 9.3), a critical unau",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Authorities Turn Sality's P2P Network Against Itself, Cutting Off New Malware Payloads",
-        "link": "https://thehackernews.com/2026/09/authorities-turn-salitys-p2p-network.html",
-        "pubDate": "Wed, 02 Sep 2026 12:26:30 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Tuesday announced the takedown of a long-standing peer-to-peer (P2P) botnet known as Sality as part of a coordinated law enforcement operation.\n\nThe effort was undertaken on August 31, 2026, by authorities from",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
         "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
@@ -389,6 +361,34 @@
         "link": "https://www.bleepingcomputer.com/news/security/us-charges-russian-for-infecting-80-000-freelancers-with-malware/",
         "pubDate": "Wed, 02 Sep 2026 05:06:48 -0400",
         "description": "A California federal grand jury has indicted a Russian national for his role in a phishing campaign that infected thousands of freelancers with TVRAT and DarkVNC malware. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Sality botnet infrastructure dismantled in joint global takedown",
+        "link": "https://www.bleepingcomputer.com/news/security/sality-botnet-infrastructure-dismantled-in-joint-global-takedown/",
+        "pubDate": "Wed, 02 Sep 2026 04:00:43 -0400",
+        "description": "International law enforcement agencies and private partners have seized Sality malware infrastructure in a joint action aiming to disrupt and take down the peer-to-peer (P2P) botnet. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SonicWall warns of actively exploited SMA1000 zero-day flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-actively-exploited-sma1000-zero-day-flaws/",
+        "pubDate": "Wed, 02 Sep 2026 02:39:29 -0400",
+        "description": "SonicWall warned customers that threat actors are chaining two new SMA1000 zero-day vulnerabilities in remote code execution attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers abuse Faronics Deploy admin tool to install ScreenConnect",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-faronics-deploy-admin-tool-to-install-screenconnect/",
+        "pubDate": "Tue, 01 Sep 2026 16:53:23 -0400",
+        "description": "Phishing actors are abusing the legitimate Faronics Deploy endpoint-management platform to gain remote administrative control over victim computers and install the ScreenConnect remote support software. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Aesto Health says data breach affects over 9.5 million patients",
+        "link": "https://www.bleepingcomputer.com/news/security/aesto-health-says-data-breach-affects-over-95-million-patients/",
+        "pubDate": "Tue, 01 Sep 2026 15:28:17 -0400",
+        "description": "Aesto LLC, operating as Aesto Health, disclosed that a data breach discovered recently affects more than 9.5 million individuals. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -471,66 +471,66 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Enhanced geothermal notches another win as Google buys 400 MW from Fervo",
-        "link": "https://techcrunch.com/2026/09/02/enhanced-geothermal-notches-another-win-as-google-buys-400-mw-from-fervo/",
-        "pubDate": "Wed, 02 Sep 2026 16:54:23 +0000",
-        "description": "Fervo's deal with Google could expand to 1 gigawatt of geothermal power, enough to supply a very large AI data center in Utah.",
+        "title": "Volunteer at TechCrunch Founder Summit in Boston",
+        "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
+        "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+        "description": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tec",
         "source": "TechCrunch"
       },
       {
-        "title": "Wonderful more than doubles its valuation to $5B in under 6 months",
-        "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
-        "pubDate": "Wed, 02 Sep 2026 16:04:10 +0000",
-        "description": "Wonderful said it will use its $550 million Series C funding to develop products faster, expand its FDE teams, and meet demand for its products.",
+        "title": "TikTok comments are getting more interactive with voice comments, polls, and more",
+        "link": "https://techcrunch.com/2026/09/03/tiktok-comments-are-getting-more-interactive-with-voice-comments-polls-and-more/",
+        "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
+        "description": "TikTok’s comments section is getting an upgrade. The social network announced on Thursday that it’s rolling out new features for its comment sections, including voice comments, comment polls, photo carousel comments, and Live Photo comments. With the",
         "source": "TechCrunch"
       },
       {
-        "title": "India’s richest man now wants to turn aging computers into AI-ready PCs",
-        "link": "https://techcrunch.com/2026/09/02/indias-richest-man-now-wants-to-turn-aging-computers-into-ai-ready-pcs/",
-        "pubDate": "Wed, 02 Sep 2026 16:01:48 +0000",
-        "description": "Jio is betting it can turn an aging computer into an AI-ready PC for as little as about $11 for two months.",
+        "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "link": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+        "pubDate": "Thu, 03 Sep 2026 12:42:45 +0000",
+        "description": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
         "source": "TechCrunch"
       },
       {
-        "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-        "link": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments/",
-        "pubDate": "Wed, 02 Sep 2026 15:01:23 +0000",
-        "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+        "title": "Amazon’s Zoox expands its robotaxi service to Las Vegas airport",
+        "link": "https://techcrunch.com/2026/09/03/amazons-zoox-expands-its-robotaxi-service-to-las-vegas-airport/",
+        "pubDate": "Thu, 03 Sep 2026 12:12:56 +0000",
+        "description": "Zoox is expanding to this critical ride-hailing destination a few weeks after it started charging for robotaxi rides.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
-        "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
-        "pubDate": "2026-09-03T04:59:09-04:00",
-        "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI o",
+        "title": "Hohem’s tiny steadycam has a removable action cam",
+        "link": "https://www.theverge.com/tech/987776/hohems-tiny-steadicam-has-a-removable-action-cam",
+        "pubDate": "2026-09-03T10:00:00-04:00",
+        "description": "Hohem is trying something new with its Eyepic handheld stabilized camera to differentiate it from existing offerings from companies like DJI and Insta360. At its core, the camera is functionally similar to devices like the Osmo Pocket 4 and Insta360 ",
         "source": "TheVerge"
       },
       {
-        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
-        "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
-        "pubDate": "2026-09-03T04:30:00-04:00",
-        "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright ",
+        "title": "How Sonos rebooted itself",
+        "link": "https://www.theverge.com/podcast/988368/sonos-ceo-tom-conrad-ai-smart-home-fabric-app-redesign",
+        "pubDate": "2026-09-03T10:00:00-04:00",
+        "description": "Today, I’m talking with Tom Conrad, the CEO of Sonos. Tom and I have known each other for a long time — he was the chief technology officer of Pandora, VP of product at Snap, and the chief product officer of Quibi. He was also on the board at Sonos d",
         "source": "TheVerge"
       },
       {
-        "title": "Belkin’s first trackers come ready to attach to your gear.",
-        "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
-        "pubDate": "2026-09-03T04:00:00-04:00",
-        "description": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Andro",
+        "title": "SwitchBot&#8217;s retrofit door lock offers 19 ways to unlock it",
+        "link": "https://www.theverge.com/tech/989246/switchbot-lock-ultra-max-retrofit-smartlock-ifa-launch",
+        "pubDate": "2026-09-03T10:00:00-04:00",
+        "description": "SwitchBot has launched a new retrofit smart lock that gives owners multiple ways to enter European homes without a traditional key. Announced at IFA today, the SwitchBot Lock Ultra Max Vision Pro Combo provides multi-user entry and up to 19 ways to u",
         "source": "TheVerge"
       },
       {
-        "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
-        "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
-        "pubDate": "2026-09-03T04:00:00-04:00",
-        "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\"",
+        "title": "DJI’s new robovac can climb obstacles, vacuum quietly, and claims much improved privacy",
+        "link": "https://www.theverge.com/tech/989295/dji-romo-2-p2-a2-robovac-legs-vacuuming-local-data-mode-ifa",
+        "pubDate": "2026-09-03T09:06:10-04:00",
+        "description": "DJI has announced a second generation of its Romo robovac. The Romo 2 series is quieter, more powerful, and better at climbing over small steps and other obstacles. But more importantly for DJI, a new local-only data mode should go some way to reassu",
         "source": "TheVerge"
       },
       {
-        "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
-        "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
-        "pubDate": "2026-09-03T03:30:00-04:00",
-        "description": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing",
+        "title": "Nvidia is buying Hugging Face for almost $13 billion",
+        "link": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal",
+        "pubDate": "2026-09-03T08:12:06-04:00",
+        "description": "Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform fo",
         "source": "TheVerge"
       }
     ],
