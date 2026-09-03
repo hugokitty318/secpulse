@@ -1,7 +1,28 @@
 {
-  "ts": "2026-09-03T05:03:47.953482Z",
+  "ts": "2026-09-03T09:43:25.434113Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口",
+        "link": "https://www.ithome.com.tw/news/178677",
+        "pubDate": "2026-09-03 15:12",
+        "description": "殭屍網路Sality靠P2P架構維持分散式控制，長年難以徹底中斷，跨國執法行動這次利用節點不驗證身分的協定弱點，把超過1.5萬臺感染裝置導向防禦方系統，阻止操作者繼續散布惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google推出Gemini 3.8 Flash與資安專用版，同步啟動Fairwind防禦計畫",
+        "link": "https://www.ithome.com.tw/news/178676",
+        "pubDate": "2026-09-03 14:51",
+        "description": "Google推出Gemini 3.8 Flash與資安專用版Gemini 3.8 Flash Cyber，主打更快的漏洞發現與自動修補能力，並同步啟動Fairwind Program，讓政府、關鍵基礎設施與技術平臺優先取得相關資安能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月3日，Dropbox傳出遭駭，5千個帳號外洩",
+        "link": "https://www.ithome.com.tw/news/178675",
+        "pubDate": "2026-09-03 14:43",
+        "description": "雲端檔案共享平臺Dropbox本週通知用戶資料外洩，並指出這些用戶的帳號與聯想ID（Lenovo ID）連結，他們已切斷兩者之間的連結，並透露約有5千名用戶受到影響",
+        "source": "iThome資安"
+      },
       {
         "title": "Rapid7揭露ASTERIX攻擊活動，駭客透過語音網釣結合假錢包竊取加密貨幣",
         "link": "https://www.ithome.com.tw/news/178663",
@@ -24,7 +45,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "CISA警告SonicWall、JFrog Artifactory、Sangoma,Switchvox等已知漏洞遭到利用",
+        "title": "CISA警告SonicWall、JFrog Artifactory、LiteLLM等系統的已知漏洞遭到利用",
         "link": "https://www.ithome.com.tw/news/178657",
         "pubDate": "2026-09-03 12:07",
         "description": "9月2日美國網路安全與基礎設施安全局（CISA）表示，他們將7個資安漏洞列入已遭利用的漏洞名單（KEV），其中有5個要求聯邦機構需在3天內完成修補",
@@ -87,20 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國財政部成立金融業PQC工作小組，聚焦供應商整備",
-        "link": "https://www.ithome.com.tw/news/178613",
-        "pubDate": "2026-09-03 08:00",
-        "description": "美國財政部將金融業PQC轉型重點放在密碼學敏捷性、系統互通與營運韌性，並要求金融機構一併掌握外部供應商與第三方服務的相依關係",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國NCSC示警全球OT網攻活動升溫",
-        "link": "https://www.ithome.com.tw/news/178598",
-        "pubDate": "2026-09-03 08:00",
-        "description": "英國NCSC指出，OT設備直接暴露於公開網路，可能成為攻擊目標，呼籲組織加強存取管控、更新邊界設備、啟用多因素驗證，以及做好網路分段與備份復原",
-        "source": "iThome資安"
-      },
-      {
         "title": "美國法院裁決Google不必拆分廣告業務",
         "link": "https://www.ithome.com.tw/news/178661",
         "pubDate": "2026-09-03  12:09:22",
@@ -108,18 +115,32 @@
         "source": "iThome"
       },
       {
-        "title": "Qt AI Assistant將退役，開發工具轉向ACP、MCP與Agent Skills",
-        "link": "https://www.ithome.com.tw/news/178647",
-        "pubDate": "2026-09-03  10:09:00",
-        "description": "Qt宣布9月30日後不再隨Qt Creator提供或發布Qt AI Assistant，技術支援則在12月31日結束。Qt後續將開發資源轉向可處理多步驟工作的AI代理，讓Claude Code、Codex、Qwen Code及GitHub Copilot等既有工具串接Qt Creator，再搭配MCP與Qt專用代理技能，取得開發環境的操作能力及Qt、QML相關知識。",
+        "title": "碳費制度新增首次納管緩衝機制，環境部：非擴大徵收，企業須先完成盤查建立排放基線",
+        "link": "https://www.ithome.com.tw/news/178682",
+        "pubDate": "2026-09-03  05:09:24",
+        "description": "我國碳費徵收制度於2025年正式上路，首波納管的徵收對象涵蓋電力業、燃氣供應業及製造業（如鋼鐵、水泥、半導體、化學材料等）中，年溫室氣體排放量達2.5萬公噸CO₂e以上的事業，今年5月共計240家企業、461家工廠已完成首次碳費繳納。\n為讓制度推動更順利，同時因應明年碳費徵收，企業可能因為排放量達到門檻而首次被納入徵收對象，環境部近期修正「碳費收費辦法」及「自主減量計畫管理辦法」，為首次納管事業提供碳費繳納的準備期。\n在修正之前，依規定，企業首次達標的當年，就必須依前一年的排放量來申報繳納碳費。",
         "source": "iThome"
       },
       {
-        "title": "微軟開源AI代理自動化框架UFO存在重大漏洞，攻擊者可直接遠端控制Android裝置",
-        "link": "https://www.ithome.com.tw/news/178636",
-        "pubDate": "2026-09-02 18:24",
-        "description": "UFO框架的Mobile MCP服務缺乏身分驗證，攻擊者可透過網路取得Android裝置螢幕資料並遠端操作",
-        "source": "iThome資安"
+        "title": "川普政府在OpenAI與紐時著作權爭議中力挺OpenAI",
+        "link": "https://www.ithome.com.tw/news/178681",
+        "pubDate": "2026-09-03  04:09:37",
+        "description": "美國司法部（Department of Justice）周二（9/1）向紐約南區聯邦法院提交「利益聲明」（Statement of Interest），在OpenAI著作權侵權合併訴訟中，明確表態支持OpenAI以受著作權保護的文章訓練AI模型屬於合理使用(Fair Use)，讓美國聯邦政府的立場首度浮上檯面。",
+        "source": "iThome"
+      },
+      {
+        "title": "Cursor擴大Cloud Agents自架部署，新增8家基礎設施與團隊資源池",
+        "link": "https://www.ithome.com.tw/news/178679",
+        "pubDate": "2026-09-03  04:09:32",
+        "description": "AI程式開發工具Cursor擴充Self-Hosted Machines功能，讓Cloud Agents可在企業自行管理的機器或雲端環境執行，並支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家基礎設施供應商。企業仍從Cursor啟動與管理AI代理，但執行指令、修改檔案及操作程式碼儲存庫等工作，可改由企業指定的環境處理。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta發表Muse Spark 1.3，強調主動確認與長時多工能力",
+        "link": "https://www.ithome.com.tw/news/178674",
+        "pubDate": "2026-09-03  01:09:29",
+        "description": "Meta周三（9/2）發布新一代模型Muse Spark 1.3，可透過Muse Code與Meta Model API存取。此次更新的重點放在代理型任務與程式撰寫能力，並讓模型更貼近實際應用場景。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -187,10 +208,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "Hugging Face 為什麼攔得住 AI 代理入侵？企業該建的是這 4 件事",
-        "link": "https://techorange.com/2026/09/03/cloudmile-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 11:41:17 +0800",
-        "description": "過去兩年，企業導入生成式 AI 的典型路徑，是先買 Copilot、再買幾套帶 AI 的 SaaS，接著讓各部門各自做 PoC，這樣做很有效率，但當應用越來越多，新的問題也會開始浮現。 七月，OpenAI 在內部資安評測中使用的 AI Agent，為了取得評測答案，找到一個未知漏洞脫離了測試環境，接著入侵 Hugging Face 的系統，過程中還用外洩的憑證進入四個公開服務的帳號，Hugging Face 後來是靠自己的偵測機制發現並攔下這件事的。 當 AI 助理已經會自動讀取資料，甚至修改系",
+        "title": "Gemini 3.8 Flash 軟體工程測試勝 Fable 5？Google 新模型上線：定價不變但 token 用量增",
+        "link": "https://techorange.com/2026/09/03/gemini-models-3-8-flash-cyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 03 Sep 2026 12:11:02 +0800",
+        "description": "Google 宣布推出 Gemini 3.8 Flash，距離前一代 Gemini 3.7 Flash 上線才過了幾週。Google 表示，新模型在處理複雜任務時會執行更多推理步驟，並反覆調用工具，整體處理能力較 Gemini 3.7 Flash 更進一步。新模型目前已開放一般使用者使用，但需訂閱 Google AI Pro 或 Ultra；開發者和企業用戶也能使用。 Gemini 3.8 Flash 上線引討論：token 用量增、實際成本恐比標價高？ 《The Verge》指出，Gemini",
         "source": "TechOrange"
       },
       {
@@ -478,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Uber beats Waymo as first to launch robotaxis in London",
-        "link": "https://www.theverge.com/news/988415/uber-wayve-robotaxi-london-launch",
-        "pubDate": "2026-09-02T19:00:00-04:00",
-        "description": "Uber beat out Waymo in launching a commercial robotaxi service in London, the city's first. The vehicles use autonomous driving tech developed by Wayve, a UK-based startup, and will initially feature safety drivers behind the wheel. The launch is a m",
+        "title": "Microsoft discloses Azure revenue as part of major financial reporting changes",
+        "link": "https://www.theverge.com/news/989102/microsoft-earnings-changes-azure-revenue",
+        "pubDate": "2026-09-03T04:59:09-04:00",
+        "description": "Microsoft is changing how it reports its finances to investors by splitting its businesses into two segments and disclosing quarterly revenue for its Azure cloud business for the first time. The changes are meant to reflect the ongoing impact of AI o",
         "source": "TheVerge"
       },
       {
-        "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
-        "pubDate": "2026-09-02T16:11:40-04:00",
-        "description": "Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasoning steps on complex tasks and \"calling tools iteratively.\" It has the s",
+        "title": "Here’s the first 4K 120Hz UST projector with optical lens shift",
+        "link": "https://www.theverge.com/gadgets/986005/awol-visions-4k-120hz-ust-projector-is-first-with-optical-lens-shift",
+        "pubDate": "2026-09-03T04:30:00-04:00",
+        "description": "Detail-preserving optical lens shift is not something you expect to find on an ultra-short throw projector running Google TV, but that's exactly what you'll find inside of Awol Vision's new LuxVision. It also promises to produce an incredibly bright ",
         "source": "TheVerge"
       },
       {
-        "title": "Here are some of REI’s best Labor Day sale deals",
-        "link": "https://www.theverge.com/gadgets/988398/rei-labor-day-sale-deal-2026",
-        "pubDate": "2026-09-02T14:56:59-04:00",
-        "description": "Summer is winding down, but REI’s Labor Day sale is here to help save you some bucks on gear that’ll let you get the most out of your upcoming outdoor expeditions. There are many, many discounts, from men’s and women’s clothing and REI Co-op gear to ",
+        "title": "Belkin’s first trackers come ready to attach to your gear.",
+        "link": "https://www.theverge.com/tech/987565/belkin-tracker-apple-find-my-google-find-hub-surefind-wallet-card-spot-tag",
+        "pubDate": "2026-09-03T04:00:00-04:00",
+        "description": "After selling accessories for attaching Apple's AirTags to everything from keys to backpacks, Belkin is introducing its own trackers that work with either Apple's Find My or Google's Find Hub tracking networks. In addition to compatibility with Andro",
         "source": "TheVerge"
       },
       {
-        "title": "1Password wades into a right-wing mess after funding a Linux project",
-        "link": "https://www.theverge.com/tech/988536/1password-dhh-linux-controversy",
-        "pubDate": "2026-09-02T14:48:14-04:00",
-        "description": "1Password faced immediate backlash from customers this week over a $300,000 pledge in support of a Linux distro created by David Heinemeier Hansson, who has regularly published overtly racist blog posts that include comments calling for deportation o",
+        "title": "Belkin introduces its first longer-lasting semi-solid-state power banks",
+        "link": "https://www.theverge.com/tech/988248/belkin-ultracharge-pro-boostsolid-cell-power-bank-battery-safer",
+        "pubDate": "2026-09-03T04:00:00-04:00",
+        "description": "Belkin is joining companies like BMX, Kuxiu, and Zens with the launch of its first power banks featuring semi-solid-state battery technology. The company claims the new accessories have been \"engineered to last up to 3x longer than other power banks\"",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon’s AI assistant can now spot fake emails from the company",
-        "link": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
-        "pubDate": "2026-09-02T13:52:56-04:00",
-        "description": "Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came from the company. With the update, you can ask Alexa for Shopping about",
+        "title": "Anker’s sleep speaker uses radar and flower power to help you relax",
+        "link": "https://www.theverge.com/tech/985689/anker-put-radar-and-flower-power-into-a-sleep-speaker",
+        "pubDate": "2026-09-03T03:30:00-04:00",
+        "description": "Anker's SleepLab speaker promises to track and enhance sleep without a wearable. It uses millimeter-wave radar (60GHz) blasting from your nightstand to track micro-movements in your chest and body to continuously monitor your heart rate and breathing",
         "source": "TheVerge"
       }
     ],
