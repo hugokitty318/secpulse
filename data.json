@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-03T23:15:18.134345Z",
+  "ts": "2026-09-04T01:21:07.791812Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude Code等7款AI程式代理",
+        "link": "https://www.ithome.com.tw/news/178683",
+        "pubDate": "2026-09-04 08:37",
+        "description": "AI代理為掌握專案狀態會自行呼叫Git，卻可能執行專案設定指定的外部程式，GitSpawn漏洞影響7款工具，部分可在工作區信任或登入前觸發",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業AI代理權限控管風險浮現，逾6成曾遇AI代理越界操作",
+        "link": "https://www.ithome.com.tw/news/178623",
+        "pubDate": "2026-09-04 08:00",
+        "description": "企業加快導入AI代理，但EMA調查顯示，僅3成企業針對這類非人類身分落實最小權限原則",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國NCSC整理PQC轉型實務，供應鏈整備成企業推動關鍵",
+        "link": "https://www.ithome.com.tw/news/178638",
+        "pubDate": "2026-09-04 08:00",
+        "description": "英國NCSC指出，企業若無法掌握供應商產品升級進度，PQC導入可能受到拖延，尤其工業IoT與OT等長生命週期設備更需提早規畫；大型組織光是前期盤點與轉型規畫，就可能需要2至3年",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲ASD細化PQC轉型做法，企業先盤點IT、OT密碼學相依關係",
+        "link": "https://www.ithome.com.tw/news/178653",
+        "pubDate": "2026-09-04 08:00",
+        "description": "澳洲通訊局（ASD）提供企業準備PQC轉型建議，第一步是建立初步的密碼學物料清單（CBOM），再持續補齊資訊，作為後續風險評估與轉型優先順序的依據",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料",
+        "link": "https://www.ithome.com.tw/news/178685",
+        "pubDate": "2026-09-04  08:09:36",
+        "description": "Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perplexity Computer在同一項工作中搭配雲端與Mac本機模型。雲端模型負責推理、網路搜尋與工作規畫，本機模型則處理私密檔案、敏感資訊與電腦操作，資料送往雲端前，還會先經過Mac上的隱私閘門檢查，控制受保護內容能否離開裝置。",
+        "source": "iThome"
+      },
       {
         "title": "臺灣首款自研並支援3項PQC標準的密碼應用晶片出爐！匯智攜手工研院共同催生，且已達量產等級",
         "link": "https://www.ithome.com.tw/news/178680",
@@ -78,41 +113,6 @@
         "pubDate": "2026-09-03 11:27",
         "description": "半導體設備廠創新服務（7828）發布資安重訊，表示因部分伺服器遭勒索病毒攻擊，導致某些資訊系統無法正常運作，其中包含了ERP系統",
         "source": "iThome資安"
-      },
-      {
-        "title": "curl發布8.22.0版，修補10個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178654",
-        "pubDate": "2026-09-03 11:18",
-        "description": "新版本修補9個curl與libcurl漏洞，以及1個wcurl漏洞，涵蓋驗證繞過與記憶體安全等問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Sangoma Switchvox重大SQL注入漏洞遭利用",
-        "link": "https://www.ithome.com.tw/news/178652",
-        "pubDate": "2026-09-03 11:09",
-        "description": "本週威脅情報公司Horizon3.ai指出，他們今年上半發現及通報的Sangoma Switchvox重大漏洞CVE-2026-9586，近期出現遭到利用的跡象，IT人員應根據入侵指標（IoC），確認Switchvox平臺是否遭到入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Proofpoint擬併購資料安全業者Varonis",
-        "link": "https://www.ithome.com.tw/news/178651",
-        "pubDate": "2026-09-03 10:09",
-        "description": "Thoma Bravo旗下Proofpoint傳出正與Varonis展開交易協商，若最終完成整合，可望藉由Varonis的資料分類與使用者行為分析能力，擴大企業敏感資料保護及存取控管布局",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Gogs重大路徑穿越漏洞可導致遠端程式碼執行",
-        "link": "https://www.ithome.com.tw/news/178648",
-        "pubDate": "2026-09-03 09:50",
-        "description": "資安業者Aikido Security揭露Gogs漏洞CVE-2026-52813完整攻擊流程，未關閉使用者自行註冊功能的環境可能面臨攻擊風險，官方已在0.14.3版完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國法院裁決Google不必拆分廣告業務",
-        "link": "https://www.ithome.com.tw/news/178661",
-        "pubDate": "2026-09-03  12:09:22",
-        "description": "美國司法部（DoJ）在2023年1月聯同美國多州的檢察長控告Google壟斷數位廣告技術，繼之美國聯邦法院在2025年4月裁定Google在網路廣告及廣告技術市場的主導地位構成壟斷，不過，本周美國聯邦法院法官Leonie Brinkema周三（9/2）",
-        "source": "iThome"
       },
       {
         "title": "碳費制度新增首次納管緩衝機制，環境部：非擴大徵收，企業須先完成盤查建立排放基線",
@@ -492,45 +492,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Volunteer at TechCrunch Founder Summit in Boston",
-        "link": "https://techcrunch.com/2026/09/03/volunteer-at-techcrunch-founder-summit-in-boston/",
-        "pubDate": "Thu, 03 Sep 2026 13:00:00 +0000",
-        "description": "Our rebranded Boston event, TechCrunch Founder Summit (formerly All Stage), is back on November 4th! And we are looking for some incredible volunteers to help us make this event happen. If you are interested in finding out what goes into building tec",
+        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
+        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+        "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
+        "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "The unusually muted Tesla Cybercab launch",
+        "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
+        "pubDate": "2026-09-03T20:25:06-04:00",
+        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his c",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
+        "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
+        "pubDate": "2026-09-03T19:37:37-04:00",
+        "description": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has be",
+        "source": "TheVerge"
+      },
+      {
+        "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
+        "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
+        "pubDate": "2026-09-03T18:00:00-04:00",
+        "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
+        "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
+        "pubDate": "2026-09-03T16:48:05-04:00",
+        "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign setti",
+        "source": "TheVerge"
       },
       {
         "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
         "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
         "pubDate": "2026-09-03T14:37:57-04:00",
         "description": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Samsung&#8217;s beloved Q Series sound system is hundreds off for Labor Day",
-        "link": "https://www.theverge.com/gadgets/989499/samsung-q-series-soundbar-dbrand-killswitch-2-deal-sale",
-        "pubDate": "2026-09-03T14:14:07-04:00",
-        "description": "Researching, buying, then finally assembling a sound system for your TV is daunting, but it doesn’t have to be. If you want one of the best kits you can get at a rare discount, Best Buy and Amazon are selling the Samsung Q990F Soundbar for $999.99. I",
-        "source": "TheVerge"
-      },
-      {
-        "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
-        "pubDate": "2026-09-03T14:00:00-04:00",
-        "description": "OpenAI's next big model is here: GPT-6 Astra. The company calls it a \"generational leap in capability\" for areas like cybersecurity, professional work, software engineering, science, and computer use. As OpenAI announced earlier this week, it's also ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-        "link": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-        "pubDate": "2026-09-03T13:00:00-04:00",
-        "description": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft opens up Xbox Cloud Gaming with new pay-as-you-go option",
-        "link": "https://www.theverge.com/news/989211/microsoft-xbox-cloud-gaming-pay-as-you-go-option",
-        "pubDate": "2026-09-03T13:00:00-04:00",
-        "description": "Microsoft says it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The change to a pay-as-you-go model is part of some sweeping changes to Xbox Cloud Gaming today, and is designed for people who d",
         "source": "TheVerge"
       }
     ],
