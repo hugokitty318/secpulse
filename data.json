@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-04T06:31:17.228580Z",
+  "ts": "2026-09-04T11:43:23.221195Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "SAST工具CodeQL 2.26.4擴大GitHub Actions供應鏈檢查，共用工作流程也納入掃描",
+        "link": "https://www.ithome.com.tw/news/178713",
+        "pubDate": "2026-09-04 18:28",
+        "description": "CodeQL 2.26.4把可重複使用工作流程納入GitHub Actions安全檢查，可找出引用可變分支或標籤的設定，並修正事件欄位判斷，避免無效條件被誤認為安全防護",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】0831~0904，臺灣新創Zeabur爆資料外洩，高權限AWS憑證失守，用戶急需輪替API金鑰與密碼",
+        "link": "https://www.ithome.com.tw/news/178716",
+        "pubDate": "2026-09-04 18:02",
+        "description": "2026年9月第一週的資安新聞熱點，包括臺灣AI新創Zeabur環境變數外洩事件，以及PaperCut零時差漏洞攻擊事件，相關消息頻頻躍上版面；另一方面，美國財政部成立量子整備工作小組，金融穩定委員會（FSB）亦示警AI可能危及全球金融穩定，同樣引發全球資安與金融領域高度關注",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月4日，臺灣首款自研並支援3項PQC標準的密碼學應用晶片出爐",
+        "link": "https://www.ithome.com.tw/news/178712",
+        "pubDate": "2026-09-04 15:40",
+        "description": "在近日舉行的國際半導體展SEMICON Taiwan 2026大會當中，匯智安全科技與工研院SecPaaS平臺共同發表國產後量子晶片，是首批結合3項後量子密碼學（PQC）標準的商用安全晶片",
+        "source": "iThome資安"
+      },
+      {
+        "title": "未有修補程式的Langflow重大漏洞被用於竊取OpenAI與AWS金鑰",
+        "link": "https://www.ithome.com.tw/news/178706",
+        "pubDate": "2026-09-04 14:43",
+        "description": "威脅情報公司VulnCheck警告，今年1月公布的Langflow遠端程式碼執行（RCE）漏洞CVE-2026-0768遭到利用，攻擊者意圖收集OpenAI API與AWS機密資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress外掛Elementor Pro的RCE漏洞公開當天即遭攻擊",
+        "link": "https://www.ithome.com.tw/news/178705",
+        "pubDate": "2026-09-04 14:35",
+        "description": "Elementor Pro外掛重大漏洞CVE-2026-32475已遭實際利用，攻擊者可繞過表單上傳檢查植入PHP檔案並執行程式碼，Wordfence已攔截逾19萬次攻擊嘗試，Elementor已在4.2.2版完成修補",
+        "source": "iThome資安"
+      },
       {
         "title": "G20成員國支持卡羅萊納原則，主張放寬AI監管",
         "link": "https://www.ithome.com.tw/news/178704",
@@ -34,7 +69,7 @@
         "title": "研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞",
         "link": "https://www.ithome.com.tw/news/178696",
         "pubDate": "2026-09-04 12:01",
-        "description": "繼揭露卡巴斯基與Avast防毒軟體的零時差漏洞後，本週Nightmare Eclipse公布Crowdstrike Falcon零時差漏洞FalconFlank，並指出該弱點與惡意Office巨集防護機制有關",
+        "description": "繼揭露卡巴斯基與Avast防毒軟體的零時差漏洞後，本週Nightmare Eclipse公布CrowdStrike Falcon零時差漏洞FalconFlank，並指出該弱點與惡意Office巨集防護機制有關",
         "source": "iThome資安"
       },
       {
@@ -73,27 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "澳洲ASD公布PQC轉型框架LATICE第一步，建議企業可先盤點IT、OT密碼學相依關係",
-        "link": "https://www.ithome.com.tw/news/178653",
-        "pubDate": "2026-09-04 08:00",
-        "description": "澳洲通訊局（ASD）提供企業準備PQC轉型建議，第一步是建立初步的密碼學物料清單（CBOM），再持續補齊資訊，作為後續風險評估與轉型優先順序的依據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業AI代理權限控管風險浮現，逾6成曾遇AI代理越界操作",
-        "link": "https://www.ithome.com.tw/news/178623",
-        "pubDate": "2026-09-04 08:00",
-        "description": "企業加快導入AI代理，但EMA調查顯示，僅3成企業針對這類非人類身分落實最小權限原則",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國NCSC整理PQC轉型實務，供應鏈整備成企業推動關鍵",
-        "link": "https://www.ithome.com.tw/news/178638",
-        "pubDate": "2026-09-04 08:00",
-        "description": "英國NCSC指出，企業若無法掌握供應商產品升級進度，PQC導入可能受到拖延，尤其工業IoT與OT等長生命週期設備更需提早規畫；大型組織光是前期盤點與轉型規畫，就可能需要2至3年",
-        "source": "iThome資安"
-      },
-      {
         "title": "Nvidia宣布以129億美元買下Hugging Face",
         "link": "https://www.ithome.com.tw/news/178690",
         "pubDate": "2026-09-04  10:09:11",
@@ -101,25 +115,18 @@
         "source": "iThome"
       },
       {
-        "title": "Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料",
-        "link": "https://www.ithome.com.tw/news/178685",
-        "pubDate": "2026-09-04  08:09:36",
-        "description": "Perplexity在Mac版應用程式加入Hybrid Compute混合推論功能，讓Perplexity Computer在同一項工作中搭配雲端與Mac本機模型。雲端模型負責推理、網路搜尋與工作規畫，本機模型則處理私密檔案、敏感資訊與電腦操作，資料送往雲端前，還會先經過Mac上的隱私閘門檢查，控制受保護內容能否離開裝置。",
+        "title": "Google WeatherNext 3直接使用即時衛星資料，全球AI天氣預報每小時更新",
+        "link": "https://www.ithome.com.tw/news/178715",
+        "pubDate": "2026-09-04  06:09:25",
+        "description": "Google推出全球AI天氣模型WeatherNext 3，開始直接使用每小時更新的地球同步衛星觀測資料，搭配既有大氣分析資料產生預報。模型可每小時依最新觀測重新預報，部分地表氣象資料解析度最高達5公里，目前已用於Google搜尋、Gemini、Google Maps及Google Cloud等服務。",
         "source": "iThome"
       },
       {
-        "title": "臺灣首款自研並支援3項PQC標準的密碼應用晶片出爐！匯智攜手工研院共同催生，且已達量產等級",
-        "link": "https://www.ithome.com.tw/news/178680",
-        "pubDate": "2026-09-03 19:32",
-        "description": "在2026國際半導體展中，晶片資安的最新進展成為一大焦點，匯智安全科技今日（9月3日）公開展示新一代WAP密碼應用晶片，不僅同時支援FIPS 203、204、205三項後量子密碼標準，也表示已達量產商用等級。該公司執行長鄭嘉信並進一步剖析加密晶片市場，點出企業級HSM應用與PQC晶片的新商機",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露新型CRLF Desync攻擊手法，可竊取HTTPOnly Cookie並挾持帳號",
-        "link": "https://www.ithome.com.tw/news/178684",
-        "pubDate": "2026-09-03 18:57",
-        "description": "結合HTTP標頭注入與請求走私，可繞過反向代理防護，甚至能透過受害者瀏覽器發動攻擊",
-        "source": "iThome資安"
+        "title": "Nvidia釋出可串連家中運算資源進行AI推理的PAIR工具",
+        "link": "https://www.ithome.com.tw/news/178711",
+        "pubDate": "2026-09-04  03:09:40",
+        "description": "Nvidia周四（9/3）推出新的開源軟體Personal AI Router（PAIR，個人AI路由器）測試版，旨在解決使用者在執行本機AI代理（AI Agents）時常遇到的多重任務瓶頸。此一工具可串連區域網路內散落的硬體資源，使其形成「個人AI叢集」（Personal Home AI Cluster），大幅提升離線運算效率。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -166,24 +173,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "物理 AI 最大商機或許不在人形機器人，而是替既有設備裝上大腦",
-        "link": "https://techorange.com/2026/09/03/physical-ai-opportunity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 09:51:06 +0800",
-        "description": "當人們談到「物理 AI」（Physical AI），最容易浮現的畫面是一台人形機器人走進工廠搬運零件、在倉庫揀貨。但是，如果把物理 AI 的商業化，全押在人形機器人何時能大規模落地，可能看窄了這波技術的機會。 曾在 Google 參與近十年硬體、軟體與 AI 產品開發，目前擔任實體人工智慧新創 Archetype AI 共同創辦人暨營運長的 Brandon Barbello 認為，物理 AI 更大的價值，不只是替 AI 打造新「身體」，而是替現實世界已存在的設備裝上能理解環境、做出判斷的「大腦」",
+        "title": "合泉系安攜手 BMC 引領 AI 自動化升級  SOAP 成為企業智慧營運新引擎",
+        "link": "https://techorange.com/2026/09/04/cosprings-bmc-ai-soap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 17:51:36 +0800",
+        "description": "透過智慧服務編排與自動化平台 (Service Orchestration and Automation Platform, SOAP），推動企業從IT維運邁向核心業務流程，打造智慧化、高韌性的營運模式。 合泉系安宣布與 AI 時代的企業自動化領導者 BMC Software 簽署策略合作協議，成為亞太區首家 BMC 特許經營策略合作夥伴，負責台灣市場的營運與銷售，協助 BMC 加速拓展台灣市場版圖。 隨著企業從 IT 單點自動化，走向混合雲、多雲、SaaS、AI 代理與跨資料流程的端到端服務交",
         "source": "TechOrange"
       },
       {
-        "title": "跨境金流跟不上供應鏈成長速度，亞洲金融科技聯盟主席蔡玉玲：臺灣穩定幣應從最強的 B2B 場景切入",
-        "link": "https://techorange.com/2026/09/03/fintechon-2026-afa-summit-jaclyntsai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 09:30:00 +0800",
-        "description": "「為什麼我一直倡議，臺灣要做穩定幣一定要考慮是不是用在我們最強的供應鏈上，因為這就是殺手級的應用場域，理由就是我們現在供應鏈的成長是越來越快的。」FinTechOn 2026 & AFA 高峰會在 9/2、9/3 於臺北登場，亞洲金融科技聯盟（AFA）主席、臺灣金融科技協會（TFTA）名譽理事長蔡玉玲在接受 《TechOrange 科技報橘》採訪時表示，臺灣在製造業、代工、晶片與 AI 領域擁有世界級的硬體實力及供應鏈優勢，且在工廠自動化與物流速度上不斷取得突破，但傳統金融的金流服務速度卻未完全",
+        "title": "問 AI「這塊基板為什麼翹曲？」OMRON 導入視覺檢測代理，新手也問得出根因",
+        "link": "https://techorange.com/2026/09/04/omron-nvidia-are-creating-ai-skillless-inspection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 17:36:18 +0800",
+        "description": "工業自動化企業 OMRON Corporation 在今年宣布在日本進一步擴大 NVIDIA 技術的整合，面對全球熟練工程師短缺，OMRON 將導入由 NVIDIA Metropolis Blueprint for Video Search and Summarization（VSS） 與 NVIDIA Cosmos 驅動的視覺檢測代理，讓檢測流程更趨 AI 化。 AI 代理進駐檢測線：OMRON 補上熟練人員缺口 操作員與工程師不必只靠操作手冊，而能以自然語言、在擬真環境中直接調閱製造資料。O",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】OpenAI Astra 可自主找出零日漏洞，戴爾 AI 伺服器年營收上看 740 億美元",
-        "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI Astra 測試發現兩個零日漏洞，首度達關鍵級資安門檻 OpenAI 表示，即將推出的新模型 Astra，已達到公司準備框架中的關鍵級資安能力門檻，是 OpenAI 第一個被列入這個等級的模型。在取得適當工具與權限後，Astra 可以找出過去未知的軟體漏洞、設計可實際運作的攻擊方法，並在不需要人類逐步指揮的情況下，對多個高防護系統執行完整攻擊策略，能力高於目前公開的 GPT-5.6 Sol。 OpenAI 測試顯示，Astra 曾",
+        "title": "從聯發科到 Hugging Face，NVIDIA 為何接連往 AI 生態不同環節出手？",
+        "link": "https://techorange.com/2026/09/04/mediatek-hugging-face-nvidia-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 16:11:37 +0800",
+        "description": "NVIDIA 近兩週動作頻頻，美國時間 9 月 3 日，NVIDIA 宣布將以 129.3 億美元收購開放 AI 平台 Hugging Face。據《CNBC》，這是 NVIDIA 有史以來第二大收購交易。放到其近期一連串動作來看，會發現買下 Hugging Face 只是 NVIDIA 調整 AI 生態佈局的最新一步。 短短兩週內，NVIDIA 還投資了聯發科、擴大客製化 AI 晶片合作，在德國柏林消費電子展（IFA）推進地端 AI，前一週也與 AWS 宣布進一步擴大從 GPU、CPU、網路到",
         "source": "TechOrange"
       },
       {
@@ -235,34 +242,6 @@
         "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
         "pubDate": "Wed, 02 Sep 2026 23:57:49 +0530",
         "description": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n\"The Fairwind Program gives h",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fake Software Installers Disable Windows Update and Weaken Microsoft Defender",
-        "link": "https://thehackernews.com/2026/09/fake-software-installers-disable.html",
-        "pubDate": "Wed, 02 Sep 2026 22:11:06 +0530",
-        "description": "An active malware campaign is using bogus software-download websites to impersonate trusted vendors and distribute malicious installers.\n\n\"The campaign has targeted users looking to download popular software and has resulted in compromises across mul",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Malicious .git Configs Can Make Claude, Codex, Cursor, and Other AI Agents Run Attacker Code",
-        "link": "https://thehackernews.com/2026/09/malicious-git-configs-can-make-claude.html",
-        "pubDate": "Wed, 02 Sep 2026 19:36:59 +0530",
-        "description": "Manifold Security has disclosed eight security flaws across seven command-line AI coding agents in which a repository's own Git configuration names a command that the agent runs on the developer's machine, four of them still unpatched at publication.",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Malicious Apache Modules Hijack Brazilian Government Site Traffic to Push Betting Pages",
-        "link": "https://thehackernews.com/2026/09/malicious-apache-modules-hijack.html",
-        "pubDate": "Wed, 02 Sep 2026 19:14:16 +0530",
-        "description": "A Chinese-speaking cybercrime cluster known as Gambling Goblin has been observed installing malicious Apache modules on compromised web servers run by Brazilian government and educational institutions, and using them to divert visitors to attacker-co",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BGP Hijack Delivers Malicious Virtualizor Update That Establishes Persistent Root Access",
-        "link": "https://thehackernews.com/2026/09/bgp-hijack-delivers-malicious.html",
-        "pubDate": "Wed, 02 Sep 2026 18:42:45 +0530",
-        "description": "Virtualizor said hackers used a Border Gateway Protocol (BGP) hijack to divert Softaculous traffic. The hackers then used the diverted update traffic to deliver a malicious Virtualizor package to some installations. A hosting-provider account separat",
         "source": "TheHackerNews"
       },
       {
@@ -369,6 +348,34 @@
         "pubDate": "Thu, 03 Sep 2026 14:13:17 +0530",
         "description": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analysis confirmed that an iMessage ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
+        "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
+        "pubDate": "Thu, 03 Sep 2026 11:56:59 +0530",
+        "description": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"Falc",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
+        "pubDate": "Thu, 03 Sep 2026 11:22:33 -0400",
+        "description": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
+        "pubDate": "Thu, 03 Sep 2026 11:13:29 -0400",
+        "description": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Anthropic confirms Claude is down, multiple models affected",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
+        "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400",
+        "description": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -478,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
-        "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
-        "pubDate": "2026-09-03T21:49:25-04:00",
-        "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have alre",
+        "title": "Why AI food looks like that",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
+        "pubDate": "2026-09-04T07:00:00-04:00",
+        "description": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, ",
         "source": "TheVerge"
       },
       {
-        "title": "The unusually muted Tesla Cybercab launch",
-        "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
-        "pubDate": "2026-09-03T20:25:06-04:00",
-        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the f",
+        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
+        "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
+        "pubDate": "2026-09-04T06:44:15-04:00",
+        "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer",
         "source": "TheVerge"
       },
       {
-        "title": "Steve Ballmer got suspended by the NBA because of a podcast and a jumbotron corruption scandal",
-        "link": "https://www.theverge.com/entertainment/989962/steve-ballmer-kawhi-leonard-pablo-torre-finds-out",
-        "pubDate": "2026-09-03T19:37:37-04:00",
-        "description": "Last September, Steve Ballmer insisted in an ESPN interview that the Clippers weren't involved in a shady-looking $28 million endorsement deal for his star player, Kawhi Leonard, that involved no actual endorsing. Now, the former Microsoft CEO has be",
+        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
+        "pubDate": "2026-09-04T06:41:48-04:00",
+        "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"genera",
         "source": "TheVerge"
       },
       {
-        "title": "You can watch the coolant flow inside Ugreen’s liquid-cooled power bank",
-        "link": "https://www.theverge.com/tech/988648/ugreen-magflow-pro-magnetic-wireless-power-bank-10k-liquid-cooling",
-        "pubDate": "2026-09-03T18:00:00-04:00",
-        "description": "Does your power bank have \"CryoPulse technology\" or a \"Cyber Window\"? If you disappointingly answered \"no\" to both, you might want to consider upgrading to Ugreen's new MagFlow Pro Magnetic Power Bank. It's available starting today for $149.99, which",
+        "title": "This NAS company wants to run your local smart home",
+        "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+        "pubDate": "2026-09-04T05:41:44-04:00",
+        "description": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, ",
         "source": "TheVerge"
       },
       {
-        "title": "Dungeons &#038; Dragons is getting a &#8216;Ravenloft&#8217; live-action Netflix series",
-        "link": "https://www.theverge.com/entertainment/989880/dungeons-and-dragons-ravenloft-netflix",
-        "pubDate": "2026-09-03T16:48:05-04:00",
-        "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign setti",
+        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
+        "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
+        "pubDate": "2026-09-04T03:00:00-04:00",
+        "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one o",
         "source": "TheVerge"
       }
     ],
