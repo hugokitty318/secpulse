@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T16:18:14.634276Z",
+  "ts": "2026-09-04T19:07:21.308760Z",
   "tabs": {
     "cn_sec": [
       {
@@ -350,13 +350,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft says KB5120998 Windows update resets desktop settings",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
-        "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400",
-        "description": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
         "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
         "pubDate": "Fri, 04 Sep 2026 21:27:15 +0530",
@@ -375,6 +368,13 @@
         "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
         "pubDate": "Fri, 04 Sep 2026 20:21:13 +0530",
         "description": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers name",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
+        "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
+        "pubDate": "Fri, 04 Sep 2026 14:18:45 +0530",
+        "description": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type valid",
         "source": "TheHackerNews"
       }
     ],
@@ -401,31 +401,31 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The Cybercab is Tesla’s ‘fork in the road’ moment",
-        "link": "https://techcrunch.com/2026/09/03/the-cybercab-is-teslas-fork-in-the-road-moment/",
-        "pubDate": "Thu, 03 Sep 2026 19:42:48 +0000",
-        "description": "The company is about to formally launch the gold two-seater, with no steering wheel or pedals -- a move that could change Tesla forever.",
+        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
+        "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
+        "pubDate": "Fri, 04 Sep 2026 17:52:05 +0000",
+        "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
         "source": "TechCrunch"
       },
       {
-        "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
-        "link": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
-        "pubDate": "Thu, 03 Sep 2026 19:36:29 +0000",
-        "description": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+        "title": "What will Apple’s John Ternus era look like?",
+        "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
+        "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
+        "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk ",
         "source": "TechCrunch"
       },
       {
-        "title": "Utilities are racing to link up with fusion startups, with Realta Fusion the latest to benefit",
-        "link": "https://techcrunch.com/2026/09/03/utilities-are-racing-to-link-up-with-fusion-startups-with-realta-fusion-the-latest-to-benefit/",
-        "pubDate": "Thu, 03 Sep 2026 19:29:16 +0000",
-        "description": "The grid has been straining under the weight of new AI data centers, and that has utilities courting fusion startups.",
+        "title": "No little kids allowed, and other new info about Tesla’s Cybercab",
+        "link": "https://techcrunch.com/2026/09/04/no-little-kids-allowed-and-other-new-info-about-teslas-cybercab/",
+        "pubDate": "Fri, 04 Sep 2026 16:51:23 +0000",
+        "description": "The company says no children under 13 can ride -- even with a parent. That's more restrictive than the Model Y SUVs it's using as robotaxis.",
         "source": "TechCrunch"
       },
       {
-        "title": "Abliteration.ai is making a business out of removing AI guardrails",
-        "link": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails/",
-        "pubDate": "Thu, 03 Sep 2026 18:37:57 +0000",
-        "description": "Abliteration.AI is making powerful AI models without guardrails easier to access, arguing that giving defenders the same tools as bad actors could ultimately improve cybersecurity.",
+        "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+        "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
+        "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
+        "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
         "source": "TechCrunch"
       },
       {
@@ -485,6 +485,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
+        "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
+        "pubDate": "2026-09-04T14:00:45-04:00",
+        "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Roland is getting into generative AI music with Melody Flip",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
+        "pubDate": "2026-09-04T13:51:35-04:00",
+        "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which",
+        "source": "TheVerge"
+      },
+      {
+        "title": "AGI is whatever you want it to be",
+        "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
+        "pubDate": "2026-09-04T13:16:49-04:00",
+        "description": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk ab",
+        "source": "TheVerge"
+      },
+      {
         "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
         "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
         "pubDate": "2026-09-04T12:05:57-04:00",
@@ -496,27 +517,6 @@
         "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
         "pubDate": "2026-09-04T11:41:17-04:00",
         "description": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gad",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
-        "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
-        "pubDate": "2026-09-04T10:55:40-04:00",
-        "description": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with code",
-        "source": "TheVerge"
-      },
-      {
-        "title": "What to expect at Apple’s September 9th launch event",
-        "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
-        "pubDate": "2026-09-04T10:52:00-04:00",
-        "description": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineu",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Nintendo&#8217;s next two Direct events are both happening next week",
-        "link": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
-        "pubDate": "2026-09-04T10:29:44-04:00",
-        "description": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube ch",
         "source": "TheVerge"
       }
     ],
