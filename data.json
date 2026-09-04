@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T11:43:23.221195Z",
+  "ts": "2026-09-04T16:18:14.634276Z",
   "tabs": {
     "cn_sec": [
       {
@@ -238,41 +238,6 @@
     ],
     "en_sec": [
       {
-        "title": "Google, Anthropic, and OpenAI Unveil Cyber AI Models, Safeguards, and Access Programs",
-        "link": "https://thehackernews.com/2026/09/google-anthropic-and-openai-unveil.html",
-        "pubDate": "Wed, 02 Sep 2026 23:57:49 +0530",
-        "description": "Google on Wednesday announced Gemini 3.8 Flash Cyber, which it described as its most capable cybersecurity model, and has made it available to a set of trusted defenders via a new initiative called the Fairwind Program.\n\n\"The Fairwind Program gives h",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers exploit Sangoma Switchvox flaw to deploy reverse shells",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sangoma-switchvox-flaw-to-deploy-reverse-shells/",
-        "pubDate": "Wed, 02 Sep 2026 17:00:13 -0400",
-        "description": "Attackers are actively exploiting CVE-2026-9586, an unauthenticated SQL injection vulnerability in the Sangoma Switchvox VoIP platform that can lead to remote code execution. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "WordPress backup plugin flaw exposes millions of sites to takeover attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/wordpress-backup-plugin-flaw-exposes-millions-of-sites-to-takeover-attacks/",
-        "pubDate": "Wed, 02 Sep 2026 15:28:46 -0400",
-        "description": "An SQL injection vulnerability in the All-in-One WP Migration and Backup plugin for WordPress could allow unauthenticated attackers to execute remote code and take control of affected websites. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers exploit critical JFrog Artifactory flaw to forge admin tokens",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-jfrog-artifactory-flaw-to-forge-admin-tokens/",
-        "pubDate": "Wed, 02 Sep 2026 11:47:08 -0400",
-        "description": "A critical authentication bypass vulnerability (CVE-2026-82329) in JFrog Artifactory is being exploited in attacks to create tokens that provide administrative access. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ransomware protection for MSPs: A 6-point checklist for faster recovery",
-        "link": "https://www.bleepingcomputer.com/news/security/ransomware-protection-for-msps-a-6-point-checklist-for-faster-recovery/",
-        "pubDate": "Wed, 02 Sep 2026 10:02:12 -0400",
-        "description": "Ransomware resilience requires more than backups or endpoint detection alone. Acronis outlines six capabilities MSPs should test across client environments, from reducing exposure and detecting attacks to preserving recovery points and restoring oper",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
         "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
         "pubDate": "Thu, 03 Sep 2026 23:32:47 +0530",
@@ -350,13 +315,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Researcher Releases FalconFlank PoC Showing Privilege Escalation in CrowdStrike Falcon",
-        "link": "https://thehackernews.com/2026/09/researcher-releases-falconflank-poc.html",
-        "pubDate": "Thu, 03 Sep 2026 11:56:59 +0530",
-        "description": "The security researcher known as Chaotic Eclipse (aka INFINITE NIGHTMARE, MSNightmare, and Nightmare-Eclipse) has dropped a new zero-day dubbed FalconFlank, a proof-of-concept (PoC) for a privilege escalation flaw impacting Crowdstrike Falcon.\n\n\"Falc",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
         "pubDate": "Thu, 03 Sep 2026 11:22:33 -0400",
@@ -376,6 +334,48 @@
         "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400",
         "description": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
+        "pubDate": "Thu, 03 Sep 2026 10:52:20 -0400",
+        "description": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
+        "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
+        "pubDate": "Thu, 03 Sep 2026 09:50:59 -0400",
+        "description": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond befo",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft says KB5120998 Windows update resets desktop settings",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-kb5120998-windows-update-resets-desktop-settings/",
+        "pubDate": "Thu, 03 Sep 2026 08:16:32 -0400",
+        "description": "Microsoft has confirmed that desktop settings are lost or reset on some Windows devices after installing the KB5120998 August 2026 preview update. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
+        "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
+        "pubDate": "Fri, 04 Sep 2026 21:27:15 +0530",
+        "description": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
+        "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
+        "pubDate": "Fri, 04 Sep 2026 20:50:19 +0530",
+        "description": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), ha",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
+        "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
+        "pubDate": "Fri, 04 Sep 2026 20:21:13 +0530",
+        "description": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers name",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -429,45 +429,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta is paying to peek at how you use their latest AI model",
-        "link": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-        "pubDate": "Thu, 03 Sep 2026 18:19:56 +0000",
-        "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+        "title": "CD sales are making an unexpected comeback amid a retro tech boom",
+        "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
+        "pubDate": "Fri, 04 Sep 2026 15:00:00 +0000",
+        "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-        "link": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/",
-        "pubDate": "Thu, 03 Sep 2026 18:01:45 +0000",
-        "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+        "title": "Krafton doubles down on India with another $250M bet beyond gaming",
+        "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
+        "pubDate": "Fri, 04 Sep 2026 14:47:20 +0000",
+        "description": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
         "source": "TechCrunch"
       },
       {
-        "title": "Qualcomm backs Ultrahuman in $70M round on bet to turn smart rings into computers",
-        "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
-        "pubDate": "Thu, 03 Sep 2026 17:00:00 +0000",
-        "description": "Ultrahuman is targeting a $200 million annual revenue run rate by January 2027 as it builds a new Qualcomm-powered smart ring.",
+        "title": "Google’s Gemini Spark can now manage your Google Photos library",
+        "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
+        "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
+        "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
         "source": "TechCrunch"
       },
       {
-        "title": "Circular unveils Ring 3 series with contactless payments and on-finger vibration alerts",
-        "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
-        "pubDate": "Thu, 03 Sep 2026 16:42:54 +0000",
-        "description": "The Circular Ring 3 series announcement comes amid a year of heightened competition in the smart ring market, following the launches of the Oura Ring 5 and RingConn Gen 3.",
+        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
+        "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
+        "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
+        "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
         "source": "TechCrunch"
       },
       {
-        "title": "Ollie is betting its focus on privacy can help it win the AI assistant race",
-        "link": "https://techcrunch.com/2026/09/03/ollie-is-betting-privacy-can-win-the-ai-assistant-race/",
-        "pubDate": "Thu, 03 Sep 2026 16:09:01 +0000",
-        "description": "The family-focused AI assistant wants access to the details of your everyday life, but says it won’t use that data to train AI models or share it with others.",
+        "title": "US military disabled ad tracking on troops’ devices following reports of targeted attacks",
+        "link": "https://techcrunch.com/2026/09/04/us-military-disabled-ad-tracking-on-troops-devices-following-reports-of-targeted-attacks/",
+        "pubDate": "Fri, 04 Sep 2026 13:21:37 +0000",
+        "description": "A senator's letter confirms the U.S. military moved to prevent the tracking after foreign adversaries used location data to target troops.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google launches AI voice features in Gmail, Docs, and Keep",
-        "link": "https://techcrunch.com/2026/09/03/google-launches-ai-voice-features-in-gmail-docs-and-keep/",
-        "pubDate": "Thu, 03 Sep 2026 16:00:00 +0000",
-        "description": "Users can search for emails or draft documents using the new conversational feature.",
+        "title": "Feds launch investigation into Tesla’s Cybercab deployment",
+        "link": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+        "pubDate": "Fri, 04 Sep 2026 12:01:14 +0000",
+        "description": "The investigation was launched just a few hours after Tesla put the first production Cybercabs on the road in Austin.",
         "source": "TechCrunch"
       },
       {
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Why AI food looks like that",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/989376/ai-generated-food-why-does-it-look-like-that",
-        "pubDate": "2026-09-04T07:00:00-04:00",
-        "description": "There is a torrent of unappetizing slop coming from restaurants, cafes, and brands that are increasingly turning to AI to generate images promoting their food. The resulting horror show includes donut shrimp, Reubens from the deep, wormlike noodles, ",
+        "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
+        "link": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
+        "pubDate": "2026-09-04T12:05:57-04:00",
+        "description": "Microsoft's Copilot rarely reproduces even full sentences from news articles and books, let alone substantive chunks that could substitute for the original, the company says in new legal filings as it fights copyright claims from publishers including",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft’s Project Zenith is a ‘distraction-free Windows experience’ for developers",
-        "link": "https://www.theverge.com/news/990051/microsoft-project-zenith-windows-developers",
-        "pubDate": "2026-09-04T06:44:15-04:00",
-        "description": "Microsoft is giving its developer-optimized Windows experience a name: Project Zenith. While the software maker originally announced a similar developer-optimized Windows effort at Build earlier this year, Project Zenith is designed for new developer",
+        "title": "The best tech and gadgets announced at IFA so far",
+        "link": "https://www.theverge.com/tech/986867/ifa-2026-smart-home-lights-laptop-robot-vacuum-ai-headphones",
+        "pubDate": "2026-09-04T11:41:17-04:00",
+        "description": "The doors to Europe's largest consumer tech show officially opened to the public today following a week of news coming out of IFA 2026 in Berlin, Germany. If you're struggling to keep up with what has been announced, here are some of the best new gad",
         "source": "TheVerge"
       },
       {
-        "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/990060/altman-apologizes-messy-astra-rollout",
-        "pubDate": "2026-09-04T06:41:48-04:00",
-        "description": "Just hours after OpenAI launched GPT-6 Astra, CEO Sam Altman was already apologizing for what he describes as a \"messy rollout\" after paying users expecting access to the new frontier model were left waiting. The company hailed the model as a \"genera",
+        "title": "Alienware’s refurbished 16 Aurora is almost $200 off at Woot",
+        "link": "https://www.theverge.com/gadgets/989407/alienware-gaming-laptop-capsule-dishwasher-samsung-oled-deal-sale",
+        "pubDate": "2026-09-04T10:55:40-04:00",
+        "description": "Gaming laptop deals aren’t what they used to be (stares daggers at RAMageddon), which is why I consider Woot’s deal on a refurbished Alienware 16 Aurora gaming laptop with Nvidia’s RTX 5050 a pretty good deal at $927 for new Woot customers (with code",
         "source": "TheVerge"
       },
       {
-        "title": "This NAS company wants to run your local smart home",
-        "link": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-        "pubDate": "2026-09-04T05:41:44-04:00",
-        "description": "Ugreen, known for its phone power banks, chargers, and NAS storage solutions, is moving into the smart home - in a big way. This week at the IFA tech show, the company launched its HomeAgent smart home platform that combines security camera storage, ",
+        "title": "What to expect at Apple’s September 9th launch event",
+        "link": "https://www.theverge.com/tech/989692/apple-iphone-launch-event-september-2026-how-to-watch",
+        "pubDate": "2026-09-04T10:52:00-04:00",
+        "description": "Apple's September 9th launch event could be one of its biggest in years. It will be Apple's first event since John Ternus took over as CEO on September 1st, stepping in for Tim Cook, and will likely feature the first models in Apple's iPhone 18 lineu",
         "source": "TheVerge"
       },
       {
-        "title": "Lexar’s Muse is an ultra-slim portable SSD that’s less than 4mm thick",
-        "link": "https://www.theverge.com/tech/986960/lexar-muse-ultra-thin-ssd-storage-drive-proprietary-cable",
-        "pubDate": "2026-09-04T03:00:00-04:00",
-        "description": "Following the lead of companies like Xteink, Lexar is the latest to sacrifice a USB-C port in the pursuit of slimming down its hardware. When the Lexar Muse Ultra-Slim Portable SSD launches later this year in 512GB and 1TB capacities it will be one o",
+        "title": "Nintendo&#8217;s next two Direct events are both happening next week",
+        "link": "https://www.theverge.com/games/990207/nintendo-direct-zelda-40th",
+        "pubDate": "2026-09-04T10:29:44-04:00",
+        "description": "Nintendo just announced two Direct events for next week, scheduled back to back. First up is the Legend of Zelda 40th Anniversary Direct on September 8th at 10AM ET / 7AM PT. It's set to last around 30 minutes, streaming live on Nintendo's YouTube ch",
         "source": "TheVerge"
       }
     ],
