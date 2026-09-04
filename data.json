@@ -1,12 +1,82 @@
 {
-  "ts": "2026-09-04T01:21:07.791812Z",
+  "ts": "2026-09-04T06:31:17.228580Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "G20成員國支持卡羅萊納原則，主張放寬AI監管",
+        "link": "https://www.ithome.com.tw/news/178704",
+        "pubDate": "2026-09-04 13:37",
+        "description": "G20成員國支持美國推動的「卡羅萊納原則」，主張採取較寬鬆且具彈性的AI監管方式，在管控風險的同時降低監管負擔，以促進AI技術創新與經濟成長",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客Fire Ant將思科IOS XR路由器充當據點，進行情報收集",
+        "link": "https://www.ithome.com.tw/news/178703",
+        "pubDate": "2026-09-04 13:14",
+        "description": "中國駭客組織Fire Ant的網路間諜活動仍持續進行，資安公司Sygina發現，這些駭客不再集中針對虛擬化平臺，而是透過路由器當作據點，並擷取流量以收集情報，然後嘗試接觸受害組織內部的其他環境",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI發表最危險也最聽話的GPT-6 Astra模型",
+        "link": "https://www.ithome.com.tw/news/178701",
+        "pubDate": "2026-09-04 12:41",
+        "description": "OpenAI發表GPT-6 Astra，這款模型的網路安全能力首度被評定達到Critical等級，也能自主發現未知漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科發布9月IOS XR安全強化更新，修補7個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178699",
+        "pubDate": "2026-09-04 12:21",
+        "description": "思科本週修補7個網路設備平臺IOS XR資安漏洞，其中有兩個CVE-2026-20274和CVE-2026-20279為重大等級，特別危險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞",
+        "link": "https://www.ithome.com.tw/news/178696",
+        "pubDate": "2026-09-04 12:01",
+        "description": "繼揭露卡巴斯基與Avast防毒軟體的零時差漏洞後，本週Nightmare Eclipse公布Crowdstrike Falcon零時差漏洞FalconFlank，並指出該弱點與惡意Office巨集防護機制有關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WebAuthn Level 3成W3C正式標準，補齊Passkey跨關聯網域與憑證管理機制",
+        "link": "https://www.ithome.com.tw/news/178694",
+        "pubDate": "2026-09-04 11:51",
+        "description": "WebAuthn Level 3正式定案，讓Passkey可在指定關聯網域間共用，並加入憑證資訊更新與條件式登入機制，減少網站與裝置端憑證不同步，也改善多網域服務的登入流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla推出Firefox 155改版，緩解近30個弱點",
+        "link": "https://www.ithome.com.tw/news/178693",
+        "pubDate": "2026-09-04 11:11",
+        "description": "本週Mozilla基金會發布Firefox 155改版，修補29個資安漏洞，其中包含13個是高風險等級、7個中等弱點，以及9個低風險弱點，用戶應儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 152更新，修補已遭利用的V8漏洞",
+        "link": "https://www.ithome.com.tw/news/178687",
+        "pubDate": "2026-09-04 10:02",
+        "description": "本週Google二度發布Chrome 152更新，這次修補的弱點共12個，其中的V8類型混淆漏洞CVE-2026-85046已遭利用，用戶應儘速套用新版因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI失控事件今年逾1,600起，研究揭AI代理偽造核准、提升自身權限",
+        "link": "https://www.ithome.com.tw/news/178686",
+        "pubDate": "2026-09-04 09:33",
+        "description": "英國研究機構CLTR觀察到1,664起AI失控相關事件，較嚴重案例持續增加。部分AI代理甚至會偽造使用者核准訊息、規避既有安全控制或提升自身權限，顯示AI控制問題已不只出現在安全評估，也出現在實際部署環境",
+        "source": "iThome資安"
+      },
       {
         "title": "背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude Code等7款AI程式代理",
         "link": "https://www.ithome.com.tw/news/178683",
         "pubDate": "2026-09-04 08:37",
         "description": "AI代理為掌握專案狀態會自行呼叫Git，卻可能執行專案設定指定的外部程式，GitSpawn漏洞影響7款工具，部分可在工作區信任或登入前觸發",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲ASD公布PQC轉型框架LATICE第一步，建議企業可先盤點IT、OT密碼學相依關係",
+        "link": "https://www.ithome.com.tw/news/178653",
+        "pubDate": "2026-09-04 08:00",
+        "description": "澳洲通訊局（ASD）提供企業準備PQC轉型建議，第一步是建立初步的密碼學物料清單（CBOM），再持續補齊資訊，作為後續風險評估與轉型優先順序的依據",
         "source": "iThome資安"
       },
       {
@@ -24,11 +94,11 @@
         "source": "iThome資安"
       },
       {
-        "title": "澳洲ASD細化PQC轉型做法，企業先盤點IT、OT密碼學相依關係",
-        "link": "https://www.ithome.com.tw/news/178653",
-        "pubDate": "2026-09-04 08:00",
-        "description": "澳洲通訊局（ASD）提供企業準備PQC轉型建議，第一步是建立初步的密碼學物料清單（CBOM），再持續補齊資訊，作為後續風險評估與轉型優先順序的依據",
-        "source": "iThome資安"
+        "title": "Nvidia宣布以129億美元買下Hugging Face",
+        "link": "https://www.ithome.com.tw/news/178690",
+        "pubDate": "2026-09-04  10:09:11",
+        "description": "Nvidia於9月3日宣布，已同意以129.3億美元併購Hugging Face，預計於明年完成交易。未來雙方將共同擴展Hugging Face的平臺規模，加強其基礎設施，並擴大全球開發者與機構取得AI的途徑。",
+        "source": "iThome"
       },
       {
         "title": "Perplexity混合推論正式登陸Mac，雲端與本機模型分工處理資料",
@@ -50,135 +120,9 @@
         "pubDate": "2026-09-03 18:57",
         "description": "結合HTTP標頭注入與請求走私，可繞過反向代理防護，甚至能透過受害者瀏覽器發動攻擊",
         "source": "iThome資安"
-      },
-      {
-        "title": "23年Sality殭屍網路遭國際聯手瓦解，P2P協定弱點反成切斷控制突破口",
-        "link": "https://www.ithome.com.tw/news/178677",
-        "pubDate": "2026-09-03 15:12",
-        "description": "殭屍網路Sality靠P2P架構維持分散式控制，長年難以徹底中斷，跨國執法行動這次利用節點不驗證身分的協定弱點，把超過1.5萬臺感染裝置導向防禦方系統，阻止操作者繼續散布惡意程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google推出Gemini 3.8 Flash與資安專用版，同步啟動Fairwind防禦計畫",
-        "link": "https://www.ithome.com.tw/news/178676",
-        "pubDate": "2026-09-03 14:51",
-        "description": "Google推出Gemini 3.8 Flash與資安專用版Gemini 3.8 Flash Cyber，主打更快的漏洞發現與自動修補能力，並同步啟動Fairwind Program，讓政府、關鍵基礎設施與技術平臺優先取得相關資安能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月3日，Dropbox傳出遭駭，5千個帳號外洩",
-        "link": "https://www.ithome.com.tw/news/178675",
-        "pubDate": "2026-09-03 14:43",
-        "description": "雲端檔案共享平臺Dropbox本週通知用戶資料外洩，並指出這些用戶的帳號與聯想ID（Lenovo ID）連結，他們已切斷兩者之間的連結，並透露約有5千名用戶受到影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Rapid7揭露ASTERIX攻擊活動，駭客透過語音網釣結合假錢包竊取加密貨幣",
-        "link": "https://www.ithome.com.tw/news/178663",
-        "pubDate": "2026-09-03 12:57",
-        "description": "駭客先從電話號碼資料集篩選潛在加密貨幣用戶，再發動網釣魚與電話詐騙，誘使受害者安裝植入木馬的偽冒數位錢包",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WatchGuard修補5項重大漏洞，3項可讓未經身分驗證的攻擊者遠端執行程式碼",
-        "link": "https://www.ithome.com.tw/news/178658",
-        "pubDate": "2026-09-03 12:38",
-        "description": "WatchGuard修補Firebox與Dimension多項安全漏洞，其中5項重大漏洞CVSS v4.0風險分數達9.3分，部分問題可能導致遠端程式碼執行或管理權限遭冒用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Dropbox傳出遭駭，5千個帳號外洩",
-        "link": "https://www.ithome.com.tw/news/178659",
-        "pubDate": "2026-09-03 12:34",
-        "description": "雲端檔案共享平臺Dropbox本週傳出通知用戶資料外洩，並指出這些用戶的帳號與聯想ID（Lenovo ID）連結，他們已切斷兩者之間的連結因應，並透露約有5千名用戶受到影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告SonicWall、JFrog Artifactory、LiteLLM等系統的已知漏洞遭到利用",
-        "link": "https://www.ithome.com.tw/news/178657",
-        "pubDate": "2026-09-03 12:07",
-        "description": "9月2日美國網路安全與基礎設施安全局（CISA）表示，他們將7個資安漏洞列入已遭利用的漏洞名單（KEV），其中有5個要求聯邦機構需在3天內完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Nakivo更新Backup &amp; Replication 11，擴展vSphere、Linux與Windows平臺的保護涵蓋範圍",
-        "link": "https://www.ithome.com.tw/news/178656",
-        "pubDate": "2026-09-03 12:02",
-        "description": "Nakivo備份軟體新版本新增支援vSphere 9.1，以及多種Linux與Windows新版本，並能搭配更多款HPE與QNAP儲存平臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "上櫃公司創新服務遭勒索病毒攻擊，導致ERP等資訊系統無法運作",
-        "link": "https://www.ithome.com.tw/news/178655",
-        "pubDate": "2026-09-03 11:27",
-        "description": "半導體設備廠創新服務（7828）發布資安重訊，表示因部分伺服器遭勒索病毒攻擊，導致某些資訊系統無法正常運作，其中包含了ERP系統",
-        "source": "iThome資安"
-      },
-      {
-        "title": "碳費制度新增首次納管緩衝機制，環境部：非擴大徵收，企業須先完成盤查建立排放基線",
-        "link": "https://www.ithome.com.tw/news/178682",
-        "pubDate": "2026-09-03  05:09:24",
-        "description": "我國碳費徵收制度於2025年正式上路，首波納管的徵收對象涵蓋電力業、燃氣供應業及製造業（如鋼鐵、水泥、半導體、化學材料等）中，年溫室氣體排放量達2.5萬公噸CO₂e以上的事業，今年5月共計240家企業、461家工廠已完成首次碳費繳納。\n為讓制度推動更順利，同時因應明年碳費徵收，企業可能因為排放量達到門檻而首次被納入徵收對象，環境部近期修正「碳費收費辦法」及「自主減量計畫管理辦法」，為首次納管事業提供碳費繳納的準備期。\n在修正之前，依規定，企業首次達標的當年，就必須依前一年的排放量來申報繳納碳費。",
-        "source": "iThome"
-      },
-      {
-        "title": "川普政府在OpenAI與紐時著作權爭議中力挺OpenAI",
-        "link": "https://www.ithome.com.tw/news/178681",
-        "pubDate": "2026-09-03  04:09:37",
-        "description": "美國司法部（Department of Justice）周二（9/1）向紐約南區聯邦法院提交「利益聲明」（Statement of Interest），在OpenAI著作權侵權合併訴訟中，明確表態支持OpenAI以受著作權保護的文章訓練AI模型屬於合理使用(Fair Use)，讓美國聯邦政府的立場首度浮上檯面。",
-        "source": "iThome"
-      },
-      {
-        "title": "Cursor擴大Cloud Agents自架部署，新增8家基礎設施與團隊資源池",
-        "link": "https://www.ithome.com.tw/news/178679",
-        "pubDate": "2026-09-03  04:09:32",
-        "description": "AI程式開發工具Cursor擴充Self-Hosted Machines功能，讓Cloud Agents可在企業自行管理的機器或雲端環境執行，並支援AWS Lambda、Cloudflare、Coder、Daytona、E2B、Modal、Namespace及Vercel等8家基礎設施供應商。企業仍從Cursor啟動與管理AI代理，但執行指令、修改檔案及操作程式碼儲存庫等工作，可改由企業指定的環境處理。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta發表Muse Spark 1.3，強調主動確認與長時多工能力",
-        "link": "https://www.ithome.com.tw/news/178674",
-        "pubDate": "2026-09-03  01:09:29",
-        "description": "Meta周三（9/2）發布新一代模型Muse Spark 1.3，可透過Muse Code與Meta Model API存取。此次更新的重點放在代理型任務與程式撰寫能力，並讓模型更貼近實際應用場景。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "SEMICON 大師論壇：AI 需求快到擴產追不上，台灣供應鏈下一步怎麼走？",
-        "link": "https://techorange.com/2026/09/02/semicon-ceo_summit-fireside-chat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 19:15:19 +0800",
-        "description": "AI 算力需求加速，但台灣半導體供應鏈面對的問題，已不只是要不要擴產，而是供應鏈產能跟不跟得上的問題。日月光半導體執行長、SEMI 全球董事會主席吳田玉在 SEMICON Taiwan 2026 大師論壇暨全球生態系高峰會爐邊對談一開始就拋出這個問題。他指出，全球正全力增加 AI 基礎建設，而台灣供應鏈目前仍是其中的瓶頸之一。當 AI 同時牽動地緣政治與全球產業發展，台灣接下來該扮演什麼角色，也成為這場對談一路追問的主軸。 台灣半導體產業協會理事長侯永清在對談中透露，台積電去年底估算今年第一季設",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 基建走向系統級整合，下一波效率從哪來？專訪微軟 Azure 全球基礎架構總經理",
-        "link": "https://techorange.com/2026/09/02/ai-semicon-microsoft-sillicon-to-system/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 17:31:32 +0800",
-        "description": "AI 爆發性成長，AI 基礎設施也在全球持續擴張，當中最難克服的限制究竟是晶片、電力，還是資料中心容量？微軟 Azure 全球基礎架構總經理 Alistair Speirs 藉著 SEMICON Taiwan 國際半導體展來台、接受《TechOrange》專訪時，給出的答案是：「時間。時間是最大的限制。」 原因在於，支撐 AI 的技術堆疊有著完全不同的建設與更新週期。Speirs 指出，新增電力供應往往得提前 10 年、20 年，甚至 30 年規劃；資料中心需要數年建設；晶片持續快速換代；軟體卻",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【劉永信專欄】史上最大筆收購，NVIDIA 為什麼要買一個開源社群？",
-        "link": "https://techorange.com/2026/09/02/cloudmile-nvidia-hugging-face/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 17:29:46 +0800",
-        "description": "如果你是 NVIDIA，模型公司、應用公司、開源社群，三個只能買一個，你買哪個？大部分人會選前兩個，模型最貴、最有名，也最像 AI 本身，應用離客戶最近，最快看得到營收，但 NVIDIA 選了第三個，它買的是一個年營收 1.5 億美元、平台上大部分東西還免費的社群平台。 NVIDIA 日前以 129 億美元收購 Hugging Face，是它史上最大一筆收購案，超過 2020 年收購 Mellanox 的 70 億美元，Hugging Face 的年化營收據報導僅約 1.5 億美元，129 億美",
-        "source": "TechOrange"
-      },
-      {
-        "title": "高盛、花旗等 21 家銀行組隊發穩定幣：技術不是難題，真正的考驗在哪？",
-        "link": "https://techorange.com/2026/09/02/goldman-sachs-bofa-plan-dollar-stablecoin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 17:01:40 +0800",
-        "description": "包括高盛、美國銀行、花旗和德意志銀行在內的 21 家金融機構表示，將於今年成立一家新公司，並於 2027 年上半年發行一種與美元掛鉤的加密貨幣。《Reuters》報導，這個團體最早於 2025 年 10 月公布，當時共有 10 家銀行參與。該團體在一份聲明中提到，除了美元穩定幣之外，希望進一步推出與其他 G7 貨幣掛鉤的穩定幣，其中歐元是優先發展目標。 價格反彈與川普支持助攻，區塊鏈技術加速穩定幣挺進主流金融 穩定幣是一種以加密貨幣形式在全球轉移資金的工具，目前主要用於加密貨幣交易。隨著 202",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI Agent 的 Token 燒得比預期快，不想收到超額帳單該注意哪些事？",
-        "link": "https://techorange.com/2026/09/02/cloudmile-ai-agent-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 02 Sep 2026 13:40:31 +0800",
-        "description": "為什麼有些企業 AI Agent 才上線沒多久，雲端帳單卻先失控了？ 問題不一定出在 AI 太貴，而是很多企業一開始就低估了 AI Agent 的使用方式，一個 Agent 可能不只問一次 AI，而是會自己搜尋資料、呼叫工具、請其他 Agent 幫忙，再把結果重新交給模型判斷，每多做一步，就可能多產生一次甚至數十次的模型呼叫。 所以，真正讓帳單爆炸的，往往不是「用了 AI」，而是不知道 AI 到底用了多少、怎麼用、為什麼一直用。 而這些問題，通常就藏在以下三個容易被忽略的成本陷阱裡。 陷阱一：A",
-        "source": "TechOrange"
-      },
       {
         "title": "Google 看 AI 硬體下一步：運算便宜、搬資料昂貴，專用化還會加深",
         "link": "https://techorange.com/2026/09/03/semicon-2026-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -240,6 +184,41 @@
         "link": "https://techorange.com/2026/09/03/openai-astra-zero-day-vulnerabilities-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 03 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI Astra 測試發現兩個零日漏洞，首度達關鍵級資安門檻 OpenAI 表示，即將推出的新模型 Astra，已達到公司準備框架中的關鍵級資安能力門檻，是 OpenAI 第一個被列入這個等級的模型。在取得適當工具與權限後，Astra 可以找出過去未知的軟體漏洞、設計可實際運作的攻擊方法，並在不需要人類逐步指揮的情況下，對多個高防護系統執行完整攻擊策略，能力高於目前公開的 GPT-5.6 Sol。 OpenAI 測試顯示，Astra 曾",
+        "source": "TechOrange"
+      },
+      {
+        "title": "前進 AWS 學 AI！新北青年局「AI 實戰職涯營」協助青年接軌科技職場",
+        "link": "https://techorange.com/2026/09/04/aws-departmentforyouth-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 12:44:22 +0800",
+        "description": "把 AI 課程搬進國際科技企業！新北市政府青年局率「2026 AI Practitioner Program（AI 實戰職涯營）」學員，前進全球雲端技術領導者 Amazon Web Services（AWS）辦公室參訪。由 6 位跨部門業師分享國際企業工作心法，並由 AWS 解決方案架構師帶領 AI 工具實作，幫助學員從「學會 AI」到「用 AI 解決產業問題」，也為即將到來的 10 月 2 日 Demo Day 成果發表提前進入實戰模式。 新北市青年局副局長林麗珠表示，AI 已快速成為各行各業",
+        "source": "TechOrange"
+      },
+      {
+        "title": "NVIDIA 開源 PAIR 登場：與其付錢上雲，不如用家中閒置設備跑 AI？",
+        "link": "https://techorange.com/2026/09/04/nvidia-rtx-personal-ai-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 12:37:58 +0800",
+        "description": "NVIDIA 在柏林舉行的 IFA 發表多項新消息，包括下月上市的 RTX Spark 系統，以及協助部署地端 AI 的模型與軟體更新。其中，受關注的 NVIDIA PAIR（Personal AI Router），能將區域網路內多台電腦的運算資源整合起來，並自動分配 AI 推論工作。 NVIDIA 開源免費軟體 PAIR，串起家庭與中小企業閒置電腦跑地端 AI NVIDIA PAIR 會將網路上的 RTX、DGX 和 Mac 系統整合成個人 AI 推論叢集，並自動把 AI 推論請求分配到可用的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "GPT-6 Astra 正式登場，為何 OpenAI 總裁認為 AGI 時代已到？",
+        "link": "https://techorange.com/2026/09/04/gpt-6-astra-openai-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 12:08:04 +0800",
+        "description": "OpenAI 在美國時間 9/3 推出 GPT-6 Astra 新模型，正式跨入第六代模型世代，並將它形容為「新一代智慧（a new generation of intelligence）」。值得關注的是，OpenAI 共同創辦人暨總裁 Greg Brockman 在媒體簡報上表示，如果幾年後回頭問「AGI 是什麼時候出現的」，答案可能就是現在，甚至可能就是 Astra；他個人認為，AI 已經進入「AGI 時代」。 距離 OpenAI 去年推出 GPT-5 已歷經約 13 個月，期間雖陸續更新至",
+        "source": "TechOrange"
+      },
+      {
+        "title": "調查發現 76% 工程師更愛 Claude Code 勝過 Codex，關鍵差異是什麼？",
+        "link": "https://techorange.com/2026/09/04/claude-code-openai-codex-ai-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 09:37:03 +0800",
+        "description": "在 AI 輔助程式開發領域的 138 位工程師受訪者中，高達 76% 使用 Anthropic Claude Code 執行日常工作，而 OpenAI Codex 則僅有 35%，另外有 22% 的人同時使用兩者。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "快速消費品巨頭如何迎戰供應鏈波動？金百利克拉克的數位分身與資料湖策略",
+        "link": "https://techorange.com/2026/09/04/kimberly-clark-ai-digital-twins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 04 Sep 2026 07:01:00 +0800",
+        "description": "旗下擁有舒潔（Kleenex）、靠得住（Kotex）與好奇（Huggies）等知名品牌的消費品巨頭金百利克拉克（Kimberly-Clark），近年積極將 AI 深度導入物流排程與工廠營運中。透過數據與自動化技術，該公司不僅大幅削減營運成本，更在競爭激烈的快消品市場中，持續鞏固營運效率與供應鏈韌性。 突破傳統物流瓶頸，導入 AI 數位分身降低 60% 貨運波動 過去金百利克拉克在運輸調度上經常面臨貨流不均的問題，例如部分日子出貨量集中，造成車輛與運輸容量過載，其他日子卻可能出現需求驟降與產能閒置",
         "source": "TechOrange"
       },
       {
@@ -485,10 +464,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s latest AI weather model gives you no excuse to forget your umbrella",
-        "link": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/",
-        "pubDate": "Thu, 03 Sep 2026 15:00:00 +0000",
-        "description": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+        "title": "The sameness problem behind those unappetizing AI-generated menus",
+        "link": "https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/",
+        "pubDate": "Fri, 04 Sep 2026 04:21:03 +0000",
+        "description": "While restaurant owners might look to generative AI as a shortcut to sprucing up their menu, customers can viscerally sense that something is wrong with the food.",
         "source": "TechCrunch"
       },
       {
@@ -499,10 +478,17 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Nvidia will officially bring DLSS 5 to older GPUs — but won’t give gamers full control",
+        "link": "https://www.theverge.com/games/989978/nvidia-dlss-5-rtx-40",
+        "pubDate": "2026-09-03T21:49:25-04:00",
+        "description": "Officially, Nvidia's controversial DLSS 5 AI rendering was supposed to launch this evening with only a single game, only on Nvidia's latest RTX 50 GPUs, and with developers in full control of their artistic vision. But unofficially, modders have alre",
+        "source": "TheVerge"
+      },
+      {
         "title": "The unusually muted Tesla Cybercab launch",
         "link": "https://www.theverge.com/transportation/989501/tesla-cybercab-launch-robotaxi-austin-musk",
         "pubDate": "2026-09-03T20:25:06-04:00",
-        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the future of his c",
+        "description": "At a private, closed-door event in Austin, Texas today, Tesla officially launched its gilded car of the future: the Cybercab. It's a huge milestone for Elon Musk, who has been hyping the imminent arrival of driverless cars for years and has bet the f",
         "source": "TheVerge"
       },
       {
@@ -525,13 +511,6 @@
         "pubDate": "2026-09-03T16:48:05-04:00",
         "description": "A Ravenloft series is currently in development from executive producer Alfonso Cuarón, writer and executive producer John August, and Hasbro Entertainment, Deadline reports. It could bring to life one of Dungeons & Dragons' most iconic campaign setti",
         "source": "TheVerge"
-      },
-      {
-        "title": "Congressman says TikTok backed out of a meeting to avoid child safety questions",
-        "link": "https://www.theverge.com/policy/989769/tiktok-house-committee-china-kids-online-safety",
-        "pubDate": "2026-09-03T14:37:57-04:00",
-        "description": "TikTok backed out of a congressional committee's \"public roundtable\" set for this month over concerns it would be asked about child safety practices, the chair of the committee said. After negotiating \"in good faith\" to bring TikTok's chief security ",
-        "source": "TheVerge"
       }
     ],
     "cve": [
@@ -544,16 +523,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Google Chrome"
-      },
-      {
-        "title": "Veeam Backup & Replication Information Disclosure Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/veeam-backup-and-replication-information-disclosure-vulnerability_20260826",
-        "pubDate": "Wed, 26 Aug 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Veeam Backup & Replication Information Disclosure Vulnerability"
       },
       {
         "title": "Mozilla Products Multiple Vulnerabilities",
@@ -664,16 +633,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "[Security Blog] Mid-Year Review: HKCERT Security Incident Statistics and Cybersecurity Trends in the First Half of 2026"
-      },
-      {
-        "title": "Zimbra Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/zimbra-multiple-vulnerabilities_20260824",
-        "pubDate": "Mon, 24 Aug 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Zimbra"
       }
     ]
   }
