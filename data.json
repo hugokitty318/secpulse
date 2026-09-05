@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T21:11:16.336162Z",
+  "ts": "2026-09-05T22:54:21.846201Z",
   "tabs": {
     "cn_sec": [
       {
@@ -380,6 +380,13 @@
     ],
     "en_tech": [
       {
+        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
+        "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
+        "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Hikers rescued after using Google Gemini for planning",
         "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
         "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
@@ -478,11 +485,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Less than 24 hours to apply for your TechCrunch Disrupt 2026 Side Event",
-        "link": "https://techcrunch.com/2026/09/04/less-than-24-hours-to-apply-for-your-techcrunch-disrupt-2026-side-event/",
-        "pubDate": "Fri, 04 Sep 2026 14:00:00 +0000",
-        "description": "Less than 24 hours left to apply to host a Side Event during TechCrunch Disrupt 2026 and make your mark in the Silicon Valley scene. Apply before the application closes tonight at midnight PT.",
-        "source": "TechCrunch"
+        "title": "Explore the globe in field recordings",
+        "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
+        "pubDate": "2026-09-05T17:31:34-04:00",
+        "description": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling",
+        "source": "TheVerge"
       },
       {
         "title": "iPhone Handoff will seamlessly share one number between two phones",
@@ -510,13 +517,6 @@
         "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
         "pubDate": "2026-09-05T10:00:16-04:00",
         "description": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeate",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The weird and wonderful headphones of CanJam 2026",
-        "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
-        "pubDate": "2026-09-05T09:00:00-04:00",
-        "description": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good -",
         "source": "TheVerge"
       }
     ],
