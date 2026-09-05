@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T10:54:42.480608Z",
+  "ts": "2026-09-05T13:51:26.196690Z",
   "tabs": {
     "cn_sec": [
       {
@@ -329,13 +329,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Your Employee’s Password Appeared in an Infostealer Log. Now What?",
-        "link": "https://www.bleepingcomputer.com/news/security/your-employees-password-appeared-in-an-infostealer-log-now-what/",
-        "pubDate": "Thu, 03 Sep 2026 09:50:59 -0400",
-        "description": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond befo",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
         "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
         "pubDate": "Sat, 05 Sep 2026 13:25:10 +0530",
@@ -348,6 +341,13 @@
         "pubDate": "Sat, 05 Sep 2026 13:01:53 +0530",
         "description": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-8",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
+        "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
+        "pubDate": "Sat, 05 Sep 2026 07:11:50 -0400",
+        "description": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [.",
+        "source": "BleepingComputer"
       },
       {
         "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
@@ -485,6 +485,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "The weird and wonderful headphones of CanJam 2026",
+        "link": "https://www.theverge.com/tech/990706/a-day-at-canjam-socal-2026",
+        "pubDate": "2026-09-05T09:00:00-04:00",
+        "description": "I've been reviewing headphones for a long time, and I've listened to everything from the barely serviceable to multi-thousand-dollar open-back headphones. But recently I've been uninspired by the state of mainstream options. Most are perfectly good -",
+        "source": "TheVerge"
+      },
+      {
+        "title": "OpenAI admits to German wiki ‘incident’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+        "pubDate": "2026-09-05T07:15:55-04:00",
+        "description": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki s",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Robotaxis enter their villain era",
+        "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
+        "pubDate": "2026-09-05T07:00:00-04:00",
+        "description": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says s",
+        "source": "TheVerge"
+      },
+      {
         "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
         "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
         "pubDate": "2026-09-04T17:23:50-04:00",
@@ -496,27 +517,6 @@
         "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
         "pubDate": "2026-09-04T15:42:54-04:00",
         "description": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "GoPro says it&#8217;s still committed &#8216;to your collective stoke&#8217;",
-        "link": "https://www.theverge.com/gadgets/990425/gopro-nick-woodman-starman-letter",
-        "pubDate": "2026-09-04T14:00:45-04:00",
-        "description": "GoPro CEO Nick Woodman said in a letter to customers that making cameras is still his company's \"core DNA,\" after a proposed $285 million acquisition by Starman was announced earlier this week. He claims the merger puts GoPro in a better position to ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Roland is getting into generative AI music with Melody Flip",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/990197/roland-ai-music-melody-flip",
-        "pubDate": "2026-09-04T13:51:35-04:00",
-        "description": "It's not quite the \"push button; get song\" of Suno, but Roland's new Melody Flip tool marks the company's foray into generative AI music. Available as a plug-in for your digital audio workstation (DAW), Melody Flip offers around 250 \"Palettes,\" which",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AGI is whatever you want it to be",
-        "link": "https://www.theverge.com/podcast/990323/agi-is-whatever-you-want-it-to-be",
-        "pubDate": "2026-09-04T13:16:49-04:00",
-        "description": "OpenAI announced its next big model, GPT-6 Astra, and also, by the way, that \"the AGI era\" is here now. Today on The Vergecast, we've got an all-star panel to break down the news of the week. First, senior AI reporter Hayden Field joins us to talk ab",
         "source": "TheVerge"
       }
     ],
