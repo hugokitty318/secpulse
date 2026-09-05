@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T13:51:26.196690Z",
+  "ts": "2026-09-05T16:48:27.633513Z",
   "tabs": {
     "cn_sec": [
       {
@@ -280,13 +280,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Attackers Turn Trusted Node.js Runtime Into Malware Delivery Tool in Targeted Attacks",
-        "link": "https://thehackernews.com/2026/09/attackers-turn-trusted-nodejs-runtime.html",
-        "pubDate": "Thu, 03 Sep 2026 16:13:01 +0530",
-        "description": "Threat actors are leveraging the trusted Node.js JavaScript runtime in multiple cyber attacks as a way to deploy malicious payloads.\n\nAccording to a new report published by the Symantec Threat Hunter Team today, the attack method has been put to use ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Coder's registry infrastructure compromised to push malicious modules",
         "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
         "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400",
@@ -322,11 +315,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Critical Elementor Pro flaw exploited to take over WordPress sites",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-flaw-exploited-to-take-over-wordpress-sites/",
-        "pubDate": "Thu, 03 Sep 2026 10:52:20 -0400",
-        "description": "A recently patched critical vulnerability (CVE-2026-32475) in the Elementor Pro plugin for WordPress is being exploited in attacks that deliver a webshell payload and execute arbitrary commands on the server. [...]",
-        "source": "BleepingComputer"
+        "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
+        "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
+        "pubDate": "Sat, 05 Sep 2026 19:47:02 +0530",
+        "description": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, sh",
+        "source": "TheHackerNews"
       },
       {
         "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
@@ -341,6 +334,13 @@
         "pubDate": "Sat, 05 Sep 2026 13:01:53 +0530",
         "description": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-8",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
+        "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
+        "pubDate": "Sat, 05 Sep 2026 10:29:13 -0400",
+        "description": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
@@ -379,6 +379,13 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Oura is going public, but these smart ring companies are coming for its crown",
+        "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
+        "pubDate": "Sat, 05 Sep 2026 15:00:00 +0000",
+        "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
+        "source": "TechCrunch"
+      },
       {
         "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
@@ -478,11 +485,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Crusoe reportedly raises $3B at a  $30B valuation",
-        "link": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
-        "pubDate": "Fri, 04 Sep 2026 00:48:42 +0000",
-        "description": "The round came together after the data center developer reportedly secured a $13 billion contract with Jane Street.",
-        "source": "TechCrunch"
+        "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
+        "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
+        "pubDate": "2026-09-05T11:00:00-04:00",
+        "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast fr",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Content creators drop the ball",
+        "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
+        "pubDate": "2026-09-05T10:00:16-04:00",
+        "description": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeate",
+        "source": "TheVerge"
       },
       {
         "title": "The weird and wonderful headphones of CanJam 2026",
@@ -503,20 +517,6 @@
         "link": "https://www.theverge.com/transportation/989513/road-rage-short-film-robotaxi-autonomous-ai",
         "pubDate": "2026-09-05T07:00:00-04:00",
         "description": "It's Bullitt meets Christine meets Waymo. A new short film imagines a San Francisco car chase where the other driver isn't human - and the car may be trying to kill you. That a robotaxi can now be cast as the villain with almost no explanation says s",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Audacity 4 is a complete revamp of the ‘world’s most popular’ audio editor",
-        "link": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
-        "pubDate": "2026-09-04T17:23:50-04:00",
-        "description": "Audacity 4 has been in the works for some time, and had its own mini controversy last year when an unfortunate redesigned logo started making the rounds. The final version of the new icon isn't nearly as bad as the early rendition that was circulatin",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The White House is making arcade games racist",
-        "link": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
-        "pubDate": "2026-09-04T15:42:54-04:00",
-        "description": "The PR masterminds at the White House just released a series of vaguely policy-themed \"arcade\" games, some of which are racist - and modeled on real games whose copyright holders may not be too happy to be associated with the MAGA agenda. The Tetris ",
         "source": "TheVerge"
       }
     ],
