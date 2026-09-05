@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-04T23:18:04.610231Z",
+  "ts": "2026-09-05T01:22:48.094301Z",
   "tabs": {
     "cn_sec": [
       {
@@ -166,10 +166,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "強化海事通訊韌性！工研院與資策會聯手打造「多軌道衛星閘道器」，亮相台灣創博會",
-        "link": "https://techorange.com/2026/09/03/tie-itri-iii-satellite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 10:52:00 +0800",
-        "description": "想像一下，一艘貨輪正在公海航行，船上主機設備突然出現異常警報，岸端工程師正在進行即時視訊診斷與遠距維修，而船員唯一的依靠便是頭頂上的衛星網路。然而，當海浪劇烈搖晃船隻、天候惡化，或是船隻駛入超過衛星通訊公司的服務範圍時，衛星通訊便會面臨延遲、頻寬驟降甚至斷線的危機，若此時無法即時切換至其他衛星系統，整個維修作業將被迫中斷。 這不是假設情境，而是台灣海事業者在遠洋通訊應用中所關注的實際問題，如何確保「衛星通訊韌性」在多變環境下不斷線，已成為通訊發展的核心命題。 今（2026）年台灣創博會（tie）",
+        "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
+        "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 05 Sep 2026 06:29:00 +0800",
+        "description": "美國資安公司 ExtraHop 發佈的《2026 全球威脅情勢報告》（The 2026 ExtraHop Global Threat Landscape Report），內容呈現當前資安防線的結構性轉變；研究於 2026 年 5 月進行，對象涵蓋美國、英國、法國、德國、新加坡、澳洲和阿拉伯聯合大公國等七個國家中，擁有 1,000 名以上員工企業的 1,803 名總監級以上之 IT 與安全決策者。 報告透過對全球企業決策者的量化調查，揭露駭客現在如何用 AI 和隱形手段繞過防護，而企業如何用更聰明",
         "source": "TechOrange"
       },
       {
@@ -380,10 +380,10 @@
     ],
     "en_tech": [
       {
-        "title": "Oura files to go public",
-        "link": "https://techcrunch.com/2026/09/03/oura-files-to-go-public/",
-        "pubDate": "Thu, 03 Sep 2026 22:35:41 +0000",
-        "description": "The ring maker says that its business has shown significant revenue growth over the past year.",
+        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+        "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
+        "description": "The round is being raised just months after the robot data startup exited from stealth.",
         "source": "TechCrunch"
       },
       {
