@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-05T06:18:00.849366Z",
+  "ts": "2026-09-05T10:54:42.480608Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,13 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Shai-Hulud's Reach Just Grew to 469 Credential Locations. Here's What That Means",
-        "link": "https://thehackernews.com/2026/09/shai-huluds-reach-just-grew-to-469.html",
-        "pubDate": "Thu, 03 Sep 2026 16:06:39 +0530",
-        "description": "In early August, GitGuardian researchers found that a recent Shai-Hulud infostealer worm variant had evolved to scan for credentials across 469 locations across developer environments, Continuous Integration/Continuous Deployment (CI/CD) tooling, clo",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Coder's registry infrastructure compromised to push malicious modules",
         "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
         "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400",
@@ -306,13 +299,6 @@
         "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400",
         "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Pegasus Zero-Click Spyware Exploit Infects Serbian Student Movement Member's iPhone",
-        "link": "https://thehackernews.com/2026/09/pegasus-zero-click-spyware-exploit.html",
-        "pubDate": "Thu, 03 Sep 2026 14:13:17 +0530",
-        "description": "The iPhone belonging to a member of Serbia's student protest movement was infected with NSO Group's Pegasus spyware, according to new findings from the Citizen Lab in collaboration with the SHARE Foundation.\n\n\"Our analysis confirmed that an iMessage ",
-        "source": "TheHackerNews"
       },
       {
         "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
@@ -348,6 +334,20 @@
         "pubDate": "Thu, 03 Sep 2026 09:50:59 -0400",
         "description": "Infostealers can expose far more than passwords, including authenticated sessions that may let attackers bypass MFA. Flare explains how defenders can prioritize compromised identities, determine whether stolen access is still usable, and respond befo",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
+        "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
+        "pubDate": "Sat, 05 Sep 2026 13:25:10 +0530",
+        "description": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
+        "pubDate": "Sat, 05 Sep 2026 13:01:53 +0530",
+        "description": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-8",
+        "source": "TheHackerNews"
       },
       {
         "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
