@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-06T19:07:52.211959Z",
+  "ts": "2026-09-06T21:17:56.068504Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+        "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+        "pubDate": "Sun, 06 Sep 2026 20:47:37 +0000",
+        "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
         "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
         "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
@@ -482,13 +489,6 @@
         "link": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge/",
         "pubDate": "Fri, 04 Sep 2026 16:21:11 +0000",
         "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "CD sales are making an unexpected comeback amid a retro tech boom",
-        "link": "https://techcrunch.com/2026/09/04/cd-sales-are-making-an-unexpected-comeback-amid-a-retro-tech-boom/",
-        "pubDate": "Fri, 04 Sep 2026 15:00:00 +0000",
-        "description": "U.S. CD revenue jumped 58.6% in the first half of 2026, reversing last year’s decline as interest in retro tech and physical media continues to grow.",
         "source": "TechCrunch"
       },
       {
