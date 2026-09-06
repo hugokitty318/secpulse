@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-06T14:07:59.914167Z",
+  "ts": "2026-09-06T16:59:57.286142Z",
   "tabs": {
     "cn_sec": [
       {
@@ -280,13 +280,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Anthropic confirms Claude is down, multiple models affected",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-multiple-models-affected/",
-        "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400",
-        "description": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
         "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
         "pubDate": "Sun, 06 Sep 2026 15:02:38 +0530",
@@ -299,6 +292,13 @@
         "pubDate": "Sun, 06 Sep 2026 14:04:20 +0530",
         "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Updat",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers conceal phishing lures using invisible Unicode characters",
+        "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
+        "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400",
+        "description": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
@@ -386,6 +386,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+        "link": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business/",
+        "pubDate": "Sun, 06 Sep 2026 16:45:00 +0000",
+        "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
+        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
+        "pubDate": "Sun, 06 Sep 2026 16:08:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
@@ -478,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Krafton doubles down on India with another $250M bet beyond gaming",
-        "link": "https://techcrunch.com/2026/09/04/krafton-doubles-down-on-india-with-another-250m-bet-beyond-gaming/",
-        "pubDate": "Fri, 04 Sep 2026 14:47:20 +0000",
-        "description": "Krafton's planned investment in India is set to surpass $500 million with its latest commitment.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google’s Gemini Spark can now manage your Google Photos library",
-        "link": "https://techcrunch.com/2026/09/04/googles-gemini-spark-can-now-manage-your-google-photos-library/",
-        "pubDate": "Fri, 04 Sep 2026 14:47:11 +0000",
-        "description": "Gemini Spark can edit and curate photo albums, create shared collections, turn photos into calendar events, and handle other Google Photos tasks for AI Pro and Ultra subscribers.",
-        "source": "TechCrunch"
+        "title": "Boox’s tiny Picco e-reader should land in November",
+        "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
+        "pubDate": "2026-09-06T12:28:58-04:00",
+        "description": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will",
+        "source": "TheVerge"
       },
       {
         "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
         "pubDate": "2026-09-05T17:31:34-04:00",
         "description": "I love field recordings. I love making them. I love them when they're incorporated into my ambient music. They're great background noise for working or sleeping. But they're also great for active listening, focusing in on the fine nuances of burbling",
-        "source": "TheVerge"
-      },
-      {
-        "title": "iPhone Handoff will seamlessly share one number between two phones",
-        "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
-        "pubDate": "2026-09-05T16:53:58-04:00",
-        "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now ",
         "source": "TheVerge"
       }
     ],
