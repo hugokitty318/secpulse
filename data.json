@@ -1,12 +1,26 @@
 {
-  "ts": "2026-09-06T10:50:44.634703Z",
+  "ts": "2026-09-06T14:07:59.914167Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術",
+        "link": "https://www.ithome.com.tw/news/178698",
+        "pubDate": "2026-09-06 19:04",
+        "description": "搶攻企業雲端與AI轉型商機之餘，企業儲存廠商NetApp不僅持續擴展儲存與資料保護相關功能，同時強調他們可提供市場上最安全的解決方案，證據是依循國家級資安框架的產品功能設計，以及取得多項國家級資安認證",
+        "source": "iThome資安"
+      },
       {
         "title": "【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時",
         "link": "https://www.ithome.com.tw/news/178722",
         "pubDate": "2026-09-06  10:09:01",
         "description": "徵信調查是風險控管的核心，玉山銀行企業放款餘額超過1兆元，每年玉山法金部門都會重新審視往來企業的信用和財務狀況。不過，傳統法金徵信作業最大痛點是，資料散亂和人工作業耗時。數百名負責徵信作業的客戶關係經理（RM），一年得要撰寫四、五千份徵信報告，每月高達4成的工時都花在蒐集資料上。\n玉山銀行花了一年，自行開發了「iCatcher」與智能徵信報告工具「智捷通」等多款AI工具，將授信作業流程中動輒耗費十多小時的資料蒐集及報告初稿製作工作，縮短至分鐘級，推估一年可以節省8.4萬個人時。",
+        "source": "iThome"
+      },
+      {
+        "title": "JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用",
+        "link": "https://www.ithome.com.tw/news/178720",
+        "pubDate": "2026-09-06  08:09:13",
+        "description": "JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式庫發布能力，涵蓋JVM、Android、iOS與WebAssembly（Wasm），並預覽Wasm網頁應用建置功能。開發者可使用相同的工具設定函式庫支援的平臺，再產生各平臺需要的版本。",
         "source": "iThome"
       },
       {
@@ -105,13 +119,6 @@
         "link": "https://www.ithome.com.tw/news/178686",
         "pubDate": "2026-09-04 09:33",
         "description": "英國研究機構CLTR觀察到1,664起AI失控相關事件，較嚴重案例持續增加。部分AI代理甚至會偽造使用者核准訊息、規避既有安全控制或提升自身權限，顯示AI控制問題已不只出現在安全評估，也出現在實際部署環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "背景Git檢查成攻擊入口，GitSpawn漏洞波及Claude Code等7款AI程式代理",
-        "link": "https://www.ithome.com.tw/news/178683",
-        "pubDate": "2026-09-04 08:37",
-        "description": "AI代理為掌握專案狀態會自行呼叫Git，卻可能執行專案設定指定的外部程式，GitSpawn漏洞影響7款工具，部分可在工作區信任或登入前觸發",
         "source": "iThome資安"
       },
       {
@@ -485,6 +492,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
+        "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
+        "pubDate": "2026-09-06T09:00:00-04:00",
+        "description": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
+        "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
+        "pubDate": "2026-09-06T09:00:00-04:00",
+        "description": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator",
+        "source": "TheVerge"
+      },
+      {
+        "title": "DIY plug-in solar gains momentum in the US",
+        "link": "https://www.theverge.com/column/990183/diy-plug-in-solar-us",
+        "pubDate": "2026-09-06T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on e-bikes, power stations, and how to work anywhere, follow Thomas Ricker. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in f",
+        "source": "TheVerge"
+      },
+      {
         "title": "Explore the globe in field recordings",
         "link": "https://www.theverge.com/tech/990873/earth-garden-globe-field-recordings",
         "pubDate": "2026-09-05T17:31:34-04:00",
@@ -496,27 +524,6 @@
         "link": "https://www.theverge.com/tech/990868/iphone-handoff-ios-27",
         "pubDate": "2026-09-05T16:53:58-04:00",
         "description": "When iOS 27 lands later this month, it will have a feature called iPhone Handoff that lets you switch between two phones using the same number. It was briefly mentioned during the WWDC keynote back in June, but there were no details at the time. Now ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "CD sales are booming as physical media continues its resurgence",
-        "link": "https://www.theverge.com/entertainment/990794/cd-sales-are-booming-as-physical-media-continues-its-resurgence",
-        "pubDate": "2026-09-05T12:49:33-04:00",
-        "description": "According to the Recording Industry Association of America (RIAA), CD sales exploded in the first half of 2026. A new report from the organization says 17.5 million CDs were sold in the first six months of the year, up from just 12 million during the",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Fantasy Footballers’ Andy Holloway is a dedicated zero-inbox kinda guy",
-        "link": "https://www.theverge.com/report/989270/fantasy-footballers-podcast-andy-holloway-interview",
-        "pubDate": "2026-09-05T11:00:00-04:00",
-        "description": "Andy Holloway cohosts the Fantasy Footballers podcast with his friends Jason Moore and Mike Wright. The show is one of the premier fantasy sports podcasts, netting over 2 million monthly listeners and numerous awards, including Best Sports Podcast fr",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Content creators drop the ball",
-        "link": "https://www.theverge.com/tech/990426/us-open-influencers-naomi-osaka-anastasia-zakharova-callaway-good-good-ad",
-        "pubDate": "2026-09-05T10:00:16-04:00",
-        "description": "During Naomi Osaka's match against Anastasia Zakharova at this year's US Open earlier this week, a gaggle of ring light-wielding influencers who were packed in a luxury suite became enough of a distraction that the umpire paused the match and repeate",
         "source": "TheVerge"
       }
     ],
