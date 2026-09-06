@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-06T05:53:42.900643Z",
+  "ts": "2026-09-06T10:50:44.634703Z",
   "tabs": {
     "cn_sec": [
       {
@@ -238,20 +238,6 @@
     ],
     "en_sec": [
       {
-        "title": "ThreatsDay: CEO Phishing Kits, 5K Dropbox Account Hacks, OAuth Traps + 17 More Stories",
-        "link": "https://thehackernews.com/2026/09/threatsday-ceo-phishing-kits-5k-dropbox.html",
-        "pubDate": "Thu, 03 Sep 2026 23:32:47 +0530",
-        "description": "The worst part is how normal these attacks look. A call from IT. A shared file. A trusted app. A simple request to click “Allow.” Why break in when someone might open the door?\n\nThat idea runs through this edition. Attackers use real tools, fake logi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Cisco Nexus 9000 Flaw Lets Unauthenticated Remote Attackers Run Code as Root",
-        "link": "https://thehackernews.com/2026/09/critical-cisco-nexus-9000-flaw-lets.html",
-        "pubDate": "Thu, 03 Sep 2026 21:22:07 +0530",
-        "description": "Cisco has released patches to address a critical security flaw affecting 10 Silicon One-based Nexus 9000 switches that could allow an unauthenticated, remote attacker to execute code as root, alongside an IOS XR hardening release bundling 7 umbrella ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "French hospital fined €500,000 after breach exposes data of 727,000",
         "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
         "pubDate": "Thu, 03 Sep 2026 18:01:37 -0400",
@@ -292,6 +278,20 @@
         "pubDate": "Thu, 03 Sep 2026 11:02:52 -0400",
         "description": "Claude is experiencing an outage, with users encountering elevated errors when sending requests to multiple Anthropic AI models. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
+        "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
+        "pubDate": "Sun, 06 Sep 2026 15:02:38 +0530",
+        "description": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on S",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
+        "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
+        "pubDate": "Sun, 06 Sep 2026 14:04:20 +0530",
+        "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Updat",
+        "source": "TheHackerNews"
       },
       {
         "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
