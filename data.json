@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-07T21:28:22.720932Z",
+  "ts": "2026-09-07T23:44:58.123936Z",
   "tabs": {
     "cn_sec": [
       {
@@ -138,6 +138,20 @@
     ],
     "cn_tech": [
       {
+        "title": "【Google Cloud 林書平專欄】擴展 AI 代理的瓶頸不是模型，是資料還停在「紀錄系統」",
+        "link": "https://techorange.com/2026/09/08/ai-systems-of-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 06:21:00 +0800",
+        "description": "文 / Google Cloud 台灣技術總經理 林書平 放眼當今技術發展，阻礙企業擴展 AI 的最大瓶頸，早已不是模型本身的能力，而是模型能否精準掌握企業的「業務情境脈絡（Business Context）」。 打造情境脈絡的關鍵在於資料基礎。根據 PwC 報告，全球 AI 領先企業提供高品質資料的比例高出台灣企業 4.4 倍，且僅有 13% 的台灣企業能讓員工快速取得 AI 工作所需的高品質資料。進入代理式時代，企業不能只把資料當作靜態庫存，必須注入值得信任的情境脈絡，以將資料轉化為源源不絕",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】OpenAI「AI 研究實習生」達標，黃仁勳稱 AGI 已到來、40 萬顆 GPU 將上線",
+        "link": "https://techorange.com/2026/09/08/openai-ai-research-intern-jensen-huang-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI「AI 研究實習生」達標，首席科學家警告 AI 推理愈來愈難監控 OpenAI 表示，已達成原訂今年 9 月完成「自動化 AI 研究實習生」的目標。這類系統能在人類指導下執行範圍明確的研究任務，包括原本需要熟練研究人員花費數天才能完成的工作；下一個目標則是在 2028 年 3 月建立能在人類監督下工作的自動化 AI 研究員。截至 8 月中，OpenAI 研究團隊每投入一個人類工作日，已搭配相當於 3.1 個工作日的代理運算時間，但研",
+        "source": "TechOrange"
+      },
+      {
         "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
         "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 05 Sep 2026 06:29:00 +0800",
@@ -226,20 +240,6 @@
         "link": "https://techorange.com/2026/09/07/nvidia-hugging-face-acquisition-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 07 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 129 億美元宣布收購 Hugging Face，版圖延伸至 1,800 萬名開發者 NVIDIA 宣布，已同意以 129.3 億美元收購 AI 模型開發者平台 Hugging Face，成為 NVIDIA 規模最大的收購案之一。Hugging Face 目前擁有超過 1,800 萬名開發者、研究人員及創作者，平台上累積超過 300 萬個模型、50 萬個資料集及 100 萬個應用程式，使用企業超過 20 萬家。NVIDIA 也是 ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "合泉系安攜手 BMC 引領 AI 自動化升級  SOAP 成為企業智慧營運新引擎",
-        "link": "https://techorange.com/2026/09/04/cosprings-bmc-ai-soap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 17:51:36 +0800",
-        "description": "透過智慧服務編排與自動化平台 (Service Orchestration and Automation Platform, SOAP），推動企業從IT維運邁向核心業務流程，打造智慧化、高韌性的營運模式。 合泉系安宣布與 AI 時代的企業自動化領導者 BMC Software 簽署策略合作協議，成為亞太區首家 BMC 特許經營策略合作夥伴，負責台灣市場的營運與銷售，協助 BMC 加速拓展台灣市場版圖。 隨著企業從 IT 單點自動化，走向混合雲、多雲、SaaS、AI 代理與跨資料流程的端到端服務交",
-        "source": "TechOrange"
-      },
-      {
-        "title": "問 AI「這塊基板為什麼翹曲？」OMRON 導入視覺檢測代理，新手也問得出根因",
-        "link": "https://techorange.com/2026/09/04/omron-nvidia-are-creating-ai-skillless-inspection/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 17:36:18 +0800",
-        "description": "工業自動化企業 OMRON Corporation 在今年宣布在日本進一步擴大 NVIDIA 技術的整合，面對全球熟練工程師短缺，OMRON 將導入由 NVIDIA Metropolis Blueprint for Video Search and Summarization（VSS） 與 NVIDIA Cosmos 驅動的視覺檢測代理，讓檢測流程更趨 AI 化。 AI 代理進駐檢測線：OMRON 補上熟練人員缺口 操作員與工程師不必只靠操作手冊，而能以自然語言、在擬真環境中直接調閱製造資料。O",
         "source": "TechOrange"
       }
     ],
