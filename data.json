@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-07T17:53:54.138726Z",
+  "ts": "2026-09-07T21:28:22.720932Z",
   "tabs": {
     "cn_sec": [
       {
@@ -308,13 +308,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html",
-        "pubDate": "Sat, 05 Sep 2026 13:01:53 +0530",
-        "description": "Threat actors are exploiting the newly disclosed PaperCut flaws to facilitate credential theft in attacks targeting the education sector in the U.S. and Europe.\n\nThe Arctic Wolf Adversary Research Team said it observed attackers exploiting CVE-2026-8",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
         "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
         "pubDate": "Sat, 05 Sep 2026 10:29:13 -0400",
@@ -327,6 +320,13 @@
         "pubDate": "Sat, 05 Sep 2026 07:11:50 -0400",
         "description": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [.",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
+        "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
+        "pubDate": "Mon, 07 Sep 2026 23:42:09 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior administrative or code execution access, its installer",
+        "source": "TheHackerNews"
       },
       {
         "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
@@ -450,6 +450,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Opaque recurrence, and other AI terms that you should probably know",
+        "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+        "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
+        "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A secret new Elizabeth Holmes documentary stuns Telluride",
+        "link": "https://techcrunch.com/2026/09/07/a-secret-new-elizabeth-holmes-documentary-stuns-telluride/",
+        "pubDate": "Mon, 07 Sep 2026 18:02:29 +0000",
+        "description": "Nathan Fielder and Lance Oppenheim's secret Elizabeth Holmes documentary, \"You Can See Everything,\" stunned Telluride audiences Sunday night with its generous access to the Theranos founder.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "What we expect from the upcoming Apple launch",
         "link": "https://techcrunch.com/2026/09/07/what-we-expect-from-the-upcoming-apple-launch/",
         "pubDate": "Mon, 07 Sep 2026 15:58:00 +0000",
@@ -457,7 +471,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
         "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
         "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
         "description": "The round is being raised just months after the robot data startup exited from stealth.",
@@ -478,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Judge blocks X rival from using Twitter name, but allows ‘Tweet’ for now",
-        "link": "https://techcrunch.com/2026/09/04/judge-blocks-x-rival-from-using-twitter-name-but-allows-tweet-for-now/",
-        "pubDate": "Fri, 04 Sep 2026 17:52:05 +0000",
-        "description": "A federal judge temporarily barred an X rival from using the Twitter name, but found that X was likely to have abandoned the “Tweet” trademark and bird logo. The startup has since relaunched as Tweet.app.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "What will Apple’s John Ternus era look like?",
-        "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
-        "pubDate": "Fri, 04 Sep 2026 17:18:00 +0000",
-        "description": "It’s officially the Ternus era at Apple.   Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on his desk ",
-        "source": "TechCrunch"
+        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
+        "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
+        "pubDate": "2026-09-07T16:03:41-04:00",
+        "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Wa",
+        "source": "TheVerge"
       },
       {
         "title": "Six years later, Sony revisits its legendary XM4 headphones",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
         "pubDate": "2026-09-07T07:00:00-04:00",
         "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level,",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
-        "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
-        "pubDate": "2026-09-07T06:09:42-04:00",
-        "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first ",
         "source": "TheVerge"
       }
     ],
