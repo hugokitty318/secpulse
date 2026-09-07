@@ -1,12 +1,68 @@
 {
-  "ts": "2026-09-07T06:02:57.235081Z",
+  "ts": "2026-09-07T12:23:52.663114Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼",
+        "link": "https://www.ithome.com.tw/news/178756",
+        "pubDate": "2026-09-07 18:58",
+        "description": "PostgreSQL一項存在約12年的邏輯解碼漏洞，可讓持有REPLICATION權限的帳號跨出資料庫權限範圍，在伺服器執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員揭露揭露NovaCookies網釣平臺，濫用DocuSign通知服務竊取Microsoft 365帳號",
+        "link": "https://www.ithome.com.tw/news/178758",
+        "pubDate": "2026-09-07 18:48",
+        "description": "新興訂閱制AiTM網釣服務鎖定數百個組織發動攻擊，利用真實DocuSign通知訊息誘導受害者登入Microsoft 365，藉此竊取登入驗證資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "疑似北韓駭客將後門植入負載平衡器HAProxy，可攔截流量並讓C2請求避開後端日誌",
+        "link": "https://www.ithome.com.tw/news/178748",
+        "pubDate": "2026-09-07 18:22",
+        "description": "負載平衡器HAProxy被植入Ted後門，攻擊者可竊取Cookie、修改網頁內容，並把負載平衡器當成C2通道，使控制指令不進後端伺服器日誌",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PaperCut零時差漏洞攻擊鎖定歐美學校",
+        "link": "https://www.ithome.com.tw/news/178755",
+        "pubDate": "2026-09-07 17:16",
+        "description": "資安公司Arctic Wolf發現最新一波PaperCut零時差漏洞利用活動，攻擊者利用CVE-2026-82078、CVE-2026-81578鎖定歐洲的大學與美國K-12學校，目的是搜刮這些教育機構的各式憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix NetScaler重大漏洞遭到利用",
+        "link": "https://www.ithome.com.tw/news/178750",
+        "pubDate": "2026-09-07 16:10",
+        "description": "漏洞威脅情報平臺Previdian警告，Citrix於8月下旬修補的NetScaler重大漏洞CVE-2026-19490已遭到利用，他們偵測到來自多個IP位址的漏洞利用活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "JetBrains雲端運算服務Cadence遭駭，攻擊者利用TeamCity重大漏洞得逞",
+        "link": "https://www.ithome.com.tw/news/178747",
+        "pubDate": "2026-09-07 15:13",
+        "description": "8月底JetBrains指出旗下的雲端運算服務Cadence遭到入侵，過程中攻擊者利用TeamCity重大漏洞CVE-2026-63077來達到目的，9月上旬該公司指出，部分用戶的專案程式碼與憑證恐遭外流",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月7日，SEMI E187驗證標章亮相，最快10月公布首家驗證機構，第一波獲得認可的產品年底有望問世",
+        "link": "https://www.ithome.com.tw/news/178746",
+        "pubDate": "2026-09-07 14:59",
+        "description": "在9月4日SEMICON Taiwan 2026半導體資安論壇上，數位發展部與國際半導體產業協會SEMI共同揭露「SEMI E187驗證標章」，宣告臺灣主導的半導體資安標準，正式從標準制定邁向落地驗證，預計最快10月台北市電腦公會（TCA）將成為認可驗證機構，年底前首波獲標章產品可望問世",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MikroTik路由器遭鎖定，駭客透過SSH進行未經授權存取",
+        "link": "https://www.ithome.com.tw/news/178745",
+        "pubDate": "2026-09-07 14:58",
+        "description": "CERT Polska警告，他們向網路設備廠商MikroTik通報的部分資安漏洞遭到利用，攻擊者利用SSH連線入侵路由器，並試圖建立特定名稱的高權限帳號，呼籲用戶要儘速套用RouterOS更新因應",
+        "source": "iThome資安"
+      },
       {
         "title": "垃圾郵件業者已大規模套用ASCII走私技巧",
         "link": "https://www.ithome.com.tw/news/178736",
         "pubDate": "2026-09-07 13:57",
-        "description": "ASCII走私技巧從AI提示注入延伸至傳統釣魚攻擊，微軟發現攻擊者利用不可見Unicode字符拆開郵件關鍵字，藉此躲避過濾機制，相關攻擊單日郵件量最高超過230萬封",
+        "description": "ASCII走私技巧從AI提示注入延伸至傳統釣魚攻擊，微軟發現攻擊者利用不可見Unicode字元拆開郵件關鍵字，藉此躲避過濾機制，相關攻擊單日郵件量最高超過230萬封",
         "source": "iThome資安"
       },
       {
@@ -17,14 +73,14 @@
         "source": "iThome資安"
       },
       {
-        "title": "SEMI E187驗證標章亮相，最快10月將公布第一家認證機構，首波標章產品有望於年底前問世",
+        "title": "SEMI E187驗證標章亮相，最快10月將公布第一家驗證機構，首波獲標章產品有望於年底前問世",
         "link": "https://www.ithome.com.tw/news/178733",
         "pubDate": "2026-09-07 12:42",
         "description": "繼上月SEMI E187檢測實驗室出爐後，在9月4日SEMICON Taiwan 2026半導體資安論壇上，數位發展部與國際半導體產業協會SEMI共同揭露「SEMI E187驗證標章」，宣告臺灣主導的半導體資安標準，正式從規則制定邁向落地驗證，預計最快10月台北市電腦公會（TCA）將成為認可驗證機構，年底前首波獲標章產品可望問世",
         "source": "iThome資安"
       },
       {
-        "title": "CISA將Chrome已遭利用漏洞CVE-2026-85046列入KEV清單",
+        "title": "CISA將Chrome甫修補漏洞列入KEV清單",
         "link": "https://www.ithome.com.tw/news/178734",
         "pubDate": "2026-09-07 12:10",
         "description": "CISA於Google發布Chrome 152更新次日，將JavaScript引擎V8高風險漏洞納入已知遭利用漏洞清單",
@@ -52,59 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現",
-        "link": "https://www.ithome.com.tw/news/178725",
-        "pubDate": "2026-09-07 08:56",
-        "description": "OpenAI代理人被研究人員發現曾繞過限制，連上外部德文Wiki論壇協作解題、交換答案，甚至分享規避沙箱限制的技巧",
-        "source": "iThome資安"
-      },
-      {
-        "title": "1.53億美、加民眾駕照被放上俄國暗網出售，受害者疑似包含FBI官員",
-        "link": "https://www.ithome.com.tw/news/178724",
-        "pubDate": "2026-09-07 08:40",
-        "description": "一個名為Nexus的身分竊取服務宣稱持有超過1.53億筆美國及加拿大民眾的駕照數位影像，部分資料已由當事人確認屬實，受影響人士包括資安研究人員及FBI助理局長等美國政府官員",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PQC導入TLS 1.3實測，完整交握的資料量增加幅度為180%、CPU影響有限",
-        "link": "https://www.ithome.com.tw/news/178691",
-        "pubDate": "2026-09-07 08:00",
-        "description": "資安業者Red Sift實測TLS 1.3導入後量子密碼學（PQC）的交握效能。結果顯示，採用X25519MLKEM768混合式金鑰建立機制時，完整TLS交握的資料量較ECDSA-256搭配X25519的基準組增加180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Air Security募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險",
-        "link": "https://www.ithome.com.tw/news/178709",
-        "pubDate": "2026-09-07 08:00",
-        "description": "資安新創Air取得5,000萬美元資金並推出AI代理防火牆，鎖定代理技能、外掛與MCP伺服器等附加元件的供應鏈風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標",
-        "link": "https://www.ithome.com.tw/news/178700",
-        "pubDate": "2026-09-07 08:00",
-        "description": "資安業者Datadog發現，超過150個組織的AWS Root使用者成為密碼噴灑攻擊目標",
-        "source": "iThome資安"
-      },
-      {
-        "title": "系統PQC轉型如何進行？6項評估重點協助排定優先順序",
-        "link": "https://www.ithome.com.tw/news/178678",
-        "pubDate": "2026-09-07 08:00",
-        "description": "澳洲通訊局建議從資料敏感程度、長期保護需求、關鍵業務功能、密碼學依賴與升級限制等面向，辨識需要優先關注的系統，作為企業後續排定PQC轉型順序的依據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟推出Project Zenith，打造開發者專用Windows裝置",
-        "link": "https://www.ithome.com.tw/news/178732",
-        "pubDate": "2026-09-07  12:09:29",
-        "description": "微軟上周五（9/4）發表了Project Zenith，這是一套整合高階硬體與優化軟體配置、專為開發者設計的Windows體驗方案，讓開發者一開機就可以開始撰寫程式碼，外界認為這是微軟為了避免開發者因AI開發需求而流向蘋果Mac平臺，而特別設計的專案。",
+        "title": "西雅圖時報與Newsday控告OpenAI、微軟，要求銷毀納入其新聞內容的AI模型",
+        "link": "https://www.ithome.com.tw/news/178753",
+        "pubDate": "2026-09-07  06:09:22",
+        "description": "美國媒體西雅圖時報與Newsday向紐約南區聯邦地方法院，控告OpenAI與微軟侵犯著作權，指控兩家公司未經授權使用新聞內容訓練AI，並在搜尋與生成回答時取用西雅圖時報與Newsday的報導。兩家媒體要求損害賠償、禁止被指控的侵權行為，並要求法院扣押或銷毀納入西雅圖時報與Newsday新聞內容或衍生內容的大型語言模型與訓練資料集。",
         "source": "iThome"
       },
       {
-        "title": "美英聯手打擊東南亞詐騙園區，共享情資、分頭調查並協調起訴",
-        "link": "https://www.ithome.com.tw/news/178731",
-        "pubDate": "2026-09-07  11:09:36",
-        "description": "美國與英國建立跨國合作機制，聯手打擊東南亞詐騙園區及背後犯罪組織。美國Scam Center Strike Force與英格蘭及威爾斯皇家檢察署（CPS）、英國國家犯罪局（NCA）簽署合作備忘錄，雙方將共享犯罪情資，並針對共同目標各自展開調查，協調各案件的起訴司法管轄區。",
+        "title": "因應歐盟DPP，臺灣試行推動產品數位護照，開源DPP模組助企業接軌歐盟",
+        "link": "https://www.ithome.com.tw/news/178757",
+        "pubDate": "2026-09-07  06:09:16",
+        "description": "面對歐盟逐步推動產品數位護照（Digital Product Passport, DPP）制度，國內正加速建立產品生命週期資訊管理能力。環境部今天(9/7)與國內產業展示我國推動DPP4年試行成果，期望通過政府與產業合作，建立產品資訊蒐集、交換及應用模式。\n循環署署長賴瑩瑩指出，產品數位護照的核心並不是單純的揭露產品資訊，而是透過產品全生命週期資料，掌握產品從製造、使用、維修到回收再利用的完整價值鏈。相較過去以廢棄物處理為主的管理模式，未來的資源循環政策更重視產品前端設計，以及上下游供應鏈資訊串",
+        "source": "iThome"
+      },
+      {
+        "title": "川普政府推出專門推廣政策的遊戲網站",
+        "link": "https://www.ithome.com.tw/news/178749",
+        "pubDate": "2026-09-07  03:09:33",
+        "description": "美國白宮官方網站上周四（9/4）上架了名為「White House Arcade」的網頁街機專區，將總統川普（Donald Trump）的核心施政口號與政策包裝成5款復古小遊戲，透過滿滿的迷因風格與復古懷舊感，企圖在網路上掀起病毒式的傳播與討論。",
         "source": "iThome"
       },
       {
@@ -113,20 +134,6 @@
         "pubDate": "2026-09-07  01:09:27",
         "description": "水是民生與產業運作不可或缺的重要資源。對一般民眾而言，打開水龍頭就能取得穩定的用水，每天都會用到的自來水看似簡單，但是其背後從水庫、河川及地下水等原水來源，到淨水處理、輸配水管網及用戶端服務等一系列複雜流程。台灣自來水公司(簡稱台水)資訊處長曾沛聰在2026數位政府高峰會分享，台水如何導入AI推動智慧水務發展，強化供水韌性及永續。\n曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大",
         "source": "iThome"
-      },
-      {
-        "title": "依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術",
-        "link": "https://www.ithome.com.tw/news/178698",
-        "pubDate": "2026-09-06 19:04",
-        "description": "搶攻企業雲端與AI轉型商機之餘，企業儲存廠商NetApp不僅持續擴展儲存與資料保護相關功能，同時強調他們可提供市場上最安全的解決方案，證據是依循國家級資安框架的產品功能設計，以及取得多項國家級資安認證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SAST工具CodeQL 2.26.4擴大GitHub Actions供應鏈檢查，共用工作流程也納入掃描",
-        "link": "https://www.ithome.com.tw/news/178713",
-        "pubDate": "2026-09-04 18:28",
-        "description": "CodeQL 2.26.4把可重複使用工作流程納入GitHub Actions安全檢查，可找出引用可變分支或標籤的設定，並修正事件欄位判斷，避免無效條件被誤認為安全防護",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -138,7 +145,28 @@
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI Agent 把德文 Wiki 變留言板，為何公司早就知道卻沒有公開？",
+        "title": "原本用來攻擊 AI，現在拿來躲郵件偵測：「ASCII 走私」隱形字元攻擊單日逾 230 萬封",
+        "link": "https://techorange.com/2026/09/07/ascii-smuggling-ai-prompt-injection-phishing-evasion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 17:10:35 +0800",
+        "description": "收件匣裡出現一封看似普通的融資郵件，內文寫著「funding」。收件人看到的仍是完整單字，但攻擊者其實在 fun 和 ding 之間插入一個肉眼看不見的 Unicode 字元。畫面上看起來沒有差別，安全系統實際讀到的文字卻已經不同，可能因此影響垃圾與釣魚郵件的判讀。 微軟 Security Research 9 月 3 日公布研究指出，今年 2 月採用這類隱形字元的相關郵件，從單日約 2.1 萬封迅速暴增至逾 130 萬封，高峰一天更超過 230 萬封，高流量活動持續約 3 個月。這波郵件多以商",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI「研究實習生」達標：OpenAI 中位數研究人員每日燒 600 美元 token，前段班破 7,000 美元",
+        "link": "https://techorange.com/2026/09/07/research-acceleration-coding-agents-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 15:49:43 +0800",
+        "description": "OpenAI 近期表示，根據內部測量結果，公司已達成去年秋季設定的目標，在今年 9 月前打造出自動化研究實習生。依 OpenAI 的定義，研究實習生能在人類指導下執行定義明確的研究任務，範圍涵蓋熟練研究人員需耗時數日的工作。但邊界也很明確，研究優先順序仍由人類設定。 OpenAI 目前朝著 2028 年 3 月前打造自動化 AI 研究員的目標推進。 AI 代理工作量達人類 3.1 倍？實驗提交量創新高 《Unite.AI》報導，OpenAI 研究人員今年大幅增加 AI 程式編寫代理（coding",
+        "source": "TechOrange"
+      },
+      {
+        "title": "助攻國際業務拓展 叡揚 Vital CRM 升級 AI 名片辨識",
+        "link": "https://techorange.com/2026/09/07/gss-vital-crm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 14:30:00 +0800",
+        "description": "海外參展、商務拜訪，經常一次展會或商務旅程就會拿到數十甚至數百張名片。叡揚資訊 Vital CRM 客戶關係管理系統，於 Vital CRM App 名片辨識行動應用功能導入 AI 影像文字辨識與大型語言模型（LLM）語意理解技術，強化多語系及不同版型名片的資訊判讀與處理速度。讓您的數百張名片，能快速完成客戶資訊建檔、接續客戶跟進，更是商機能否被即時掌握的關鍵！ 業務人員只要透過手機 App上的名片建立功能，直接拍攝名片，即可由 AI 協助判斷姓名、公司、職稱、電話、電子郵件等資訊，快速建立 C",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI Agent 把德文 Wiki 變留言板，為何他們早就知道卻沒有公開？",
         "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 07 Sep 2026 12:57:18 +0800",
         "description": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 OpenAI 一批 AI Agent 在內部資安測試期間自行交換資訊、突破網路限制，最後進入 AI 平",
@@ -213,58 +241,9 @@
         "pubDate": "Fri, 04 Sep 2026 17:36:18 +0800",
         "description": "工業自動化企業 OMRON Corporation 在今年宣布在日本進一步擴大 NVIDIA 技術的整合，面對全球熟練工程師短缺，OMRON 將導入由 NVIDIA Metropolis Blueprint for Video Search and Summarization（VSS） 與 NVIDIA Cosmos 驅動的視覺檢測代理，讓檢測流程更趨 AI 化。 AI 代理進駐檢測線：OMRON 補上熟練人員缺口 操作員與工程師不必只靠操作手冊，而能以自然語言、在擬真環境中直接調閱製造資料。O",
         "source": "TechOrange"
-      },
-      {
-        "title": "從聯發科到 Hugging Face，NVIDIA 為何接連往 AI 生態不同環節出手？",
-        "link": "https://techorange.com/2026/09/04/mediatek-hugging-face-nvidia-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 16:11:37 +0800",
-        "description": "NVIDIA 近兩週動作頻頻，美國時間 9 月 3 日，NVIDIA 宣布將以 129.3 億美元收購開放 AI 平台 Hugging Face。據《CNBC》，這是 NVIDIA 有史以來第二大收購交易。放到其近期一連串動作來看，會發現買下 Hugging Face 只是 NVIDIA 調整 AI 生態佈局的最新一步。 短短兩週內，NVIDIA 還投資了聯發科、擴大客製化 AI 晶片合作，在德國柏林消費電子展（IFA）推進地端 AI，前一週也與 AWS 宣布進一步擴大從 GPU、CPU、網路到",
-        "source": "TechOrange"
-      },
-      {
-        "title": "前進 AWS 學 AI！新北青年局「AI 實戰職涯營」協助青年接軌科技職場",
-        "link": "https://techorange.com/2026/09/04/aws-departmentforyouth-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 12:44:22 +0800",
-        "description": "把 AI 課程搬進國際科技企業！新北市政府青年局率「2026 AI Practitioner Program（AI 實戰職涯營）」學員，前進全球雲端技術領導者 Amazon Web Services（AWS）辦公室參訪。由 6 位跨部門業師分享國際企業工作心法，並由 AWS 解決方案架構師帶領 AI 工具實作，幫助學員從「學會 AI」到「用 AI 解決產業問題」，也為即將到來的 10 月 2 日 Demo Day 成果發表提前進入實戰模式。 新北市青年局副局長林麗珠表示，AI 已快速成為各行各業",
-        "source": "TechOrange"
-      },
-      {
-        "title": "NVIDIA 開源 PAIR 登場：與其付錢上雲，不如用家中閒置設備跑 AI？",
-        "link": "https://techorange.com/2026/09/04/nvidia-rtx-personal-ai-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 12:37:58 +0800",
-        "description": "NVIDIA 在柏林舉行的 IFA 發表多項新消息，包括下月上市的 RTX Spark 系統，以及協助部署地端 AI 的模型與軟體更新。其中，受關注的 NVIDIA PAIR（Personal AI Router），能將區域網路內多台電腦的運算資源整合起來，並自動分配 AI 推論工作。 NVIDIA 開源免費軟體 PAIR，串起家庭與中小企業閒置電腦跑地端 AI NVIDIA PAIR 會將網路上的 RTX、DGX 和 Mac 系統整合成個人 AI 推論叢集，並自動把 AI 推論請求分配到可用的",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
-      {
-        "title": "French hospital fined €500,000 after breach exposes data of 727,000",
-        "link": "https://www.bleepingcomputer.com/news/security/french-hospital-fined-500-000-after-breach-exposes-data-of-727-000/",
-        "pubDate": "Thu, 03 Sep 2026 18:01:37 -0400",
-        "description": "France's data protection authority (CNIL) has fined Hôpital privé de la Loire €500,000 ($580,000) for failing to adequately protect patients' and their relatives' data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Coder's registry infrastructure compromised to push malicious modules",
-        "link": "https://www.bleepingcomputer.com/news/security/coders-registry-infrastructure-compromised-to-push-malicious-modules/",
-        "pubDate": "Thu, 03 Sep 2026 16:04:24 -0400",
-        "description": "Attackers compromised Coder's Cloudflare infrastructure and added unauthorized registry servers that delivered malicious Terraform modules containing credential-stealing code. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "HPE patches critical ArubaOS-CX remote code execution flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/hpe-patches-critical-arubaos-cx-remote-code-execution-flaw/",
-        "pubDate": "Thu, 03 Sep 2026 14:28:12 -0400",
-        "description": "Hewlett Packard Enterprise (HPE) has patched a critical vulnerability in the ArubaOS-CX network operating system that could lead to remote code execution. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: KB5120998 mouse reset bug affects only non-English PCs",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-kb5120998-mouse-reset-bug-affects-only-non-english-pcs/",
-        "pubDate": "Thu, 03 Sep 2026 11:22:33 -0400",
-        "description": "Microsoft says a known issue that reverts mouse settings after installing the KB5120998 August 2026 preview update affects only non-English Windows 11 systems. [...]",
-        "source": "BleepingComputer"
-      },
       {
         "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
@@ -350,31 +329,59 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
+        "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
+        "pubDate": "Mon, 07 Sep 2026 14:01:12 +0530",
+        "description": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed.\n\nN-able has ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
+        "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
+        "pubDate": "Mon, 07 Sep 2026 13:23:04 +0530",
+        "description": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are protected with javascript-obfuscator, using multi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Trezor data breach impact now reaches 81,000 customers",
+        "link": "https://www.bleepingcomputer.com/news/security/trezor-data-breach-impact-now-reaches-81-000-customers/",
+        "pubDate": "Mon, 07 Sep 2026 08:16:32 -0400",
+        "description": "Cryptocurrency hardware wallet maker Trezor says an August data breach at its shipping and logistics provider, ShipMonk, affects an additional 67,000 U.S. customers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ChatGPT can now connect to your personal apps to mimic writing style",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-can-now-connect-to-your-personal-apps-to-mimic-writing-style/",
+        "pubDate": "Mon, 07 Sep 2026 06:36:37 -0400",
+        "description": "OpenAI appears to be testing a new \"Writing Style\" feature for ChatGPT that can learn how you write by looking at examples from your connected apps. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers exploit new MikroTik RouterOS flaws to hijack routers",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-new-mikrotik-routeros-flaws-to-hijack-routers/",
+        "pubDate": "Mon, 07 Sep 2026 06:32:40 -0400",
+        "description": "Hackers are exploiting a chain of two recently disclosed vulnerabilities in MikroTik routers to take control of devices with SSH services exposed to the internet. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ConnectWise warns of new ScreenConnect flaw without patch",
+        "link": "https://www.bleepingcomputer.com/news/security/connectwise-warns-of-new-screenconnect-flaw-without-patch/",
+        "pubDate": "Mon, 07 Sep 2026 06:06:38 -0400",
+        "description": "ConnectWise has shared temporary mitigation measures for a new ScreenConnect Remote Access vulnerability that it plans to patch later this week. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "N-able patches max severity N-central flaw amid ongoing attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/n-able-patches-max-severity-n-central-flaw-amid-ongoing-attacks/",
+        "pubDate": "Mon, 07 Sep 2026 02:17:41 -0400",
+        "description": "N-able has released an emergency hotfix for a maximum-severity remote code execution (RCE) flaw affecting its N-central remote monitoring and management (RMM) platform. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters",
         "link": "https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html",
         "pubDate": "Fri, 04 Sep 2026 21:27:15 +0530",
         "description": "Microsoft is alerting of a \"high-volume phishing campaign\" that's using invisible Unicode tag characters to bypass email filters.\n\n\"Instead of using these characters to hide instructions from people while exposing them to AI models, the attacker used",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution",
-        "link": "https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html",
-        "pubDate": "Fri, 04 Sep 2026 20:50:19 +0530",
-        "description": "PostgreSQL has released updates to address a security flaw that allows an account with the REPLICATION attribute to run arbitrary code as the operating-system user running the database server.\n\nThe flaw, tracked as CVE-2026-6471 (CVSS score: 7.2), ha",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic",
-        "link": "https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html",
-        "pubDate": "Fri, 04 Sep 2026 20:21:13 +0530",
-        "description": "A previously undocumented Linux toolkit has been found compiled directly into the trojanized HAProxy load balancers of two South Korean organizations, where it intercepted web traffic and served altered pages to selected visitors.\n\nThe attackers name",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Over 440,000 Exploit Attempts Target Super Forms and Elementor Pro RCE Flaws",
-        "link": "https://thehackernews.com/2026/09/over-440000-exploit-attempts-target.html",
-        "pubDate": "Fri, 04 Sep 2026 14:18:45 +0530",
-        "description": "Threat actors are exploiting two critical security flaws in WordPress plugins Super Forms and Elementor Pro, according to findings from Wordfence.\n\nThe vulnerabilities in question are -\n\n\n  CVE-2026-14894 (CVSS score: 9.8) - A missing file type valid",
         "source": "TheHackerNews"
       }
     ],
@@ -485,6 +492,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Why the iPhone is about to get more expensive",
+        "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
+        "pubDate": "2026-09-07T08:00:00-04:00",
+        "description": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoid",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
+        "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
+        "pubDate": "2026-09-07T07:00:00-04:00",
+        "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level,",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Huawei copies Samsung’s privacy display in its latest trifold",
+        "link": "https://www.theverge.com/tech/990958/huawei-mate-xt-2-trifold-launch-china-privacy-display",
+        "pubDate": "2026-09-07T06:09:42-04:00",
+        "description": "Huawei has released its third trifold phone in China, and the company has clearly had half an eye on Samsung during development. Not only does the Mate XT 2 adopt the inward-folding form factor used on Samsung's Galaxy Z TriFold, it's also the first ",
+        "source": "TheVerge"
+      },
+      {
         "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
         "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
         "pubDate": "2026-09-06T19:36:04-04:00",
@@ -496,27 +524,6 @@
         "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
         "pubDate": "2026-09-06T16:56:38-04:00",
         "description": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the tim",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Europe has its first commercial orbital rocket",
-        "link": "https://www.theverge.com/science/990906/isar-aerospace-europe-orbital-rocket-launch",
-        "pubDate": "2026-09-06T15:04:22-04:00",
-        "description": "German company Isar Aerospace has successfully launched Europe's first entirely commercial orbital rocket. It attempted to achieve the feat last March, but that lasted all of 30 seconds before the vehicle crashed into the sea and exploded. This time ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Boox’s tiny Picco e-reader should land in November",
-        "link": "https://www.theverge.com/tech/990895/boox-picco-tiny-e-reader-november-ifa",
-        "pubDate": "2026-09-06T12:28:58-04:00",
-        "description": "Boox teased the Picco, its take on the buzzy Xteink X4 e-reader, back in July, but provided almost no details. Now, thanks to some reporting out of IFA, we've got a bit more info, though sadly still no price. Unlike the Xteink devices, the Picco will",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The Fairphone 6 Plus is the midrange phone we desperately needed",
-        "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
-        "pubDate": "2026-09-06T09:00:00-04:00",
-        "description": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devi",
         "source": "TheVerge"
       }
     ],
