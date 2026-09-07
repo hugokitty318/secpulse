@@ -1,7 +1,49 @@
 {
-  "ts": "2026-09-06T23:08:29.638141Z",
+  "ts": "2026-09-07T00:59:32.528858Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現",
+        "link": "https://www.ithome.com.tw/news/178725",
+        "pubDate": "2026-09-07 08:56",
+        "description": "OpenAI代理人被研究人員發現曾繞過限制，連上外部德文Wiki論壇協作解題、交換答案，甚至分享規避沙箱限制的技巧",
+        "source": "iThome資安"
+      },
+      {
+        "title": "1.53億美、加民眾駕照被放上俄國暗網出售，受害者疑似包含FBI官員",
+        "link": "https://www.ithome.com.tw/news/178724",
+        "pubDate": "2026-09-07 08:40",
+        "description": "一個名為Nexus的身分竊取服務宣稱持有超過1.53億筆美國及加拿大民眾的駕照數位影像，部分資料已由當事人確認屬實，受影響人士包括資安研究人員及FBI助理局長等美國政府官員",
+        "source": "iThome資安"
+      },
+      {
+        "title": "系統PQC轉型如何進行？6項評估重點協助排定優先順序",
+        "link": "https://www.ithome.com.tw/news/178678",
+        "pubDate": "2026-09-07 08:00",
+        "description": "澳洲通訊局建議從資料敏感程度、長期保護需求、關鍵業務功能、密碼學依賴與升級限制等面向，辨識需要優先關注的系統，作為企業後續排定PQC轉型順序的依據",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標",
+        "link": "https://www.ithome.com.tw/news/178700",
+        "pubDate": "2026-09-07 08:00",
+        "description": "資安業者Datadog發現，超過150個組織的AWS Root使用者成為密碼噴灑攻擊目標",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Air Security募資5,000萬美元，鎖定AI代理技能與MCP供應鏈風險",
+        "link": "https://www.ithome.com.tw/news/178709",
+        "pubDate": "2026-09-07 08:00",
+        "description": "資安新創Air取得5,000萬美元資金並推出AI代理防火牆，鎖定代理技能、外掛與MCP伺服器等附加元件的供應鏈風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PQC導入TLS 1.3實測，完整握手資料量增180%、CPU影響有限",
+        "link": "https://www.ithome.com.tw/news/178691",
+        "pubDate": "2026-09-07 08:00",
+        "description": "資安業者Red Sift實測TLS 1.3導入後量子密碼學（PQC）的握手效能。結果顯示，採用X25519MLKEM768混合式金鑰建立機制時，完整TLS握手資料量較ECDSA-256搭配X25519的基準組增加180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒",
+        "source": "iThome資安"
+      },
       {
         "title": "依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術",
         "link": "https://www.ithome.com.tw/news/178698",
@@ -80,48 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "思科發布9月IOS XR安全強化更新，修補7個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178699",
-        "pubDate": "2026-09-04 12:21",
-        "description": "思科本週修補7個網路設備平臺IOS XR資安漏洞，其中有兩個CVE-2026-20274和CVE-2026-20279為重大等級，特別危險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員Nightmare Eclipse揭露CrowdStrike Falcon權限提升漏洞",
-        "link": "https://www.ithome.com.tw/news/178696",
-        "pubDate": "2026-09-04 12:01",
-        "description": "繼揭露卡巴斯基與Avast防毒軟體的零時差漏洞後，本週Nightmare Eclipse公布CrowdStrike Falcon零時差漏洞FalconFlank，並指出該弱點與惡意Office巨集防護機制有關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WebAuthn Level 3成W3C正式標準，補齊Passkey跨關聯網域與憑證管理機制",
-        "link": "https://www.ithome.com.tw/news/178694",
-        "pubDate": "2026-09-04 11:51",
-        "description": "WebAuthn Level 3正式定案，讓Passkey可在指定關聯網域間共用，並加入憑證資訊更新與條件式登入機制，減少網站與裝置端憑證不同步，也改善多網域服務的登入流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla推出Firefox 155改版，緩解近30個弱點",
-        "link": "https://www.ithome.com.tw/news/178693",
-        "pubDate": "2026-09-04 11:11",
-        "description": "本週Mozilla基金會發布Firefox 155改版，修補29個資安漏洞，其中包含13個是高風險等級、7個中等弱點，以及9個低風險弱點，用戶應儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布Chrome 152更新，修補已遭利用的V8漏洞",
-        "link": "https://www.ithome.com.tw/news/178687",
-        "pubDate": "2026-09-04 10:02",
-        "description": "本週Google二度發布Chrome 152更新，這次修補的弱點共12個，其中的V8類型混淆漏洞CVE-2026-85046已遭利用，用戶應儘速套用新版因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI失控事件今年逾1,600起，研究揭AI代理偽造核准、提升自身權限",
-        "link": "https://www.ithome.com.tw/news/178686",
-        "pubDate": "2026-09-04 09:33",
-        "description": "英國研究機構CLTR觀察到1,664起AI失控相關事件，較嚴重案例持續增加。部分AI代理甚至會偽造使用者核准訊息、規避既有安全控制或提升自身權限，顯示AI控制問題已不只出現在安全評估，也出現在實際部署環境",
-        "source": "iThome資安"
-      },
-      {
         "title": "Google WeatherNext 3直接使用即時衛星資料，全球AI天氣預報每小時更新",
         "link": "https://www.ithome.com.tw/news/178715",
         "pubDate": "2026-09-04  06:09:25",
@@ -159,24 +159,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "Hugging Face 為什麼攔得住 AI 代理入侵？企業該建的是這 4 件事",
-        "link": "https://techorange.com/2026/09/03/cloudmile-aegis-ai-foundry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 11:41:17 +0800",
-        "description": "過去兩年，企業導入生成式 AI 的典型路徑，是先買 Copilot、再買幾套帶 AI 的 SaaS，接著讓各部門各自做 PoC，這樣做很有效率，但當應用越來越多，新的問題也會開始浮現。 七月，OpenAI 在內部資安評測中使用的 AI Agent，為了取得評測答案，找到一個未知漏洞脫離了測試環境，接著入侵 Hugging Face 的系統，過程中還用外洩的憑證進入四個公開服務的帳號，Hugging Face 後來是靠自己的偵測機制發現並攔下這件事的。 當 AI 助理已經會自動讀取資料，甚至修改系",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-        "link": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 11:23:00 +0800",
-        "description": "AI Agent 開始能連續處理數十、甚至數百個步驟後，模型好不好用，也不再只取決於最後能不能答對。它在過程中會不會反覆繞路、忘記前面的要求，能否正確使用工具、發現計畫有問題後自行修正，以及什麼時候應該把決定交回使用者，都會影響一項工作最後能不能順利完成。 Meta 在 9/2 推出 Muse Spark 1.3，就把這些「怎麼工作」的問題列為升級重點。Meta 這次除了公布 Muse Spark 1.3 在 coding 與 Agent 測試上的成績，也把「Agentic Workflows（",
-        "source": "TechOrange"
-      },
-      {
         "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
         "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 05 Sep 2026 06:29:00 +0800",
         "description": "美國資安公司 ExtraHop 發佈的《2026 全球威脅情勢報告》（The 2026 ExtraHop Global Threat Landscape Report），內容呈現當前資安防線的結構性轉變；研究於 2026 年 5 月進行，對象涵蓋美國、英國、法國、德國、新加坡、澳洲和阿拉伯聯合大公國等七個國家中，擁有 1,000 名以上員工企業的 1,803 名總監級以上之 IT 與安全決策者。 報告透過對全球企業決策者的量化調查，揭露駭客現在如何用 AI 和隱形手段繞過防護，而企業如何用更聰明",
+        "source": "TechOrange"
+      },
+      {
+        "title": "生產排程不再是一張「死表格」：日立如何靠 AI 把交期砍半？",
+        "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 06:51:00 +0800",
+        "description": "日本科技與製造業巨頭日立（Hitachi）正透過組織重整與 AI 技術升級，加速轉型為「數位中心型企業」。 日立總裁兼 CEO Toshiaki Tokunaga 指出，AI 已從生成式（GenAI）、代理型（Agentic AI）邁入實體 AI（Physical AI）階段。日立聚焦將 IT、OT（營運技術）與實體產品串接，推動自研 AI Lumada 3.0 佈局，並實施「Customer Zero」策略：先在自家組織內驗證技術，再轉化為外部客戶的數位服務。 從靜態計畫到動態應變，Physi",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】NVIDIA 129 億美元宣布收購 Hugging Face，研究指疑似 OpenAI 代理劫持德國網站",
+        "link": "https://techorange.com/2026/09/07/nvidia-hugging-face-acquisition-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 129 億美元宣布收購 Hugging Face，版圖延伸至 1,800 萬名開發者 NVIDIA 宣布，已同意以 129.3 億美元收購 AI 模型開發者平台 Hugging Face，成為 NVIDIA 規模最大的收購案之一。Hugging Face 目前擁有超過 1,800 萬名開發者、研究人員及創作者，平台上累積超過 300 萬個模型、50 萬個資料集及 100 萬個應用程式，使用企業超過 20 萬家。NVIDIA 也是 ",
         "source": "TechOrange"
       },
       {
@@ -492,6 +492,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+        "pubDate": "2026-09-06T19:36:04-04:00",
+        "description": "The Seattle Times and Newsday are just the latest plaintiffs to take OpenAI to court, alleging copyright infringement. The two outlets say the company used their journalism as training data for its AI models without permission and often reproduces pa",
+        "source": "TheVerge"
+      },
+      {
         "title": "An Amazon cargo plane crashed at Miami International Airport",
         "link": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
         "pubDate": "2026-09-06T16:56:38-04:00",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/tech/990436/fairphone-6-plus-review",
         "pubDate": "2026-09-06T09:00:00-04:00",
         "description": "The Fairphone 6 Plus feels like an extremely average midrange Android phone and I couldn't be more thrilled. The mission has always been admirable. Fairphone seeks out ethically sourced materials and offers a high degree of repairability for its devi",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Competitive Pokémon is on phones now, but you still need a Switch to become a champion",
-        "link": "https://www.theverge.com/games/990691/competitive-pokemon-champions-mobile-tournament-accessibility",
-        "pubDate": "2026-09-06T09:00:00-04:00",
-        "description": "To get started with competitive Pokémon battles, all you need is your phone. But to compete at the highest level, like at the Pokémon World Championships, you're going to need a Switch. And there doesn't seem to be a good reason why. Battle simulator",
         "source": "TheVerge"
       }
     ],
