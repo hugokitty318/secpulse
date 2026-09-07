@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-07T00:59:32.528858Z",
+  "ts": "2026-09-07T06:02:57.235081Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "垃圾郵件業者已大規模套用ASCII走私技巧",
+        "link": "https://www.ithome.com.tw/news/178736",
+        "pubDate": "2026-09-07 13:57",
+        "description": "ASCII走私技巧從AI提示注入延伸至傳統釣魚攻擊，微軟發現攻擊者利用不可見Unicode字符拆開郵件關鍵字，藉此躲避過濾機制，相關攻擊單日郵件量最高超過230萬封",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多倫多大學研究揭露新型攻擊手法GPUThor，可突破Nvidia GPU的ECC防護",
+        "link": "https://www.ithome.com.tw/news/178735",
+        "pubDate": "2026-09-07 12:48",
+        "description": "新型Rowhammer記憶體攻擊手法可在啟用ECC的Nvidia GPU製造多位元錯誤，進一步導致服務阻斷及提升權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SEMI E187驗證標章亮相，最快10月將公布第一家認證機構，首波標章產品有望於年底前問世",
+        "link": "https://www.ithome.com.tw/news/178733",
+        "pubDate": "2026-09-07 12:42",
+        "description": "繼上月SEMI E187檢測實驗室出爐後，在9月4日SEMICON Taiwan 2026半導體資安論壇上，數位發展部與國際半導體產業協會SEMI共同揭露「SEMI E187驗證標章」，宣告臺灣主導的半導體資安標準，正式從規則制定邁向落地驗證，預計最快10月台北市電腦公會（TCA）將成為認可驗證機構，年底前首波獲標章產品可望問世",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA將Chrome已遭利用漏洞CVE-2026-85046列入KEV清單",
+        "link": "https://www.ithome.com.tw/news/178734",
+        "pubDate": "2026-09-07 12:10",
+        "description": "CISA於Google發布Chrome 152更新次日，將JavaScript引擎V8高風險漏洞納入已知遭利用漏洞清單",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MongoDB修補33個漏洞，包含BI Connector多個高風險漏洞",
+        "link": "https://www.ithome.com.tw/news/178729",
+        "pubDate": "2026-09-07 11:34",
+        "description": "MongoDB於8月底起陸續揭露與修補多個漏洞，涵蓋BI Connector、ODBC與多種程式語言驅動程式等元件，可能導致資料外洩、記憶體破壞或服務阻斷等問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "電商平臺Magento、Adobe Commerce遭零時差漏洞StyleSmuggler攻擊",
+        "link": "https://www.ithome.com.tw/news/178728",
+        "pubDate": "2026-09-07 11:12",
+        "description": "資安公司Sansec警告，他們上週發現有人鎖定電商平臺Magento、Adobe Commerce發動零時差漏洞攻擊，其中一家電商網站已套用了Adobe今年8月發布的更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊",
+        "link": "https://www.ithome.com.tw/news/178727",
+        "pubDate": "2026-09-07 11:04",
+        "description": "8月底國家中山科學研究院採購資訊網出現大量派送過期採購資訊的異常情形，當時他們認為，可能是AI資安代理在測試過程跨越權限造成，近期改口表示，是系統開發商埋藏的排程管理介面遭入侵釀禍",
+        "source": "iThome資安"
+      },
       {
         "title": "OpenAI代理人被爆連上德文論壇共商解題，且1個多月才被發現",
         "link": "https://www.ithome.com.tw/news/178725",
@@ -17,17 +66,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "系統PQC轉型如何進行？6項評估重點協助排定優先順序",
-        "link": "https://www.ithome.com.tw/news/178678",
+        "title": "PQC導入TLS 1.3實測，完整交握的資料量增加幅度為180%、CPU影響有限",
+        "link": "https://www.ithome.com.tw/news/178691",
         "pubDate": "2026-09-07 08:00",
-        "description": "澳洲通訊局建議從資料敏感程度、長期保護需求、關鍵業務功能、密碼學依賴與升級限制等面向，辨識需要優先關注的系統，作為企業後續排定PQC轉型順序的依據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標",
-        "link": "https://www.ithome.com.tw/news/178700",
-        "pubDate": "2026-09-07 08:00",
-        "description": "資安業者Datadog發現，超過150個組織的AWS Root使用者成為密碼噴灑攻擊目標",
+        "description": "資安業者Red Sift實測TLS 1.3導入後量子密碼學（PQC）的交握效能。結果顯示，採用X25519MLKEM768混合式金鑰建立機制時，完整TLS交握的資料量較ECDSA-256搭配X25519的基準組增加180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒",
         "source": "iThome資安"
       },
       {
@@ -38,11 +80,39 @@
         "source": "iThome資安"
       },
       {
-        "title": "PQC導入TLS 1.3實測，完整握手資料量增180%、CPU影響有限",
-        "link": "https://www.ithome.com.tw/news/178691",
+        "title": "AWS高權限Root使用者遭密碼噴灑，逾150個組織成攻擊目標",
+        "link": "https://www.ithome.com.tw/news/178700",
         "pubDate": "2026-09-07 08:00",
-        "description": "資安業者Red Sift實測TLS 1.3導入後量子密碼學（PQC）的握手效能。結果顯示，採用X25519MLKEM768混合式金鑰建立機制時，完整TLS握手資料量較ECDSA-256搭配X25519的基準組增加180%，但用戶端與伺服器端CPU時間各增加不到0.1毫秒",
+        "description": "資安業者Datadog發現，超過150個組織的AWS Root使用者成為密碼噴灑攻擊目標",
         "source": "iThome資安"
+      },
+      {
+        "title": "系統PQC轉型如何進行？6項評估重點協助排定優先順序",
+        "link": "https://www.ithome.com.tw/news/178678",
+        "pubDate": "2026-09-07 08:00",
+        "description": "澳洲通訊局建議從資料敏感程度、長期保護需求、關鍵業務功能、密碼學依賴與升級限制等面向，辨識需要優先關注的系統，作為企業後續排定PQC轉型順序的依據",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟推出Project Zenith，打造開發者專用Windows裝置",
+        "link": "https://www.ithome.com.tw/news/178732",
+        "pubDate": "2026-09-07  12:09:29",
+        "description": "微軟上周五（9/4）發表了Project Zenith，這是一套整合高階硬體與優化軟體配置、專為開發者設計的Windows體驗方案，讓開發者一開機就可以開始撰寫程式碼，外界認為這是微軟為了避免開發者因AI開發需求而流向蘋果Mac平臺，而特別設計的專案。",
+        "source": "iThome"
+      },
+      {
+        "title": "美英聯手打擊東南亞詐騙園區，共享情資、分頭調查並協調起訴",
+        "link": "https://www.ithome.com.tw/news/178731",
+        "pubDate": "2026-09-07  11:09:36",
+        "description": "美國與英國建立跨國合作機制，聯手打擊東南亞詐騙園區及背後犯罪組織。美國Scam Center Strike Force與英格蘭及威爾斯皇家檢察署（CPS）、英國國家犯罪局（NCA）簽署合作備忘錄，雙方將共享犯罪情資，並針對共同目標各自展開調查，協調各案件的起訴司法管轄區。",
+        "source": "iThome"
+      },
+      {
+        "title": "從原水監測、淨水、供水到水務管理，台水加速智慧水務管理大幅改善供水韌性",
+        "link": "https://www.ithome.com.tw/news/178714",
+        "pubDate": "2026-09-07  01:09:27",
+        "description": "水是民生與產業運作不可或缺的重要資源。對一般民眾而言，打開水龍頭就能取得穩定的用水，每天都會用到的自來水看似簡單，但是其背後從水庫、河川及地下水等原水來源，到淨水處理、輸配水管網及用戶端服務等一系列複雜流程。台灣自來水公司(簡稱台水)資訊處長曾沛聰在2026數位政府高峰會分享，台水如何導入AI推動智慧水務發展，強化供水韌性及永續。\n曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大",
+        "source": "iThome"
       },
       {
         "title": "依循國家級資安標準與框架，NetApp打造實現安全即設計的產品與技術",
@@ -52,117 +122,68 @@
         "source": "iThome資安"
       },
       {
-        "title": "【AI轉型實例】玉山金打造AI智能徵信流程，7分鐘生成報告初稿，年省8.4萬人時",
-        "link": "https://www.ithome.com.tw/news/178722",
-        "pubDate": "2026-09-06  10:09:01",
-        "description": "徵信調查是風險控管的核心，玉山銀行企業放款餘額超過1兆元，每年玉山法金部門都會重新審視往來企業的信用和財務狀況。不過，傳統法金徵信作業最大痛點是，資料散亂和人工作業耗時。數百名負責徵信作業的客戶關係經理（RM），一年得要撰寫四、五千份徵信報告，每月高達4成的工時都花在蒐集資料上。\n玉山銀行花了一年，自行開發了「iCatcher」與智能徵信報告工具「智捷通」等多款AI工具，將授信作業流程中動輒耗費十多小時的資料蒐集及報告初稿製作工作，縮短至分鐘級，推估一年可以節省8.4萬個人時。",
-        "source": "iThome"
-      },
-      {
-        "title": "JetBrains加強Kotlin工具鏈，可發布多平臺函式庫並建置Wasm應用",
-        "link": "https://www.ithome.com.tw/news/178720",
-        "pubDate": "2026-09-06  08:09:13",
-        "description": "JetBrains釋出建置工具Kotlin Toolchain 0.12，新增Kotlin多平臺函式庫發布能力，涵蓋JVM、Android、iOS與WebAssembly（Wasm），並預覽Wasm網頁應用建置功能。開發者可使用相同的工具設定函式庫支援的平臺，再產生各平臺需要的版本。",
-        "source": "iThome"
-      },
-      {
         "title": "SAST工具CodeQL 2.26.4擴大GitHub Actions供應鏈檢查，共用工作流程也納入掃描",
         "link": "https://www.ithome.com.tw/news/178713",
         "pubDate": "2026-09-04 18:28",
         "description": "CodeQL 2.26.4把可重複使用工作流程納入GitHub Actions安全檢查，可找出引用可變分支或標籤的設定，並修正事件欄位判斷，避免無效條件被誤認為安全防護",
         "source": "iThome資安"
-      },
-      {
-        "title": "【資安週報】0831~0904，臺灣新創Zeabur爆資料外洩，高權限AWS憑證失守，用戶急需輪替API金鑰與密碼",
-        "link": "https://www.ithome.com.tw/news/178716",
-        "pubDate": "2026-09-04 18:02",
-        "description": "2026年9月第一週的資安新聞熱點，包括臺灣AI新創Zeabur環境變數外洩事件，以及PaperCut零時差漏洞攻擊事件，相關消息頻頻躍上版面；另一方面，美國財政部成立量子整備工作小組，金融穩定委員會（FSB）亦示警AI可能危及全球金融穩定，同樣引發全球資安與金融領域高度關注",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月4日，臺灣首款自研並支援3項PQC標準的密碼學應用晶片出爐",
-        "link": "https://www.ithome.com.tw/news/178712",
-        "pubDate": "2026-09-04 15:40",
-        "description": "在近日舉行的國際半導體展SEMICON Taiwan 2026大會當中，匯智安全科技與工研院SecPaaS平臺共同發表國產後量子晶片，是首批結合3項後量子密碼學（PQC）標準的商用安全晶片",
-        "source": "iThome資安"
-      },
-      {
-        "title": "未有修補程式的Langflow重大漏洞被用於竊取OpenAI與AWS金鑰",
-        "link": "https://www.ithome.com.tw/news/178706",
-        "pubDate": "2026-09-04 14:43",
-        "description": "威脅情報公司VulnCheck警告，今年1月公布的Langflow遠端程式碼執行（RCE）漏洞CVE-2026-0768遭到利用，攻擊者意圖收集OpenAI API與AWS機密資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress外掛Elementor Pro的RCE漏洞公開當天即遭攻擊",
-        "link": "https://www.ithome.com.tw/news/178705",
-        "pubDate": "2026-09-04 14:35",
-        "description": "Elementor Pro外掛重大漏洞CVE-2026-32475已遭實際利用，攻擊者可繞過表單上傳檢查植入PHP檔案並執行程式碼，Wordfence已攔截逾19萬次攻擊嘗試，Elementor已在4.2.2版完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "G20成員國支持卡羅萊納原則，主張放寬AI監管",
-        "link": "https://www.ithome.com.tw/news/178704",
-        "pubDate": "2026-09-04 13:37",
-        "description": "G20成員國支持美國推動的「卡羅萊納原則」，主張採取較寬鬆且具彈性的AI監管方式，在管控風險的同時降低監管負擔，以促進AI技術創新與經濟成長",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客Fire Ant將思科IOS XR路由器充當據點，進行情報收集",
-        "link": "https://www.ithome.com.tw/news/178703",
-        "pubDate": "2026-09-04 13:14",
-        "description": "中國駭客組織Fire Ant的網路間諜活動仍持續進行，資安公司Sygina發現，這些駭客不再集中針對虛擬化平臺，而是透過路由器當作據點，並擷取流量以收集情報，然後嘗試接觸受害組織內部的其他環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI發表最危險也最聽話的GPT-6 Astra模型",
-        "link": "https://www.ithome.com.tw/news/178701",
-        "pubDate": "2026-09-04 12:41",
-        "description": "OpenAI發表GPT-6 Astra，這款模型的網路安全能力首度被評定達到Critical等級，也能自主發現未知漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google WeatherNext 3直接使用即時衛星資料，全球AI天氣預報每小時更新",
-        "link": "https://www.ithome.com.tw/news/178715",
-        "pubDate": "2026-09-04  06:09:25",
-        "description": "Google推出全球AI天氣模型WeatherNext 3，開始直接使用每小時更新的地球同步衛星觀測資料，搭配既有大氣分析資料產生預報。模型可每小時依最新觀測重新預報，部分地表氣象資料解析度最高達5公里，目前已用於Google搜尋、Gemini、Google Maps及Google Cloud等服務。",
-        "source": "iThome"
-      },
-      {
-        "title": "Nvidia釋出可串連家中運算資源進行AI推理的PAIR工具",
-        "link": "https://www.ithome.com.tw/news/178711",
-        "pubDate": "2026-09-04  03:09:40",
-        "description": "Nvidia周四（9/3）推出新的開源軟體Personal AI Router（PAIR，個人AI路由器）測試版，旨在解決使用者在執行本機AI代理（AI Agents）時常遇到的多重任務瓶頸。此一工具可串連區域網路內散落的硬體資源，使其形成「個人AI叢集」（Personal Home AI Cluster），大幅提升離線運算效率。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "Google 看 AI 硬體下一步：運算便宜、搬資料昂貴，專用化還會加深",
-        "link": "https://techorange.com/2026/09/03/semicon-2026-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 18:13:17 +0800",
-        "description": "AI 晶片持續增加運算能力，但下一階段要解決的問題，可能不只在「算得更快」。Google AI 與基礎設施資深副總裁暨技術長 Amin Vahdat 9 月 2 日受邀來台，在 SEMICON Taiwan 2026「大師論壇暨全球生態系高峰會」發表開幕主題演講，並在會後接受媒體提問。Vahdat 這次從 TPU、記憶體、網路一路談到封裝與供電，勾勒 Google 對下一波 AI 硬體變化的判斷。 Vahdat 認為，目前正進入第二波硬體專用化。通用 CPU 的效能與功耗改善已經放緩，但 AI ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【從 2D 到 3D】World Labs 世界模型 Atlas 亮相：手機拍段影片，機器人就有了訓練場？",
-        "link": "https://techorange.com/2026/09/03/worldlabs-ai-atlas-fei-fei-li-omni-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 17:22:15 +0800",
-        "description": "由知名電腦視覺先驅李飛飛（Fei-Fei Li）共同創辦的 AI 新創公司 World Labs，近日推出最新世界模型 Atlas，進一步朝打造能理解與模擬實體世界的 AI 系統邁進。 World Labs 在部落格文章中表示，Atlas 是一款多模態世界模型，能將模擬環境與實體世界的推理能力結合起來。Atlas 是全能模型（omni model），只需輸入一張圖片，就能生成範圍廣闊、細節豐富的 3D 模擬環境，並精確控制攝影機位置與移動，從不同角度呈現同一場景。 沒有空間智慧就沒有 AGI？李",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Gemini 3.8 Flash 軟體工程測試勝 Fable 5？Google 新模型上線：定價不變但 token 用量增",
-        "link": "https://techorange.com/2026/09/03/gemini-models-3-8-flash-cyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 03 Sep 2026 12:11:02 +0800",
-        "description": "Google 宣布推出 Gemini 3.8 Flash，距離前一代 Gemini 3.7 Flash 上線才過了幾週。Google 表示，新模型在處理複雜任務時會執行更多推理步驟，並反覆調用工具，整體處理能力較 Gemini 3.7 Flash 更進一步。新模型目前已開放一般使用者使用，但需訂閱 Google AI Pro 或 Ultra；開發者和企業用戶也能使用。 Gemini 3.8 Flash 上線引討論：token 用量增、實際成本恐比標價高？ 《The Verge》指出，Gemini",
-        "source": "TechOrange"
-      },
       {
         "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
         "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 05 Sep 2026 06:29:00 +0800",
         "description": "美國資安公司 ExtraHop 發佈的《2026 全球威脅情勢報告》（The 2026 ExtraHop Global Threat Landscape Report），內容呈現當前資安防線的結構性轉變；研究於 2026 年 5 月進行，對象涵蓋美國、英國、法國、德國、新加坡、澳洲和阿拉伯聯合大公國等七個國家中，擁有 1,000 名以上員工企業的 1,803 名總監級以上之 IT 與安全決策者。 報告透過對全球企業決策者的量化調查，揭露駭客現在如何用 AI 和隱形手段繞過防護，而企業如何用更聰明",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI Agent 把德文 Wiki 變留言板，為何公司早就知道卻沒有公開？",
+        "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 12:57:18 +0800",
+        "description": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 OpenAI 一批 AI Agent 在內部資安測試期間自行交換資訊、突破網路限制，最後進入 AI 平",
+        "source": "TechOrange"
+      },
+      {
+        "title": "UBS 把 AI 能力列入新人門檻，定調 AI 是賦能而非取代",
+        "link": "https://techorange.com/2026/09/07/ubs-global-ai-career-early/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 12:39:03 +0800",
+        "description": "UBS（Union Bank of Switzerland）將 AI 能力納入初階投資銀行職缺的招募條件，顯示隨著 AI 加速導入金融業，歐洲大型銀行也開始重新調整畢業生的招募標準。 《Financial Times》報導，據知情人士透露，UBS 要求預計在 2027 年加入全球銀行與市場業務部門的畢業生及實習生，必須具備運用 AI 提升工作成果與效率的能力。這項新要求將與學歷等傳統招聘條件並列，例如申請者須預計取得英國制 2.1 學士學位。此舉也讓 UBS 成為最早一批明確要求初階銀行員具備 ",
+        "source": "TechOrange"
+      },
+      {
+        "title": "從 Security by Default 到持續合規治理 叡揚資訊打造 CRA 產品全生命週期安全治理架構",
+        "link": "https://techorange.com/2026/09/07/gss-cra-sbom-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 11:17:47 +0800",
+        "description": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）相關通報義務自 2026 年 9 月 11 日起開始適用，企業的 CRA 準備工作也正從法規盤點，進一步進入流程建置與實際執行階段。叡揚資訊日前攜手台灣區電機電子工業同業公會舉辦「因應歐盟韌性法案（CRA）最新要求：產品安全治理與合規實務研討會」，邀集 SGS 台灣檢驗科技、英能科技共同探討 CRA 對產品安全、軟體開發與供應鏈治理所帶來的實務挑戰，從 SGS 產品檢驗與合規驗證（Verification of Com",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 硬體進入削價競爭，陳良基：AI 的算力是個假議題，真正客戶要的是 AI 的能力",
+        "link": "https://techorange.com/2026/09/07/chen-liang-gee-podcast-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 11:00:00 +0800",
+        "description": "專訪：戴季全撰稿：李昀蔚 「台灣能夠到今天這個樣子，其實不是理所當然的，是在很多關鍵的時刻，有一些人做了比較對的決定，」本集《全新一週》邀請近期出版新書《只有累積，才有奇蹟》的國立臺灣大學電機工程學系名譽教授、前科技部長、前教育部次長陳良基，回顧台灣過去十年的科技與人才布局，並從當時的關鍵決策出發，剖析今日產業榮景如何一步步累積而來。 從 2017 年力拚台積電 3 奈米先進製程留在台灣，到高教深耕、技職教育改革，陳良基形容，許多重大決定其實都沒有事後看來那麼理所當然，過程更像是一段「心智磨練的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "陪伴企業從零建構資安防線，HENNGE 惠頂益登台 10 年的「資安陪跑哲學」",
+        "link": "https://techorange.com/2026/09/07/hennge-cybersecurity-aiagents-henngeone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 10:50:28 +0800",
+        "description": "「再好的技術，也並非人人都能取用。」HENNGE 董事長小椋一宏回憶 1996 年推出首款 Linux 伺服器時的體悟，這個初衷成為 HENNGE 30 年來發展的核心動力，不僅致力於研發技術，更專注於理解使用者痛點、搭起跨越應用鴻溝的橋樑。 如今邁入 2026 年，恰逢 HENNGE 在台灣深耕十週年，團隊一路見證在地企業從雲端轉型萌芽走向普及，資安威脅由外部病毒入侵演變成新型釣魚與內部外洩的雙重考驗。HENNGE 從初進台灣嘗試讀懂企業對於資安的需求，到以單一平台整合資安防護的陪跑員，協助企",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【首席 AI 官一年衝上 76%】CAIO 職稱未定、教材未成形，商學院已搶開 28,000 美元課程",
+        "link": "https://techorange.com/2026/09/07/course-for-an-ai-job/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 10:49:03 +0800",
+        "description": "根據 IBM Institute of Business Value 針對全球 2,000 名執行長的調查，一年之內，設有首席 AI 官（Chief AI Officer，CAIO）的企業比例從 26% 躍升至 76%，而且這波成長不只發生在 Meta、Salesforce 等科技公司，海尼根、Nike 等傳統企業也陸續跟進。 這些執行長預期，到 2030 年，近半數的營運決策將由 AI 自主完成，促使企業重新思考 C 級主管的組成，首席 AI 官因此從邊緣位置，快速被推上檯面。 商學院搶進市場",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 讓開發速度成基本籌碼，SaaS 與軟體業如何建立差異化護城河？",
+        "link": "https://techorange.com/2026/09/07/ai-software-services-saas-and-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 07 Sep 2026 09:57:33 +0800",
+        "description": "當透過 AI 快速產出程式碼已經成為基本能力，當今企業買家對軟體供應商、SaaS 業者發出的提問，已經轉變為是否足夠了解客戶的產業，並把軟體給做對、做好？",
         "source": "TechOrange"
       },
       {
@@ -213,34 +234,6 @@
         "pubDate": "Fri, 04 Sep 2026 12:37:58 +0800",
         "description": "NVIDIA 在柏林舉行的 IFA 發表多項新消息，包括下月上市的 RTX Spark 系統，以及協助部署地端 AI 的模型與軟體更新。其中，受關注的 NVIDIA PAIR（Personal AI Router），能將區域網路內多台電腦的運算資源整合起來，並自動分配 AI 推論工作。 NVIDIA 開源免費軟體 PAIR，串起家庭與中小企業閒置電腦跑地端 AI NVIDIA PAIR 會將網路上的 RTX、DGX 和 Mac 系統整合成個人 AI 推論叢集，並自動把 AI 推論請求分配到可用的",
         "source": "TechOrange"
-      },
-      {
-        "title": "GPT-6 Astra 正式登場，為何 OpenAI 總裁認為 AGI 時代已到？",
-        "link": "https://techorange.com/2026/09/04/gpt-6-astra-openai-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 12:08:04 +0800",
-        "description": "OpenAI 在美國時間 9/3 推出 GPT-6 Astra 新模型，正式跨入第六代模型世代，並將它形容為「新一代智慧（a new generation of intelligence）」。值得關注的是，OpenAI 共同創辦人暨總裁 Greg Brockman 在媒體簡報上表示，如果幾年後回頭問「AGI 是什麼時候出現的」，答案可能就是現在，甚至可能就是 Astra；他個人認為，AI 已經進入「AGI 時代」。 距離 OpenAI 去年推出 GPT-5 已歷經約 13 個月，期間雖陸續更新至",
-        "source": "TechOrange"
-      },
-      {
-        "title": "調查發現 76% 工程師更愛 Claude Code 勝過 Codex，關鍵差異是什麼？",
-        "link": "https://techorange.com/2026/09/04/claude-code-openai-codex-ai-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 09:37:03 +0800",
-        "description": "在 AI 輔助程式開發領域的 138 位工程師受訪者中，高達 76% 使用 Anthropic Claude Code 執行日常工作，而 OpenAI Codex 則僅有 35%，另外有 22% 的人同時使用兩者。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "快速消費品巨頭如何迎戰供應鏈波動？金百利克拉克的數位分身與資料湖策略",
-        "link": "https://techorange.com/2026/09/04/kimberly-clark-ai-digital-twins/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 07:01:00 +0800",
-        "description": "旗下擁有舒潔（Kleenex）、靠得住（Kotex）與好奇（Huggies）等知名品牌的消費品巨頭金百利克拉克（Kimberly-Clark），近年積極將 AI 深度導入物流排程與工廠營運中。透過數據與自動化技術，該公司不僅大幅削減營運成本，更在競爭激烈的快消品市場中，持續鞏固營運效率與供應鏈韌性。 突破傳統物流瓶頸，導入 AI 數位分身降低 60% 貨運波動 過去金百利克拉克在運輸調度上經常面臨貨流不均的問題，例如部分日子出貨量集中，造成車輛與運輸容量過載，其他日子卻可能出現需求驟降與產能閒置",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】台積電近 20 廠仍追不上 AI，OpenAI 開發 AI 自動關閉機制",
-        "link": "https://techorange.com/2026/09/04/semicon-2026-tsmc-ai-demand-openai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 04 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊SEMICON Taiwan 2026：台積電近 20 廠仍追不上 AI，Microsoft：擴產還不夠 台灣半導體產業協會理事長暨台積電副共同營運長侯永清，在 SEMICON Taiwan 2026 爐邊對談表示，AI 需求成長速度是過去 30 年未見。台積電去年底估算 2026 年為滿足客戶需求所需採購的設備，僅過一季就提高至原估值的 1.5 倍，7 月再增至 1.9 倍。目前台灣同步興建 13 座晶圓廠，海外另有 5 至 6 座，全球合計",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -273,10 +266,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI confirms ChatGPT is down ahead of 'Astra' model launch",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-ahead-of-astra-model-launch/",
-        "pubDate": "Thu, 03 Sep 2026 11:13:29 -0400",
-        "description": "ChatGPT and Codex are experiencing a major outage, with users reporting errors across nearly every major ChatGPT feature. [...]",
+        "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
+        "pubDate": "Sun, 06 Sep 2026 21:15:43 -0400",
+        "description": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -529,16 +522,6 @@
     ],
     "cve": [
       {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260826",
-        "pubDate": "Wed, 26 Aug 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
-      },
-      {
         "title": "Mozilla Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260902",
         "pubDate": "Wed, 02 Sep 2026 11:00:00 +0800",
@@ -547,6 +530,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Mozilla Products"
+      },
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260902",
+        "pubDate": "Wed, 02 Sep 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome"
       },
       {
         "title": "F5 Products Multiple Vulnerabilities",
@@ -577,16 +570,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "SUSE Linux Kernel"
-      },
-      {
-        "title": "F5 BIG-IP Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260827",
-        "pubDate": "Thu, 27 Aug 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "F5 BIG-IP Denial of Service Vulnerability"
       },
       {
         "title": "Cisco Products Multiple Vulnerabilities",
@@ -647,6 +630,26 @@
         "severity": "medium",
         "cveIds": "",
         "products": "[Security Blog] Mid-Year Review: HKCERT Security Incident Statistics and Cybersecurity Trends in the First Half of 2026"
+      },
+      {
+        "title": "Aruba Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20260907",
+        "pubDate": "Mon, 07 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Aruba Products"
+      },
+      {
+        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260907",
+        "pubDate": "Mon, 07 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Ubuntu Linux Kernel"
       }
     ]
   }
