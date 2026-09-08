@@ -1,7 +1,77 @@
 {
-  "ts": "2026-09-07T23:44:58.123936Z",
+  "ts": "2026-09-08T04:28:57.450460Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OpenVPN 修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
+        "link": "https://www.ithome.com.tw/news/178767",
+        "pubDate": "2026-09-08 12:11",
+        "description": "OpenVPN修補軟體核心與Windows元件一系列漏洞，涵蓋連線與封包處理、檔案路徑管理與參數解析等問題，建議用戶更新至2.7.7版",
+        "source": "iThome資安"
+      },
+      {
+        "title": "解決企業AI導入兩難，中華資安推出自研產品AI Archway，內建市場少見的可逆式脫敏機制",
+        "link": "https://www.ithome.com.tw/news/178752",
+        "pubDate": "2026-09-08 11:25",
+        "description": "全面禁用AI恐扼殺生產力並衍生Shadow AI，全面開放又面臨機敏外洩風險，面對此一兩難，中華資安國際於7月推出首款自研AI Security解決方案——AI安檢通道（AI Archway），為國內企業增添更多本土防護方案選擇，當中更具備市場少見的可逆脫敏機制，能將送往外部AI的敏感資料轉為代碼遮罩，待結果回傳後再自動還原，並提供辨識企業專屬機密的AI DLP自定義訓練等功能",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Keycloak存在重大密碼重設漏洞，恐導致攻擊者接管帳號",
+        "link": "https://www.ithome.com.tw/news/178764",
+        "pubDate": "2026-09-08 11:13",
+        "description": "開源身分與存取管理伺服器Keycloak存在繞過身分驗證程序問題，攻擊者可繞過驗證郵件、重設任意用戶密碼進而接管帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "N-able一天內發布兩次N-central更新，緊急修補危險程度滿分的重大漏洞",
+        "link": "https://www.ithome.com.tw/news/178763",
+        "pubDate": "2026-09-08 10:19",
+        "description": "上週末N-able發布更新，修補遠端監控與管理平臺N-central漏洞CVE-2026-86206、CVE-2026-86207、CVE-2026-86218，呼籲用戶應儘速套用更新因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "富爾特子公司格帝控股遭勒索軟體攻擊，ERP等系統一度無法運作",
+        "link": "https://www.ithome.com.tw/news/178762",
+        "pubDate": "2026-09-08 10:05",
+        "description": "上市公司富爾特（6136）發布資安重訊，表示旗下的格帝控股因遭到勒索病毒攻擊，致使包含ERP在內的部分資訊系統無法正常運作，資安團隊已啟動資安應變機制，並著手復原",
+        "source": "iThome資安"
+      },
+      {
+        "title": "開發工具平臺Coder的模組Registry遭劫持，合法網域一度提供能竊密的惡意Terraform模組",
+        "link": "https://www.ithome.com.tw/news/178760",
+        "pubDate": "2026-09-08 08:38",
+        "description": "攻擊者取得Coder在Cloudflare上的存取權，讓合法registry.coder.com一度提供惡意Terraform模組，可竊取OIDC權杖、SSH金鑰及雲端與CI/CD憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "HiddenLayer獲得1億美元B輪融資，擴大AI代理執行階段安全防護",
+        "link": "https://www.ithome.com.tw/news/178726",
+        "pubDate": "2026-09-08 08:00",
+        "description": "HiddenLayer將持續擴充AI安全平臺，並投入工程、研究及業務拓展；今年也陸續加強AI代理執行期間的行為監控、威脅偵測及AI程式開發代理防護",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PQC導入TLS前後端落差大，來源伺服器支援率僅1成",
+        "link": "https://www.ithome.com.tw/news/178721",
+        "pubDate": "2026-09-08 08:00",
+        "description": "Cloudflare資料顯示，抵達其CDN、由一般使用者產生的HTTPS請求流量中，約7成已採用PQC混合式金鑰建立機制，但客戶來源伺服器支援比例僅約1成，顯示量子安全加密能力可能尚未涵蓋完整傳輸路徑",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Upwind傳獲3億美元新融資，估值升至38億美元並擴大AI安全布局",
+        "link": "https://www.ithome.com.tw/news/178730",
+        "pubDate": "2026-09-08 08:00",
+        "description": "雲端資安業者Upwind傳出取得新一輪融資，今年以來持續將既有執行階段安全能力延伸到AI環境，涵蓋AI資產盤點、工作負載防護，以及AI代理協助威脅調查與修復",
+        "source": "iThome資安"
+      },
+      {
+        "title": "G7籲政府與企業加快PQC轉型，公共採購也可納入量子安全要求",
+        "link": "https://www.ithome.com.tw/news/178742",
+        "pubDate": "2026-09-08 08:00",
+        "description": "除了盤點密碼學資產與排定轉型順序，G7網路安全工作小組也建議各國從研發、產業合作與公共採購著手，帶動PQC產品與服務供應，並協助組織推進自身營運環境的PQC轉型",
+        "source": "iThome資安"
+      },
       {
         "title": "PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼",
         "link": "https://www.ithome.com.tw/news/178756",
@@ -38,76 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "JetBrains雲端運算服務Cadence遭駭，攻擊者利用TeamCity重大漏洞得逞",
-        "link": "https://www.ithome.com.tw/news/178747",
-        "pubDate": "2026-09-07 15:13",
-        "description": "8月底JetBrains指出旗下的雲端運算服務Cadence遭到入侵，過程中攻擊者利用TeamCity重大漏洞CVE-2026-63077來達到目的，9月上旬該公司指出，部分用戶的專案程式碼與憑證恐遭外流",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月7日，SEMI E187驗證標章亮相，最快10月公布首家驗證機構，第一波獲得認可的產品年底有望問世",
-        "link": "https://www.ithome.com.tw/news/178746",
-        "pubDate": "2026-09-07 14:59",
-        "description": "在9月4日SEMICON Taiwan 2026半導體資安論壇上，數位發展部與國際半導體產業協會SEMI共同揭露「SEMI E187驗證標章」，宣告臺灣主導的半導體資安標準，正式從標準制定邁向落地驗證，預計最快10月台北市電腦公會（TCA）將成為認可驗證機構，年底前首波獲標章產品可望問世",
-        "source": "iThome資安"
-      },
-      {
-        "title": "MikroTik路由器遭鎖定，駭客透過SSH進行未經授權存取",
-        "link": "https://www.ithome.com.tw/news/178745",
-        "pubDate": "2026-09-07 14:58",
-        "description": "CERT Polska警告，他們向網路設備廠商MikroTik通報的部分資安漏洞遭到利用，攻擊者利用SSH連線入侵路由器，並試圖建立特定名稱的高權限帳號，呼籲用戶要儘速套用RouterOS更新因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "垃圾郵件業者已大規模套用ASCII走私技巧",
-        "link": "https://www.ithome.com.tw/news/178736",
-        "pubDate": "2026-09-07 13:57",
-        "description": "ASCII走私技巧從AI提示注入延伸至傳統釣魚攻擊，微軟發現攻擊者利用不可見Unicode字元拆開郵件關鍵字，藉此躲避過濾機制，相關攻擊單日郵件量最高超過230萬封",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多倫多大學研究揭露新型攻擊手法GPUThor，可突破Nvidia GPU的ECC防護",
-        "link": "https://www.ithome.com.tw/news/178735",
-        "pubDate": "2026-09-07 12:48",
-        "description": "新型Rowhammer記憶體攻擊手法可在啟用ECC的Nvidia GPU製造多位元錯誤，進一步導致服務阻斷及提升權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SEMI E187驗證標章亮相，最快10月將公布第一家驗證機構，首波獲標章產品有望於年底前問世",
-        "link": "https://www.ithome.com.tw/news/178733",
-        "pubDate": "2026-09-07 12:42",
-        "description": "繼上月SEMI E187檢測實驗室出爐後，在9月4日SEMICON Taiwan 2026半導體資安論壇上，數位發展部與國際半導體產業協會SEMI共同揭露「SEMI E187驗證標章」，宣告臺灣主導的半導體資安標準，正式從規則制定邁向落地驗證，預計最快10月台北市電腦公會（TCA）將成為認可驗證機構，年底前首波獲標章產品可望問世",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA將Chrome甫修補漏洞列入KEV清單",
-        "link": "https://www.ithome.com.tw/news/178734",
-        "pubDate": "2026-09-07 12:10",
-        "description": "CISA於Google發布Chrome 152更新次日，將JavaScript引擎V8高風險漏洞納入已知遭利用漏洞清單",
-        "source": "iThome資安"
-      },
-      {
-        "title": "MongoDB修補33個漏洞，包含BI Connector多個高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/178729",
-        "pubDate": "2026-09-07 11:34",
-        "description": "MongoDB於8月底起陸續揭露與修補多個漏洞，涵蓋BI Connector、ODBC與多種程式語言驅動程式等元件，可能導致資料外洩、記憶體破壞或服務阻斷等問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "電商平臺Magento、Adobe Commerce遭零時差漏洞StyleSmuggler攻擊",
-        "link": "https://www.ithome.com.tw/news/178728",
-        "pubDate": "2026-09-07 11:12",
-        "description": "資安公司Sansec警告，他們上週發現有人鎖定電商平臺Magento、Adobe Commerce發動零時差漏洞攻擊，其中一家電商網站已套用了Adobe今年8月發布的更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中科院傳出採購網大量派送過期資訊，起因是遭遇外部攻擊",
-        "link": "https://www.ithome.com.tw/news/178727",
-        "pubDate": "2026-09-07 11:04",
-        "description": "8月底國家中山科學研究院採購資訊網出現大量派送過期採購資訊的異常情形，當時他們認為，可能是AI資安代理在測試過程跨越權限造成，近期改口表示，是系統開發商埋藏的排程管理介面遭入侵釀禍",
-        "source": "iThome資安"
-      },
-      {
         "title": "西雅圖時報與Newsday控告OpenAI、微軟，要求銷毀納入其新聞內容的AI模型",
         "link": "https://www.ithome.com.tw/news/178753",
         "pubDate": "2026-09-07  06:09:22",
@@ -120,23 +120,23 @@
         "pubDate": "2026-09-07  06:09:16",
         "description": "面對歐盟逐步推動產品數位護照（Digital Product Passport, DPP）制度，國內正加速建立產品生命週期資訊管理能力。環境部今天(9/7)與國內產業展示我國推動DPP4年試行成果，期望通過政府與產業合作，建立產品資訊蒐集、交換及應用模式。\n循環署署長賴瑩瑩指出，產品數位護照的核心並不是單純的揭露產品資訊，而是透過產品全生命週期資料，掌握產品從製造、使用、維修到回收再利用的完整價值鏈。相較過去以廢棄物處理為主的管理模式，未來的資源循環政策更重視產品前端設計，以及上下游供應鏈資訊串",
         "source": "iThome"
-      },
-      {
-        "title": "川普政府推出專門推廣政策的遊戲網站",
-        "link": "https://www.ithome.com.tw/news/178749",
-        "pubDate": "2026-09-07  03:09:33",
-        "description": "美國白宮官方網站上周四（9/4）上架了名為「White House Arcade」的網頁街機專區，將總統川普（Donald Trump）的核心施政口號與政策包裝成5款復古小遊戲，透過滿滿的迷因風格與復古懷舊感，企圖在網路上掀起病毒式的傳播與討論。",
-        "source": "iThome"
-      },
-      {
-        "title": "從原水監測、淨水、供水到水務管理，台水加速智慧水務管理大幅改善供水韌性",
-        "link": "https://www.ithome.com.tw/news/178714",
-        "pubDate": "2026-09-07  01:09:27",
-        "description": "水是民生與產業運作不可或缺的重要資源。對一般民眾而言，打開水龍頭就能取得穩定的用水，每天都會用到的自來水看似簡單，但是其背後從水庫、河川及地下水等原水來源，到淨水處理、輸配水管網及用戶端服務等一系列複雜流程。台灣自來水公司(簡稱台水)資訊處長曾沛聰在2026數位政府高峰會分享，台水如何導入AI推動智慧水務發展，強化供水韌性及永續。\n曾沛聰首先指出，全球氣候變遷正在改變傳統水務管理模式。颱風與豪雨可能造成河川原水濁度快速升高，影響淨水處理；而長時間乾旱則會造成水源調度壓力；另一方面，埋設於地下的大",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
+        "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 09:30:03 +0800",
+        "description": "雲端資料平台 Snowflake 推出 Cortex AI Gateway，讓客戶透過「自動」模式，將每項任務主動分配到兼具品質與成本支出的 AI 模型，最多可將 Token 成本降低 3 倍。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "公務員不必會寫程式，但能自己調整 AI 代理，政府的 AI 改革才真正開始",
+        "link": "https://techorange.com/2026/09/08/the-public-sector-workforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 09:29:45 +0800",
+        "description": "英國政府曾讓超過兩萬名公務員試用生成式 AI 三個月，參與者自述平均每天節省 26 分鐘，換算下來，每人一年幾乎省下兩個工作週；這證明開放 AI 工具確實能改善效率，卻也暴露一個問題是，如果公務員只能用 AI 搜尋資料、摘要文件或撰寫初稿，那改革仍停留在個人生產力層次。 對公部門而言，AI 不只是提高競爭力的工具，而是完成公共任務所需的新能力。真正有價值的情境，可能是建立一個能協助清理案件積壓的 AI 代理；也可能是把散落在法規、表單與內部系統中的資訊串起來，縮短民眾等待行政處理的時間。 這也是",
+        "source": "TechOrange"
+      },
       {
         "title": "【Google Cloud 林書平專欄】擴展 AI 代理的瓶頸不是模型，是資料還停在「紀錄系統」",
         "link": "https://techorange.com/2026/09/08/ai-systems-of-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -149,13 +149,6 @@
         "link": "https://techorange.com/2026/09/08/openai-ai-research-intern-jensen-huang-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 08 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI「AI 研究實習生」達標，首席科學家警告 AI 推理愈來愈難監控 OpenAI 表示，已達成原訂今年 9 月完成「自動化 AI 研究實習生」的目標。這類系統能在人類指導下執行範圍明確的研究任務，包括原本需要熟練研究人員花費數天才能完成的工作；下一個目標則是在 2028 年 3 月建立能在人類監督下工作的自動化 AI 研究員。截至 8 月中，OpenAI 研究團隊每投入一個人類工作日，已搭配相當於 3.1 個工作日的代理運算時間，但研",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【在駭客動手前就阻斷】破解駭客 17 天隱形潛伏期，如何終結「資料外洩才察覺」的防禦死角？",
-        "link": "https://techorange.com/2026/09/05/global-threat-landscape-report/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 05 Sep 2026 06:29:00 +0800",
-        "description": "美國資安公司 ExtraHop 發佈的《2026 全球威脅情勢報告》（The 2026 ExtraHop Global Threat Landscape Report），內容呈現當前資安防線的結構性轉變；研究於 2026 年 5 月進行，對象涵蓋美國、英國、法國、德國、新加坡、澳洲和阿拉伯聯合大公國等七個國家中，擁有 1,000 名以上員工企業的 1,803 名總監級以上之 IT 與安全決策者。 報告透過對全球企業決策者的量化調查，揭露駭客現在如何用 AI 和隱形手段繞過防護，而企業如何用更聰明",
         "source": "TechOrange"
       },
       {
@@ -233,13 +226,6 @@
         "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 07 Sep 2026 06:51:00 +0800",
         "description": "日本科技與製造業巨頭日立（Hitachi）正透過組織重整與 AI 技術升級，加速轉型為「數位中心型企業」。 日立總裁兼 CEO Toshiaki Tokunaga 指出，AI 已從生成式（GenAI）、代理型（Agentic AI）邁入實體 AI（Physical AI）階段。日立聚焦將 IT、OT（營運技術）與實體產品串接，推動自研 AI Lumada 3.0 佈局，並實施「Customer Zero」策略：先在自家組織內驗證技術，再轉化為外部客戶的數位服務。 從靜態計畫到動態應變，Physi",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】NVIDIA 129 億美元宣布收購 Hugging Face，研究指疑似 OpenAI 代理劫持德國網站",
-        "link": "https://techorange.com/2026/09/07/nvidia-hugging-face-acquisition-openai-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 129 億美元宣布收購 Hugging Face，版圖延伸至 1,800 萬名開發者 NVIDIA 宣布，已同意以 129.3 億美元收購 AI 模型開發者平台 Hugging Face，成為 NVIDIA 規模最大的收購案之一。Hugging Face 目前擁有超過 1,800 萬名開發者、研究人員及創作者，平台上累積超過 300 萬個模型、50 萬個資料集及 100 萬個應用程式，使用企業超過 20 萬家。NVIDIA 也是 ",
         "source": "TechOrange"
       }
     ],
@@ -387,6 +373,13 @@
     ],
     "en_tech": [
       {
+        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
+        "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
+        "pubDate": "Tue, 08 Sep 2026 02:16:39 +0000",
+        "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI gla",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Phil Schiller’s App Store exit reportedly driven by wariness over future plans",
         "link": "https://techcrunch.com/2026/09/06/phil-schillers-app-store-exit-reportedly-driven-by-wariness-over-future-plans/",
         "pubDate": "Sun, 06 Sep 2026 21:41:06 +0000",
@@ -485,11 +478,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
-        "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
-        "pubDate": "Fri, 04 Sep 2026 21:12:11 +0000",
-        "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
-        "source": "TechCrunch"
+        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
+        "pubDate": "2026-09-07T22:00:00-04:00",
+        "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's ",
+        "source": "TheVerge"
       },
       {
         "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
@@ -517,13 +510,6 @@
         "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
         "pubDate": "2026-09-07T08:00:00-04:00",
         "description": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoid",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Bentley’s Torcal EV tries to balance authenticity with fake V8 sounds",
-        "link": "https://www.theverge.com/transportation/990319/bentley-torcal-ev-power-ride-sound-v8",
-        "pubDate": "2026-09-07T07:00:00-04:00",
-        "description": "Thanks to their ability to provide a smooth ride and quiet powertrain with ease, electric vehicles are a true shoo-in for the high-end luxury automotive segment. Rolls-Royce has the Spectre, Cadillac's Celestiq is taking bespoke to a whole new level,",
         "source": "TheVerge"
       }
     ],
