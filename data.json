@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-08T13:34:26.021752Z",
+  "ts": "2026-09-08T17:28:55.909665Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,6 +252,34 @@
     ],
     "en_sec": [
       {
+        "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
+        "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
+        "pubDate": "Tue, 08 Sep 2026 21:50:23 +0530",
+        "description": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the n",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
+        "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
+        "pubDate": "Tue, 08 Sep 2026 20:24:30 +0530",
+        "description": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to back ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
+        "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
+        "pubDate": "Tue, 08 Sep 2026 19:49:17 +0530",
+        "description": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.\n\nIn the company's proof of concept, th",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
+        "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
+        "pubDate": "Tue, 08 Sep 2026 19:18:16 +0530",
+        "description": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
         "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
         "pubDate": "Tue, 08 Sep 2026 17:24:29 +0530",
@@ -287,11 +315,53 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
+        "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400",
+        "description": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
         "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
         "pubDate": "Tue, 08 Sep 2026 12:30:43 +0530",
         "description": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ da",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI says ChatGPT outage causes image generation errors",
+        "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
+        "pubDate": "Tue, 08 Sep 2026 12:28:42 -0400",
+        "description": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
+        "pubDate": "Tue, 08 Sep 2026 11:22:33 -0400",
+        "description": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
+        "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
+        "pubDate": "Tue, 08 Sep 2026 10:55:20 -0400",
+        "description": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI says GPT-6 Astra can find zero-days, but is also harder to monitor",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-6-astra-can-find-zero-days-but-is-also-harder-to-monitor/",
+        "pubDate": "Tue, 08 Sep 2026 10:40:32 -0400",
+        "description": "OpenAI confirmed that GPT-6 Astra is the first model it has broadly deployed to reach the \"Critical level\" for cybersecurity capabilities. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Adobe fixes critical Magento zero-day exploited to backdoor servers",
+        "link": "https://www.bleepingcomputer.com/news/security/adobe-fixes-critical-magento-zero-day-exploited-to-backdoor-servers/",
+        "pubDate": "Tue, 08 Sep 2026 09:34:47 -0400",
+        "description": "Adobe has released an emergency fix for CVE-2026-75650, an actively exploited max-severity zero-day vulnerability dubbed StyleSmuggler, that impacts multiple versions of Magento and Adobe Commerce. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
@@ -320,79 +390,51 @@
         "pubDate": "Tue, 08 Sep 2026 03:35:50 -0400",
         "description": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed t",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
-        "pubDate": "Sun, 06 Sep 2026 21:15:43 -0400",
-        "description": "OpenAI is now rolling out ChatGPT Astra, its most powerful model to date, to those with a $20 Plus subscription, but there's no word on when free users will get access.. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication",
-        "link": "https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html",
-        "pubDate": "Sun, 06 Sep 2026 15:02:38 +0530",
-        "description": "Attackers are exploiting MikroTik routers with their Secure Shell (SSH) remote-access service, which is reachable from the internet, to gain full administrative control without authentication, according to CERT Polska's attack warning, published on S",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers conceal phishing lures using invisible Unicode characters",
-        "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
-        "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400",
-        "description": "Threat actors have adopted the ASCII smuggling technique in phishing campaigns, using invisible Unicode characters to evade email security filters. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
-        "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
-        "pubDate": "Sat, 05 Sep 2026 10:29:13 -0400",
-        "description": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution",
-        "link": "https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html",
-        "pubDate": "Mon, 07 Sep 2026 23:42:09 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a complex Chromium-based post-exploitation toolkit called PEEP that masquerades as a bookmarks extension for the web browser.\n\n\"Requiring prior administrative or code execution access, its installer",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fake IT Calls Target Executives in Microsoft 365 Data Theft and Extortion Attacks",
-        "link": "https://thehackernews.com/2026/09/microsoft-365-attackers-use-help-desk.html",
-        "pubDate": "Mon, 07 Sep 2026 21:21:56 +0530",
-        "description": "Threat hunters have disclosed details of a widespread data theft and extortion threat cluster that's targeting Microsoft 365 and other software-as-a-service (SaaS) offerings through information technology (IT) help desk vishing, adversary-in-the-midd",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: Chrome 0-Day, Router Hijacks, Coder Supply Chain Attack and More",
-        "link": "https://thehackernews.com/2026/09/weekly-recap-chrome-0-day-router.html",
-        "pubDate": "Mon, 07 Sep 2026 20:06:07 +0530",
-        "description": "Turning off email images should at least stop the pictures. This week, attackers had a workaround: a scannable QR code built out of text. It still appears, even with images blocked. A small detail, but an annoying one if that was a precaution you wer",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Your Cloud Security Checklist Doesn't Work the Way You Think It Does",
-        "link": "https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html",
-        "pubDate": "Mon, 07 Sep 2026 17:15:00 +0530",
-        "description": "If managing security across multiple cloud providers wasn't hard enough, each one fails in a different way. For the 2026 Cloud Security Index, Intruder analyzed misconfiguration data from 3,000 organizations across AWS, Azure, and Google Cloud and fo",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts",
-        "link": "https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html",
-        "pubDate": "Mon, 07 Sep 2026 17:06:39 +0530",
-        "description": "Cybersecurity researchers have disclosed details of worm-like activity that abuses ConnectWise ScreenConnect to distribute a malicious Visual Basic Script (VBScript) payload to newly connected systems.\n\nAccording to Huntress, three unrelated incident",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released",
-        "link": "https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html",
-        "pubDate": "Mon, 07 Sep 2026 16:50:14 +0530",
-        "description": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. T",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
+        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
+        "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
+        "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
+        "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
+        "pubDate": "Tue, 08 Sep 2026 15:25:35 +0000",
+        "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+        "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
+        "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
+        "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mistral raises €3B as sovereign AI becomes big business",
+        "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
+        "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
+        "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A hacker stole $340M in a crypto heist, then returned most of it",
+        "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
+        "pubDate": "Tue, 08 Sep 2026 14:11:29 +0000",
+        "description": "The latest heist is one of the largest thefts of cryptocurrency to date.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
+        "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
+        "pubDate": "Tue, 08 Sep 2026 14:10:17 +0000",
+        "description": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
         "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
@@ -436,48 +478,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: Tesla Cybercab hits the road — and a snag",
-        "link": "https://techcrunch.com/2026/09/06/techcrunch-mobility-tesla-cybercab-hits-the-road-and-a-snag/",
-        "pubDate": "Sun, 06 Sep 2026 16:08:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
-        "link": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/",
-        "pubDate": "Sat, 05 Sep 2026 22:49:55 +0000",
-        "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hikers rescued after using Google Gemini for planning",
-        "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
-        "pubDate": "Sat, 05 Sep 2026 19:35:24 +0000",
-        "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
-        "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
-        "pubDate": "Sat, 05 Sep 2026 18:05:27 +0000",
-        "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Clucky’s new alarm app wakes you up with a crowing rooster",
-        "link": "https://techcrunch.com/2026/09/05/cluckys-new-alarm-app-wakes-you-up-with-a-crowing-rooster/",
-        "pubDate": "Sat, 05 Sep 2026 17:00:00 +0000",
-        "description": "Clucky's new alarm app has an option where users are woken up to the sound of a rooster. They then complete a mission to turn it off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Oura is going public, but these smart ring companies are coming for its crown",
-        "link": "https://techcrunch.com/2026/09/05/oura-is-going-public-but-these-smart-ring-companies-are-coming-for-its-crown/",
-        "pubDate": "Sat, 05 Sep 2026 15:00:00 +0000",
-        "description": "While Oura has largely dominated the smart ring market for years, a growing number of rivals are now racing to dethrone it by trying all sorts of approaches to get an edge over it.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Opaque recurrence, and other AI terms that you should probably know",
         "link": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
         "pubDate": "Mon, 07 Sep 2026 19:24:00 +0000",
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
-        "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
-        "pubDate": "2026-09-08T09:00:00-04:00",
-        "description": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. T",
+        "title": "Nintendo isn’t scared of GTA VI",
+        "link": "https://www.theverge.com/games/991484/zelda-ocarina-of-time-gta-6",
+        "pubDate": "2026-09-08T13:13:51-04:00",
+        "description": "There's never really been a game like Grand Theft Auto VI before, one that has completely altered the lineup of games around it. Everyone, it seems, is scared of going up against Grand Theft Auto VI. Everyone, that is, except for Nintendo. The compan",
         "source": "TheVerge"
       },
       {
-        "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
-        "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
-        "pubDate": "2026-09-08T08:00:00-04:00",
-        "description": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus ha",
+        "title": "Tesla Cybercab doesn’t have any manual controls — but it does have a virtual joystick",
+        "link": "https://www.theverge.com/transportation/991400/tesla-cybercab-virtual-joystick-manual-control",
+        "pubDate": "2026-09-08T12:06:56-04:00",
+        "description": "The Tesla Cybercab is notable for what it lacks, namely a steering wheel and pedal. By design, there is no way for this vehicle to be manually controlled - or so we thought. Less than a week after the Cybercab was officially launched in Austin, Texas",
         "source": "TheVerge"
       },
       {
-        "title": "LG TVs caught spying even when offline or on standby",
-        "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-        "pubDate": "2026-09-08T07:30:05-04:00",
-        "description": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby device",
+        "title": "The White House pulls its racist Tetris clone",
+        "link": "https://www.theverge.com/games/991451/white-house-pulls-racist-tetris-clone",
+        "pubDate": "2026-09-08T12:00:51-04:00",
+        "description": "The White House has taken down its racist Tetris ripoff days after launching a website dedicated to \"arcade\" games, as spotted earlier by Kotaku. The Tetris clone, called \"Build the Wall,\" involved stacking different-sized blocks to prevent a \"zombie",
         "source": "TheVerge"
       },
       {
-        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
-        "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
-        "pubDate": "2026-09-08T03:00:00-04:00",
-        "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z ",
+        "title": "Pusheen’s first game is coming to Apple Arcade",
+        "link": "https://www.theverge.com/games/991398/pusheen-apple-arcade-game",
+        "pubDate": "2026-09-08T11:07:13-04:00",
+        "description": "Pusheen is getting her first game, and it will appear exclusively on Apple Arcade. Launching October 1st, Pusheen's Place lets you collect and care for more than 100 Pusheens as you play minigames and decorate rooms for Pusheenicorn, Pancake Pusheen,",
         "source": "TheVerge"
       },
       {
-        "title": "Phone gaming is getting a huge graphics boost",
-        "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
-        "pubDate": "2026-09-07T22:00:00-04:00",
-        "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's ",
+        "title": "JBL’s soundbar with detachable rear speakers is over $300 off",
+        "link": "https://www.theverge.com/gadgets/991261/jbl-soundbar-detachable-speakers-final-fantasy-deal-sale",
+        "pubDate": "2026-09-08T11:03:07-04:00",
+        "description": "A lot of people are split between getting a nice all-in-one soundbar or spending more for an option that includes rear satellites for immersive surround sound. JBL’s Bar 700 Mark 2 system is one of the most unique options available, shipping with two",
         "source": "TheVerge"
       }
     ],
