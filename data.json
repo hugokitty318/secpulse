@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-08T09:04:55.797453Z",
+  "ts": "2026-09-08T13:34:26.021752Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Palo Alto Networks揭露攻擊者利用AI代理在10小時內攻破企業網路，竊取root憑證",
+        "link": "https://www.ithome.com.tw/news/178792",
+        "pubDate": "2026-09-08 18:44",
+        "description": "攻擊者以人工設定目標、AI代理執行戰術的方式，加速偵察、竊取憑證及橫向移動等入侵流程",
+        "source": "iThome資安"
+      },
       {
         "title": "惡意軟體攻擊鎖定跨國企業的中國分公司，停用Windows更新及竄改系統內建防毒組態",
         "link": "https://www.ithome.com.tw/news/178782",
@@ -101,11 +108,18 @@
         "source": "iThome資安"
       },
       {
-        "title": "開發工具平臺Coder的模組Registry遭劫持，合法網域一度提供能竊密的惡意Terraform模組",
-        "link": "https://www.ithome.com.tw/news/178760",
-        "pubDate": "2026-09-08 08:38",
-        "description": "攻擊者取得Coder在Cloudflare上的存取權，讓合法registry.coder.com一度提供惡意Terraform模組，可竊取OIDC權杖、SSH金鑰及雲端與CI/CD憑證",
-        "source": "iThome資安"
+        "title": "台灣大哥大發表MyAgent平臺，加速從AI助理走向數位員工",
+        "link": "https://www.ithome.com.tw/news/178790",
+        "pubDate": "2026-09-08  06:09:58",
+        "description": "生成式 AI 技術熱炒了兩年，市場正從「問答聊天」迅速轉向能代勞實際工作流程的 AI Agent。台灣大哥大今天（9/8）舉辦「D.E.E.P. Tech Day 2026」硬科技日，發表其自研的企業級AI Agent平臺MyAgent，並和精誠資訊聯手，試圖解決企業導入AI時面臨的算力成本、模型選擇、資料安全與系統整合等問題。",
+        "source": "iThome"
+      },
+      {
+        "title": "AI重建16.6萬神經元果蠅中樞神經圖，可追蹤感官與動作路徑",
+        "link": "https://www.ithome.com.tw/news/178783",
+        "pubDate": "2026-09-08  05:09:03",
+        "description": "美國霍華休斯醫學研究所（HHMI）旗下Janelia Research Campus與Google Research等團隊，利用AI重建神經元3D結構，完成雄性黑腹果蠅完整中樞神經系統連線圖，相關論文刊登於《Cell》。研究資料涵蓋超過16.6萬個神經元與1.25億個突觸連接，範圍從腦部延伸到控制身體動作的腹神經索，可追蹤視覺、聽覺與嗅覺等感官訊號到動作輸出。",
+        "source": "iThome"
       },
       {
         "title": "Insilico用AI找出可以逆轉老化的藥物",
@@ -130,6 +144,20 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "9% 作弊、24% 吹哨：DeepMind 揭 AI 代理的「自我治理」為何仍不夠？",
+        "link": "https://techorange.com/2026/09/08/openai-deepminds-cheating-math-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 18:28:03 +0800",
+        "description": "AI 代理自行建立溝通管道、並在群體中迅速擴散作弊手法的情況，接連受到關注，凸顯多代理系統的監督難題。繼 OpenAI 代理把冷門德文 Wiki 變成留言板之後，Google DeepMind 的一項實驗也顯示，100 個代理在共同解題時自發出現作弊、蔓延與吹哨。 Google DeepMind 實驗揭密自發性漏洞擴散 《Import AI》提及，OpenAI 的自主代理在執行網路檢索任務期間，原本只被賦予讀取網路的能力、不能寫入，卻找到方法把資訊寫進一個冷門的德國 Wiki，藉此互相詢問答案、",
+        "source": "TechOrange"
+      },
+      {
+        "title": "中國軍方加速佈局人形機器人，從採購到訓練資料已走到哪一步？",
+        "link": "https://techorange.com/2026/09/08/china-readies-humanoid-robots-for-combat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 16:19:44 +0800",
+        "description": "中國人形機器人近年快速進入工廠、展演與各種商業場景，軍方也正在同步測試它的另一種用途。《Reuters》檢視超過 100 份中國軍方採購公告、學術研究、專利、官方出版品、政府紀錄與國防企業資料發現，中國國防體系近兩年明顯加快人形機器人的軍事研究，從作戰情境測試一路延伸到智慧感知、靈巧操作與訓練資料系統，並計劃最終在戰爭中部署這些機器人。 從敵後滲透到城鎮戰，人形機器人開始進入作戰研究 報導追溯，中國對於人形機器人的軍事應用興趣從 2024 年就開始了。2025 年 6 月，中國國防科技大學舉辦人",
+        "source": "TechOrange"
+      },
       {
         "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
         "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,29 +248,71 @@
         "pubDate": "Mon, 07 Sep 2026 11:17:47 +0800",
         "description": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）相關通報義務自 2026 年 9 月 11 日起開始適用，企業的 CRA 準備工作也正從法規盤點，進一步進入流程建置與實際執行階段。叡揚資訊日前攜手台灣區電機電子工業同業公會舉辦「因應歐盟韌性法案（CRA）最新要求：產品安全治理與合規實務研討會」，邀集 SGS 台灣檢驗科技、英能科技共同探討 CRA 對產品安全、軟體開發與供應鏈治理所帶來的實務挑戰，從 SGS 產品檢驗與合規驗證（Verification of Com",
         "source": "TechOrange"
-      },
-      {
-        "title": "AI 硬體進入削價競爭，陳良基：AI 的算力是個假議題，真正客戶要的是 AI 的能力",
-        "link": "https://techorange.com/2026/09/07/chen-liang-gee-podcast-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 11:00:00 +0800",
-        "description": "專訪：戴季全撰稿：李昀蔚 「台灣能夠到今天這個樣子，其實不是理所當然的，是在很多關鍵的時刻，有一些人做了比較對的決定，」本集《全新一週》邀請近期出版新書《只有累積，才有奇蹟》的國立臺灣大學電機工程學系名譽教授、前科技部長、前教育部次長陳良基，回顧台灣過去十年的科技與人才布局，並從當時的關鍵決策出發，剖析今日產業榮景如何一步步累積而來。 從 2017 年力拚台積電 3 奈米先進製程留在台灣，到高教深耕、技職教育改革，陳良基形容，許多重大決定其實都沒有事後看來那麼理所當然，過程更像是一段「心智磨練的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "陪伴企業從零建構資安防線，HENNGE 惠頂益登台 10 年的「資安陪跑哲學」",
-        "link": "https://techorange.com/2026/09/07/hennge-cybersecurity-aiagents-henngeone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 10:50:28 +0800",
-        "description": "「再好的技術，也並非人人都能取用。」HENNGE 董事長小椋一宏回憶 1996 年推出首款 Linux 伺服器時的體悟，這個初衷成為 HENNGE 30 年來發展的核心動力，不僅致力於研發技術，更專注於理解使用者痛點、搭起跨越應用鴻溝的橋樑。 如今邁入 2026 年，恰逢 HENNGE 在台灣深耕十週年，團隊一路見證在地企業從雲端轉型萌芽走向普及，資安威脅由外部病毒入侵演變成新型釣魚與內部外洩的雙重考驗。HENNGE 從初進台灣嘗試讀懂企業對於資安的需求，到以單一平台整合資安防護的陪跑員，協助企",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
+        "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+        "pubDate": "Tue, 08 Sep 2026 17:24:29 +0530",
+        "description": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "What It Took to Reach 1 Billion Build Manifests",
+        "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
+        "pubDate": "Tue, 08 Sep 2026 17:19:02 +0530",
+        "description": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
+        "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
+        "pubDate": "Tue, 08 Sep 2026 16:52:07 +0530",
+        "description": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system that determines who may log in across a Linux domain",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
+        "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
+        "pubDate": "Tue, 08 Sep 2026 14:43:47 +0530",
+        "description": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), h",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
+        "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
+        "pubDate": "Tue, 08 Sep 2026 14:13:51 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
         "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
         "pubDate": "Tue, 08 Sep 2026 12:30:43 +0530",
         "description": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ da",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Webinar: The forgotten Google Workspace access that can lead to a breach",
+        "link": "https://www.bleepingcomputer.com/news/security/webinar-the-forgotten-google-workspace-access-that-can-lead-to-a-breach/",
+        "pubDate": "Tue, 08 Sep 2026 08:40:48 -0400",
+        "description": "Third-party applications connected to Google Workspace can retain access long after their original purpose is forgotten. This webinar examines how overly permissive integrations contribute to breaches and which security controls can help fast-growing",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers build AI frameworks for widescale credential theft",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-build-ai-frameworks-for-widescale-credential-theft/",
+        "pubDate": "Tue, 08 Sep 2026 08:03:03 -0400",
+        "description": "Threat actors are increasingly switching from AI-powered coding assistants to multi-agent frameworks that automate every stage of an attack. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft: Windows Server 2025 changes causing app crashes",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2025-changes-may-cause-app-crashes/",
+        "pubDate": "Tue, 08 Sep 2026 07:57:51 -0400",
+        "description": "Microsoft warned customers last week that they may experience application crashes on some Windows Server 2025 due to recent memory management changes. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
@@ -266,13 +336,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner",
-        "link": "https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html",
-        "pubDate": "Sun, 06 Sep 2026 14:04:20 +0530",
-        "description": "Elastic Security Labs has documented four previously unreported programs associated with REVSTEALER, an emerging Windows information stealer, that remain on an infected machine after the stealer deletes itself.\n\nOne of them switches off Windows Updat",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Attackers conceal phishing lures using invisible Unicode characters",
         "link": "https://www.bleepingcomputer.com/news/security/attackers-conceal-phishing-lures-using-invisible-unicode-characters/",
         "pubDate": "Sun, 06 Sep 2026 10:23:46 -0400",
@@ -280,45 +343,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores",
-        "link": "https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html",
-        "pubDate": "Sun, 06 Sep 2026 01:44:47 +0530",
-        "description": "Attackers are exploiting a new unpatched vulnerability in Magento Open Source and Adobe Commerce that lets them run malicious code on an online store's server without logging in, Dutch e-commerce security company Sansec said in an advisory published ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials",
-        "link": "https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html",
-        "pubDate": "Sat, 05 Sep 2026 22:22:33 +0530",
-        "description": "JetBrains is urging Cadence users to revoke and rotate all credentials following a security incident last month in which unidentified threat actors exploited a recently disclosed critical vulnerability in TeamCity to breach its own environment.\n\n\"Cad",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code",
-        "link": "https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html",
-        "pubDate": "Sat, 05 Sep 2026 21:35:08 +0530",
-        "description": "Broadcom has released security updates for two security flaws impacting VMware Workstation and Fusion, including one critical bug that could result in arbitrary code execution under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-59346 (C",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Trezor Says ShipMonk Breach Exposed 67,000 U.S. Customers' Data It Said Was Deleted",
-        "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
-        "pubDate": "Sat, 05 Sep 2026 19:47:02 +0530",
-        "description": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, sh",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Over 5,400 hacked sites serve ClickFix payloads stored on the blockchain",
         "link": "https://www.bleepingcomputer.com/news/security/over-5-400-hacked-sites-serve-clickfix-payloads-stored-on-the-blockchain/",
         "pubDate": "Sat, 05 Sep 2026 10:29:13 -0400",
         "description": "A massive cybercriminal operation is leveraging thousands of compromised small-business websites to deliver ClickFix payloads stored in smart contracts on the BNB Smart Chain (BSC). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenAI admits it didn't disclose rogue AI wiki hijacking incident",
-        "link": "https://www.bleepingcomputer.com/news/security/openai-admits-it-didnt-disclose-rogue-ai-wiki-hijacking-incident/",
-        "pubDate": "Sat, 05 Sep 2026 07:11:50 -0400",
-        "description": "OpenAI admits it did not disclose an incident where autonomous AI agents hijacked a German wiki, created 18,000 posts, shared answers, and bypassed restrictions, saying it treated the activity as model \"misalignment\" rather than a security breach. [.",
         "source": "BleepingComputer"
       },
       {
@@ -362,23 +390,23 @@
         "pubDate": "Mon, 07 Sep 2026 16:50:14 +0530",
         "description": "A TantoSec proof-of-concept turns an AES-CBC \"padding oracle\" in Telerik UI for ASP.NET AJAX into unauthenticated remote code execution — but only against applications in a specific non-default configuration, and Progress patched the chain in July. T",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw",
-        "link": "https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html",
-        "pubDate": "Mon, 07 Sep 2026 14:01:12 +0530",
-        "description": "Every on-premises N-central build below 2026.3.1.14 — including servers updated to Hotfix 3 a day earlier — needs Hotfix 4. N-able's incident notice says the flaw has been exploited in the wild; its release notes say that is unconfirmed.\n\nN-able has ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies",
-        "link": "https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html",
-        "pubDate": "Mon, 07 Sep 2026 13:23:04 +0530",
-        "description": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are protected with javascript-obfuscator, using multi",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
+        "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
+        "pubDate": "Tue, 08 Sep 2026 13:00:00 +0000",
+        "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
+        "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
+        "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
+        "description": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
         "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
@@ -471,18 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "XDOF, just 3 months out of stealth, is in talks for a Series B at a $1.2B valuation",
-        "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
-        "pubDate": "Fri, 04 Sep 2026 23:36:14 +0000",
-        "description": "The round is being raised just months after the robot data startup exited from stealth.",
-        "source": "TechCrunch"
+        "title": "Adobe is trying to make its AI generators idiot-proof in Premiere",
+        "link": "https://www.theverge.com/tech/991133/adobe-is-trying-to-make-its-ai-generators-idiot-proof-in-premiere",
+        "pubDate": "2026-09-08T09:00:00-04:00",
+        "description": "Adobe is overhauling how editors interact with AI in its Premiere professional video editing software. Its new Generative Media tool makes it easier to generate video, sound effects, music, and soundscapes without ever leaving the project timeline. T",
+        "source": "TheVerge"
       },
       {
-        "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-        "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
-        "pubDate": "Fri, 04 Sep 2026 23:15:11 +0000",
-        "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-        "source": "TechCrunch"
+        "title": "Apple says ‘Fold’ and competitors ask ‘how wide?’",
+        "link": "https://www.theverge.com/tech/991141/apple-first-foldable-iphone-launch-influence-john-ternus",
+        "pubDate": "2026-09-08T08:00:00-04:00",
+        "description": "Apple is almost certain to launch its first foldable iPhone tomorrow, seven years after Samsung's Galaxy Fold initially went on sale. And while Apple might be a few years late to the party, the run-up to this launch proves that new CEO John Ternus ha",
+        "source": "TheVerge"
+      },
+      {
+        "title": "LG TVs caught spying even when offline or on standby",
+        "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
+        "pubDate": "2026-09-08T07:30:05-04:00",
+        "description": "LG smart TVs are almost constantly logging and uploading data about owners and their homes, even when offline or on standby mode, according to a new report from YouTube channel Gamers Nexus. The company's TV sets scan Wi-Fi networks for nearby device",
+        "source": "TheVerge"
       },
       {
         "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
@@ -492,31 +527,10 @@
         "source": "TheVerge"
       },
       {
-        "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
+        "title": "Phone gaming is getting a huge graphics boost",
         "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
         "pubDate": "2026-09-07T22:00:00-04:00",
         "description": "China is getting first crack at a British technology that might change how mobile games are made and played. Today, the Xiaomi 18 Fold launches in mainland China with an Arm Mali G2-Ultra NX graphics processor inside its custom Xring O3 chip. What's ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Audi’s new A2 E-tron is its most affordable and efficient EV yet",
-        "link": "https://www.theverge.com/transportation/991081/audi-a2-etron-ev-specs-price",
-        "pubDate": "2026-09-07T16:03:41-04:00",
-        "description": "When shopping for an electric vehicle, affordability is becoming a more common trait. But affordable and energy efficient is truly a rare breed. Often you have to sacrifice one for the other. Want something affordable? Great, here's a range loser. Wa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Six years later, Sony revisits its legendary XM4 headphones",
-        "link": "https://www.theverge.com/tech/990687/sony-announces-xm4c-headphones",
-        "pubDate": "2026-09-07T12:00:00-04:00",
-        "description": "Six years ago Sony and Bose were in the middle of a noise-canceling battle, with each new model of headphones better than the last. In the fall of 2020, Sony released the WH-1000XM4 headphones to wide acclaim. They sat atop best headphones lists for ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "EcoFlow makes the miniature power station even smaller",
-        "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
-        "pubDate": "2026-09-07T10:59:41-04:00",
-        "description": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - st",
         "source": "TheVerge"
       }
     ],
