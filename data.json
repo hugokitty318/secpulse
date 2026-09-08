@@ -1,9 +1,72 @@
 {
-  "ts": "2026-09-08T04:28:57.450460Z",
+  "ts": "2026-09-08T09:04:55.797453Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "OpenVPN 修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
+        "title": "惡意軟體攻擊鎖定跨國企業的中國分公司，停用Windows更新及竄改系統內建防毒組態",
+        "link": "https://www.ithome.com.tw/news/178782",
+        "pubDate": "2026-09-08 16:58",
+        "description": "中國駭客組織Silver Fox疑似發起最新一波的惡意軟體攻擊，這次他們鎖定簡體中文使用者與跨國企業的中國分公司，藉此於受害電腦植入惡意軟體，並將其作為入侵企業組織的管道",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PEEP後門偽裝書籤擴充套件潛伏Chrome與Edge，可跨出瀏覽器執行系統命令",
+        "link": "https://www.ithome.com.tw/news/178779",
+        "pubDate": "2026-09-08 16:36",
+        "description": "後門程式PEEP偽裝成Chrome與Edge書籤擴充套件，可蒐集Cookie與瀏覽資料，並透過Chromium原生訊息機制連接主機程式，操作檔案與執行系統命令",
+        "source": "iThome資安"
+      },
+      {
+        "title": "後門程式ValleyRAT藉由經簽署的廣告軟體散布",
+        "link": "https://www.ithome.com.tw/news/178778",
+        "pubDate": "2026-09-08 15:41",
+        "description": "卡巴斯基揭露以廣告軟體挾帶後門程式ValleyRAT的活動，中國駭客組織Silver Fox濫用桌布管理工具QN Wallpaper，作為夾帶後門程式及執行側載的工具",
+        "source": "iThome資安"
+      },
+      {
+        "title": "內建4G LTE無線通訊模組，眾至推出新款小型多功能防火牆",
+        "link": "https://www.ithome.com.tw/review/178773",
+        "pubDate": "2026-09-08 14:53",
+        "description": "眾至資訊今年推出支援4G LTE行動寬頻網路的小型防火牆，能以尺寸更小的機箱，具備相近於既有HiGuard VI與HiGuard XI的網路安全功能與效能，可快速部署在多種場合的分支據點，同時提供VPN與防毒防駭等機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ConnectWise揭露ScreenConnect新漏洞，目前未有修補程式",
+        "link": "https://www.ithome.com.tw/news/178776",
+        "pubDate": "2026-09-08 14:51",
+        "description": "上週ConnectWise指出，遠端監控與管理平臺ScreenConnect的檔案傳輸機制存在弱點，該公司正著手開發修補程式，在此之前用戶應採取臨時緩解措施因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月8日，PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼",
+        "link": "https://www.ithome.com.tw/news/178775",
+        "pubDate": "2026-09-08 14:43",
+        "description": "PostgreSQL一項存在約12年的邏輯解碼漏洞CVE-2026-6471，可讓持有REPLICATION權限的帳號跨出資料庫權限範圍，在伺服器執行程式碼，還能將原有複寫帳號提升成資料庫超級使用者，取得所有資料庫權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "開源HPC排程器Slurm修補多項漏洞，雲端AI與HPC叢集需更新節點",
+        "link": "https://www.ithome.com.tw/news/178766",
+        "pubDate": "2026-09-08 13:36",
+        "description": "開源HPC排程器Slurm修補8項安全漏洞，涵蓋權限提升、容器檔案處理與服務崩潰，AWS確認ParallelCluster 3.16.0及更早版本受影響，Google Cloud則要求Cluster Toolkit舊節點更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Blockstream側鏈Liquid含重大漏洞，遭駭客搬走近4,000枚比特幣",
+        "link": "https://www.ithome.com.tw/news/178770",
+        "pubDate": "2026-09-08 13:25",
+        "description": "Blockstream開發的比特幣側鏈Liquid Network發生重大安全事件，攻擊者利用底層軟體Elements漏洞，在側鏈上產生無資產支持的L-BTC並贖回近4,000枚比特幣",
+        "source": "iThome資安"
+      },
+      {
+        "title": "甫修補的N-central資安漏洞疑似遭到利用",
+        "link": "https://www.ithome.com.tw/news/178768",
+        "pubDate": "2026-09-08 12:32",
+        "description": "Huntress週末更新部落格內容表示，9月5日N-able修補的3個N-central資安漏洞，都源自於已實際出現的攻擊行動調查結果，其中兩個可串連變成漏洞利用鏈",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenVPN修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
         "link": "https://www.ithome.com.tw/news/178767",
         "pubDate": "2026-09-08 12:11",
         "description": "OpenVPN修補軟體核心與Windows元件一系列漏洞，涵蓋連線與封包處理、檔案路徑管理與參數解析等問題，建議用戶更新至2.7.7版",
@@ -45,84 +108,49 @@
         "source": "iThome資安"
       },
       {
-        "title": "HiddenLayer獲得1億美元B輪融資，擴大AI代理執行階段安全防護",
-        "link": "https://www.ithome.com.tw/news/178726",
-        "pubDate": "2026-09-08 08:00",
-        "description": "HiddenLayer將持續擴充AI安全平臺，並投入工程、研究及業務拓展；今年也陸續加強AI代理執行期間的行為監控、威脅偵測及AI程式開發代理防護",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PQC導入TLS前後端落差大，來源伺服器支援率僅1成",
-        "link": "https://www.ithome.com.tw/news/178721",
-        "pubDate": "2026-09-08 08:00",
-        "description": "Cloudflare資料顯示，抵達其CDN、由一般使用者產生的HTTPS請求流量中，約7成已採用PQC混合式金鑰建立機制，但客戶來源伺服器支援比例僅約1成，顯示量子安全加密能力可能尚未涵蓋完整傳輸路徑",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Upwind傳獲3億美元新融資，估值升至38億美元並擴大AI安全布局",
-        "link": "https://www.ithome.com.tw/news/178730",
-        "pubDate": "2026-09-08 08:00",
-        "description": "雲端資安業者Upwind傳出取得新一輪融資，今年以來持續將既有執行階段安全能力延伸到AI環境，涵蓋AI資產盤點、工作負載防護，以及AI代理協助威脅調查與修復",
-        "source": "iThome資安"
-      },
-      {
-        "title": "G7籲政府與企業加快PQC轉型，公共採購也可納入量子安全要求",
-        "link": "https://www.ithome.com.tw/news/178742",
-        "pubDate": "2026-09-08 08:00",
-        "description": "除了盤點密碼學資產與排定轉型順序，G7網路安全工作小組也建議各國從研發、產業合作與公共採購著手，帶動PQC產品與服務供應，並協助組織推進自身營運環境的PQC轉型",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼",
-        "link": "https://www.ithome.com.tw/news/178756",
-        "pubDate": "2026-09-07 18:58",
-        "description": "PostgreSQL一項存在約12年的邏輯解碼漏洞，可讓持有REPLICATION權限的帳號跨出資料庫權限範圍，在伺服器執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露揭露NovaCookies網釣平臺，濫用DocuSign通知服務竊取Microsoft 365帳號",
-        "link": "https://www.ithome.com.tw/news/178758",
-        "pubDate": "2026-09-07 18:48",
-        "description": "新興訂閱制AiTM網釣服務鎖定數百個組織發動攻擊，利用真實DocuSign通知訊息誘導受害者登入Microsoft 365，藉此竊取登入驗證資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "疑似北韓駭客將後門植入負載平衡器HAProxy，可攔截流量並讓C2請求避開後端日誌",
-        "link": "https://www.ithome.com.tw/news/178748",
-        "pubDate": "2026-09-07 18:22",
-        "description": "負載平衡器HAProxy被植入Ted後門，攻擊者可竊取Cookie、修改網頁內容，並把負載平衡器當成C2通道，使控制指令不進後端伺服器日誌",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PaperCut零時差漏洞攻擊鎖定歐美學校",
-        "link": "https://www.ithome.com.tw/news/178755",
-        "pubDate": "2026-09-07 17:16",
-        "description": "資安公司Arctic Wolf發現最新一波PaperCut零時差漏洞利用活動，攻擊者利用CVE-2026-82078、CVE-2026-81578鎖定歐洲的大學與美國K-12學校，目的是搜刮這些教育機構的各式憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix NetScaler重大漏洞遭到利用",
-        "link": "https://www.ithome.com.tw/news/178750",
-        "pubDate": "2026-09-07 16:10",
-        "description": "漏洞威脅情報平臺Previdian警告，Citrix於8月下旬修補的NetScaler重大漏洞CVE-2026-19490已遭到利用，他們偵測到來自多個IP位址的漏洞利用活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "西雅圖時報與Newsday控告OpenAI、微軟，要求銷毀納入其新聞內容的AI模型",
-        "link": "https://www.ithome.com.tw/news/178753",
-        "pubDate": "2026-09-07  06:09:22",
-        "description": "美國媒體西雅圖時報與Newsday向紐約南區聯邦地方法院，控告OpenAI與微軟侵犯著作權，指控兩家公司未經授權使用新聞內容訓練AI，並在搜尋與生成回答時取用西雅圖時報與Newsday的報導。兩家媒體要求損害賠償、禁止被指控的侵權行為，並要求法院扣押或銷毀納入西雅圖時報與Newsday新聞內容或衍生內容的大型語言模型與訓練資料集。",
+        "title": "Insilico用AI找出可以逆轉老化的藥物",
+        "link": "https://www.ithome.com.tw/news/178771",
+        "pubDate": "2026-09-08  01:09:41",
+        "description": "專門以AI進行藥物研發的Insilico Medicine周一（9/7）發表了可逆轉生物年齡的新藥物Rentosertib，其研究成果並已登上鎖定以新技術改變生物學與醫學的旗艦月刊《Nature Biotechnology》。",
         "source": "iThome"
       },
       {
-        "title": "因應歐盟DPP，臺灣試行推動產品數位護照，開源DPP模組助企業接軌歐盟",
-        "link": "https://www.ithome.com.tw/news/178757",
-        "pubDate": "2026-09-07  06:09:16",
-        "description": "面對歐盟逐步推動產品數位護照（Digital Product Passport, DPP）制度，國內正加速建立產品生命週期資訊管理能力。環境部今天(9/7)與國內產業展示我國推動DPP4年試行成果，期望通過政府與產業合作，建立產品資訊蒐集、交換及應用模式。\n循環署署長賴瑩瑩指出，產品數位護照的核心並不是單純的揭露產品資訊，而是透過產品全生命週期資料，掌握產品從製造、使用、維修到回收再利用的完整價值鏈。相較過去以廢棄物處理為主的管理模式，未來的資源循環政策更重視產品前端設計，以及上下游供應鏈資訊串",
+        "title": "WordPress備份外掛存在SQL注入漏洞，逾500萬網站面臨接管風險",
+        "link": "https://www.ithome.com.tw/news/178769",
+        "pubDate": "2026-09-08  01:09:35",
+        "description": "資安業者Wordfence於9月1日發布報告，揭露擁有逾500萬安裝量的WordPress備份與搬移外掛All-in-One WP Migration and Backup存在高風險漏洞，可能導致攻擊者接管網站。",
+        "source": "iThome"
+      },
+      {
+        "title": "AI技能已成為進入瑞銀的必要條件",
+        "link": "https://www.ithome.com.tw/news/178772",
+        "pubDate": "2026-09-08  01:09:15",
+        "description": "英國金融時報（Financial Times，FT）本周引述消息來源報導，瑞銀集團（UBS Group AG，UBS）已全面要求新進人員必須具備AI使用能力，不管是實習生還是畢業生，成為首批明確要求初級銀行員必須具備AI素養的大型金融機構之一。\n根據報導，瑞銀將要求2027年加入其全球銀行與市場部門的應屆畢業生與實習生，得證明自己可用AI來提高業績與效率，也包括會在面試中加入AI熟練度的問題，以測試應徵者如何使用AI。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
+        "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 12:57:36 +0800",
+        "description": "AI 熱潮帶動全球能源消耗屢創新高，龐大的運算需求需要大量能源支撐，每當新的資料中心進駐社區，都會在當地居民間引發爭議。《TechRadar》報導，科學家似乎找到了一種可能大幅降低記憶體與資料儲存能源需求的方法。如果這項技術最終能夠實現，可能對未來的運算與 AI 產業帶來重大影響。 挑戰熱力學最低能耗：磁性記憶體技術有望逼近「蘭道爾極限」 蘇格蘭愛丁堡大學研究人員在《Advanced Materials》期刊發表論文，指出這項突破可能從根本上改變磁性記憶體的運作方式。現有磁性記憶體是透過切換狀態",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
+        "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 12:33:10 +0800",
+        "description": "新加坡 AI 公司 SIRAYA 宣布，正式成為台灣首家 PingCAP 旗下 TiDB 白金級合作夥伴，並取得 TiDB 進階託管服務供應商（Managed Service Provider, MSP）資格，將分散式資料庫納入既有 AI 基礎架構服務，從 AI 應用、雲端延伸至資料與營運，協助企業因應 AI 應用規模化帶來的基礎架構需求。 AI 應用加速　傳統資料庫成企業新瓶頸 當 AI 逐漸規模化落地，使用人數、交易量與資料寫入量同步成長，傳統資料庫面臨效能與擴充瓶頸。過去企業常透過「分片」",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
+        "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 08 Sep 2026 12:28:55 +0800",
+        "description": "Physical AI（實體 AI）可能成為下一個大型運算市場。Arm 實體 AI 執行副總裁（EVP, Physical AI）Drew Henry 在 Arm Everywhere China 會前媒體簡報會表示，Arm 估計目前實體 AI 的年度運算市場規模約 250 億美元，到了 2030 年代可能超過 2,000 億美元，甚至成為運算史上最大的市場之一。 但這塊市場要真正釋放，得先處理實體世界帶來的限制。Henry 特別點出兩項關鍵考量：延遲與重量。延遲是從感測器看見外界，到系統真正採",
+        "source": "TechOrange"
+      },
       {
         "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
         "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -206,30 +234,23 @@
         "pubDate": "Mon, 07 Sep 2026 10:50:28 +0800",
         "description": "「再好的技術，也並非人人都能取用。」HENNGE 董事長小椋一宏回憶 1996 年推出首款 Linux 伺服器時的體悟，這個初衷成為 HENNGE 30 年來發展的核心動力，不僅致力於研發技術，更專注於理解使用者痛點、搭起跨越應用鴻溝的橋樑。 如今邁入 2026 年，恰逢 HENNGE 在台灣深耕十週年，團隊一路見證在地企業從雲端轉型萌芽走向普及，資安威脅由外部病毒入侵演變成新型釣魚與內部外洩的雙重考驗。HENNGE 從初進台灣嘗試讀懂企業對於資安的需求，到以單一平台整合資安防護的陪跑員，協助企",
         "source": "TechOrange"
-      },
-      {
-        "title": "【首席 AI 官一年衝上 76%】CAIO 職稱未定、教材未成形，商學院已搶開 28,000 美元課程",
-        "link": "https://techorange.com/2026/09/07/course-for-an-ai-job/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 10:49:03 +0800",
-        "description": "根據 IBM Institute of Business Value 針對全球 2,000 名執行長的調查，一年之內，設有首席 AI 官（Chief AI Officer，CAIO）的企業比例從 26% 躍升至 76%，而且這波成長不只發生在 Meta、Salesforce 等科技公司，海尼根、Nike 等傳統企業也陸續跟進。 這些執行長預期，到 2030 年，近半數的營運決策將由 AI 自主完成，促使企業重新思考 C 級主管的組成，首席 AI 官因此從邊緣位置，快速被推上檯面。 商學院搶進市場",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 讓開發速度成基本籌碼，SaaS 與軟體業如何建立差異化護城河？",
-        "link": "https://techorange.com/2026/09/07/ai-software-services-saas-and-trust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 09:57:33 +0800",
-        "description": "當透過 AI 快速產出程式碼已經成為基本能力，當今企業買家對軟體供應商、SaaS 業者發出的提問，已經轉變為是否足夠了解客戶的產業，並把軟體給做對、做好？",
-        "source": "TechOrange"
-      },
-      {
-        "title": "生產排程不再是一張「死表格」：日立如何靠 AI 把交期砍半？",
-        "link": "https://techorange.com/2026/09/07/hitachi-ai-lumada/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 06:51:00 +0800",
-        "description": "日本科技與製造業巨頭日立（Hitachi）正透過組織重整與 AI 技術升級，加速轉型為「數位中心型企業」。 日立總裁兼 CEO Toshiaki Tokunaga 指出，AI 已從生成式（GenAI）、代理型（Agentic AI）邁入實體 AI（Physical AI）階段。日立聚焦將 IT、OT（營運技術）與實體產品串接，推動自研 AI Lumada 3.0 佈局，並實施「Customer Zero」策略：先在自家組織內驗證技術，再轉化為外部客戶的數位服務。 從靜態計畫到動態應變，Physi",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
+        "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
+        "pubDate": "Tue, 08 Sep 2026 12:30:43 +0530",
+        "description": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ da",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "220 million traveler records exposed in Vietnam-linked APIS leak",
+        "link": "https://www.bleepingcomputer.com/news/security/220-million-traveler-records-exposed-in-vietnam-linked-apis-leak/",
+        "pubDate": "Tue, 08 Sep 2026 03:35:50 -0400",
+        "description": "Exclusive: An exposed Advance Passenger Information System (APIS) database held 220 million passenger and crew records containing names, passport numbers, dates of birth, nationalities, and flight details spanning 2017 to 2026. Researchers accessed t",
+        "source": "BleepingComputer"
+      },
       {
         "title": "ChatGPT Astra is now rolling out to $20 Plus subscription",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/chatgpt-astra-is-now-rolling-out-to-20-plus-subscription/",
@@ -284,13 +305,6 @@
         "link": "https://thehackernews.com/2026/09/trezor-says-shipmonk-breach-exposed.html",
         "pubDate": "Sat, 05 Sep 2026 19:47:02 +0530",
         "description": "Hardware wallet manufacturer Trezor on Friday disclosed that another 67,000 customers from the U.S. have been impacted in a breach at its shipping provider ShipMonk.\n\nThe exposed information includes customer names, email addresses, phone numbers, sh",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel",
-        "link": "https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html",
-        "pubDate": "Sat, 05 Sep 2026 13:25:10 +0530",
-        "description": "A group of AI safety researchers says a fleet of autonomous agents that identified themselves as OpenAI systems left about 18,000 posts on a dormant 25-year-old German wiki between May and July 2026, using the site as a shared board to pool answers t",
         "source": "TheHackerNews"
       },
       {
@@ -362,13 +376,6 @@
         "pubDate": "Mon, 07 Sep 2026 13:23:04 +0530",
         "description": "Cybersecurity researchers have unpacked JSCeal, a sophisticated compiled V8 JavaScript (JSC) malware with credential harvesting, surveillance, and traffic-interception capabilities.\n\n\"The payloads are protected with javascript-obfuscator, using multi",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Magento StyleSmuggler zero-day exploited to deploy Linux backdoor",
-        "link": "https://www.bleepingcomputer.com/news/security/magento-stylesmuggler-zero-day-exploited-to-deploy-linux-backdoor/",
-        "pubDate": "Mon, 07 Sep 2026 12:50:29 -0400",
-        "description": "A zero-day vulnerability dubbed \"StyleSmuggler\" affecting all versions of Magento and Adobe Commerce is being exploited in attacks to deploy a backdoor. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -478,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Xiaomi’s wide foldable promises more power than Samsung’s",
+        "link": "https://www.theverge.com/tech/991008/xiaomi-18-fold-hands-on-impressions-specs-wide",
+        "pubDate": "2026-09-08T03:00:00-04:00",
+        "description": "Xiaomi is the latest manufacturer to release a short, wide foldable phone, in the week Apple is expected to do the same. I got to try the 18 Fold behind closed doors at IFA last week, and while it looks and feels similar enough to Samsung's Galaxy Z ",
+        "source": "TheVerge"
+      },
+      {
         "title": "First Xiaomi, then the world: why Arm might give phone gaming a huge graphics boost",
         "link": "https://www.theverge.com/games/990676/arm-neural-rendering-mali-g2-ultra-xiaomi-xring-o3",
         "pubDate": "2026-09-07T22:00:00-04:00",
@@ -503,13 +517,6 @@
         "link": "https://www.theverge.com/science/991033/ecoflow-makes-the-miniature-power-station-even-smaller",
         "pubDate": "2026-09-07T10:59:41-04:00",
         "description": "If you're in the market for a tiny power station that punches well above its size and weight then have a look at EcoFlow's new fourth-generation River series. The River 260 Gen4 features a 256Wh capacity battery while the 520 Gen4 packs in 512Wh - st",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The real reason your phone is getting more expensive",
-        "link": "https://www.theverge.com/tech/988225/ram-shortage-supply-chain-micron-apple-iphone",
-        "pubDate": "2026-09-07T08:00:00-04:00",
-        "description": "When Apple debuts the next generation of iPhones this week, they're likely to come with an unwanted change: a higher price tag. A price hike from the supply-chain powerhouse would be the clearest sign yet that soaring memory costs have become unavoid",
         "source": "TheVerge"
       }
     ],
