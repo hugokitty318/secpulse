@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-09T06:39:50.833906Z",
+  "ts": "2026-09-09T11:51:33.675799Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "新一波Shai-Hulud供應鏈攻擊再起，TanStack Query套件遭植入蠕蟲Trinitite",
+        "link": "https://www.ithome.com.tw/news/178830",
+        "pubDate": "2026-09-09 18:43",
+        "description": "每週下載量逾15萬次的程式碼產生工具遭供應鏈攻擊，攻擊者利用GitHub Actions發布流程植入蠕蟲，竊取開發者憑證並進一步感染其他套件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "數發部與八大部會啟動AI風險盤點，2027年前完成首輪法規調適",
+        "link": "https://www.ithome.com.tw/news/178826",
+        "pubDate": "2026-09-09 17:37",
+        "description": "數發部先與衛福部、法務部、經濟部、教育部、金管會、交通部、NCC、勞動部8個重點部會展開輔導，希望今年底完成8個重點部會4步驟盤點，並於2027年6月底前完成各部會第一輪法規調適盤點，未來配合AI基本法要求2年內完成相關法規修正及行政措施調整的目標。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "商周集團公告旗下網站遭到攻擊，網站與系統服務中斷",
+        "link": "https://www.ithome.com.tw/news/178827",
+        "pubDate": "2026-09-09 17:16",
+        "description": "今天商周集團於網站發布公告表示，該集團網站遭到攻擊，導致線上服務中斷，紙本雜誌出刊及配送不受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WeChat零點擊蠕蟲利用好友來電擴散，可跨iOS與Android接管帳號",
+        "link": "https://www.ithome.com.tw/news/178812",
+        "pubDate": "2026-09-09 16:24",
+        "description": "WeWorm零點擊蠕蟲利用WeChat通話漏洞，在手機響鈴期間接管帳號，再藉好友關係連續撥號擴散，攻擊鏈可跨iOS與Android",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Adobe發布9月第一次例行更新，呼籲用戶應優先安排修補ColdFusion、Campaign Classic",
+        "link": "https://www.ithome.com.tw/news/178820",
+        "pubDate": "2026-09-09 15:49",
+        "description": "本週Adobe針對旗下9款應用系統發布更新，其中他們將ColdFusion、Campaign Classic修補順序列為最優先層級，呼籲用戶應儘速安排套用相關更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國警告Windows、Magento、N-central漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/178814",
+        "pubDate": "2026-09-09 15:26",
+        "description": "美國網路安全與基礎設施安全局（CISA）表示，他們掌握Windows、Magento、N-central漏洞遭積極利用的跡象，要求聯邦機構在期限內完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月9日，微軟9月例行更新破紀錄！修補近1,000個自家產品漏洞",
+        "link": "https://www.ithome.com.tw/news/178813",
+        "pubDate": "2026-09-09 15:13",
+        "description": "在9月例行更新（Patch Tuesday）裡，微軟一口氣公布及修補974個自家產品的資安漏洞，若再加上25個第三方元件的弱點，總數量將直逼1,000個",
+        "source": "iThome資安"
+      },
       {
         "title": "McAfee揭露冒牌Minecraft網站持續散布惡意軟體WeedHack，C2遭封鎖仍難遏阻攻擊活動",
         "link": "https://www.ithome.com.tw/news/178811",
@@ -59,48 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "微軟9月例行更新破記錄！修補近1,000個自家產品漏洞",
-        "link": "https://www.ithome.com.tw/news/178797",
-        "pubDate": "2026-09-09 10:59",
-        "description": "在9月例行更新（Patch Tuesday）裡，微軟一口氣公布及修補974個自家產品的資安漏洞，若再加上25個第三方元件的弱點，總數量將直逼1,000個",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google推出Chrome 153，修補230個漏洞，其中包含V8零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/178795",
-        "pubDate": "2026-09-09 10:36",
-        "description": "本週Google正式推出Chrome 153，一口氣修補多達230個弱點，其中最值得留意的是V8零時差漏洞CVE-2026-87491，該公司表示已遭利用，用戶應儘速更新因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟提高Exchange Online版本門檻，Exchange 2016、2019寄信恐受限",
-        "link": "https://www.ithome.com.tw/news/178777",
-        "pubDate": "2026-09-09 08:00",
-        "description": "微軟9月第二週起提高Exchange Server 2016與2019連接Exchange Online的最低版本要求，未更新至2025年10月最後公開版本的企業，郵件傳送可能受到限制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業如何排定PQC轉型優先順序？系統風險、影響與轉型難度都要評估",
-        "link": "https://www.ithome.com.tw/news/178723",
-        "pubDate": "2026-09-09 08:00",
-        "description": "澳洲通訊局（ASD）建議，企業完成系統與資料盤點評估後，應依量子威脅曝險程度、業務重要性與實際調整限制，決定哪些系統需要優先進行PQC轉型，並作為後續落實系統與平臺調整工作的依據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美加法院案件管理平臺資料外洩，敏感個資與機密資料恐受影響",
-        "link": "https://www.ithome.com.tw/news/178774",
-        "pubDate": "2026-09-09 08:00",
-        "description": "Thomson Reuters旗下法院案件管理平臺C-Track發生資料外洩，有第三方未經授權取得部分法院檔案，目前已知事件至少波及美國12州、美屬維京群島及加拿大安大略省法院",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google擴大Android數位憑證布局，迎接歐盟數位身分錢包部署",
-        "link": "https://www.ithome.com.tw/news/178761",
-        "pubDate": "2026-09-09 08:00",
-        "description": "隨著歐盟推進數位身分錢包部署，Google將原本著重Android裝置硬體安全的Android Ready SE聯盟，擴大為Android數位憑證聯盟，合作範圍進一步涵蓋數位身分錢包開發者與政府憑證核發單位",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI宣稱其AI系統解出了七大千禧年數學難題之一",
         "link": "https://www.ithome.com.tw/news/178803",
         "pubDate": "2026-09-09  12:09:42",
@@ -108,17 +115,10 @@
         "source": "iThome"
       },
       {
-        "title": "DeepMind預先計算90億種DNA變異，建立1PB AlphaGenome Atlas預測資料集",
-        "link": "https://www.ithome.com.tw/news/178799",
-        "pubDate": "2026-09-09  11:09:24",
-        "description": "Google DeepMind發布AlphaGenome Atlas，預先計算人類基因組約90億種可能的單一核苷酸變異，建立約1PB的變異預測資料集。研究人員可透過網站與API查詢DNA變異可能造成的分子影響，不必針對每項變異執行AlphaGenome模型。",
-        "source": "iThome"
-      },
-      {
-        "title": "原估需數年，Claude多代理系統11天完成費馬最後定理形式化證明",
-        "link": "https://www.ithome.com.tw/news/178794",
-        "pubDate": "2026-09-09  09:09:54",
-        "description": "Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude Code為基礎的多代理系統花11天，第一次完成可由Lean證明助理從頭到尾檢查的形式化證明。整項工程產生約1,300萬行Lean程式碼，完成30,300項定理證明，最終證明使用29,500項。",
+        "title": "澳洲提議要求社交平臺強制開放演算法自主選擇權",
+        "link": "https://www.ithome.com.tw/news/178824",
+        "pubDate": "2026-09-09  04:09:06",
+        "description": "澳洲艾班尼斯政府（Albanese Government）周二（9/8）公布《數位注意義務》（Digital Duty of Care）草案，祭出全球罕見的「我的動態，我的選擇」（My Feed, My Way）新制，強制社交平臺賦予用戶自主掌控演算法的權利，並對違規企業開罰最高1.092億澳元（約新臺幣22.8億元）的天價罰款。",
         "source": "iThome"
       },
       {
@@ -127,16 +127,16 @@
         "pubDate": "2026-09-09  01:09:30",
         "description": "Meta周二（9/8）發表專為大眾打造的個人AI助理Muse。不同於傳統僅能回答問題的聊天機器人，Muse具備實際執行任務的能力，能協助用戶處理日常事務、分擔專案工作，並將長期目標轉化為具體行動計畫。\nMuse奠基在Muse Spark模型上。每位使用者在雲端擁有專屬的Muse Secure VM，裡面存放代理程式、個人資料與連接憑證；同時存在一個獨立的Sentinel代理於系統層面監督Muse對外執行的動作，只有在取得用戶同意或授權後才會執行。",
         "source": "iThome"
-      },
-      {
-        "title": "Palo Alto Networks揭露攻擊者利用AI代理在10小時內攻破企業網路，竊取root憑證",
-        "link": "https://www.ithome.com.tw/news/178792",
-        "pubDate": "2026-09-08 18:44",
-        "description": "攻擊者以人工設定目標、AI代理執行戰術的方式，加速偵察、竊取憑證及橫向移動等入侵流程",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "Meta 推出專屬 AI 代理 Muse：主打「第二大腦」，內部實測卻踩安全隱憂",
+        "link": "https://techorange.com/2026/09/09/ai-meta-muse-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 13:06:48 +0800",
+        "description": "Meta 推出全新的 AI 代理 Muse，能代替使用者處理各種日常工作，實現 Facebook 共同創辦人、Meta 執行長 Mark Zuckerberg 所構想的未來：每個人都能擁有一名專屬的 AI 助理。 Meta 表示，Muse 能讓使用者依照自己的喜好打造專屬代理，包括替它命名、設定頭像，以及調整溝通方式。使用者還可以讓 Muse 連接電子郵件、健身追蹤器等 App；即使關閉應用程式，Muse 仍能在背景持續執行任務，協助使用者完成原本設定的目標。 Meta 開發個人 AI 代理，搶",
+        "source": "TechOrange"
+      },
       {
         "title": "ChatGPT 廣告營收破 10 億！為什麼「搜尋入口」最後都走上廣告這條路？",
         "link": "https://techorange.com/2026/09/09/chatgptads-openai-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -234,16 +234,65 @@
         "pubDate": "Tue, 08 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI「AI 研究實習生」達標，首席科學家警告 AI 推理愈來愈難監控 OpenAI 表示，已達成原訂今年 9 月完成「自動化 AI 研究實習生」的目標。這類系統能在人類指導下執行範圍明確的研究任務，包括原本需要熟練研究人員花費數天才能完成的工作；下一個目標則是在 2028 年 3 月建立能在人類監督下工作的自動化 AI 研究員。截至 8 月中，OpenAI 研究團隊每投入一個人類工作日，已搭配相當於 3.1 個工作日的代理運算時間，但研",
         "source": "TechOrange"
-      },
-      {
-        "title": "原本用來攻擊 AI，現在拿來躲郵件偵測：「ASCII 走私」隱形字元攻擊單日逾 230 萬封",
-        "link": "https://techorange.com/2026/09/07/ascii-smuggling-ai-prompt-injection-phishing-evasion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 17:10:35 +0800",
-        "description": "收件匣裡出現一封看似普通的融資郵件，內文寫著「funding」。收件人看到的仍是完整單字，但攻擊者其實在 fun 和 ding 之間插入一個肉眼看不見的 Unicode 字元。畫面上看起來沒有差別，安全系統實際讀到的文字卻已經不同，可能因此影響垃圾與釣魚郵件的判讀。 微軟 Security Research 9 月 3 日公布研究指出，今年 2 月採用這類隱形字元的相關郵件，從單日約 2.1 萬封迅速暴增至逾 130 萬封，高峰一天更超過 230 萬封，高流量活動持續約 3 個月。這波郵件多以商",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
+        "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
+        "pubDate": "Wed, 09 Sep 2026 16:47:07 +0530",
+        "description": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent's commands inside an operating-system sandbox",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
+        "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
+        "pubDate": "Wed, 09 Sep 2026 16:13:04 +0530",
+        "description": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet.\n\nAlby Hub is a self-hosted Lightning w",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
+        "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
+        "pubDate": "Wed, 09 Sep 2026 15:02:26 +0530",
+        "description": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attack",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
+        "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
+        "pubDate": "Wed, 09 Sep 2026 14:41:03 +0530",
+        "description": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been d",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
+        "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
+        "pubDate": "Wed, 09 Sep 2026 13:49:32 +0530",
+        "description": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, r",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
+        "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+        "pubDate": "Wed, 09 Sep 2026 13:06:49 +0530",
+        "description": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7.\n\nWhen Apache loads any of the three appliances' own PHP scrip",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
+        "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
+        "pubDate": "Wed, 09 Sep 2026 12:17:27 +0530",
+        "description": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), al",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
+        "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
+        "pubDate": "Wed, 09 Sep 2026 11:55:45 +0530",
+        "description": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application\n",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
         "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
@@ -257,6 +306,27 @@
         "pubDate": "Wed, 09 Sep 2026 09:57:51 +0530",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) age",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+        "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400",
+        "description": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+        "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+        "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400",
+        "description": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+        "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+        "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400",
+        "description": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Google warns of new Chrome zero-day bug exploited in attacks",
@@ -306,83 +376,6 @@
         "pubDate": "Tue, 08 Sep 2026 17:24:29 +0530",
         "description": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "What It Took to Reach 1 Billion Build Manifests",
-        "link": "https://thehackernews.com/2026/09/what-it-took-to-reach-1-billion-build.html",
-        "pubDate": "Tue, 08 Sep 2026 17:19:02 +0530",
-        "description": "In the last six months, Chainguard doubled its output from 500 million to more than 1 billion container build manifests. We also surpassed 3,000 unique container images and 675,000 image versions in our catalog. Those are the headline numbers, but I ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials",
-        "link": "https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html",
-        "pubDate": "Tue, 08 Sep 2026 16:52:07 +0530",
-        "description": "A flaw in FreeIPA lets a client that has never logged in create a Kerberos identity of its own choosing in the directory and end up in the administrators group, Red Hat says.\n\nFreeIPA is the system that determines who may log in across a Linux domain",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "DoppelCart fraud network uses 119,000 fake shops to steal credit cards",
-        "link": "https://www.bleepingcomputer.com/news/security/doppelcart-fraud-network-uses-119-000-fake-shops-to-steal-credit-cards/",
-        "pubDate": "Tue, 08 Sep 2026 16:35:14 -0400",
-        "description": "A massive operation dubbed \"DoppelCart\" uses more than 119,000 domains to run a network of fake e-shops that steal payment card details. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "The EU CRA's Real Question: What Shipped, and When Did You Know?",
-        "link": "https://www.bleepingcomputer.com/news/security/the-eu-cras-real-question-what-shipped-and-when-did-you-know/",
-        "pubDate": "Tue, 08 Sep 2026 16:24:16 -0400",
-        "description": "The EU Cyber Resilience Act's vulnerability reporting requirements take effect September 11, giving software vendors as little as 24 hours to report actively exploited flaws. ActiveState explains why knowing exactly what shipped and when vulnerabilit",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers breach F5 BIG-IP APM devices to deploy Linux rootkit",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-f5-big-ip-apm-devices-to-deploy-linux-rootkit/",
-        "pubDate": "Tue, 08 Sep 2026 16:08:55 -0400",
-        "description": "A Linux rootkit targeting devices in F5 BIG-IP APM environments can intercept PHP file loading and inject a fileless web shell directly into memory, avoiding the need to write malicious code to disk. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft releases Windows 10 KB5122878 extended security update",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5122878-extended-security-update/",
-        "pubDate": "Tue, 08 Sep 2026 14:49:19 -0400",
-        "description": "Microsoft has released the Windows 10 KB5122878 extended security update, which includes this month's record-breaking September 2026 Patch Tuesday fixes, along with a few bug fixes. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell",
-        "link": "https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html",
-        "pubDate": "Tue, 08 Sep 2026 14:43:47 +0530",
-        "description": "Adobe on Monday released security patches to address a maximum-severity flaw impacting Adobe Commerce and Magento Open Source that has come under active exploitation in the wild.\n\nThe vulnerability, now tracked as CVE-2026-75650 (CVSS score: 10.0), h",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft September 2026 Patch Tuesday fixes 966 flaws, 2 zero-days",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
-        "pubDate": "Tue, 08 Sep 2026 14:18:05 -0400",
-        "description": "Today is Microsoft's September 2026 Patch Tuesday, with security updates released for a record-breaking 966 flaws, including two actively exploited zero-day vulnerabilities. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams",
-        "link": "https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html",
-        "pubDate": "Tue, 08 Sep 2026 14:13:51 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a sprawling search engine optimization (SEO) poisoning campaign that paves the way for malware deployment and tech support scams.\n\nThe campaign, discovered by the DFIR Report in March 2026, has been",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Windows 11 cumulative updates KB5124008 & KB5122880 released",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-cumulative-updates-kb5124008-and-kb5122880-released/",
-        "pubDate": "Tue, 08 Sep 2026 13:57:03 -0400",
-        "description": "Microsoft has released Windows 11 KB5124008 and KB5122880 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ShinyHunters hackers claim breach of Florida \"DAVID\" DMV database",
-        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hackers-claim-breach-of-florida-david-dmv-database/",
-        "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400",
-        "description": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -492,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
+        "pubDate": "2026-09-09T05:56:28-04:00",
+        "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly r",
+        "source": "TheVerge"
+      },
+      {
         "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
         "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
         "pubDate": "2026-09-09T01:26:53-04:00",
@@ -517,13 +517,6 @@
         "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
         "pubDate": "2026-09-08T16:46:56-04:00",
         "description": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable b",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Razer’s ANC-equipped gaming headset for PS5 and Xbox is almost $100 off",
-        "link": "https://www.theverge.com/gadgets/991653/razer-blackshark-v3-pro-gaming-headset-anc-deal-sale",
-        "pubDate": "2026-09-08T16:39:49-04:00",
-        "description": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbo",
         "source": "TheVerge"
       }
     ],
