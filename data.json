@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-08T22:57:49.228619Z",
+  "ts": "2026-09-09T01:13:33.657885Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "企業如何排定PQC轉型優先順序？系統風險、影響與轉型難度都要評估",
+        "link": "https://www.ithome.com.tw/news/178723",
+        "pubDate": "2026-09-09 08:00",
+        "description": "澳洲通訊局（ASD）建議，企業完成系統與資料盤點評估後，應依量子威脅曝險程度、業務重要性與實際調整限制，決定哪些系統需要優先進行PQC轉型，並作為後續落實系統與平臺調整工作的依據",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟提高Exchange Online版本門檻，Exchange 2016、2019寄信恐受限",
+        "link": "https://www.ithome.com.tw/news/178777",
+        "pubDate": "2026-09-09 08:00",
+        "description": "微軟9月第二週起提高Exchange Server 2016與2019連接Exchange Online的最低版本要求，未更新至2025年10月最後公開版本的企業，郵件傳送可能受到限制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美加法院案件管理平臺資料外洩，敏感個資與機密資料恐受影響",
+        "link": "https://www.ithome.com.tw/news/178774",
+        "pubDate": "2026-09-09 08:00",
+        "description": "Thomson Reuters旗下法院案件管理平臺C-Track發生資料外洩，有第三方未經授權取得部分法院檔案，目前已知事件至少波及美國12州、美屬維京群島及加拿大安大略省法院",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google擴大Android數位憑證布局，迎接歐盟數位身分錢包部署",
+        "link": "https://www.ithome.com.tw/news/178761",
+        "pubDate": "2026-09-09 08:00",
+        "description": "隨著歐盟推進數位身分錢包部署，Google將原本著重Android裝置硬體安全的Android Ready SE聯盟，擴大為Android數位憑證聯盟，合作範圍進一步涵蓋數位身分錢包開發者與政府憑證核發單位",
+        "source": "iThome資安"
+      },
+      {
+        "title": "原估需數年，Claude多代理系統11天完成費馬最後定理形式化證明",
+        "link": "https://www.ithome.com.tw/news/178794",
+        "pubDate": "2026-09-09  09:09:54",
+        "description": "Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude Code為基礎的多代理系統花11天，第一次完成可由Lean證明助理從頭到尾檢查的形式化證明。整項工程產生約1,300萬行Lean程式碼，完成30,300項定理證明，最終證明使用29,500項。",
+        "source": "iThome"
+      },
       {
         "title": "Palo Alto Networks揭露攻擊者利用AI代理在10小時內攻破企業網路，竊取root憑證",
         "link": "https://www.ithome.com.tw/news/178792",
@@ -80,34 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "解決企業AI導入兩難，中華資安推出自研產品AI Archway，內建市場少見的可逆式脫敏機制",
-        "link": "https://www.ithome.com.tw/news/178752",
-        "pubDate": "2026-09-08 11:25",
-        "description": "全面禁用AI恐扼殺生產力並衍生Shadow AI，全面開放又面臨機敏外洩風險，面對此一兩難，中華資安國際於7月推出首款自研AI Security解決方案——AI安檢通道（AI Archway），為國內企業增添更多本土防護方案選擇，當中更具備市場少見的可逆脫敏機制，能將送往外部AI的敏感資料轉為代碼遮罩，待結果回傳後再自動還原，並提供辨識企業專屬機密的AI DLP自定義訓練等功能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Keycloak存在重大密碼重設漏洞，恐導致攻擊者接管帳號",
-        "link": "https://www.ithome.com.tw/news/178764",
-        "pubDate": "2026-09-08 11:13",
-        "description": "開源身分與存取管理伺服器Keycloak存在繞過身分驗證程序問題，攻擊者可繞過驗證郵件、重設任意用戶密碼進而接管帳號",
-        "source": "iThome資安"
-      },
-      {
-        "title": "N-able一天內發布兩次N-central更新，緊急修補危險程度滿分的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/178763",
-        "pubDate": "2026-09-08 10:19",
-        "description": "上週末N-able發布更新，修補遠端監控與管理平臺N-central漏洞CVE-2026-86206、CVE-2026-86207、CVE-2026-86218，呼籲用戶應儘速套用更新因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "富爾特子公司格帝控股遭勒索軟體攻擊，ERP等系統一度無法運作",
-        "link": "https://www.ithome.com.tw/news/178762",
-        "pubDate": "2026-09-08 10:05",
-        "description": "上市公司富爾特（6136）發布資安重訊，表示旗下的格帝控股因遭到勒索病毒攻擊，致使包含ERP在內的部分資訊系統無法正常運作，資安團隊已啟動資安應變機制，並著手復原",
-        "source": "iThome資安"
-      },
-      {
         "title": "台灣大哥大發表MyAgent平臺，加速從AI助理走向數位員工",
         "link": "https://www.ithome.com.tw/news/178790",
         "pubDate": "2026-09-08  06:09:58",
@@ -122,20 +129,6 @@
         "source": "iThome"
       },
       {
-        "title": "Insilico用AI找出可以逆轉老化的藥物",
-        "link": "https://www.ithome.com.tw/news/178771",
-        "pubDate": "2026-09-08  01:09:41",
-        "description": "專門以AI進行藥物研發的Insilico Medicine周一（9/7）發表了可逆轉生物年齡的新藥物Rentosertib，其研究成果並已登上鎖定以新技術改變生物學與醫學的旗艦月刊《Nature Biotechnology》。",
-        "source": "iThome"
-      },
-      {
-        "title": "WordPress備份外掛存在SQL注入漏洞，逾500萬網站面臨接管風險",
-        "link": "https://www.ithome.com.tw/news/178769",
-        "pubDate": "2026-09-08  01:09:35",
-        "description": "資安業者Wordfence於9月1日發布報告，揭露擁有逾500萬安裝量的WordPress備份與搬移外掛All-in-One WP Migration and Backup存在高風險漏洞，可能導致攻擊者接管網站。",
-        "source": "iThome"
-      },
-      {
         "title": "AI技能已成為進入瑞銀的必要條件",
         "link": "https://www.ithome.com.tw/news/178772",
         "pubDate": "2026-09-08  01:09:15",
@@ -144,6 +137,20 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "告別貨架缺貨痛點：美英零售巨頭導入 AI，Homebase 盤點時間砍掉逾 2 天",
+        "link": "https://techorange.com/2026/09/09/ai-powered-cameras-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 06:37:00 +0800",
+        "description": "實體零售的缺貨問題，往往發生在消費者走進店裡之後才被發現。貨架上少了一個商品、價格標籤沒有更新、庫存數字與現場數量對不上，都可能直接影響銷售。對擁有數百甚至上千家門市的零售商而言，若依靠店員逐一巡查與人工盤點，不僅耗費大量時間，也很難維持即時且一致的庫存資訊。 近期英國超市巨頭 Asda、美國超市龍頭 Kroger，以及農牧五金連鎖 Homebase USA，正透過 AI 影像技術與巡檢機器人，把貨架管理進一步自動化。 Asda 告別轉型陣痛，讓「貨架供貨率」帶動營運回升 英國第三大超市 Asd",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Arm 估實體 AI 市場突破 2,000 億美元，OpenAI、Google 更新潮帶來「模型疲勞」",
+        "link": "https://techorange.com/2026/09/09/arm-physical-ai-market-model-fatigue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Arm 集結逾 80 家企業，估實體 AI 市場將突破 2,000 億美元 晶片架構業者安謀（Arm）擴大實體 AI 布局，推出 Arm Total Design for Physical AI，集結 AWS、Hugging Face、西門子（Siemens）、恩智浦（NXP）及宇樹科技（Unitree Robotics）等超過 80 家企業，共同整合 AI 模型、軟體、感測器及運算硬體。Arm 估計，實體 AI 年度運算市場目前約為 250 ",
+        "source": "TechOrange"
+      },
       {
         "title": "9% 作弊、24% 吹哨：DeepMind 揭 AI 代理的「自我治理」為何仍不夠？",
         "link": "https://techorange.com/2026/09/08/openai-deepminds-cheating-math-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -233,20 +240,6 @@
         "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 07 Sep 2026 12:57:18 +0800",
         "description": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 OpenAI 一批 AI Agent 在內部資安測試期間自行交換資訊、突破網路限制，最後進入 AI 平",
-        "source": "TechOrange"
-      },
-      {
-        "title": "UBS 把 AI 能力列入新人門檻，定調 AI 是賦能而非取代",
-        "link": "https://techorange.com/2026/09/07/ubs-global-ai-career-early/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 12:39:03 +0800",
-        "description": "UBS（Union Bank of Switzerland）將 AI 能力納入初階投資銀行職缺的招募條件，顯示隨著 AI 加速導入金融業，歐洲大型銀行也開始重新調整畢業生的招募標準。 《Financial Times》報導，據知情人士透露，UBS 要求預計在 2027 年加入全球銀行與市場業務部門的畢業生及實習生，必須具備運用 AI 提升工作成果與效率的能力。這項新要求將與學歷等傳統招聘條件並列，例如申請者須預計取得英國制 2.1 學士學位。此舉也讓 UBS 成為最早一批明確要求初階銀行員具備 ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "從 Security by Default 到持續合規治理 叡揚資訊打造 CRA 產品全生命週期安全治理架構",
-        "link": "https://techorange.com/2026/09/07/gss-cra-sbom-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 11:17:47 +0800",
-        "description": "隨著歐盟《網路韌性法案》（Cyber Resilience Act, CRA）相關通報義務自 2026 年 9 月 11 日起開始適用，企業的 CRA 準備工作也正從法規盤點，進一步進入流程建置與實際執行階段。叡揚資訊日前攜手台灣區電機電子工業同業公會舉辦「因應歐盟韌性法案（CRA）最新要求：產品安全治理與合規實務研討會」，邀集 SGS 台灣檢驗科技、英能科技共同探討 CRA 對產品安全、軟體開發與供應鏈治理所帶來的實務挑戰，從 SGS 產品檢驗與合規驗證（Verification of Com",
         "source": "TechOrange"
       }
     ],
@@ -394,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
+        "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
+        "pubDate": "Tue, 08 Sep 2026 23:23:23 +0000",
+        "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Hackers are stealing Claude tokens from subscribers",
         "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
         "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
@@ -492,13 +492,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Eric Wu’s newest company, out of stealth since May, is going after construction’s labor crunch",
-        "link": "https://techcrunch.com/2026/09/07/eric-wus-newest-company-out-of-stealth-since-may-is-going-after-constructions-labor-crunch/",
-        "pubDate": "Tue, 08 Sep 2026 02:16:39 +0000",
-        "description": "Eric Wu, who built and ran Opendoor before stepping away in 2022, has had his new company, NavigateAI, out of stealth since May — building AI copilots that give construction workers real-time, hands-free guidance through smartphones and Meta's AI gla",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Sony isn’t phasing out discs quite as quickly as we thought",
         "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
         "pubDate": "2026-09-08T17:52:13-04:00",
@@ -513,7 +506,7 @@
         "source": "TheVerge"
       },
       {
-        "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+        "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
         "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
         "pubDate": "2026-09-08T16:46:56-04:00",
         "description": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable b",
