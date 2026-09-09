@@ -1,12 +1,75 @@
 {
-  "ts": "2026-09-09T01:13:33.657885Z",
+  "ts": "2026-09-09T06:39:50.833906Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "企業如何排定PQC轉型優先順序？系統風險、影響與轉型難度都要評估",
-        "link": "https://www.ithome.com.tw/news/178723",
-        "pubDate": "2026-09-09 08:00",
-        "description": "澳洲通訊局（ASD）建議，企業完成系統與資料盤點評估後，應依量子威脅曝險程度、業務重要性與實際調整限制，決定哪些系統需要優先進行PQC轉型，並作為後續落實系統與平臺調整工作的依據",
+        "title": "McAfee揭露冒牌Minecraft網站持續散布惡意軟體WeedHack，C2遭封鎖仍難遏阻攻擊活動",
+        "link": "https://www.ithome.com.tw/news/178811",
+        "pubDate": "2026-09-09 14:35",
+        "description": "攻擊者利用假冒遊戲用戶端網站及Discord等服務，繼續散播惡意軟體，McAfee過去1個月已攔截逾6,300次惡意網站存取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ChatGPT跨帳號隔離遭突破，惡意提示可借用受害者權限存取外部資料",
+        "link": "https://www.ithome.com.tw/news/178808",
+        "pubDate": "2026-09-09 13:16",
+        "description": "ChatGPT不同帳號的沙箱可透過共用內部服務交換資料，惡意提示能把通道變成隱藏任務管道，借用受害者ChatGPT可用的資料、工具與連接App權限，存取對話、檔案與Gmail等內容",
+        "source": "iThome資安"
+      },
+      {
+        "title": "銀行迎戰虛擬資產新業務，資安業者共組「穩定幣暨虛擬資產安全聯盟」，協助打造自主可控數位金融安全",
+        "link": "https://www.ithome.com.tw/news/178804",
+        "pubDate": "2026-09-09 12:53",
+        "description": "隨著《虛擬資產服務法》三讀通過並正式公布，台灣虛擬資產監理架構邁入新階段，金融機構如何安全接軌穩定幣與數位資產應用，成為當前產業關注焦點。台灣資訊安全協會昨日（9月8日）宣布成立「穩定幣暨虛擬資產安全聯盟」，首波集結中華資安國際、博士旺創新、凱特納科技與普鴻資訊4家業者，串起金鑰治理、資產保管、鏈上交易安全到SOC監控，期望協助國內VASP建立自主可控、具國際競爭力的數位金融安全生態圈",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Adobe修補Magento零時差漏洞StyleSmuggler",
+        "link": "https://www.ithome.com.tw/news/178807",
+        "pubDate": "2026-09-09 12:40",
+        "description": "本週Adobe針對電商平臺Magento、Adobe Commerce，修補已遭利用的零時差漏洞StyleSmuggler，並將其登記為CVE-2026-75650",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安業者揭露逾9,300個外洩AWS金鑰仍可用，其中數百個具備企業帳號完整控制權限",
+        "link": "https://www.ithome.com.tw/news/178805",
+        "pubDate": "2026-09-09 12:25",
+        "description": "研究人員發現大量AWS存取金鑰外洩多年仍未撤銷，其中768個企業金鑰具備完整管理權限，最大洩漏來源為Hugging Face公開資料集",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SAP發布9月例行更新，修補4個重大漏洞",
+        "link": "https://www.ithome.com.tw/news/178801",
+        "pubDate": "2026-09-09 11:53",
+        "description": "本週SAP發布9月例行更新（Security Patch Day），一共修補19個弱點，其中4個為重大等級，影響Extended Passport（EPP）、NetWeaver，以及Cloud Application Programming Model（CAP）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟修補Windows更新元件與ALPC的零時差漏洞，並指出已被用於實際攻擊",
+        "link": "https://www.ithome.com.tw/news/178800",
+        "pubDate": "2026-09-09 11:42",
+        "description": "微軟在9月例行更新（Patch Tuesday）修補的資安弱點當中，有兩個權限提升漏洞CVE-2026-81963、CVE-2026-85880特別值得留意，因為已偵測到實際遭利用的情形",
+        "source": "iThome資安"
+      },
+      {
+        "title": "HPE修補ArubaOS-CX網路作業系統34個資安漏洞，包含可導致遠端程式碼執行的重大漏洞",
+        "link": "https://www.ithome.com.tw/news/178798",
+        "pubDate": "2026-09-09 11:00",
+        "description": "HPE針對企業交換器使用的ArubaOS-CX平臺發布更新，影響多款CX系列交換器產品，其中最嚴重漏洞可能導致遠端攻擊者提升權限並執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟9月例行更新破記錄！修補近1,000個自家產品漏洞",
+        "link": "https://www.ithome.com.tw/news/178797",
+        "pubDate": "2026-09-09 10:59",
+        "description": "在9月例行更新（Patch Tuesday）裡，微軟一口氣公布及修補974個自家產品的資安漏洞，若再加上25個第三方元件的弱點，總數量將直逼1,000個",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google推出Chrome 153，修補230個漏洞，其中包含V8零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/178795",
+        "pubDate": "2026-09-09 10:36",
+        "description": "本週Google正式推出Chrome 153，一口氣修補多達230個弱點，其中最值得留意的是V8零時差漏洞CVE-2026-87491，該公司表示已遭利用，用戶應儘速更新因應",
         "source": "iThome資安"
       },
       {
@@ -14,6 +77,13 @@
         "link": "https://www.ithome.com.tw/news/178777",
         "pubDate": "2026-09-09 08:00",
         "description": "微軟9月第二週起提高Exchange Server 2016與2019連接Exchange Online的最低版本要求，未更新至2025年10月最後公開版本的企業，郵件傳送可能受到限制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業如何排定PQC轉型優先順序？系統風險、影響與轉型難度都要評估",
+        "link": "https://www.ithome.com.tw/news/178723",
+        "pubDate": "2026-09-09 08:00",
+        "description": "澳洲通訊局（ASD）建議，企業完成系統與資料盤點評估後，應依量子威脅曝險程度、業務重要性與實際調整限制，決定哪些系統需要優先進行PQC轉型，並作為後續落實系統與平臺調整工作的依據",
         "source": "iThome資安"
       },
       {
@@ -31,10 +101,31 @@
         "source": "iThome資安"
       },
       {
+        "title": "OpenAI宣稱其AI系統解出了七大千禧年數學難題之一",
+        "link": "https://www.ithome.com.tw/news/178803",
+        "pubDate": "2026-09-09  12:09:42",
+        "description": "OpenAI周二（9/8）宣布，尚未公開的內部AI模型解出千禧年數學難題「Navier–Stokes Existence and Smoothness」（納維-斯托克斯存在性與光滑性問題），但旋即遭控涉及學術倫理爭議。",
+        "source": "iThome"
+      },
+      {
+        "title": "DeepMind預先計算90億種DNA變異，建立1PB AlphaGenome Atlas預測資料集",
+        "link": "https://www.ithome.com.tw/news/178799",
+        "pubDate": "2026-09-09  11:09:24",
+        "description": "Google DeepMind發布AlphaGenome Atlas，預先計算人類基因組約90億種可能的單一核苷酸變異，建立約1PB的變異預測資料集。研究人員可透過網站與API查詢DNA變異可能造成的分子影響，不必針對每項變異執行AlphaGenome模型。",
+        "source": "iThome"
+      },
+      {
         "title": "原估需數年，Claude多代理系統11天完成費馬最後定理形式化證明",
         "link": "https://www.ithome.com.tw/news/178794",
         "pubDate": "2026-09-09  09:09:54",
         "description": "Anthropic公布費馬最後定理形式化（Formalizing）成果，以Claude Code為基礎的多代理系統花11天，第一次完成可由Lean證明助理從頭到尾檢查的形式化證明。整項工程產生約1,300萬行Lean程式碼，完成30,300項定理證明，最終證明使用29,500項。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta推出個人AI助理Muse",
+        "link": "https://www.ithome.com.tw/news/178809",
+        "pubDate": "2026-09-09  01:09:30",
+        "description": "Meta周二（9/8）發表專為大眾打造的個人AI助理Muse。不同於傳統僅能回答問題的聊天機器人，Muse具備實際執行任務的能力，能協助用戶處理日常事務、分擔專案工作，並將長期目標轉化為具體行動計畫。\nMuse奠基在Muse Spark模型上。每位使用者在雲端擁有專屬的Muse Secure VM，裡面存放代理程式、個人資料與連接憑證；同時存在一個獨立的Sentinel代理於系統層面監督Muse對外執行的動作，只有在取得用戶同意或授權後才會執行。",
         "source": "iThome"
       },
       {
@@ -43,100 +134,30 @@
         "pubDate": "2026-09-08 18:44",
         "description": "攻擊者以人工設定目標、AI代理執行戰術的方式，加速偵察、竊取憑證及橫向移動等入侵流程",
         "source": "iThome資安"
-      },
-      {
-        "title": "惡意軟體攻擊鎖定跨國企業的中國分公司，停用Windows更新及竄改系統內建防毒組態",
-        "link": "https://www.ithome.com.tw/news/178782",
-        "pubDate": "2026-09-08 16:58",
-        "description": "中國駭客組織Silver Fox疑似發起最新一波的惡意軟體攻擊，這次他們鎖定簡體中文使用者與跨國企業的中國分公司，藉此於受害電腦植入惡意軟體，並將其作為入侵企業組織的管道",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PEEP後門偽裝書籤擴充套件潛伏Chrome與Edge，可跨出瀏覽器執行系統命令",
-        "link": "https://www.ithome.com.tw/news/178779",
-        "pubDate": "2026-09-08 16:36",
-        "description": "後門程式PEEP偽裝成Chrome與Edge書籤擴充套件，可蒐集Cookie與瀏覽資料，並透過Chromium原生訊息機制連接主機程式，操作檔案與執行系統命令",
-        "source": "iThome資安"
-      },
-      {
-        "title": "後門程式ValleyRAT藉由經簽署的廣告軟體散布",
-        "link": "https://www.ithome.com.tw/news/178778",
-        "pubDate": "2026-09-08 15:41",
-        "description": "卡巴斯基揭露以廣告軟體挾帶後門程式ValleyRAT的活動，中國駭客組織Silver Fox濫用桌布管理工具QN Wallpaper，作為夾帶後門程式及執行側載的工具",
-        "source": "iThome資安"
-      },
-      {
-        "title": "內建4G LTE無線通訊模組，眾至推出新款小型多功能防火牆",
-        "link": "https://www.ithome.com.tw/review/178773",
-        "pubDate": "2026-09-08 14:53",
-        "description": "眾至資訊今年推出支援4G LTE行動寬頻網路的小型防火牆，能以尺寸更小的機箱，具備相近於既有HiGuard VI與HiGuard XI的網路安全功能與效能，可快速部署在多種場合的分支據點，同時提供VPN與防毒防駭等機制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ConnectWise揭露ScreenConnect新漏洞，目前未有修補程式",
-        "link": "https://www.ithome.com.tw/news/178776",
-        "pubDate": "2026-09-08 14:51",
-        "description": "上週ConnectWise指出，遠端監控與管理平臺ScreenConnect的檔案傳輸機制存在弱點，該公司正著手開發修補程式，在此之前用戶應採取臨時緩解措施因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月8日，PostgreSQL邏輯解碼漏洞藏12年，複寫帳號可載入任意程式碼",
-        "link": "https://www.ithome.com.tw/news/178775",
-        "pubDate": "2026-09-08 14:43",
-        "description": "PostgreSQL一項存在約12年的邏輯解碼漏洞CVE-2026-6471，可讓持有REPLICATION權限的帳號跨出資料庫權限範圍，在伺服器執行程式碼，還能將原有複寫帳號提升成資料庫超級使用者，取得所有資料庫權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "開源HPC排程器Slurm修補多項漏洞，雲端AI與HPC叢集需更新節點",
-        "link": "https://www.ithome.com.tw/news/178766",
-        "pubDate": "2026-09-08 13:36",
-        "description": "開源HPC排程器Slurm修補8項安全漏洞，涵蓋權限提升、容器檔案處理與服務崩潰，AWS確認ParallelCluster 3.16.0及更早版本受影響，Google Cloud則要求Cluster Toolkit舊節點更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Blockstream側鏈Liquid含重大漏洞，遭駭客搬走近4,000枚比特幣",
-        "link": "https://www.ithome.com.tw/news/178770",
-        "pubDate": "2026-09-08 13:25",
-        "description": "Blockstream開發的比特幣側鏈Liquid Network發生重大安全事件，攻擊者利用底層軟體Elements漏洞，在側鏈上產生無資產支持的L-BTC並贖回近4,000枚比特幣",
-        "source": "iThome資安"
-      },
-      {
-        "title": "甫修補的N-central資安漏洞疑似遭到利用",
-        "link": "https://www.ithome.com.tw/news/178768",
-        "pubDate": "2026-09-08 12:32",
-        "description": "Huntress週末更新部落格內容表示，9月5日N-able修補的3個N-central資安漏洞，都源自於已實際出現的攻擊行動調查結果，其中兩個可串連變成漏洞利用鏈",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenVPN修補8個漏洞，包含可能導致服務阻斷、執行惡意程式碼的高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/178767",
-        "pubDate": "2026-09-08 12:11",
-        "description": "OpenVPN修補軟體核心與Windows元件一系列漏洞，涵蓋連線與封包處理、檔案路徑管理與參數解析等問題，建議用戶更新至2.7.7版",
-        "source": "iThome資安"
-      },
-      {
-        "title": "台灣大哥大發表MyAgent平臺，加速從AI助理走向數位員工",
-        "link": "https://www.ithome.com.tw/news/178790",
-        "pubDate": "2026-09-08  06:09:58",
-        "description": "生成式 AI 技術熱炒了兩年，市場正從「問答聊天」迅速轉向能代勞實際工作流程的 AI Agent。台灣大哥大今天（9/8）舉辦「D.E.E.P. Tech Day 2026」硬科技日，發表其自研的企業級AI Agent平臺MyAgent，並和精誠資訊聯手，試圖解決企業導入AI時面臨的算力成本、模型選擇、資料安全與系統整合等問題。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI重建16.6萬神經元果蠅中樞神經圖，可追蹤感官與動作路徑",
-        "link": "https://www.ithome.com.tw/news/178783",
-        "pubDate": "2026-09-08  05:09:03",
-        "description": "美國霍華休斯醫學研究所（HHMI）旗下Janelia Research Campus與Google Research等團隊，利用AI重建神經元3D結構，完成雄性黑腹果蠅完整中樞神經系統連線圖，相關論文刊登於《Cell》。研究資料涵蓋超過16.6萬個神經元與1.25億個突觸連接，範圍從腦部延伸到控制身體動作的腹神經索，可追蹤視覺、聽覺與嗅覺等感官訊號到動作輸出。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI技能已成為進入瑞銀的必要條件",
-        "link": "https://www.ithome.com.tw/news/178772",
-        "pubDate": "2026-09-08  01:09:15",
-        "description": "英國金融時報（Financial Times，FT）本周引述消息來源報導，瑞銀集團（UBS Group AG，UBS）已全面要求新進人員必須具備AI使用能力，不管是實習生還是畢業生，成為首批明確要求初級銀行員必須具備AI素養的大型金融機構之一。\n根據報導，瑞銀將要求2027年加入其全球銀行與市場部門的應屆畢業生與實習生，得證明自己可用AI來提高業績與效率，也包括會在面試中加入AI熟練度的問題，以測試應徵者如何使用AI。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "ChatGPT 廣告營收破 10 億！為什麼「搜尋入口」最後都走上廣告這條路？",
+        "link": "https://techorange.com/2026/09/09/chatgptads-openai-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 12:02:12 +0800",
+        "description": "2026 年八月底，OpenAI 宣布旗下廣告業務 ChatGPT Ads 上線不到 200 天年化營收就突破 10 億美元，同一時間這項自助投放服務也擴大到印度跟歐洲三十幾個市場，這消息被包裝成多元化商業模式的成功案例，畢竟當年 Google 的 AdWords 花了四年才達到這個數字而 OpenAI 只用了六個月。 這則消息，這幾天已被不少科技媒體轉譯報導過，但我認為，這則新聞該被討論的不是「10 億美元」。 10 億美元，只占 OpenAI 預估全年營收約 400 億美元的比重 2.5%，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 晶片逼近曝光極限，台積電、Intel、Samsung 為何非換 12 吋光罩不可？",
+        "link": "https://techorange.com/2026/09/09/asml-12-inch-photomask/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 11:45:26 +0800",
+        "description": "AI 晶片持續追求更高運算能力，一方面需要更先進製程，把更多電晶體塞進有限面積；另一方面，為了增加運算核心、記憶體介面與互連，高效能資料中心晶片的裸晶面積也持續往上推。這兩個趨勢，如今開始同時碰上微影設備的限制。 目前晶圓廠廣泛使用的極紫外光微影（EUV），單顆晶片可曝光面積最高約 800 平方毫米，《Reuters》指出，NVIDIA、Google 等公司設計的晶片，已做到接近這項上限。下一代 High NA EUV 雖然可以印出更精細的線路，單次曝光範圍卻縮小一半，使大型晶片可能需要分次曝光",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【在工廠學習的機器人】與其等待龐大訓練資料集出現，Reimagine Robotics 讓客戶自己教機器人",
+        "link": "https://techorange.com/2026/09/09/reimagine-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 10:49:59 +0800",
+        "description": "機器人產業近年吸引大量資金投入，投資人賭的是這個領域即將迎來自己的 ChatGPT 時刻。但一群 Google DeepMind 前工程師創立的新創公司 Reimagine Robotics 認為，真正卡住機器人商用化的關卡，不是技術能力不夠，而是訓練資料嚴重不足。 他們的解方，是讓客戶自己動手教機器人做事。 機器人缺的不是模型，是資料 大型語言模型能靠海量網路文字訓練出強大能力，機器人領域卻沒有對應規模的真實世界資料可用。加州大學柏克萊分校機器人學者 Ken Goldberg 提出「十萬年資料",
+        "source": "TechOrange"
+      },
       {
         "title": "告別貨架缺貨痛點：美英零售巨頭導入 AI，Homebase 盤點時間砍掉逾 2 天",
         "link": "https://techorange.com/2026/09/09/ai-powered-cameras-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,36 +241,43 @@
         "pubDate": "Mon, 07 Sep 2026 17:10:35 +0800",
         "description": "收件匣裡出現一封看似普通的融資郵件，內文寫著「funding」。收件人看到的仍是完整單字，但攻擊者其實在 fun 和 ding 之間插入一個肉眼看不見的 Unicode 字元。畫面上看起來沒有差別，安全系統實際讀到的文字卻已經不同，可能因此影響垃圾與釣魚郵件的判讀。 微軟 Security Research 9 月 3 日公布研究指出，今年 2 月採用這類隱形字元的相關郵件，從單日約 2.1 萬封迅速暴增至逾 130 萬封，高峰一天更超過 230 萬封，高流量活動持續約 3 個月。這波郵件多以商",
         "source": "TechOrange"
-      },
-      {
-        "title": "AI「研究實習生」達標：OpenAI 中位數研究人員每日燒 600 美元 token，前段班破 7,000 美元",
-        "link": "https://techorange.com/2026/09/07/research-acceleration-coding-agents-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 15:49:43 +0800",
-        "description": "OpenAI 近期表示，根據內部測量結果，公司已達成去年秋季設定的目標，在今年 9 月前打造出自動化研究實習生。依 OpenAI 的定義，研究實習生能在人類指導下執行定義明確的研究任務，範圍涵蓋熟練研究人員需耗時數日的工作。但邊界也很明確，研究優先順序仍由人類設定。 OpenAI 目前朝著 2028 年 3 月前打造自動化 AI 研究員的目標推進。 AI 代理工作量達人類 3.1 倍？實驗提交量創新高 《Unite.AI》報導，OpenAI 研究人員今年大幅增加 AI 程式編寫代理（coding",
-        "source": "TechOrange"
-      },
-      {
-        "title": "助攻國際業務拓展 叡揚 Vital CRM 升級 AI 名片辨識",
-        "link": "https://techorange.com/2026/09/07/gss-vital-crm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 14:30:00 +0800",
-        "description": "海外參展、商務拜訪，經常一次展會或商務旅程就會拿到數十甚至數百張名片。叡揚資訊 Vital CRM 客戶關係管理系統，於 Vital CRM App 名片辨識行動應用功能導入 AI 影像文字辨識與大型語言模型（LLM）語意理解技術，強化多語系及不同版型名片的資訊判讀與處理速度。讓您的數百張名片，能快速完成客戶資訊建檔、接續客戶跟進，更是商機能否被即時掌握的關鍵！ 業務人員只要透過手機 App上的名片建立功能，直接拍攝名片，即可由 AI 協助判斷姓名、公司、職稱、電話、電子郵件等資訊，快速建立 C",
-        "source": "TechOrange"
-      },
-      {
-        "title": "OpenAI Agent 把德文 Wiki 變留言板，為何他們早就知道卻沒有公開？",
-        "link": "https://techorange.com/2026/09/07/openai-confirms-wiki-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 07 Sep 2026 12:57:18 +0800",
-        "description": "今年 5、6 月，一批 AI Agent（AI 代理）在執行網路研究任務時，突破原本只能瀏覽網頁、不能在公開網站留下內容的限制，把一個冷門德文 Wiki 變成共享留言板，不只交換任務答案，還分享規避控制的方法。到了 9/5，OpenAI 正式證實，這起被稱為「Wiki 事件」的異常行為確實來自旗下 Agent。 事實上，OpenAI 8 月底才公布的另一場 AI Agent 異常行為事件。當時 OpenAI 一批 AI Agent 在內部資安測試期間自行交換資訊、突破網路限制，最後進入 AI 平",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
+        "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+        "pubDate": "Wed, 09 Sep 2026 10:11:29 +0530",
+        "description": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 11",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
+        "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
+        "pubDate": "Wed, 09 Sep 2026 09:57:51 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) age",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+        "pubDate": "Wed, 09 Sep 2026 02:25:48 -0400",
+        "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Slim Spider Steals Crypto Custody Secrets From Brazilian Financial Institution",
         "link": "https://thehackernews.com/2026/09/slim-spider-steals-crypto-custody.html",
         "pubDate": "Tue, 08 Sep 2026 21:50:23 +0530",
         "description": "A previously undocumented financially motivated threat actor has been linked to attacks targeting Brazilian financial institutions since at least March 2026.\n\nCybersecurity company CrowdStrike is tracking the Brazil-based activity cluster under the n",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+        "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400",
+        "description": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
@@ -355,37 +383,23 @@
         "pubDate": "Tue, 08 Sep 2026 12:35:47 -0400",
         "description": "The ShinyHunters extortion gang claims it breached an online platform for the Florida Department of Motor Vehicles database known as \"DAVID\" and stole over 200,000 records about drivers in the state. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing",
-        "link": "https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html",
-        "pubDate": "Tue, 08 Sep 2026 12:30:43 +0530",
-        "description": "Online dating app Grindr has opted to pay £26 million ($35.1 million) to settle a lawsuit in the U.K. over allegations that it shared users' personal information, including their HIV status, with third-parties.\n\nGrindr, which is the largest LGBTQ+ da",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI says ChatGPT outage causes image generation errors",
-        "link": "https://www.bleepingcomputer.com/news/technology/openai-says-chatgpt-outage-causes-image-generation-errors/",
-        "pubDate": "Tue, 08 Sep 2026 12:28:42 -0400",
-        "description": "OpenAI is investigating an ongoing incident causing ChatGPT image generation failures and delays when uploading files. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "August updates trigger 0xc0000409 errors on Windows Server 2016",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/august-updates-trigger-0xc0000409-errors-on-windows-server-2016/",
-        "pubDate": "Tue, 08 Sep 2026 11:22:33 -0400",
-        "description": "Microsoft says the August 2026 security update may trigger 0xc0000409 errors on Windows Server 2016 systems where the Compatibility Appraiser diagnostic service is enabled. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "SAP warns of maximum severity 'OVERPASS' kernel vulnerability",
-        "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-overpass-kernel-vulnerability/",
-        "pubDate": "Tue, 08 Sep 2026 10:55:20 -0400",
-        "description": "SAP has addressed 20 vulnerabilities across multiple products in its September 2026 security updates, including a maximum-severity memory corruption flaw in the SAP Kernel code. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
+        "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
+        "pubDate": "Wed, 09 Sep 2026 06:00:00 +0000",
+        "description": "Fusionality is developing control systems and simulation environments to help fusion power startups move faster.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CloudNC raises $20M to automate manufacturing’s most pressing bottlenecks",
+        "link": "https://techcrunch.com/2026/09/08/cloudnc-raises-20m-to-automate-manufacturings-most-pressing-bottlenecks/",
+        "pubDate": "Wed, 09 Sep 2026 04:01:00 +0000",
+        "description": "UK-based manufacturing software startup CloudNC announced Wednesday a $20 million B extension round, bringing its lifetime total raised amount to $128 million.",
+        "source": "TechCrunch"
+      },
       {
         "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
         "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
@@ -478,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Poseidon Aerospace lands $60M ahead of first pilotless test flight",
-        "link": "https://techcrunch.com/2026/09/08/poseidon-aerospace-lands-60m-ahead-of-first-pilotless-test-flight/",
-        "pubDate": "Tue, 08 Sep 2026 13:00:00 +0000",
-        "description": "The startup is trying to rethink the economics of cargo aircraft by removing pilots from the equation entirely.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Stoke Space raises another billion to rival SpaceX at re-flying rockets",
-        "link": "https://techcrunch.com/2026/09/08/stoke-space-raises-another-billion-to-rival-spacex-at-re-flying-rockets/",
-        "pubDate": "Tue, 08 Sep 2026 09:00:00 +0000",
-        "description": "Stoke has \"completed the initial closing\" of a $1B Series E round intended to help it reach orbit and prepare a new, larger rocket for operations.",
-        "source": "TechCrunch"
+        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
+        "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
+        "pubDate": "2026-09-09T01:26:53-04:00",
+        "description": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests i",
+        "source": "TheVerge"
       },
       {
         "title": "Sony isn’t phasing out discs quite as quickly as we thought",
@@ -518,16 +525,59 @@
         "pubDate": "2026-09-08T16:39:49-04:00",
         "description": "It’s rare to find high-end features like active noise cancellation in a gaming headset under $200, so we’re thrilled that the Razer BlackShark V3 Pro on sale at Woot for $164.99. There are specific models marketed to Xbox and PlayStation, but the Xbo",
         "source": "TheVerge"
-      },
-      {
-        "title": "ChatGPT Sketch turns your bad drawings into detailed AI images",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/991727/openai-chatgpt-images-2-5-sketch",
-        "pubDate": "2026-09-08T16:16:09-04:00",
-        "description": "OpenAI announced ChatGPT Images 2.5 on Tuesday and is adding a new way to tell ChatGPT what you want it to make an image of: by drawing a doodle. With a new feature called Sketch, you can just draw something right inside ChatGPT and then tell ChatGPT",
-        "source": "TheVerge"
       }
     ],
     "cve": [
+      {
+        "title": "Adobe Monthly Security Update (September 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2026-_20260909",
+        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Adobe Monthly Security Update (September 2026)"
+      },
+      {
+        "title": "Android Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20260909",
+        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Android"
+      },
+      {
+        "title": "Fortinet Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20260909",
+        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Fortinet Products"
+      },
+      {
+        "title": "Microsoft Monthly Security Update (September 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2026-_20260909",
+        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Monthly Security Update (September 2026)"
+      },
+      {
+        "title": "Mozilla Firefox Denial of Service Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20260909",
+        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Firefox Denial of Service Vulnerability"
+      },
       {
         "title": "Mozilla Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260902",
@@ -557,26 +607,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "F5 Products"
-      },
-      {
-        "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20260902",
-        "pubDate": "Wed, 02 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "RedHat Linux Kernel"
-      },
-      {
-        "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20260901",
-        "pubDate": "Tue, 01 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "SUSE Linux Kernel"
       },
       {
         "title": "Cisco Products Multiple Vulnerabilities",
@@ -609,36 +639,6 @@
         "products": "Jenkins"
       },
       {
-        "title": "PaperCut Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/papercut-multiple-vulnerabilities_20260831",
-        "pubDate": "Mon, 31 Aug 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "PaperCut"
-      },
-      {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260831",
-        "pubDate": "Mon, 31 Aug 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
-        "title": "[Security Blog] Mid-Year Review: HKCERT Security Incident Statistics and Cybersecurity Trends in the First Half of 2026",
-        "link": "https://www.hkcert.org/blog/mid-year-review-hkcert-security-incident-statistics-and-cybersecurity-trends-in-the-first-half-of-2026",
-        "pubDate": "Mon, 31 Aug 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] Mid-Year Review: HKCERT Security Incident Statistics and Cybersecurity Trends in the First Half of 2026"
-      },
-      {
         "title": "Aruba Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20260907",
         "pubDate": "Mon, 07 Sep 2026 11:00:00 +0800",
@@ -657,6 +657,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Ubuntu Linux Kernel"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260904",
+        "pubDate": "Fri, 04 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
       }
     ]
   }
