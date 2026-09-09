@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-09T11:51:33.675799Z",
+  "ts": "2026-09-09T16:34:58.135751Z",
   "tabs": {
     "cn_sec": [
       {
@@ -131,6 +131,20 @@
     ],
     "cn_tech": [
       {
+        "title": "台灣開始思考 AI Agent 怎麼管，數發部點出能力、身分、問責等六個治理層次",
+        "link": "https://techorange.com/2026/09/09/moda-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 18:54:32 +0800",
+        "description": "近期 AI Agent（AI 代理）能力快速往前推進，從回答問題走向呼叫工具、操作系統，到連續完成多步驟任務，相關安全事件也讓治理問題受到更多關注。當 AI 開始能代表使用者自行執行工作，除了模型本身是否安全、可靠，誰能授權它做什麼、它又代表誰，也逐漸成為新的問題，而台灣準備怎麼管？ 數位發展部次長侯宜秀透露，目前政府各部會填報的 AI 應用情境中，已經有部分機關使用 AI Agent。她指出，相較聊天機器人或其他特定 AI 功能可能告訴使用者該怎麼做、最後仍由人執行，AI Agent 則是「會",
+        "source": "TechOrange"
+      },
+      {
+        "title": "40 億美元認股權證綁定：高通攜手亞馬遜開發 AI 推論晶片與 1.6 Tbps 光通訊",
+        "link": "https://techorange.com/2026/09/09/qualcomm-collaboration-amazon-chips-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 09 Sep 2026 17:34:29 +0800",
+        "description": "高通表示，亞馬遜未來可能向其採購最高 600 億美元的 AI 資料中心晶片及相關產品，雙方將展開長期合作，協助高通進一步拓展 AI 基礎設施市場。《Reuters》報導，根據高通提交的監管文件，這項交易也反映出 AI 熱潮下，晶片商與科技公司的合作已延伸至股權安排。高通將授予亞馬遜價值約 40 億美元的認股權證，權證將隨亞馬遜採購產品逐步生效，讓亞馬遜以每股 161.26 美元的價格購買高通股票。 高通結盟 AWS 攻 AI 基礎設施，加速多元化業務轉型 《Reuters》指出，這項協議顯示，高",
+        "source": "TechOrange"
+      },
+      {
         "title": "Meta 推出專屬 AI 代理 Muse：主打「第二大腦」，內部實測卻踩安全隱憂",
         "link": "https://techorange.com/2026/09/09/ai-meta-muse-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 09 Sep 2026 13:06:48 +0800",
@@ -220,23 +234,23 @@
         "pubDate": "Tue, 08 Sep 2026 09:29:45 +0800",
         "description": "英國政府曾讓超過兩萬名公務員試用生成式 AI 三個月，參與者自述平均每天節省 26 分鐘，換算下來，每人一年幾乎省下兩個工作週；這證明開放 AI 工具確實能改善效率，卻也暴露一個問題是，如果公務員只能用 AI 搜尋資料、摘要文件或撰寫初稿，那改革仍停留在個人生產力層次。 對公部門而言，AI 不只是提高競爭力的工具，而是完成公共任務所需的新能力。真正有價值的情境，可能是建立一個能協助清理案件積壓的 AI 代理；也可能是把散落在法規、表單與內部系統中的資訊串起來，縮短民眾等待行政處理的時間。 這也是",
         "source": "TechOrange"
-      },
-      {
-        "title": "【Google Cloud 林書平專欄】擴展 AI 代理的瓶頸不是模型，是資料還停在「紀錄系統」",
-        "link": "https://techorange.com/2026/09/08/ai-systems-of-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 06:21:00 +0800",
-        "description": "文 / Google Cloud 台灣技術總經理 林書平 放眼當今技術發展，阻礙企業擴展 AI 的最大瓶頸，早已不是模型本身的能力，而是模型能否精準掌握企業的「業務情境脈絡（Business Context）」。 打造情境脈絡的關鍵在於資料基礎。根據 PwC 報告，全球 AI 領先企業提供高品質資料的比例高出台灣企業 4.4 倍，且僅有 13% 的台灣企業能讓員工快速取得 AI 工作所需的高品質資料。進入代理式時代，企業不能只把資料當作靜態庫存，必須注入值得信任的情境脈絡，以將資料轉化為源源不絕",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】OpenAI「AI 研究實習生」達標，黃仁勳稱 AGI 已到來、40 萬顆 GPU 將上線",
-        "link": "https://techorange.com/2026/09/08/openai-ai-research-intern-jensen-huang-agi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI「AI 研究實習生」達標，首席科學家警告 AI 推理愈來愈難監控 OpenAI 表示，已達成原訂今年 9 月完成「自動化 AI 研究實習生」的目標。這類系統能在人類指導下執行範圍明確的研究任務，包括原本需要熟練研究人員花費數天才能完成的工作；下一個目標則是在 2028 年 3 月建立能在人類監督下工作的自動化 AI 研究員。截至 8 月中，OpenAI 研究團隊每投入一個人類工作日，已搭配相當於 3.1 個工作日的代理運算時間，但研",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
+        "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
+        "pubDate": "Wed, 09 Sep 2026 19:53:55 +0530",
+        "description": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. \n\nInformation stealers like Lumma",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
+        "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
+        "pubDate": "Wed, 09 Sep 2026 17:27:36 +0530",
+        "description": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs,",
+        "source": "TheHackerNews"
+      },
       {
         "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
         "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
@@ -294,11 +308,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
+        "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
+        "pubDate": "Wed, 09 Sep 2026 11:31:23 -0400",
+        "description": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
         "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
         "pubDate": "Wed, 09 Sep 2026 10:11:29 +0530",
         "description": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 11",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
+        "link": "https://www.bleepingcomputer.com/news/security/mfas-weakest-link-account-recovery-is-the-new-attack-path/",
+        "pubDate": "Wed, 09 Sep 2026 10:01:11 -0400",
+        "description": "MFA makes account takeover harder, but attackers are increasingly targeting the recovery processes used to reset passwords and authentication methods. Specops explains why stronger identity verification at the service desk is critical to preventing s",
+        "source": "BleepingComputer"
       },
       {
         "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
@@ -348,37 +376,100 @@
         "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400",
         "description": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Liquid Hackers Return 3,400 Bitcoin Taken via Elements Bug, Still Holding $47M in BTC",
-        "link": "https://thehackernews.com/2026/09/liquid-hackers-return-3400-bitcoin.html",
-        "pubDate": "Tue, 08 Sep 2026 20:24:30 +0530",
-        "description": "Whoever took nearly 4,000 bitcoin from the Liquid Network on Sunday, September 6, returned 3,400 of it the next day, Bitcoin's public record shows. About 598.5 bitcoin has not come back.\n\nLiquid is a Bitcoin sidechain that holds real bitcoin to back ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ChatGPT Flaw Let a Planted Prompt Send a Victim's Gmail Data to Another Account",
-        "link": "https://thehackernews.com/2026/09/chatgpt-flaw-let-planted-prompt-send.html",
-        "pubDate": "Tue, 08 Sep 2026 19:49:17 +0530",
-        "description": "Check Point Research said in a report published today that a single instruction planted in a ChatGPT conversation could cause ChatGPT to quietly work for an attacker while answering the user's question as usual.\n\nIn the company's proof of concept, th",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Autonomous AI Agents Compromise Thousands of Credentials in Under Six Hours",
-        "link": "https://thehackernews.com/2026/09/autonomous-ai-agents-compromise.html",
-        "pubDate": "Tue, 08 Sep 2026 19:18:16 +0530",
-        "description": "Threat actors are continuing to leverage artificial intelligence (AI) to streamline their operations, with one financially motivated hacking group employing an autonomous, multi-agent attack framework to carry out a large-scale credential harvesting ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "WeChat Zero-Click Worm Took Over Accounts on iPhone and Android via Incoming Calls",
-        "link": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
-        "pubDate": "Tue, 08 Sep 2026 17:24:29 +0530",
-        "description": "Researchers at the security firm Calif have built a worm that takes over a WeChat account via an incoming call and demonstrated it spreading among three test phones.\n\nThe person being called does not have to answer or touch their phone for it to work",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Superintelligence is coming. Should we let it?",
+        "link": "https://techcrunch.com/video/superintelligence-is-coming-should-we-let-it/",
+        "pubDate": "Wed, 09 Sep 2026 16:05:35 +0000",
+        "description": "AI companies have been talking about superintelligent AI like it’s inevitable, but recent safety incidents like OpenAI’s Hugging Face breach are demonstrating the potential dangers of deploying AI systems that are more capable than humans. So what ha",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Viral AI assistant Instinct now has its own email address",
+        "link": "https://techcrunch.com/2026/09/09/viral-ai-assistant-instinct-now-has-its-own-email-address/",
+        "pubDate": "Wed, 09 Sep 2026 15:13:12 +0000",
+        "description": "Instinct’s new email feature lets the AI agent create and manage accounts, contact businesses, handle support requests, and do more on users' behalf.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber rival inDrive scales beyond ride-hailing to capture more consumer spending",
+        "link": "https://techcrunch.com/2026/09/09/uber-rival-indrive-scales-beyond-ride-hailing-to-capture-more-consumer-spending/",
+        "pubDate": "Wed, 09 Sep 2026 15:10:41 +0000",
+        "description": "inDrive's ad business, first piloted in July 2025, has served more than 2 billion impressions and attracted over 2,000 paying advertisers a month.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘Gambling with our lives’: Anthropic researcher quits, warns against self-improving AI",
+        "link": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/",
+        "pubDate": "Wed, 09 Sep 2026 15:02:47 +0000",
+        "description": "Anthropic researcher Jacob Coxon resigned over AI extinction fears, calling for pacing agreements between labs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Shipt becomes the latest delivery app with an AI shopping assistant",
+        "link": "https://techcrunch.com/2026/09/09/shipt-becomes-the-latest-delivery-app-with-an-ai-shopping-assistant/",
+        "pubDate": "Wed, 09 Sep 2026 14:51:45 +0000",
+        "description": "Users can ask the assistant to do things like \"Create a cart for my Saturday tailgate for 25 people and include some brunch items,\" or \"Build a cart for easy school lunches and after-school snacks,\" Shipt says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber invests $10M in Indian fleet operator Carrum at $168M valuation",
+        "link": "https://techcrunch.com/2026/09/09/uber-invests-10m-in-indian-fleet-operator-carrum-at-168m-valuation/",
+        "pubDate": "Wed, 09 Sep 2026 14:38:41 +0000",
+        "description": "Carrum Mobility operates about 5,100 vehicles in India and is Uber's largest fleet partner for its premium Uber Black service in the country.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
+        "link": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/",
+        "pubDate": "Wed, 09 Sep 2026 14:18:34 +0000",
+        "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Group of bipartisan lawmakers ask US government to ban several hack-for-hire firms",
+        "link": "https://techcrunch.com/2026/09/09/group-of-bipartisan-lawmakers-ask-us-government-to-ban-several-hack-for-hire-firms/",
+        "pubDate": "Wed, 09 Sep 2026 13:01:00 +0000",
+        "description": "The three Indian companies are accused of using hackers to steal information used to sway litigation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instacart launches an AI grocery shopping assistant called Clementine",
+        "link": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/",
+        "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+        "description": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Autonomy pivots to gas vehicles to keep the dream of car subscriptions alive",
+        "link": "https://techcrunch.com/2026/09/09/autonomy-pivots-to-gas-vehicles-to-keep-the-dream-of-car-subscriptions-alive/",
+        "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+        "description": "Scott Painter, founder of TrueCar, is still trying to build a business around vehicle subscriptions, where you can cancel at any time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "link": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/",
+        "pubDate": "Wed, 09 Sep 2026 13:00:00 +0000",
+        "description": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
+        "link": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets/",
+        "pubDate": "Wed, 09 Sep 2026 12:30:00 +0000",
+        "description": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit before they re",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up",
+        "link": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/",
+        "pubDate": "Wed, 09 Sep 2026 12:05:34 +0000",
+        "description": "As it grapples with a bevy of lawsuits, Suno said its new model, Suno v6, is not trained using music it used to train previous versions of the AI model.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Google DeepMind alumni are building tools to accelerate fusion power for the grid",
         "link": "https://techcrunch.com/2026/09/08/google-deepmind-alumni-are-building-tools-to-accelerate-fusion-power-for-the-grid/",
@@ -394,129 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "White House takes down ‘Build the Wall’ game after the Tetris Company complains",
-        "link": "https://techcrunch.com/2026/09/08/white-house-takes-down-build-the-wall-game-after-the-tetris-company-complains/",
-        "pubDate": "Tue, 08 Sep 2026 23:23:23 +0000",
-        "description": "The Trump administration's short-lived arcade game \"Build the Wall\" is now nowhere to be found after the Tetris Company posted that it takes \"copyright infringement very seriously.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hackers are stealing Claude tokens from subscribers",
-        "link": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers/",
-        "pubDate": "Tue, 08 Sep 2026 21:10:27 +0000",
-        "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
-        "link": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
-        "pubDate": "Tue, 08 Sep 2026 21:04:06 +0000",
-        "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The Exploration Company nabs $450 million to challenge SpaceX",
-        "link": "https://techcrunch.com/2026/09/08/the-exploration-company-nabs-450-million-to-challenge-spacex/",
-        "pubDate": "Tue, 08 Sep 2026 20:47:34 +0000",
-        "description": "The Exploration Company (TEC) has raised $450 million to build reusable spacecraft, in what it describes as “the largest-ever Series C by a European space company.”",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-        "link": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-        "pubDate": "Tue, 08 Sep 2026 19:00:00 +0000",
-        "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "How to watch Apple’s foldable iPhone announcement",
-        "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
-        "pubDate": "Tue, 08 Sep 2026 17:46:53 +0000",
-        "description": "Apple's annual iPhone event will stream live on September 9 at 10 a.m. PDT, and we're expecting big news.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI fought dirty on career-making math problem, says NYU mathematician",
-        "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
-        "pubDate": "Tue, 08 Sep 2026 17:32:15 +0000",
-        "description": "There is a $1 million bounty for the first person providing a solution to the Navier-Stokes existence and smoothness problem.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google Cloud races to catch up in the AI deployment wars with Accenture deal",
-        "link": "https://techcrunch.com/2026/09/08/google-cloud-races-to-catch-up-in-the-ai-deployment-wars-with-accenture-deal/",
-        "pubDate": "Tue, 08 Sep 2026 16:20:31 +0000",
-        "description": "Google Cloud expands its enterprise AI push with Accenture, betting on forward-deployed engineers to drive adoption and overcome deployment bottlenecks.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google’s revived nuclear power plant gets $1.9B loan from US government",
-        "link": "https://techcrunch.com/2026/09/08/googles-revived-nuclear-power-plant-gets-1-9b-loan-from-us-government/",
-        "pubDate": "Tue, 08 Sep 2026 15:25:35 +0000",
-        "description": "Google said it would bring an Iowa nuclear power plant back from the dead. Now the plant's owner is getting a $1.9 billion loan from the U.S. Energy Department.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
-        "link": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape/",
-        "pubDate": "Tue, 08 Sep 2026 15:04:09 +0000",
-        "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Mistral raises €3B as sovereign AI becomes big business",
-        "link": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business/",
-        "pubDate": "Tue, 08 Sep 2026 14:17:48 +0000",
-        "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe, and PSG Equity.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "A hacker stole $340M in a crypto heist, then returned most of it",
-        "link": "https://techcrunch.com/2026/09/08/a-hacker-stole-340m-in-a-crypto-heist-then-returned-most-of-it/",
-        "pubDate": "Tue, 08 Sep 2026 14:11:29 +0000",
-        "description": "The latest heist is one of the largest thefts of cryptocurrency to date.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nuclear startup Bluecore Energy raises $50M seed round, just two months after launch",
-        "link": "https://techcrunch.com/2026/09/08/nuclear-startup-bluecore-energy-raises-50m-seed-round-just-two-months-after-launch/",
-        "pubDate": "Tue, 08 Sep 2026 14:10:17 +0000",
-        "description": "Bluecore Energy announced Tuesday an oversubscribed $50 million seed round — just months after raising a $10 million pre-seed and coming out of stealth.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans",
-        "pubDate": "2026-09-09T05:56:28-04:00",
-        "description": "A senior Anthropic safety researcher has said there is more than a 10 percent chance artificial intelligence \"could kill all humans\" by the end of the decade, just hours after a colleague resigned over fears the AI lab and its rivals are carelessly r",
+        "title": "Xbox is bringing back startup animations from its console history",
+        "link": "https://www.theverge.com/news/992269/xbox-custom-boot-animation-local-search-voice-clarity-features",
+        "pubDate": "2026-09-09T12:25:30-04:00",
+        "description": "Microsoft is starting to test some new Xbox console features with Insiders. Testers will be able to try out custom Xbox boot animations from the past, more personalization options for badges, a new local search feature, improved Remote Play quality, ",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s foldable ‘iPhone Duo’ will reportedly start at $2,000",
-        "link": "https://www.theverge.com/tech/991884/apple-iphone-duo-rumor-foldable",
-        "pubDate": "2026-09-09T01:26:53-04:00",
-        "description": "With only a few hours left until the first iPhone launch event since John Ternus took over as the CEO of Apple, Bloomberg reporter Mark Gurman says the name of the company's long-rumored folding phone is the iPhone Duo. The midnight report suggests i",
+        "title": "All the news from Apple’s ‘Surprise and shine’ event",
+        "link": "https://www.theverge.com/tech/991697/apple-surprise-and-shine-event-news",
+        "pubDate": "2026-09-09T12:20:00-04:00",
+        "description": "Apple’s hosting its “Surprise and shine” launch event on September 9th at 1PM ET / 10AM PT, where it’s expected to announce the first phones in its iPhone 18 lineup — including Apple’s first foldable, the rumored “iPhone Duo.” This event will also be",
         "source": "TheVerge"
       },
       {
-        "title": "Sony isn’t phasing out discs quite as quickly as we thought",
-        "link": "https://www.theverge.com/games/991806/sony-disc-plant-90-percent-10-percent",
-        "pubDate": "2026-09-08T17:52:13-04:00",
-        "description": "Sony isn't backing away from its decision to kill the video game disc in January 2028. But Sony isn't shutting down production as quickly as we thought, either. Two months after reports that Sony's last discmaking plant was already being repurposed, ",
+        "title": "iPhone 18 live blog: On the ground at Apple’s biggest event",
+        "link": "https://www.theverge.com/tech/989658/iphone-18-duo-pro-fold-apple-watch-airpods-keynote-live",
+        "pubDate": "2026-09-09T12:15:00-04:00",
+        "description": "It's not just time for any old Apple event, but one that's expected to usher in a new era for the company. This is the first iPhone keynote to be led by Apple's newly anointed CEO John Ternus, and all signs and rumors have been pointing to it being t",
         "source": "TheVerge"
       },
       {
-        "title": "Drama swirls around OpenAI’s legendary mathematical milestone",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/991710/openai-navier-stokes-solution",
-        "pubDate": "2026-09-08T16:53:52-04:00",
-        "description": "OpenAI says it found a solution to a major math problem that has remained unsolved for around 90 years, as reported earlier by The New York Times and Wired. In a blog post on Tuesday, OpenAI announced that it discovered a solution to the Navier-Stoke",
+        "title": "Google search embraces live NFL football",
+        "link": "https://www.theverge.com/entertainment/991893/google-search-gets-better-at-live-nfl-football",
+        "pubDate": "2026-09-09T12:00:00-04:00",
+        "description": "Google is introducing a new Live Game Feed to keep you updated on NFL games as the regular season kicks off tonight. Look for the red \"Live\" icon and you'll see a recap of the ongoing game, play-by-play updates, top commentary on social, video highli",
         "source": "TheVerge"
       },
       {
-        "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
-        "link": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
-        "pubDate": "2026-09-08T16:46:56-04:00",
-        "description": "Rivian's futuristic e-bike is delayed, and customers are not happy. Last year, Rivian's micromobility spinoff Also unveiled a new, software-controlled electric bike called the TM-B that immediately set the e-bike world ablaze. With USB-C chargeable b",
+        "title": "Framework is giving some customers a RAM refund",
+        "link": "https://www.theverge.com/gadgets/992218/framework-lowers-ram-prices-refunds",
+        "pubDate": "2026-09-09T11:36:37-04:00",
+        "description": "In a \"rare, positive update\" amid the ongoing component shortage, Framework is lowering its RAM prices for some buyers of the Laptop 13 Pro - at least, for now. After increasing the laptop's memory pricing in July, Framework says it \"secured a limite",
         "source": "TheVerge"
       }
     ],
