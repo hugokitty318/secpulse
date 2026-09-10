@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-10T04:42:14.696243Z",
+  "ts": "2026-09-10T09:39:26.009020Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Fortinet設備已知漏洞遭鎖定，攻擊者藉此植入RAT木馬PivotC2",
+        "link": "https://www.ithome.com.tw/news/178851",
+        "pubDate": "2026-09-10 17:12",
+        "description": "資安公司SOCRadar揭露專門針對FortiOS及FortiSwitchManager的攻擊行動，駭客利用已知漏洞CVE-2025-25249，企圖於受害裝置植入以Node.js打造的RAT木馬PivotC2",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國警告Fortinet、Citrix、思科、Chrome漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/178849",
+        "pubDate": "2026-09-10 15:52",
+        "description": "美國網路安全與基礎設施安全局（CISA）指出，已掌握4個漏洞遭到積極利用的證據，要求聯邦機構必須在期限內採取行動，完成相關修補作業",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月10日，商周集團公告旗下網站遭到攻擊，網站與線上服務中斷",
+        "link": "https://www.ithome.com.tw/news/178846",
+        "pubDate": "2026-09-10 14:56",
+        "description": "商周集團於網站發布公告表示，該集團網站遭到攻擊，導致線上服務中斷，預計完整修復需要一定的時間，紙本雜誌出刊及配送不受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic揪出第4起Claude入侵事件，重新認定前3起為模型偏誤推理",
+        "link": "https://www.ithome.com.tw/news/178844",
+        "pubDate": "2026-09-10 13:36",
+        "description": "Anthropic揭露第4起Claude意外入侵真實系統事件，並重新檢視先前3起事件，認為模型行為不只是操作失誤，而涉及偏誤推理與魯莽行為。新版模型雖已降低嚴重有害行為比例，Anthropic仍委託METR展開獨立調查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安業者揭露大型假電商詐騙網路，攻擊者架設11.9萬個網站竊取信用卡資料",
+        "link": "https://www.ithome.com.tw/news/178843",
+        "pubDate": "2026-09-10 13:11",
+        "description": "假電商網路DoppelCart冒充逾4.4萬個品牌，以最高65%折扣誘騙消費者下單，利用結帳頁竊取信用卡與一次性驗證碼資料",
+        "source": "iThome資安"
+      },
       {
         "title": "研究人員揭露竊取加密貨幣的ClickFix攻擊活動，濫用Google試算表作為C2管道",
         "link": "https://www.ithome.com.tw/news/178842",
@@ -80,39 +115,25 @@
         "source": "iThome"
       },
       {
-        "title": "新一波Shai-Hulud供應鏈攻擊再起，TanStack Query套件遭植入蠕蟲Trinitite",
-        "link": "https://www.ithome.com.tw/news/178830",
-        "pubDate": "2026-09-09 18:43",
-        "description": "每週下載量逾15萬次的程式碼產生工具遭供應鏈攻擊，攻擊者利用GitHub Actions發布流程植入蠕蟲，竊取開發者憑證並進一步感染其他套件",
-        "source": "iThome資安"
+        "title": "Google打算斥資130億歐元在芬蘭打造資料中心",
+        "link": "https://www.ithome.com.tw/news/178852",
+        "pubDate": "2026-09-10  05:09:24",
+        "description": "Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資至少130億歐元（約151億美元）以興建資料中心及相關基礎設施，是該公司在歐洲規模最大的單筆投資案。此次計畫涵蓋Hamina、Kajaani、Muhos及Vaala等4個地點，其中Hamina自2009年起即為Google在芬蘭的資料中心據點，此次屬擴建性質。",
+        "source": "iThome"
       },
       {
-        "title": "數發部與八大部會啟動AI風險盤點，2027年前完成首輪法規調適",
-        "link": "https://www.ithome.com.tw/news/178826",
-        "pubDate": "2026-09-09 17:37",
-        "description": "數發部先與衛福部、法務部、經濟部、教育部、金管會、交通部、NCC、勞動部8個重點部會展開輔導，希望今年底完成8個重點部會4步驟盤點，並於2027年6月底前完成各部會第一輪法規調適盤點，未來配合AI基本法要求2年內完成相關法規修正及行政措施調整的目標。",
-        "source": "iThome資安"
+        "title": "國科會晶創臺灣啟動半導體硬體、EDA軟體布局，將建置七大核心設施、打造自主設計平臺",
+        "link": "https://www.ithome.com.tw/news/178850",
+        "pubDate": "2026-09-10  04:09:22",
+        "description": "國科會推動「晶創臺灣方案」，聚焦先進晶片技術研發，強化半導體研發基礎設施，也將提高我國自主設計能力。國科會與經濟部共同規畫於2024年至2028年共同推動2項重點布局，包括建置全臺半導體核心設施，以及發展前瞻晶片設計軟體（EDA），希望透過硬體與軟體雙軌布局，建立完整的半導體研發生態系，支援新創、中小企業及學研單位，加速前瞻半導體技術發展。",
+        "source": "iThome"
       },
       {
-        "title": "商周集團公告旗下網站遭到攻擊，網站與系統服務中斷",
-        "link": "https://www.ithome.com.tw/news/178827",
-        "pubDate": "2026-09-09 17:16",
-        "description": "今天商周集團於網站發布公告表示，該集團網站遭到攻擊，導致線上服務中斷，紙本雜誌出刊及配送不受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WeChat零點擊蠕蟲利用好友來電擴散，可跨iOS與Android接管帳號",
-        "link": "https://www.ithome.com.tw/news/178812",
-        "pubDate": "2026-09-09 16:24",
-        "description": "WeWorm零點擊蠕蟲利用WeChat通話漏洞，在手機響鈴期間接管帳號，再藉好友關係連續撥號擴散，攻擊鏈可跨iOS與Android",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Adobe發布9月第一次例行更新，呼籲用戶應優先安排修補ColdFusion、Campaign Classic",
-        "link": "https://www.ithome.com.tw/news/178820",
-        "pubDate": "2026-09-09 15:49",
-        "description": "本週Adobe針對旗下9款應用系統發布更新，其中他們將ColdFusion、Campaign Classic修補順序列為最優先層級，呼籲用戶應儘速安排套用相關更新",
-        "source": "iThome資安"
+        "title": "27歲Anthropic研究人員因擔心AI失控宣布辭職",
+        "link": "https://www.ithome.com.tw/news/178847",
+        "pubDate": "2026-09-10  03:09:05",
+        "description": "一名原本任職於Anthropic的AI研究人員Jacob Coxon周三（9/9）宣布已辭去Anthropic職務，理由是他覺得人類快要失去對AI的掌控了。\n現年27歲的Coxon表示自己過去3年分別在OpenAI及Anthropic從事預訓練研究，這兩家公司正一頭栽進可自我提升的超智慧（Superintelligence）領域，而超智慧很快就會成為超越人類的強大系統，將可入侵任何系統，一夜之間徹底改變任何領域，並攫取真正的權力與資源。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -180,31 +201,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "中國軍方加速佈局人形機器人，從採購到訓練資料已走到哪一步？",
-        "link": "https://techorange.com/2026/09/08/china-readies-humanoid-robots-for-combat/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 16:19:44 +0800",
-        "description": "中國人形機器人近年快速進入工廠、展演與各種商業場景，軍方也正在同步測試它的另一種用途。《Reuters》檢視超過 100 份中國軍方採購公告、學術研究、專利、官方出版品、政府紀錄與國防企業資料發現，中國國防體系近兩年明顯加快人形機器人的軍事研究，從作戰情境測試一路延伸到智慧感知、靈巧操作與訓練資料系統，並計劃最終在戰爭中部署這些機器人。 從敵後滲透到城鎮戰，人形機器人開始進入作戰研究 報導追溯，中國對於人形機器人的軍事應用興趣從 2024 年就開始了。2025 年 6 月，中國國防科技大學舉辦人",
+        "title": "波士頓動力分拆新創亮相：Dynamic Creatures 打造「紫色貴賓」，搶攻樂園與零售陪伴商機",
+        "link": "https://techorange.com/2026/09/10/dynamic-creatures-aldebaran/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 16:07:31 +0800",
+        "description": "Dynamic Creatures 是一家從 Boston Dynamics 分拆出的新創公司，近期正式亮相，專注為主題樂園與零售場景打造機器人。執行長 Marc Theermann 表示，機器人的安全性必須「從根本重新思考」，因為他希望打造出讓人們願意親近、擁抱的機器人。 陪伴型機器人是趨勢？Danielle 用可愛設計跨越人機互動藩籬 《FORTUNE》報導，Danielle 有一雙大眼睛、毛茸茸的耳朵，一身卡通感的薰衣草紫色毛髮，乍看就是一隻貴賓狗，實際上卻是機器人。「Danielle 是",
         "source": "TechOrange"
       },
       {
-        "title": "AI 資料中心節能新突破？愛丁堡大學提出新型磁性記憶體理論，能耗有望逼近物理極限",
-        "link": "https://techorange.com/2026/09/08/scientists-ultrafast-magnetic-memory-system-ai-data-center-energy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 12:57:36 +0800",
-        "description": "AI 熱潮帶動全球能源消耗屢創新高，龐大的運算需求需要大量能源支撐，每當新的資料中心進駐社區，都會在當地居民間引發爭議。《TechRadar》報導，科學家似乎找到了一種可能大幅降低記憶體與資料儲存能源需求的方法。如果這項技術最終能夠實現，可能對未來的運算與 AI 產業帶來重大影響。 挑戰熱力學最低能耗：磁性記憶體技術有望逼近「蘭道爾極限」 蘇格蘭愛丁堡大學研究人員在《Advanced Materials》期刊發表論文，指出這項突破可能從根本上改變磁性記憶體的運作方式。現有磁性記憶體是透過切換狀態",
+        "title": "OpenAI Agent 越界範圍再擴大、Anthropic 揭第 4 起事故：AI 安全進入「事故治理」階段",
+        "link": "https://techorange.com/2026/09/10/openai-anthropic-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 12:37:03 +0800",
+        "description": "OpenAI 旗下 AI Agent 越界的「Wiki 事件」還在擴大，繼先前被發現利用德國 Wiki 交換資訊後，獨立研究者又找到更多活動足跡，顯示實際活動範圍比先前揭露的更廣。而幾乎同一時間，Anthropic 也公布自家 Agent 的最新事故調查，發現原先在 7 月揭露 3 起 Claude 意外存取真實第三方系統的事件，如今又找到第 4 起。 延伸閱讀：OpenAI Agent 把德文 Wiki 變留言板，為何他們早就知道卻沒有公開？ 《Reuters》9 月 9 日取得 6 組獨立調",
         "source": "TechOrange"
       },
       {
-        "title": "AI 不只拚模型：SIRAYA 獲台灣首家 TiDB 白金級合作夥伴，深化企業 AI 基礎架構布局",
-        "link": "https://techorange.com/2026/09/08/siraya-tidb-model-router/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 12:33:10 +0800",
-        "description": "新加坡 AI 公司 SIRAYA 宣布，正式成為台灣首家 PingCAP 旗下 TiDB 白金級合作夥伴，並取得 TiDB 進階託管服務供應商（Managed Service Provider, MSP）資格，將分散式資料庫納入既有 AI 基礎架構服務，從 AI 應用、雲端延伸至資料與營運，協助企業因應 AI 應用規模化帶來的基礎架構需求。 AI 應用加速　傳統資料庫成企業新瓶頸 當 AI 逐漸規模化落地，使用人數、交易量與資料寫入量同步成長，傳統資料庫面臨效能與擴充瓶頸。過去企業常透過「分片」",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Hugging Face、宇樹科技都加入：Arm 擴大實體 AI 生態系，同步推機器人六級能力框架",
-        "link": "https://techorange.com/2026/09/08/arm-total-design-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 12:28:55 +0800",
-        "description": "Physical AI（實體 AI）可能成為下一個大型運算市場。Arm 實體 AI 執行副總裁（EVP, Physical AI）Drew Henry 在 Arm Everywhere China 會前媒體簡報會表示，Arm 估計目前實體 AI 的年度運算市場規模約 250 億美元，到了 2030 年代可能超過 2,000 億美元，甚至成為運算史上最大的市場之一。 但這塊市場要真正釋放，得先處理實體世界帶來的限制。Henry 特別點出兩項關鍵考量：延遲與重量。延遲是從感測器看見外界，到系統真正採",
+        "title": "Anthropic 三情境拆解 AI 經濟衝擊：極端情境 GDP 增 32%、失業率恐近 12%",
+        "link": "https://techorange.com/2026/09/10/anthropic-research-ai-economics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 12:19:43 +0800",
+        "description": "Anthropic 最新研究指出，AI 未來四年可能對美國經濟帶來程度截然不同的影響。較溫和的情況下，AI 對經濟的改變可能類似網際網路；若發展速度更快，影響力則可能接近網際網路與電力同時出現的程度。至於最極端的情況，AI 帶來的經濟變化沒有可供比照的先例。 若實際發展接近這些情境，AI 可能推動經濟大幅成長，同時也會帶來深遠的政治影響。尤其在經濟成長強勁的情況下，AI 對白領工作的衝擊最為劇烈。 Anthropic 預測 2030 年 AI 經濟衝擊：三種情境揭示 GDP 與就業市場變化 An",
         "source": "TechOrange"
       },
       {
@@ -212,6 +226,13 @@
         "link": "https://techorange.com/2026/09/10/robots-that-cant-communicate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 10 Sep 2026 10:08:13 +0800",
         "description": "近年科技展上的人形機器人，已經能夠行走、避障、搬運物品，甚至完成過去難以想像的精細操作；但當人們真正站到機器人面前，嘗試與它交談時，它還是可能出現聽錯指令、在錯誤的時間回應等問題，甚至只要周圍多出幾個說話者，就無法判斷聲音從哪裡來。 冰島的聲學模擬與空間音訊技術公司 Treble Technologies，其共同創辦人暨商務長 Gunnar Pétur Hauksson 認為，機器人能不能被人類廣泛接受，最後不只取決於它看得多準、走得多穩，更取決於人們能否自然地與它溝通。 因為語音互動直接影響的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
+        "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 10:00:00 +0800",
+        "description": "因為找不到價格合理、又具備一定靈活度的機器人靈巧手，Gesture Platforms 創辦人 Will 決定自己做一隻。這個原本從興趣開始的個人專案，經過數年開發，今年進一步登上 Kickstarter 募資，最終募得 12.37 萬美元，是原定 6 萬美元目標的 2 倍以上。 由鴻海科技集團、科技報橘與三創育成共同舉辦的 333 Robots Community Meetup，就邀請到 Will 分享 Gesture HW1 的開發歷程，現場也由 RCL 人型格鬥機器人競技聯盟帶來實機表演賽",
         "source": "TechOrange"
       },
       {
@@ -297,7 +318,7 @@
         "title": "Chrome V8 Zero-Day Exploited in the Wild Enables Code Execution Inside Sandbox",
         "link": "https://thehackernews.com/2026/09/chrome-v8-zero-day-exploited-in-wild.html",
         "pubDate": "Wed, 09 Sep 2026 14:41:03 +0530",
-        "description": "Google on Thursday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been d",
+        "description": "Google on Tuesday released updates to patch 230 security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe medium-severity vulnerability, assigned the CVE identifier CVE-2026-87491 (CVSS score: N/A), has been de",
         "source": "TheHackerNews"
       },
       {
@@ -357,11 +378,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "N-able N-central Pre-Auth RCE Flaw Exploited in the Wild",
-        "link": "https://thehackernews.com/2026/09/n-able-n-central-pre-auth-rce-flaw.html",
-        "pubDate": "Wed, 09 Sep 2026 09:57:51 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) age",
-        "source": "TheHackerNews"
+        "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
+        "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400",
+        "description": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -471,6 +492,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
+        "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
+        "pubDate": "2026-09-10T04:22:40-04:00",
+        "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
+        "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
+        "pubDate": "2026-09-10T03:00:00-04:00",
+        "description": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a m",
+        "source": "TheVerge"
+      },
+      {
         "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
         "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
         "pubDate": "2026-09-09T19:00:04-04:00",
@@ -489,20 +524,6 @@
         "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
         "pubDate": "2026-09-09T18:23:35-04:00",
         "description": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Automattic CEO Matt Mullenweg placed on leave",
-        "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
-        "pubDate": "2026-09-09T18:15:52-04:00",
-        "description": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\"",
-        "source": "TheVerge"
-      },
-      {
-        "title": "It’s the year of smartphone price hikes",
-        "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
-        "pubDate": "2026-09-09T17:52:43-04:00",
-        "description": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an ol",
         "source": "TheVerge"
       }
     ],
