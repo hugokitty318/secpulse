@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-09T21:56:32.488436Z",
+  "ts": "2026-09-10T00:11:10.792481Z",
   "tabs": {
     "cn_sec": [
       {
@@ -222,17 +222,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "【AI 模型路由新解】Snowflake 不只比快比省，真正賣的是資料留在受控邊界內",
-        "link": "https://techorange.com/2026/09/08/snowflake-cortex-ai-gateway/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 09:30:03 +0800",
-        "description": "雲端資料平台 Snowflake 推出 Cortex AI Gateway，讓客戶透過「自動」模式，將每項任務主動分配到兼具品質與成本支出的 AI 模型，最多可將 Token 成本降低 3 倍。",
+        "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
+        "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 06:01:00 +0800",
+        "description": "因為找不到價格合理、又具備一定靈活度的機器人靈巧手，Gesture Platforms 創辦人 Will 決定自己做一隻。這個原本從興趣開始的個人專案，經過數年開發，今年進一步登上 Kickstarter 募資，最終募得 12.37 萬美元，是原定 6 萬美元目標的 2 倍以上。 由鴻海科技集團、科技報橘與三創育成共同舉辦的 333 Robots Community Meetup，就邀請到 Will 分享 Gesture HW1 的開發歷程，現場也由 RCL 人型格鬥機器人競技聯盟帶來實機表演賽",
         "source": "TechOrange"
       },
       {
-        "title": "公務員不必會寫程式，但能自己調整 AI 代理，政府的 AI 改革才真正開始",
-        "link": "https://techorange.com/2026/09/08/the-public-sector-workforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 09:29:45 +0800",
-        "description": "英國政府曾讓超過兩萬名公務員試用生成式 AI 三個月，參與者自述平均每天節省 26 分鐘，換算下來，每人一年幾乎省下兩個工作週；這證明開放 AI 工具確實能改善效率，卻也暴露一個問題是，如果公務員只能用 AI 搜尋資料、摘要文件或撰寫初稿，那改革仍停留在個人生產力層次。 對公部門而言，AI 不只是提高競爭力的工具，而是完成公共任務所需的新能力。真正有價值的情境，可能是建立一個能協助清理案件積壓的 AI 代理；也可能是把散落在法規、表單與內部系統中的資訊串起來，縮短民眾等待行政處理的時間。 這也是",
+        "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
+        "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Amazon 最高可採購 600 億美元高通 AI 晶片，高通進軍 NVIDIA 資料中心地盤 高通（Qualcomm）與亞馬遜（Amazon）簽訂長期合作協議，Amazon 未來可向高通採購最高 600 億美元的 AI 資料中心晶片及相關產品。雙方將共同開發多代客製化晶片，主要用於執行訓練完成的 AI 模型，並合作開發最高達 1.6 Tbps 的高速光連接技術，因應 AI 資料中心的頻寬需求。高通也將擴大使用亞馬遜網路服務（AWS）協助晶片設",
         "source": "TechOrange"
       }
     ],
@@ -380,6 +380,20 @@
     ],
     "en_tech": [
       {
+        "title": "Automattic’s board forces CEO Matt Mullenweg into leave of absence",
+        "link": "https://techcrunch.com/2026/09/09/automattics-board-forces-ceo-matt-mullenweg-into-leave-of-absence/",
+        "pubDate": "Wed, 09 Sep 2026 23:14:29 +0000",
+        "description": "Mullenweg said in a company Slack message that it was against his will.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI adds a prominent AI doomer to its board of directors",
+        "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+        "pubDate": "Wed, 09 Sep 2026 22:25:22 +0000",
+        "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Massachusetts hits data centers with new clean power rules",
         "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
         "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
@@ -450,7 +464,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple has a new way prove your iPhone photos aren’t AI slop",
+        "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
         "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
         "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
         "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
@@ -464,59 +478,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple unveils its first foldable, the iPhone Duo",
-        "link": "https://techcrunch.com/2026/09/09/apple-unveils-its-first-foldable-the-iphone-duo/",
-        "pubDate": "Wed, 09 Sep 2026 17:58:14 +0000",
-        "description": "Unlike early iterations of foldables, which looked like vertical slabs, Apple adopted a wider form factor that could aid in a better aspect ratio while watching videos when the device is unfolded.",
+        "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+        "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+        "pubDate": "Thu, 10 Sep 2026 00:00:37 +0000",
+        "description": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-        "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-        "pubDate": "Wed, 09 Sep 2026 17:36:05 +0000",
-        "description": "The company also argued that its on-device models offer consumers more privacy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple launches iPhone 18 Pro with upgraded camera",
-        "link": "https://techcrunch.com/2026/09/09/apple-launches-iphone-18-pro-with-upgraded-camera/",
-        "pubDate": "Wed, 09 Sep 2026 17:26:05 +0000",
-        "description": "Apple's new iPhone 18 Pro lineup upgrades the camera and comes in burgundy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Suno releases its first AI music model made with record industry help",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/991977/suno-releases-its-first-ai-music-model-made-with-record-industry-help",
-        "pubDate": "2026-09-09T17:42:19-04:00",
-        "description": "Suno's new v6 AI music model is its first made with support from the record industry. Suno's Jack Brody told The Verge that v6 was \"trained from the ground up, with a new set of data that does not include the same data that our previous models were t",
+        "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
+        "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
+        "pubDate": "2026-09-09T19:00:04-04:00",
+        "description": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on ",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI’s sly mathematical breakthrough sends a chill through academia",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-        "pubDate": "2026-09-09T17:16:34-04:00",
-        "description": "OpenAI's announcement Tuesday that it has solved one of mathematics' legendary Millennium Prize problems should have been a moment of triumph. The result is both an undeniable achievement and a striking demonstration of just how rapidly AI is transfo",
+        "title": "The black iPhone Pro returns",
+        "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
+        "pubDate": "2026-09-09T18:37:51-04:00",
+        "description": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there w",
         "source": "TheVerge"
       },
       {
-        "title": "Read the Apple document explaining how new listening features still protect your privacy",
-        "link": "https://www.theverge.com/tech/992919/apple-siri-ai-audio-intelligence-privacy",
-        "pubDate": "2026-09-09T16:44:43-04:00",
-        "description": "At Wednesday's iPhone Duo launch event, Apple announced a handful of new Siri AI Audio Intelligence features, including Siri Recap, Live Rewind, Sound Recognition, and Music Recognition. Alongside its announcement, Apple released a document laying ou",
+        "title": "The incomplete history of Duo devices",
+        "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+        "pubDate": "2026-09-09T18:23:35-04:00",
+        "description": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the ",
         "source": "TheVerge"
       },
       {
-        "title": "How the new Apple Watches compare to the last-gen models",
-        "link": "https://www.theverge.com/gadgets/990508/apple-watch-series-12-ultra-4-spec-comparison",
-        "pubDate": "2026-09-09T16:42:51-04:00",
-        "description": "Apple rolled out the Apple Watch Series 12 and Apple Watch Ultra 4 at the \"Surprise and shine\" event. The new watches feature sizable improvements to the health sensors and tracking, plus the ability to recite audio transcriptions and summaries, plus",
+        "title": "Automattic CEO Matt Mullenweg placed on leave",
+        "link": "https://www.theverge.com/tech/993022/wordpress-automattic-ceo-matt-mullenweg-leave-of-absence",
+        "pubDate": "2026-09-09T18:15:52-04:00",
+        "description": "Matt Mullenweg, the CEO of WordPress.com owner Automattic, has been placed on a paid leave of absence, as reported earlier by 404 Media. In an internal message by the outlet, Mullenweg claims Automattic chief financial officer Mark Davies \"conspired\"",
         "source": "TheVerge"
       },
       {
-        "title": "Verge staffers react to the iPhone Duo: What we love and don’t love",
-        "link": "https://www.theverge.com/tech/992830/apple-iphone-duo-foldable-verge-staffers-react",
-        "pubDate": "2026-09-09T15:45:00-04:00",
-        "description": "Apple has just announced its first foldable iPhone, the iPhone Duo. The new phone has a 5.4-inch outer screen and a 7.6-inch inner screen, two back cameras, Touch ID for authentication, an IP68 rating, and all sorts of slick software tricks to make i",
+        "title": "It’s the year of smartphone price hikes",
+        "link": "https://www.theverge.com/gadgets/993005/smartphone-price-hikes-apple-iphone-18-pro",
+        "pubDate": "2026-09-09T17:52:43-04:00",
+        "description": "Paying more for a new phone seems almost unavoidable after Apple's event today. The new iPhone 18 Pro and Pro Max start at $1,199 and $1,299, respectively - a $100 price hike over their predecessors. You can't dodge the price hike by opting for an ol",
         "source": "TheVerge"
       }
     ],
