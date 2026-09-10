@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-10T13:48:55.485110Z",
+  "ts": "2026-09-10T17:40:38.658668Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Kinryū Labs揭露越南航班資訊系統APIS資料庫疑似暴露，2.2億筆旅客與機組員紀錄曝險",
+        "link": "https://www.ithome.com.tw/news/178856",
+        "pubDate": "2026-09-10 23:54",
+        "description": "APIS資料庫含旅客護照、生日及完整航班資訊，研究人員透過雲端路徑與預設帳號密碼取得存取權，是否曾遭下載或濫用仍待釐清",
+        "source": "iThome資安"
+      },
       {
         "title": "Huntress揭露北韓冒用身分假求職攻擊擴大，從IT延伸至醫療與業務職務",
         "link": "https://www.ithome.com.tw/news/178855",
@@ -98,13 +105,6 @@
         "link": "https://www.ithome.com.tw/news/178815",
         "pubDate": "2026-09-10 08:00",
         "description": "網釣即服務平臺BigBear 2.0鎖定Microsoft 365帳號，攻擊者藉由對手中間人攻擊繞過MFA，研究人員確認已有258家組織的帳號遭到入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Europol盤點新興隱私強化技術，Deepfake偵測與加密運算受關注",
-        "link": "https://www.ithome.com.tw/news/178793",
-        "pubDate": "2026-09-10 08:00",
-        "description": "歐洲刑警組織（Europol）盤點新興隱私強化技術，Deepfake偵測是專家最關注議題；AI則成為多項相關技術的重要基礎，加密運算也被視為可能改變未來執法調查方式的重要技術",
         "source": "iThome資安"
       },
       {
@@ -322,13 +322,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-        "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-        "pubDate": "Wed, 09 Sep 2026 13:49:32 +0530",
-        "description": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, r",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
         "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
         "pubDate": "Wed, 09 Sep 2026 12:48:33 -0400",
@@ -350,39 +343,46 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Over 36,000 exposed Plex servers vulnerable to recent flaws",
-        "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
-        "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400",
-        "description": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
-        "source": "BleepingComputer"
+        "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
+        "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
+        "pubDate": "Thu, 10 Sep 2026 20:06:47 +0530",
+        "description": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't been released on the official Android app marketplace",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Man gets 15 years for extorting women with AI-generated porn videos",
-        "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
-        "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400",
-        "description": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
-        "source": "BleepingComputer"
+        "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
+        "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
+        "pubDate": "Thu, 10 Sep 2026 17:15:05 +0530",
+        "description": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that ",
+        "source": "TheHackerNews"
       },
       {
-        "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
-        "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
-        "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400",
-        "description": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
-        "source": "BleepingComputer"
+        "title": "PaperCut Attacker Uses Hundreds of AI Agents to Compromise 440+ Instances",
+        "link": "https://thehackernews.com/2026/09/papercut-attacker-uses-hundreds-of-ai.html",
+        "pubDate": "Thu, 10 Sep 2026 17:11:53 +0530",
+        "description": "A suspected Russian-speaking cyber actor has been attributed to the use of artificial intelligence (AI) to devise exploits targeting a recently disclosed pair of security flaws in PaperCut NG/MF and break into hundreds of instances.\n\nAccording to ind",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Google warns of new Chrome zero-day bug exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
-        "pubDate": "Wed, 09 Sep 2026 02:25:48 -0400",
-        "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
-        "source": "BleepingComputer"
+        "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
+        "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
+        "pubDate": "Thu, 10 Sep 2026 17:03:43 +0530",
+        "description": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9.\n\nA work profile is a separate ",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
-        "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400",
-        "description": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
-        "source": "BleepingComputer"
+        "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
+        "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+        "pubDate": "Thu, 10 Sep 2026 16:06:46 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agen",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
+        "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
+        "pubDate": "Thu, 10 Sep 2026 12:42:55 +0530",
+        "description": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-source AI gateway, the software a company puts between its applic",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -401,45 +401,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Massachusetts hits data centers with new clean power rules",
-        "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
-        "pubDate": "Wed, 09 Sep 2026 21:43:34 +0000",
-        "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+        "title": "Instagram’s latest feature lets you add tagged posts to your profile grid",
+        "link": "https://techcrunch.com/2026/09/10/instagrams-latest-feature-lets-you-add-tagged-posts-to-your-profile-grid/",
+        "pubDate": "Thu, 10 Sep 2026 16:31:25 +0000",
+        "description": "Instagram's newest feature lets users take posts from the Tagged tab and move it to their main profile grid instead.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
-        "link": "https://techcrunch.com/2026/09/09/apples-new-ceo-is-reviving-a-steve-jobs-strategy-from-25-years-ago/",
-        "pubDate": "Wed, 09 Sep 2026 20:58:09 +0000",
-        "description": "John Ternus made the case in his first keynote as Apple CEO that the iPhone isn't going anywhere.",
+        "title": "Google is making it easier to switch between password managers on Android",
+        "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
+        "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
+        "description": "Google's new feature will transfer your passkeys as well.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
-        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
-        "pubDate": "Wed, 09 Sep 2026 20:24:48 +0000",
-        "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "title": "The Boring Company raises $3B in round led by UAE",
+        "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
+        "pubDate": "Thu, 10 Sep 2026 15:07:27 +0000",
+        "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
         "source": "TechCrunch"
       },
       {
-        "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
-        "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
-        "pubDate": "Wed, 09 Sep 2026 20:03:43 +0000",
-        "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+        "title": "AI agents are flooding public services with new requests",
+        "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
+        "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
+        "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
         "source": "TechCrunch"
       },
       {
-        "title": "There are new shiny iPhones, so Apple is making you pay more for older models",
-        "link": "https://techcrunch.com/2026/09/09/there-are-new-shiny-iphones-so-apple-is-making-you-pay-more-for-older-models/",
-        "pubDate": "Wed, 09 Sep 2026 19:56:18 +0000",
-        "description": "Apple is raising the price of its existing iPhone models by $100, including iPhone 16, iPhone 17, and iPhone Air.",
+        "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
+        "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
+        "pubDate": "Thu, 10 Sep 2026 14:34:09 +0000",
+        "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
         "source": "TechCrunch"
       },
       {
-        "title": "The hinge for Apple’s new foldable phone was built with AI",
-        "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
-        "pubDate": "Wed, 09 Sep 2026 19:21:48 +0000",
-        "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone.",
+        "title": "Maven Robotics wants to steal your robot deployment deal",
+        "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
+        "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
+        "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
         "source": "TechCrunch"
       },
       {
@@ -467,14 +467,14 @@
         "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
         "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
         "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-        "description": "The buzzy startup raised $600 million in its Series C round.",
+        "description": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
         "source": "TechCrunch"
       },
       {
         "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
         "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
         "pubDate": "Thu, 10 Sep 2026 12:25:08 +0000",
-        "description": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
+        "description": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc.' shouldn’t be watered down.",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Snapchat makes it easier to plan events and meetups",
-        "link": "https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups",
-        "pubDate": "2026-09-10T09:00:00-04:00",
-        "description": "Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts - into real life get-togethers without ever leaving ",
+        "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
+        "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
+        "pubDate": "2026-09-10T12:58:44-04:00",
+        "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at c",
         "source": "TheVerge"
       },
       {
-        "title": "Mathematicians want proof OpenAI didn’t use their work",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
-        "pubDate": "2026-09-10T07:00:57-04:00",
-        "description": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematic",
+        "title": "Electric air taxis get the green light for test flights in Texas",
+        "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
+        "pubDate": "2026-09-10T12:00:00-04:00",
+        "description": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administra",
         "source": "TheVerge"
       },
       {
-        "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
-        "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
-        "pubDate": "2026-09-10T06:00:00-04:00",
-        "description": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules",
+        "title": "Universal Music is launching an AI music platform with ElevenLabs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
+        "pubDate": "2026-09-10T11:38:19-04:00",
+        "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is deve",
         "source": "TheVerge"
       },
       {
-        "title": "The Trump phone just got a $250 price hike",
-        "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
-        "pubDate": "2026-09-10T05:13:04-04:00",
-        "description": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. Th",
+        "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
+        "link": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
+        "pubDate": "2026-09-10T11:00:00-04:00",
+        "description": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no",
         "source": "TheVerge"
       },
       {
-        "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
-        "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
-        "pubDate": "2026-09-10T05:07:00-04:00",
-        "description": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VR",
+        "title": "Wolverine on the PS5 goes back to a simpler (and bloodier) style of action game",
+        "link": "https://www.theverge.com/games/992937/wolverine-review-ps5",
+        "pubDate": "2026-09-10T11:00:00-04:00",
+        "description": "Marvel's Wolverine captures just how angry its lead character is. The latest PS5 exclusive from Spider-Man developer Insomniac, Wolverine is a straightforward action game that is at its best when you're (literally) slicing through enemies or thrust i",
         "source": "TheVerge"
       }
     ],
