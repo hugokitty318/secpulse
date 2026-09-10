@@ -1,7 +1,84 @@
 {
-  "ts": "2026-09-10T00:11:10.792481Z",
+  "ts": "2026-09-10T04:42:14.696243Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "研究人員揭露竊取加密貨幣的ClickFix攻擊活動，濫用Google試算表作為C2管道",
+        "link": "https://www.ithome.com.tw/news/178842",
+        "pubDate": "2026-09-10 12:20",
+        "description": "攻擊者以利用加密貨幣API漏洞牟利的假消息為誘餌，誘騙使用者貼上JavaScript，利用Google試算表傳送惡意程式碼並竄改交易資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cisco修補Nexus 9000系列交換器重大遠端程式碼執行漏洞",
+        "link": "https://www.ithome.com.tw/news/178840",
+        "pubDate": "2026-09-10 11:21",
+        "description": "Nexus 9000交換器的Silicon One網路晶片整合軟體元件存在漏洞，可能導致遠端執行程式碼或強制重啟，建議用戶儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI籲美國制定強制AI安全規範，要求頂尖AI業者接受獨立評估",
+        "link": "https://www.ithome.com.tw/news/178839",
+        "pubDate": "2026-09-10 11:21",
+        "description": "OpenAI呼籲美國建立強制性AI安全規範，鎖定開發頂尖AI系統的少數業者，要求納入安全測試、獨立評估與重大事件通報",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多個中國駭客組織利用漏洞利用工具包BlueMoon，串連Chrome與Windows零時差漏洞從事攻擊",
+        "link": "https://www.ithome.com.tw/news/178838",
+        "pubDate": "2026-09-10 11:10",
+        "description": "資安公司Proofpoint揭露漏洞利用工具包BlueMoon的攻擊活動，確認有4個從事網路間諜活動的中國駭客組織使用，此工具利用3個零時差漏洞，包含Chrome高風險漏洞CVE-2026-85046、Windows本機權限提升漏洞CVE-2026-85880，以及一個尚未登記CVE編號的V8沙箱逃逸漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員Nightmare Eclipse揭露Microsoft Defender零時差漏洞ShieldCrash",
+        "link": "https://www.ithome.com.tw/news/178837",
+        "pubDate": "2026-09-10 10:51",
+        "description": "在微軟發布9月例行更新（Patch Tuesday）不久，研究員Nightmare Eclipse公布Microsoft Defender零時差漏洞ShieldCrash，並指出該問題源自ShieldBreak（CVE-2026-69414）修補不完整造成",
+        "source": "iThome資安"
+      },
+      {
+        "title": "計程車叫車服務業者大車隊子公司遭網路攻擊",
+        "link": "https://www.ithome.com.tw/news/178835",
+        "pubDate": "2026-09-10 09:49",
+        "description": "本週上櫃計程車叫車服務公司大車隊（2640）發布資安重訊，指出子公司全球商務科技遭到網路攻擊，尚待釐清是否出現資料外洩的情況",
+        "source": "iThome資安"
+      },
+      {
+        "title": "BigBear 2.0網釣攻擊鎖定Microsoft 365，258家組織遭入侵",
+        "link": "https://www.ithome.com.tw/news/178815",
+        "pubDate": "2026-09-10 08:00",
+        "description": "網釣即服務平臺BigBear 2.0鎖定Microsoft 365帳號，攻擊者藉由對手中間人攻擊繞過MFA，研究人員確認已有258家組織的帳號遭到入侵",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Europol盤點新興隱私強化技術，Deepfake偵測與加密運算受關注",
+        "link": "https://www.ithome.com.tw/news/178793",
+        "pubDate": "2026-09-10 08:00",
+        "description": "歐洲刑警組織（Europol）盤點新興隱私強化技術，Deepfake偵測是專家最關注議題；AI則成為多項相關技術的重要基礎，加密運算也被視為可能改變未來執法調查方式的重要技術",
+        "source": "iThome資安"
+      },
+      {
+        "title": "FreeIPA漏洞鏈可讓未經身分驗證的攻擊者取得管理權限",
+        "link": "https://www.ithome.com.tw/news/178806",
+        "pubDate": "2026-09-10 08:00",
+        "description": "FreeIPA修補高風險漏洞鏈，攻擊者不需要既有帳號，只要能連線LDAP服務，就可能在未經身分驗證的情況下取得管理權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI代理資安怎麼做？AWS與SANS提出異常偵測與事件應變建議",
+        "link": "https://www.ithome.com.tw/news/178796",
+        "pubDate": "2026-09-10 08:00",
+        "description": "AI代理開始能自行存取企業資料、呼叫外部工具並連續執行任務後，企業資安也面臨新的應變壓力。AWS與SANS Institute建議，企業應管好代理身分與權限、建立異常行為基準，並依操作影響決定哪些任務可自動執行、哪些必須由人工確認",
+        "source": "iThome資安"
+      },
+      {
+        "title": "蘋果發表iPhone 18 Pro系列與首款摺疊機iPhone Duo",
+        "link": "https://www.ithome.com.tw/news/178836",
+        "pubDate": "2026-09-10  10:09:56",
+        "description": "蘋果在周三（9/9）發表了首款iPhone摺疊機iPhone Duo，以及iPhone 18 Pro與iPhone 18 Pro Max，這3款高階版iPhone皆採用2奈米製程的A20 Pro晶片。",
+        "source": "iThome"
+      },
       {
         "title": "新一波Shai-Hulud供應鏈攻擊再起，TanStack Query套件遭植入蠕蟲Trinitite",
         "link": "https://www.ithome.com.tw/news/178830",
@@ -36,97 +113,6 @@
         "pubDate": "2026-09-09 15:49",
         "description": "本週Adobe針對旗下9款應用系統發布更新，其中他們將ColdFusion、Campaign Classic修補順序列為最優先層級，呼籲用戶應儘速安排套用相關更新",
         "source": "iThome資安"
-      },
-      {
-        "title": "美國警告Windows、Magento、N-central漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/178814",
-        "pubDate": "2026-09-09 15:26",
-        "description": "美國網路安全與基礎設施安全局（CISA）表示，他們掌握Windows、Magento、N-central漏洞遭積極利用的跡象，要求聯邦機構在期限內完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月9日，微軟9月例行更新破紀錄！修補近1,000個自家產品漏洞",
-        "link": "https://www.ithome.com.tw/news/178813",
-        "pubDate": "2026-09-09 15:13",
-        "description": "在9月例行更新（Patch Tuesday）裡，微軟一口氣公布及修補974個自家產品的資安漏洞，若再加上25個第三方元件的弱點，總數量將直逼1,000個",
-        "source": "iThome資安"
-      },
-      {
-        "title": "McAfee揭露冒牌Minecraft網站持續散布惡意軟體WeedHack，C2遭封鎖仍難遏阻攻擊活動",
-        "link": "https://www.ithome.com.tw/news/178811",
-        "pubDate": "2026-09-09 14:35",
-        "description": "攻擊者利用假冒遊戲用戶端網站及Discord等服務，繼續散播惡意軟體，McAfee過去1個月已攔截逾6,300次惡意網站存取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ChatGPT跨帳號隔離遭突破，惡意提示可借用受害者權限存取外部資料",
-        "link": "https://www.ithome.com.tw/news/178808",
-        "pubDate": "2026-09-09 13:16",
-        "description": "ChatGPT不同帳號的沙箱可透過共用內部服務交換資料，惡意提示能把通道變成隱藏任務管道，借用受害者ChatGPT可用的資料、工具與連接App權限，存取對話、檔案與Gmail等內容",
-        "source": "iThome資安"
-      },
-      {
-        "title": "銀行迎戰虛擬資產新業務，資安業者共組「穩定幣暨虛擬資產安全聯盟」，協助打造自主可控數位金融安全",
-        "link": "https://www.ithome.com.tw/news/178804",
-        "pubDate": "2026-09-09 12:53",
-        "description": "隨著《虛擬資產服務法》三讀通過並正式公布，台灣虛擬資產監理架構邁入新階段，金融機構如何安全接軌穩定幣與數位資產應用，成為當前產業關注焦點。台灣資訊安全協會昨日（9月8日）宣布成立「穩定幣暨虛擬資產安全聯盟」，首波集結中華資安國際、博士旺創新、凱特納科技與普鴻資訊4家業者，串起金鑰治理、資產保管、鏈上交易安全到SOC監控，期望協助國內VASP建立自主可控、具國際競爭力的數位金融安全生態圈",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Adobe修補Magento零時差漏洞StyleSmuggler",
-        "link": "https://www.ithome.com.tw/news/178807",
-        "pubDate": "2026-09-09 12:40",
-        "description": "本週Adobe針對電商平臺Magento、Adobe Commerce，修補已遭利用的零時差漏洞StyleSmuggler，並將其登記為CVE-2026-75650",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安業者揭露逾9,300個外洩AWS金鑰仍可用，其中數百個具備企業帳號完整控制權限",
-        "link": "https://www.ithome.com.tw/news/178805",
-        "pubDate": "2026-09-09 12:25",
-        "description": "研究人員發現大量AWS存取金鑰外洩多年仍未撤銷，其中768個企業金鑰具備完整管理權限，最大洩漏來源為Hugging Face公開資料集",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SAP發布9月例行更新，修補4個重大漏洞",
-        "link": "https://www.ithome.com.tw/news/178801",
-        "pubDate": "2026-09-09 11:53",
-        "description": "本週SAP發布9月例行更新（Security Patch Day），一共修補19個弱點，其中4個為重大等級，影響Extended Passport（EPP）、NetWeaver，以及Cloud Application Programming Model（CAP）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟修補Windows更新元件與ALPC的零時差漏洞，並指出已被用於實際攻擊",
-        "link": "https://www.ithome.com.tw/news/178800",
-        "pubDate": "2026-09-09 11:42",
-        "description": "微軟在9月例行更新（Patch Tuesday）修補的資安弱點當中，有兩個權限提升漏洞CVE-2026-81963、CVE-2026-85880特別值得留意，因為已偵測到實際遭利用的情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "HPE修補ArubaOS-CX網路作業系統34個資安漏洞，包含可導致遠端程式碼執行的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/178798",
-        "pubDate": "2026-09-09 11:00",
-        "description": "HPE針對企業交換器使用的ArubaOS-CX平臺發布更新，影響多款CX系列交換器產品，其中最嚴重漏洞可能導致遠端攻擊者提升權限並執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI宣稱其AI系統解出了七大千禧年數學難題之一",
-        "link": "https://www.ithome.com.tw/news/178803",
-        "pubDate": "2026-09-09  12:09:42",
-        "description": "OpenAI周二（9/8）宣布，尚未公開的內部AI模型解出千禧年數學難題「Navier–Stokes Existence and Smoothness」（納維-斯托克斯存在性與光滑性問題），但旋即遭控涉及學術倫理爭議。",
-        "source": "iThome"
-      },
-      {
-        "title": "澳洲提議要求社交平臺強制開放演算法自主選擇權",
-        "link": "https://www.ithome.com.tw/news/178824",
-        "pubDate": "2026-09-09  04:09:06",
-        "description": "澳洲艾班尼斯政府（Albanese Government）周二（9/8）公布《數位注意義務》（Digital Duty of Care）草案，祭出全球罕見的「我的動態，我的選擇」（My Feed, My Way）新制，強制社交平臺賦予用戶自主掌控演算法的權利，並對違規企業開罰最高1.092億澳元（約新臺幣22.8億元）的天價罰款。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta推出個人AI助理Muse",
-        "link": "https://www.ithome.com.tw/news/178809",
-        "pubDate": "2026-09-09  01:09:30",
-        "description": "Meta周二（9/8）發表專為大眾打造的個人AI助理Muse。不同於傳統僅能回答問題的聊天機器人，Muse具備實際執行任務的能力，能協助用戶處理日常事務、分擔專案工作，並將長期目標轉化為具體行動計畫。\nMuse奠基在Muse Spark模型上。每位使用者在雲端擁有專屬的Muse Secure VM，裡面存放代理程式、個人資料與連接憑證；同時存在一個獨立的Sentinel代理於系統層面監督Muse對外執行的動作，只有在取得用戶同意或授權後才會執行。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -222,10 +208,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
-        "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 06:01:00 +0800",
-        "description": "因為找不到價格合理、又具備一定靈活度的機器人靈巧手，Gesture Platforms 創辦人 Will 決定自己做一隻。這個原本從興趣開始的個人專案，經過數年開發，今年進一步登上 Kickstarter 募資，最終募得 12.37 萬美元，是原定 6 萬美元目標的 2 倍以上。 由鴻海科技集團、科技報橘與三創育成共同舉辦的 333 Robots Community Meetup，就邀請到 Will 分享 Gesture HW1 的開發歷程，現場也由 RCL 人型格鬥機器人競技聯盟帶來實機表演賽",
+        "title": "【機器人的下一關：聽覺】會走路、拿東西還不夠，聽不懂人話就難被採用",
+        "link": "https://techorange.com/2026/09/10/robots-that-cant-communicate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 10:08:13 +0800",
+        "description": "近年科技展上的人形機器人，已經能夠行走、避障、搬運物品，甚至完成過去難以想像的精細操作；但當人們真正站到機器人面前，嘗試與它交談時，它還是可能出現聽錯指令、在錯誤的時間回應等問題，甚至只要周圍多出幾個說話者，就無法判斷聲音從哪裡來。 冰島的聲學模擬與空間音訊技術公司 Treble Technologies，其共同創辦人暨商務長 Gunnar Pétur Hauksson 認為，機器人能不能被人類廣泛接受，最後不只取決於它看得多準、走得多穩，更取決於人們能否自然地與它溝通。 因為語音互動直接影響的",
         "source": "TechOrange"
       },
       {
@@ -572,19 +558,29 @@
         "products": "Mozilla Firefox Denial of Service Vulnerability"
       },
       {
-        "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260902",
-        "pubDate": "Wed, 02 Sep 2026 11:00:00 +0800",
+        "title": "MongoDB Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260910",
+        "pubDate": "Thu, 10 Sep 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Mozilla Products"
+        "products": "MongoDB"
+      },
+      {
+        "title": "Palo Alto Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260910",
+        "pubDate": "Thu, 10 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Palo Alto Products"
       },
       {
         "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260902",
-        "pubDate": "Wed, 02 Sep 2026 10:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260910",
+        "pubDate": "Thu, 10 Sep 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
@@ -592,14 +588,14 @@
         "products": "Google Chrome"
       },
       {
-        "title": "F5 Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20260902",
-        "pubDate": "Wed, 02 Sep 2026 09:00:00 +0800",
+        "title": "Citrix Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260910",
+        "pubDate": "Thu, 10 Sep 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "F5 Products"
+        "products": "Citrix Products"
       },
       {
         "title": "Cisco Products Multiple Vulnerabilities",
@@ -620,16 +616,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "GitHub Enterprise Server"
-      },
-      {
-        "title": "Jenkins Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20260903",
-        "pubDate": "Thu, 03 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Jenkins"
       },
       {
         "title": "Aruba Products Multiple Vulnerabilities",
