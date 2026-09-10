@@ -1,7 +1,21 @@
 {
-  "ts": "2026-09-10T09:39:26.009020Z",
+  "ts": "2026-09-10T13:48:55.485110Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Huntress揭露北韓冒用身分假求職攻擊擴大，從IT延伸至醫療與業務職務",
+        "link": "https://www.ithome.com.tw/news/178855",
+        "pubDate": "2026-09-10 19:01",
+        "description": "北韓人員偽造或竊取身分應徵海外企業職缺，取得合法員工身分與內部權限，除了賺取外匯，也可能進一步竊取資料或植入惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安業者揭露伊朗駭客組織假求職攻擊活動，鎖定軟體工程師散布跨平臺木馬",
+        "link": "https://www.ithome.com.tw/news/178853",
+        "pubDate": "2026-09-10 18:08",
+        "description": "伊朗駭客組織偽裝科技公司招募人員，將遠端存取木馬NodeRabbit與PollCat藏入求職程式設計測驗，攻擊Windows、Linux及macOS等平臺",
+        "source": "iThome資安"
+      },
       {
         "title": "Fortinet設備已知漏洞遭鎖定，攻擊者藉此植入RAT木馬PivotC2",
         "link": "https://www.ithome.com.tw/news/178851",
@@ -94,24 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "FreeIPA漏洞鏈可讓未經身分驗證的攻擊者取得管理權限",
-        "link": "https://www.ithome.com.tw/news/178806",
-        "pubDate": "2026-09-10 08:00",
-        "description": "FreeIPA修補高風險漏洞鏈，攻擊者不需要既有帳號，只要能連線LDAP服務，就可能在未經身分驗證的情況下取得管理權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI代理資安怎麼做？AWS與SANS提出異常偵測與事件應變建議",
-        "link": "https://www.ithome.com.tw/news/178796",
-        "pubDate": "2026-09-10 08:00",
-        "description": "AI代理開始能自行存取企業資料、呼叫外部工具並連續執行任務後，企業資安也面臨新的應變壓力。AWS與SANS Institute建議，企業應管好代理身分與權限、建立異常行為基準，並依操作影響決定哪些任務可自動執行、哪些必須由人工確認",
-        "source": "iThome資安"
-      },
-      {
-        "title": "蘋果發表iPhone 18 Pro系列與首款摺疊機iPhone Duo",
-        "link": "https://www.ithome.com.tw/news/178836",
-        "pubDate": "2026-09-10  10:09:56",
-        "description": "蘋果在周三（9/9）發表了首款iPhone摺疊機iPhone Duo，以及iPhone 18 Pro與iPhone 18 Pro Max，這3款高階版iPhone皆採用2奈米製程的A20 Pro晶片。",
+        "title": "陽明海運推動智慧船舶轉型，以衛星、5G克服遠洋船舶通訊限制，導入AI無人機巡檢與船務管理",
+        "link": "https://www.ithome.com.tw/news/178854",
+        "pubDate": "2026-09-10  06:09:18",
+        "description": "遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推動智慧船隊發展，與大世科及伸波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。\n這項應用是在國發會支持下進行，陽明海運以14,000 TEU級的貨櫃輪「承明輪」（YM Wisdom）及2,800 TEU級「好明輪」（YM Certainty）作為驗證場域，整合高低軌衛星、靠",
         "source": "iThome"
       },
       {
@@ -194,10 +194,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "9% 作弊、24% 吹哨：DeepMind 揭 AI 代理的「自我治理」為何仍不夠？",
-        "link": "https://techorange.com/2026/09/08/openai-deepminds-cheating-math-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 08 Sep 2026 18:28:03 +0800",
-        "description": "AI 代理自行建立溝通管道、並在群體中迅速擴散作弊手法的情況，接連受到關注，凸顯多代理系統的監督難題。繼 OpenAI 代理把冷門德文 Wiki 變成留言板之後，Google DeepMind 的一項實驗也顯示，100 個代理在共同解題時自發出現作弊、蔓延與吹哨。 Google DeepMind 實驗揭密自發性漏洞擴散 《Import AI》提及，OpenAI 的自主代理在執行網路檢索任務期間，原本只被賦予讀取網路的能力、不能寫入，卻找到方法把資訊寫進一個冷門的德國 Wiki，藉此互相詢問答案、",
+        "title": "Agility 揭人形機器人的「勞工成本」：一台 Digit 5 年 40 萬美元，多久幫你賺回來？",
+        "link": "https://techorange.com/2026/09/10/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 10 Sep 2026 18:28:56 +0800",
+        "description": "在工廠導入一台人形機器人，到底要花多少錢？機器人公司 Agility Robotics 提交證券文件，首度公開較完整的旗下雙足人形機器人 Digit 成本。《Business Insider》報導，以文件列出的其中一種商業模式來看，下一代 Digit v5 售價約 20 萬美元，另需約 2 萬美元的一次性部署費；投入運作後，每台機器人每年還有約 3.6 萬美元的軟體與維護費用。 可運作 20 小時、負載近 23 公斤：Agility 揭 Digit 機器人商業化算盤 《Business Insi",
         "source": "TechOrange"
       },
       {
@@ -329,13 +329,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-        "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-        "pubDate": "Wed, 09 Sep 2026 13:06:49 +0530",
-        "description": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7.\n\nWhen Apache loads any of the three appliances' own PHP scrip",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
         "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
         "pubDate": "Wed, 09 Sep 2026 12:48:33 -0400",
@@ -343,32 +336,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-        "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-        "pubDate": "Wed, 09 Sep 2026 12:17:27 +0530",
-        "description": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender.\n\nThe vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), al",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-        "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-        "pubDate": "Wed, 09 Sep 2026 11:55:45 +0530",
-        "description": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application\n",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Veradigm warns of patient data breach after ransomware gang claims attack",
         "link": "https://www.bleepingcomputer.com/news/security/veradigm-discloses-patient-data-breach-after-gentlemen-gang-claims-attack/",
         "pubDate": "Wed, 09 Sep 2026 11:31:23 -0400",
         "description": "Healthcare technology company Veradigm disclosed a data breach after a cybersecurity incident at one of its third-party vendors exposed patients' personal data. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Patches Record 974 Flaws, Including Two Exploited Windows Zero-Days",
-        "link": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
-        "pubDate": "Wed, 09 Sep 2026 10:11:29 +0530",
-        "description": "Microsoft on Tuesday broke Patch Tuesday records by addressing an earth-shattering 974 vulnerabilities spanning its software portfolio, including two flaws that it said have been actively exploited in the wild.\n\nThese include 723 flaws in Windows, 11",
-        "source": "TheHackerNews"
       },
       {
         "title": "MFA's Weakest Link: Account Recovery Is the New Attack Path",
@@ -382,6 +354,34 @@
         "link": "https://www.bleepingcomputer.com/news/security/over-36-000-plex-servers-unpatched-against-recently-disclosed-flaws/",
         "pubDate": "Wed, 09 Sep 2026 06:11:29 -0400",
         "description": "Over 36,000 Plex Media servers exposed online remain unpatched against multiple security vulnerabilities and are vulnerable to attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Man gets 15 years for extorting women with AI-generated porn videos",
+        "link": "https://www.bleepingcomputer.com/news/security/man-gets-15-years-in-prison-for-cyberstalking-and-sextortion/",
+        "pubDate": "Wed, 09 Sep 2026 04:44:22 -0400",
+        "description": "An Ohio man was sentenced to 15 years in prison for multiple cybercrimes, including sextortion and cyberstalking of numerous victims using AI-generated sexually explicit content. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New Microsoft Defender 'ShieldCrash' zero-day grants SYSTEM access",
+        "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldcrash-zero-day-grants-system-access/",
+        "pubDate": "Wed, 09 Sep 2026 03:30:15 -0400",
+        "description": "An anonymous security researcher known as Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldCrash\" right after Microsoft rolled out its September 2026 Patch Tuesday security updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Google warns of new Chrome zero-day bug exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+        "pubDate": "Wed, 09 Sep 2026 02:25:48 -0400",
+        "description": "Google has patched 230 vulnerabilities on Tuesday, including another actively exploited Chrome zero-day bug, the seventh such vulnerability patched since the start of the year. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft adds age-awareness APIs that can tell if users are children, teens, or adults",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-adds-age-awareness-apis-that-can-tell-if-users-are-children-teens-or-adults/",
+        "pubDate": "Tue, 08 Sep 2026 21:16:27 -0400",
+        "description": "Microsoft is adding new age-awareness APIs to Windows 11 that will allow apps to determine whether someone is a child, teenager, or adult without exposing their exact date of birth. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -443,45 +443,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple Watch’s new feature listens to your chats and recaps them",
-        "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-feature-listens-to-your-chats-and-recaps-them/",
-        "pubDate": "Wed, 09 Sep 2026 19:08:59 +0000",
-        "description": "The Siri Recap feature is similar to other note-taking apps like Granola.",
+        "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
+        "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
+        "pubDate": "Thu, 10 Sep 2026 13:34:01 +0000",
+        "description": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
         "source": "TechCrunch"
       },
       {
-        "title": "Harvey hits $15.5B valuation, months after reaching $11B",
-        "link": "https://techcrunch.com/2026/09/09/harvey-hits-15-5b-valuation-months-after-reaching-11b/",
-        "pubDate": "Wed, 09 Sep 2026 18:34:24 +0000",
-        "description": "The legal AI startup and VC darling has nearly doubled its valuation in nine months.",
+        "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
+        "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
+        "pubDate": "Thu, 10 Sep 2026 13:21:09 +0000",
+        "description": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
-        "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
-        "pubDate": "Wed, 09 Sep 2026 18:16:29 +0000",
-        "description": "The update uses Apple Intelligence to make better sense of your health data.",
+        "title": "Snapchat takes aim at Partiful with new event-planning features",
+        "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
+        "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
+        "description": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple unveils Watch Series 12 and Watch Ultra 4 with an AI upgrade that can recap your day",
-        "link": "https://techcrunch.com/2026/09/09/apple-unveils-watch-series-12-and-watch-ultra-4-with-an-ai-upgrade-that-can-recap-your-day/",
-        "pubDate": "Wed, 09 Sep 2026 18:08:46 +0000",
-        "description": "Most notably, Apple is taking aim at the growing wave of AI wearables with new \"Audio Intelligence\" features that let you rewind moments and remember details from daily conversations.",
+        "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
+        "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
+        "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
+        "description": "The buzzy startup raised $600 million in its Series C round.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
-        "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
-        "pubDate": "Wed, 09 Sep 2026 18:08:35 +0000",
-        "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+        "title": "European founders and VCs urge lawmakers ‘to get EU Inc right’",
+        "link": "https://techcrunch.com/2026/09/10/european-founders-and-vcs-urge-lawmakers-to-get-eu-inc-right/",
+        "pubDate": "Thu, 10 Sep 2026 12:25:08 +0000",
+        "description": "Amid negotiations for a new EU-wide corporate status, an open letter signed by unicorn founders and investors warns that 'EU Inc' shouldn’t be watered down.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple shows off AirPods 5 with improved active noise cancellation",
-        "link": "https://techcrunch.com/2026/09/09/apple-shows-off-airpods-5-with-improved-active-noise-cancellation/",
-        "pubDate": "Wed, 09 Sep 2026 18:06:40 +0000",
-        "description": "The AirPods 5 support better noise cancellation, Siri AI, and offer volume controls on the stem.",
+        "title": "US Army places $11M bet on Austin-based GPS alternative Tern",
+        "link": "https://techcrunch.com/2026/09/10/us-army-places-11m-bet-on-austin-based-gps-alternative-tern/",
+        "pubDate": "Thu, 10 Sep 2026 12:00:00 +0000",
+        "description": "Tern has described its tech as \"Google Maps for the battlefield.\"",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Xbox picks up Kojima&#8217;s Physint after PlayStation dropped it",
-        "link": "https://www.theverge.com/games/993205/physint-hideo-kojima-sony-playstation-microsoft-xbox",
-        "pubDate": "2026-09-10T04:22:40-04:00",
-        "description": "Xbox will now publish Physint, an upcoming game from Metal Gear creator Hideo Kojima, after PlayStation decided to cancel it. The unexpected swap came in a flurry of announcements from PlayStation, Xbox, Kojima Productions, and Kojima himself. Sony, ",
+        "title": "Snapchat makes it easier to plan events and meetups",
+        "link": "https://www.theverge.com/tech/993184/snapchat-makes-it-easier-to-plan-events-and-meetups",
+        "pubDate": "2026-09-10T09:00:00-04:00",
+        "description": "Snapchat is launching Plans, a new suite of features designed to help turn the plans already being made in group chats - everything from birthday celebrations to study sessions and weekend hangouts - into real life get-togethers without ever leaving ",
         "source": "TheVerge"
       },
       {
-        "title": "Volvo XC40 PHEV is back with a new look, better sensors, and Gemini AI",
-        "link": "https://www.theverge.com/transportation/992443/volvo-xc40-phev-specs-price-gemini",
-        "pubDate": "2026-09-10T03:00:00-04:00",
-        "description": "It's been about three years since Volvo discontinued its plug-in hybrid XC40. The mild hybrid version remains on sale in the US and elsewhere, alongside the electric EX40. Today, Volvo announced it was bringing back the PHEV version and giving it a m",
+        "title": "Mathematicians want proof OpenAI didn’t use their work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/993263/where-does-openai-get-mathematics-training-data",
+        "pubDate": "2026-09-10T07:00:57-04:00",
+        "description": "Another researcher is challenging OpenAI about the data driving its increasingly impressive array of mathematical discoveries. Just days after a bitter row erupted over whether the company's models benefited from unpublished work, a second mathematic",
         "source": "TheVerge"
       },
       {
-        "title": "There aren’t AirPods with cameras yet and I hope it stays that way",
-        "link": "https://www.theverge.com/tech/993064/no-airpods-with-cameras-apple-event",
-        "pubDate": "2026-09-09T19:00:04-04:00",
-        "description": "September Apple events are always a swirl of information and new, exciting products, and today's was no different. Apple announced its first foldable, the iPhone Duo, alongside the iPhone 18 Pro and Pro Max; active noise cancellation (ANC) is now on ",
+        "title": "The variable aperture isn’t the cool part of the iPhone 18 Pro’s camera",
+        "link": "https://www.theverge.com/tech/993155/variable-aperture-iphone-18-pro-photography",
+        "pubDate": "2026-09-10T06:00:00-04:00",
+        "description": "Apple always makes a big show of the latest cameras in its phones, and the major talking point of the iPhone 18 Pro is about the new variable aperture. Both the iPhone 18 Pro and Pro Max have an adjustable mechanical iris in their main camera modules",
         "source": "TheVerge"
       },
       {
-        "title": "The black iPhone Pro returns",
-        "link": "https://www.theverge.com/tech/993048/iphone-18-pro-black-color",
-        "pubDate": "2026-09-09T18:37:51-04:00",
-        "description": "Apple has seen reason: It has a black model in the iPhone Pro lineup again. Last year, Apple went bold with its colors for the iPhone 17 Pro, offering a flashy orange, a shiny silver, and a dark blue. Don't get me wrong, they looked nice. But there w",
+        "title": "The Trump phone just got a $250 price hike",
+        "link": "https://www.theverge.com/gadgets/993242/trump-phone-t1-price-hike",
+        "pubDate": "2026-09-10T05:13:04-04:00",
+        "description": "Bad news if you didn't lock in a Trump phone at launch: It now costs $749, a $250 increase on its price at launch. The T1 Phone itself hasn't changed. Trump Mobile didn't announce the price increase, instead quietly changing its website overnight. Th",
         "source": "TheVerge"
       },
       {
-        "title": "The incomplete history of Duo devices",
-        "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
-        "pubDate": "2026-09-09T18:23:35-04:00",
-        "description": "Apple announced the company's first device with a folding screen today, the iPhone Duo, but that's where the firsts end. The Duo is not only far from the first foldable on the market thanks to the efforts of Samsung and Google, but it's also not the ",
+        "title": "Nintendo’s latest Switch 2 update adds VRR support in TV mode",
+        "link": "https://www.theverge.com/news/993231/nintendo-switch-2-vrr-support-firmware-update",
+        "pubDate": "2026-09-10T05:07:00-04:00",
+        "description": "Nintendo always promised that the Switch 2 would support variable refresh rate (VRR) when docked, but the console launched without this key feature. A new 23.0.0 firmware update now adds VRR support to the Switch 2 when it's docked and in TV mode. VR",
         "source": "TheVerge"
       }
     ],
