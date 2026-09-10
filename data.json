@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-10T20:01:33.169233Z",
+  "ts": "2026-09-10T22:32:38.513128Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,13 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Skullcandy Dime 3 earbuds expose users to Bluetooth hijacking",
-        "link": "https://www.bleepingcomputer.com/news/security/skullcandy-dime-3-earbuds-expose-users-to-bluetooth-hijacking/",
-        "pubDate": "Wed, 09 Sep 2026 17:02:14 -0400",
-        "description": "The Carnegie Mellon University CERT Coordination Center (CERT/CC) is warning that Skullcandy Dime 3 wireless earbuds accept Bluetooth pairing requests from nearby unpaired devices without requiring user interaction. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
         "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
         "pubDate": "Wed, 09 Sep 2026 16:47:07 +0530",
@@ -315,13 +308,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "US says Chinese firms extracted billions of tokens from frontier AI models",
-        "link": "https://www.bleepingcomputer.com/news/security/us-says-chinese-firms-extracted-billions-of-tokens-from-frontier-ai-models/",
-        "pubDate": "Wed, 09 Sep 2026 12:48:33 -0400",
-        "description": "U.S. cybersecurity and intelligence agencies say that six Chinese AI companies conducted industrial-scale distillation attacks on American frontier AI models since at least late 2024. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
         "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
         "pubDate": "Thu, 10 Sep 2026 23:17:38 +0530",
@@ -334,6 +320,13 @@
         "pubDate": "Thu, 10 Sep 2026 20:06:47 +0530",
         "description": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content.\n\nEarly Access apps are apps that haven't been released on the official Android app marketplace",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "New Android malware encrypts files, steals data, and harasses victims",
+        "link": "https://www.bleepingcomputer.com/news/security/new-android-malware-encrypts-files-steals-data-and-harasses-victims/",
+        "pubDate": "Thu, 10 Sep 2026 17:40:43 -0400",
+        "description": "A new Android malware strain called Mantax Otax combines ransomware and spyware capabilities to encrypt files, steal sensitive data, and spam and harass victims. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
@@ -355,6 +348,13 @@
         "pubDate": "Thu, 10 Sep 2026 17:03:43 +0530",
         "description": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9.\n\nA work profile is a separate ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "September Windows Server updates break Remote Desktop Services",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
+        "pubDate": "Thu, 10 Sep 2026 16:34:37 -0400",
+        "description": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore f",
+        "source": "BleepingComputer"
       },
       {
         "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
@@ -386,6 +386,48 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Thrive Capital led VCs into pro sports ownership; Collaborative Fund just upped that play",
+        "link": "https://techcrunch.com/2026/09/10/thrive-capital-showed-vcs-the-way-into-pro-sports-ownership-collaborative-fund-is-now-trying-its-own-version-of-the-same-play/",
+        "pubDate": "Thu, 10 Sep 2026 22:30:00 +0000",
+        "description": "Collaborative Fund just bought into D.C. United and its stadium, with  firm founder Craig Shapiro pitching it as a way to showcase for the firm's startups.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang explains why Nvidia will grow an astounding 70% next year",
+        "link": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year/",
+        "pubDate": "Thu, 10 Sep 2026 21:51:59 +0000",
+        "description": "Nvidia has its finger in every pie, and sees another year of plenty in its future, Jensen Huang says. But, he insists, its deals are not circular.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+        "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+        "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
+        "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
+        "pubDate": "Thu, 10 Sep 2026 20:59:51 +0000",
+        "description": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+        "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+        "pubDate": "Thu, 10 Sep 2026 20:57:30 +0000",
+        "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Furo’s founders left Silicon Valley — and it’s paying off",
+        "link": "https://techcrunch.com/2026/09/10/furos-founders-left-silicon-valley-and-its-paying-off/",
+        "pubDate": "Thu, 10 Sep 2026 20:48:00 +0000",
+        "description": "The three 28-year-old founders behind energy startup Furo moved from Silicon Valley and back to Germany, and yet secured $4 million in funding from mostly U.S. backers.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
         "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
@@ -450,46 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Bending Spoons to buy collaboration tools maker Miro for $1.36B, 90% less than its 2022 valuation",
-        "link": "https://techcrunch.com/2026/09/10/bending-spoons-to-buy-collaboration-tools-maker-miro-for-1-36b-90-less-than-its-2022-valuation/",
-        "pubDate": "Thu, 10 Sep 2026 14:34:09 +0000",
-        "description": "Bending Spoons is buying Miro for $1.36 billion, a huge dip in valuation for the workplace collaboration startup, which was valued at $17.5 billion in late 2021.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Maven Robotics wants to steal your robot deployment deal",
-        "link": "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
-        "pubDate": "Thu, 10 Sep 2026 14:17:37 +0000",
-        "description": "Maven Robotics emerged from stealth today with a $100 million Series A and active deployments.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google signs its biggest rice-methane carbon credit deal with Indian startup Mitti Labs",
-        "link": "https://techcrunch.com/2026/09/10/google-signs-its-biggest-rice-methane-carbon-credit-deal-with-indian-startup-mitti-labs/",
-        "pubDate": "Thu, 10 Sep 2026 13:34:01 +0000",
-        "description": "The four-year agreement will cover rice farms across three Indian states, reaching about 100,000 hectares at peak delivery.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "ID verification giant IDScan confirms data breach with more than 150 million driver’s licenses stolen",
-        "link": "https://techcrunch.com/2026/09/10/id-verification-giant-idscan-confirms-data-breach-with-more-than-150-million-drivers-licenses-stolen/",
-        "pubDate": "Thu, 10 Sep 2026 13:21:09 +0000",
-        "description": "The ID checking company said the data breach included people's full names and driver's licenses and other government-issued identity documents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Snapchat takes aim at Partiful with new event-planning features",
-        "link": "https://techcrunch.com/2026/09/10/snapchat-takes-aim-at-partiful-with-new-event-planning-features/",
-        "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-        "description": "Snapchat says the new features can be used to organize everything from birthday celebrations and sporting events to study sessions and weekend hangouts.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Defense tech Mach Industries doubles valuation to $3.7B in 3 months",
-        "link": "https://techcrunch.com/2026/09/10/defense-tech-mach-industries-doubles-valuation-to-3-7b-in-3-months/",
-        "pubDate": "Thu, 10 Sep 2026 13:00:00 +0000",
-        "description": "The buzzy startup raised another $600 million in a Series C extension round, bringing the total of the round to $900 million.",
-        "source": "TechCrunch"
+        "title": "Slack can now vibe-code interactive charts and reports inside chats",
+        "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
+        "pubDate": "2026-09-10T17:25:21-04:00",
+        "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI ",
+        "source": "TheVerge"
       },
       {
         "title": "Schools are catching on to Big Tech’s playbook",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
         "pubDate": "2026-09-10T11:38:19-04:00",
         "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is deve",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Where to preorder the new Apple Watch Series 12 and Ultra 4",
-        "link": "https://www.theverge.com/gadgets/988579/apple-watch-series-12-5g-ultra-4-preorder-buy",
-        "pubDate": "2026-09-10T11:00:00-04:00",
-        "description": "The iPhone Duo was the unequivocal star of Apple's \"Surprise and shine\" event, but not for people who were mostly paying attention for news on wearables. Thankfully, Apple had a lot to share about its new Apple Watch Series 12 and Ultra 4. There's no",
         "source": "TheVerge"
       }
     ],
