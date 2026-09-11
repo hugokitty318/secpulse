@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-11T14:24:02.443529Z",
+  "ts": "2026-09-11T17:53:27.297085Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,20 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "U.S. Disrupts Xinbi Guarantee Scam Marketplace, Freezes $52.8 Million in Crypto",
-        "link": "https://thehackernews.com/2026/09/us-disrupts-xinbi-guarantee-scam.html",
-        "pubDate": "Wed, 09 Sep 2026 23:56:05 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Wednesday announced coordinated actions aimed at an illicit online marketplace called Xinbi Guarantee that offered scam services, including seizing Telegram channels used to run the service, confiscating two cr",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Four Spy Groups Used the Same Chrome and Windows Exploit Kit Within a Week",
-        "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
-        "pubDate": "Wed, 09 Sep 2026 22:04:05 +0530",
-        "description": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.\n\nThe first in-the-wild use of ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "ThreatsDay: 200 Android Flaws, Browser-Built Phishing, 119K Scam Shops + 23 More Stories",
         "link": "https://thehackernews.com/2026/09/threatsday-200-android-flaws-browser.html",
         "pubDate": "Thu, 10 Sep 2026 23:17:38 +0530",
@@ -336,20 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Nearly 1 in 10 Exposed LiteLLM Gateways Accepted the Example \"sk-1234\" Admin Key",
-        "link": "https://thehackernews.com/2026/09/nearly-1-in-10-exposed-litellm-gateways.html",
-        "pubDate": "Thu, 10 Sep 2026 12:42:55 +0530",
-        "description": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-source AI gateway, the software a company puts between its applic",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
-        "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
-        "pubDate": "Thu, 10 Sep 2026 12:34:01 +0530",
-        "description": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomo",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
         "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
         "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
@@ -378,17 +350,45 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-        "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-        "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400",
-        "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others ",
-        "source": "BleepingComputer"
+        "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+        "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+        "pubDate": "Fri, 11 Sep 2026 22:00:18 +0530",
+        "description": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft says September updates fix mouse settings reset issues",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-        "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400",
-        "description": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+        "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+        "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+        "pubDate": "Fri, 11 Sep 2026 21:45:29 +0530",
+        "description": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.\n\nKnowledge distillation by itsel",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+        "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+        "pubDate": "Fri, 11 Sep 2026 19:59:47 +0530",
+        "description": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.\n\nThe threat actors, which the artificia",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+        "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+        "pubDate": "Fri, 11 Sep 2026 19:40:20 +0530",
+        "description": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n\nThe operation has been attributed to a cyber espi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
+        "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
+        "pubDate": "Fri, 11 Sep 2026 17:00:00 +0530",
+        "description": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise.\n\nA critical vulnerabilit",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+        "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+        "pubDate": "Fri, 11 Sep 2026 13:26:50 -0400",
+        "description": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -478,17 +478,17 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google is making it easier to switch between password managers on Android",
-        "link": "https://techcrunch.com/2026/09/10/google-is-making-it-easier-to-switch-between-password-managers-on-android/",
-        "pubDate": "Thu, 10 Sep 2026 16:00:00 +0000",
-        "description": "Google's new feature will transfer your passkeys as well.",
+        "title": "Nscale adds former OpenAI exec Fidji Simo to its board ahead of potential IPO",
+        "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
+        "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
+        "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
         "source": "TechCrunch"
       },
       {
-        "title": "The Boring Company raises $3B in round led by UAE",
-        "link": "https://techcrunch.com/2026/09/10/the-boring-company-raises-3b-in-round-led-by-uae/",
-        "pubDate": "Thu, 10 Sep 2026 15:07:27 +0000",
-        "description": "The company said it plans to dig more than 150 kilometers of tunnels in the Middle Eastern country.",
+        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
+        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
+        "pubDate": "Fri, 11 Sep 2026 15:19:00 +0000",
+        "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "New York City’s last pickpocket doesn’t need a smartphone",
-        "link": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
-        "pubDate": "2026-09-11T10:15:00-04:00",
-        "description": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards ",
+        "title": "Matt Mullenweg reportedly returns as Automattic CEO two days after getting booted",
+        "link": "https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return",
+        "pubDate": "2026-09-11T13:16:59-04:00",
+        "description": "Two days after being placed on a paid leave of absence, Matt Mullenweg says he has been reinstated as CEO of Automattic, according to a Slack message seen by TechCrunch. As 404 Media reported on Wednesday, Mullenweg had told staff in Slack that CFO M",
         "source": "TheVerge"
       },
       {
-        "title": "Why Apple’s next computer should be for the smart home",
-        "link": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
-        "pubDate": "2026-09-11T10:01:55-04:00",
-        "description": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, ",
+        "title": "We unfolded the iPhone Duo",
+        "link": "https://www.theverge.com/podcast/994016/iphone-duo-vergecast-apple-watch-mac-llms",
+        "pubDate": "2026-09-11T12:22:24-04:00",
+        "description": "You only get one chance at a first impression, and getting to introduce Apple's first folding phone is certainly a strong way to start things off as Apple's CEO. On The Vergecast today, we're talking all about Apple's launch event: how John Ternus di",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold",
-        "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
-        "pubDate": "2026-09-11T09:59:16-04:00",
-        "description": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cin",
+        "title": "The White House says Truth Social is the ‘most powerful and popular social media platform in the world’",
+        "link": "https://www.theverge.com/policy/994072/white-house-truth-social-popular-powerful",
+        "pubDate": "2026-09-11T12:21:19-04:00",
+        "description": "The White House claims the Donald Trump-owned Truth Social is the \"most powerful and popular social media platform in the world.\" The statement, provided to The New York Times by White House spokesperson Davis Ingle, is at odds with the user counts f",
         "source": "TheVerge"
       },
       {
-        "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
-        "link": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
-        "pubDate": "2026-09-11T09:42:35-04:00",
-        "description": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka is",
+        "title": "Anthropic spent this week in hot water over cybersecurity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994064/anthropic-spent-this-week-in-hot-water-over-cybersecurity",
+        "pubDate": "2026-09-11T12:09:14-04:00",
+        "description": "After admitting earlier this year that its AI models had hacked other companies' systems on a handful of occasions, Anthropic released a new report on Wednesday detailing the attacks. It reveals a string of incidents displaying what Anthropic deems i",
         "source": "TheVerge"
       },
       {
-        "title": "Arizona’s lifeline for chip manufacturing is drying up",
-        "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
-        "pubDate": "2026-09-11T08:00:00-04:00",
-        "description": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region ",
+        "title": "Microsoft’s head of comms is leaving after almost 20 years",
+        "link": "https://www.theverge.com/news/993791/microsoft-frank-shaw-leaving-head-of-comms",
+        "pubDate": "2026-09-11T12:01:34-04:00",
+        "description": "Frank Shaw is leaving Microsoft after 17 years as chief communications officer. In an internal note to his team, Shaw says he's \"decided it is time for me to move on and try new things,\" after supporting Microsoft's communications for 29 years - near",
         "source": "TheVerge"
       }
     ],
