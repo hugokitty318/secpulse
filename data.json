@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-11T00:31:48.530857Z",
+  "ts": "2026-09-11T05:13:54.116761Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Fortinet修補FortiMonitorOnSight、FortiPAM重大漏洞",
+        "link": "https://www.ithome.com.tw/news/178867",
+        "pubDate": "2026-09-11 12:38",
+        "description": "本週Fortinet修補10個資安漏洞，其中存在於FortiMonitorOnSight、FortiPAM的弱點被評為重大等級，而成為用戶需優先更新的應用系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "因應加密勒索攻擊，卓榮泰要求重大駭侵案件納入通報、數發部擔任跨機關資安情資統籌角色",
+        "link": "https://www.ithome.com.tw/news/178860",
+        "pubDate": "2026-09-11 11:26",
+        "description": "行政院長卓榮泰要求數位發展部統籌跨機關資安情資，並將民間企業重大駭侵及加密勒索案件納入通報義務，也要求警政署持續強化科技偵查及數位鑑識專業能力，以提升員警對加密勒索案件的應處、蒐證及偵辦能力。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "臺灣網路攝影機廠商晶睿傳出遭勒索軟體Everest攻擊",
+        "link": "https://www.ithome.com.tw/news/178859",
+        "pubDate": "2026-09-11 10:51",
+        "description": "勒索軟體Everest再傳攻擊臺灣科技公司，該組織近日聲稱入侵網路攝影機廠商晶睿通訊（Vivotek），並竊得236 GB資料。對此，母公司台達電表示，這些檔案是公開資料，經清查台達電與晶睿未有機敏資料外流",
+        "source": "iThome資安"
+      },
+      {
+        "title": "因應CRA該不該升級MCU？新唐以3類產品案例解析，須看終端產品分類、核心功能與晶片安全角色",
+        "link": "https://www.ithome.com.tw/news/178857",
+        "pubDate": "2026-09-11 10:47",
+        "description": "因應歐盟《網路韌性法案》（CRA）逐步上路，臺灣微控制器（MCU）大廠新唐科技近日回應市場常見疑問：產品要符合CRA，是否代表MCU／MPU都得升級？新唐特別以3類產品案例，說明不同架構下的評估差異",
+        "source": "iThome資安"
+      },
       {
         "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
         "link": "https://www.ithome.com.tw/news/178841",
@@ -10,10 +38,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版",
-        "link": "https://www.ithome.com.tw/news/178845",
+        "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
+        "link": "https://www.ithome.com.tw/news/178848",
         "pubDate": "2026-09-11 08:00",
-        "description": "由Palo Alto Networks創辦人Nir Zuk共同成立的Cylake，如今取得2.45億美元資金，該公司正開發結合軟體、硬體與AI的整合式資安平臺，可部署於企業內部或私有雲環境",
+        "description": "雲端安全聯盟（CSA）發布零信任微分段指引，提出企業可結合拓樸與連線兩種分段模式落實最低權限通訊，並將AI代理納入微分段控管，依風險限制其可連線及存取的資源",
         "source": "iThome資安"
       },
       {
@@ -24,11 +52,25 @@
         "source": "iThome資安"
       },
       {
-        "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
-        "link": "https://www.ithome.com.tw/news/178848",
+        "title": "Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版",
+        "link": "https://www.ithome.com.tw/news/178845",
         "pubDate": "2026-09-11 08:00",
-        "description": "雲端安全聯盟（CSA）發布零信任微分段指引，提出企業可結合拓樸與連線兩種分段模式落實最低權限通訊，並將AI代理納入微分段控管，依風險限制其可連線及存取的資源",
+        "description": "由Palo Alto Networks創辦人Nir Zuk共同成立的Cylake，如今取得2.45億美元資金，該公司正開發結合軟體、硬體與AI的整合式資安平臺，可部署於企業內部或私有雲環境",
         "source": "iThome資安"
+      },
+      {
+        "title": "Astra需求爆量，OpenAI暫停200美元Pro方案新訂閱",
+        "link": "https://www.ithome.com.tw/news/178866",
+        "pubDate": "2026-09-11  12:09:59",
+        "description": "OpenAI產品負責人Thibault Sottiaux周四（9/10）透過X宣布，由於GPT-6 Astra推出後需求爆量，OpenAI將暫停每月200美元Pro方案的新訂閱及升級，以確保既有用戶能持續使用Astra，其它ChatGPT方案與API則維持開放。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic發布AI濫用威脅報告，宣稱7家中國業者蒸餾Claude以訓練自家模型",
+        "link": "https://www.ithome.com.tw/news/178864",
+        "pubDate": "2026-09-11  11:09:17",
+        "description": "Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude的各種型態，從網路攻擊、資訊操弄、AI輔助監控、開發傳統武器、生物濫用、詐騙與詐欺，以及非法蒸餾等，並直接點名7家中國AI實驗室的非法蒸餾行為，包括阿里巴巴的Qwen、月之暗面（Moonshot）、DeepSeek、智譜（Z.ai）、小米、商湯及MiniMax等。",
+        "source": "iThome"
       },
       {
         "title": "Kinryū Labs揭露越南航班資訊系統APIS資料庫疑似暴露，2.2億筆旅客與機組員紀錄曝險",
@@ -80,34 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "資安業者揭露大型假電商詐騙網路，攻擊者架設11.9萬個網站竊取信用卡資料",
-        "link": "https://www.ithome.com.tw/news/178843",
-        "pubDate": "2026-09-10 13:11",
-        "description": "假電商網路DoppelCart冒充逾4.4萬個品牌，以最高65%折扣誘騙消費者下單，利用結帳頁竊取信用卡與一次性驗證碼資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露竊取加密貨幣的ClickFix攻擊活動，濫用Google試算表作為C2管道",
-        "link": "https://www.ithome.com.tw/news/178842",
-        "pubDate": "2026-09-10 12:20",
-        "description": "攻擊者以利用加密貨幣API漏洞牟利的假消息為誘餌，誘騙使用者貼上JavaScript，利用Google試算表傳送惡意程式碼並竄改交易資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cisco修補Nexus 9000系列交換器重大遠端程式碼執行漏洞",
-        "link": "https://www.ithome.com.tw/news/178840",
-        "pubDate": "2026-09-10 11:21",
-        "description": "Nexus 9000交換器的Silicon One網路晶片整合軟體元件存在漏洞，可能導致遠端執行程式碼或強制重啟，建議用戶儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI籲美國制定強制AI安全規範，要求頂尖AI業者接受獨立評估",
-        "link": "https://www.ithome.com.tw/news/178839",
-        "pubDate": "2026-09-10 11:21",
-        "description": "OpenAI呼籲美國建立強制性AI安全規範，鎖定開發頂尖AI系統的少數業者，要求納入安全測試、獨立評估與重大事件通報",
-        "source": "iThome資安"
-      },
-      {
         "title": "陽明海運推動智慧船舶轉型，以衛星、5G克服遠洋船舶通訊限制，導入AI無人機巡檢與船務管理",
         "link": "https://www.ithome.com.tw/news/178854",
         "pubDate": "2026-09-10  06:09:18",
@@ -119,20 +133,6 @@
         "link": "https://www.ithome.com.tw/news/178852",
         "pubDate": "2026-09-10  05:09:24",
         "description": "Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資至少130億歐元（約151億美元）以興建資料中心及相關基礎設施，是該公司在歐洲規模最大的單筆投資案。此次計畫涵蓋Hamina、Kajaani、Muhos及Vaala等4個地點，其中Hamina自2009年起即為Google在芬蘭的資料中心據點，此次屬擴建性質。",
-        "source": "iThome"
-      },
-      {
-        "title": "國科會晶創臺灣啟動半導體硬體、EDA軟體布局，將建置七大核心設施、打造自主設計平臺",
-        "link": "https://www.ithome.com.tw/news/178850",
-        "pubDate": "2026-09-10  04:09:22",
-        "description": "國科會推動「晶創臺灣方案」，聚焦先進晶片技術研發，強化半導體研發基礎設施，也將提高我國自主設計能力。國科會與經濟部共同規畫於2024年至2028年共同推動2項重點布局，包括建置全臺半導體核心設施，以及發展前瞻晶片設計軟體（EDA），希望透過硬體與軟體雙軌布局，建立完整的半導體研發生態系，支援新創、中小企業及學研單位，加速前瞻半導體技術發展。",
-        "source": "iThome"
-      },
-      {
-        "title": "27歲Anthropic研究人員因擔心AI失控宣布辭職",
-        "link": "https://www.ithome.com.tw/news/178847",
-        "pubDate": "2026-09-10  03:09:05",
-        "description": "一名原本任職於Anthropic的AI研究人員Jacob Coxon周三（9/9）宣布已辭去Anthropic職務，理由是他覺得人類快要失去對AI的掌控了。\n現年27歲的Coxon表示自己過去3年分別在OpenAI及Anthropic從事預訓練研究，這兩家公司正一頭栽進可自我提升的超智慧（Superintelligence）領域，而超智慧很快就會成為超越人類的強大系統，將可入侵任何系統，一夜之間徹底改變任何領域，並攫取真正的權力與資源。",
         "source": "iThome"
       }
     ],
@@ -170,20 +170,6 @@
         "link": "https://techorange.com/2026/09/09/asml-12-inch-photomask/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 09 Sep 2026 11:45:26 +0800",
         "description": "AI 晶片持續追求更高運算能力，一方面需要更先進製程，把更多電晶體塞進有限面積；另一方面，為了增加運算核心、記憶體介面與互連，高效能資料中心晶片的裸晶面積也持續往上推。這兩個趨勢，如今開始同時碰上微影設備的限制。 目前晶圓廠廣泛使用的極紫外光微影（EUV），單顆晶片可曝光面積最高約 800 平方毫米，《Reuters》指出，NVIDIA、Google 等公司設計的晶片，已做到接近這項上限。下一代 High NA EUV 雖然可以印出更精細的線路，單次曝光範圍卻縮小一半，使大型晶片可能需要分次曝光",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【在工廠學習的機器人】與其等待龐大訓練資料集出現，Reimagine Robotics 讓客戶自己教機器人",
-        "link": "https://techorange.com/2026/09/09/reimagine-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 10:49:59 +0800",
-        "description": "機器人產業近年吸引大量資金投入，投資人賭的是這個領域即將迎來自己的 ChatGPT 時刻。但一群 Google DeepMind 前工程師創立的新創公司 Reimagine Robotics 認為，真正卡住機器人商用化的關卡，不是技術能力不夠，而是訓練資料嚴重不足。 他們的解方，是讓客戶自己動手教機器人做事。 機器人缺的不是模型，是資料 大型語言模型能靠海量網路文字訓練出強大能力，機器人領域卻沒有對應規模的真實世界資料可用。加州大學柏克萊分校機器人學者 Ken Goldberg 提出「十萬年資料",
-        "source": "TechOrange"
-      },
-      {
-        "title": "告別貨架缺貨痛點：美英零售巨頭導入 AI，Homebase 盤點時間砍掉逾 2 天",
-        "link": "https://techorange.com/2026/09/09/ai-powered-cameras-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 06:37:00 +0800",
-        "description": "實體零售的缺貨問題，往往發生在消費者走進店裡之後才被發現。貨架上少了一個商品、價格標籤沒有更新、庫存數字與現場數量對不上，都可能直接影響銷售。對擁有數百甚至上千家門市的零售商而言，若依靠店員逐一巡查與人工盤點，不僅耗費大量時間，也很難維持即時且一致的庫存資訊。 近期英國超市巨頭 Asda、美國超市龍頭 Kroger，以及農牧五金連鎖 Homebase USA，正透過 AI 影像技術與巡檢機器人，把貨架管理進一步自動化。 Asda 告別轉型陣痛，讓「貨架供貨率」帶動營運回升 英國第三大超市 Asd",
         "source": "TechOrange"
       },
       {
@@ -233,6 +219,20 @@
         "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 10 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Amazon 最高可採購 600 億美元高通 AI 晶片，高通進軍 NVIDIA 資料中心地盤 高通（Qualcomm）與亞馬遜（Amazon）簽訂長期合作協議，Amazon 未來可向高通採購最高 600 億美元的 AI 資料中心晶片及相關產品。雙方將共同開發多代客製化晶片，主要用於執行訓練完成的 AI 模型，並合作開發最高達 1.6 Tbps 的高速光連接技術，因應 AI 資料中心的頻寬需求。高通也將擴大使用亞馬遜網路服務（AWS）協助晶片設",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【AI 購物助手大破口】研究人員突破多層防護，證明零售商系統可被完全掌控",
+        "link": "https://techorange.com/2026/09/11/ai-shopping-assistant-hacked/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 09:29:15 +0800",
+        "description": "在美國拉斯維加斯所舉辦的黑帽（Black Hat）網路安全大會舞台上，資安專家 Netanel Rubin 和 Dan Avraham 帶來了一項重大發現，那就是某家大型零售商的 AI 購物助手，其安全防護機制居然能被輕鬆繞過，讓駭客透過 AI 聊天對話，使任意程式碼執行在業者的系統環境中。 資安專家指出，AI 購物助手薄弱的安全防護機制，如果落入不法之徒手中，即可能會讓攻擊者掌握徹底企業的內部系統，導致機密洩漏或取得能被用於後續攻擊的存取權限，讓公司與客戶同時受到威脅。 由 Netanel R",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 購物的下一個戰場，不在電商而在貨架前：Home Depot 如何把導購搬進門市走道",
+        "link": "https://techorange.com/2026/09/11/ai-home-depot-in-store-guidance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 06:58:00 +0800",
+        "description": "美國家居零售商 Home Depot 正將生成式 AI 助手「Magic Apron」擴大部署至全美超過 2,000 家門市，讓消費者即使已經走進店內，也能透過手機取得 AI 協助。《Marketing Tech》指出，這項布局意味著零售 AI 的應用場景正在突破傳統電商介面，進一步深入實體購物環境。 從線上走向貨架：將手機變成門市「購物導航與專案顧問」 Home Depot 最初在 2025 年 3 月推出 Magic Apron，定位為一套生成式 AI 工具，協助回答消費者商品與居家修繕相關",
         "source": "TechOrange"
       },
       {
