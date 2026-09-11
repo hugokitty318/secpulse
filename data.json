@@ -1,12 +1,68 @@
 {
-  "ts": "2026-09-11T05:13:54.116761Z",
+  "ts": "2026-09-11T09:59:55.020281Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Fortinet修補FortiMonitorOnSight、FortiPAM重大漏洞",
+        "title": "【資安週報】0907~0911，歐盟CRA通報義務上路、SEMI E187驗證標章亮相，產品安全進入落地新階段",
+        "link": "https://www.ithome.com.tw/news/178884",
+        "pubDate": "2026-09-11 17:57",
+        "description": "回顧2026年9月第二週的資安動態，歐盟網路韌性法案（CRA）通報義務開始適用，以及SEMI E187驗證標章亮相，都反映各領域產品安全規範正進一步走向實際落地；中科院採購網委外廠商遭入侵、商周與城邦網站遭攻擊，也成為本週國內資安焦點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "消基會：酷澎案凸顯跨境個資治理缺口，籲政府加速成立個資保護委員會、跨境平臺將國內用戶資料在境內儲存納入監管",
+        "link": "https://www.ithome.com.tw/news/178878",
+        "pubDate": "2026-09-11 17:00",
+        "description": "消基會近期以去年發生的酷澎個資外洩事件為例，國內逾20萬名用戶個資受影響，由於跨境平臺將國內用戶資料儲存於境外，增加監管及行政調查困難，呼籲政府應加速成立個資保護委員會，並檢討跨境個資傳輸及境外資料管理制度，強化跨境個資監理機制。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "新增SIEM基本功能，Cynet年中改版主打多種快速處理特色",
+        "link": "https://www.ithome.com.tw/review/178873",
+        "pubDate": "2026-09-11 16:07",
+        "description": "Cynet前幾個月推出4.33版，這個月初發表5.0版，加入SIEM、跨站點儀表板與組態管理等多種強化功能；新版系統也能透過自然語言的解釋，將原本較複雜的警示與技術資訊轉化為更容易理解的事件說明；若是訂閱Elite與All-in-One等進階服務的Cynet用戶，還能啟動資安事故自動應變功能",
+        "source": "iThome資安"
+      },
+      {
+        "title": "沙箱系統FortiSandbox存在高風險漏洞，若不處理恐洩露敏感資訊",
+        "link": "https://www.ithome.com.tw/news/178877",
+        "pubDate": "2026-09-11 16:07",
+        "description": "Fortinet本週修補沙箱系統FortiSandbox資安漏洞CVE-2026-26084，並指出企業內部建置版本、雲端服務、PaaS版本都有可能曝險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科防火牆管理平臺弱點遭國家級駭客利用",
+        "link": "https://www.ithome.com.tw/news/178876",
+        "pubDate": "2026-09-11 15:59",
+        "description": "思科威脅情報團隊Talos警告，他們掌握3個國家級駭客鎖定思科防火牆管理平臺Secure Firewall Management Center（FMC），利用資安漏洞CVE-2026-20079、CVE-2026-20316，進行資料外洩或散布惡意軟體",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客利用已知漏洞入侵F5 BIG-IP APM裝置，部署Linux惡意程式",
+        "link": "https://www.ithome.com.tw/news/178875",
+        "pubDate": "2026-09-11 15:02",
+        "description": "資安公司Sophos揭露新一波CVE-2025-53521漏洞利用活動，攻擊者鎖定F5 BIG-IP元件Access Policy Manager（APM），藉此散布Linux惡意程式並執行後續活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國警告MikroTik路由器漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/178872",
+        "pubDate": "2026-09-11 14:31",
+        "description": "美國網路安全與基礎設施安全局（CISA）將MikroTik路由器作業系統RouterOS漏洞CVE-2026-67277、CVE-2026-86060列入已遭利用的漏洞名單（KEV），並給予聯邦機構3天期限採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Check Point修補重大等級的VPN資安弱點",
+        "link": "https://www.ithome.com.tw/news/178868",
+        "pubDate": "2026-09-11 12:54",
+        "description": "近日資安公司Check Point為旗下的安全閘道、防火牆設備，以及安全管理伺服器修補重大等級漏洞CVE-2026-85102、CVE-2026-85103，並指出兩者都能被用於遠端程式碼執行（RCE）攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Fortinet修補FortiMonitor OnSight、FortiPAM重大漏洞",
         "link": "https://www.ithome.com.tw/news/178867",
         "pubDate": "2026-09-11 12:38",
-        "description": "本週Fortinet修補10個資安漏洞，其中存在於FortiMonitorOnSight、FortiPAM的弱點被評為重大等級，而成為用戶需優先更新的應用系統",
+        "description": "本週Fortinet修補10個資安漏洞，其中存在於FortiMonitor OnSight、FortiPAM的弱點被評為重大等級，而成為用戶需優先更新的應用系統",
         "source": "iThome資安"
       },
       {
@@ -31,24 +87,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
-        "link": "https://www.ithome.com.tw/news/178841",
-        "pubDate": "2026-09-11 08:00",
-        "description": "Health-ISAC發布資安警訊，ShinyHunters鎖定全球醫療產業發動語音網釣，企圖竊取SaaS服務中的敏感資料進行勒索",
-        "source": "iThome資安"
-      },
-      {
         "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
         "link": "https://www.ithome.com.tw/news/178848",
         "pubDate": "2026-09-11 08:00",
         "description": "雲端安全聯盟（CSA）發布零信任微分段指引，提出企業可結合拓樸與連線兩種分段模式落實最低權限通訊，並將AI代理納入微分段控管，依風險限制其可連線及存取的資源",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國能源部研究AI強化電網資安，網路威脅偵測與定位準確率達95%",
-        "link": "https://www.ithome.com.tw/news/178834",
-        "pubDate": "2026-09-11 08:00",
-        "description": "美國能源部與桑迪亞國家實驗室研究利用AI強化電網資安，網路威脅偵測與定位準確率達95%，原本約需2個月完成的資料處理與模型訓練流程，也可縮短至數小時",
         "source": "iThome資安"
       },
       {
@@ -59,6 +101,13 @@
         "source": "iThome資安"
       },
       {
+        "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
+        "link": "https://www.ithome.com.tw/news/178841",
+        "pubDate": "2026-09-11 08:00",
+        "description": "Health-ISAC發布資安警訊，ShinyHunters鎖定全球醫療產業發動語音網釣，企圖竊取SaaS服務中的敏感資料進行勒索",
+        "source": "iThome資安"
+      },
+      {
         "title": "Astra需求爆量，OpenAI暫停200美元Pro方案新訂閱",
         "link": "https://www.ithome.com.tw/news/178866",
         "pubDate": "2026-09-11  12:09:59",
@@ -66,112 +115,35 @@
         "source": "iThome"
       },
       {
-        "title": "Anthropic發布AI濫用威脅報告，宣稱7家中國業者蒸餾Claude以訓練自家模型",
-        "link": "https://www.ithome.com.tw/news/178864",
-        "pubDate": "2026-09-11  11:09:17",
-        "description": "Anthropic本周公布了AI濫用威脅報告，揭露各界濫用其模型Claude的各種型態，從網路攻擊、資訊操弄、AI輔助監控、開發傳統武器、生物濫用、詐騙與詐欺，以及非法蒸餾等，並直接點名7家中國AI實驗室的非法蒸餾行為，包括阿里巴巴的Qwen、月之暗面（Moonshot）、DeepSeek、智譜（Z.ai）、小米、商湯及MiniMax等。",
+        "title": "公部門導入AI Agent進入治理新階段，專家提醒三大管理面向：權限、用量、稽核",
+        "link": "https://www.ithome.com.tw/news/178802",
+        "pubDate": "2026-09-11  05:09:43",
+        "description": "生成式AI快速發展，不少公務機關已開始將AI導入日常業務，協助政府機關導入AI的Headquarter.aii共同創辦人暨執行長黃建璋認為，真正的挑戰並非模型能力，而是AI Agent如何融入政府業務流程與治理架構。\n他指出，目前大型語言模型（LLM）的競爭相當激烈，模型排行榜幾乎每隔一段時間就會更換，因此政府若將系統綁定單一模型，未來將面臨升級與轉換困難。他建議從一開始便應採取模型中立架構，保留彈性，才能隨技術演進持續選用最合適的模型。",
         "source": "iThome"
       },
       {
-        "title": "Kinryū Labs揭露越南航班資訊系統APIS資料庫疑似暴露，2.2億筆旅客與機組員紀錄曝險",
-        "link": "https://www.ithome.com.tw/news/178856",
-        "pubDate": "2026-09-10 23:54",
-        "description": "APIS資料庫含旅客護照、生日及完整航班資訊，研究人員透過雲端路徑與預設帳號密碼取得存取權，是否曾遭下載或濫用仍待釐清",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Huntress揭露北韓冒用身分假求職攻擊擴大，從IT延伸至醫療與業務職務",
-        "link": "https://www.ithome.com.tw/news/178855",
-        "pubDate": "2026-09-10 19:01",
-        "description": "北韓人員偽造或竊取身分應徵海外企業職缺，取得合法員工身分與內部權限，除了賺取外匯，也可能進一步竊取資料或植入惡意程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安業者揭露伊朗駭客組織假求職攻擊活動，鎖定軟體工程師散布跨平臺木馬",
-        "link": "https://www.ithome.com.tw/news/178853",
-        "pubDate": "2026-09-10 18:08",
-        "description": "伊朗駭客組織偽裝科技公司招募人員，將遠端存取木馬NodeRabbit與PollCat藏入求職程式設計測驗，攻擊Windows、Linux及macOS等平臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Fortinet設備已知漏洞遭鎖定，攻擊者藉此植入RAT木馬PivotC2",
-        "link": "https://www.ithome.com.tw/news/178851",
-        "pubDate": "2026-09-10 17:12",
-        "description": "資安公司SOCRadar揭露專門針對FortiOS及FortiSwitchManager的攻擊行動，駭客利用已知漏洞CVE-2025-25249，企圖於受害裝置植入以Node.js打造的RAT木馬PivotC2",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國警告Fortinet、Citrix、思科、Chrome漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/178849",
-        "pubDate": "2026-09-10 15:52",
-        "description": "美國網路安全與基礎設施安全局（CISA）指出，已掌握4個漏洞遭到積極利用的證據，要求聯邦機構必須在期限內採取行動，完成相關修補作業",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月10日，商周集團公告旗下網站遭到攻擊，網站與線上服務中斷",
-        "link": "https://www.ithome.com.tw/news/178846",
-        "pubDate": "2026-09-10 14:56",
-        "description": "商周集團於網站發布公告表示，該集團網站遭到攻擊，導致線上服務中斷，預計完整修復需要一定的時間，紙本雜誌出刊及配送不受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic揪出第4起Claude入侵事件，重新認定前3起為模型偏誤推理",
-        "link": "https://www.ithome.com.tw/news/178844",
-        "pubDate": "2026-09-10 13:36",
-        "description": "Anthropic揭露第4起Claude意外入侵真實系統事件，並重新檢視先前3起事件，認為模型行為不只是操作失誤，而涉及偏誤推理與魯莽行為。新版模型雖已降低嚴重有害行為比例，Anthropic仍委託METR展開獨立調查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "陽明海運推動智慧船舶轉型，以衛星、5G克服遠洋船舶通訊限制，導入AI無人機巡檢與船務管理",
-        "link": "https://www.ithome.com.tw/news/178854",
-        "pubDate": "2026-09-10  06:09:18",
-        "description": "遠洋貨輪長時間航行於公海時，船舶與岸端間往往面臨通訊覆蓋不足、資料傳輸受限等問題，成為航運業推動數位、智慧轉型須先解決的挑戰。陽明海運近幾年持續推動智慧船隊發展，與大世科及伸波通訊合作，建置衛星、5G等網路通訊技術及AI數位應用平台，改善船岸通訊環境，並將船舶設備資料、巡檢影像與維運資訊導入數位化管理。\n這項應用是在國發會支持下進行，陽明海運以14,000 TEU級的貨櫃輪「承明輪」（YM Wisdom）及2,800 TEU級「好明輪」（YM Certainty）作為驗證場域，整合高低軌衛星、靠",
+        "title": "從凱米颱風到楊柳颱風，氣象署以實戰驗證AI預報，逐步打造AI＋數值模式的融合預報架構",
+        "link": "https://www.ithome.com.tw/news/178595",
+        "pubDate": "2026-09-11  05:09:10",
+        "description": "AI近年快速改變全球天氣預報技術發展方向，從過去主要依靠物理方程式與超級電腦強大運算能力的數值模式，逐步加入機器學習天氣預報（Machine Learning Weather Prediction, MLWP）的新技術。氣象署數值資訊組長沈里音在近期在2026數位政府高峰會分享指出，AI與傳統數值模式並非取代關係，而是透過兩種技術互補，提高對颱風路徑、降雨及劇烈天氣變化的預測能力。",
         "source": "iThome"
       },
       {
-        "title": "Google打算斥資130億歐元在芬蘭打造資料中心",
-        "link": "https://www.ithome.com.tw/news/178852",
-        "pubDate": "2026-09-10  05:09:24",
-        "description": "Google周三（9/9）宣布，未來兩年（2027至2028年）將在芬蘭投資至少130億歐元（約151億美元）以興建資料中心及相關基礎設施，是該公司在歐洲規模最大的單筆投資案。此次計畫涵蓋Hamina、Kajaani、Muhos及Vaala等4個地點，其中Hamina自2009年起即為Google在芬蘭的資料中心據點，此次屬擴建性質。",
+        "title": "從找工作到查工地！勞動部揭4大數位轉型實例，數天工程督導作業靠AI縮短到8分鐘",
+        "link": "https://www.ithome.com.tw/news/178524",
+        "pubDate": "2026-09-11  02:09:59",
+        "description": "政府求職網站明明有許多職缺，為什麼求職者輸入關鍵字後，還是找不到適合自己的工作？\n問題不是職缺太少，而是求職者和系統「說不同語言」。一般求職者找的是「土水師傅」，政府職業分類寫的卻是「泥作工作人員」；雇主說要找「AI工程師」，現行職業編碼卻把它歸在「軟體開發及程式設計師」。只要雙方用詞不同，傳統仰賴精確關鍵字的系統，就可能錯過適合的媒合機會。",
+        "source": "iThome"
+      },
+      {
+        "title": "DeepSeek發表V4.1-Flash新架構，效能超越上一代旗艦V4-Pro",
+        "link": "https://www.ithome.com.tw/news/178871",
+        "pubDate": "2026-09-11  02:09:51",
+        "description": "DeepSeek周四（9/10）發表新一代AI模型V4.1-Flash，採用全新的Causal Encoder-Decoder（CED）架構，為DeepSeek新架構家族中的首款也是最小型模型。DeepSeek宣稱，V4.1-Flash不僅推論速度及吞吐量更高，在多項基準測試的整體表現也超越上一代旗艦V4-Pro。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "台灣開始思考 AI Agent 怎麼管，數發部點出能力、身分、問責等六個治理層次",
-        "link": "https://techorange.com/2026/09/09/moda-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 18:54:32 +0800",
-        "description": "近期 AI Agent（AI 代理）能力快速往前推進，從回答問題走向呼叫工具、操作系統，到連續完成多步驟任務，相關安全事件也讓治理問題受到更多關注。當 AI 開始能代表使用者自行執行工作，除了模型本身是否安全、可靠，誰能授權它做什麼、它又代表誰，也逐漸成為新的問題，而台灣準備怎麼管？ 數位發展部次長侯宜秀透露，目前政府各部會填報的 AI 應用情境中，已經有部分機關使用 AI Agent。她指出，相較聊天機器人或其他特定 AI 功能可能告訴使用者該怎麼做、最後仍由人執行，AI Agent 則是「會",
-        "source": "TechOrange"
-      },
-      {
-        "title": "40 億美元認股權證綁定：高通攜手亞馬遜開發 AI 推論晶片與 1.6 Tbps 光通訊",
-        "link": "https://techorange.com/2026/09/09/qualcomm-collaboration-amazon-chips-ai-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 17:34:29 +0800",
-        "description": "高通表示，亞馬遜未來可能向其採購最高 600 億美元的 AI 資料中心晶片及相關產品，雙方將展開長期合作，協助高通進一步拓展 AI 基礎設施市場。《Reuters》報導，根據高通提交的監管文件，這項交易也反映出 AI 熱潮下，晶片商與科技公司的合作已延伸至股權安排。高通將授予亞馬遜價值約 40 億美元的認股權證，權證將隨亞馬遜採購產品逐步生效，讓亞馬遜以每股 161.26 美元的價格購買高通股票。 高通結盟 AWS 攻 AI 基礎設施，加速多元化業務轉型 《Reuters》指出，這項協議顯示，高",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Meta 推出專屬 AI 代理 Muse：主打「第二大腦」，內部實測卻踩安全隱憂",
-        "link": "https://techorange.com/2026/09/09/ai-meta-muse-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 13:06:48 +0800",
-        "description": "Meta 推出全新的 AI 代理 Muse，能代替使用者處理各種日常工作，實現 Facebook 共同創辦人、Meta 執行長 Mark Zuckerberg 所構想的未來：每個人都能擁有一名專屬的 AI 助理。 Meta 表示，Muse 能讓使用者依照自己的喜好打造專屬代理，包括替它命名、設定頭像，以及調整溝通方式。使用者還可以讓 Muse 連接電子郵件、健身追蹤器等 App；即使關閉應用程式，Muse 仍能在背景持續執行任務，協助使用者完成原本設定的目標。 Meta 開發個人 AI 代理，搶",
-        "source": "TechOrange"
-      },
-      {
-        "title": "ChatGPT 廣告營收破 10 億！為什麼「搜尋入口」最後都走上廣告這條路？",
-        "link": "https://techorange.com/2026/09/09/chatgptads-openai-anthropic/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 12:02:12 +0800",
-        "description": "2026 年八月底，OpenAI 宣布旗下廣告業務 ChatGPT Ads 上線不到 200 天年化營收就突破 10 億美元，同一時間這項自助投放服務也擴大到印度跟歐洲三十幾個市場，這消息被包裝成多元化商業模式的成功案例，畢竟當年 Google 的 AdWords 花了四年才達到這個數字而 OpenAI 只用了六個月。 這則消息，這幾天已被不少科技媒體轉譯報導過，但我認為，這則新聞該被討論的不是「10 億美元」。 10 億美元，只占 OpenAI 預估全年營收約 400 億美元的比重 2.5%，",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 晶片逼近曝光極限，台積電、Intel、Samsung 為何非換 12 吋光罩不可？",
-        "link": "https://techorange.com/2026/09/09/asml-12-inch-photomask/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 11:45:26 +0800",
-        "description": "AI 晶片持續追求更高運算能力，一方面需要更先進製程，把更多電晶體塞進有限面積；另一方面，為了增加運算核心、記憶體介面與互連，高效能資料中心晶片的裸晶面積也持續往上推。這兩個趨勢，如今開始同時碰上微影設備的限制。 目前晶圓廠廣泛使用的極紫外光微影（EUV），單顆晶片可曝光面積最高約 800 平方毫米，《Reuters》指出，NVIDIA、Google 等公司設計的晶片，已做到接近這項上限。下一代 High NA EUV 雖然可以印出更精細的線路，單次曝光範圍卻縮小一半，使大型晶片可能需要分次曝光",
-        "source": "TechOrange"
-      },
       {
         "title": "Agility 揭人形機器人的「勞工成本」：一台 Digit 5 年 40 萬美元，多久幫你賺回來？",
         "link": "https://techorange.com/2026/09/10/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -222,6 +194,41 @@
         "source": "TechOrange"
       },
       {
+        "title": "永大抽水機攜手台達，透過高效馬達與變頻控制破解傳統泵浦高耗能痛點",
+        "link": "https://techorange.com/2026/09/11/delta-yungtay-pump-motor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 15:27:23 +0800",
+        "description": "隨著淨零減碳與能源成本壓力升高，企業節能的範圍已從照明、空調主機與能源管理平台，延伸到過去較少被關注的基礎設備，長時間運轉的泵浦正是其中之一。 在商辦大樓、醫院、學校、科技廠與製程冷卻系統中，泵浦支撐空調循環、冷卻與給排水等基礎運作，其設備效率與控制方式是否匹配，直接影響用電成本與系統穩定性。面對市場對高效率泵浦系統的需求升高，永大抽水機近年從單一設備供應商，轉向更重視系統整合的節能方案，並導入台達永磁同步磁阻馬達、變頻器與自動化控制技術，將自家泵浦設計經驗與台達高效驅動能力整合，協助客戶提升泵",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 上車不只拚算力！超恩、滿拓、晶心拆解智慧移動落地關鍵",
+        "link": "https://techorange.com/2026/09/11/semi-ai-sipo-vecow-deepmentor-andes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 12:47:55 +0800",
+        "description": "隨著 AI 應用加速從雲端走向終端，邊緣運算晶片能否真正落地，關鍵已不只在單一晶片的運算效能，更在於晶片、系統與應用端能否共同因應實際部署需求。為鏈結國內半導體產業技術能量與多元應用需求，經濟部產業發展署推動「邊緣運算晶片系統產業鏈結推動計畫」，聚焦智慧移動與智慧醫療照護領域，並透過「邊緣運算晶片系統價值共創平台」(以下簡稱價值共創平台)，促進晶片、系統及應用端業者交流與供需對接，推進跨域合作與邊緣運算晶片系統方案應用。 為進一步聚焦智慧移動應用需求，經濟部產業發展署智慧電子產業計畫推動辦公室(",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+        "link": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 12:33:34 +0800",
+        "description": "AI 已經能自己執行網路攻擊了嗎？Anthropic 最新調查顯示，還沒有走到完全自主，但部分原本高度依賴資安專家的工作，已經開始交給 AI Agent 持續執行。 Anthropic 9 月 10 日發布最新 AI 威脅報告，整理 2025 年 12 月至 2026 年 8 月間，在自家 Claude 模型上偵測並中止的惡意活動，涵蓋網路攻擊、影響力操作、監控、傳統武器、生物濫用、詐騙與詐欺，以及非法模型蒸餾 7 類。 報告中的案例主要涉及 Claude Haiku、Sonnet 與 Opus",
+        "source": "TechOrange"
+      },
+      {
+        "title": "快取價格低至 0.003 美元：DeepSeek V4.1-Flash 省 API 推理，私有化部署卻面臨硬體新考驗",
+        "link": "https://techorange.com/2026/09/11/deepseek-v4-1-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 11:51:35 +0800",
+        "description": "DeepSeek 昨晚推出 DeepSeek-V4.1-Flash，採用 5,520 億參數的混合專家（MoE）主幹架構，具備原生視覺能力與 100 萬 token 上下文視窗，架構重點在於降低反覆讀取大量上下文的成本。 V4.1-Flash 的效率提升：降低 API 開發者的推理成本 V4.1-Flash 離峰時段快取命中每百萬輸入 token 收費 0.003 美元，未命中 0.15 美元，每百萬輸出 token 0.60 美元，尖峰時段價格加倍。AI 代理常反覆處理同一套程式碼庫、工具定義",
+        "source": "TechOrange"
+      },
+      {
+        "title": "衡奕精密工業「雷射雙技術」探索細胞修復新可能，2026 創博會現場亮相",
+        "link": "https://techorange.com/2026/09/11/tie-2026-transverse-laser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 10:30:24 +0800",
+        "description": "「台灣每年健保預算高達 8800 億，其中將近 20%（約 1700 億）用於洗腎患者，」衡奕精密工業股份有限公司總經理何國梁表示，慢性腎臟病患者每週三次往返醫院、接受數小時的洗腎治療，藥物能延緩惡化，卻難以逆轉。 「Trans 有轉移的意思，初衷是認為使用我們的機器，就能把疼痛轉換掉。」何國梁在 2008 年創立自有品牌「TRANS」，朝著讓慢性腎臟病患者不用走上洗腎之路的目標展開研發。 這股將創新技術轉化為具體社會價值的精神，正是 2026 年台灣創新技術博覽會（tie）發明競賽區的核心概念",
+        "source": "TechOrange"
+      },
+      {
         "title": "【AI 購物助手大破口】研究人員突破多層防護，證明零售商系統可被完全掌控",
         "link": "https://techorange.com/2026/09/11/ai-shopping-assistant-hacked/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 11 Sep 2026 09:29:15 +0800",
@@ -263,48 +270,6 @@
         "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
         "pubDate": "Wed, 09 Sep 2026 19:53:55 +0530",
         "description": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. \n\nInformation stealers like Lumma",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
-        "pubDate": "Wed, 09 Sep 2026 17:40:44 -0400",
-        "description": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "AdaptHealth confirms 4.1 million people exposed in July cyberattack",
-        "link": "https://www.bleepingcomputer.com/news/security/adapthealth-confirms-41-million-people-exposed-in-july-cyberattack/",
-        "pubDate": "Wed, 09 Sep 2026 17:30:36 -0400",
-        "description": "Healthcare company AdaptHealth has confirmed that data of 4.1 million people was exposed in a cyberattack discovered in July that was attributed to the ShinyHunters threat group. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Webinar: Learn How to Answer “Are We Exposed?” Faster After a New CVE",
-        "link": "https://thehackernews.com/2026/09/webinar-learn-how-to-answer-are-we.html",
-        "pubDate": "Wed, 09 Sep 2026 17:27:36 +0530",
-        "description": "A major vulnerability is disclosed. The alert lands immediately. Then comes the harder question: Are we actually exposed?\n\nFor many security teams, answering that means jumping between vulnerability scanners, endpoint tools, cloud inventories, SBOMs,",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "DeepSeek Harness Flaw Let AI Agents Disable Their Own File Sandbox Without Approval",
-        "link": "https://thehackernews.com/2026/09/deepseek-harness-flaw-let-ai-agents.html",
-        "pubDate": "Wed, 09 Sep 2026 16:47:07 +0530",
-        "description": "A flaw in DeepSeek Harness, DeepSeek's open-source tool for running AI coding agents on a developer's machine, let a sandboxed agent turn off its own sandbox with a single command.\n\nThe tool runs an agent's commands inside an operating-system sandbox",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Alby Hub Critical Flaw Could Let Attackers Take Over Internet-Exposed Bitcoin Wallets",
-        "link": "https://thehackernews.com/2026/09/alby-hub-critical-flaw-could-let.html",
-        "pubDate": "Wed, 09 Sep 2026 16:13:04 +0530",
-        "description": "Bitcoin wallet company Alby has warned of a critical flaw in Alby Hub that could have let an attacker take over a wallet and send its funds, but only where the owner had made the Hub reachable from the internet.\n\nAlby Hub is a self-hosted Lightning w",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "U.S. Agencies Accuse China AI Firms of Distilling Claude, GPT, Gemini, and Grok",
-        "link": "https://thehackernews.com/2026/09/us-agencies-accuse-china-ai-firms-of.html",
-        "pubDate": "Wed, 09 Sep 2026 15:02:26 +0530",
-        "description": "U.S. cybersecurity and intelligence agencies have accused China-based artificial intelligence (AI) companies of conducting \"systematic extraction\" of proprietary functionalities and capabilities of American frontier models through distillation attack",
         "source": "TheHackerNews"
       },
       {
@@ -383,6 +348,48 @@
         "pubDate": "Thu, 10 Sep 2026 12:42:55 +0530",
         "description": "Nearly one in ten of the internet-facing LiteLLM servers that Wiz Research scanned in February accepted sk-1234, the example admin key in LiteLLM's own setup guide.\n\nLiteLLM is an open-source AI gateway, the software a company puts between its applic",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Anthropic Discloses Fourth AI Hacking Incident Involving Claude Opus 4.6",
+        "link": "https://thehackernews.com/2026/09/anthropic-ai-models-breached-real.html",
+        "pubDate": "Thu, 10 Sep 2026 12:34:01 +0530",
+        "description": "Anthropic on Wednesday disclosed a fourth incident in which its artificial intelligence (AI) model broke into real third-party systems, marking the latest in a growing list of cases that have raised concerns about the security risks posed by autonomo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
+        "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
+        "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
+        "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Cisco FMC flaws exploited by ransomware gang, state-sponsored hackers",
+        "link": "https://www.bleepingcomputer.com/news/security/cisco-fmc-flaws-exploited-by-ransomware-gang-state-sponsored-hackers/",
+        "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400",
+        "description": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "IDScan confirms breach tied to 153 million stolen driver’s licenses",
+        "link": "https://www.bleepingcomputer.com/news/security/idscan-confirms-breach-tied-to-153-million-stolen-drivers-licenses/",
+        "pubDate": "Thu, 10 Sep 2026 10:55:33 -0400",
+        "description": "Identity verification company IDScan has confirmed that hackers accessed customer data stored in its cloud platform, days after reports linked the company to a massive database containing more than 153 million driver's license scans. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New 'BlueMoon' kit exploited Windows and Chrome zero-day flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/new-bluemoon-kit-exploited-windows-and-chrome-zero-day-flaws/",
+        "pubDate": "Thu, 10 Sep 2026 10:11:34 -0400",
+        "description": "Multiple cyber-espionage groups deployed an exploit kit dubbed \"BlueMoon\" that leveraged zero-day vulnerabilities in Microsoft Windows and Google Chrome. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
+        "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
+        "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400",
+        "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others ",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -404,7 +411,7 @@
         "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
         "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
         "pubDate": "Thu, 10 Sep 2026 21:35:00 +0000",
-        "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness and building businesses.",
+        "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
         "source": "TechCrunch"
       },
       {
