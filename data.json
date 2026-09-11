@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-11T09:59:55.020281Z",
+  "ts": "2026-09-11T14:24:02.443529Z",
   "tabs": {
     "cn_sec": [
       {
@@ -14,6 +14,13 @@
         "link": "https://www.ithome.com.tw/news/178878",
         "pubDate": "2026-09-11 17:00",
         "description": "消基會近期以去年發生的酷澎個資外洩事件為例，國內逾20萬名用戶個資受影響，由於跨境平臺將國內用戶資料儲存於境外，增加監管及行政調查困難，呼籲政府應加速成立個資保護委員會，並檢討跨境個資傳輸及境外資料管理制度，強化跨境個資監理機制。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月11日，晶睿傳出遭勒索軟體攻擊",
+        "link": "https://www.ithome.com.tw/news/178882",
+        "pubDate": "2026-09-11 16:58",
+        "description": "本週傳出勒索軟體Everest將網路攝影機廠商晶睿通訊（Vivotek）加入暗網網站的消息，號稱竊得236 GB資料，母公司台達電表示，駭客取得的是晶睿公開對外提供的檔案，台達電與晶睿未有資料外洩",
         "source": "iThome資安"
       },
       {
@@ -101,17 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
-        "link": "https://www.ithome.com.tw/news/178841",
-        "pubDate": "2026-09-11 08:00",
-        "description": "Health-ISAC發布資安警訊，ShinyHunters鎖定全球醫療產業發動語音網釣，企圖竊取SaaS服務中的敏感資料進行勒索",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Astra需求爆量，OpenAI暫停200美元Pro方案新訂閱",
-        "link": "https://www.ithome.com.tw/news/178866",
-        "pubDate": "2026-09-11  12:09:59",
-        "description": "OpenAI產品負責人Thibault Sottiaux周四（9/10）透過X宣布，由於GPT-6 Astra推出後需求爆量，OpenAI將暫停每月200美元Pro方案的新訂閱及升級，以確保既有用戶能持續使用Astra，其它ChatGPT方案與API則維持開放。",
+        "title": "自駕AI為何不能只比模型？從Stradvision的跨晶片部署、合成資料到2萬小時驗證",
+        "link": "https://www.ithome.com.tw/news/178887",
+        "pubDate": "2026-09-11  09:09:55",
+        "description": "【韓國東灘報導】一輛屬於韓國 AI視覺軟體公司Stradvision的測試車，從研發中心駛上京畿道東灘的市區道路。車輛才開始移動，車內螢幕便以不同色框標示前方車輛、行人、車道與交通號誌。\n駛入一段約百公尺、兩側停滿汽車的狹窄街道後，安裝在擋風玻璃上的單一前視攝影機，不只逐一辨識並標示路旁車輛，也持續追蹤前方及來向車輛的位置與移動狀態，將環境資訊提供給車輛控制系統，支援行駛過程中的轉向控制。",
         "source": "iThome"
       },
       {
@@ -180,17 +180,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "【333 Robots Community Meetup】從 Gesture HW1 到人形格鬥機器人，開發者怎麼把機器人做出來？",
-        "link": "https://techorange.com/2026/09/10/333-robots-community-meetup-august/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 10:00:00 +0800",
-        "description": "因為找不到價格合理、又具備一定靈活度的機器人靈巧手，Gesture Platforms 創辦人 Will 決定自己做一隻。這個原本從興趣開始的個人專案，經過數年開發，今年進一步登上 Kickstarter 募資，最終募得 12.37 萬美元，是原定 6 萬美元目標的 2 倍以上。 由鴻海科技集團、科技報橘與三創育成共同舉辦的 333 Robots Community Meetup，就邀請到 Will 分享 Gesture HW1 的開發歷程，現場也由 RCL 人型格鬥機器人競技聯盟帶來實機表演賽",
+        "title": "零售媒體延伸至 AI 介面：亞馬遜開放品牌經由 Amazon DSP 投放 ChatGPT 廣告",
+        "link": "https://techorange.com/2026/09/11/amazon-ads-chat-gpt-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 18:23:30 +0800",
+        "description": "亞馬遜宣布，將與 OpenAI 合作，讓旗下廣告主能在 ChatGPT 投放廣告，初期先開放美國部分品牌參與。 《CNBC》報導，這項合作也反映全球最大電商看好 OpenAI 持續成長中的廣告業務。OpenAI 的廣告業務近期已達到 10 億美元年化營收規模。今年 2 月，OpenAI 開始在美國 ChatGPT 測試投放贊助廣告，初期合作零售商包括 Best Buy 與 Williams-Sonoma。 亞馬遜 DSP 擴大觸角：開放品牌透過亞馬遜代操投放 ChatGPT 廣告 《CNBC》指",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Amazon 最高 600 億美元採購高通 AI 晶片，AI 戰線延伸至電力、代理與資安",
-        "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Amazon 最高可採購 600 億美元高通 AI 晶片，高通進軍 NVIDIA 資料中心地盤 高通（Qualcomm）與亞馬遜（Amazon）簽訂長期合作協議，Amazon 未來可向高通採購最高 600 億美元的 AI 資料中心晶片及相關產品。雙方將共同開發多代客製化晶片，主要用於執行訓練完成的 AI 模型，並合作開發最高達 1.6 Tbps 的高速光連接技術，因應 AI 資料中心的頻寬需求。高通也將擴大使用亞馬遜網路服務（AWS）協助晶片設",
+        "title": "ChatGPT 變身一站式金融工作區？整合 LSEG、PitchBook 等資料源，可生成互動式網站",
+        "link": "https://techorange.com/2026/09/11/openai-introducing-chatgpt-financial-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 16:35:39 +0800",
+        "description": "OpenAI 推出專為金融業打造的 ChatGPT，整合 LSEG、PitchBook、Daloopa 等金融資料供應商的資料，並搭載最新 AI 模型，鎖定投資銀行與股票研究等工作場景。 OpenAI 在部落格文章中表示，這款名為「ChatGPT for Financial Services」的產品，是與 Morgan Stanley、Evercore 共同開發，兩家公司擔任設計合作夥伴，協助 OpenAI 打造這項產品。《VentureBeat》指出，兩家公司特別關注可靠的資料取得，以及高品質",
         "source": "TechOrange"
       },
       {
@@ -263,13 +263,6 @@
         "link": "https://thehackernews.com/2026/09/four-spy-groups-used-same-chrome-and.html",
         "pubDate": "Wed, 09 Sep 2026 22:04:05 +0530",
         "description": "Multiple espionage-motivated threat activity clusters have been found deploying a previously undocumented exploit kit called BlueMoon that chains together multiple vulnerabilities in Microsoft Windows and Google Chrome.\n\nThe first in-the-wild use of ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Infostealer Logs Expose Replayable AI Tokens That Can Bypass MFA",
-        "link": "https://thehackernews.com/2026/09/infostealer-logs-expose-replayable-ai.html",
-        "pubDate": "Wed, 09 Sep 2026 19:53:55 +0530",
-        "description": "Cybercriminals are hijacking artificial intelligence (AI) user accounts via information stealer logs to create \"stolen keys\" that grant illicit access to tools from model providers like Google, Anthropic, and others. \n\nInformation stealers like Lumma",
         "source": "TheHackerNews"
       },
       {
@@ -390,6 +383,13 @@
         "pubDate": "Thu, 10 Sep 2026 10:00:10 -0400",
         "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others ",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft says September updates fix mouse settings reset issues",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
+        "pubDate": "Thu, 10 Sep 2026 07:14:28 -0400",
+        "description": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -492,45 +492,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AI agents are flooding public services with new requests",
-        "link": "https://techcrunch.com/2026/09/10/ai-agents-are-flooding-public-services-with-new-requests/",
-        "pubDate": "Thu, 10 Sep 2026 14:53:50 +0000",
-        "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
+        "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
+        "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
+        "pubDate": "Fri, 11 Sep 2026 13:32:54 +0000",
+        "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
         "source": "TechCrunch"
       },
       {
-        "title": "Slack can now vibe-code interactive charts and reports inside chats",
-        "link": "https://www.theverge.com/tech/989853/slackforce-surfaces-launch",
-        "pubDate": "2026-09-10T17:25:21-04:00",
-        "description": "A new feature coming to Slack will allow you to build interactive reports, polls, dashboards, presentations, microsites, and other tools directly inside a chat. With Slackforce Surfaces, you can describe to Slackbot what you need, and it will use AI ",
+        "title": "New York City’s last pickpocket doesn’t need a smartphone",
+        "link": "https://www.theverge.com/entertainment/993875/tiff-2026-the-only-living-pickpocket-in-new-york",
+        "pubDate": "2026-09-11T10:15:00-04:00",
+        "description": "Hello once again from Toronto, where for a week every year I watch far too many movies and tell you all about them. The festival, better known as TIFF, is always a great preview of the months ahead in film, with a nice mix of mainstream fare, awards ",
         "source": "TheVerge"
       },
       {
-        "title": "Schools are catching on to Big Tech’s playbook",
-        "link": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
-        "pubDate": "2026-09-10T15:44:20-04:00",
-        "description": "It's the hot new thing in tech, and it's where all the jobs are. Students who don't learn to use it fall behind. And to help them catch up in time, its creators are graciously providing the resources and curriculum for learning it, often pro bono. Th",
+        "title": "Why Apple’s next computer should be for the smart home",
+        "link": "https://www.theverge.com/tech/993892/apples-next-computer-smart-home-hub-airport-router",
+        "pubDate": "2026-09-11T10:01:55-04:00",
+        "description": "John Ternus didn't mention Apple Home once during his first keynote as Apple CEO. But he did open by describing an \"intelligent personal hub\" that prioritizes local processing, protects your privacy, and integrates with all your other devices, apps, ",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon’s Fire TV Stick 4K is over half off at under $20",
-        "link": "https://www.theverge.com/gadgets/993455/fire-tv-stick-4k-resident-evil-requiem-deal-sale",
-        "pubDate": "2026-09-10T12:58:44-04:00",
-        "description": "Looking to take full advantage of your 4K television, but your current streaming stick doesn’t have the right features? Through September 13th, you can grab an Amazon Fire TV Stick 4K from Woot for just $16.09 when you use the coupon code FIRE30 at c",
+        "title": "Samsung says &#8216;Tim Cook&#8217; bought a Galaxy Fold",
+        "link": "https://www.theverge.com/tech/993928/samsung-tim-cook-galaxy-z-fold-8",
+        "pubDate": "2026-09-11T09:59:16-04:00",
+        "description": "That isn't Apple's former CEO promoting the Galaxy Z Fold 8 in a new Samsung ad - \"Tim Cook from Palmerston North\" just happens to have the same name and look a lot like him. Released right as Apple announced its iPhone Duo, the ad mimics Apple's cin",
         "source": "TheVerge"
       },
       {
-        "title": "Electric air taxis get the green light for test flights in Texas",
-        "link": "https://www.theverge.com/transportation/993341/evtol-air-taxi-aviation-eipp-texas",
-        "pubDate": "2026-09-10T12:00:00-04:00",
-        "description": "A new federal program to test the feasibility of electric, hybrid-electric, and autonomous aircraft kicks off today in Texas - before the rules governing this new technology have even been finalized. Earlier this year, the Federal Aviation Administra",
+        "title": "Ikea supersized its cheap Bluetooth speaker and added an optical input",
+        "link": "https://www.theverge.com/tech/993910/ikea-badkruka-wireless-bluetooth-speaker-optical-input",
+        "pubDate": "2026-09-11T09:42:35-04:00",
+        "description": "Ikea's new Badkruka wireless Bluetooth speaker is now available in the US for $59.99. It's reminiscent of the colorful and tiny $10 Kallsup speaker that Ikea debuted earlier this year at CES 2026, but at almost seven inches tall, the boxy Badkruka is",
         "source": "TheVerge"
       },
       {
-        "title": "Universal Music is launching an AI music platform with ElevenLabs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/993465/universal-music-elevenlabs-ai",
-        "pubDate": "2026-09-10T11:38:19-04:00",
-        "description": "Universal Music Group is launching a new AI-powered platform that will allow users to draw from its catalog of licensed music to create song remixes, mashups, and new takes on tracks, according to an announcement on Thursday. The record label is deve",
+        "title": "Arizona’s lifeline for chip manufacturing is drying up",
+        "link": "https://www.theverge.com/science/993522/water-chip-semiconductor-manufacturing-colorado-river",
+        "pubDate": "2026-09-11T08:00:00-04:00",
+        "description": "Arizona, an epicenter for the bipartisan push to revive American chip manufacturing, is about to lose more than a quarter of the water it typically pulls each year from the Colorado River. The 1,400-mile waterway is a crucial lifeline for the region ",
         "source": "TheVerge"
       }
     ],
