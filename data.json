@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-10T22:32:38.513128Z",
+  "ts": "2026-09-11T00:31:48.530857Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "ShinyHunters語音網釣鎖定醫療業，SaaS敏感資料恐遭竊",
+        "link": "https://www.ithome.com.tw/news/178841",
+        "pubDate": "2026-09-11 08:00",
+        "description": "Health-ISAC發布資安警訊，ShinyHunters鎖定全球醫療產業發動語音網釣，企圖竊取SaaS服務中的敏感資料進行勒索",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版",
+        "link": "https://www.ithome.com.tw/news/178845",
+        "pubDate": "2026-09-11 08:00",
+        "description": "由Palo Alto Networks創辦人Nir Zuk共同成立的Cylake，如今取得2.45億美元資金，該公司正開發結合軟體、硬體與AI的整合式資安平臺，可部署於企業內部或私有雲環境",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國能源部研究AI強化電網資安，網路威脅偵測與定位準確率達95%",
+        "link": "https://www.ithome.com.tw/news/178834",
+        "pubDate": "2026-09-11 08:00",
+        "description": "美國能源部與桑迪亞國家實驗室研究利用AI強化電網資安，網路威脅偵測與定位準確率達95%，原本約需2個月完成的資料處理與模型訓練流程，也可縮短至數小時",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
+        "link": "https://www.ithome.com.tw/news/178848",
+        "pubDate": "2026-09-11 08:00",
+        "description": "雲端安全聯盟（CSA）發布零信任微分段指引，提出企業可結合拓樸與連線兩種分段模式落實最低權限通訊，並將AI代理納入微分段控管，依風險限制其可連線及存取的資源",
+        "source": "iThome資安"
+      },
       {
         "title": "Kinryū Labs揭露越南航班資訊系統APIS資料庫疑似暴露，2.2億筆旅客與機組員紀錄曝險",
         "link": "https://www.ithome.com.tw/news/178856",
@@ -77,34 +105,6 @@
         "link": "https://www.ithome.com.tw/news/178839",
         "pubDate": "2026-09-10 11:21",
         "description": "OpenAI呼籲美國建立強制性AI安全規範，鎖定開發頂尖AI系統的少數業者，要求納入安全測試、獨立評估與重大事件通報",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多個中國駭客組織利用漏洞利用工具包BlueMoon，串連Chrome與Windows零時差漏洞從事攻擊",
-        "link": "https://www.ithome.com.tw/news/178838",
-        "pubDate": "2026-09-10 11:10",
-        "description": "資安公司Proofpoint揭露漏洞利用工具包BlueMoon的攻擊活動，確認有4個從事網路間諜活動的中國駭客組織使用，此工具利用3個零時差漏洞，包含Chrome高風險漏洞CVE-2026-85046、Windows本機權限提升漏洞CVE-2026-85880，以及一個尚未登記CVE編號的V8沙箱逃逸漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員Nightmare Eclipse揭露Microsoft Defender零時差漏洞ShieldCrash",
-        "link": "https://www.ithome.com.tw/news/178837",
-        "pubDate": "2026-09-10 10:51",
-        "description": "在微軟發布9月例行更新（Patch Tuesday）不久，研究員Nightmare Eclipse公布Microsoft Defender零時差漏洞ShieldCrash，並指出該問題源自ShieldBreak（CVE-2026-69414）修補不完整造成",
-        "source": "iThome資安"
-      },
-      {
-        "title": "計程車叫車服務業者大車隊子公司遭網路攻擊",
-        "link": "https://www.ithome.com.tw/news/178835",
-        "pubDate": "2026-09-10 09:49",
-        "description": "本週上櫃計程車叫車服務公司大車隊（2640）發布資安重訊，指出子公司全球商務科技遭到網路攻擊，尚待釐清是否出現資料外洩的情況",
-        "source": "iThome資安"
-      },
-      {
-        "title": "BigBear 2.0網釣攻擊鎖定Microsoft 365，258家組織遭入侵",
-        "link": "https://www.ithome.com.tw/news/178815",
-        "pubDate": "2026-09-10 08:00",
-        "description": "網釣即服務平臺BigBear 2.0鎖定Microsoft 365帳號，攻擊者藉由對手中間人攻擊繞過MFA，研究人員確認已有258家組織的帳號遭到入侵",
         "source": "iThome資安"
       },
       {
@@ -187,13 +187,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Arm 估實體 AI 市場突破 2,000 億美元，OpenAI、Google 更新潮帶來「模型疲勞」",
-        "link": "https://techorange.com/2026/09/09/arm-physical-ai-market-model-fatigue/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 09 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Arm 集結逾 80 家企業，估實體 AI 市場將突破 2,000 億美元 晶片架構業者安謀（Arm）擴大實體 AI 布局，推出 Arm Total Design for Physical AI，集結 AWS、Hugging Face、西門子（Siemens）、恩智浦（NXP）及宇樹科技（Unitree Robotics）等超過 80 家企業，共同整合 AI 模型、軟體、感測器及運算硬體。Arm 估計，實體 AI 年度運算市場目前約為 250 ",
-        "source": "TechOrange"
-      },
-      {
         "title": "Agility 揭人形機器人的「勞工成本」：一台 Digit 5 年 40 萬美元，多久幫你賺回來？",
         "link": "https://techorange.com/2026/09/10/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 10 Sep 2026 18:28:56 +0800",
@@ -240,6 +233,13 @@
         "link": "https://techorange.com/2026/09/10/amazon-qualcomm-60-billion-ai-chip-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 10 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Amazon 最高可採購 600 億美元高通 AI 晶片，高通進軍 NVIDIA 資料中心地盤 高通（Qualcomm）與亞馬遜（Amazon）簽訂長期合作協議，Amazon 未來可向高通採購最高 600 億美元的 AI 資料中心晶片及相關產品。雙方將共同開發多代客製化晶片，主要用於執行訓練完成的 AI 模型，並合作開發最高達 1.6 Tbps 的高速光連接技術，因應 AI 資料中心的頻寬需求。高通也將擴大使用亞馬遜網路服務（AWS）協助晶片設",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Apple Siri AI 9/14 Beta 上線，NVIDIA 170 億美元 Groq 交易傳遭美國司法部調查",
+        "link": "https://techorange.com/2026/09/11/apple-siri-ai-nvidia-groq-antitrust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 11 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Apple Siri AI 9 月 14 日 Beta 上線，首波僅支援英語、部分功能設使用上限 Apple 新執行長 John Ternus 上任後，首度主持大型產品發表會，並把 iPhone 定位為 AI 時代的「智慧個人中樞」。John Ternus 將隱私列為 Apple 與其他 AI 平台的主要差異，相關 AI 服務會盡可能在裝置端執行，需要更多算力時，才會透過 Private Cloud Compute 私密雲端運算處理，並由這套系",
         "source": "TechOrange"
       }
     ],
