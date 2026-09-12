@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T19:37:55.343421Z",
+  "ts": "2026-09-12T21:38:17.324469Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+        "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
+        "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Anthropic CEO outlines plan to slow AI development",
         "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
         "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
@@ -492,11 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Scammers target hundreds of thousands of crypto owners after Trezor confirms data breach of email provider",
-        "link": "https://techcrunch.com/2026/09/11/scammers-target-hundreds-of-thousands-of-crypto-owners-after-trezor-confirms-data-breach-of-email-provider/",
-        "pubDate": "Fri, 11 Sep 2026 13:32:54 +0000",
-        "description": "This is the second data breach affecting a company that hardware crypto wallet maker Trezor relies on.",
-        "source": "TechCrunch"
+        "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+        "pubDate": "2026-09-12T17:16:28-04:00",
+        "description": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement,",
+        "source": "TheVerge"
+      },
+      {
+        "title": "StarCraft returns in 2030 as an open-world shooter",
+        "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
+        "pubDate": "2026-09-12T16:08:09-04:00",
+        "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now",
+        "source": "TheVerge"
       },
       {
         "title": "Sylvan Esso think you should splurge on good-quality yogurt",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
         "pubDate": "2026-09-12T11:19:44-04:00",
         "description": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers detailed some alarming findings about how LG's TVs are logging and uploading data on its users. Now the company is pushing back against those allegations, saying that ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Trump is giving data centers a pass to pollute",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/994112/ai-data-center-pollution-health-epa",
-        "pubDate": "2026-09-12T10:41:27-04:00",
-        "description": "President Donald Trump is weakening environmental regulations in the name of speeding up the construction of AI data centers, raising health risks for Americans, a cadre of former EPA officials said this week in a briefing and new report. They are ur",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Laika’s stop-motion fantasy Wildwood looks so smooth",
-        "link": "https://www.theverge.com/entertainment/994314/tiff-2026-wildwood-stuffed-julian",
-        "pubDate": "2026-09-12T09:00:00-04:00",
-        "description": "Due to a scheduling mishap, I was only able to check out two movies on my second day at the Toronto International Film Festival - but I did manage to get an early look at and some fascinating details on one of my most anticipated films this year. Eve",
         "source": "TheVerge"
       }
     ],
