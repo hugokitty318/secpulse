@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T06:29:08.016896Z",
+  "ts": "2026-09-12T11:14:19.386904Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,25 +287,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Gigabud Creates Android Work Profiles to Hide From Banking App Malware Checks",
-        "link": "https://thehackernews.com/2026/09/gigabud-creates-android-work-profiles.html",
-        "pubDate": "Thu, 10 Sep 2026 17:03:43 +0530",
-        "description": "The Gigabud banking trojan now installs a second Android app that creates a work profile on an infected phone and drops a tampered banking app inside it, security firm Group-IB said in a report published on September 9.\n\nA work profile is a separate ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "September Windows Server updates break Remote Desktop Services",
         "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
         "pubDate": "Thu, 10 Sep 2026 16:34:37 -0400",
         "description": "Windows admins report that the September 2026 security updates are causing Remote Desktop Services (RDS) failures on Windows Server 2019, 2022, and 2025 servers, preventing users from connecting and, in some cases, requiring a hard reset to restore f",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA Flags Exploited Cisco, Citrix, Fortinet Flaws, Sets Sept. 12 Federal Patch Deadline",
-        "link": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
-        "pubDate": "Thu, 10 Sep 2026 16:06:46 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added three flaws, each impacting Cisco, Citrix, and Fortinet, to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agen",
-        "source": "TheHackerNews"
       },
       {
         "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
@@ -334,6 +320,20 @@
         "pubDate": "Thu, 10 Sep 2026 11:43:58 -0400",
         "description": "Cisco Talos says two recently patched Secure Firewall Management Center (FMC) vulnerabilities have been exploited by three separate threat clusters linked to ransomware and state-sponsored attacks. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
+        "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
+        "pubDate": "Sat, 12 Sep 2026 15:54:44 +0530",
+        "description": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyd",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
+        "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
+        "pubDate": "Sat, 12 Sep 2026 14:37:56 +0530",
+        "description": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product",
+        "source": "TheHackerNews"
       },
       {
         "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
