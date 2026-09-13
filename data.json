@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-12T23:20:54.930960Z",
+  "ts": "2026-09-13T01:24:00.382279Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
+        "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
+        "pubDate": "Sat, 12 Sep 2026 23:25:38 +0000",
+        "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+        "source": "TechCrunch"
+      },
+      {
         "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
         "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
         "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
@@ -489,13 +496,6 @@
         "link": "https://techcrunch.com/2026/09/11/nscale-adds-former-openai-exec-fidji-simo-to-its-board-ahead-of-potential-ipo/",
         "pubDate": "Fri, 11 Sep 2026 16:46:25 +0000",
         "description": "The No. 2 exec at OpenAI also led Instacart through its IPO in 2023.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Matt Mullenweg tells (trolls?) Automattic staff, saying he’s back in control after CEO ouster",
-        "link": "https://techcrunch.com/2026/09/11/matt-mullenweg-tells-automattic-staff-in-slack-hes-back-in-control-after-ceo-ouster/",
-        "pubDate": "Fri, 11 Sep 2026 15:19:00 +0000",
-        "description": "In a Slack message seen by TechCrunch, Matt Mullenweg told Automattic employees he’s back in control of the company, days after its board put him on leave. Automattic has not yet confirmed the apparent reversal.",
         "source": "TechCrunch"
       },
       {
