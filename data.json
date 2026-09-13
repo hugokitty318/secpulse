@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-13T19:26:04.752606Z",
+  "ts": "2026-09-13T21:40:38.262507Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,34 @@
     ],
     "en_tech": [
       {
+        "title": "Insight Partners’ Devin Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
+        "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
+        "pubDate": "Sun, 13 Sep 2026 21:30:00 +0000",
+        "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
+        "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
+        "pubDate": "Sun, 13 Sep 2026 20:49:38 +0000",
+        "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
+        "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
+        "pubDate": "Sun, 13 Sep 2026 20:28:00 +0000",
+        "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What’s behind the AI industry’s latest warnings of doom?",
+        "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+        "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
+        "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
         "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
         "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
@@ -471,32 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s feud with mathematicians is only escalating",
-        "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
-        "pubDate": "Fri, 11 Sep 2026 20:57:36 +0000",
-        "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
-        "pubDate": "Fri, 11 Sep 2026 20:33:18 +0000",
-        "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
-        "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
-        "pubDate": "Fri, 11 Sep 2026 20:30:17 +0000",
-        "description": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
-        "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
-        "pubDate": "Fri, 11 Sep 2026 19:35:54 +0000",
-        "description": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
-        "source": "TechCrunch"
+        "title": "Trump and Mike Johnson think the AI industry is overreacting",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "pubDate": "2026-09-13T15:41:48-04:00",
+        "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Ha",
+        "source": "TheVerge"
       },
       {
         "title": "Apple is reportedly working on iPhone game controllers",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
         "pubDate": "2026-09-13T09:00:00-04:00",
         "description": "Marvel's mishandling of its Blade reboot will likely go down as one of the studio's biggest mistakes. There was a great actor in place to play the vampire hunter (Mahershala Ali), and a promising director set to take over the reins (Bassam Tariq). In",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Your car is selling your data",
-        "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
-        "pubDate": "2026-09-13T08:00:00-04:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for",
         "source": "TheVerge"
       }
     ],
