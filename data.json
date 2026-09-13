@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-13T16:57:16.860612Z",
+  "ts": "2026-09-13T19:26:04.752606Z",
   "tabs": {
     "cn_sec": [
       {
@@ -499,6 +499,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Apple is reportedly working on iPhone game controllers",
+        "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+        "pubDate": "2026-09-13T14:30:16-04:00",
+        "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors r",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The Units’ Digital Stimulation is synthpunk perfection",
+        "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+        "pubDate": "2026-09-13T13:36:10-04:00",
+        "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my atten",
+        "source": "TheVerge"
+      },
+      {
         "title": "Waymo pulls over, calls cops on riders with a ghost gun",
         "link": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
         "pubDate": "2026-09-13T10:28:12-04:00",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
         "pubDate": "2026-09-13T08:00:00-04:00",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple’s new phones are here",
-        "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
-        "pubDate": "2026-09-13T08:00:00-04:00",
-        "description": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been de",
-        "source": "TheVerge"
-      },
-      {
-        "title": "OpenAI’s rogue AI tried to hack another company in May",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
-        "pubDate": "2026-09-12T17:41:36-04:00",
-        "description": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI agents were responsible for the attack. Not only that, but the AI tried",
         "source": "TheVerge"
       }
     ],
