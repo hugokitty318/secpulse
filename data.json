@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-13T06:45:12.738581Z",
+  "ts": "2026-09-13T12:42:11.203679Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Check Point Discloses Two 9.8-Rated VPN Certificate Flaws Enabling Unauthenticated RCE",
-        "link": "https://thehackernews.com/2026/09/check-point-discloses-two-98-rated-vpn.html",
-        "pubDate": "Thu, 10 Sep 2026 17:15:05 +0530",
-        "description": "Check Point has patched two critical vulnerabilities in the way its firewall and management products handle VPN certificates. The company says both could allow an unauthenticated remote attacker to run code, but only \"under specific conditions\" that ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "September Windows Server updates break Remote Desktop Services",
         "link": "https://www.bleepingcomputer.com/news/microsoft/september-windows-server-updates-break-remote-desktop-services/",
         "pubDate": "Thu, 10 Sep 2026 16:34:37 -0400",
@@ -306,6 +299,13 @@
         "pubDate": "Thu, 10 Sep 2026 11:55:56 -0400",
         "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
+        "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
+        "pubDate": "Sun, 13 Sep 2026 15:41:48 +0530",
+        "description": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first ",
+        "source": "TheHackerNews"
       },
       {
         "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
@@ -499,6 +499,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Your car is selling your data",
+        "link": "https://www.theverge.com/column/994172/your-car-is-selling-your-data",
+        "pubDate": "2026-09-13T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on cars, data privacy, and autonomous vehicles, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Apple’s new phones are here",
+        "link": "https://www.theverge.com/tech/994218/apple-iphone-18-pro-airpods-5-meta-muse-ai-sony-headphones",
+        "pubDate": "2026-09-13T08:00:00-04:00",
+        "description": "Hi, friends! Welcome to Installer No. 143, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I've been de",
+        "source": "TheVerge"
+      },
+      {
         "title": "OpenAI’s rogue AI tried to hack another company in May",
         "link": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
         "pubDate": "2026-09-12T17:41:36-04:00",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
         "pubDate": "2026-09-12T16:08:09-04:00",
         "description": "Blizzard originally tried to bring the StarCraft universe to the world of 3D shooters way back in 2002 with StarCraft: Ghost. It sat in development hell for years until Blizzard president Mike Morhaime confirmed that it had been canceled in 2014. Now",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Sylvan Esso think you should splurge on good-quality yogurt",
-        "link": "https://www.theverge.com/entertainment/994340/sylvan-esso-ow-infinity-interview-music",
-        "pubDate": "2026-09-12T12:35:00-04:00",
-        "description": "Amelia Meath and Nick Sanborn, better known as Sylvan Esso, have been bringing their low-key electro-pop to the masses since 2014, bursting onto the scene with their self-titled debut album and the single \"Hey Mami.\" Over the years, they've put out a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Anthropic CEO says it’s time to pump the brakes on AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-        "pubDate": "2026-09-12T12:23:40-04:00",
-        "description": "Anthropic CEO Dario Amodei says the time has come to slow down AI development and will give third-party evaluators like METR access to its models to help ensure its \"adherence to safety practices and commitments.\" In a winding essay, Amodei proposed ",
         "source": "TheVerge"
       }
     ],
