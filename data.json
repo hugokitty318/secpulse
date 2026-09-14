@@ -1,7 +1,49 @@
 {
-  "ts": "2026-09-13T23:32:21.816848Z",
+  "ts": "2026-09-14T01:37:38.278756Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "GitLab修補CVSS滿分重大漏洞，公開隔天即出現漏洞探測",
+        "link": "https://www.ithome.com.tw/news/178892",
+        "pubDate": "2026-09-14 08:00",
+        "description": "GitLab修補CVSS風險分數達10分的重大路徑穿越漏洞CVE-2026-85706，未通過身分驗證的攻擊者可能讀取伺服器上的任意檔案，漏洞公開隔天已出現探測行為",
+        "source": "iThome資安"
+      },
+      {
+        "title": "電子郵件行銷服務商Brevo客戶帳號遭入侵，攻擊者利用合法郵件管道寄送網釣信",
+        "link": "https://www.ithome.com.tw/news/178888",
+        "pubDate": "2026-09-14 08:00",
+        "description": "電子郵件行銷服務商Brevo有138個客戶帳號遭入侵，其中6個帳號被攻擊者利用原有郵件管道寄送網釣信，已知波及硬體加密貨幣錢包品牌Trezor、BitBox，以及加密貨幣資產追蹤服務CoinTracking",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cribl取得Radiant Security AI SOC技術，擴大資安營運布局",
+        "link": "https://www.ithome.com.tw/news/178869",
+        "pubDate": "2026-09-14 08:00",
+        "description": "Cribl取得AI資安新創Radiant Security旗下AI原生SOC產品的技術資產與智慧財產權，將相關技術整合至既有遙測資料平臺，以自動進行資安警示分類、調查及處置",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客鎖定AI程式開發工具，提示詞注入成供應鏈攻擊手法",
+        "link": "https://www.ithome.com.tw/news/178861",
+        "pubDate": "2026-09-14 08:00",
+        "description": "Google指出，今年第二季攻擊者運用AI的方式，已從較基礎的提示詞操作，進一步轉向代理式AI工作流程與攻擊自動化，並開始鎖定AI程式開發工具、API憑證及雲端運算資源",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA更新內部威脅指引，將AI風險納入企業防護",
+        "link": "https://www.ithome.com.tw/news/178858",
+        "pubDate": "2026-09-14 08:00",
+        "description": "CISA更新內部威脅指引，將AI與遠距工作風險納入企業防護。新版提醒，內部人員可能竄改AI模型、誤把敏感資料輸入未核准AI工具，外部攻擊者也可能利用AI進行社交工程；企業應結合員工通報、系統監控與人工判讀降低風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic執行長警告AI發展過快，OpenAI Altman同意應放慢腳步",
+        "link": "https://www.ithome.com.tw/news/178894",
+        "pubDate": "2026-09-14  09:09:34",
+        "description": "Anthropic執行長Dario Amodei周六（9/12）發表長文警告，AI能力進展速度已快到安全措施可能難以跟上，呼籲業界放慢前沿AI發展速度；OpenAI執行長Sam Altman隨後表態支持；xAI共同創辦人暨執行長Elon Musk亦轉發Amodei的文章，說出「Dario是對的」以示支持。",
+        "source": "iThome"
+      },
       {
         "title": "【資安週報】0907~0911，歐盟CRA通報義務上路、SEMI E187驗證標章亮相，產品安全進入落地新階段",
         "link": "https://www.ithome.com.tw/news/178884",
@@ -73,41 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "因應加密勒索攻擊，卓榮泰要求重大駭侵案件納入通報、數發部擔任跨機關資安情資統籌角色",
-        "link": "https://www.ithome.com.tw/news/178860",
-        "pubDate": "2026-09-11 11:26",
-        "description": "行政院長卓榮泰要求數位發展部統籌跨機關資安情資，並將民間企業重大駭侵及加密勒索案件納入通報義務，也要求警政署持續強化科技偵查及數位鑑識專業能力，以提升員警對加密勒索案件的應處、蒐證及偵辦能力。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "臺灣網路攝影機廠商晶睿傳出遭勒索軟體Everest攻擊",
-        "link": "https://www.ithome.com.tw/news/178859",
-        "pubDate": "2026-09-11 10:51",
-        "description": "勒索軟體Everest再傳攻擊臺灣科技公司，該組織近日聲稱入侵網路攝影機廠商晶睿通訊（Vivotek），並竊得236 GB資料。對此，母公司台達電表示，這些檔案是公開資料，經清查台達電與晶睿未有機敏資料外流",
-        "source": "iThome資安"
-      },
-      {
-        "title": "因應CRA該不該升級MCU？新唐以3類產品案例解析，須看終端產品分類、核心功能與晶片安全角色",
-        "link": "https://www.ithome.com.tw/news/178857",
-        "pubDate": "2026-09-11 10:47",
-        "description": "因應歐盟《網路韌性法案》（CRA）逐步上路，臺灣微控制器（MCU）大廠新唐科技近日回應市場常見疑問：產品要符合CRA，是否代表MCU／MPU都得升級？新唐特別以3類產品案例，說明不同架構下的評估差異",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CSA提出零信任微分段指引，將AI代理納入微分段控管",
-        "link": "https://www.ithome.com.tw/news/178848",
-        "pubDate": "2026-09-11 08:00",
-        "description": "雲端安全聯盟（CSA）發布零信任微分段指引，提出企業可結合拓樸與連線兩種分段模式落實最低權限通訊，並將AI代理納入微分段控管，依風險限制其可連線及存取的資源",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cylake募資2.45億美元，軟硬體整合AI資安平臺年底推出Beta版",
-        "link": "https://www.ithome.com.tw/news/178845",
-        "pubDate": "2026-09-11 08:00",
-        "description": "由Palo Alto Networks創辦人Nir Zuk共同成立的Cylake，如今取得2.45億美元資金，該公司正開發結合軟體、硬體與AI的整合式資安平臺，可部署於企業內部或私有雲環境",
-        "source": "iThome資安"
-      },
-      {
         "title": "自駕AI為何不能只比模型？從Stradvision的跨晶片部署、合成資料到2萬小時驗證",
         "link": "https://www.ithome.com.tw/news/178887",
         "pubDate": "2026-09-11  09:09:55",
@@ -127,20 +134,6 @@
         "pubDate": "2026-09-11  05:09:10",
         "description": "AI近年快速改變全球天氣預報技術發展方向，從過去主要依靠物理方程式與超級電腦強大運算能力的數值模式，逐步加入機器學習天氣預報（Machine Learning Weather Prediction, MLWP）的新技術。氣象署數值資訊組長沈里音在近期在2026數位政府高峰會分享指出，AI與傳統數值模式並非取代關係，而是透過兩種技術互補，提高對颱風路徑、降雨及劇烈天氣變化的預測能力。",
         "source": "iThome"
-      },
-      {
-        "title": "從找工作到查工地！勞動部揭4大數位轉型實例，數天工程督導作業靠AI縮短到8分鐘",
-        "link": "https://www.ithome.com.tw/news/178524",
-        "pubDate": "2026-09-11  02:09:59",
-        "description": "政府求職網站明明有許多職缺，為什麼求職者輸入關鍵字後，還是找不到適合自己的工作？\n問題不是職缺太少，而是求職者和系統「說不同語言」。一般求職者找的是「土水師傅」，政府職業分類寫的卻是「泥作工作人員」；雇主說要找「AI工程師」，現行職業編碼卻把它歸在「軟體開發及程式設計師」。只要雙方用詞不同，傳統仰賴精確關鍵字的系統，就可能錯過適合的媒合機會。",
-        "source": "iThome"
-      },
-      {
-        "title": "DeepSeek發表V4.1-Flash新架構，效能超越上一代旗艦V4-Pro",
-        "link": "https://www.ithome.com.tw/news/178871",
-        "pubDate": "2026-09-11  02:09:51",
-        "description": "DeepSeek周四（9/10）發表新一代AI模型V4.1-Flash，採用全新的Causal Encoder-Decoder（CED）架構，為DeepSeek新架構家族中的首款也是最小型模型。DeepSeek宣稱，V4.1-Flash不僅推論速度及吞吐量更高，在多項基準測試的整體表現也超越上一代旗艦V4-Pro。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -159,24 +152,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI Agent 越界範圍再擴大、Anthropic 揭第 4 起事故：AI 安全進入「事故治理」階段",
-        "link": "https://techorange.com/2026/09/10/openai-anthropic-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 12:37:03 +0800",
-        "description": "OpenAI 旗下 AI Agent 越界的「Wiki 事件」還在擴大，繼先前被發現利用德國 Wiki 交換資訊後，獨立研究者又找到更多活動足跡，顯示實際活動範圍比先前揭露的更廣。而幾乎同一時間，Anthropic 也公布自家 Agent 的最新事故調查，發現原先在 7 月揭露 3 起 Claude 意外存取真實第三方系統的事件，如今又找到第 4 起。 延伸閱讀：OpenAI Agent 把德文 Wiki 變留言板，為何他們早就知道卻沒有公開？ 《Reuters》9 月 9 日取得 6 組獨立調",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Anthropic 三情境拆解 AI 經濟衝擊：極端情境 GDP 增 32%、失業率恐近 12%",
-        "link": "https://techorange.com/2026/09/10/anthropic-research-ai-economics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 12:19:43 +0800",
-        "description": "Anthropic 最新研究指出，AI 未來四年可能對美國經濟帶來程度截然不同的影響。較溫和的情況下，AI 對經濟的改變可能類似網際網路；若發展速度更快，影響力則可能接近網際網路與電力同時出現的程度。至於最極端的情況，AI 帶來的經濟變化沒有可供比照的先例。 若實際發展接近這些情境，AI 可能推動經濟大幅成長，同時也會帶來深遠的政治影響。尤其在經濟成長強勁的情況下，AI 對白領工作的衝擊最為劇烈。 Anthropic 預測 2030 年 AI 經濟衝擊：三種情境揭示 GDP 與就業市場變化 An",
-        "source": "TechOrange"
-      },
-      {
         "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
         "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 12 Sep 2026 06:29:00 +0800",
         "description": "德勤政府洞察中心（Deloitte Center for Government Insights）發布《2026 全球政府趨勢報告》（Government Trends 2026），內容指出，AI 技術加速演進、財政日益緊縮，加上跨部會協調的複雜度提高，讓傳統的局部改革、組織微調，以及把紙本流程搬上網的數位化工程，都已經走到極限。 領先的政府因此把目光轉向「政府作業系統」的全面重組，重寫底層的規則、工作流、決策權與學習循環。以下報告摘要，將剖析政府如何從基礎建設、組織架構、技術治理到法規制度，展",
+        "source": "TechOrange"
+      },
+      {
+        "title": "停機時間砍 86%、維修回應快 42%！現代汽車如何把 AI 鋪進 VIN、搬運車與維修廠？",
+        "link": "https://techorange.com/2026/09/14/hyundai-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 07:01:00 +0800",
+        "description": "汽車製造業正加速進入 AI 驅動的智慧製造階段。現代汽車集團（Hyundai Motor Group）自 2019 年起持續推動數位轉型，將 AI、資料平台與自動化技術導入全球製造體系，串聯研發、生產、品質管理、銷售與售後服務，建立貫穿車輛整個生命週期的數位化生態系。 今年八月，現代汽車集團在首爾總部舉辦「AX Achievement Showcase」，展示 AI 技術在實際製造與營運場景中的應用成果，其中包括讓生產停機時間降低約 86%、每年節省約 52.4 億韓元（約 1.23 億新台幣）",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】NVIDIA 傳投資 Anthropic 最高 100 億美元，Microsoft 資料中心容量擬增至 38 GW",
+        "link": "https://techorange.com/2026/09/14/nvidia-anthropic-ipo-microsoft-data-center-38gw/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊NVIDIA 傳投資 Anthropic 最高 100 億美元，1,000 億美元 IPO 挑戰史上最大 《路透》引述兩名知情人士報導，Anthropic 正洽談邀請 NVIDIA 擔任首次公開募股，也就是 IPO 的基石投資人。Anthropic 尋求募資最高 1,000 億美元，公司估值可能達到約 2 兆美元；NVIDIA 則考慮投資最高 100 億美元。如果依照目前規模完成，將挑戰史上最大 IPO。知情人士表示，上市目標是在今年 11 月",
         "source": "TechOrange"
       },
       {
