@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-14T13:58:47.170563Z",
+  "ts": "2026-09-14T19:19:00.932053Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,6 +266,34 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
+        "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
+        "pubDate": "Mon, 14 Sep 2026 22:28:42 +0530",
+        "description": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it wer",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
+        "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
+        "pubDate": "Mon, 14 Sep 2026 22:26:30 +0530",
+        "description": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scanned 1,386 ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WordPress Adds Automated Plugin Reviews to Block High-Risk Updates Before Distribution",
+        "link": "https://thehackernews.com/2026/09/wordpress-adds-automated-plugin-reviews.html",
+        "pubDate": "Mon, 14 Sep 2026 21:30:04 +0530",
+        "description": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.\n\n",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
+        "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
+        "pubDate": "Mon, 14 Sep 2026 20:10:34 +0530",
+        "description": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination.\n\nThe rest of the week is more famili",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
         "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
         "pubDate": "Mon, 14 Sep 2026 17:28:00 +0530",
@@ -273,11 +301,39 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
+        "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
+        "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
+        "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
+        "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
+        "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Malicious Twitch Browser Extension Leaks OAuth Tokens From Nearly 31,000 Users",
         "link": "https://thehackernews.com/2026/09/malicious-twitch-browser-extension.html",
         "pubDate": "Mon, 14 Sep 2026 12:54:39 +0530",
         "description": "A malicious cross-store Twitch browser extension has leaked OAuth tokens associated with nearly 31,000 users to proxy servers operated by a Russian commercial bot service.\n\nThe extension, named \"Twitch Enhanced Viewer | JeetBot,\" lists HISHIMIRO/jeet",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers target exposed Vite dev servers to steal AWS, Azure secrets",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-target-exposed-vite-dev-servers-to-steal-aws-azure-secrets/",
+        "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400",
+        "description": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
+        "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
+        "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400",
+        "description": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching f",
+        "source": "BleepingComputer"
       },
       {
         "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
@@ -306,62 +362,6 @@
         "pubDate": "Mon, 14 Sep 2026 04:08:16 -0400",
         "description": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA: Hackers now exploit max severity GitLab flaw in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-max-severity-gitlab-flaw-in-attacks/",
-        "pubDate": "Mon, 14 Sep 2026 03:06:27 -0400",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are now exploiting a maximum-severity GitLab vulnerability in attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
-        "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
-        "pubDate": "Fri, 11 Sep 2026 22:00:18 +0530",
-        "description": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
-        "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
-        "pubDate": "Fri, 11 Sep 2026 21:45:29 +0530",
-        "description": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax.\n\nKnowledge distillation by itsel",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
-        "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
-        "pubDate": "Fri, 11 Sep 2026 19:59:47 +0530",
-        "description": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026.\n\nThe threat actors, which the artificia",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
-        "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
-        "pubDate": "Fri, 11 Sep 2026 19:40:20 +0530",
-        "description": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve.\n\nThe operation has been attributed to a cyber espi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Your Critical Vulnerabilities Might Not Be Your Biggest Risk",
-        "link": "https://thehackernews.com/2026/09/your-critical-vulnerabilities-might-not.html",
-        "pubDate": "Fri, 11 Sep 2026 17:00:00 +0530",
-        "description": "Security teams have become exceptionally talented at finding vulnerabilities. Now, it’s time to turn our attention to optimizing the process for determining which of those vulnerabilities actually create a path to compromise.\n\nA critical vulnerabilit",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers abused Claude to extract secrets from 1.8M Android apps",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-abused-claude-to-extract-secrets-from-18m-android-apps/",
-        "pubDate": "Fri, 11 Sep 2026 16:19:09 -0400",
-        "description": "Anthropic says multiple threat groups, including the financially motivated and state-sponsored espionage groups linked to Russia and China, tried to abuse its Claude AI model for malicious purposes. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Florida confirms DMV database breached via stolen police account",
-        "link": "https://www.bleepingcomputer.com/news/security/florida-confirms-dmv-database-breached-via-stolen-police-account/",
-        "pubDate": "Fri, 11 Sep 2026 15:00:29 -0400",
-        "description": "The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) has confirmed that its DAVID driver database suffered a data breach, saying the attackers gained access using credentials belonging to a police department employee. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -373,136 +373,136 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Larry Ellison cancels $7.5 billion sale of Oracle stock",
-        "link": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
-        "pubDate": "Sun, 13 Sep 2026 20:49:38 +0000",
-        "description": "Oracle had previously disclosed that Ellison planned to sell 50 million shares worth around $7.5 billion.",
+        "title": "Amazon Prime Video takes on TikTok with short-form news clips",
+        "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
+        "pubDate": "Mon, 14 Sep 2026 18:14:29 +0000",
+        "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
         "source": "TechCrunch"
       },
       {
-        "title": "The 9 buzziest startups from Y Combinator’s latest Demo Day, according to VCs",
-        "link": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
-        "pubDate": "Sun, 13 Sep 2026 20:28:00 +0000",
-        "description": "From floating reactors to brain chips: VCs picked their favorite YC startups from the summer batch.",
+        "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
+        "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
+        "pubDate": "Mon, 14 Sep 2026 18:08:43 +0000",
+        "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
         "source": "TechCrunch"
       },
       {
-        "title": "What’s behind the AI industry’s latest warnings of doom?",
-        "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
-        "pubDate": "Sun, 13 Sep 2026 19:40:15 +0000",
-        "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+        "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
+        "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
+        "pubDate": "Mon, 14 Sep 2026 17:41:20 +0000",
+        "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
         "source": "TechCrunch"
       },
       {
-        "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
-        "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
-        "pubDate": "Sun, 13 Sep 2026 16:30:00 +0000",
-        "description": "Obama recently said that Democrats need to make artificial intelligence one of their “central agendas” and “have a very clear plan” to address concerns around the technology’s economic impact and safety.",
+        "title": "With iOS 27, I’m actually using Siri again",
+        "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
+        "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
+        "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: Lyft has entered the robotaxi chat",
-        "link": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
-        "pubDate": "Sun, 13 Sep 2026 16:04:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation, and now, more than ever, the role AI is playing in it.",
+        "title": "macOS 27: new Siri takes on AI productivity apps",
+        "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
+        "pubDate": "Mon, 14 Sep 2026 17:10:09 +0000",
+        "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
         "source": "TechCrunch"
       },
       {
-        "title": "Fusion power startups find new partners in the defense world",
-        "link": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
-        "pubDate": "Sun, 13 Sep 2026 13:15:00 +0000",
-        "description": "Fusion startups are inking defense-related deals, reigniting the relationship between fusion and national security that might have gone dormant, but never completely disappeared.",
+        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
+        "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
+        "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
+        "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
         "source": "TechCrunch"
       },
       {
-        "title": "Automattic confirms Mullenweg has returned as CEO after attempted ouster by board",
-        "link": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
-        "pubDate": "Sat, 12 Sep 2026 23:25:38 +0000",
-        "description": "Automattic says Mullenweg is back as \"chairman and CEO of Automattic, with full support of the board.\"",
+        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
+        "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
+        "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
+        "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those ",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
-        "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-        "pubDate": "Sat, 12 Sep 2026 20:19:16 +0000",
-        "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "title": "Waymo opens robotaxi service in Las Vegas",
+        "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
+        "pubDate": "Mon, 14 Sep 2026 16:04:16 +0000",
+        "description": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic CEO outlines plan to slow AI development",
-        "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-        "pubDate": "Sat, 12 Sep 2026 19:34:44 +0000",
-        "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+        "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
+        "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
+        "pubDate": "Mon, 14 Sep 2026 15:34:31 +0000",
+        "description": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
         "source": "TechCrunch"
       },
       {
-        "title": "Tesla says it will finally unveil the second generation Roadster on October 1",
-        "link": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
-        "pubDate": "Sat, 12 Sep 2026 19:21:19 +0000",
-        "description": "Tesla’s halo sports car was first announced in November 2017.",
+        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
+        "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
+        "pubDate": "Mon, 14 Sep 2026 15:00:00 +0000",
+        "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt",
         "source": "TechCrunch"
       },
       {
-        "title": "Revolut confirms customer data breach through fake government requests",
-        "link": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-        "pubDate": "Sat, 12 Sep 2026 14:40:00 +0000",
-        "description": "Revolut said it notified affected customers and alerted the relevant government agency, law enforcement, and financial regulators.",
+        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
+        "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
+        "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
+        "description": "Fathom said that it has over 400,000 monthly active users.",
         "source": "TechCrunch"
       },
       {
-        "title": "A Vinyl Bar in Shibuya is a startup offering fun music apps without any AI prompting",
-        "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting/",
+        "title": "Hear how AI can engineer nature’s comeback at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/14/hear-how-ai-can-engineer-natures-comeback-at-techcrunch-disrupt-2026/",
+        "pubDate": "Mon, 14 Sep 2026 14:30:00 +0000",
+        "description": "Not long ago, bringing an extinct species back to life belonged to science fiction. Today, it's the mission of a billion-dollar startup. Join the conversation with one of tech's most unconventional founders. Secure your Disrupt pass today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
+        "pubDate": "Mon, 14 Sep 2026 14:00:00 +0000",
+        "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
+        "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
         "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
         "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
         "source": "TechCrunch"
       },
       {
-        "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
-        "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
-        "pubDate": "Fri, 11 Sep 2026 22:58:17 +0000",
-        "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Khosla Ventures is opening a New York office this fall — its first outpost outside Sand Hill Road",
-        "link": "https://techcrunch.com/2026/09/11/khosla-ventures-is-opening-a-new-york-office-this-fall-its-first-outpost-outside-sand-hill-road/",
-        "pubDate": "Fri, 11 Sep 2026 21:19:05 +0000",
-        "description": "\"It's actually allegedly being built out now,\" said Rabois, who has clearly dealt with a missed construction timeline or two.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "link": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct",
-        "pubDate": "2026-09-14T09:00:00-04:00",
-        "description": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned rec",
+        "title": "TIFF 2026: The latest movie reviews from Toronto",
+        "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
+        "pubDate": "2026-09-14T13:30:00-04:00",
+        "description": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; ",
         "source": "TheVerge"
       },
       {
-        "title": "What happens after a town de-Flocks",
-        "link": "https://www.theverge.com/policy/994414/cities-ditching-flock-cameras-controversy",
-        "pubDate": "2026-09-14T07:00:00-04:00",
-        "description": "From Florida to Washington state, local governments across the country are canceling their contracts with Flock, the company behind the controversial AI-enabled license plate readers, in response to public outcry. But ending the contracts doesn't nec",
+        "title": "macOS 27 is available now",
+        "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
+        "pubDate": "2026-09-14T13:10:13-04:00",
+        "description": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final",
         "source": "TheVerge"
       },
       {
-        "title": "Trump and Mike Johnson think the AI industry is overreacting",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
-        "pubDate": "2026-09-13T15:41:48-04:00",
-        "description": "Yesterday, Anthropic CEO Dario Amodei published a lengthy open letter saying it was time to \"pace the frontier\" and slow down AI development. OpenAI's Sam Altman and Elon Musk both agreed, publicly voicing their support on X. Even Alphabet's Demis Ha",
+        "title": "Apple releases iOS 27 with Siri AI overhaul",
+        "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
+        "pubDate": "2026-09-14T13:08:49-04:00",
+        "description": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri",
         "source": "TheVerge"
       },
       {
-        "title": "Apple is reportedly working on iPhone game controllers",
-        "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
-        "pubDate": "2026-09-13T14:30:16-04:00",
-        "description": "Bloomberg's Mark Gurman says Apple is developing two game controllers for the iPhone and will likely sell them under the Beats brand. Rumors that Apple might enter the game controller business have circulated for some time. But last week, MacRumors r",
+        "title": "The Steam Frame is made for irresponsible hardware nerds like me",
+        "link": "https://www.theverge.com/tech/994267/steam-frame-review",
+        "pubDate": "2026-09-14T13:00:00-04:00",
+        "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it",
         "source": "TheVerge"
       },
       {
-        "title": "The Units’ Digital Stimulation is synthpunk perfection",
-        "link": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-        "pubDate": "2026-09-13T13:36:10-04:00",
-        "description": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my atten",
+        "title": "Valve’s Steam Frame costs $1,059",
+        "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
+        "pubDate": "2026-09-14T13:00:00-04:00",
+        "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam F",
         "source": "TheVerge"
       }
     ],
