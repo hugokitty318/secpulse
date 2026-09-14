@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-14T19:19:00.932053Z",
+  "ts": "2026-09-14T22:44:19.041773Z",
   "tabs": {
     "cn_sec": [
       {
@@ -268,15 +268,29 @@
       {
         "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
         "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-        "pubDate": "Mon, 14 Sep 2026 22:28:42 +0530",
+        "pubDate": "Mon, 14 Sep 2026 23:32:13 +0530",
         "description": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it wer",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
+        "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
+        "pubDate": "Mon, 14 Sep 2026 23:31:49 +0530",
+        "description": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.\n\nThe ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
+        "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
+        "pubDate": "Mon, 14 Sep 2026 23:28:16 +0530",
+        "description": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12.\n\nIn Telegram, the message looked ordinary, with a link",
         "source": "TheHackerNews"
       },
       {
         "title": "Red Heron Exploits Gitea RCE to Compromise 13 Organizations Across Six Countries",
         "link": "https://thehackernews.com/2026/09/red-heron-exploits-gitea-rce-to.html",
         "pubDate": "Mon, 14 Sep 2026 22:26:30 +0530",
-        "description": "A Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scanned 1,386 ",
+        "description": "A suspected Chinese threat actor tracked as Red Heron has been attributed to the rapid exploitation of a recently disclosed security vulnerability in Gitea to compromise internet-facing instances as part of a multi-national campaign.\n\n\"Red Heron scan",
         "source": "TheHackerNews"
       },
       {
@@ -299,6 +313,27 @@
         "pubDate": "Mon, 14 Sep 2026 17:28:00 +0530",
         "description": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work o",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft releases emergency Windows updates to fix RDS failures",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
+        "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
+        "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
+        "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
+        "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
+        "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
+        "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
+        "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
+        "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
@@ -327,49 +362,28 @@
         "pubDate": "Mon, 14 Sep 2026 12:15:58 -0400",
         "description": "A mass-scanning campaign targeting internet-exposed Vite development servers is attempting to steal cloud credentials and configurations from AWS and Azure deployments. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Why Patch Automation Needs Brakes, Not Just an Accelerator",
-        "link": "https://www.bleepingcomputer.com/news/security/why-patch-automation-needs-brakes-not-just-an-accelerator/",
-        "pubDate": "Mon, 14 Sep 2026 10:01:11 -0400",
-        "description": "Patch automation can help IT teams keep pace with growing update volumes, but deploying faster also means bad updates can spread faster. Action1 explains how update rings, predefined success criteria, and human oversight can make automated patching f",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Webinar: How malicious OAuth apps can lead to Google Workspace breaches",
-        "link": "https://www.bleepingcomputer.com/news/security/webinar-how-malicious-oauth-apps-can-lead-to-google-workspace-breaches/",
-        "pubDate": "Mon, 14 Sep 2026 08:15:23 -0400",
-        "description": "Attackers can combine social engineering with malicious OAuth applications to gain access to Google Workspace data without relying solely on stolen passwords. This webinar examines two attacks to show how these breaches unfold and which security cont",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: September updates cause RDS failures on Windows Server",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-cause-rds-failures-on-windows-server/",
-        "pubDate": "Mon, 14 Sep 2026 05:50:25 -0400",
-        "description": "Microsoft has confirmed reports that the September 2026 security updates cause Remote Desktop Services (RDS) failures on Windows Server systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Revolut discloses data breach exposing financial info, passports",
-        "link": "https://www.bleepingcomputer.com/news/security/revolut-discloses-data-breach-exposing-financial-info-passports/",
-        "pubDate": "Mon, 14 Sep 2026 04:48:24 -0400",
-        "description": "Fintech company Revolut has disclosed a data breach after sharing data from an undisclosed number of customers with a threat actor impersonating a government agency. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: September updates break audio on some Windows PCs",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-audio-on-some-windows-pcs/",
-        "pubDate": "Mon, 14 Sep 2026 04:08:16 -0400",
-        "description": "Microsoft has confirmed that USB audio devices may fail on some Windows systems after installing the KB5124008and KB5124012 September 2026 security updates. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Insight Partners’ Deven Parekh on why the firm is diversifying while everyone else bets the farm on OpenAI and Anthropic",
-        "link": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
-        "pubDate": "Sun, 13 Sep 2026 21:30:00 +0000",
-        "description": "Insight Partners' Devin Parekh opens up about losing Legora to General Catalyst, why he's fine holding stakes in rival AI labs, and why — even as everyone else piles into OpenAI and Anthropic — his $90 billion firm is deliberately staying diversified",
+        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
+        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
+        "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
+        "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+        "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
+        "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
+        "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
+        "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
+        "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
         "source": "TechCrunch"
       },
       {
@@ -432,7 +446,7 @@
         "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
         "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
         "pubDate": "Mon, 14 Sep 2026 15:34:31 +0000",
-        "description": "Automattic’s board is out, days after its members voted to put chief executive Matt Mullenweg on leave, sources tell TechCrunch.",
+        "description": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
         "source": "TechCrunch"
       },
       {
@@ -446,7 +460,7 @@
         "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
         "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
         "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
-        "description": "Fathom said that it has over 400,000 monthly active users.",
+        "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
         "source": "TechCrunch"
       },
       {
@@ -457,52 +471,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "5 days left to exhibit at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/14/techcrunch-disrupt-2026-exhibit-table-deadline-5-days/",
-        "pubDate": "Mon, 14 Sep 2026 14:00:00 +0000",
-        "description": "The last day to apply for an exhibit table at TechCrunch Disrupt 2026 on Sept 18. Just 5 days left. Secure your spot on the Expo Hall floor and put your business in front of 10,000+ founders, investors, and tech leaders.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "A Vinyl Bar in Shibuya is a startup from a former Spotify leader for making music apps",
-        "link": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps/",
-        "pubDate": "Mon, 14 Sep 2026 13:55:00 +0000",
-        "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TIFF 2026: The latest movie reviews from Toronto",
-        "link": "https://www.theverge.com/entertainment/994834/tiff-2026-movie-reviews",
-        "pubDate": "2026-09-14T13:30:00-04:00",
-        "description": "If you want an idea of what’s next in film, the Toronto International Film Festival is a good place to start. Every year TIFF features a huge range of features from around the world, and often some of them go on to be huge hits or awards contenders; ",
+        "title": "Apple Home’s new security camera features cost up to $60 a month",
+        "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
+        "pubDate": "2026-09-14T18:28:52-04:00",
+        "description": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short ",
         "source": "TheVerge"
       },
       {
-        "title": "macOS 27 is available now",
-        "link": "https://www.theverge.com/tech/994818/apple-macos-27-golden-gate-available-now",
-        "pubDate": "2026-09-14T13:10:13-04:00",
-        "description": "Apple released macOS 27 Golden Gate on Monday, which brings the new Siri AI assistant, Liquid Glass improvements, improved performance, and more. The update is compatible with all Macs with Apple Silicon, but not Intel Macs - Apple released its final",
+        "title": "What execs and politicians are saying about slowing down AI development",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
+        "pubDate": "2026-09-14T17:21:42-04:00",
+        "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out i",
         "source": "TheVerge"
       },
       {
-        "title": "Apple releases iOS 27 with Siri AI overhaul",
-        "link": "https://www.theverge.com/news/994756/apple-ios-27-launch-iphone-siri-ai-update",
-        "pubDate": "2026-09-14T13:08:49-04:00",
-        "description": "Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates. Siri AI is the headline feature across all four updates, the delayed AI-powered overhaul of the Siri assistant. Siri",
+        "title": "Trump throws out power plant climate pollution rules",
+        "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
+        "pubDate": "2026-09-14T16:45:00-04:00",
+        "description": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a",
         "source": "TheVerge"
       },
       {
-        "title": "The Steam Frame is made for irresponsible hardware nerds like me",
-        "link": "https://www.theverge.com/tech/994267/steam-frame-review",
-        "pubDate": "2026-09-14T13:00:00-04:00",
-        "description": "For nearly three weeks, I've been testing the limits of Valve's Steam Frame, the company's new wearable PC. At first glance, it's easy to write it off as a pricey headset that missed the VR craze. At $1,059 with 256GB of storage or $1,299 for 1TB, it",
+        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
+        "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
+        "pubDate": "2026-09-14T16:03:37-04:00",
+        "description": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a",
         "source": "TheVerge"
       },
       {
-        "title": "Valve’s Steam Frame costs $1,059",
-        "link": "https://www.theverge.com/games/994376/valve-steam-frame-vr-headset-price-release-date",
-        "pubDate": "2026-09-14T13:00:00-04:00",
-        "description": "Valve is finally releasing its Steam Frame headset, which can run both flat and VR games locally and stream both kinds of games from your PC. The Steam Frame will start at $1,059. Valve will also offer a 1TB model that starts at $1,299. Every Steam F",
+        "title": "Valve&#8217;s virtual reality plans hit actual reality",
+        "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
+        "pubDate": "2026-09-14T15:48:06-04:00",
+        "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted",
         "source": "TheVerge"
       }
     ],
