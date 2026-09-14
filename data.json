@@ -1,33 +1,103 @@
 {
-  "ts": "2026-09-14T01:37:38.278756Z",
+  "ts": "2026-09-14T07:03:53.387669Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "GitLab修補CVSS滿分重大漏洞，公開隔天即出現漏洞探測",
-        "link": "https://www.ithome.com.tw/news/178892",
-        "pubDate": "2026-09-14 08:00",
-        "description": "GitLab修補CVSS風險分數達10分的重大路徑穿越漏洞CVE-2026-85706，未通過身分驗證的攻擊者可能讀取伺服器上的任意檔案，漏洞公開隔天已出現探測行為",
+        "title": "嚴懲超過千萬筆資料外洩的企業，韓國最高將處以公司年營收10%作為罰款",
+        "link": "https://www.ithome.com.tw/news/178912",
+        "pubDate": "2026-09-14 13:23",
+        "description": "韓國提高重大個資外洩罰則，企業若因故意或重大過失造成1,000萬人以上個資外洩，最高可面臨年營收10%的罰款",
         "source": "iThome資安"
       },
       {
-        "title": "電子郵件行銷服務商Brevo客戶帳號遭入侵，攻擊者利用合法郵件管道寄送網釣信",
-        "link": "https://www.ithome.com.tw/news/178888",
-        "pubDate": "2026-09-14 08:00",
-        "description": "電子郵件行銷服務商Brevo有138個客戶帳號遭入侵，其中6個帳號被攻擊者利用原有郵件管道寄送網釣信，已知波及硬體加密貨幣錢包品牌Trezor、BitBox，以及加密貨幣資產追蹤服務CoinTracking",
+        "title": "研究人員揭露新型遠端存取木馬E4del、PINHOLE，濫用FTP標語文字傳遞惡意指令",
+        "link": "https://www.ithome.com.tw/news/178910",
+        "pubDate": "2026-09-14 12:41",
+        "description": "攻擊者以西班牙文優惠券郵件誘餌散布LNK捷徑檔案，利用FTP伺服器歡迎訊息作為惡意指令，部署可遠端控制與竊資的木馬軟體",
         "source": "iThome資安"
       },
       {
-        "title": "Cribl取得Radiant Security AI SOC技術，擴大資安營運布局",
-        "link": "https://www.ithome.com.tw/news/178869",
-        "pubDate": "2026-09-14 08:00",
-        "description": "Cribl取得AI資安新創Radiant Security旗下AI原生SOC產品的技術資產與智慧財產權，將相關技術整合至既有遙測資料平臺，以自動進行資安警示分類、調查及處置",
+        "title": "Palo Alto Networks修補防火牆作業系統XML功能漏洞",
+        "link": "https://www.ithome.com.tw/news/178909",
+        "pubDate": "2026-09-14 12:40",
+        "description": "上週資安公司Palo Alto Networks發布公告，指出防火牆作業系統PAN-OS存在漏洞CVE-2026-0310，有可能讓攻擊者在實體防火牆設備執行任意程式碼，或造成虛擬版防火牆服務中斷",
         "source": "iThome資安"
       },
       {
-        "title": "駭客鎖定AI程式開發工具，提示詞注入成供應鏈攻擊手法",
-        "link": "https://www.ithome.com.tw/news/178861",
-        "pubDate": "2026-09-14 08:00",
-        "description": "Google指出，今年第二季攻擊者運用AI的方式，已從較基礎的提示詞操作，進一步轉向代理式AI工作流程與攻擊自動化，並開始鎖定AI程式開發工具、API憑證及雲端運算資源",
+        "title": "網站主機管理平臺cPanel存在SQL注入漏洞，擁有郵件相關權限的攻擊者能以root執行任意程式碼",
+        "link": "https://www.ithome.com.tw/news/178908",
+        "pubDate": "2026-09-14 12:37",
+        "description": "cPanel於9月8日發布資安公告，指出EmailTrack功能存在SQL注入漏洞CVE-2026-67401。具備郵件相關權限的已驗證帳戶持有者，可利用漏洞在伺服器建立任意檔案，進一步以Root權限執行程式碼並完全控制伺服器",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ConnectWise公布的ScreenConnect重大漏洞，傳出已於8月下旬被用於攻擊活動",
+        "link": "https://www.ithome.com.tw/news/178906",
+        "pubDate": "2026-09-14 12:04",
+        "description": "威脅情報公司Huntress發現，多個彼此無關組織的電腦出現異常的ConnectWise ScreenConnect安裝活動，並反覆執行4個VBScript檔案。分析發現，攻擊者竄改ScreenConnect用戶端，將惡意指令碼傳送至新連線的電腦，形成類似蠕蟲的擴散機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ConnectWise修補ScreenConnect重大漏洞",
+        "link": "https://www.ithome.com.tw/news/178905",
+        "pubDate": "2026-09-14 11:43",
+        "description": "軟體公司ConnectWise上週修補遠端監控與管理平臺ScreenConnec重大漏洞CVE-2026-84869，呼籲用戶需以最優先程度套用更新程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國國安局據傳推動大規模改組，將設五大任務中心強化網路安全與AI能力",
+        "link": "https://www.ithome.com.tw/news/178904",
+        "pubDate": "2026-09-14 11:41",
+        "description": "新設五大任務中心將以中國、網路安全、人工智慧、戰鬥支援及全球情報為主軸，最快明年1月全面運作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Wiz警告3個JFrog Artifactory嚴重漏洞遭積極利用，部分漏洞被串連形成攻擊鏈",
+        "link": "https://www.ithome.com.tw/news/178902",
+        "pubDate": "2026-09-14 11:09",
+        "description": "資安公司Wiz指出，JFrog近期修補的Artifactory資安漏洞CVE-2026-42016、CVE-2026-42018，以及CVE-2026-82329遭到利用，攻擊者藉此繞過身分驗證流程，並取得管理權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國警告ConnectWise ScreenConnect、JFrog Artifactory漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/178900",
+        "pubDate": "2026-09-14 11:01",
+        "description": "上週美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV）內容，指出ConnectWise ScreenConnect漏洞CVE-2026-84869，以及JFrog Artifactory漏洞CVE-2026-42016、CVE-2026-42018，皆出現遭積極利用的現象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Dell修補物件儲存平臺ObjectScale滿分重大漏洞，未更新可能導致遠端執行程式碼",
+        "link": "https://www.ithome.com.tw/news/178899",
+        "pubDate": "2026-09-14 10:54",
+        "description": "Dell物件儲存平臺ObjectScale與ECS存在資料反序列化處理與身分驗證等問題，可能導致攻擊者遠端執行程式碼或存取系統，用戶應儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI代理人遭爆曾在今年5月攻擊RubyGems",
+        "link": "https://www.ithome.com.tw/news/178898",
+        "pubDate": "2026-09-14 10:54",
+        "description": "研究人員追查RubyGems今年5月大量惡意套件活動，認為幕後可能涉及OpenAI內部AI代理人。相關套件不只曾利用RubyDoc.info執行程式碼，部分還嘗試利用當時尚未公開的RubyGems漏洞取得API金鑰",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA將GitLab滿分漏洞列入已遭利用漏洞名單",
+        "link": "https://www.ithome.com.tw/news/178897",
+        "pubDate": "2026-09-14 10:51",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，甫修補及公布的GitLab滿分漏洞CVE-2026-85706已遭積極利用，聯邦機構需在3天內完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "證件辨識平臺IDScan證實外洩1.5億筆駕照資料",
+        "link": "https://www.ithome.com.tw/news/178896",
+        "pubDate": "2026-09-14 09:55",
+        "description": "證件辨識平臺業者IDScan證實發生資安事件，部分客戶資料可能遭未授權存取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "生技醫療公司達爾膚部分內部資訊系統遭網攻",
+        "link": "https://www.ithome.com.tw/news/178893",
+        "pubDate": "2026-09-14 09:29",
+        "description": "達爾膚（6523）發布資安重訊，指出部分內部資訊系統遭受網路攻擊，初步評估對公司營運無重大影響，亦未發現個人資料外洩情形",
         "source": "iThome資安"
       },
       {
@@ -45,117 +115,61 @@
         "source": "iThome"
       },
       {
-        "title": "【資安週報】0907~0911，歐盟CRA通報義務上路、SEMI E187驗證標章亮相，產品安全進入落地新階段",
-        "link": "https://www.ithome.com.tw/news/178884",
-        "pubDate": "2026-09-11 17:57",
-        "description": "回顧2026年9月第二週的資安動態，歐盟網路韌性法案（CRA）通報義務開始適用，以及SEMI E187驗證標章亮相，都反映各領域產品安全規範正進一步走向實際落地；中科院採購網委外廠商遭入侵、商周與城邦網站遭攻擊，也成為本週國內資安焦點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "消基會：酷澎案凸顯跨境個資治理缺口，籲政府加速成立個資保護委員會、跨境平臺將國內用戶資料在境內儲存納入監管",
-        "link": "https://www.ithome.com.tw/news/178878",
-        "pubDate": "2026-09-11 17:00",
-        "description": "消基會近期以去年發生的酷澎個資外洩事件為例，國內逾20萬名用戶個資受影響，由於跨境平臺將國內用戶資料儲存於境外，增加監管及行政調查困難，呼籲政府應加速成立個資保護委員會，並檢討跨境個資傳輸及境外資料管理制度，強化跨境個資監理機制。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月11日，晶睿傳出遭勒索軟體攻擊",
-        "link": "https://www.ithome.com.tw/news/178882",
-        "pubDate": "2026-09-11 16:58",
-        "description": "本週傳出勒索軟體Everest將網路攝影機廠商晶睿通訊（Vivotek）加入暗網網站的消息，號稱竊得236 GB資料，母公司台達電表示，駭客取得的是晶睿公開對外提供的檔案，台達電與晶睿未有資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "新增SIEM基本功能，Cynet年中改版主打多種快速處理特色",
-        "link": "https://www.ithome.com.tw/review/178873",
-        "pubDate": "2026-09-11 16:07",
-        "description": "Cynet前幾個月推出4.33版，這個月初發表5.0版，加入SIEM、跨站點儀表板與組態管理等多種強化功能；新版系統也能透過自然語言的解釋，將原本較複雜的警示與技術資訊轉化為更容易理解的事件說明；若是訂閱Elite與All-in-One等進階服務的Cynet用戶，還能啟動資安事故自動應變功能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "沙箱系統FortiSandbox存在高風險漏洞，若不處理恐洩露敏感資訊",
-        "link": "https://www.ithome.com.tw/news/178877",
-        "pubDate": "2026-09-11 16:07",
-        "description": "Fortinet本週修補沙箱系統FortiSandbox資安漏洞CVE-2026-26084，並指出企業內部建置版本、雲端服務、PaaS版本都有可能曝險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科防火牆管理平臺弱點遭國家級駭客利用",
-        "link": "https://www.ithome.com.tw/news/178876",
-        "pubDate": "2026-09-11 15:59",
-        "description": "思科威脅情報團隊Talos警告，他們掌握3個國家級駭客鎖定思科防火牆管理平臺Secure Firewall Management Center（FMC），利用資安漏洞CVE-2026-20079、CVE-2026-20316，進行資料外洩或散布惡意軟體",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客利用已知漏洞入侵F5 BIG-IP APM裝置，部署Linux惡意程式",
-        "link": "https://www.ithome.com.tw/news/178875",
-        "pubDate": "2026-09-11 15:02",
-        "description": "資安公司Sophos揭露新一波CVE-2025-53521漏洞利用活動，攻擊者鎖定F5 BIG-IP元件Access Policy Manager（APM），藉此散布Linux惡意程式並執行後續活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國警告MikroTik路由器漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/178872",
-        "pubDate": "2026-09-11 14:31",
-        "description": "美國網路安全與基礎設施安全局（CISA）將MikroTik路由器作業系統RouterOS漏洞CVE-2026-67277、CVE-2026-86060列入已遭利用的漏洞名單（KEV），並給予聯邦機構3天期限採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Check Point修補重大等級的VPN資安弱點",
-        "link": "https://www.ithome.com.tw/news/178868",
-        "pubDate": "2026-09-11 12:54",
-        "description": "近日資安公司Check Point為旗下的安全閘道、防火牆設備，以及安全管理伺服器修補重大等級漏洞CVE-2026-85102、CVE-2026-85103，並指出兩者都能被用於遠端程式碼執行（RCE）攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Fortinet修補FortiMonitor OnSight、FortiPAM重大漏洞",
-        "link": "https://www.ithome.com.tw/news/178867",
-        "pubDate": "2026-09-11 12:38",
-        "description": "本週Fortinet修補10個資安漏洞，其中存在於FortiMonitor OnSight、FortiPAM的弱點被評為重大等級，而成為用戶需優先更新的應用系統",
-        "source": "iThome資安"
-      },
-      {
-        "title": "自駕AI為何不能只比模型？從Stradvision的跨晶片部署、合成資料到2萬小時驗證",
-        "link": "https://www.ithome.com.tw/news/178887",
-        "pubDate": "2026-09-11  09:09:55",
-        "description": "【韓國東灘報導】一輛屬於韓國 AI視覺軟體公司Stradvision的測試車，從研發中心駛上京畿道東灘的市區道路。車輛才開始移動，車內螢幕便以不同色框標示前方車輛、行人、車道與交通號誌。\n駛入一段約百公尺、兩側停滿汽車的狹窄街道後，安裝在擋風玻璃上的單一前視攝影機，不只逐一辨識並標示路旁車輛，也持續追蹤前方及來向車輛的位置與移動狀態，將環境資訊提供給車輛控制系統，支援行駛過程中的轉向控制。",
-        "source": "iThome"
-      },
-      {
-        "title": "公部門導入AI Agent進入治理新階段，專家提醒三大管理面向：權限、用量、稽核",
-        "link": "https://www.ithome.com.tw/news/178802",
-        "pubDate": "2026-09-11  05:09:43",
-        "description": "生成式AI快速發展，不少公務機關已開始將AI導入日常業務，協助政府機關導入AI的Headquarter.aii共同創辦人暨執行長黃建璋認為，真正的挑戰並非模型能力，而是AI Agent如何融入政府業務流程與治理架構。\n他指出，目前大型語言模型（LLM）的競爭相當激烈，模型排行榜幾乎每隔一段時間就會更換，因此政府若將系統綁定單一模型，未來將面臨升級與轉換困難。他建議從一開始便應採取模型中立架構，保留彈性，才能隨技術演進持續選用最合適的模型。",
-        "source": "iThome"
-      },
-      {
-        "title": "從凱米颱風到楊柳颱風，氣象署以實戰驗證AI預報，逐步打造AI＋數值模式的融合預報架構",
-        "link": "https://www.ithome.com.tw/news/178595",
-        "pubDate": "2026-09-11  05:09:10",
-        "description": "AI近年快速改變全球天氣預報技術發展方向，從過去主要依靠物理方程式與超級電腦強大運算能力的數值模式，逐步加入機器學習天氣預報（Machine Learning Weather Prediction, MLWP）的新技術。氣象署數值資訊組長沈里音在近期在2026數位政府高峰會分享指出，AI與傳統數值模式並非取代關係，而是透過兩種技術互補，提高對颱風路徑、降雨及劇烈天氣變化的預測能力。",
+        "title": "GPT-6 Astra推向ChatGPT Work、Codex及API",
+        "link": "https://www.ithome.com.tw/news/178895",
+        "pubDate": "2026-09-14  09:09:23",
+        "description": "OpenAI上周五宣布最新最強大模型GPT-6 Astra已推向企業及開發人員使用的ChatGPT Work、Codex與API。OpenAI並公布ChatGPT Desktop程式整合包括Oracle Analytics、Power BI的最新企業外掛。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
       {
-        "title": "Agility 揭人形機器人的「勞工成本」：一台 Digit 5 年 40 萬美元，多久幫你賺回來？",
-        "link": "https://techorange.com/2026/09/10/cost-of-humanoid-robot-factory-worker-agility-robotics-digit-v5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 18:28:56 +0800",
-        "description": "在工廠導入一台人形機器人，到底要花多少錢？機器人公司 Agility Robotics 提交證券文件，首度公開較完整的旗下雙足人形機器人 Digit 成本。《Business Insider》報導，以文件列出的其中一種商業模式來看，下一代 Digit v5 售價約 20 萬美元，另需約 2 萬美元的一次性部署費；投入運作後，每台機器人每年還有約 3.6 萬美元的軟體與維護費用。 可運作 20 小時、負載近 23 公斤：Agility 揭 Digit 機器人商業化算盤 《Business Insi",
-        "source": "TechOrange"
-      },
-      {
-        "title": "波士頓動力分拆新創亮相：Dynamic Creatures 打造「紫色貴賓」，搶攻樂園與零售陪伴商機",
-        "link": "https://techorange.com/2026/09/10/dynamic-creatures-aldebaran/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 10 Sep 2026 16:07:31 +0800",
-        "description": "Dynamic Creatures 是一家從 Boston Dynamics 分拆出的新創公司，近期正式亮相，專注為主題樂園與零售場景打造機器人。執行長 Marc Theermann 表示，機器人的安全性必須「從根本重新思考」，因為他希望打造出讓人們願意親近、擁抱的機器人。 陪伴型機器人是趨勢？Danielle 用可愛設計跨越人機互動藩籬 《FORTUNE》報導，Danielle 有一雙大眼睛、毛茸茸的耳朵，一身卡通感的薰衣草紫色毛髮，乍看就是一隻貴賓狗，實際上卻是機器人。「Danielle 是",
-        "source": "TechOrange"
-      },
-      {
         "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
         "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 12 Sep 2026 06:29:00 +0800",
         "description": "德勤政府洞察中心（Deloitte Center for Government Insights）發布《2026 全球政府趨勢報告》（Government Trends 2026），內容指出，AI 技術加速演進、財政日益緊縮，加上跨部會協調的複雜度提高，讓傳統的局部改革、組織微調，以及把紙本流程搬上網的數位化工程，都已經走到極限。 領先的政府因此把目光轉向「政府作業系統」的全面重組，重寫底層的規則、工作流、決策權與學習循環。以下報告摘要，將剖析政府如何從基礎建設、組織架構、技術治理到法規制度，展",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 夠不夠「台」，誰說了算？iKala 程世嘉：TMMLU+ 為主權 AI 訂出繁中標準",
+        "link": "https://techorange.com/2026/09/14/ikala-sega-tmmlu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 13:20:47 +0800",
+        "description": "從「會說繁中」到真正懂台灣，TMMLU+ v1.1 更新 66 領域在地題庫，下一步走向 Agent、多模態評測。 生成式 AI 競賽進入下半場。當模型能力快速拉近，真正的競爭正從「誰有最大的模型」，轉向「誰能讓 AI 真正落地」。iKala 共同創辦人暨董事長程世嘉（Sega）認為，台灣談主權 AI，不能只停留在打造自己的 Foundation Model，而應重新思考：從算力、模型、資料到應用，我們究竟掌握了多少自主能力？ 各國都在爭主權 AI，台灣的關鍵在哪裡？ 程世嘉將主權 AI 拆成四",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 要減速，誰來訂規則？Anthropic、微軟與川普政府各有主張",
+        "link": "https://techorange.com/2026/09/14/anthropic-pace-frontier-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 12:31:16 +0800",
+        "description": "OpenAI、Anthropic 等前沿 AI 公司最近罕見開始討論「跑慢一點」，美國總統川普卻不打算跟著踩煞車。9 月 12 日，Anthropic 執行長 Dario Amodei 發文呼籲放慢前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 等人也表態支持。Amodei 希望先引入常駐第三方評估者，再進一步讓主要 AI 業者建立共同安全標準，甚至協調 AI 能力發展速度。 不過，Anthropic 現階段只承諾先引入常駐第三方評估者；真正",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI 證實不於 2026 啟動 IPO：優先建構技術安全與對齊，AI 企業醞釀減速協議？",
+        "link": "https://techorange.com/2026/09/14/sam-altman-openai-ipo-delay-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 12:06:15 +0800",
+        "description": "OpenAI 執行長 Sam Altman 證實，OpenAI 不會在 2026 年上市。Sam Altman 接受《Fortune》專訪時表示，OpenAI 不急著推動首次公開募股（IPO），要等到業務準備就緒，且公司也認為當前社會面對 AI 技術發展的時機已經合適，才會啟動上市。 AI 失控疑慮夾擊：OpenAI 延後 IPO、科技巨頭呼籲產業減速 《Fortune》進一步追問，這番說法是否代表 OpenAI 在 2026 年上市已不在考慮範圍內、可能延至 2027 年，Sam Altman",
+        "source": "TechOrange"
+      },
+      {
+        "title": "亞洲 AI 投資焦點從模型走向工業體系，KPMG：台灣新創要先回答技術、部署、效益三個問題",
+        "link": "https://techorange.com/2026/09/14/q2-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 11:00:00 +0800",
+        "description": "專訪：戴季全撰稿：李昀蔚 KPMG 最新發布的《2026 年第二季創投脈動：全球創業投資分析》顯示，全球創投市場雖從第一季歷史高點回落，第二季投資金額仍達 2,274 億美元，是史上第二高。表面上看是資金降溫，背後更明顯的變化，其實是資本正在快速集中。 KPMG 安侯建業創新與新創服務團隊主持會計師黃海寧在接受《全新一週》專訪時指出，現在真正值得注意的是「資本正在重新選擇贏家」。過去，創投傾向把資金分散到不同新創，再等待少數公司勝出，如今投資人更傾向判斷誰有機會成為下一個平台或基礎設施，並把大筆",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 省下的工時算誰的？生產力紅利正在換主人，雇傭關係舊規被 AI 重新談判",
+        "link": "https://techorange.com/2026/09/14/when-ai-saves-time-at-work/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 10:37:57 +0800",
+        "description": "如果一名員工用 AI 把原本一天的工作量，壓縮到半天就完成，多出來的時間該歸誰？多數企業的預設答案，是把省下的產能直接填入更多任務，工時本身不會改變。 但獨立接案市場給出截然不同的答案。接案者若以固定報酬談定專案，AI 把 8 小時工作壓縮到 4 小時，省下的時間就屬於自己。這個對比點出 AI 正在鬆動工時與產值之間的既有關係。 生產力紅利的分配權，正從組織轉移到個人 過去每一次重大的生產力提升，都會創造出一份「紅利」，以往這些多半由雇主決定如何運用，因為讓員工變得更有效率的機器與系統，本質上都",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【用字型也能反制 AI】讓 AI 爬蟲抓到假資料，設計師推 ShieldFont 保護創作者",
+        "link": "https://techorange.com/2026/09/14/shieldfont-for-ai-scrapers-html/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 14 Sep 2026 09:43:52 +0800",
+        "description": "為了對付 AI 爬蟲，全新字型 ShieldFont 堂堂誕生，其應用字型引擎中的連字（ligatures）機制，替換網頁底層 HTML 文字為垃圾內容，藉此阻擋 AI 抓取資料用於訓練。",
         "source": "TechOrange"
       },
       {
@@ -212,34 +226,6 @@
         "link": "https://techorange.com/2026/09/11/deepseek-v4-1-flash-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 11 Sep 2026 11:51:35 +0800",
         "description": "DeepSeek 昨晚推出 DeepSeek-V4.1-Flash，採用 5,520 億參數的混合專家（MoE）主幹架構，具備原生視覺能力與 100 萬 token 上下文視窗，架構重點在於降低反覆讀取大量上下文的成本。 V4.1-Flash 的效率提升：降低 API 開發者的推理成本 V4.1-Flash 離峰時段快取命中每百萬輸入 token 收費 0.003 美元，未命中 0.15 美元，每百萬輸出 token 0.60 美元，尖峰時段價格加倍。AI 代理常反覆處理同一套程式碼庫、工具定義",
-        "source": "TechOrange"
-      },
-      {
-        "title": "衡奕精密工業「雷射雙技術」探索細胞修復新可能，2026 創博會現場亮相",
-        "link": "https://techorange.com/2026/09/11/tie-2026-transverse-laser/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 10:30:24 +0800",
-        "description": "「台灣每年健保預算高達 8800 億，其中將近 20%（約 1700 億）用於洗腎患者，」衡奕精密工業股份有限公司總經理何國梁表示，慢性腎臟病患者每週三次往返醫院、接受數小時的洗腎治療，藥物能延緩惡化，卻難以逆轉。 「Trans 有轉移的意思，初衷是認為使用我們的機器，就能把疼痛轉換掉。」何國梁在 2008 年創立自有品牌「TRANS」，朝著讓慢性腎臟病患者不用走上洗腎之路的目標展開研發。 這股將創新技術轉化為具體社會價值的精神，正是 2026 年台灣創新技術博覽會（tie）發明競賽區的核心概念",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【AI 購物助手大破口】研究人員突破多層防護，證明零售商系統可被完全掌控",
-        "link": "https://techorange.com/2026/09/11/ai-shopping-assistant-hacked/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 09:29:15 +0800",
-        "description": "在美國拉斯維加斯所舉辦的黑帽（Black Hat）網路安全大會舞台上，資安專家 Netanel Rubin 和 Dan Avraham 帶來了一項重大發現，那就是某家大型零售商的 AI 購物助手，其安全防護機制居然能被輕鬆繞過，讓駭客透過 AI 聊天對話，使任意程式碼執行在業者的系統環境中。 資安專家指出，AI 購物助手薄弱的安全防護機制，如果落入不法之徒手中，即可能會讓攻擊者掌握徹底企業的內部系統，導致機密洩漏或取得能被用於後續攻擊的存取權限，讓公司與客戶同時受到威脅。 由 Netanel R",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 購物的下一個戰場，不在電商而在貨架前：Home Depot 如何把導購搬進門市走道",
-        "link": "https://techorange.com/2026/09/11/ai-home-depot-in-store-guidance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 06:58:00 +0800",
-        "description": "美國家居零售商 Home Depot 正將生成式 AI 助手「Magic Apron」擴大部署至全美超過 2,000 家門市，讓消費者即使已經走進店內，也能透過手機取得 AI 協助。《Marketing Tech》指出，這項布局意味著零售 AI 的應用場景正在突破傳統電商介面，進一步深入實體購物環境。 從線上走向貨架：將手機變成門市「購物導航與專案顧問」 Home Depot 最初在 2025 年 3 月推出 Magic Apron，定位為一套生成式 AI 工具，協助回答消費者商品與居家修繕相關",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】Apple Siri AI 9/14 Beta 上線，NVIDIA 170 億美元 Groq 交易傳遭美國司法部調查",
-        "link": "https://techorange.com/2026/09/11/apple-siri-ai-nvidia-groq-antitrust/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Apple Siri AI 9 月 14 日 Beta 上線，首波僅支援英語、部分功能設使用上限 Apple 新執行長 John Ternus 上任後，首度主持大型產品發表會，並把 iPhone 定位為 AI 時代的「智慧個人中樞」。John Ternus 將隱私列為 Apple 與其他 AI 平台的主要差異，相關 AI 服務會盡可能在裝置端執行，需要更多算力時，才會透過 Private Cloud Compute 私密雲端運算處理，並由這套系",
         "source": "TechOrange"
       }
     ],
@@ -619,24 +605,24 @@
         "products": "Citrix Products"
       },
       {
-        "title": "Cisco Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260903",
-        "pubDate": "Thu, 03 Sep 2026 11:00:00 +0800",
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260914",
+        "pubDate": "Mon, 14 Sep 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Cisco Products"
+        "products": "GitLab"
       },
       {
-        "title": "GitHub Enterprise Server Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20260903",
-        "pubDate": "Thu, 03 Sep 2026 11:00:00 +0800",
+        "title": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions",
+        "link": "https://www.hkcert.org/security-bulletin/phishing-alert-beware-of-phishing-activities-leading-to-unauthorised-credit-card-transactions_20260914",
+        "pubDate": "Mon, 14 Sep 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "GitHub Enterprise Server"
+        "products": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions"
       },
       {
         "title": "Aruba Products Multiple Vulnerabilities",
