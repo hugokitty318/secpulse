@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-15T20:12:58.109074Z",
+  "ts": "2026-09-15T23:10:04.655232Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,6 +266,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
+        "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
+        "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400",
+        "description": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
         "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
         "pubDate": "Tue, 15 Sep 2026 17:22:28 +0530",
@@ -285,6 +292,13 @@
         "pubDate": "Tue, 15 Sep 2026 16:42:32 +0530",
         "description": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
+        "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400",
+        "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
@@ -369,23 +383,23 @@
         "pubDate": "Mon, 14 Sep 2026 23:32:13 +0530",
         "description": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it wer",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "3BB Attacker Used MeshCentral Backdoor for Root Access, Targeted Subscriber Credentials",
-        "link": "https://thehackernews.com/2026/09/3bb-attacker-used-meshcentral-backdoor.html",
-        "pubDate": "Mon, 14 Sep 2026 23:31:49 +0530",
-        "description": "An attacker was operating inside the network of 3BB, one of Thailand's largest broadband providers, and maintained remote control of internal machines using a legitimate management tool called MeshCentral, threat intelligence firm Hunt.io said.\n\nThe ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Telegram Desktop Flaw Lets Hidden JavaScript Exfiltrate Messages From HTML Exports",
-        "link": "https://thehackernews.com/2026/09/telegram-desktop-flaw-lets-hidden.html",
-        "pubDate": "Mon, 14 Sep 2026 23:28:16 +0530",
-        "description": "A flaw in Telegram Desktop let a bot's message plant hidden JavaScript inside chats that users exported to HTML files, security researchers at ExPatch said in a writeup published on September 12.\n\nIn Telegram, the message looked ordinary, with a link",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "The AI data center boom is colliding with cities scarred by big industry",
+        "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+        "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
+        "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
+        "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
+        "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
+        "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
+        "source": "TechCrunch"
+      },
       {
         "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
         "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
@@ -478,18 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
-        "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
-        "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save u",
-        "source": "TechCrunch"
+        "title": "Microsoft announces Windows and Surface event for October 7th",
+        "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
+        "pubDate": "2026-09-15T16:36:59-04:00",
+        "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on h",
+        "source": "TheVerge"
       },
       {
-        "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
-        "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
-        "pubDate": "Tue, 15 Sep 2026 14:22:49 +0000",
-        "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
-        "source": "TechCrunch"
+        "title": "What if social media isn’t hurting kids?",
+        "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
+        "pubDate": "2026-09-15T16:13:30-04:00",
+        "description": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health sinc",
+        "source": "TheVerge"
       },
       {
         "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
         "pubDate": "2026-09-15T12:18:10-04:00",
         "description": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader Davi",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
-        "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
-        "pubDate": "2026-09-15T12:00:00-04:00",
-        "description": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. B",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Now Light’s minimalist phone can easily call an Uber",
-        "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
-        "pubDate": "2026-09-15T11:00:00-04:00",
-        "description": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light",
         "source": "TheVerge"
       }
     ],
