@@ -1,7 +1,63 @@
 {
-  "ts": "2026-09-15T06:40:18.107553Z",
+  "ts": "2026-09-15T12:08:08.303635Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Apple發布iOS 27與iPadOS 27，修補126個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178961",
+        "pubDate": "2026-09-15 18:17",
+        "description": "iOS與iPadOS新版本修補Kernel、SceneKit、CoreUI等元件的漏洞，以記憶體安全類型問題居多",
+        "source": "iThome資安"
+      },
+      {
+        "title": "暴露在網路的開發伺服器Vite被鎖定，攻擊者試圖竊取雲端憑證與組態設定",
+        "link": "https://www.ithome.com.tw/news/178959",
+        "pubDate": "2026-09-15 17:48",
+        "description": "F5警告，今年8月出現鎖定暴露的開發伺服器Vite大規模掃描活動，攻擊者利用CVE-2026-39364繞過檔案存取限制，企圖竊取環境變數檔案（.env）、AWS憑證，以及Terraform狀態檔等敏感資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差",
+        "link": "https://www.ithome.com.tw/news/178953",
+        "pubDate": "2026-09-15 17:21",
+        "description": "歐盟CRA的漏洞與資安事件通報義務正式上路，也讓企業PSIRT的實際應變能力成為焦點，資安院觀察，國內企業近年雖加速建立相關機制，但成熟度仍有落差，相較於設有名為PSIRT的專責團隊，企業真正具備漏洞處理與跨部門協作能力，更具實質意義",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客濫用AI從事網釣，冒充高階主管與ServiceNow向財務人員進行詐騙",
+        "link": "https://www.ithome.com.tw/news/178954",
+        "pubDate": "2026-09-15 16:46",
+        "description": "微軟揭露最新一波利用AI輔助製作釣魚信的發票詐騙活動，攻擊者在8月3日至5日間透過第三方郵件服務寄出逾100萬封郵件，冒充企業執行長及ServiceNow，意圖誘騙財務人員核准近5萬美元款項",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國議會遭到攻擊事故與SonicWall SMA1000漏洞利用活動有關",
+        "link": "https://www.ithome.com.tw/news/178947",
+        "pubDate": "2026-09-15 15:52",
+        "description": "威脅情報公司Hunt.io指出，英國King's Lynn and West Norfolk自治區議會7月下旬遭網路攻擊的事故，很可能與利用SonicWall SMA1000設備重大漏洞CVE-2026-15409活動有關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟發布AI行為準則，要求AI始終接受人類控制",
+        "link": "https://www.ithome.com.tw/news/178943",
+        "pubDate": "2026-09-15 14:54",
+        "description": "微軟AI發布首版《行為準則》草案，要求MAI模型始終接受人類控制，不得抗拒中斷、修正或關閉，也不能自行擴大任務範圍。微軟開放全球18歲以上民眾提出意見，盼透過公眾參與完善AI行為規範",
+        "source": "iThome資安"
+      },
+      {
+        "title": "俄羅斯駭客利用PaperCut資安漏洞，透過AI代理進行大規模攻擊",
+        "link": "https://www.ithome.com.tw/news/178942",
+        "pubDate": "2026-09-15 14:48",
+        "description": "威脅情報公司GreyNoise指出，俄羅斯駭客疑似利用數百個AI代理，透過PaperCut漏洞CVE-2026-82078與CVE-2026-81578，於全球發動大規模入侵行動，近400個組織受害，並在其中12個組織進一步取得網域管理員權限。值得留意的是，臺灣也有受害組織",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月15日，中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣等多個國家",
+        "link": "https://www.ithome.com.tw/news/178941",
+        "pubDate": "2026-09-15 14:48",
+        "description": "資安公司Acronis揭露Gitea重大漏洞CVE-2026-60004的利用活動，中國駭客Red Heron在上述漏洞公開不久後，大規模掃描臺灣等多個國家的Gitea伺服器，並製作自動攻擊框架從事惡意活動",
+        "source": "iThome資安"
+      },
       {
         "title": "勒索軟體The Gentlemen近期接連鎖定醫療產業，Nutex、Veradigm均向SEC揭露資安事件",
         "link": "https://www.ithome.com.tw/news/178935",
@@ -52,62 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國當局將思科郵件閘道SQL注入漏洞列KEV",
-        "link": "https://www.ithome.com.tw/news/178927",
-        "pubDate": "2026-09-15 10:44",
-        "description": "美國網路安全與基礎設施安全局（CISA）於9月14日更新已遭積用的漏洞名單（KEV），納入同一天修補的Cisco Secure Email Gateway重大漏洞CVE-2026-76461",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科揭露郵件閘道重大等級的SQL注入漏洞",
-        "link": "https://www.ithome.com.tw/news/178926",
-        "pubDate": "2026-09-15 10:40",
-        "description": "本週思科揭露SQL注入漏洞CVE-2026-76461，該問題存在於郵件安全閘道Cisco Secure Email Gateway，且已出現積極利用的情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "崴寶資訊系統遭到入侵，部分資料遭加密鎖定",
-        "link": "https://www.ithome.com.tw/news/178923",
-        "pubDate": "2026-09-15 10:04",
-        "description": "上櫃公司崴寶精密科技（7744）於9月14日發現資訊系統遭到入侵，部分系統資料遭加密鎖定，受影響範圍包括公司網路、電子郵件及部分業務系統，初步評估未影響工廠生產作業",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cloudflare擴大來源伺服器PQC部署，後量子連線增至每日450億次",
-        "link": "https://www.ithome.com.tw/news/178911",
-        "pubDate": "2026-09-15 08:00",
-        "description": "Cloudflare擴大來源伺服器PQC部署，推出Automatic Key Exchange，自動偵測來源伺服器支援的金鑰建立方式，支援X25519MLKEM768時優先採用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Brinqa併購PlexTrac，補強曝險管理與攻擊驗證能力",
-        "link": "https://www.ithome.com.tw/news/178889",
-        "pubDate": "2026-09-15 08:00",
-        "description": "企業資安曝險管理業者Brinqa併購PlexTrac，將滲透測試、攻擊驗證及修補後複測能力納入既有曝險管理流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Salesforce公布企業AI架構，集中管理自家與第三方AI",
-        "link": "https://www.ithome.com.tw/news/178879",
-        "pubDate": "2026-09-15 08:00",
-        "description": "Salesforce公布Enterprise AI Harness企業AI架構，支援企業集中管理自家與第三方AI代理及模型，並透過AI控制層盤點、註冊與管理AI代理的身分、政策、生命週期、效能及使用成本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CSA發布企業零信任管理指引，建議成立專責辦公室推動長期治理",
-        "link": "https://www.ithome.com.tw/news/178891",
-        "pubDate": "2026-09-15 08:00",
-        "description": "雲端安全聯盟（CSA）發布企業零信任計畫管理指引，建議企業建立長期治理機制，成立專責辦公室統籌跨部門導入，並從小範圍保護面逐步擴大，同時定期評估成熟度、管理第三方存取及供應鏈風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenJS CNA面臨AI生成漏洞通報增加，將暫停CVE處理近3週",
-        "link": "https://www.ithome.com.tw/news/178907",
-        "pubDate": "2026-09-15 08:00",
-        "description": "OpenJS基金會的CVE編號授權機構指出，許多資安漏洞的通報仍需人工逐件確認，現有志工人力已難以長期負荷，目前優先處理已遭實際利用或可能造成重大風險的案件",
-        "source": "iThome資安"
-      },
-      {
         "title": "蘋果六大OS同步升級，新一代Apple Intelligence與Siri AI正式登場",
         "link": "https://www.ithome.com.tw/news/178933",
         "pubDate": "2026-09-15  12:09:04",
@@ -115,10 +115,17 @@
         "source": "iThome"
       },
       {
-        "title": "美AI業界憂中國追上，中國批惡性競爭",
-        "link": "https://www.ithome.com.tw/news/178929",
-        "pubDate": "2026-09-15  11:09:36",
-        "description": "中國外交部周一（9/14）回應Anthropic執行長Dario Amodei日前提出的放慢前沿AI發展及防止中國追上等主張，批評散播威脅敘事、搞對抗及惡性競爭，只會干擾全球AI治理進程。",
+        "title": "MedTech醫療科技雙周報第53期： 美國組全國聯盟測試心衰竭AI代理，要提供全天候照護",
+        "link": "https://www.ithome.com.tw/news/178967",
+        "pubDate": "2026-09-15  07:09:10",
+        "description": "重點新聞（0901～0915 ）",
+        "source": "iThome"
+      },
+      {
+        "title": "數發部主權AI訓練語料庫啟動民間語料徵集，以授權機制鼓勵民間出版內容參與臺灣AI資料基礎",
+        "link": "https://www.ithome.com.tw/news/178952",
+        "pubDate": "2026-09-15  05:09:47",
+        "description": "數發部今天(9/15)宣布啟動「臺灣主權AI訓練語料庫」民間語料徵集行動，從過去以政府公開資料為主，進一步擴大納入民間的出版社、電子書平臺及作家授權作品，希望建立更能反映臺灣語言、文化、歷史與社會脈絡的AI訓練資料。\n數發部表示，臺灣主權AI訓練語料庫自去年底上線，第一階段先以中央及地方政府資料為主要來源，資料集從2千增加至5千個資料集，累積約有22億的Tokens，涵蓋文化、歷史、藝術、旅遊，以及不同的語言，例如臺語、客語，以及未來將涵蓋的原住民語。今天啟動民間語料徵集，象徵語料庫從政府資料階",
         "source": "iThome"
       },
       {
@@ -130,6 +137,41 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "「AI 愈自主，信任愈重要」研究指出：落實「可信任 AI」的企業，獲得高投資報酬率(ROI)的機會高出 15 倍",
+        "link": "https://techorange.com/2026/09/15/sas-ai-roi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 17:51:27 +0800",
+        "description": "生成式 AI 加速進入企業應用，市場焦點已由「導入 AI」轉向能否規模化部署並產生實際投資回報，代理型 AI（Agentic AI）的興起也讓治理、可解釋性與資料品質受到更多關注。SAS 最新結合 IDC 研究洞察的《資料與 AI 影響力：AI 時代的信任經濟學》報告指出，企業 AI 投資成效正因治理與信任能力出現明顯差距。研究顯示，落實可信賴 AI 實務的組織，獲得高投資報酬率（ROI）的機率，可達其他組織的 15 倍；而台灣等大中華區市場近一年在 AI 治理與信任能力上已有明顯提升，但資料基",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【劉永信專欄】什麼原因讓 Anthropic 執行長第一次喊出「AI 該慢下來」？",
+        "link": "https://techorange.com/2026/09/15/cloudmile-anthropic-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 17:47:08 +0800",
+        "description": "今年 2026 年 9 月，Anthropic 執行長 Dario Amodei 發表了一篇近四千字的長文〈We Must Pace the Frontier〉，認真表態：「我們必須放慢 AI 能力提升的速度。」但在這之前，Amodei 對外的立場，一直是「沒有人能讓 AI 停下來，我們只能想辦法轉方向盤」，如今他親口說，是時候踩煞車了，為什麼原本不想踩煞車的人，突然改口要放緩 AI 進度？ 我想有幾個比較明顯的原因，第一，從今年夏天開始，AI 系統改良下一代 AI 系統的能力（他稱之為「遞迴式",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「機器人造機器人」成真？優必選啟用萬台級人形機器人智慧工廠，預計每 10 分鐘產出 1 台",
+        "link": "https://techorange.com/2026/09/15/ubtech-starts-10000-unit-ai-robot-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 17:36:21 +0800",
+        "description": "中國人形機器人產業朝商業化量產再邁進一步。優必選（UBTECH）近日正式啟用位於中國廣西柳州的新工業人形機器人工廠，規劃年產能超過 1 萬台人形機器人，顯示人形機器人產業正從原型開發與有限生產，逐步轉向大規模製造。 告別傳統產線：優必選 1.4 萬平方公尺新廠打造人形機器人量產基地 優必選表示，新工廠占地 1.4 萬平方公尺，建築高度 13.8 公尺，主要生產 Walker S 系列與 Cruzr 系列具身智慧工業人形機器人。生產線設計為每 10 分鐘完成 1 台機器人，年產能超過 1 萬台，讓",
+        "source": "TechOrange"
+      },
+      {
+        "title": "從百人園區到兩人一台伺服器：AI 如何讓詐騙集團「微型化」，衝擊全球防線？",
+        "link": "https://techorange.com/2026/09/15/ai-helps-make-fraud-scammers-fatf/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 16:33:29 +0800",
+        "description": "《金融時報》報導，AI 技術正讓網路詐騙集團從大型化、集中式的詐騙園區，轉向由少數人搭配強大伺服器運作的模式。防制洗錢金融行動工作組織（FATF）主席 Giles Thomson 警告，犯罪分子利用 AI 冒充他人、製作深偽影片及架設假網站，讓詐騙手法更加複雜，也更難被偵測。 AI 顛覆犯罪生態？詐騙集團從百人園區縮編至地下室伺服器 Giles Thomson 接受《金融時報》訪問時表示，「我們開始看到這種模式擴散到由一、兩個人在地下室、搭配一台非常大型的伺服器運作。」過去詐騙集團多依賴擁有數百",
+        "source": "TechOrange"
+      },
+      {
+        "title": "來毅數位攜手日本 DNP 打造 AI「信任身分平台」：Q4 將推出多重信任驗證，從日本金融市場拓展全球數位身分商機",
+        "link": "https://techorange.com/2026/09/15/keypasco-dnp-ai-trust-kyc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 15:48:15 +0800",
+        "description": "專注於零信任資安與數位身分驗證解決方案的來毅數位科技股份有限公司（台股：7834，以下簡稱「來毅數位」）宣布與日本大日本印刷株式會社（Dai Nippon Printing Co., Ltd.，日股：7912，以下簡稱「DNP」）展開策略合作，共同推動AI「Trust Identity Platform（信任身分平台）」的落地。雙方將整合 DNP 在電子化 KYC（eKYC）、日本公鑰基礎建設（JPKI）等身分驗證領域的技術與日本金融市場資源，以及來毅數位在 FIDO 身分認證、裝置識別、風險導",
+        "source": "TechOrange"
+      },
       {
         "title": "IBM 攜手百商數位科技，加速 LinuxONE 落地台灣金融交易市場",
         "link": "https://techorange.com/2026/09/15/ibm-mdbs-linuxone-speedyone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -199,44 +241,16 @@
         "pubDate": "Mon, 14 Sep 2026 18:53:01 +0800",
         "description": "《The Next Web》報導，中國 AI 產業正從模型競爭轉向 AI Agent 的部署，中國電信研究院預估，到 2029 年，推理運算將占中國算力市場的 80%。與此同時，歐洲正透過興建 7 座 AI 超級工廠，擴充 AI 基礎設施，以應對持續增加的算力需求。相關標案將於 11 月截止，預計在 2028 年年中投入運作；整體計畫預算為 300 億歐元，目前約有 10 億歐元已落實。 AI Agent 帶動算力需求爆發？中國推理運算 2029 年占比上看 80% 中國電信研究院發布的《智能體",
         "source": "TechOrange"
-      },
-      {
-        "title": "美禁令重塑半導體供應鏈？中國燧原科技搭上「國產替代」熱潮，IPO 籌 61 億攻自主算力",
-        "link": "https://techorange.com/2026/09/14/tencent-enflame-shanghai-912-million-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 14 Sep 2026 15:22:04 +0800",
-        "description": "中國 AI 晶片製造商上海燧原科技（Shanghai Enflame Technology）9 月 11 日在上海首次掛牌交易，收盤大漲 179%。這家獲騰訊支持的公司此次首次公開募股（IPO）共籌得 61.2 億元人民幣（約 9.12 億美元）。 燧原科技上市，進一步推升中國 AI 晶片企業的 IPO 熱潮。《Reuters》報導，隨著北京積極推動國產替代方案，中國 AI 晶片業者正加速布局，以供應可取代 NVIDIA 等美國廠商的運算晶片。 燧原科技兩年內損益兩平？IPO 資金聚焦新晶片研發",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 夠不夠「台」，誰說了算？iKala 程世嘉：TMMLU+ 為主權 AI 訂出繁中標準",
-        "link": "https://techorange.com/2026/09/14/ikala-sega-tmmlu-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 14 Sep 2026 13:20:47 +0800",
-        "description": "從「會說繁中」到真正懂台灣，TMMLU+ v1.1 更新 66 領域在地題庫，下一步走向 Agent、多模態評測。 生成式 AI 競賽進入下半場。當模型能力快速拉近，真正的競爭正從「誰有最大的模型」，轉向「誰能讓 AI 真正落地」。iKala 共同創辦人暨董事長程世嘉（Sega）認為，台灣談主權 AI，不能只停留在打造自己的 Foundation Model，而應重新思考：從算力、模型、資料到應用，我們究竟掌握了多少自主能力？ 各國都在爭主權 AI，台灣的關鍵在哪裡？ 程世嘉將主權 AI 拆成四",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 要減速，誰來訂規則？Anthropic、微軟與川普政府各有主張",
-        "link": "https://techorange.com/2026/09/14/anthropic-pace-frontier-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 14 Sep 2026 12:31:16 +0800",
-        "description": "OpenAI、Anthropic 等前沿 AI 公司最近罕見開始討論「跑慢一點」，美國總統川普卻不打算跟著踩煞車。9 月 12 日，Anthropic 執行長 Dario Amodei 發文呼籲放慢前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 等人也表態支持。Amodei 希望先引入常駐第三方評估者，再進一步讓主要 AI 業者建立共同安全標準，甚至協調 AI 能力發展速度。 不過，Anthropic 現階段只承諾先引入常駐第三方評估者；真正",
-        "source": "TechOrange"
-      },
-      {
-        "title": "OpenAI 證實不於 2026 啟動 IPO：優先建構技術安全與對齊，AI 企業醞釀減速協議？",
-        "link": "https://techorange.com/2026/09/14/sam-altman-openai-ipo-delay-safety-concerns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 14 Sep 2026 12:06:15 +0800",
-        "description": "OpenAI 執行長 Sam Altman 證實，OpenAI 不會在 2026 年上市。Sam Altman 接受《Fortune》專訪時表示，OpenAI 不急著推動首次公開募股（IPO），要等到業務準備就緒，且公司也認為當前社會面對 AI 技術發展的時機已經合適，才會啟動上市。 AI 失控疑慮夾擊：OpenAI 延後 IPO、科技巨頭呼籲產業減速 《Fortune》進一步追問，這番說法是否代表 OpenAI 在 2026 年上市已不在考慮範圍內、可能延至 2027 年，Sam Altman",
-        "source": "TechOrange"
-      },
-      {
-        "title": "亞洲 AI 投資焦點從模型走向工業體系，KPMG：台灣新創要先回答技術、部署、效益三個問題",
-        "link": "https://techorange.com/2026/09/14/q2-26-venture-pulse-report-global/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 14 Sep 2026 11:00:00 +0800",
-        "description": "專訪：戴季全撰稿：李昀蔚 KPMG 最新發布的《2026 年第二季創投脈動：全球創業投資分析》顯示，全球創投市場雖從第一季歷史高點回落，第二季投資金額仍達 2,274 億美元，是史上第二高。表面上看是資金降溫，背後更明顯的變化，其實是資本正在快速集中。 KPMG 安侯建業創新與新創服務團隊主持會計師黃海寧在接受《全新一週》專訪時指出，現在真正值得注意的是「資本正在重新選擇贏家」。過去，創投傾向把資金分散到不同新創，再等待少數公司勝出，如今投資人更傾向判斷誰有機會成為下一個平台或基礎設施，並把大筆",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
+        "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
+        "pubDate": "Tue, 15 Sep 2026 12:22:16 +0530",
+        "description": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers' sites run on a s",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
         "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
@@ -252,18 +266,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
+        "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
+        "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
+        "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
+        "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400",
+        "description": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
+        "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400",
+        "description": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
         "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
         "pubDate": "Sun, 13 Sep 2026 15:41:48 +0530",
         "description": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first ",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
-        "pubDate": "Sun, 13 Sep 2026 10:26:32 -0400",
-        "description": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
-        "source": "BleepingComputer"
       },
       {
         "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
@@ -285,13 +313,6 @@
         "pubDate": "Sat, 12 Sep 2026 14:37:56 +0530",
         "description": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Dutch NCSC: Critical Check Point VPN flaws exploitation is imminent",
-        "link": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
-        "pubDate": "Sat, 12 Sep 2026 10:14:32 -0400",
-        "description": "The Dutch Nationaal Cyber Security Centrum (NCSC) is warning of imminent exploitation of two critical flaws in Check Point VPN tracked as CVE-2026-85102 and CVE-2026-85103. [...]",
-        "source": "BleepingComputer"
       },
       {
         "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -362,23 +383,16 @@
         "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
         "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Twitch extension with 30K installs exposes users’ OAuth tokens",
-        "link": "https://www.bleepingcomputer.com/news/security/twitch-extension-with-30k-installs-exposes-users-oauth-tokens/",
-        "pubDate": "Mon, 14 Sep 2026 15:03:51 -0400",
-        "description": "A browser extension called Twitch Enhanced Viewer | JeetBot, available in the official Chrome and Firefox stores, sends users' Twitch OAuth session tokens to a commercial bot service. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers hijack HBO Max Reddit account to push malware in ClickFix ads",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hbo-max-reddit-account-to-push-malware-in-clickfix-ads/",
-        "pubDate": "Mon, 14 Sep 2026 14:34:16 -0400",
-        "description": "Hackers compromised HBO Max's official Reddit account and used it to push malicious ads that launched ClickFix attacks to infect Windows and macOS devices with information-stealing malware. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+        "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
+        "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
+        "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Jensen Huang took a call from Trump, and showed off something else, too",
         "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
@@ -478,11 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-        "link": "https://techcrunch.com/2026/09/14/superhuman-acquires-yc-backed-notetaker-fathom-as-productivity-platforms-push-for-agentic-work/",
-        "pubDate": "Mon, 14 Sep 2026 14:45:44 +0000",
-        "description": "The notetaker offers a generous free plan, and that has resulted in over 400,000 monthly active users. The company said that over 1 million people have recorded meetings until now.",
-        "source": "TechCrunch"
+        "title": "GM updates its trucks’ native software to coexist with CarPlay",
+        "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
+        "pubDate": "2026-09-15T07:00:00-04:00",
+        "description": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spif",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
+        "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
+        "pubDate": "2026-09-15T04:54:48-04:00",
+        "description": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced som",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
+        "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
+        "pubDate": "2026-09-15T03:00:00-04:00",
+        "description": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of wh",
+        "source": "TheVerge"
       },
       {
         "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
@@ -496,27 +524,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
         "pubDate": "2026-09-14T18:59:41-04:00",
         "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans ha",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple Home’s new security camera features cost as much as $60 a month",
-        "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
-        "pubDate": "2026-09-14T18:28:52-04:00",
-        "description": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "What execs and politicians are saying about slowing down AI development",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995141/ai-executives-politicians-safety-regulation-anthropic-dario-amodei",
-        "pubDate": "2026-09-14T17:21:42-04:00",
-        "description": "Dario Amodei kicked off a flood of statements over the past few days about AI safety by publishing a long essay titled \"We Must Pace the Frontier\" detailing why AI development should be slowed down. Other AI leaders and politicians are speaking out i",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Trump throws out power plant climate pollution rules",
-        "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
-        "pubDate": "2026-09-14T16:45:00-04:00",
-        "description": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a",
         "source": "TheVerge"
       }
     ],
@@ -592,6 +599,16 @@
         "products": "Cisco Products"
       },
       {
+        "title": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access",
+        "link": "https://www.hkcert.org/blog/internet-edge-devices-remain-targets-for-hackers-patching-alone-cannot-stop-credential-theft-or-persistent-access",
+        "pubDate": "Tue, 15 Sep 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access"
+      },
+      {
         "title": "MongoDB Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260910",
         "pubDate": "Thu, 10 Sep 2026 11:00:00 +0800",
@@ -660,16 +677,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Aruba Products"
-      },
-      {
-        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20260907",
-        "pubDate": "Mon, 07 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Ubuntu Linux Kernel"
       }
     ]
   }
