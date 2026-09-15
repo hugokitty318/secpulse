@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-14T22:44:19.041773Z",
+  "ts": "2026-09-15T01:24:45.495800Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Salesforce公布企業AI架構，集中管理自家與第三方AI",
+        "link": "https://www.ithome.com.tw/news/178879",
+        "pubDate": "2026-09-15 08:00",
+        "description": "Salesforce公布Enterprise AI Harness企業AI架構，支援企業集中管理自家與第三方AI代理及模型，並透過AI控制層盤點、註冊與管理AI代理的身分、政策、生命週期、效能及使用成本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cloudflare擴大來源伺服器PQC部署，後量子連線增至每日450億次",
+        "link": "https://www.ithome.com.tw/news/178911",
+        "pubDate": "2026-09-15 08:00",
+        "description": "Cloudflare擴大來源伺服器PQC部署，推出Automatic Key Exchange，自動偵測來源伺服器支援的金鑰建立方式，支援X25519MLKEM768時優先採用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA發布企業零信任管理指引，建議成立專責辦公室推動長期治理",
+        "link": "https://www.ithome.com.tw/news/178891",
+        "pubDate": "2026-09-15 08:00",
+        "description": "雲端安全聯盟（CSA）發布企業零信任計畫管理指引，建議企業建立長期治理機制，成立專責辦公室統籌跨部門導入，並從小範圍保護面逐步擴大，同時定期評估成熟度、管理第三方存取及供應鏈風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Brinqa併購PlexTrac，補強曝險管理與攻擊驗證能力",
+        "link": "https://www.ithome.com.tw/news/178889",
+        "pubDate": "2026-09-15 08:00",
+        "description": "企業資安曝險管理業者Brinqa併購PlexTrac，將滲透測試、攻擊驗證及修補後複測能力納入既有曝險管理流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenJS CNA面臨AI生成漏洞通報增加，將暫停CVE處理近3週",
+        "link": "https://www.ithome.com.tw/news/178907",
+        "pubDate": "2026-09-15 08:00",
+        "description": "官方指出，許多通報仍需人工逐件確認，現有志工人力已難以長期負荷，只有已遭實際利用或可能造成重大風險的案件會優先處理",
+        "source": "iThome資安"
+      },
       {
         "title": "義大利醫療機構遭INC Ransom攻擊，多項醫療服務中斷近兩週後全面恢復",
         "link": "https://www.ithome.com.tw/news/178921",
@@ -73,41 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "網站主機管理平臺cPanel存在SQL注入漏洞，擁有郵件相關權限的攻擊者能以root執行任意程式碼",
-        "link": "https://www.ithome.com.tw/news/178908",
-        "pubDate": "2026-09-14 12:37",
-        "description": "cPanel於9月8日發布資安公告，指出EmailTrack功能存在SQL注入漏洞CVE-2026-67401。具備郵件相關權限的已驗證帳戶持有者，可利用漏洞在伺服器建立任意檔案，進一步以Root權限執行程式碼並完全控制伺服器",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ConnectWise公布的ScreenConnect重大漏洞，傳出已於8月下旬被用於攻擊活動",
-        "link": "https://www.ithome.com.tw/news/178906",
-        "pubDate": "2026-09-14 12:04",
-        "description": "威脅情報公司Huntress發現，多個彼此無關組織的電腦出現異常的ConnectWise ScreenConnect安裝活動，並反覆執行4個VBScript檔案。分析發現，攻擊者竄改ScreenConnect用戶端，將惡意指令碼傳送至新連線的電腦，形成類似蠕蟲的擴散機制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ConnectWise修補ScreenConnect重大漏洞",
-        "link": "https://www.ithome.com.tw/news/178905",
-        "pubDate": "2026-09-14 11:43",
-        "description": "軟體公司ConnectWise上週修補遠端監控與管理平臺ScreenConnec重大漏洞CVE-2026-84869，呼籲用戶需以最優先程度套用更新程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國國安局據傳推動大規模改組，將設五大任務中心強化網路安全與AI能力",
-        "link": "https://www.ithome.com.tw/news/178904",
-        "pubDate": "2026-09-14 11:41",
-        "description": "新設五大任務中心將以中國、網路安全、人工智慧、戰鬥支援及全球情報為主軸，最快明年1月全面運作",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Wiz警告3個JFrog Artifactory嚴重漏洞遭積極利用，部分漏洞被串連形成攻擊鏈",
-        "link": "https://www.ithome.com.tw/news/178902",
-        "pubDate": "2026-09-14 11:09",
-        "description": "資安公司Wiz指出，JFrog近期修補的Artifactory資安漏洞CVE-2026-42016、CVE-2026-42018，以及CVE-2026-82329遭到利用，攻擊者藉此繞過身分驗證流程，並取得管理權限",
-        "source": "iThome資安"
-      },
-      {
         "title": "GovTech月報第56期：數發部公布主權AI模刑評測結果，本地模型對臺灣價值超越國外模型；數發部與八大部會啟動AI風險盤點",
         "link": "https://www.ithome.com.tw/news/178920",
         "pubDate": "2026-09-14  06:09:54",
@@ -116,6 +116,20 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "BMW、TOYOTA、賓士都在做：人形機器人進車廠，比的不是誰更像人",
+        "link": "https://techorange.com/2026/09/15/bmw-toyota-hyundai-mercedes-benz-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 06:00:00 +0800",
+        "description": "汽車產業的自動化正迎來全新的轉型階段。過去數十年，工業手臂已全面普及於焊接、塗膠與零件搬運等固定工序；如今，包含 BMW、TOYOTA、Mercedes-Benz 與 Hyundai 等汽車巨頭，更開始在既有產線中引進具備「類人型態」與靈活移動能力的 AI 機器人，嘗試接手原本由人工負責的搬運、取放與組裝工作。 積極佈局的領頭羊：BMW 在這波浪潮中，BMW 是態度最為積極的車廠之一。在美洲市場，BMW 早在南卡羅來納州的 Spartanburg 工廠引進了 Figure 的人形機器人。2025",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】AI 競賽踩煞車還是催油門？前沿大廠籲放慢，自研晶片與巨額資本卻停不下來",
+        "link": "https://techorange.com/2026/09/15/ai-slowdown-debate-google-tpu-roi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 15 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊前沿 AI 是否該踩煞車？Anthropic 籲設防線，川普、黃仁勳強調競爭與前進 Anthropic 執行長 Dario Amodei 公開呼籲主要 AI 開發商主動放慢前沿模型的能力提升速度，並建議允許外部獨立評估人員進入實驗室，提前檢視模型可能引發的重大安全風險；他同時主張業界建立共同安全規範，各國政府亦應加強跨國監管協調。OpenAI 執行長 Sam Altman 與 xAI 創辦人 Elon Musk 隨後對加強安全標準及第三方評估的",
+        "source": "TechOrange"
+      },
       {
         "title": "【政府 AI 轉型下一步】64 國建好數位身分只是起點，AI 代理正在改寫政府服務方式",
         "link": "https://techorange.com/2026/09/12/government-trends/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -205,20 +219,6 @@
         "link": "https://techorange.com/2026/09/11/openai-introducing-chatgpt-financial-services/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 11 Sep 2026 16:35:39 +0800",
         "description": "OpenAI 推出專為金融業打造的 ChatGPT，整合 LSEG、PitchBook、Daloopa 等金融資料供應商的資料，並搭載最新 AI 模型，鎖定投資銀行與股票研究等工作場景。 OpenAI 在部落格文章中表示，這款名為「ChatGPT for Financial Services」的產品，是與 Morgan Stanley、Evercore 共同開發，兩家公司擔任設計合作夥伴，協助 OpenAI 打造這項產品。《VentureBeat》指出，兩家公司特別關注可靠的資料取得，以及高品質",
-        "source": "TechOrange"
-      },
-      {
-        "title": "永大抽水機攜手台達，透過高效馬達與變頻控制破解傳統泵浦高耗能痛點",
-        "link": "https://techorange.com/2026/09/11/delta-yungtay-pump-motor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 15:27:23 +0800",
-        "description": "隨著淨零減碳與能源成本壓力升高，企業節能的範圍已從照明、空調主機與能源管理平台，延伸到過去較少被關注的基礎設備，長時間運轉的泵浦正是其中之一。 在商辦大樓、醫院、學校、科技廠與製程冷卻系統中，泵浦支撐空調循環、冷卻與給排水等基礎運作，其設備效率與控制方式是否匹配，直接影響用電成本與系統穩定性。面對市場對高效率泵浦系統的需求升高，永大抽水機近年從單一設備供應商，轉向更重視系統整合的節能方案，並導入台達永磁同步磁阻馬達、變頻器與自動化控制技術，將自家泵浦設計經驗與台達高效驅動能力整合，協助客戶提升泵",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 上車不只拚算力！超恩、滿拓、晶心拆解智慧移動落地關鍵",
-        "link": "https://techorange.com/2026/09/11/semi-ai-sipo-vecow-deepmentor-andes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 11 Sep 2026 12:47:55 +0800",
-        "description": "隨著 AI 應用加速從雲端走向終端，邊緣運算晶片能否真正落地，關鍵已不只在單一晶片的運算效能，更在於晶片、系統與應用端能否共同因應實際部署需求。為鏈結國內半導體產業技術能量與多元應用需求，經濟部產業發展署推動「邊緣運算晶片系統產業鏈結推動計畫」，聚焦智慧移動與智慧醫療照護領域，並透過「邊緣運算晶片系統價值共創平台」(以下簡稱價值共創平台)，促進晶片、系統及應用端業者交流與供需對接，推進跨域合作與邊緣運算晶片系統方案應用。 為進一步聚焦智慧移動應用需求，經濟部產業發展署智慧電子產業計畫推動辦公室(",
         "source": "TechOrange"
       }
     ],
@@ -471,7 +471,21 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple Home’s new security camera features cost up to $60 a month",
+        "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
+        "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
+        "pubDate": "2026-09-14T20:13:47-04:00",
+        "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
+        "pubDate": "2026-09-14T18:59:41-04:00",
+        "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans ha",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Apple Home’s new security camera features cost as much as $60 a month",
         "link": "https://www.theverge.com/tech/994949/apple-intelligence-apple-home-icloud-plus-cost-subscription",
         "pubDate": "2026-09-14T18:28:52-04:00",
         "description": "With the public release of iOS 27 and tvOS 27, Apple Home is getting an injection of Apple Intelligence - but you'll have to pay more for it. Apple Intelligence for Home brings AI-powered video summaries to HomeKit Secure Video, so you can get short ",
@@ -489,20 +503,6 @@
         "link": "https://www.theverge.com/news/995051/epa-power-plant-climate-pollution-rollback-ai-data-centers",
         "pubDate": "2026-09-14T16:45:00-04:00",
         "description": "The Environmental Protection Agency announced its plans today to kill any remaining standards on how much greenhouse gas pollution power plants are allowed to emit in the US. The move will only make electricity dirtier as AI, electric vehicles, and a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Jensen Huang puts Trump on speakerphone onstage to announce robots won’t take over the world",
-        "link": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-        "pubDate": "2026-09-14T16:03:37-04:00",
-        "description": "Nvidia CEO Jensen Huang took a call from President Trump on Monday while onstage at the All-In Podcast's All-In Summit. It's not the first time Huang has taken a call from the president during work, but this time he put Trump on speakerphone before a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Valve&#8217;s virtual reality plans hit actual reality",
-        "link": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-        "pubDate": "2026-09-14T15:48:06-04:00",
-        "description": "The Steam Frame headset is here, and it may not surprise you: it was supposed to cost less than $1,059. \"We set out to come out with a device that would have been far more affordable, but the global RAM market, the global storage market have impacted",
         "source": "TheVerge"
       }
     ],
