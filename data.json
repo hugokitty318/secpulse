@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-15T12:08:08.303635Z",
+  "ts": "2026-09-15T16:55:30.042319Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,6 +245,41 @@
     ],
     "en_sec": [
       {
+        "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
+        "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
+        "pubDate": "Tue, 15 Sep 2026 20:53:19 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
+        "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
+        "pubDate": "Tue, 15 Sep 2026 17:22:28 +0530",
+        "description": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gainin",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
+        "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
+        "pubDate": "Tue, 15 Sep 2026 16:56:36 +0530",
+        "description": "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
+        "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
+        "pubDate": "Tue, 15 Sep 2026 16:42:32 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
+        "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
+        "pubDate": "Tue, 15 Sep 2026 12:40:14 -0400",
+        "description": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
         "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
         "pubDate": "Tue, 15 Sep 2026 12:22:16 +0530",
@@ -266,6 +301,34 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "BambooToken malware controls Windows and Linux systems via MQTT",
+        "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
+        "pubDate": "Tue, 15 Sep 2026 11:00:00 -0400",
+        "description": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
+        "pubDate": "Tue, 15 Sep 2026 10:45:10 -0400",
+        "description": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
+        "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
+        "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400",
+        "description": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
+        "pubDate": "Tue, 15 Sep 2026 08:16:32 -0400",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
         "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
         "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
@@ -285,34 +348,6 @@
         "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400",
         "description": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
-        "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
-        "pubDate": "Sun, 13 Sep 2026 15:41:48 +0530",
-        "description": "Microsoft has disclosed details of two campaigns in which threat actors are abusing third-party email delivery infrastructure to blast financial fraud scam messages and using passkey-themed social engineering to breach cloud environments.\n\nThe first ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV",
-        "link": "https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html",
-        "pubDate": "Sat, 12 Sep 2026 21:24:45 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added five security flaws impacting JFrog Artifactory, ConnectWise ScreenConnect, and MikroTik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports of ac",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "When the Whole Company Adopts AI: What It Does to Your SOC",
-        "link": "https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html",
-        "pubDate": "Sat, 12 Sep 2026 15:54:44 +0530",
-        "description": "Over the past year, we watched a new class of alert appear in enterprise security operations centers and grow faster than anything else in the stream: alerts that were triggered by AI tools and agents. Not attacks against AI, but the ordinary, everyd",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers",
-        "link": "https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html",
-        "pubDate": "Sat, 12 Sep 2026 14:37:56 +0530",
-        "description": "The \"major malicious attack\" that targeted RubyGems in May 2026 was the work of a swarm of OpenAI agents, according to a new report published by researchers Spencer Kitts, Thomas Larsen, and Sydney Von Arx.\n\nOn May 12, Maciej Mensfeld, senior product",
-        "source": "TheHackerNews"
       },
       {
         "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
@@ -348,182 +383,147 @@
         "pubDate": "Mon, 14 Sep 2026 21:30:04 +0530",
         "description": "WordPress has announced it's launching an automated security review for every release of a plugin before it's distributed through the WordPress.org update API so as to analyze it for potential security issues and ensure there are no risks involved.\n\n",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: Rogue AI Agents, WeChat Worm, PaperCut Attacks, AI Espionage, and Rootkits",
-        "link": "https://thehackernews.com/2026/09/weekly-recap-rogue-ai-agents-wechat.html",
-        "pubDate": "Mon, 14 Sep 2026 20:10:34 +0530",
-        "description": "AI keeps showing up in the wrong places. Attackers are using it to speed up exploits, test defenses, and automate more of the job. Some models are also crossing lines on their own. That is not a great combination.\n\nThe rest of the week is more famili",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "AI Changed the Exposure Problem. Validation Needs to Change With It.",
-        "link": "https://thehackernews.com/2026/09/ai-changed-exposure-problem-validation.html",
-        "pubDate": "Mon, 14 Sep 2026 17:28:00 +0530",
-        "description": "There's a lot of noise around AI and cybersecurity right now. What’s actually important is far simpler, if often lost in the hubbub. Vulnerability discovery is getting faster and happening at a much greater scale, while defenders still have to work o",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft releases emergency Windows updates to fix RDS failures",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-windows-updates-to-fix-rds-failures/",
-        "pubDate": "Mon, 14 Sep 2026 16:52:18 -0400",
-        "description": "Microsoft has released emergency out-of-band Windows updates to fix Remote Desktop Services failures caused by this month's security updates, along with Hyper-V and USB audio problems on some Windows versions. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Japan's Digital Agency says VPN flaw exposed 246,000 personnel records",
-        "link": "https://www.bleepingcomputer.com/news/security/japans-digital-agency-says-vpn-flaw-exposed-246-000-personnel-records/",
-        "pubDate": "Mon, 14 Sep 2026 16:36:02 -0400",
-        "description": "Japan's Digital Agency has discovered a data breach that may have exposed around 246,000 record rows containing personal information of government employees. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Homebrew 7.0.0 gets built-in GUI, better security controls",
-        "link": "https://www.bleepingcomputer.com/news/security/homebrew-700-gets-built-in-gui-better-security-controls/",
-        "pubDate": "Mon, 14 Sep 2026 15:51:04 -0400",
-        "description": "Homebrew package manager version 7.0.0 has been released with a built-in vulnerability scanner, stronger security controls, and the full release of its native BrewUI graphical interface. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
+        "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
+        "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
+        "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
+        "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
+        "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
+        "pubDate": "Tue, 15 Sep 2026 15:49:18 +0000",
+        "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
+        "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
+        "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+        "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
+        "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
+        "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
+        "pubDate": "Tue, 15 Sep 2026 15:21:10 +0000",
+        "description": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former TikTok execs built an app that uses AI to teach you how to pose for a photo",
+        "link": "https://techcrunch.com/2026/09/15/former-tiktok-execs-built-an-app-that-uses-ai-to-teach-you-how-to-pose-for-a-photo/",
+        "pubDate": "Tue, 15 Sep 2026 14:42:37 +0000",
+        "description": "Essentially a camera app, Superpose analyzes selfies or photos and generates four potential poses using AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Discover how to take your startup from prototype to production at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/15/discover-how-to-take-your-startup-from-prototype-to-production-at-techcrunch-disrupt-2026/",
+        "pubDate": "Tue, 15 Sep 2026 14:30:00 +0000",
+        "description": "Learn how to scale your startup breakthrough from prototype to production at TechCrunch Disrupt 2026 with scaling leaders, Adrian Macneil (Foxglove), John Mackey (MBRYONICS), and Boris Sofman (Bedrock Robotics). Register before September 25 to save u",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India ends free ride for larger transactions on its ubiquitous digital payments network",
+        "link": "https://techcrunch.com/2026/09/15/india-ends-free-ride-for-larger-transactions-on-its-ubiquitous-digital-payments-network/",
+        "pubDate": "Tue, 15 Sep 2026 14:22:49 +0000",
+        "description": "India will impose a 0.4% merchant fee on certain payments made through UPI starting October 15.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Evvy raises $40M as it seeks to further women’s health research with vaginal microbiome data",
+        "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+        "pubDate": "Tue, 15 Sep 2026 14:13:59 +0000",
+        "description": "Women’s health company Evvy announced Tuesday a $40 million Series B led by Catalio Capital Management.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "4 days left to exhibit at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/15/4-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "pubDate": "Tue, 15 Sep 2026 14:00:00 +0000",
+        "description": "Last day to exhibit at Disrupt is Sept 18. 4 days left. Get your startup in front of 10,000+ founders, investors, operators and tech leaders October 13–15.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents",
+        "link": "https://techcrunch.com/2026/09/15/early-anthropic-hire-former-metr-coo-have-found-a-way-to-rein-in-rogue-ai-agents/",
+        "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
+        "description": "Their startup, Artificial Intelligence Underwriting Company (AIUC) has raised $40 million in a Series A round led by Ribbit Capital, with participation from First Harmonic.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Spotify finally lets parents exclude kids’ music from Wrapped and recommendations",
+        "link": "https://techcrunch.com/2026/09/15/spotify-finally-lets-parents-exclude-kids-music-from-wrapped-and-recommendations/",
+        "pubDate": "Tue, 15 Sep 2026 13:00:00 +0000",
+        "description": "Parents can finally get the kids' music out of Spotify Wrapped and other personalized playlists.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New Italian unicorn Exein rides the physical AI wave",
+        "link": "https://techcrunch.com/2026/09/15/new-italian-unicorn-exein-rides-the-physical-ai-wave/",
+        "pubDate": "Tue, 15 Sep 2026 12:19:38 +0000",
+        "description": "Italian startup Exein has raised a $270 million round of funding led by Headline at a $1.7 billion valuation.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
         "link": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/",
         "pubDate": "Tue, 15 Sep 2026 12:00:00 +0000",
-        "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing and customer-support tasks.",
+        "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
         "source": "TechCrunch"
       },
       {
         "title": "Jensen Huang took a call from Trump, and showed off something else, too",
         "link": "https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/",
         "pubDate": "Tue, 15 Sep 2026 01:50:48 +0000",
-        "description": "When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.",
+        "description": "When Jensen Huang took a live call from Trump, some of us were more focused on the phone he used to take it.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’",
-        "link": "https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/",
-        "pubDate": "Mon, 14 Sep 2026 21:51:02 +0000",
-        "description": "Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
-        "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-        "pubDate": "Mon, 14 Sep 2026 20:44:14 +0000",
-        "description": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI infrastructure company Cornelis raises $205M to chip away at Nvidia’s dominance",
-        "link": "https://techcrunch.com/2026/09/14/ai-infrastructure-company-cornelis-raises-205m-to-chip-away-at-nvidias-dominance/",
-        "pubDate": "Mon, 14 Sep 2026 20:07:37 +0000",
-        "description": "The company also announced a product called Active Compute Fabric, a network technology that targets the fact that much GPU time is wasted waiting for data to arrive.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon Prime Video takes on TikTok with short-form news clips",
-        "link": "https://techcrunch.com/2026/09/14/amazon-prime-video-takes-on-tiktok-with-short-form-news-clips/",
-        "pubDate": "Mon, 14 Sep 2026 18:14:29 +0000",
-        "description": "Prime Video is adding on-demand local and national news clips as Amazon joins other streamers experimenting with short-form video to capture younger viewers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "ClickFix attacks are tricking Mac and Windows users into hacking themselves",
-        "link": "https://techcrunch.com/2026/09/14/clickfix-attacks-are-tricking-mac-and-windows-users-into-hacking-themselves/",
-        "pubDate": "Mon, 14 Sep 2026 18:08:43 +0000",
-        "description": "If you clicked on a fake HBO Max ad on Reddit in the past week, you might have fallen victim to a rising \"ClickFix\" security threat.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Volkswagen’s crazy-efficient EV borrows an idea from Slate",
-        "link": "https://techcrunch.com/2026/09/14/volkswagens-crazy-efficient-ev-borrows-an-idea-from-slate/",
-        "pubDate": "Mon, 14 Sep 2026 17:41:20 +0000",
-        "description": "Volkswagen's new efficiency-minded halo car is almost twice as efficient as the most efficient production car, the Lucid Air.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "With iOS 27, I’m actually using Siri again",
-        "link": "https://techcrunch.com/2026/09/14/with-ios-27-im-actually-using-siri-again/",
-        "pubDate": "Mon, 14 Sep 2026 17:10:30 +0000",
-        "description": "Apple’s long-delayed Siri overhaul is finally here with iOS 27, and it changes how useful the assistant feels day to day.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "macOS 27: new Siri takes on AI productivity apps",
-        "link": "https://techcrunch.com/2026/09/14/macos-27-new-siri-takes-on-ai-productivity-apps/",
-        "pubDate": "Mon, 14 Sep 2026 17:10:09 +0000",
-        "description": "The two most noticeable things about macOS 27 Golden Gate are the newly updated Siri AI and the design changes that make windows and icons more consistent.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-        "link": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-        "pubDate": "Mon, 14 Sep 2026 17:00:00 +0000",
-        "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft’s new AI ‘code of conduct’ tells models not to hack systems or trick humans",
-        "link": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/",
-        "pubDate": "Mon, 14 Sep 2026 16:27:53 +0000",
-        "description": "The code of conduct lays out general principles that Microsoft AI models should uphold — supporting humans rather than replacing them, for instance, and accelerating human flourishing — as well as specific safety constraints meant to implement those ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Waymo opens robotaxi service in Las Vegas",
-        "link": "https://techcrunch.com/2026/09/14/waymo-opens-robotaxi-service-in-las-vegas/",
-        "pubDate": "Mon, 14 Sep 2026 16:04:16 +0000",
-        "description": "Las Vegas will be Waymo's 15th commercial robotaxi market.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sources say Automattic’s board is out after failed attempt to oust CEO Matt Mullenweg",
-        "link": "https://techcrunch.com/2026/09/14/sources-say-automattics-board-is-out-after-failed-attempt-to-oust-ceo-matt-mullenweg/",
-        "pubDate": "Mon, 14 Sep 2026 15:34:31 +0000",
-        "description": "Given that these departed board members were those who voted to put Mullenweg on a paid leave of absence to begin with, it makes sense that a board shakeup has taken place.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?",
-        "link": "https://techcrunch.com/2026/09/14/only-at-techcrunch-disrupt-2026-what-happens-when-openai-ships-your-roadmap/",
-        "pubDate": "Mon, 14 Sep 2026 15:00:00 +0000",
-        "description": "If you're building an AI company, the question isn't whether foundation models will continue to evolve. It's whether your company will continue creating value as they do. Don't miss this interactive session on the Builders Stage at TechCrunch Disrupt",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "GM updates its trucks’ native software to coexist with CarPlay",
-        "link": "https://www.theverge.com/transportation/994875/gm-chevy-gmc-truck-software-ui-carplay-android-auto",
-        "pubDate": "2026-09-15T07:00:00-04:00",
-        "description": "General Motors is polishing up the software experience in its bestselling trucks in an effort to reduce the amount of dangerous tapping and swiping that's required to access the most-used controls. It's also giving Apple CarPlay and Android Auto spif",
+        "title": "How The Oregon Trail became a generational icon",
+        "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
+        "pubDate": "2026-09-15T12:18:10-04:00",
+        "description": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader Davi",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft issues emergency Windows 11 update to fix its record-breaking patch",
-        "link": "https://www.theverge.com/news/995302/microsoft-out-of-band-windows-11-update-fix-issues",
-        "pubDate": "2026-09-15T04:54:48-04:00",
-        "description": "Microsoft has started rolling out an emergency out-of-band update to fix problems with its record-breaking September patch Tuesday update. The software giant patched nearly 1,000 flaws in its biggest update ever this month, but it also introduced som",
+        "title": "Vintage Violence is an absurdist crime thriller for phone addicts",
+        "link": "https://www.theverge.com/entertainment/995472/tiff-2026-vintage-violence-the-devils-gentle-monster",
+        "pubDate": "2026-09-15T12:00:00-04:00",
+        "description": "There are a lot of movies that have tried to seamlessly integrate modern tech - text messages, livestreams, etc. - into their storytelling. Some of the most novel attempts have been in the genre space, like the Twitch-style horror flick Deadstream. B",
         "source": "TheVerge"
       },
       {
-        "title": "Volvo’s plug-in hybrid XC60 and XC90 can really go the distance",
-        "link": "https://www.theverge.com/transportation/994792/volvo-xc60-xc90-phev-longest-electric-range",
-        "pubDate": "2026-09-15T03:00:00-04:00",
-        "description": "Most plug-in hybrid electric vehicles (PHEV) today get an average of around 30-50 miles of battery-only range: decent, but not mind-blowing. With hybrid sales dominating the market today, Volvo is out to prove that its PHEVs can push the limits of wh",
+        "title": "Now Light’s minimalist phone can easily call an Uber",
+        "link": "https://www.theverge.com/gadgets/995449/light-phone-uber-lyft-rideshare-app",
+        "pubDate": "2026-09-15T11:00:00-04:00",
+        "description": "More than a decade after its Kickstarter proposed a \"cell phone designed to be used as little as possible,\" Light is adding a direct connection to Uber and Lyft with a new Rideshare tool. For owners of either the Light Phone III or the upcoming Light",
         "source": "TheVerge"
       },
       {
-        "title": "Valve is still figuring out ‘how and when’ to do Steam Deck 2",
-        "link": "https://www.theverge.com/games/995256/valve-steam-deck-2-how-and-when",
-        "pubDate": "2026-09-14T20:13:47-04:00",
-        "description": "Now that Valve has finally launched its entire 2026 hardware lineup - the Steam Controller, the Steam Machine, and today's Steam Frame - are we any closer to a next-gen Steam Deck handheld? Valve isn't saying so yet. The company is figuring out \"how ",
+        "title": "Meta&#8217;s new One subscriptions put a price on social media and AI",
+        "link": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai",
+        "pubDate": "2026-09-15T11:00:00-04:00",
+        "description": "Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now ava",
         "source": "TheVerge"
       },
       {
-        "title": "Is Big Tech’s AI slowdown a safety pact or a cartel?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995186/is-big-techs-ai-slowdown-a-safety-pact-or-a-cartel",
-        "pubDate": "2026-09-14T18:59:41-04:00",
-        "description": "When OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, and SpaceX head Elon Musk loosely agreed over the weekend to slow down AI development, skeptics spotted an ulterior motive immediately. The AI titans ha",
+        "title": "Fujifilm’s Instax Pal 2 is a tiny digital camera that may not disappoint",
+        "link": "https://www.theverge.com/tech/995399/fujifilm-instax-pal-2-digital-camera-wireless-autofocus-face-detection",
+        "pubDate": "2026-09-15T10:03:18-04:00",
+        "description": "Fujifilm announced a follow-up to its tiny and quirky Instax Pal camera that debuted three years ago bundled with an instant printer. While the original Pal was a palm-sized camera with a round design that lacked a screen or viewfinder, the new Insta",
         "source": "TheVerge"
       }
     ],
