@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-16T17:16:15.914570Z",
+  "ts": "2026-09-16T20:24:57.373255Z",
   "tabs": {
     "cn_sec": [
       {
@@ -308,6 +308,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
+        "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
+        "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400",
+        "description": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Spain's data agency gets first report of AI-powered data breach",
+        "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
+        "pubDate": "Wed, 16 Sep 2026 13:26:41 -0400",
+        "description": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
         "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
         "pubDate": "Wed, 16 Sep 2026 11:18:28 +0530",
@@ -369,28 +383,63 @@
         "pubDate": "Wed, 16 Sep 2026 00:24:14 +0530",
         "description": "Cybersecurity researchers have shed light on a previously undocumented Brazilian banking malware operation that delivers a toolkit called KREMLIN.\n\nElastic Security Labs is tracking the activity under the moniker REF9334. Active since at least May 20",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
-        "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
-        "pubDate": "Tue, 15 Sep 2026 21:59:51 +0530",
-        "description": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world.\n\nThe malware is con",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BambooToken Malware Uses MQTT to Control Windows and Linux Systems",
-        "link": "https://thehackernews.com/2026/09/bambootoken-malware-uses-mqtt-to.html",
-        "pubDate": "Tue, 15 Sep 2026 20:53:19 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+        "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+        "pubDate": "Wed, 16 Sep 2026 20:12:00 +0000",
+        "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X will now let US users trade via Cashtags",
+        "link": "https://techcrunch.com/2026/09/16/x-will-now-let-u-s-users-trade-via-cashtags/",
+        "pubDate": "Wed, 16 Sep 2026 19:57:22 +0000",
+        "description": "The move closes the gap between the market discussions taking place on the timeline, and the market itself.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic’s interim CEO and legal chief signed reciprocal severance deals during Mullenweg’s brief ouster",
+        "link": "https://techcrunch.com/2026/09/16/automattics-interim-ceo-and-legal-chief-signed-reciprocal-severance-deals-during-mullenwegs-brief-ouster/",
+        "pubDate": "Wed, 16 Sep 2026 19:35:29 +0000",
+        "description": "CFO Mark Davies and legal chief Andy Missan signed each other’s severance agreements while Matt Mullenweg was on leave, providing a year of salary and additional equity vesting if their departures qualify for the benefits.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Waymo CFO jumps to self-driving startup Wayve",
+        "link": "https://techcrunch.com/2026/09/16/former-waymo-cfo-jumps-to-self-driving-startup-wayve/",
+        "pubDate": "Wed, 16 Sep 2026 19:02:49 +0000",
+        "description": "Elisa de Martel, who left her position as chief financial officer at Alphabet's autonomous vehicle company Waymo in January, will be based out of Silicon Valley.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hear why Science Corp CEO Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/hear-why-science-corp-ceo-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 16 Sep 2026 18:45:35 +0000",
+        "description": "At this year's Disrupt, Science Corp CEO Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI labs want in-house auditors — but maybe they should shut the front door first",
+        "link": "https://techcrunch.com/2026/09/16/ai-labs-want-in-house-auditors-but-maybe-they-should-shut-the-front-door-first/",
+        "pubDate": "Wed, 16 Sep 2026 18:25:25 +0000",
+        "description": "There may be a simpler and more effective fix for rogue agents, hiding in plain sight.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
+        "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
+        "pubDate": "Wed, 16 Sep 2026 18:00:54 +0000",
+        "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Your AI agents can now control your Google Home devices",
         "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
         "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
-        "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+        "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
         "source": "TechCrunch"
       },
       {
@@ -398,13 +447,6 @@
         "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
         "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
         "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
-        "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
         "source": "TechCrunch"
       },
       {
@@ -450,46 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
-        "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
-        "pubDate": "Wed, 16 Sep 2026 14:15:00 +0000",
-        "description": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
-        "source": "TechCrunch"
+        "title": "Resident Evil is a comedy first and a thrilling nightmare second",
+        "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
+        "pubDate": "2026-09-16T14:45:35-04:00",
+        "description": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical fa",
+        "source": "TheVerge"
       },
       {
-        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
-        "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
-        "source": "TechCrunch"
+        "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
+        "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
+        "pubDate": "2026-09-16T14:20:38-04:00",
+        "description": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preor",
+        "source": "TheVerge"
       },
       {
-        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
-        "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
-        "pubDate": "Wed, 16 Sep 2026 13:23:02 +0000",
-        "description": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Former Infosys chief’s AI startup nabs another $53M",
-        "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
-        "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
-        "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
-        "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
-        "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
-        "description": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon launches Alexa+ in India with Hindi support",
-        "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
-        "pubDate": "Wed, 16 Sep 2026 10:34:47 +0000",
-        "description": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-        "source": "TechCrunch"
+        "title": "Apple might make servers again to cash in on the AI rush",
+        "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
+        "pubDate": "2026-09-16T13:20:29-04:00",
+        "description": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But th",
+        "source": "TheVerge"
       },
       {
         "title": "Your ‘health age’ is fake",
@@ -503,27 +524,6 @@
         "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
         "pubDate": "2026-09-16T13:00:00-04:00",
         "description": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Claude comes for Gemini with its own take on Docs and Slides",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
-        "pubDate": "2026-09-16T12:30:00-04:00",
-        "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The sexy AI-powered dating app scams are here",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
-        "pubDate": "2026-09-16T10:45:00-04:00",
-        "description": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
-        "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
-        "pubDate": "2026-09-16T10:44:48-04:00",
-        "description": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet",
         "source": "TheVerge"
       }
     ],
