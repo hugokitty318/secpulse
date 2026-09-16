@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-16T12:34:43.596236Z",
+  "ts": "2026-09-16T17:16:15.914570Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,6 +245,48 @@
     ],
     "en_sec": [
       {
+        "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
+        "pubDate": "Wed, 16 Sep 2026 21:20:59 +0530",
+        "description": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
+        "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
+        "pubDate": "Wed, 16 Sep 2026 20:57:49 +0530",
+        "description": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by N",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
+        "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
+        "pubDate": "Wed, 16 Sep 2026 20:06:44 +0530",
+        "description": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claud",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
+        "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
+        "pubDate": "Wed, 16 Sep 2026 19:07:07 +0530",
+        "description": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories.\n\nBefore the repository spread, the assistant recommended so",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
+        "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
+        "pubDate": "Wed, 16 Sep 2026 18:44:05 +0530",
+        "description": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machine as a normal user, so it does",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
+        "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
+        "pubDate": "Wed, 16 Sep 2026 17:28:00 +0530",
+        "description": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
         "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
         "pubDate": "Wed, 16 Sep 2026 16:45:58 +0530",
@@ -278,6 +320,13 @@
         "pubDate": "Wed, 16 Sep 2026 10:48:06 +0530",
         "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptograp",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "The true cost of a ransomware attack, with and without BCDR",
+        "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
+        "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400",
+        "description": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a fa",
+        "source": "BleepingComputer"
       },
       {
         "title": "Microsoft says Copilot buttons still missing in classic Outlook",
@@ -334,196 +383,147 @@
         "pubDate": "Tue, 15 Sep 2026 20:53:19 +0530",
         "description": "Cybersecurity researchers have disclosed details of a multi-platform campaign that uses the Message Queueing Telemetry Transport (MQTT) protocol as a communication channel to control Windows and Linux systems.\n\nThe emerging malware family, codenamed ",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Acronis warns of actively exploited flaw in its cPanel backup plugin",
-        "link": "https://www.bleepingcomputer.com/news/security/acronis-warns-of-actively-exploited-flaw-in-its-cpanel-backup-plugin/",
-        "pubDate": "Tue, 15 Sep 2026 17:37:35 -0400",
-        "description": "Acronis disclosed a high-severity Linux local privilege escalation vulnerability in its backup plugin for cPanel, WebHost Manager (WHM), and Plesk that may be exploited in the wild. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
-        "link": "https://thehackernews.com/2026/09/human-attacker-exploits-marimo-rce.html",
-        "pubDate": "Tue, 15 Sep 2026 17:22:28 +0530",
-        "description": "With artificial intelligence (AI) shrinking the window between vulnerability discovery and exploitation and lowering the barrier to entry for bad actors, new findings from Sysdig show that skilled human operators can move just as swiftly after gainin",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attack Chains, Not Just Attack Surfaces: Why Testing Individual Techniques Misses the Point",
-        "link": "https://thehackernews.com/2026/09/attack-chains-not-just-attack-surfaces.html",
-        "pubDate": "Tue, 15 Sep 2026 16:56:36 +0530",
-        "description": "Introduction\n\nSecurity teams have gotten pretty good at testing against what can hurt them. Can this EDR agent catch this payload? Will my organization fail the phishing simulation? Does this SIEM rule fire on this particular technique? And, in more ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Mass-Scanning Campaign Exploits Vite Flaw to Extract Cloud Credentials From Exposed Dev Servers",
-        "link": "https://thehackernews.com/2026/09/mass-scanning-campaign-exploits-vite.html",
-        "pubDate": "Tue, 15 Sep 2026 16:42:32 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a mass-scanning campaign that has targeted Vite deployments siphon sensitive data.\n\nThe first is an automated effort aimed at internet-exposed Vite development servers that's designed to steal cloud",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-        "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-        "pubDate": "Tue, 15 Sep 2026 16:34:15 -0400",
-        "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-        "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-        "pubDate": "Tue, 15 Sep 2026 12:40:14 -0400",
-        "description": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "LiteSpeed Enterprise Flaw Could Let One Hosting Account Gain Root Access on a Shared Server",
-        "link": "https://thehackernews.com/2026/09/litespeed-enterprise-flaw-could-let-one.html",
-        "pubDate": "Tue, 15 Sep 2026 12:22:16 +0530",
-        "description": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers' sites run on a s",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "Your AI agents can now control your Google Home devices",
+        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
+        "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
+        "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT and others to control connected devices, review camera summaries and access smart home activity using natural language.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic merges Claude chat and Cowork in one interface",
+        "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
+        "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
+        "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hear why Neuralink co-founder Max Hodak says the screen era is ending at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/hear-why-neuralink-co-founder-max-hodak-says-the-screen-era-is-ending-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+        "description": "At this year's Disrupt, Neuralink's co-founder Max Hodak will present a vision for screen-free interfaces that can even offer medical help. Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
+        "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
+        "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
+        "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recen",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "May Mobility is going public in a $1.4B SPAC deal",
+        "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
+        "pubDate": "Wed, 16 Sep 2026 15:27:13 +0000",
+        "description": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Robots are waiting for a ChatGPT moment: Nvidia’s Les Karpas explains why at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/robots-are-waiting-for-a-chatgpt-moment-nvidias-les-karpas-explains-why-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 16 Sep 2026 15:00:00 +0000",
+        "description": "The robotics industry is still waiting for their breakthrough into day-to-day life. Nvidia's Les Karpas has an answer as to why at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 on your pass.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google says some Pixel phone owners were hacked in zero-day attacks",
+        "link": "https://techcrunch.com/2026/09/16/google-says-some-pixel-phone-owners-were-hacked-in-zero-day-attacks/",
+        "pubDate": "Wed, 16 Sep 2026 14:47:07 +0000",
+        "description": "The Pixel phone maker said there are indications that a bug in the phone's modem \"may be under limited, targeted exploitation.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon gives its workers a raise of $1 per hour",
+        "link": "https://techcrunch.com/2026/09/16/amazon-gives-its-workers-a-raise-of-1-per-hour/",
+        "pubDate": "Wed, 16 Sep 2026 14:32:08 +0000",
+        "description": "Amazon's investment in these raises comes out to over $1.5 billion, or about 0.06% of its $2.68 trillion market cap.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Threads’ new features let podcasters promote shows and reach listeners",
+        "link": "https://techcrunch.com/2026/09/16/threads-new-features-let-podcasters-promote-shows-and-reach-listeners/",
+        "pubDate": "Wed, 16 Sep 2026 14:24:58 +0000",
+        "description": "Threads is rolling out new tools for podcasters, including profile cards, episode links, transcripts, guest tags, posting reminders, and audience insights, as Meta looks to make the X rival a bigger hub for podcast promotion and discussion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrupt 2026 revealed",
+        "link": "https://techcrunch.com/2026/09/16/next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrupt-2026-revealed/",
+        "pubDate": "Wed, 16 Sep 2026 14:15:00 +0000",
+        "description": "Meet the next five top-tier investors judging the Startup Battlefield 200 contenders live at TechCrunch Disrupt 2026. Register before September 25 to save up to $200 and don't miss a moment of the ultimate startup pitch competition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "3 days left to exhibit: Get your brand in front of VCs and high-value leads at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/3-days-left-to-exhibit-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 16 Sep 2026 14:00:00 +0000",
+        "description": "Last day to book your exhibit table at Disrupt is September 18. Three days left. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SK Hynix reportedly in talks with Intel to build memory chips in US",
+        "link": "https://techcrunch.com/2026/09/16/sk-hynix-reportedly-in-talks-with-intel-to-build-memory-chips-in-us/",
+        "pubDate": "Wed, 16 Sep 2026 13:23:02 +0000",
+        "description": "SK Hynix told TechCrunch the company hasn't finalized any plans or arrangements yet.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Former Infosys chief’s AI startup nabs another $53M",
+        "link": "https://techcrunch.com/2026/09/16/former-infosys-chiefs-ai-startup-adds-50m-to-seed-weeks-after-initial-raise/",
+        "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
+        "description": "The Palo Alto startup says it has landed multiple seven-figure enterprise contracts within months of launch.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Clean tech startup Fluxnium found a way to tap 50,000 years’ worth of nuclear fuel",
+        "link": "https://techcrunch.com/2026/09/16/clean-tech-startup-fluxnium-found-a-way-to-tap-50000-years-worth-of-nuclear-fuel/",
+        "pubDate": "Wed, 16 Sep 2026 13:00:00 +0000",
+        "description": "Fluxnium's  fibers can extract uranium directly from seawater, which has enough of the nuclear fuel to power thousands of generations.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Amazon launches Alexa+ in India with Hindi support",
         "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
         "pubDate": "Wed, 16 Sep 2026 10:34:47 +0000",
-        "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
+        "description": "Amazon is letting all customers use Alexa+ assistant in early access period.",
         "source": "TechCrunch"
       },
       {
-        "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-        "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
-        "pubDate": "Wed, 16 Sep 2026 00:20:39 +0000",
-        "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The AI data center boom is colliding with cities scarred by big industry",
-        "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
-        "pubDate": "Tue, 15 Sep 2026 21:47:38 +0000",
-        "description": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta now lets AI agents handle the boring parts of WhatsApp Business setup",
-        "link": "https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/",
-        "pubDate": "Tue, 15 Sep 2026 20:12:53 +0000",
-        "description": "A new WhatsApp Business MCP server lets developers use AI coding agents like Claude, Cursor, Codex, and ChatGPT to handle setup, messaging templates, testing, and troubleshooting.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "link": "https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "pubDate": "Tue, 15 Sep 2026 19:00:00 +0000",
-        "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-        "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/",
-        "pubDate": "Tue, 15 Sep 2026 18:29:20 +0000",
-        "description": "The AI frenzy could push U.S. data centers to become one of the largest consumers of natural gas in the world.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "SpaceX will try to put Starship in orbit for the first time on September 22",
-        "link": "https://techcrunch.com/2026/09/15/spacex-will-try-to-put-starship-in-orbit-for-the-first-time-on-september-22/",
-        "pubDate": "Tue, 15 Sep 2026 18:16:07 +0000",
-        "description": "Elon Musk's company will also attempt to deploy the first V3 Starlink satellites into its orbital internet constellation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI agents now have a place to snitch",
-        "link": "https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/",
-        "pubDate": "Tue, 15 Sep 2026 17:42:59 +0000",
-        "description": "The AI Contact Hotline is designed to be a discreet place where agents that have witnessed misbehavior can tip off authorities.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "US military says it has launched weapons into space",
-        "link": "https://techcrunch.com/2026/09/15/us-military-confirms-it-launched-space-weapons-into-earths-orbit/",
-        "pubDate": "Tue, 15 Sep 2026 17:09:06 +0000",
-        "description": "This is the first public acknowledgment that the U.S. military put a space weapon in Earth's orbit.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta expands subscription push with new AI-focused plans",
-        "link": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/",
-        "pubDate": "Tue, 15 Sep 2026 17:05:24 +0000",
-        "description": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram, and WhatsApp.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Health benefits platform Thatch reaches $1B valuation as healthcare costs surge",
-        "link": "https://techcrunch.com/2026/09/15/health-benefits-platform-thatch-reaches-1b-valuation-as-healthcare-costs-surge/",
-        "pubDate": "Tue, 15 Sep 2026 17:02:04 +0000",
-        "description": "Thatch helps employers keep healthcare costs manageable by offering an individual plan marketplace through an Individual Coverage Health Reimbursement Arrangement — a model that lets companies fund employees' own individual insurance plans instead of",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Leaks, data breaches, and ransom notes: The worst hacks of 2026 so far",
-        "link": "https://techcrunch.com/2026/09/15/the-worst-hacks-and-breaches-of-2026-so-far/",
-        "pubDate": "Tue, 15 Sep 2026 16:00:00 +0000",
-        "description": "From the massive DOGE data breach and the compromise of critical infrastructure to the hack of federal surveillance systems, here are the most damaging security incidents and data breaches of 2026 so far.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nitter and XCancel are dead (again) after X’s latest legal actions",
-        "link": "https://techcrunch.com/2026/09/15/nitter-and-xcancel-are-dead-again-after-xs-latest-legal-actions/",
-        "pubDate": "Tue, 15 Sep 2026 15:49:18 +0000",
-        "description": "The privacy-friendly services for viewing X posts without an account have gone dark again after X's escalated legal action.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-        "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-        "pubDate": "Tue, 15 Sep 2026 15:47:03 +0000",
-        "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round",
-        "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
-        "pubDate": "Tue, 15 Sep 2026 15:22:48 +0000",
-        "description": "Profound has raised a $180 million Series D at a $1.8 billion valuation, less than seven months after it raised a $96 million Series C.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "A brief history of AI executives calling for regulation",
-        "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "pubDate": "2026-09-16T08:00:00-04:00",
-        "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofou",
+        "title": "Your ‘health age’ is fake",
+        "link": "https://www.theverge.com/column/995939/optimizer-health-age-wearables-longevity",
+        "pubDate": "2026-09-16T13:00:00-04:00",
+        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. During last week's Apple Watch ann",
         "source": "TheVerge"
       },
       {
-        "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
-        "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
-        "pubDate": "2026-09-16T08:00:00-04:00",
-        "description": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of t",
+        "title": "Google will now let any AI agent run your smart home",
+        "link": "https://www.theverge.com/tech/996310/google-home-mcp-integration-agentic-ai-smart-home-price-release-date",
+        "pubDate": "2026-09-16T13:00:00-04:00",
+        "description": "Google is opening up its smart home to AI agents, letting tools like Claude and Open Claw access and control your connected devices and analyze your home's data using the standardized Model Context Protocol. Google Home MCP is a new integration that ",
         "source": "TheVerge"
       },
       {
-        "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
-        "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
-        "pubDate": "2026-09-16T08:00:00-04:00",
-        "description": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with th",
+        "title": "Claude comes for Gemini with its own take on Docs and Slides",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996234/anthropic-one-claude-cowork-docs-slides",
+        "pubDate": "2026-09-16T12:30:00-04:00",
+        "description": "Claude is getting a pair of new tools today: Docs and Slides. They'll let you create documents and presentations through Claude chats, which you can export, edit, and share with other users. As part of the announcement, Anthropic is also simplifying ",
         "source": "TheVerge"
       },
       {
-        "title": "Meta is reportedly ready to launch less pervy smart glasses",
-        "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
-        "pubDate": "2026-09-16T04:54:46-04:00",
-        "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses",
+        "title": "The sexy AI-powered dating app scams are here",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995348/ai-dating-app-scams",
+        "pubDate": "2026-09-16T10:45:00-04:00",
+        "description": "Security researcher Matthew \"Zigula\" Gore-Kormanik was analyzing a fraudulent dating app called Dora when he got a pop-up message saying he was receiving a call from Jennifer. According to her bio, she's a 41-year-old Sagittarius with red hair, blue ",
         "source": "TheVerge"
       },
       {
-        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
-        "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
-        "pubDate": "2026-09-15T22:00:00-04:00",
-        "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump d",
+        "title": "Xreal’s well-rounded 1S glasses are back down to their lowest price",
+        "link": "https://www.theverge.com/gadgets/996216/xreal-video-glasses-beats-pill-sonos-ace-deal-sale",
+        "pubDate": "2026-09-16T10:44:48-04:00",
+        "description": "USB-C-connected video glasses are a lot of fun if you want to see your games, movies (or just your computer screen) on a large, immersive virtual screen. One of the most well-rounded pairs out there, Xreal’s 1S, has returned to their lowest price yet",
         "source": "TheVerge"
       }
     ],
