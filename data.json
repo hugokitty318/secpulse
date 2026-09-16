@@ -1,7 +1,77 @@
 {
-  "ts": "2026-09-16T06:43:36.274758Z",
+  "ts": "2026-09-16T12:34:43.596236Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "BengalSEO鎖定Bing搜尋結果，透過SEO投毒散布惡意軟體MayaBot",
+        "link": "https://www.ithome.com.tw/news/178999",
+        "pubDate": "2026-09-16 18:47",
+        "description": "攻擊者偽造技術支援與軟體下載網頁誘騙使用者，透過多重跳轉及流量分流系統投遞惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲警方逮捕涉及駭客組織TeamPCP的攻擊者，牽連逾千個組織的軟體供應鏈攻擊",
+        "link": "https://www.ithome.com.tw/news/178998",
+        "pubDate": "2026-09-16 18:14",
+        "description": "兩名男子被控參與TeamPCP大規模網路犯罪，涉及竊取50萬組憑證及300GB資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "金融木馬Kremlin偽造瀏覽器完整性檢查，企圖竊取巴西銀行用戶憑證",
+        "link": "https://www.ithome.com.tw/news/178989",
+        "pubDate": "2026-09-16 16:54",
+        "description": "金融木馬Kremlin鎖定巴西銀行與金融機構而來，並突破瀏覽器的防護機制，於受害電腦的瀏覽器植入惡意延伸套件，藉此竊取瀏覽器資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資源有限的中小企業如何盤點CRA準備缺口？ENISA推出SME成熟度評估模型",
+        "link": "https://www.ithome.com.tw/news/178981",
+        "pubDate": "2026-09-16 16:54",
+        "description": "面對CRA帶來的資安要求，中小企業該從何處著手？ENISA近日在啟用CRA單一通報平臺（SRP）之際，特別提及今年7月發布的「中小企業網路韌性成熟度評估模型」，模型從5大領域出發，可協助中小企業盤點因應CRA所需的產品資安實務，找出需要改善之處",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客利用資料分析工具Marimo重大漏洞從事攻擊，8秒完成竊取AWS憑證與SSH主機橫向移動",
+        "link": "https://www.ithome.com.tw/news/178988",
+        "pubDate": "2026-09-16 16:44",
+        "description": "資安公司Sysdig發現新一波利用Python資料分析工具Marimo漏洞CVE-2026-39987的活動，但過往相關的漏洞利用活動最大不同，攻擊者全程以手動操作，並以極為迅速的步調完成整個攻擊流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "另一名相信AI可能殺死人類的研究人員自Google離職",
+        "link": "https://www.ithome.com.tw/news/178986",
+        "pubDate": "2026-09-16 15:14",
+        "description": "Google DeepMind前研究工程師Bilal Chughtai表示，AI能力進步速度已遠超對齊研究，甚至可能威脅人類生存，呼籲AI業界停止競逐、放慢發展速度並提高透明度",
+        "source": "iThome資安"
+      },
+      {
+        "title": "黃仁勳反對新增AI監管，與Anthropic、OpenAI立場分歧",
+        "link": "https://www.ithome.com.tw/news/178985",
+        "pubDate": "2026-09-16 15:09",
+        "description": "Nvidia執行長黃仁勳公開反對新增AI監管，認為AI安全是工程問題，而非法律問題，業者若無法確保產品安全就應自行放慢腳步",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐盟CRA單一報告平臺上線，漏洞與事故通報管道正式啟用",
+        "link": "https://www.ithome.com.tw/news/178979",
+        "pubDate": "2026-09-16 15:01",
+        "description": "歐盟CRA的漏洞與重大資安事件通報義務於9月11日正式上路，歐盟網路安全局（ENISA）同步啟用單一通報平臺（SRP），讓製造商可透過單一入口完成CRA通報，並將相關資訊提供給歐盟相關主管機關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月16日，歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差",
+        "link": "https://www.ithome.com.tw/news/178984",
+        "pubDate": "2026-09-16 14:46",
+        "description": "歐盟CRA的漏洞與資安事件通報義務正式上路，也讓企業PSIRT的實際應變能力成為焦點，資安院觀察，國內企業近年雖加速建立相關機制，但成熟度仍有落差，相較於是否設置PSIRT專責團隊，企業真正具備漏洞處理與跨部門協作能力，更具實質意義",
+        "source": "iThome資安"
+      },
+      {
+        "title": "泰國大型寬頻網路供應商3BB疑似遭滲透，駭客濫用遠端管理工具MeshCentral控制內部設備",
+        "link": "https://www.ithome.com.tw/news/178982",
+        "pubDate": "2026-09-16 14:28",
+        "description": "泰國大型寬頻網路公司3BB（Triple T Broadband）驚傳遭到入侵，威脅情報公司Hunt.io藉由駭客不慎暴露的公開資料夾發現此事，並指出駭客為了能持續存取該公司內部環境，濫用遠端管理工具MeshCentral建置存取管道",
+        "source": "iThome資安"
+      },
       {
         "title": "Oracle發布9月例行更新，修補672個資安弱點",
         "link": "https://www.ithome.com.tw/news/178980",
@@ -38,91 +108,49 @@
         "source": "iThome資安"
       },
       {
-        "title": "電商平臺WooCommerce外掛重大漏洞被鎖定，攻擊者藉此在WordPress網站上傳後門",
-        "link": "https://www.ithome.com.tw/news/178972",
-        "pubDate": "2026-09-16 11:01",
-        "description": "今年2月修補的電商平臺WooCommerce付費外掛程式Wholesale Lead Capture重大漏洞CVE-2026-27540，最近出現遭積極利用的現象，網站管理者應儘速修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google更新Chrome 153穩定版，修補42個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178971",
-        "pubDate": "2026-09-16 10:57",
-        "description": "Chrome瀏覽器修補Core、Extensions、Skia、ServiceWorker等元件漏洞，以記憶體安全相關問題居多",
-        "source": "iThome資安"
-      },
-      {
-        "title": "長榮航空、長榮航太網路環境遭到入侵",
-        "link": "https://www.ithome.com.tw/news/178969",
-        "pubDate": "2026-09-16 10:12",
-        "description": "9月15日晚間長榮航空（2618）與長榮航太（2645）接連發布資安重訊，表示網路環境遭到入侵，其中長榮航空指出，攻擊者取得了員工姓名與公務聯絡資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress強化外掛更新安全審查，高風險版本自動阻止散布",
-        "link": "https://www.ithome.com.tw/news/178939",
-        "pubDate": "2026-09-16 08:00",
-        "description": "WordPress強化外掛安全審查，新版本外掛透過WordPress.org更新API散布前，將接受自動化分析，高風險版本將自動停止散布",
-        "source": "iThome資安"
-      },
-      {
-        "title": "LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限",
-        "link": "https://www.ithome.com.tw/news/178968",
-        "pubDate": "2026-09-16 08:00",
-        "description": "LiteSpeed Web Server Enterprise存在重大權限提升漏洞，共享主機（shared-hosting servers）上的低權限網站使用者可能繞過帳號隔離機制，取得伺服器root權限，LiteSpeed建議升級至6.3.7或後續版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟9月Windows更新引發遠端桌面服務異常，發布軟體臨時更新搶修",
-        "link": "https://www.ithome.com.tw/news/178965",
-        "pubDate": "2026-09-16 08:00",
-        "description": "微軟9月Windows安全性更新造成遠端桌面服務異常，部分裝置可能出現連線或登入失敗，另可能導致部分Linux虛擬機器無法存取Windows主機共用資料夾",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS評測12款頂尖AI模型，皆能找出漏洞但誤判或漏報率仍高",
-        "link": "https://www.ithome.com.tw/news/178918",
-        "pubDate": "2026-09-16 08:00",
-        "description": "AWS評測5家業者共12款通用頂尖AI模型，結果顯示，現有模型雖能找出多數真正漏洞，但誤報與漏報問題仍明顯，沒有任何受測模型組態同時達到實際用於漏洞判斷的最低門檻",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟網路韌性法案漏洞通報義務上路，OpenSSF提醒開源專案做好漏洞協調",
-        "link": "https://www.ithome.com.tw/news/178925",
-        "pubDate": "2026-09-16 08:00",
-        "description": "歐盟CRA針對製造商的漏洞與資安事件通報義務已於9月11日生效。OpenSSF提醒，若遭積極利用的漏洞涉及第三方開源元件，製造商可能聯繫相關專案釐清影響及取得修補資訊，開源專案應確認漏洞通報方式與資安聯絡資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國加密貨幣監管法案CLARITY Act參議院闖關失敗",
-        "link": "https://www.ithome.com.tw/news/178974",
-        "pubDate": "2026-09-16  11:09:04",
-        "description": "美國參議院周二（9/15）表決加密貨幣監管法案《CLARITY Act》，最終僅獲49票支持、50票反對，未達推進法案所需的60票門檻。法案闖關失敗後，比特幣一度跌破7.5萬美元，以太幣跌逾5%，XRP更重挫逾10%。\nCLARITY Act主要是用來建立美國加密貨幣市場監管架構，包括釐清證券交易委員會（SEC）與商品期貨交易委員會（CFTC）的監管權責，以及加密貨幣業者應遵循的規範，眾議院已於去年7月通過該法案，兩黨經過數月協商仍未取得共識，在參議院被擋了下來。",
+        "title": "不只等人下指令！國泰金測試AI數位同事，能長期記憶、主動推進任務",
+        "link": "https://www.ithome.com.tw/news/179000",
+        "pubDate": "2026-09-16  07:09:36",
+        "description": "國泰金控在第七屆技術年會中，首度揭露實測中的新型態AI工作模式，比AI代理更主動，又能長期協作的「數位同事」。國泰金控第三代接班人國泰金控副董事長蔡宗翰更首度登臺，揭露他所瞄準的集團未來科技發展方向。\n蔡宗翰回顧集團數位轉型的初衷，他指出，一開始是為了讓總部更了解顧客、聽見顧客的聲音，隨著科技的進步，開始可以運用數位管道來接觸顧客，理解顧客的需求，而不是「為了數位而數位」。",
         "source": "iThome"
       },
       {
-        "title": "Apple發布iOS 27與iPadOS 27，修補126個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178961",
-        "pubDate": "2026-09-15 18:17",
-        "description": "iOS與iPadOS新版本修補Kernel、SceneKit、CoreUI等元件的漏洞，以記憶體安全類型問題居多",
-        "source": "iThome資安"
+        "title": "達梭系統：AI結合模擬可縮短產品開發，與正新橡膠聯手推動輪胎研發智慧化",
+        "link": "https://www.ithome.com.tw/news/178997",
+        "pubDate": "2026-09-16  06:09:39",
+        "description": "生成式AI逐漸走入製造業，不過在工程研發領域，AI的角色並非取代工程師，而是結合模擬（Simulation）與工程知識，加快產品設計與驗證流程。達梭系統（Dassault Systèmes）SIMULIA執行長Michelle Ash表示，目前工業AI仍處於發展初期，其真正的價值在於協助處理高複雜度工程模擬，縮短產品開發時間；目前達梭系統與國內的正新橡膠合作，將AI逐步導入輪胎研發流程。",
+        "source": "iThome"
       },
       {
-        "title": "暴露在網路的開發伺服器Vite被鎖定，攻擊者試圖竊取雲端憑證與組態設定",
-        "link": "https://www.ithome.com.tw/news/178959",
-        "pubDate": "2026-09-15 17:48",
-        "description": "F5警告，今年8月出現鎖定暴露的開發伺服器Vite大規模掃描活動，攻擊者利用CVE-2026-39364繞過檔案存取限制，企圖竊取環境變數檔案（.env）、AWS憑證，以及Terraform狀態檔等敏感資料",
-        "source": "iThome資安"
+        "title": "AI原生新創成為獨角獸時間減半？下一步Physical AI考驗模型之外的護城河",
+        "link": "https://www.ithome.com.tw/news/178990",
+        "pubDate": "2026-09-16  05:09:21",
+        "description": "AI正在加快新創公司的成長速度。過去一家新創成長為估值10億美元的獨角獸，通常需要約7年；根據一份針對AI原生新創業者的研究，在理想成長條件下，部分AI原生新創達到相同估值所需的時間，可能縮短至3.5年。\nAWS在2026年6月發布的全球新創趨勢報告，調查20個國家的3,413名新創創辦人及高階主管。報告指出，AI原生新創的平均年營收成長率達156%，高於整體新創的65%；其中55%的AI原生新創，每名員工可創造超過40萬美元營收，顯示這類公司可能用約過去一半的人力，支撐相近規模的業務產出。",
+        "source": "iThome"
       },
       {
-        "title": "MedTech醫療科技雙周報第53期： 美國組全國聯盟測試心衰竭AI代理，要提供全天候照護",
-        "link": "https://www.ithome.com.tw/news/178967",
-        "pubDate": "2026-09-15  07:09:10",
-        "description": "重點新聞（0901～0915 ）",
+        "title": "Salesforce與Nvidia合推CRM模型Koa",
+        "link": "https://www.ithome.com.tw/news/178987",
+        "pubDate": "2026-09-16  04:09:54",
+        "description": "CRM巨擘本周宣布和Nvidia合作開發專門用於客戶關係管理(CRM)的",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 叢集 ROI 關鍵在傳輸效率？英特爾前員工創 Delos Data 募逾 1 億美元",
+        "link": "https://techorange.com/2026/09/16/delos-data-efficient-ai-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 16:56:40 +0800",
+        "description": "由英特爾前員工創立的 AI 基礎架構新創 Delos Data 近日宣布，已完成 1 億美元募資，將投入開發網路晶片與軟體，提升 AI 資料中心內部的資料傳輸效率。《Reuters》報導，隨著 AI 資料中心的運算架構日益複雜，如何讓不同種類的運算晶片高速交換資料，成為影響整體運算效率的重要因素。 此次募資由創投與科技投資機構參與，包括深科技創投公司 Playground、半導體領域創投 Socratic Partners、Matter Venture Partners，以及 Capricorn",
+        "source": "TechOrange"
+      },
+      {
+        "title": "瑞安航空如何把客服從「成本中心」變成策略資產？AI 每天處理 12 萬則對話、8 成免真人介入",
+        "link": "https://techorange.com/2026/09/16/ryanair-ai-customer-chats-without-humans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 16:43:52 +0800",
+        "description": "歐洲最大的廉航瑞安航空公司（Ryanair）持續擴大 AI 在客服領域的應用。根據 AWS 發布的案例研究，瑞安航空目前每天透過 AI 處理約 12 萬則客服對話，涵蓋 7 種語言，其中約 80% 的對話可在無需人工客服介入的情況下完成。 準確率達 94%、回覆僅需 2.9 秒：瑞安航空導入 AWS 打造 AI 客服系統 瑞安航空這套系統由 AWS 提供雲端與 AI 服務，並與跨國 IT 與雲端技術諮詢公司 Cation Consulting 共同打造，可集中處理行李、退款、訂位及航班異動等主要",
+        "source": "TechOrange"
+      },
       {
         "title": "人形機器人終於能拆除鐵籠？Digit 5 靠 360 度動態感測，實現免護欄近距共工",
         "link": "https://techorange.com/2026/09/16/agility-robotics-solutions-digit-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,23 +241,30 @@
         "pubDate": "Tue, 15 Sep 2026 13:55:06 +0800",
         "description": "打造多租戶 AI 共享算力平台，加速智慧製造研發與實證落地。 AI 基礎設施軟體廠商數位無限（INFINITIX）今日宣布，旗下企業級 AI 基礎設施管理平台 AI-Stack 已導入韓國智慧製造創新中心（Smart Manufacturing Innovation Center, SMIC），協助建置多租戶 AI 共享算力平台，支援多位研究人員、多專案並行進行模型開發、訓練與驗證。此案也是台灣自主研發 AI 基礎設施軟體首度進入韓國國家級智慧製造實證場域，展現 INFINITIX 在軟體定義 ",
         "source": "TechOrange"
-      },
-      {
-        "title": "OpenAI 收購 Glass Imaging：估值破 3 億美元，收編蘋果前影像班底",
-        "link": "https://techorange.com/2026/09/15/openai-buys-glass-imaging-smartphone-camera/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 11:44:49 +0800",
-        "description": "《華爾街日報》報導，OpenAI 近幾個月悄悄收購了一家正在開發更高畫質智慧型手機相機的新創公司，知情人士透露。這家公司名為 Glass Imaging，正在開發一項運用 AI 技術，讓智慧型手機所拍攝的影像品質達到與 DSLR 相機相當水準的技術。 不再受限框架：蘋果前員工成立 Glass Imaging 重新定義計算攝影 Glass Imaging 由兩名蘋果前員工 Ziv Attar 和 Tom Bishop 於 2019 年共同創立。兩人過去都曾參與蘋果的相機技術開發，包括 iPhone",
-        "source": "TechOrange"
-      },
-      {
-        "title": "從黃仁勳到 Broadcom 都沒打算為 AI 踩煞車，微軟公布 37 頁 Agent 行為準則",
-        "link": "https://techorange.com/2026/09/15/microsoft-ai-mai-code-of-conduct/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 10:50:52 +0800",
-        "description": "AI 發展是不是該慢下來，這幾天迅速成為科技業焦點。Anthropic 執行長 Dario Amodei 呼籲降低前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 隨後表態支持；但從政府、晶片商到資本市場的反應來看，要讓整個 AI 產業一起踩煞車並不容易。 就在這波爭論升溫之際，微軟 AI 在 9 月 14 日公布 37 頁《Humanist AI Code of Conduct》（人本 AI 行為準則）草案，準備作為未來自家 AI 模型 MA",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
+        "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
+        "pubDate": "Wed, 16 Sep 2026 16:45:58 +0530",
+        "description": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw.\n\n\"In Cellular Modem, there i",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
+        "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
+        "pubDate": "Wed, 16 Sep 2026 16:45:48 +0530",
+        "description": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of inte",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
+        "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
+        "pubDate": "Wed, 16 Sep 2026 16:38:54 +0530",
+        "description": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of lo",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
         "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
@@ -243,6 +278,41 @@
         "pubDate": "Wed, 16 Sep 2026 10:48:06 +0530",
         "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptograp",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft says Copilot buttons still missing in classic Outlook",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-workaround-for-missing-outlook-copilot-buttons/",
+        "pubDate": "Wed, 16 Sep 2026 08:16:32 -0400",
+        "description": "Microsoft says it's still investigating a known issue that causes the Copilot and Copilot Chat buttons in Classic Outlook to disappear for some Windows users. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Webinar: What happens in the first hours of a Google Workspace breach",
+        "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
+        "pubDate": "Wed, 16 Sep 2026 08:11:19 -0400",
+        "description": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Critical ScreenConnect flaw now actively exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
+        "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400",
+        "description": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Windows Server 2022 reaches end of mainstream support next month",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
+        "pubDate": "Wed, 16 Sep 2026 05:10:20 -0400",
+        "description": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Google fixes actively exploited Android zero-day on Pixel devices",
+        "link": "https://www.bleepingcomputer.com/news/security/google-fixes-actively-exploited-android-zero-day-on-pixel-devices/",
+        "pubDate": "Wed, 16 Sep 2026 03:00:19 -0400",
+        "description": "Google has released the September 2026 security patches to address 110 vulnerabilities affecting its Pixel devices, including one zero-day flaw actively exploited in targeted attacks. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
@@ -313,65 +383,16 @@
         "pubDate": "Tue, 15 Sep 2026 12:22:16 +0530",
         "description": "A critical vulnerability in LiteSpeed Web Server Enterprise could let a low-privilege website user gain root access on a shared-hosting server, cPanel warned in an advisory published on September 14.\n\nOn such servers, many customers' sites run on a s",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Cisco Secure Email Gateway Flaw Exploited in the Wild, Enables Root Command Execution",
-        "link": "https://thehackernews.com/2026/09/cisco-secure-email-gateway-flaw.html",
-        "pubDate": "Tue, 15 Sep 2026 11:41:11 +0530",
-        "description": "Cisco has warned that a new critical vulnerability impacting AsyncOS Software for Cisco Secure Email Gateway has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-76461, carries a CVSS score of 9.8 out of a maximum o",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "China-Linked Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy GRIMWEDGE",
-        "link": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
-        "pubDate": "Tue, 15 Sep 2026 11:01:05 +0530",
-        "description": "A Chinese threat actor has been attributed to a spear-phishing campaign that exploits recently patched security flaws in Google Chrome and Microsoft Windows to deliver a malicious JavaScript backdoor called GRIMWEDGE.\n\nVolexity, which is tracking the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-        "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-        "pubDate": "Tue, 15 Sep 2026 11:00:00 -0400",
-        "description": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers target WordPress sites via third-party WooCommerce plugin",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-target-wordpress-sites-via-third-party-woocommerce-plugin/",
-        "pubDate": "Tue, 15 Sep 2026 10:45:10 -0400",
-        "description": "Hackers are actively exploiting a critical vulnerability in the WooCommerce Wholesale Lead Capture premium plugin for WordPress to upload a PHP backdoor. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "What Zero-Day Response Should Be in the Post-Mythos Era",
-        "link": "https://www.bleepingcomputer.com/news/security/what-zero-day-response-should-be-in-the-post-mythos-era/",
-        "pubDate": "Tue, 15 Sep 2026 09:45:54 -0400",
-        "description": "AI is shrinking the time between vulnerability disclosure and exploitation, leaving defenders less time to wait for patches or public exploits. Picus Security explains how exploitability validation, security control testing, and autonomous pentesting",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA: Critical VMware RCE flaw now exploited by ransomware gangs",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-vmware-vcenter-rce-flaw-now-exploited-by-ransomware-gangs/",
-        "pubDate": "Tue, 15 Sep 2026 08:16:32 -0400",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned security teams that ransomware gangs have now joined ongoing attacks exploiting a critical VMware vCenter vulnerability patched in July. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Suspected Black Axe gang leaders face cybercrime charges in the US",
-        "link": "https://www.bleepingcomputer.com/news/security/black-axe-gang-members-extradited-to-us-face-cybercrime-charges/",
-        "pubDate": "Tue, 15 Sep 2026 05:50:25 -0400",
-        "description": "Five alleged leaders of the Black Axe cybercrime syndicate, known for its involvement in global-scale cyber-enabled financial fraud, have been extradited to the United States to face wire fraud and money laundering charges. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft confirms KB5002914 Excel update breaks copy and paste",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-kb5002914-security-update-breaks-excel-copy-and-paste/",
-        "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400",
-        "description": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Amazon launches Alexa+ in India with Hindi support",
+        "link": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support/",
+        "pubDate": "Wed, 16 Sep 2026 10:34:47 +0000",
+        "description": "Amazon is letting all customers use Alexa+ assistant in early access period",
+        "source": "TechCrunch"
+      },
       {
         "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
         "link": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says/",
@@ -471,45 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Wonder scores a $425 million partnership with DoorDash as it builds its food empire",
-        "link": "https://techcrunch.com/2026/09/15/wonder-scores-a-425-million-partnership-with-doordash-as-it-builds-its-food-empire/",
-        "pubDate": "Tue, 15 Sep 2026 15:21:10 +0000",
-        "description": "Founded by veteran e-commerce entrepreneur Marc Lore, Wonder is slowly building a massive portfolio of restaurants and delivery companies.",
-        "source": "TechCrunch"
+        "title": "A brief history of AI executives calling for regulation",
+        "link": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+        "pubDate": "2026-09-16T08:00:00-04:00",
+        "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofou",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Nintendo opens up Fire Emblem with the gigantic Fortune’s Weave",
+        "link": "https://www.theverge.com/games/995539/fire-emblem-fortunes-weave-switch-2-review",
+        "pubDate": "2026-09-16T08:00:00-04:00",
+        "description": "Nintendo has gotten quite good at making open-ended games. The Legend of Zelda: Breath of the Wild upended the idea of what a Zelda game could be by giving the player free rein to tackle any part of the map, a philosophy iterated upon with Tears of t",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The iPhone 18 Pro’s big camera update is all about the small gains",
+        "link": "https://www.theverge.com/tech/995945/iphone-18-pro-max-review-camera-aperture",
+        "pubDate": "2026-09-16T08:00:00-04:00",
+        "description": "Last week, Apple announced an iPhone unlike any it has made in the past. An iPhone that has seemingly already led several other phone manufacturers to pursue entirely different designs for their flagship products. A remarkably distinct device with th",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Meta is reportedly ready to launch less pervy smart glasses",
+        "link": "https://www.theverge.com/tech/996138/meta-luna-ray-ban-smart-glasses-camera-free-connect",
+        "pubDate": "2026-09-16T04:54:46-04:00",
+        "description": "Meta may be ready to reveal a new pair of smart glasses with no camera at all, amid a PR crisis for the company caused by the video recording capabilities of its flagship smart glasses. A new report from The Information claims the camera-free glasses",
+        "source": "TheVerge"
       },
       {
         "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
         "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
         "pubDate": "2026-09-15T22:00:00-04:00",
         "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump d",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
-        "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
-        "pubDate": "2026-09-15T21:00:00-04:00",
-        "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AI and data centers are incredibly unpopular in every poll",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-        "pubDate": "2026-09-15T19:34:25-04:00",
-        "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft announces Windows and Surface event for October 7th",
-        "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
-        "pubDate": "2026-09-15T16:36:59-04:00",
-        "description": "It's been more than two years since the last major Windows event, so Microsoft is heading to San Francisco next month to outline the future of Windows and Surface devices. At an event on October 7th, the company says it will host a \"conversation on h",
-        "source": "TheVerge"
-      },
-      {
-        "title": "What if social media isn’t hurting kids?",
-        "link": "https://www.theverge.com/policy/995704/peter-gray-restoring-childhood-jonathan-haidt",
-        "pubDate": "2026-09-15T16:13:30-04:00",
-        "description": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health sinc",
         "source": "TheVerge"
       }
     ],
