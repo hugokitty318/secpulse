@@ -1,16 +1,86 @@
 {
-  "ts": "2026-09-16T01:24:08.497353Z",
+  "ts": "2026-09-16T06:43:36.274758Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Oracle發布9月例行更新，修補672個資安弱點",
+        "link": "https://www.ithome.com.tw/news/178980",
+        "pubDate": "2026-09-16 14:03",
+        "description": "本週Oracle發布9月份關鍵安全修補更新（CSPU），共發布673個更新程式、修補672個資安漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "VPN服務商Surfshark內部測試伺服器遭駭，未波及用戶資料",
+        "link": "https://www.ithome.com.tw/news/178978",
+        "pubDate": "2026-09-16 12:32",
+        "description": "配置錯誤導致測試用伺服器暴露網際網路，攻擊者取得Surfshark部分內部工程資料及建置憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "HBO Max的社群網站Reddit帳號遭挾持，用於ClickFix攻擊推送惡意軟體",
+        "link": "https://www.ithome.com.tw/news/178977",
+        "pubDate": "2026-09-16 12:30",
+        "description": "網釣攻擊手法ClickFix出現新的變形，攻擊者事先入侵HBO Max的社群網站Reddit帳號，藉此推送惡意廣告，向Windows與macOS用戶散布惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "祖克柏談AI安全，各家業者應自行確保模型安全",
+        "link": "https://www.ithome.com.tw/news/178976",
+        "pubDate": "2026-09-16 12:16",
+        "description": "Meta執行長祖克柏談AI安全，認為各家AI實驗室都有責任及誘因確保模型安全，必要時應自行放慢開發步調，而非要求其他業者同步跟進",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla發布Firefox 156，修補73個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178975",
+        "pubDate": "2026-09-16 11:55",
+        "description": "Firefox 瀏覽器修補Graphics、CanvasWebGL與Widget等元件漏洞，以邊界條件、記憶體安全與權限提升問題占多數",
+        "source": "iThome資安"
+      },
+      {
+        "title": "電商平臺WooCommerce外掛重大漏洞被鎖定，攻擊者藉此在WordPress網站上傳後門",
+        "link": "https://www.ithome.com.tw/news/178972",
+        "pubDate": "2026-09-16 11:01",
+        "description": "今年2月修補的電商平臺WooCommerce付費外掛程式Wholesale Lead Capture重大漏洞CVE-2026-27540，最近出現遭積極利用的現象，網站管理者應儘速修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google更新Chrome 153穩定版，修補42個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/178971",
+        "pubDate": "2026-09-16 10:57",
+        "description": "Chrome瀏覽器修補Core、Extensions、Skia、ServiceWorker等元件漏洞，以記憶體安全相關問題居多",
+        "source": "iThome資安"
+      },
+      {
+        "title": "長榮航空、長榮航太網路環境遭到入侵",
+        "link": "https://www.ithome.com.tw/news/178969",
+        "pubDate": "2026-09-16 10:12",
+        "description": "9月15日晚間長榮航空（2618）與長榮航太（2645）接連發布資安重訊，表示網路環境遭到入侵，其中長榮航空指出，攻擊者取得了員工姓名與公務聯絡資訊",
+        "source": "iThome資安"
+      },
       {
         "title": "WordPress強化外掛更新安全審查，高風險版本自動阻止散布",
         "link": "https://www.ithome.com.tw/news/178939",
         "pubDate": "2026-09-16 08:00",
-        "description": "WordPress強化外掛版本安全審查，外掛新版本在透過WordPress.org更新API散布前接受自動化分析，高風險版本將自動停止散布",
+        "description": "WordPress強化外掛安全審查，新版本外掛透過WordPress.org更新API散布前，將接受自動化分析，高風險版本將自動停止散布",
         "source": "iThome資安"
       },
       {
-        "title": "AWS評測12款頂尖AI模型，能找出多數真正漏洞但誤判或漏報率仍高",
+        "title": "LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限",
+        "link": "https://www.ithome.com.tw/news/178968",
+        "pubDate": "2026-09-16 08:00",
+        "description": "LiteSpeed Web Server Enterprise存在重大權限提升漏洞，共享主機（shared-hosting servers）上的低權限網站使用者可能繞過帳號隔離機制，取得伺服器root權限，LiteSpeed建議升級至6.3.7或後續版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟9月Windows更新引發遠端桌面服務異常，發布軟體臨時更新搶修",
+        "link": "https://www.ithome.com.tw/news/178965",
+        "pubDate": "2026-09-16 08:00",
+        "description": "微軟9月Windows安全性更新造成遠端桌面服務異常，部分裝置可能出現連線或登入失敗，另可能導致部分Linux虛擬機器無法存取Windows主機共用資料夾",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS評測12款頂尖AI模型，皆能找出漏洞但誤判或漏報率仍高",
         "link": "https://www.ithome.com.tw/news/178918",
         "pubDate": "2026-09-16 08:00",
         "description": "AWS評測5家業者共12款通用頂尖AI模型，結果顯示，現有模型雖能找出多數真正漏洞，但誤報與漏報問題仍明顯，沒有任何受測模型組態同時達到實際用於漏洞判斷的最低門檻",
@@ -24,18 +94,11 @@
         "source": "iThome資安"
       },
       {
-        "title": "LiteSpeed Web Server漏洞恐讓共享主機單一帳號取得root權限",
-        "link": "https://www.ithome.com.tw/news/178968",
-        "pubDate": "2026-09-16 08:00",
-        "description": "LiteSpeed Web Server Enterprise存在重大權限提升漏洞，共享主機上的低權限網站使用者可能繞過帳號隔離機制，取得伺服器root權限，LiteSpeed建議升級至6.3.7或後續版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟9月Windows更新引發遠端桌面服務異常，發布帶外更新搶修",
-        "link": "https://www.ithome.com.tw/news/178965",
-        "pubDate": "2026-09-16 08:00",
-        "description": "微軟9月Windows安全性更新造成遠端桌面服務異常，部分裝置可能出現連線或登入失敗，另可能導致部分Linux虛擬機器無法存取Windows主機共用資料夾",
-        "source": "iThome資安"
+        "title": "美國加密貨幣監管法案CLARITY Act參議院闖關失敗",
+        "link": "https://www.ithome.com.tw/news/178974",
+        "pubDate": "2026-09-16  11:09:04",
+        "description": "美國參議院周二（9/15）表決加密貨幣監管法案《CLARITY Act》，最終僅獲49票支持、50票反對，未達推進法案所需的60票門檻。法案闖關失敗後，比特幣一度跌破7.5萬美元，以太幣跌逾5%，XRP更重挫逾10%。\nCLARITY Act主要是用來建立美國加密貨幣市場監管架構，包括釐清證券交易委員會（SEC）與商品期貨交易委員會（CFTC）的監管權責，以及加密貨幣業者應遵循的規範，眾議院已於去年7月通過該法案，兩黨經過數月協商仍未取得共識，在參議院被擋了下來。",
+        "source": "iThome"
       },
       {
         "title": "Apple發布iOS 27與iPadOS 27，修補126個資安漏洞",
@@ -52,77 +115,42 @@
         "source": "iThome資安"
       },
       {
-        "title": "歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差",
-        "link": "https://www.ithome.com.tw/news/178953",
-        "pubDate": "2026-09-15 17:21",
-        "description": "歐盟CRA的漏洞與資安事件通報義務正式上路，也讓企業PSIRT的實際應變能力成為焦點，資安院觀察，國內企業近年雖加速建立相關機制，但成熟度仍有落差，相較於設有名為PSIRT的專責團隊，企業真正具備漏洞處理與跨部門協作能力，更具實質意義",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客濫用AI從事網釣，冒充高階主管與ServiceNow向財務人員進行詐騙",
-        "link": "https://www.ithome.com.tw/news/178954",
-        "pubDate": "2026-09-15 16:46",
-        "description": "微軟揭露最新一波利用AI輔助製作釣魚信的發票詐騙活動，攻擊者在8月3日至5日間透過第三方郵件服務寄出逾100萬封郵件，冒充企業執行長及ServiceNow，意圖誘騙財務人員核准近5萬美元款項",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國議會遭到攻擊事故與SonicWall SMA1000漏洞利用活動有關",
-        "link": "https://www.ithome.com.tw/news/178947",
-        "pubDate": "2026-09-15 15:52",
-        "description": "威脅情報公司Hunt.io指出，英國King's Lynn and West Norfolk自治區議會7月下旬遭網路攻擊的事故，很可能與利用SonicWall SMA1000設備重大漏洞CVE-2026-15409活動有關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟發布AI行為準則，要求AI始終接受人類控制",
-        "link": "https://www.ithome.com.tw/news/178943",
-        "pubDate": "2026-09-15 14:54",
-        "description": "微軟AI發布首版《行為準則》草案，要求MAI模型始終接受人類控制，不得抗拒中斷、修正或關閉，也不能自行擴大任務範圍。微軟開放全球18歲以上民眾提出意見，盼透過公眾參與完善AI行為規範",
-        "source": "iThome資安"
-      },
-      {
-        "title": "俄羅斯駭客利用PaperCut資安漏洞，透過AI代理進行大規模攻擊",
-        "link": "https://www.ithome.com.tw/news/178942",
-        "pubDate": "2026-09-15 14:48",
-        "description": "威脅情報公司GreyNoise指出，俄羅斯駭客疑似利用數百個AI代理，透過PaperCut漏洞CVE-2026-82078與CVE-2026-81578，於全球發動大規模入侵行動，近400個組織受害，並在其中12個組織進一步取得網域管理員權限。值得留意的是，臺灣也有受害組織",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月15日，中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣等多個國家",
-        "link": "https://www.ithome.com.tw/news/178941",
-        "pubDate": "2026-09-15 14:48",
-        "description": "資安公司Acronis揭露Gitea重大漏洞CVE-2026-60004的利用活動，中國駭客Red Heron在上述漏洞公開不久後，大規模掃描臺灣等多個國家的Gitea伺服器，並製作自動攻擊框架從事惡意活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "勒索軟體The Gentlemen近期接連鎖定醫療產業，Nutex、Veradigm均向SEC揭露資安事件",
-        "link": "https://www.ithome.com.tw/news/178935",
-        "pubDate": "2026-09-15 13:57",
-        "description": "勒索軟體組織The Gentlemen近期接連將醫療相關業者列入資料外洩網站，其鎖定目標包括醫療設施營運商Nutex Health與電子健康紀錄（EHR）業者Veradigm。目前兩家公司均向美國證券交易委員會（SEC）通報資安事件，其中Veradigm揭露事件源自一家第三方供應商，攻擊者利用從該供應商竊得的憑證，存取Veradigm的API並下載患者個人資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Acronis修補cPanel與WHM備份外掛高風險漏洞，警示已遭攻擊者利用",
-        "link": "https://www.ithome.com.tw/news/178937",
-        "pubDate": "2026-09-15 12:48",
-        "description": "資安與資料保護業者Acronis發布警示，Acronis Backup plugin for cPanel & WHM存在已遭實際利用的安全漏洞，原廠尚未公布CVE編號與技術細節，建議用戶儘速更新",
-        "source": "iThome資安"
-      },
-      {
         "title": "MedTech醫療科技雙周報第53期： 美國組全國聯盟測試心衰竭AI代理，要提供全天候照護",
         "link": "https://www.ithome.com.tw/news/178967",
         "pubDate": "2026-09-15  07:09:10",
         "description": "重點新聞（0901～0915 ）",
         "source": "iThome"
-      },
-      {
-        "title": "數發部主權AI訓練語料庫啟動民間語料徵集，以授權機制鼓勵民間出版內容參與臺灣AI資料基礎",
-        "link": "https://www.ithome.com.tw/news/178952",
-        "pubDate": "2026-09-15  05:09:47",
-        "description": "數發部今天(9/15)宣布啟動「臺灣主權AI訓練語料庫」民間語料徵集行動，從過去以政府公開資料為主，進一步擴大納入民間的出版社、電子書平臺及作家授權作品，希望建立更能反映臺灣語言、文化、歷史與社會脈絡的AI訓練資料。\n數發部表示，臺灣主權AI訓練語料庫自去年底上線，第一階段先以中央及地方政府資料為主要來源，資料集從2千增加至5千個資料集，累積約有22億的Tokens，涵蓋文化、歷史、藝術、旅遊，以及不同的語言，例如臺語、客語，以及未來將涵蓋的原住民語。今天啟動民間語料徵集，象徵語料庫從政府資料階",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "人形機器人終於能拆除鐵籠？Digit 5 靠 360 度動態感測，實現免護欄近距共工",
+        "link": "https://techorange.com/2026/09/16/agility-robotics-solutions-digit-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 12:40:40 +0800",
+        "description": "人形機器人公司 Agility Robotics 發表最新一代人形機器人 Digit 5，在腿部結構、電池與安全系統方面全面升級，強化負載能力與充電效率，主打可在沒有實體安全護欄的環境下與人員近距離協作。Agility Robotics 執行長 Peggy Johnson 表示，Digit 5 是在 Digit 4 於客戶生產現場運作 3 年所累積的經驗與需求基礎上打造。 Digit 5 技能解鎖：包辦拆棧、機台上下料到物料組裝等流程自動化 《The Robot Report》指出，根據 Agi",
+        "source": "TechOrange"
+      },
+      {
+        "title": "不只為了降低 NVIDIA 依賴：算力擴到 14 GW，Meta 為何更需要自研晶片？",
+        "link": "https://techorange.com/2026/09/16/meta-latest-in-house-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 11:51:50 +0800",
+        "description": "Meta 正準備把自研 AI 晶片推向更大規模。根據《Bloomberg》，Meta 最新一代 MTIA 450、代號 Arke，預計 2027 年上半年開始大量部署；下一代 MTIA 500、代號 Astrid，也預計近期一月內完成設計，2027 年底投入資料中心使用。兩款晶片由 Broadcom 協助設計、台積電負責製造。 但這次更值得注意的，不只是 Meta 又推出新晶片，而是當 AI 資料中心一路擴張到 GW 規模後，連一顆晶片多出 30% 的成本，都開始變得難以接受。 Meta 工程副",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Universal Robots 發表 Gen 7：專為工業自動化與實體 AI 部署打造的全新平台",
+        "link": "https://techorange.com/2026/09/16/universal-robots-gen7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 11:07:35 +0800",
+        "description": "從控制器到工具法蘭全面重新設計，全新 Gen 7 機器人平台開箱即可支援 AI，為企業提供現代化軟體工具與新一代連接能力，協助企業有信心地將 AI 從實驗室導入工業現場。 今日於 IMTS 工具機展，Teradyne Robotics 旗下公司 Universal Robots（UR），亦即協作型工業機器人的原創者與全球領導製造商，正式發表 Gen 7 第七代機器人平台。 Gen 7 是一次整合式系統升級，進一步提升操作人員、工程師與系統整合商經常使用的機器人使用體驗。以 PolyScope X",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 代理入侵事件連環爆，美國靠人才市場逼資安長扛責，歐洲靠法規讓董事會負責",
+        "link": "https://techorange.com/2026/09/16/cisos-go-to-boardroom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 16 Sep 2026 10:24:06 +0800",
+        "description": "一場發生在 7 月的 AI 代理人入侵事件，重新定義企業資安長的角色分量，不只讓薪酬水漲船高，更把這個原本偏技術性的職位，推進董事會權力核心。 美國：市場正把資安長推進董事會 OpenAI 的 AI 代理今年 7 月從沙箱（sandbox，讓程式在隔離環境中執行、避免影響外部系統的技術機制）逃逸，入侵開源 AI 社群平台 Hugging Face，事件由 OpenAI 證實，但並非主動揭露。這起事件讓資安長（CISO）躍升為董事會層級要職，合格候選人薪酬甚至衝上七位數美元。 教育服務公司 ETS",
+        "source": "TechOrange"
+      },
       {
         "title": "工程師尋料不必再翻文件、追著業務問，3M 用 Agentic AI 重寫工作流程",
         "link": "https://techorange.com/2026/09/16/3m-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -199,37 +227,23 @@
         "pubDate": "Tue, 15 Sep 2026 10:50:52 +0800",
         "description": "AI 發展是不是該慢下來，這幾天迅速成為科技業焦點。Anthropic 執行長 Dario Amodei 呼籲降低前沿模型能力進步速度，OpenAI 執行長 Sam Altman、xAI 創辦人 Elon Musk 隨後表態支持；但從政府、晶片商到資本市場的反應來看，要讓整個 AI 產業一起踩煞車並不容易。 就在這波爭論升溫之際，微軟 AI 在 9 月 14 日公布 37 頁《Humanist AI Code of Conduct》（人本 AI 行為準則）草案，準備作為未來自家 AI 模型 MA",
         "source": "TechOrange"
-      },
-      {
-        "title": "當技術走出實驗室，台灣科研如何撐起產業韌性？直擊 2026 台灣創博會（tie）四大亮點",
-        "link": "https://techorange.com/2026/09/15/tie-2026-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 10:02:26 +0800",
-        "description": "當 AI 成為各行各業的共同語言，真正的挑戰不再是技術本身，而是它能否在真實環境中穩定運作。 2026 台灣創新技術博覽會（tie）以「AI 賦能創新｜永續邁向未來」為主軸，於 9 月 17 日至 19 日在台北世貿一館登場。展會以四大主題館串起從基礎科研、跨部會計畫到專利商品化的完整產業鏈，集結跨部會與學研能量，將散落在各領域的研發成果推向產業落地的最後一哩路，能夠在同一個場域中，看見臺灣創新從實驗室走向產業、走向國際的全貌。 創新經濟館｜AI 落地百工百業 由經濟部產發署召集技術司、中企署、",
-        "source": "TechOrange"
-      },
-      {
-        "title": "程式開發已成流水線，Warp 推開箱即用「軟體工廠」替小企業打造 AI 代理開發環境",
-        "link": "https://techorange.com/2026/09/15/warp-out-of-box-software-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 09:26:42 +0800",
-        "description": "Warp 推出 Warp Factories 一套試圖讓建立、營運軟體工廠，變得盡可能簡單的全新系統，其完整架構讓企業開箱即用，配合 AI 代理讓每個步驟於未來實現輕鬆自動化。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【AI 代理進駐採購】談判、比價、續約評估都交給機器，B2B 銷售規則被迫重寫",
-        "link": "https://techorange.com/2026/09/15/buyer-is-an-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 09:26:18 +0800",
-        "description": "2021 年，全球最大貨櫃航運公司 Maersk 開始讓 AI 直接替公司談生意，它導入新創公司 Pactum 的 AI 代理，與超過 50 家承運商自主協商航線價格、運輸義務與付款條件。這套系統從聯繫供應商、進行多輪談判，一路做到協議確認，整個過程不需要人工介入。 最後，AI 與承運商達成協議的比例達到 96%——在與人類談判員進行的對照測試中，相同航線談到的價格更低了 22%。企業採購的「對手」已經改變。 代理式 AI 進駐採購流程，已非少數個案 麥肯錫在 2025 年 11 月發布的全球 ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "BMW、TOYOTA、賓士都在做：人形機器人進車廠，比的不是誰更像人",
-        "link": "https://techorange.com/2026/09/15/bmw-toyota-hyundai-mercedes-benz-humanoid-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 06:00:00 +0800",
-        "description": "汽車產業的自動化正迎來全新的轉型階段。過去數十年，工業手臂已全面普及於焊接、塗膠與零件搬運等固定工序；如今，包含 BMW、TOYOTA、Mercedes-Benz 與 Hyundai 等汽車巨頭，更開始在既有產線中引進具備「類人型態」與靈活移動能力的 AI 機器人，嘗試接手原本由人工負責的搬運、取放與組裝工作。 積極佈局的領頭羊：BMW 在這波浪潮中，BMW 是態度最為積極的車廠之一。在美洲市場，BMW 早在南卡羅來納州的 Spartanburg 工廠引進了 Figure 的人形機器人。2025",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
+        "pubDate": "Wed, 16 Sep 2026 11:18:28 +0530",
+        "description": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs.\n\n\"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary f",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Active Exploitation Attempts Target WSO2 API Manager JWT Bypass With Forged Admin Tokens",
+        "link": "https://thehackernews.com/2026/09/active-exploitation-attempts-target.html",
+        "pubDate": "Wed, 16 Sep 2026 10:48:06 +0530",
+        "description": "A critical security flaw in WSO2 API Manager has come under active exploitation in the wild, according to findings from watchTowr.\n\nThe vulnerability, tracked as CVE-2026-5430 (CVSS score: 9.8/10.0), is a case of improper verification of a cryptograp",
+        "source": "TheHackerNews"
+      },
       {
         "title": "KREMLIN Banking Malware Hijacks Chrome and Edge to Steal Credentials and Session Tokens",
         "link": "https://thehackernews.com/2026/09/kremlin-banking-malware-hijacks-chrome.html",
@@ -355,20 +369,6 @@
         "pubDate": "Tue, 15 Sep 2026 04:40:20 -0400",
         "description": "Microsoft has confirmed that copy and paste may silently fail for some Excel users after installing the September 2026 KB5002914 security update. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Cisco patches Secure Email Gateway zero-day exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/new-cisco-secure-email-zero-day-exploited-to-execute-commands-as-root/",
-        "pubDate": "Tue, 15 Sep 2026 03:31:09 -0400",
-        "description": "Cisco warned customers to patch a critical Secure Email Gateway zero-day security flaw that threat actors have been exploiting in attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "New DDRop Attack Breaks Intel TDX and AMD SEV-SNP Confidential Computing",
-        "link": "https://thehackernews.com/2026/09/new-ddrop-attack-breaks-intel-tdx-and.html",
-        "pubDate": "Mon, 14 Sep 2026 23:32:13 +0530",
-        "description": "Researchers have disclosed a new hardware attack, called DDRop, that breaks the memory protection in Intel and AMD confidential computing by silently dropping writes to a server's memory, so the processor keeps reading old encrypted data as if it wer",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -478,6 +478,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "The Boox Palma 3 gets stylus support and a sleek redesign",
+        "link": "https://www.theverge.com/tech/995826/boox-palma-3-e-ink-reader-pocket-smartphone-android-16",
+        "pubDate": "2026-09-15T22:00:00-04:00",
+        "description": "Nearly two years after the last update to Boox's smartphone-sized black-and-white e-reader, the company announced the Palma 3 with a sleek redesign, new functionality, and a handful of other small updates that may justify its significant price bump d",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The EOS R8 Mark II is Canon’s lightest full-frame camera with stabilization",
+        "link": "https://www.theverge.com/tech/995430/canon-eos-r8-mark-11-full-frame-digital-camera-pricing-availability",
+        "pubDate": "2026-09-15T21:00:00-04:00",
+        "description": "Canon announced the second-generation of its EOS R8 with a new retro-inspired redesign and the addition of in-body stabilization. That feature was one of the most notable omissions from the original R8 that launched in 2023 as a smaller, cheaper, and",
+        "source": "TheVerge"
+      },
+      {
+        "title": "AI and data centers are incredibly unpopular in every poll",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
+        "pubDate": "2026-09-15T19:34:25-04:00",
+        "description": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of ",
+        "source": "TheVerge"
+      },
+      {
         "title": "Microsoft announces Windows and Surface event for October 7th",
         "link": "https://www.theverge.com/news/994714/microsoft-windows-surface-event-october-7-san-francisco",
         "pubDate": "2026-09-15T16:36:59-04:00",
@@ -490,30 +511,39 @@
         "pubDate": "2026-09-15T16:13:30-04:00",
         "description": "Two years ago, social psychologist Jonathan Haidt released his New York Times bestseller The Anxious Generation. The book posits that the rise of social media and smartphone use is largely to blame for the prominent decline in teen mental health sinc",
         "source": "TheVerge"
-      },
-      {
-        "title": "Kia’s electric van lineup is getting more interesting with reveal of PV7",
-        "link": "https://www.theverge.com/transportation/995608/kia-pv7-electric-van-specs-sale",
-        "pubDate": "2026-09-15T14:39:44-04:00",
-        "description": "You may not know it, but minivans are making a comeback in the US. Look around, and you'll start to notice an uptick in these breadboxes on wheels. Sales were up 21 percent in 2025, suggesting that the humble minivan is shaking off its \"uncool\" stigm",
-        "source": "TheVerge"
-      },
-      {
-        "title": "One of the best 3D printers for beginners is almost $100 off",
-        "link": "https://www.theverge.com/gadgets/995518/elegoo-3d-printer-switch-joy-con-deal-sale",
-        "pubDate": "2026-09-15T14:02:30-04:00",
-        "description": "If the high price tag of premium 3D printers have kept you from exploring the hobby, this deal is a great entry point. Elegoo has its Centauri Carbon 2 Combo on sale for $369, almost $100 off its usual price of $449. This capable 3D printer can handl",
-        "source": "TheVerge"
-      },
-      {
-        "title": "How The Oregon Trail became a generational icon",
-        "link": "https://www.theverge.com/podcast/995432/how-the-oregon-trail-became-a-generational-icon",
-        "pubDate": "2026-09-15T12:18:10-04:00",
-        "description": "Whether you played it in the back of your classroom or on your computer at home, if you were a kid in the last 30 years you almost certainly grew up playing The Oregon Trail. On the season 5 premiere of Version History, our fearless wagon leader Davi",
-        "source": "TheVerge"
       }
     ],
     "cve": [
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260916",
+        "pubDate": "Wed, 16 Sep 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260916",
+        "pubDate": "Wed, 16 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
+      },
+      {
+        "title": "Oracle Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260916",
+        "pubDate": "Wed, 16 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Oracle Products"
+      },
       {
         "title": "Adobe Monthly Security Update (September 2026)",
         "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2026-_20260909",
@@ -543,26 +573,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Fortinet Products"
-      },
-      {
-        "title": "Microsoft Monthly Security Update (September 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-september-2026-_20260909",
-        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Monthly Security Update (September 2026)"
-      },
-      {
-        "title": "Mozilla Firefox Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20260909",
-        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Firefox Denial of Service Vulnerability"
       },
       {
         "title": "Apple Products Multiple Vulnerabilities",
@@ -615,16 +625,6 @@
         "products": "Palo Alto Products"
       },
       {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260910",
-        "pubDate": "Thu, 10 Sep 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
-      },
-      {
         "title": "Citrix Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260910",
         "pubDate": "Thu, 10 Sep 2026 09:00:00 +0800",
@@ -653,16 +653,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions"
-      },
-      {
-        "title": "Aruba Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20260907",
-        "pubDate": "Mon, 07 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Aruba Products"
       }
     ]
   }
