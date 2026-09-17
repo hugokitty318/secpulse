@@ -1,7 +1,70 @@
 {
-  "ts": "2026-09-17T01:40:41.141277Z",
+  "ts": "2026-09-17T06:39:45.191430Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "DDRop攻擊手法利用DDR5記憶體寫入機制弱點，突破Intel TDX與AMD SEV-SNP機密運算防護",
+        "link": "https://www.ithome.com.tw/news/179025",
+        "pubDate": "2026-09-17 13:07",
+        "description": "研究人員以低成本DDR5記憶體攔截器丟棄寫入命令，讓機密運算環境讀取過時資料，並在實驗中取得受保護虛擬機器記憶體資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科修補已遭利用的ISE滿分身分驗證繞過漏洞",
+        "link": "https://www.ithome.com.tw/news/179024",
+        "pubDate": "2026-09-17 13:06",
+        "description": "思科修補身分識別與存取控制服務平臺ISE重大漏洞CVE-2026-76460，攻擊者可用於對ISE系統進行未經授權存取，CVSS嚴重程度達到10分",
+        "source": "iThome資安"
+      },
+      {
+        "title": "因中東戰事受創的AWS巴林與阿聯資料中心，部分資料確認無法復原",
+        "link": "https://www.ithome.com.tw/news/179018",
+        "pubDate": "2026-09-17 11:54",
+        "description": "巴林多個可用區同時受損超出設計承受範圍，阿聯則有一個可用區無法恢復，凸顯雲端平臺的分散式高可用性架構仍存在極限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科ISE、Acronis網頁主機管理平臺備份工具漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179017",
+        "pubDate": "2026-09-17 11:52",
+        "description": "美國網路安全與基礎設施安全局（CISA）更新已遭利用漏洞名單（KEV），新增思科ISE漏洞CVE-2026-76460、Acronis網頁主機管理平臺備份工具漏洞CVE-2026-87886",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Acronis揭露cPanel和Plesk備份外掛漏洞",
+        "link": "https://www.ithome.com.tw/news/179016",
+        "pubDate": "2026-09-17 11:36",
+        "description": "針對Acronis專為網頁主機管理平臺cPanel及WHM打造的備份外掛出現零時差漏洞，本週Acronis公布漏洞編號為CVE-2026-87886，並指出他們為另一個平臺Plesk打造的備份工具，也存在相同弱點，用戶應儘速套用更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA將Google Pixel零時差漏洞列入KEV",
+        "link": "https://www.ithome.com.tw/news/179014",
+        "pubDate": "2026-09-17 10:57",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，本週Google修補Pixel數據機元件的零時差漏洞CVE-2026-58704，已遭到積極利用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Windows Server 2022將於10月結束主流支援，安全更新仍持續至2031年",
+        "link": "https://www.ithome.com.tw/news/179013",
+        "pubDate": "2026-09-17 10:55",
+        "description": "2026年10月13日起，Windows Server 2022將進入延伸支援，不再提供新功能及一般非資安更新，但仍免費提供每月資安修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI建立AI模型失準揭露機制，公布6起最新案例",
+        "link": "https://www.ithome.com.tw/news/179012",
+        "pubDate": "2026-09-17 10:49",
+        "description": "過去6個月OpenAI發現的6起案例，包括模型試圖隱瞞錯誤、擅自使用外洩API金鑰，以及未經授權將檔案上傳至公開網站",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google修補已遭利用的Pixel漏洞",
+        "link": "https://www.ithome.com.tw/news/179011",
+        "pubDate": "2026-09-17 10:25",
+        "description": "本週Google發布Pixel手機系統9月份例行更新，其中存在於數據機元件的高風險權限提升漏洞CVE-2026-58704，疑似出現針對特定目標的漏洞利用活動",
+        "source": "iThome資安"
+      },
       {
         "title": "西班牙爆發首起因AI代理人攻擊造成的個資外洩",
         "link": "https://www.ithome.com.tw/news/179006",
@@ -10,17 +73,17 @@
         "source": "iThome資安"
       },
       {
-        "title": "駭客濫用Google Docs發動ClickFix攻擊，同時鎖定Windows與macOS",
-        "link": "https://www.ithome.com.tw/news/178945",
-        "pubDate": "2026-09-17 08:00",
-        "description": "資安業者Huntress揭露ClickFix攻擊活動，攻擊者濫用Google Docs與Google Apps Script引導使用者執行命令或下載惡意程式，同時鎖定Windows與macOS",
-        "source": "iThome資安"
-      },
-      {
         "title": "Kiteworks併購Bonfy.AI，補強AI代理資料安全控管",
         "link": "https://www.ithome.com.tw/news/178903",
         "pubDate": "2026-09-17 08:00",
         "description": "Kiteworks併購AI資料安全新創Bonfy.AI，將敏感資料辨識與政策執行能力納入既有平臺，讓企業在AI助理與AI代理存取或傳輸資料時，也能依資料內容與使用情境即時判斷是否允許傳輸",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客濫用Google Docs發動ClickFix攻擊，同時鎖定Windows與macOS",
+        "link": "https://www.ithome.com.tw/news/178945",
+        "pubDate": "2026-09-17 08:00",
+        "description": "資安業者Huntress揭露ClickFix攻擊活動，攻擊者濫用Google Docs與Google Apps Script引導使用者執行命令或下載惡意程式，同時鎖定Windows與macOS",
         "source": "iThome資安"
       },
       {
@@ -45,94 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "BengalSEO鎖定Bing搜尋結果，透過SEO投毒散布惡意軟體MayaBot",
-        "link": "https://www.ithome.com.tw/news/178999",
-        "pubDate": "2026-09-16 18:47",
-        "description": "攻擊者偽造技術支援與軟體下載網頁誘騙使用者，透過多重跳轉及流量分流系統投遞惡意程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "澳洲警方逮捕涉及駭客組織TeamPCP的攻擊者，牽連逾千個組織的軟體供應鏈攻擊",
-        "link": "https://www.ithome.com.tw/news/178998",
-        "pubDate": "2026-09-16 18:14",
-        "description": "兩名男子被控參與TeamPCP大規模網路犯罪，涉及竊取50萬組憑證及300GB資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "金融木馬Kremlin偽造瀏覽器完整性檢查，企圖竊取巴西銀行用戶憑證",
-        "link": "https://www.ithome.com.tw/news/178989",
-        "pubDate": "2026-09-16 16:54",
-        "description": "金融木馬Kremlin鎖定巴西銀行與金融機構而來，並突破瀏覽器的防護機制，於受害電腦的瀏覽器植入惡意延伸套件，藉此竊取瀏覽器資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資源有限的中小企業如何盤點CRA準備缺口？ENISA推出SME成熟度評估模型",
-        "link": "https://www.ithome.com.tw/news/178981",
-        "pubDate": "2026-09-16 16:54",
-        "description": "面對CRA帶來的資安要求，中小企業該從何處著手？ENISA近日在啟用CRA單一通報平臺（SRP）之際，特別提及今年7月發布的「中小企業網路韌性成熟度評估模型」，模型從5大領域出發，可協助中小企業盤點因應CRA所需的產品資安實務，找出需要改善之處",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客利用資料分析工具Marimo重大漏洞從事攻擊，8秒完成竊取AWS憑證與SSH主機橫向移動",
-        "link": "https://www.ithome.com.tw/news/178988",
-        "pubDate": "2026-09-16 16:44",
-        "description": "資安公司Sysdig發現新一波利用Python資料分析工具Marimo漏洞CVE-2026-39987的活動，但過往相關的漏洞利用活動最大不同，攻擊者全程以手動操作，並以極為迅速的步調完成整個攻擊流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "另一名相信AI可能殺死人類的研究人員自Google離職",
-        "link": "https://www.ithome.com.tw/news/178986",
-        "pubDate": "2026-09-16 15:14",
-        "description": "Google DeepMind前研究工程師Bilal Chughtai表示，AI能力進步速度已遠超對齊研究，甚至可能威脅人類生存，呼籲AI業界停止競逐、放慢發展速度並提高透明度",
-        "source": "iThome資安"
-      },
-      {
-        "title": "黃仁勳反對新增AI監管，與Anthropic、OpenAI立場分歧",
-        "link": "https://www.ithome.com.tw/news/178985",
-        "pubDate": "2026-09-16 15:09",
-        "description": "Nvidia執行長黃仁勳公開反對新增AI監管，認為AI安全是工程問題，而非法律問題，業者若無法確保產品安全就應自行放慢腳步",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟CRA單一報告平臺上線，漏洞與事故通報管道正式啟用",
-        "link": "https://www.ithome.com.tw/news/178979",
-        "pubDate": "2026-09-16 15:01",
-        "description": "歐盟CRA的漏洞與重大資安事件通報義務於9月11日正式上路，歐盟網路安全局（ENISA）同步啟用單一通報平臺（SRP），讓製造商可透過單一入口完成CRA通報，並將相關資訊提供給歐盟相關主管機關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月16日，歐盟CRA通報義務上路，臺灣廠商建置PSIRT升溫，資安院提醒成熟度仍有落差",
-        "link": "https://www.ithome.com.tw/news/178984",
-        "pubDate": "2026-09-16 14:46",
-        "description": "歐盟CRA的漏洞與資安事件通報義務正式上路，也讓企業PSIRT的實際應變能力成為焦點，資安院觀察，國內企業近年雖加速建立相關機制，但成熟度仍有落差，相較於是否設置PSIRT專責團隊，企業真正具備漏洞處理與跨部門協作能力，更具實質意義",
-        "source": "iThome資安"
-      },
-      {
-        "title": "不只等人下指令！國泰金測試AI數位同事，能長期記憶、主動推進任務",
-        "link": "https://www.ithome.com.tw/news/179000",
-        "pubDate": "2026-09-16  07:09:36",
-        "description": "國泰金控在第七屆技術年會中，首度揭露實測中的新型態AI工作模式，比AI代理更主動，又能長期協作的「數位同事」。國泰金控第三代接班人國泰金控副董事長蔡宗翰更首度登臺，揭露他所瞄準的集團未來科技發展方向。\n蔡宗翰回顧集團數位轉型的初衷，他指出，一開始是為了讓總部更了解顧客、聽見顧客的聲音，隨著科技的進步，開始可以運用數位管道來接觸顧客，理解顧客的需求，而不是「為了數位而數位」。",
+        "title": "Anthropic整合Claude Chat與Cowork，AI自行決定如何完成任務",
+        "link": "https://www.ithome.com.tw/news/179021",
+        "pubDate": "2026-09-17  12:09:58",
+        "description": "Anthropic周三（9/16）宣布整合Claude Chat與Cowork，未來使用者不必再選擇一般聊天或Cowork工作模式，只要向Claude提出需求，系統就會自行判斷如何完成任務。新功能將於未來幾周率先開放Pro與Max方案使用。",
         "source": "iThome"
       },
       {
-        "title": "達梭系統：AI結合模擬可縮短產品開發，與正新橡膠聯手推動輪胎研發智慧化",
-        "link": "https://www.ithome.com.tw/news/178997",
-        "pubDate": "2026-09-16  06:09:39",
-        "description": "生成式AI逐漸走入製造業，不過在工程研發領域，AI的角色並非取代工程師，而是結合模擬（Simulation）與工程知識，加快產品設計與驗證流程。達梭系統（Dassault Systèmes）SIMULIA執行長Michelle Ash表示，目前工業AI仍處於發展初期，其真正的價值在於協助處理高複雜度工程模擬，縮短產品開發時間；目前達梭系統與國內的正新橡膠合作，將AI逐步導入輪胎研發流程。",
+        "title": "Google強化Gemini Enterprise成本管控，新增隨用隨付計費與專案支出上限",
+        "link": "https://www.ithome.com.tw/news/179015",
+        "pubDate": "2026-09-17  11:09:28",
+        "description": "Google Cloud近期為企業AI平臺Gemini Enterprise新增計費與成本控制方式，除了既有依使用者席次訂閱的方案，也新增隨用隨付（Pay-as-you-go）計費、彈性節省方案，以及專案層級每月支出上限功能，協助企業管理AI代理及相關AI工具的使用成本。",
         "source": "iThome"
       },
       {
-        "title": "AI原生新創成為獨角獸時間減半？下一步Physical AI考驗模型之外的護城河",
-        "link": "https://www.ithome.com.tw/news/178990",
-        "pubDate": "2026-09-16  05:09:21",
-        "description": "AI正在加快新創公司的成長速度。過去一家新創成長為估值10億美元的獨角獸，通常需要約7年；根據一份針對AI原生新創業者的研究，在理想成長條件下，部分AI原生新創達到相同估值所需的時間，可能縮短至3.5年。\nAWS在2026年6月發布的全球新創趨勢報告，調查20個國家的3,413名新創創辦人及高階主管。報告指出，AI原生新創的平均年營收成長率達156%，高於整體新創的65%；其中55%的AI原生新創，每名員工可創造超過40萬美元營收，顯示這類公司可能用約過去一半的人力，支撐相近規模的業務產出。",
-        "source": "iThome"
-      },
-      {
-        "title": "Salesforce與Nvidia合推CRM模型Koa",
-        "link": "https://www.ithome.com.tw/news/178987",
-        "pubDate": "2026-09-16  04:09:54",
-        "description": "CRM巨擘本周宣布和Nvidia合作開發專門用於客戶關係管理(CRM)的",
+        "title": "歐盟執委會提出《兒童法案》，擬禁止13歲以下使用社交媒體",
+        "link": "https://www.ithome.com.tw/news/179026",
+        "pubDate": "2026-09-17  01:09:02",
+        "description": "歐盟執委會（European Commission，EC）主席馮德萊恩（Ursula von der Leyen）周三（9/16）發表年度演說時宣布，執委會將提出《歐盟兒童法案》（EU KIDS ACT），針對未成年人使用社交媒體建立分齡管制制度，包括禁止13歲以下兒童使用社交媒體，且15歲以下不得擁有個人帳號。",
         "source": "iThome"
       }
     ],
@@ -394,7 +387,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+        "title": "Al Gore says the real AI risk isn’t data centers",
         "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
         "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
         "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
@@ -471,25 +464,32 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Hackers publish thousands of drivers’ data after breaching Florida motor vehicle database",
-        "link": "https://techcrunch.com/2026/09/16/hackers-publish-thousands-of-drivers-data-after-breaching-florida-motor-vehicle-database/",
-        "pubDate": "Wed, 16 Sep 2026 18:00:54 +0000",
-        "description": "The ShinyHunters gang leaked the files online after saying the Florida state agency did not pay their ransom demand.",
+        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
+        "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
+        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
+        "description": "Treble's voice simulation platform is used by voice AI model developers, AI wearable, and robotics companies",
         "source": "TechCrunch"
       },
       {
-        "title": "Your AI agents can now control your Google Home devices",
-        "link": "https://techcrunch.com/2026/09/16/your-ai-agents-can-now-control-your-google-home-devices/",
-        "pubDate": "Wed, 16 Sep 2026 17:00:00 +0000",
-        "description": "Google is launching early access to a new MCP server for Google Home, allowing AI agents like Claude, ChatGPT, and others to control connected devices, review camera summaries, and access smart home activity using natural language.",
+        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
+        "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
+        "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. R",
         "source": "TechCrunch"
       },
       {
         "title": "Snap tries to make the case again for its $2,200 smart glasses",
         "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
         "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
-        "description": "Snap unveiled new features for its smart glasses this week.",
+        "description": "Since Specs' debut earlier this year, Snap has clearly been looking for an opportunity to explain why the smart glasses deserve to exist.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "The streamers are fighting over Halloween",
+        "link": "https://www.theverge.com/entertainment/996314/tiff-2026-halloween-streaming-below-crystal-lake-yaga-carrie",
+        "pubDate": "2026-09-16T23:00:00-04:00",
+        "description": "The Toronto International Film Festival is a place to go to see the future of film, but this year it also provided a glimpse at what is coming very soon in the realm of streaming. Four different streamers - Peacock, Netflix, Amazon, and AMC - all pre",
+        "source": "TheVerge"
       },
       {
         "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
@@ -517,13 +517,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
         "pubDate": "2026-09-16T16:40:46-04:00",
         "description": "E-waste from the AI boom has been vastly underestimated, a new report warns. By 2050, it could become enough trash to fill 23 million shipping containers - roughly enough 40-foot containers to circle the world six times if lined up in a row. It's a s",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Resident Evil is a comedy first and a thrilling nightmare second",
-        "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
-        "pubDate": "2026-09-16T14:45:35-04:00",
-        "description": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical fa",
         "source": "TheVerge"
       }
     ],
@@ -567,16 +560,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Adobe Monthly Security Update (September 2026)"
-      },
-      {
-        "title": "Android Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20260909",
-        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Android"
       },
       {
         "title": "Apple Products Multiple Vulnerabilities",
