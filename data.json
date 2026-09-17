@@ -1,7 +1,49 @@
 {
-  "ts": "2026-09-16T23:14:20.989168Z",
+  "ts": "2026-09-17T01:40:41.141277Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "西班牙爆發首起因AI代理人攻擊造成的個資外洩",
+        "link": "https://www.ithome.com.tw/news/179006",
+        "pubDate": "2026-09-17 09:33",
+        "description": "攻擊者使用搭載知名LLM的AI代理發動攻擊，代理取得系統存取權限後，進一步自主尋找應用程式漏洞，最終修改個人資料並存取發票",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客濫用Google Docs發動ClickFix攻擊，同時鎖定Windows與macOS",
+        "link": "https://www.ithome.com.tw/news/178945",
+        "pubDate": "2026-09-17 08:00",
+        "description": "資安業者Huntress揭露ClickFix攻擊活動，攻擊者濫用Google Docs與Google Apps Script引導使用者執行命令或下載惡意程式，同時鎖定Windows與macOS",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Kiteworks併購Bonfy.AI，補強AI代理資料安全控管",
+        "link": "https://www.ithome.com.tw/news/178903",
+        "pubDate": "2026-09-17 08:00",
+        "description": "Kiteworks併購AI資料安全新創Bonfy.AI，將敏感資料辨識與政策執行能力納入既有平臺，讓企業在AI助理與AI代理存取或傳輸資料時，也能依資料內容與使用情境即時判斷是否允許傳輸",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國政府單一登入服務擴大推行通行金鑰，逾2,300萬人可使用",
+        "link": "https://www.ithome.com.tw/news/178973",
+        "pubDate": "2026-09-17 08:00",
+        "description": "英國政府擴大通行金鑰使用範圍，逾2,300萬名GOV.UK One Login使用者可透過指紋、臉部辨識或PIN碼解鎖通行金鑰，登入政府服務時不必再輸入密碼及安全驗證碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WSO2重大JWT身分驗證漏洞出現攻擊嘗試，成功利用可能造成帳號接管",
+        "link": "https://www.ithome.com.tw/news/179005",
+        "pubDate": "2026-09-17 08:00",
+        "description": "WSO2重大JWT身分驗證漏洞CVE-2026-5430已出現攻擊嘗試，成功利用可能洩露API憑證甚至造成帳號接管",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CenterPoint Energy證實客戶資料外洩，攻擊者宣稱取得749萬筆紀錄",
+        "link": "https://www.ithome.com.tw/news/178970",
+        "pubDate": "2026-09-17 08:00",
+        "description": "美國能源公用事業業者CenterPoint Energy證實客戶資料外洩，未經授權第三方經由對外系統擷取部分客戶個資。攻擊者宣稱取得749萬筆紀錄，並指向公開API防護不足",
+        "source": "iThome資安"
+      },
       {
         "title": "BengalSEO鎖定Bing搜尋結果，透過SEO投毒散布惡意軟體MayaBot",
         "link": "https://www.ithome.com.tw/news/178999",
@@ -63,48 +105,6 @@
         "link": "https://www.ithome.com.tw/news/178984",
         "pubDate": "2026-09-16 14:46",
         "description": "歐盟CRA的漏洞與資安事件通報義務正式上路，也讓企業PSIRT的實際應變能力成為焦點，資安院觀察，國內企業近年雖加速建立相關機制，但成熟度仍有落差，相較於是否設置PSIRT專責團隊，企業真正具備漏洞處理與跨部門協作能力，更具實質意義",
-        "source": "iThome資安"
-      },
-      {
-        "title": "泰國大型寬頻網路供應商3BB疑似遭滲透，駭客濫用遠端管理工具MeshCentral控制內部設備",
-        "link": "https://www.ithome.com.tw/news/178982",
-        "pubDate": "2026-09-16 14:28",
-        "description": "泰國大型寬頻網路公司3BB（Triple T Broadband）驚傳遭到入侵，威脅情報公司Hunt.io藉由駭客不慎暴露的公開資料夾發現此事，並指出駭客為了能持續存取該公司內部環境，濫用遠端管理工具MeshCentral建置存取管道",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Oracle發布9月例行更新，修補672個資安弱點",
-        "link": "https://www.ithome.com.tw/news/178980",
-        "pubDate": "2026-09-16 14:03",
-        "description": "本週Oracle發布9月份關鍵安全修補更新（CSPU），共發布673個更新程式、修補672個資安漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "VPN服務商Surfshark內部測試伺服器遭駭，未波及用戶資料",
-        "link": "https://www.ithome.com.tw/news/178978",
-        "pubDate": "2026-09-16 12:32",
-        "description": "配置錯誤導致測試用伺服器暴露網際網路，攻擊者取得Surfshark部分內部工程資料及建置憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "HBO Max的社群網站Reddit帳號遭挾持，用於ClickFix攻擊推送惡意軟體",
-        "link": "https://www.ithome.com.tw/news/178977",
-        "pubDate": "2026-09-16 12:30",
-        "description": "網釣攻擊手法ClickFix出現新的變形，攻擊者事先入侵HBO Max的社群網站Reddit帳號，藉此推送惡意廣告，向Windows與macOS用戶散布惡意程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "祖克柏談AI安全，各家業者應自行確保模型安全",
-        "link": "https://www.ithome.com.tw/news/178976",
-        "pubDate": "2026-09-16 12:16",
-        "description": "Meta執行長祖克柏談AI安全，認為各家AI實驗室都有責任及誘因確保模型安全，必要時應自行放慢開發步調，而非要求其他業者同步跟進",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla發布Firefox 156，修補73個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/178975",
-        "pubDate": "2026-09-16 11:55",
-        "description": "Firefox 瀏覽器修補Graphics、CanvasWebGL與Widget等元件漏洞，以邊界條件、記憶體安全與權限提升問題占多數",
         "source": "iThome資安"
       },
       {
@@ -229,17 +229,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "IBM 攜手百商數位科技，加速 LinuxONE 落地台灣金融交易市場",
-        "link": "https://techorange.com/2026/09/15/ibm-mdbs-linuxone-speedyone/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 14:00:00 +0800",
-        "description": "面對金融科技快速發展與數位轉型加速，金融交易系統承擔的任務日益複雜。除了追求交易處理速度，金融機構還必須同時確保系統穩定、資訊安全、資產防護與服務不中斷，並因應交易量成長及新金融商品推出，持續擴充運算資源。 然而，許多金融機構過去為避免現貨、期貨、權證、造市等不同交易業務相互影響，普遍採用「一套交易系統搭配一台實體主機」的分散式架構。隨著業務增加，機房內的伺服器與機櫃數量也不斷擴張，逐漸產生設備規格不一致、運算資源分配不均、軟體版本管理複雜，以及維護人力負擔增加等問題。 為協助金融機構改善既有架",
+        "title": "勞斯萊斯用代理式 AI 大改造 IT：MTTR 從 6 天砍到 1 天、38,000 張工單自動分流",
+        "link": "https://techorange.com/2026/09/17/ai-control-tower-rolls-royce-servicenow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 17 Sep 2026 06:38:00 +0800",
+        "description": "對航空引擎製造商而言，IT 系統異常影響的不只是員工能否順利工作，更直接牽動生產線的運作效率。英國航空引擎巨頭勞斯萊斯（Rolls-Royce）近年將代理式 AI（Agentic AI）與預測性智慧導入企業 IT 服務，打破長期累積的系統複雜度、資料孤島與重複性工作。 據官方案例顯示，這項轉型已將平均修復時間（MTTR）從 6 天縮短至 1 天，54% 的 IT 查詢無須人工介入，單是在生產現場（Shop floor）就釋放了約 30 萬小時生產力。 打破轉型瓶頸：先做資料清理與治理，再推動員工",
         "source": "TechOrange"
       },
       {
-        "title": "INFINITIX 成功導入韓國國家級智慧製造創新中心 SMIC",
-        "link": "https://techorange.com/2026/09/15/infinitix-smic-aidc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 15 Sep 2026 13:55:06 +0800",
-        "description": "打造多租戶 AI 共享算力平台，加速智慧製造研發與實證落地。 AI 基礎設施軟體廠商數位無限（INFINITIX）今日宣布，旗下企業級 AI 基礎設施管理平台 AI-Stack 已導入韓國智慧製造創新中心（Smart Manufacturing Innovation Center, SMIC），協助建置多租戶 AI 共享算力平台，支援多位研究人員、多專案並行進行模型開發、訓練與驗證。此案也是台灣自主研發 AI 基礎設施軟體首度進入韓國國家級智慧製造實證場域，展現 INFINITIX 在軟體定義 ",
+        "title": "【科技早餐】OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元",
+        "link": "https://techorange.com/2026/09/17/openai-pre-ipo-funding-1-2-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 17 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元 《金融時報》引述知情人士報導，OpenAI 最近與大型投資人接觸，討論在上市前進行新一輪募資，潛在估值約為 1.2 兆美元。相關對話仍處初期，且由投資人主動發起，募資規模尚未確定，估值也可能在未來幾個月改變；OpenAI 拒絕評論。公司今年 3 月完成一輪包含 1,220 億美元承諾資本的募資，投資後估值為 8,520 億美元；若新估值成真，約半年內將提高 40.8%。 《金融時報》指",
         "source": "TechOrange"
       }
     ],
@@ -257,6 +257,13 @@
         "pubDate": "Wed, 16 Sep 2026 20:57:49 +0530",
         "description": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by N",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Anthropic wants Claude to analyze your bank account and financial data",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
+        "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400",
+        "description": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
@@ -376,16 +383,23 @@
         "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400",
         "description": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Windows Server 2022 reaches end of mainstream support next month",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-next-month/",
-        "pubDate": "Wed, 16 Sep 2026 05:10:20 -0400",
-        "description": "Microsoft has reminded customers that Windows Server 2022 will reach the end of mainstream support next month and enter extended support until October 2031. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Musk’s long-time backer is giving SpaceX stock to its investors",
+        "link": "https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/",
+        "pubDate": "Wed, 16 Sep 2026 23:50:07 +0000",
+        "description": "Valor Equity Partners is handing out stock to its LPs instead of cash returns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Al Gore has a surprisingly calm take on the AI data center backlash",
+        "link": "https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/",
+        "pubDate": "Wed, 16 Sep 2026 23:43:09 +0000",
+        "description": "In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.",
+        "source": "TechCrunch"
+      },
       {
         "title": "US automakers could soon be forced to include AM radio for free",
         "link": "https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/",
@@ -471,25 +485,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic merges Claude chat and Cowork in one interface",
-        "link": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/",
-        "pubDate": "Wed, 16 Sep 2026 16:30:00 +0000",
-        "description": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "title": "Snap tries to make the case again for its $2,200 smart glasses",
+        "link": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+        "pubDate": "Thu, 17 Sep 2026 00:58:49 +0000",
+        "description": "Snap unveiled new features for its smart glasses this week.",
         "source": "TechCrunch"
       },
       {
-        "title": "How Fortell is using AI (and $163M) to crack a hearing aid monopoly",
-        "link": "https://techcrunch.com/video/how-fortell-is-using-ai-and-163m-to-crack-a-hearing-aid-monopoly/",
-        "pubDate": "Wed, 16 Sep 2026 16:00:00 +0000",
-        "description": "“Why do I have to beg my grandparents to put on their hearing aids, but no one has ever needed to ask me to put on my glasses?”  That’s the question that drove Matthew de Jonge to spend six years building Fortell, an AI hearing aid startup that recen",
-        "source": "TechCrunch"
+        "title": "Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac",
+        "link": "https://www.theverge.com/tech/996078/snap-specs-intelligence-ai-agent-ios-mac",
+        "pubDate": "2026-09-16T19:40:00-04:00",
+        "description": "Snap is introducing \"Specs Intelligence,\" a new AI assistant that can connect other digital accounts to help you with things like work tasks and keeping track of travel information. It seems similar to AI assistants like Meta's Muse and Gemini's Spar",
+        "source": "TheVerge"
       },
       {
-        "title": "May Mobility is going public in a $1.4B SPAC deal",
-        "link": "https://techcrunch.com/2026/09/16/may-mobility-is-going-public-in-a-1-4b-spac-deal/",
-        "pubDate": "Wed, 16 Sep 2026 15:27:13 +0000",
-        "description": "The deal could net the asset-light robotaxi company more than $300 million in funding.",
-        "source": "TechCrunch"
+        "title": "I wore Snap’s $2,200 smart glasses",
+        "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+        "pubDate": "2026-09-16T19:40:00-04:00",
+        "description": "My favorite part of wearing the Specs, Snap's new augmented reality glasses, was playing dominoes. Sitting across the table from a Snap employee wearing the same pair of chunky glasses, I could select a virtual domino with a pinch and then move my ha",
+        "source": "TheVerge"
       },
       {
         "title": "The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/entertainment/996416/resident-zach-cregger-review",
         "pubDate": "2026-09-16T14:45:35-04:00",
         "description": "When Paul W.S. Anderson's Resident Evil hit theaters in 2002, video game movies were largely seen as a niche. Films like Mortal Kombat and Tomb Raider had proven that big-screen game adaptations could be successful, but the commercial and critical fa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Walmart takes a bite off the cost of Metroid Ravenous physical preorders",
-        "link": "https://www.theverge.com/gadgets/996379/metroid-ravenous-preorder-deal-sale",
-        "pubDate": "2026-09-16T14:20:38-04:00",
-        "description": "The Metroid series is going back to its 2D roots again with Metroid Ravenous for the Nintendo Switch 2, the first side-scrolling game in the series since 2021’s Metroid Dread for the Nintendo Switch. If you’re already excited enough to consider preor",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple might make servers again to cash in on the AI rush",
-        "link": "https://www.theverge.com/tech/996321/apple-servers-ai-nvidia",
-        "pubDate": "2026-09-16T13:20:29-04:00",
-        "description": "According to The Information, Apple is planning to get back into the server game and might just pair up with Nvidia to make it happen. Apple retired its Xserve line in 2011 and has largely left enterprise machines to other manufacturers since. But th",
         "source": "TheVerge"
       }
     ],
@@ -579,16 +579,6 @@
         "products": "Android"
       },
       {
-        "title": "Fortinet Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20260909",
-        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Fortinet Products"
-      },
-      {
         "title": "Apple Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260915",
         "pubDate": "Tue, 15 Sep 2026 11:00:00 +0800",
@@ -617,6 +607,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access"
+      },
+      {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260917",
+        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Products"
       },
       {
         "title": "MongoDB Multiple Vulnerabilities",
