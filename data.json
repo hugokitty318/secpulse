@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-17T16:55:56.800414Z",
+  "ts": "2026-09-17T20:17:56.604189Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令",
+        "link": "https://www.ithome.com.tw/news/179036",
+        "pubDate": "2026-09-18 01:31",
+        "description": "Issabel PBX存在硬編碼簽章金鑰可能導致攻擊者偽造權杖問題，Shadowserver已發現攻擊活動，使用者須儘速修補",
+        "source": "iThome資安"
+      },
       {
         "title": "勿盲目追逐頂尖AI模型，F5亞太技術長籲企業打好雲端原生基礎、聚焦控制與一致性",
         "link": "https://www.ithome.com.tw/news/179020",
@@ -10,10 +17,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "資安業者揭露北韓駭客組織Lazarus區分六大群組展開攻擊活動",
+        "title": "資安業者揭露北韓駭客組織Lazarus新演進，拆分六大群組展開攻擊活動",
         "link": "https://www.ithome.com.tw/news/179034",
         "pubDate": "2026-09-17 18:46",
-        "description": "研究人員指出北韓將網路攻擊能力分散至間諜、金融竊盜及假冒IT人員等不同團隊，活動範圍遍及政府、金融、科技與加密貨幣產業",
+        "description": "研究人員指出北韓將網路攻擊能力分散至不同團隊，各自側重網路間諜、金融竊盜及假冒IT人員等活動，範圍遍及政府、金融、科技與加密貨幣產業",
         "source": "iThome資安"
       },
       {
@@ -94,17 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "CenterPoint Energy證實客戶資料外洩，攻擊者宣稱取得749萬筆紀錄",
-        "link": "https://www.ithome.com.tw/news/178970",
+        "title": "WSO2重大JWT身分驗證漏洞出現攻擊嘗試，成功利用可能造成帳號接管",
+        "link": "https://www.ithome.com.tw/news/179005",
         "pubDate": "2026-09-17 08:00",
-        "description": "美國能源公用事業業者CenterPoint Energy證實客戶資料外洩，未經授權第三方經由對外系統擷取部分客戶個資。攻擊者宣稱取得749萬筆紀錄，並指向公開API防護不足",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國政府單一登入服務擴大推行通行金鑰，逾2,300萬人可使用",
-        "link": "https://www.ithome.com.tw/news/178973",
-        "pubDate": "2026-09-17 08:00",
-        "description": "英國政府擴大通行金鑰使用範圍，逾2,300萬名GOV.UK One Login使用者可透過指紋、臉部辨識或PIN碼解鎖通行金鑰，登入政府服務時不必再輸入密碼及安全驗證碼",
+        "description": "WSO2重大JWT身分驗證漏洞CVE-2026-5430已出現攻擊嘗試，成功利用可能洩露API憑證甚至造成帳號接管",
         "source": "iThome資安"
       },
       {
@@ -112,13 +112,6 @@
         "link": "https://www.ithome.com.tw/news/179021",
         "pubDate": "2026-09-17  12:09:58",
         "description": "Anthropic周三（9/16）宣布整合Claude Chat與Cowork，未來使用者不必再選擇一般聊天或Cowork工作模式，只要向Claude提出需求，系統就會自行判斷如何完成任務。新功能將於未來幾周率先開放Pro與Max方案使用。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google強化Gemini Enterprise成本管控，新增隨用隨付計費與專案支出上限",
-        "link": "https://www.ithome.com.tw/news/179015",
-        "pubDate": "2026-09-17  11:09:28",
-        "description": "Google Cloud近期為企業AI平臺Gemini Enterprise新增計費與成本控制方式，除了既有依使用者席次訂閱的方案，也新增隨用隨付（Pay-as-you-go）計費、彈性節省方案，以及專案層級每月支出上限功能，協助企業管理AI代理及相關AI工具的使用成本。",
         "source": "iThome"
       },
       {
@@ -140,6 +133,13 @@
         "link": "https://www.ithome.com.tw/news/179029",
         "pubDate": "2026-09-17  03:09:22",
         "description": "Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型脈絡協定（Model Context Protocol，MCP），讓Claude、OpenClaw等第三方AI代理人在取得使用者授權後，可透過MCP存取Google Home平臺，取得智慧家庭裝置資訊及事件紀錄，並控制連接至Google",
+        "source": "iThome"
+      },
+      {
+        "title": "環境部公布我國ETS推動時程，2028年啟動總量管制排放交易試行",
+        "link": "https://www.ithome.com.tw/news/179027",
+        "pubDate": "2026-09-17  02:09:02",
+        "description": "環境部本周揭示臺灣碳定價制度的下一階段規畫，將在現行碳費制度基礎上，逐步導入總量管制及排放交易制度（Emissions Trading System，ETS），採取碳費與ETS雙軌並行模式。今年底先提出ETS試行計畫草案，明年持續完成制度整備及企業參與準備，並在2028年正式啟動臺灣ETS試行為目標。\n環境部長彭啓明表示，臺灣於2025年正式實施碳費制度，並已完成首次徵收，建立了碳定價基礎。相較於碳費採固定價格機制，ETS則是先設定整體排放總量，再透過市場交易形成碳價，更能將企業減碳責任與國家減",
         "source": "iThome"
       }
     ],
@@ -343,20 +343,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Webinar: What happens in the first hours of a Google Workspace breach",
-        "link": "https://www.bleepingcomputer.com/news/security/webinar-what-happens-in-the-first-hours-of-a-google-workspace-breach/",
-        "pubDate": "Wed, 16 Sep 2026 08:11:19 -0400",
-        "description": "The first hours after discovering a Google Workspace breach can determine how an incident unfolds. This webinar examines real-world breaches to show which early response decisions can limit the impact and which can make matters worse. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Critical ScreenConnect flaw now actively exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-critical-screenconnect-flaw/",
-        "pubDate": "Wed, 16 Sep 2026 07:14:28 -0400",
-        "description": "Attackers now exploit a critical-severity ConnectWise ScreenConnect vulnerability in the wild, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
         "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
         "pubDate": "Thu, 17 Sep 2026 18:00:00 +0530",
@@ -390,9 +376,65 @@
         "pubDate": "Thu, 17 Sep 2026 15:23:38 +0530",
         "description": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI details more cases of AI agents taking unauthorized actions",
+        "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
+        "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
+        "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
+        "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
+        "pubDate": "Thu, 17 Sep 2026 13:30:29 +0530",
+        "description": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (D",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "UN turns to Google to make its global data ready for AI agents",
+        "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
+        "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
+        "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
+        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+        "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
+        "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
+        "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
+        "pubDate": "Thu, 17 Sep 2026 18:30:30 +0000",
+        "description": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Even the king of England has his hesitations about AI",
+        "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
+        "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
+        "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
+        "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
+        "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
+        "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
+        "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
+        "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
+        "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+        "source": "TechCrunch"
+      },
       {
         "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
         "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
@@ -457,46 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Lucid Motors has a potential robotaxi partner for Europe",
-        "link": "https://techcrunch.com/2026/09/17/lucid-motors-has-a-potential-robotaxi-partner-for-europe/",
-        "pubDate": "Thu, 17 Sep 2026 13:26:32 +0000",
-        "description": "The company is partnering with mobility platform Bolt -- but no vehicle orders have been placed just yet.",
-        "source": "TechCrunch"
+        "title": "The AI Superintelligence Slowdown",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
+        "pubDate": "2026-09-17T15:28:24-04:00",
+        "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of l",
+        "source": "TheVerge"
       },
       {
-        "title": "How Bain Capital Ventures plans to deploy its fresh $1.6B fund",
-        "link": "https://techcrunch.com/2026/09/17/how-bain-capital-ventures-plans-to-deploy-its-fresh-1-6b-fund/",
-        "pubDate": "Thu, 17 Sep 2026 12:57:46 +0000",
-        "description": "BCV's latest fund targets early-stage founders harnessing AGI and building the infrastructure to run it efficiently.",
-        "source": "TechCrunch"
+        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
+        "pubDate": "2026-09-17T14:58:05-04:00",
+        "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project h",
+        "source": "TheVerge"
       },
       {
-        "title": "Spotify expands its partner program for podcasts to 35 new countries",
-        "link": "https://techcrunch.com/2026/09/17/spotify-expands-its-partner-program-for-podcasts-to-35-new-countries/",
-        "pubDate": "Thu, 17 Sep 2026 12:00:00 +0000",
-        "description": "Spotify said since changing its video podcasts creator terms in January, its payouts have increased by more than a third.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Comp AI sets eyes on a continuously agentic future for security and compliance",
-        "link": "https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/",
-        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0000",
-        "description": "Comp AI, a cybersecurity and compliance startup, announced a $34 million Series A round led by Roo Capital and Grand Ventures.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Iceland-based Treble raises $18 million for its voice simulation platform",
-        "link": "https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/",
-        "pubDate": "Thu, 17 Sep 2026 05:00:00 +0000",
-        "description": "Treble's voice simulation platform is used by voice AI model developers and AI wearable and robotics companies,",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Your startup’s next teammate might be an AI agent: Gusto, Insight Partners, and Leland explain what that changes at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/16/your-startups-next-teammate-might-be-an-ai-agent-gusto-insight-partners-and-leland-explain-what-that-changes-at-techcrunch-disrupt-2026/",
-        "pubDate": "Thu, 17 Sep 2026 03:30:00 +0000",
-        "description": "This session will explore how early-stage companies are building teams where humans and AI agents work alongside each other — and how founders can do that without sacrificing speed, accountability, or culture. Learn more at TechCrunch Disrupt 2026. R",
-        "source": "TechCrunch"
+        "title": "Save $30 or more on a refurbished Apple TV 4K",
+        "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+        "pubDate": "2026-09-17T13:14:07-04:00",
+        "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model",
+        "source": "TheVerge"
       },
       {
         "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
         "pubDate": "2026-09-17T11:00:00-04:00",
         "description": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for p",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Your robotaxi might be a narc",
-        "link": "https://www.theverge.com/transportation/996863/robotaxi-waymo-police-privacy-surveillance",
-        "pubDate": "2026-09-17T11:00:00-04:00",
-        "description": "In early September, two teenagers got into a Waymo, but then ended up in the back of a police car. The robotaxi company said it detected \"a violation of our terms of service involving a firearm,\" pulled the car over, and alerted emergency services, a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
-        "link": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
-        "pubDate": "2026-09-17T10:00:00-04:00",
-        "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation.  It should come as no surprise that Mustafa has strong opinions o",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AI is feared globally as the destroyer of jobs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/996775/ai-is-feared-globally-as-the-destroyer-of-jobs",
-        "pubDate": "2026-09-17T10:00:00-04:00",
-        "description": "Pew Research has published a new global survey that sheds light on how people view AI, including its impact on jobs, life in general, and income inequality. The survey questioned 42,151 people across 37 countries from February 8th to May 13th - well ",
         "source": "TheVerge"
       }
     ],
