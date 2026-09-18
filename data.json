@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T21:41:07.946149Z",
+  "ts": "2026-09-18T23:35:00.074757Z",
   "tabs": {
     "cn_sec": [
       {
@@ -187,10 +187,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "勞斯萊斯用代理式 AI 大改造 IT：MTTR 從 6 天砍到 1 天、38,000 張工單自動分流",
-        "link": "https://techorange.com/2026/09/17/ai-control-tower-rolls-royce-servicenow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 17 Sep 2026 06:38:00 +0800",
-        "description": "對航空引擎製造商而言，IT 系統異常影響的不只是員工能否順利工作，更直接牽動生產線的運作效率。英國航空引擎巨頭勞斯萊斯（Rolls-Royce）近年將代理式 AI（Agentic AI）與預測性智慧導入企業 IT 服務，打破長期累積的系統複雜度、資料孤島與重複性工作。 據官方案例顯示，這項轉型已將平均修復時間（MTTR）從 6 天縮短至 1 天，54% 的 IT 查詢無須人工介入，單是在生產現場（Shop floor）就釋放了約 30 萬小時生產力。 打破轉型瓶頸：先做資料清理與治理，再推動員工",
+        "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
+        "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 19 Sep 2026 06:29:00 +0800",
+        "description": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業，占比也超過 75%。受訪者的層級包含 33.7% 的董事會成員與總經理、38.8% 的部門主管，以",
         "source": "TechOrange"
       },
       {
@@ -394,6 +394,34 @@
     ],
     "en_tech": [
       {
+        "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
+        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
+        "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
+        "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic is operating a lab that conducts biology experiments",
+        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
+        "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
+        "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hallucination nearly triggers US military operation",
+        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
+        "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
+        "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+        "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
+        "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Automattic names interim CFO after exec departures",
         "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
         "pubDate": "Fri, 18 Sep 2026 20:25:22 +0000",
@@ -404,7 +432,7 @@
         "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
         "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
         "pubDate": "Fri, 18 Sep 2026 20:24:33 +0000",
-        "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+        "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
         "source": "TechCrunch"
       },
       {
@@ -468,34 +496,6 @@
         "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
         "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
         "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "FBI, Coast Guard boarded hacked oil tankers heading toward US coast",
-        "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
-        "pubDate": "Fri, 18 Sep 2026 15:44:09 +0000",
-        "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
-        "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
-        "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
-        "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
-        "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
-        "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
-        "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
-        "pubDate": "Fri, 18 Sep 2026 15:22:16 +0000",
-        "description": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your  entire bed is the cool side.",
         "source": "TechCrunch"
       },
       {
