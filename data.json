@@ -1,7 +1,42 @@
 {
-  "ts": "2026-09-17T23:04:46.667489Z",
+  "ts": "2026-09-18T01:15:24.916855Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
+        "link": "https://www.ithome.com.tw/news/179035",
+        "pubDate": "2026-09-18 08:00",
+        "description": "微軟9月Windows 11安全性更新出現相容性問題，部分加入AD網域的裝置可能無法登入Windows，問題與Machine Identity Isolation強制模式有關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
+        "link": "https://www.ithome.com.tw/news/179002",
+        "pubDate": "2026-09-18 08:00",
+        "description": "NIST發布權杖與身分聲明防護指引IR 8587，提供聯邦機關與雲端服務供應商相關實作建議，並涵蓋工作負載身分、AI代理及PQC轉型等安全考量",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Gartner提出政府科技發展趨勢，聚焦AI代理治理與PQC整備",
+        "link": "https://www.ithome.com.tw/news/179004",
+        "pubDate": "2026-09-18 08:00",
+        "description": "隨著AI代理從試驗走向較大規模部署，政府不只要調整治理架構與營運模式，也得因應持續變化的資安環境，包括建立PQC整備計畫，並將密碼學敏捷性納入資安策略",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
+        "link": "https://www.ithome.com.tw/news/179001",
+        "pubDate": "2026-09-18 08:00",
+        "description": "義大利物聯網資安業者Exein取得2.7億美元新一輪融資，估值達17億美元。隨著AI逐漸導入機器人、無人機及車輛等實體設備，Exein正將資安技術延伸至實體AI領域",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增DCSync偵測方法",
+        "link": "https://www.ithome.com.tw/news/179003",
+        "pubDate": "2026-09-18 08:00",
+        "description": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增利用RPC活動偵測DCSync的方法，協助企業從網域複寫紀錄找出異常行為；同時納入Shadow Credentials攻擊手法及防護措施，強化AD環境的入侵偵測",
+        "source": "iThome資安"
+      },
       {
         "title": "Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令",
         "link": "https://www.ithome.com.tw/news/179036",
@@ -73,48 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Windows Server 2022將於10月結束主流支援，安全更新仍持續至2031年",
-        "link": "https://www.ithome.com.tw/news/179013",
-        "pubDate": "2026-09-17 10:55",
-        "description": "2026年10月13日起，Windows Server 2022將進入延伸支援，不再提供新功能及一般非資安更新，但仍免費提供每月資安修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI建立AI模型失準揭露機制，公布6起最新案例",
-        "link": "https://www.ithome.com.tw/news/179012",
-        "pubDate": "2026-09-17 10:49",
-        "description": "過去6個月OpenAI發現的6起案例，包括模型試圖隱瞞錯誤、擅自使用外洩API金鑰，以及未經授權將檔案上傳至公開網站",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google修補已遭利用的Pixel漏洞",
-        "link": "https://www.ithome.com.tw/news/179011",
-        "pubDate": "2026-09-17 10:25",
-        "description": "本週Google發布Pixel手機系統9月份例行更新，其中存在於數據機元件的高風險權限提升漏洞CVE-2026-58704，疑似出現針對特定目標的漏洞利用活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "西班牙爆發首起因AI代理人攻擊造成的個資外洩",
-        "link": "https://www.ithome.com.tw/news/179006",
-        "pubDate": "2026-09-17 09:33",
-        "description": "攻擊者使用搭載知名LLM的AI代理發動攻擊，代理取得系統存取權限後，進一步自主尋找應用程式漏洞，最終修改個人資料並存取發票",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WSO2重大JWT身分驗證漏洞出現攻擊嘗試，成功利用可能造成帳號接管",
-        "link": "https://www.ithome.com.tw/news/179005",
-        "pubDate": "2026-09-17 08:00",
-        "description": "WSO2重大JWT身分驗證漏洞CVE-2026-5430已出現攻擊嘗試，成功利用可能洩露API憑證甚至造成帳號接管",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic整合Claude Chat與Cowork，AI自行決定如何完成任務",
-        "link": "https://www.ithome.com.tw/news/179021",
-        "pubDate": "2026-09-17  12:09:58",
-        "description": "Anthropic周三（9/16）宣布整合Claude Chat與Cowork，未來使用者不必再選擇一般聊天或Cowork工作模式，只要向Claude提出需求，系統就會自行判斷如何完成任務。新功能將於未來幾周率先開放Pro與Max方案使用。",
-        "source": "iThome"
-      },
-      {
         "title": "中華電信GSN IDC新機房啟用，政府服務開始分階段搬移，預期2027年全面移轉",
         "link": "https://www.ithome.com.tw/news/179032",
         "pubDate": "2026-09-17  06:09:50",
@@ -140,6 +133,13 @@
         "link": "https://www.ithome.com.tw/news/179027",
         "pubDate": "2026-09-17  02:09:02",
         "description": "環境部本周揭示臺灣碳定價制度的下一階段規畫，將在現行碳費制度基礎上，逐步導入總量管制及排放交易制度（Emissions Trading System，ETS），採取碳費與ETS雙軌並行模式。今年底先提出ETS試行計畫草案，明年持續完成制度整備及企業參與準備，並在2028年正式啟動臺灣ETS試行為目標。\n環境部長彭啓明表示，臺灣於2025年正式實施碳費制度，並已完成首次徵收，建立了碳定價基礎。相較於碳費採固定價格機制，ETS則是先設定整體排放總量，再透過市場交易形成碳價，更能將企業減碳責任與國家減",
+        "source": "iThome"
+      },
+      {
+        "title": "歐盟執委會提出《兒童法案》，擬禁止13歲以下使用社交媒體",
+        "link": "https://www.ithome.com.tw/news/179026",
+        "pubDate": "2026-09-17  01:09:02",
+        "description": "歐盟執委會（European Commission，EC）主席馮德萊恩（Ursula von der Leyen）周三（9/16）發表年度演說時宣布，執委會將提出《歐盟兒童法案》（EU KIDS ACT），針對未成年人使用社交媒體建立分齡管制制度，包括禁止13歲以下兒童使用社交媒體，且15歲以下不得擁有個人帳號。",
         "source": "iThome"
       }
     ],
@@ -394,6 +394,27 @@
     ],
     "en_tech": [
       {
+        "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
+        "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
+        "pubDate": "Thu, 17 Sep 2026 23:25:52 +0000",
+        "description": "The round values the data center giant at $30.9 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google DeepMind launches institute to widen the AGI debate",
+        "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
+        "pubDate": "Thu, 17 Sep 2026 23:21:17 +0000",
+        "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon-owned Zoox’s 100-robotaxi limit in Nevada is about to disappear",
+        "link": "https://techcrunch.com/2026/09/17/amazon-owned-zooxs-100-robotaxi-limit-in-nevada-is-about-to-disappear/",
+        "pubDate": "Thu, 17 Sep 2026 23:08:24 +0000",
+        "description": "An updated permit shows the 100-cap will expire later this month just as competition in Las Vegas heats up.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "PrismML hopes its tiny LLM will change how we all use AI",
         "link": "https://techcrunch.com/2026/09/17/prismml-hopes-its-tiny-llm-could-change-how-we-all-use-ai/",
         "pubDate": "Thu, 17 Sep 2026 22:34:09 +0000",
@@ -471,31 +492,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026 Side Events schedule: NMI, Backblaze, PeakXV Partners, Augment, and more to host",
-        "link": "https://techcrunch.com/2026/09/17/techcrunch-disrupt-2026-side-events-schedule-nmi-backblaze-peakxv-partners-augment-and-more-to-host/",
-        "pubDate": "Thu, 17 Sep 2026 16:34:36 +0000",
-        "description": "TechCrunch Disrupt is where the tech community comes together to build, debate, and connect. And while the main event takes over Moscone West from October 13-15, the conversation doesn’t stop when the Expo Hall closes.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple will let EU apps use less-alarming tracking-consent screens",
-        "link": "https://techcrunch.com/2026/09/17/apple-will-let-eu-apps-use-less-alarming-tracking-consent-screens/",
-        "pubDate": "Thu, 17 Sep 2026 16:09:58 +0000",
-        "description": "Apple is changing its App Tracking Transparency prompts in parts of Europe after competition regulators said the system favored Apple over third-party apps, giving developers more flexibility over how they ask users for tracking consent.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Roku’s new Labs hub brings experimental apps to the big screen",
-        "link": "https://techcrunch.com/2026/09/17/rokus-new-labs-hub-brings-experimental-apps-to-the-big-screen/",
-        "pubDate": "Thu, 17 Sep 2026 15:50:29 +0000",
-        "description": "Roku’s latest OS update introduces Roku Labs, a new hub for experimental apps, alongside personalized home screens in more markets, streaming subscription bundles, and more.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Last call: Disrupt volunteer application closes soon",
-        "link": "https://techcrunch.com/2026/09/17/last-call-disrupt-volunteer-application-closes-soon/",
-        "pubDate": "Thu, 17 Sep 2026 15:02:00 +0000",
-        "description": "If you've been on the fence about volunteering at TechCrunch Disrupt 2026, this is your sign to stop deliberating and start applying.",
+        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+        "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
+        "pubDate": "Fri, 18 Sep 2026 00:02:36 +0000",
+        "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
         "source": "TechCrunch"
       },
       {
