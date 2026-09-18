@@ -1,19 +1,47 @@
 {
-  "ts": "2026-09-18T01:15:24.916855Z",
+  "ts": "2026-09-18T06:37:56.933533Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
-        "link": "https://www.ithome.com.tw/news/179035",
-        "pubDate": "2026-09-18 08:00",
-        "description": "微軟9月Windows 11安全性更新出現相容性問題，部分加入AD網域的裝置可能無法登入Windows，問題與Machine Identity Isolation強制模式有關",
+        "title": "任天堂修補Switch高風險弱點，鄰近的攻擊者可透過QR Code執行程式碼",
+        "link": "https://www.ithome.com.tw/news/179051",
+        "pubDate": "2026-09-18 13:03",
+        "description": "近期任天堂發布Switch系統更新，修補高風險漏洞CVE-2026-82079，若不處理，攻擊者有機會用來洩漏Switch主機的資訊",
         "source": "iThome資安"
       },
       {
-        "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
-        "link": "https://www.ithome.com.tw/news/179002",
-        "pubDate": "2026-09-18 08:00",
-        "description": "NIST發布權杖與身分聲明防護指引IR 8587，提供聯邦機關與雲端服務供應商相關實作建議，並涵蓋工作負載身分、AI代理及PQC轉型等安全考量",
+        "title": "Docker沙箱環境存在重大漏洞，攻擊者有機會讀取及竄改macOS主機檔案",
+        "link": "https://www.ithome.com.tw/news/179050",
+        "pubDate": "2026-09-18 12:58",
+        "description": "9月上旬Docker發布沙箱環境Docker Sandboxes安全性更新，其中修補的重大漏洞CVE-2026-77179有機會讓攻擊者進行沙箱逃逸，讀取及竄改macOS主機檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Parallels Desktop存在漏洞ParaShells，取得本機帳號的攻擊者能以root執行程式碼",
+        "link": "https://www.ithome.com.tw/news/179045",
+        "pubDate": "2026-09-18 11:09",
+        "description": "本週資安公司JFrog公布Mac虛擬化軟體Parallels Desktop高風險漏洞ParaShells（CVE-2026-90894），並表示該弱點能讓已取得低權限的本機攻擊者得到以root權限執行程式碼的能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "BIND 9修補14個弱點，其中包含可透過DNS-over-HTTPS造成服務中斷的漏洞",
+        "link": "https://www.ithome.com.tw/news/179043",
+        "pubDate": "2026-09-18 10:54",
+        "description": "本週DNS軟體BIND 9發布9.20.29與9.21.26更新，修補14個資安漏洞，其中高風險漏洞CVE-2026-77692較為特別，攻擊者可透過DNS-over-HTTPS（DoH）請求觸發",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Hugging Face事件爆發前有跡象！SentinelOne揭露OpenAI代理人的未授權活動細節",
+        "link": "https://www.ithome.com.tw/news/179042",
+        "pubDate": "2026-09-18 10:47",
+        "description": "OpenAI代理人在Hugging Face的未授權活動出現更多線索。SentinelOne追查公開紀錄，找出可能涉及的兩個帳號，並發現程式寫入、代理伺服器部署及後續提交工具等活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 153更新，修補16個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179041",
+        "pubDate": "2026-09-18 10:07",
+        "description": "本週Google二度發布Chrome 153更新，修補WebGL與Dawn元件的重大漏洞CVE-2026-93372、CVE-2026-93374",
         "source": "iThome資安"
       },
       {
@@ -24,6 +52,20 @@
         "source": "iThome資安"
       },
       {
+        "title": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增DCSync偵測方法",
+        "link": "https://www.ithome.com.tw/news/179003",
+        "pubDate": "2026-09-18 08:00",
+        "description": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增利用RPC活動偵測DCSync的方法，協助企業從網域複寫紀錄找出異常行為；同時納入Shadow Credentials攻擊手法及防護措施，強化AD環境的入侵偵測",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
+        "link": "https://www.ithome.com.tw/news/179002",
+        "pubDate": "2026-09-18 08:00",
+        "description": "NIST發布權杖與身分聲明防護指引IR 8587，提供聯邦機關與雲端服務供應商相關實作建議，並涵蓋工作負載身分、AI代理及PQC轉型等安全考量",
+        "source": "iThome資安"
+      },
+      {
         "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
         "link": "https://www.ithome.com.tw/news/179001",
         "pubDate": "2026-09-18 08:00",
@@ -31,10 +73,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增DCSync偵測方法",
-        "link": "https://www.ithome.com.tw/news/179003",
+        "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
+        "link": "https://www.ithome.com.tw/news/179035",
         "pubDate": "2026-09-18 08:00",
-        "description": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增利用RPC活動偵測DCSync的方法，協助企業從網域複寫紀錄找出異常行為；同時納入Shadow Credentials攻擊手法及防護措施，強化AD環境的入侵偵測",
+        "description": "微軟9月Windows 11安全性更新出現相容性問題，部分加入AD網域的裝置可能無法登入Windows，問題與Machine Identity Isolation強制模式有關",
         "source": "iThome資安"
       },
       {
@@ -43,6 +85,27 @@
         "pubDate": "2026-09-18 01:31",
         "description": "Issabel PBX存在硬編碼簽章金鑰可能導致攻擊者偽造權杖問題，Shadowserver已發現攻擊活動，使用者須儘速修補",
         "source": "iThome資安"
+      },
+      {
+        "title": "美SEC開放股票上鏈交易，推出5年創新豁免",
+        "link": "https://www.ithome.com.tw/news/179049",
+        "pubDate": "2026-09-18  12:09:59",
+        "description": "美國證券交易委員會（SEC）周四（9/17）宣布推出「創新豁免」（Innovation Exemption），允許符合條件的業者建立代幣化證券交易場所（Tokenized Securities Venue，TSV），利用自動做市商（Automated Market Maker，AMM）與流動性池（Liquidity Pool）機制，進行代幣化美國上市股票的鏈上交易。",
+        "source": "iThome"
+      },
+      {
+        "title": "Claude已主導Anthropic 26%的AI研發工作",
+        "link": "https://www.ithome.com.tw/news/179048",
+        "pubDate": "2026-09-18  12:09:57",
+        "description": "Anthropic周四（9/17）公布最新AI發展速度衡量研究，揭露截至今年8月，Claude已能主導Anthropic約26%的AI研發工作，達到「協作」以上程度的工作占比更超過90%。Anthropic同時提出一套衡量前沿AI發展速度的方法，涵蓋AI參與自身研發的程度、人類監督AI代理人的能力，以及研發算力配置等三大面向。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI推出法律業版GPT-6 Astra，可搜尋逾2.3億網址法律資料",
+        "link": "https://www.ithome.com.tw/news/179053",
+        "pubDate": "2026-09-18  01:09:51",
+        "description": "OpenAI周四（9/17）推出法律專用AI Astra for Law，將最新旗艦模型GPT-6 Astra結合法律搜尋索引，以及針對法律分析與寫作設計的專用指令，讓律師事務所與法律科技業者用於法律研究、案件分析、合約審查及法律文件撰寫等工作。\nAstra for Law內建的法律搜尋索引涵蓋超過2.3億個網址，可搜尋美國判例、成文法、行政法規、法院規則及行政機關決定等資料，並每日持續加入新來源。OpenAI也與非營利組織Free Law Project合作，納入CourtListener收錄",
+        "source": "iThome"
       },
       {
         "title": "勿盲目追逐頂尖AI模型，F5亞太技術長籲企業打好雲端原生基礎、聚焦控制與一致性",
@@ -64,83 +127,6 @@
         "pubDate": "2026-09-17 14:46",
         "description": "歐盟CRA的漏洞與重大資安事件通報義務於9月11日正式上路，歐盟網路安全局（ENISA）同步啟用單一通報平臺（SRP），讓製造商可透過單一入口完成CRA通報，並將相關資訊提供給歐盟相關主管機關",
         "source": "iThome資安"
-      },
-      {
-        "title": "Intel與AMD機密運算防護可遭到突破，DDRop攻擊手法利用記憶體寫入機制弱點",
-        "link": "https://www.ithome.com.tw/news/179025",
-        "pubDate": "2026-09-17 13:07",
-        "description": "研究人員以低成本DDR5記憶體攔截器丟棄寫入命令，讓機密運算環境讀取過時資料，並在實驗中取得受保護虛擬機器記憶體資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科修補已遭利用的ISE滿分身分驗證繞過漏洞",
-        "link": "https://www.ithome.com.tw/news/179024",
-        "pubDate": "2026-09-17 13:06",
-        "description": "思科修補身分識別與存取控制服務平臺ISE重大漏洞CVE-2026-76460，攻擊者可用於對ISE系統進行未經授權存取，CVSS嚴重程度達到10分",
-        "source": "iThome資安"
-      },
-      {
-        "title": "因中東戰事受創的AWS巴林與阿聯資料中心，部分資料確認無法復原",
-        "link": "https://www.ithome.com.tw/news/179018",
-        "pubDate": "2026-09-17 11:54",
-        "description": "巴林多個可用區同時受損超出設計承受範圍，阿聯則有一個可用區無法恢復，凸顯雲端平臺的分散式高可用性架構仍存在極限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科ISE、Acronis網頁主機管理平臺備份工具漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179017",
-        "pubDate": "2026-09-17 11:52",
-        "description": "美國網路安全與基礎設施安全局（CISA）更新已遭利用漏洞名單（KEV），新增思科ISE漏洞CVE-2026-76460、Acronis網頁主機管理平臺備份工具漏洞CVE-2026-87886",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Acronis揭露cPanel和Plesk備份外掛漏洞",
-        "link": "https://www.ithome.com.tw/news/179016",
-        "pubDate": "2026-09-17 11:36",
-        "description": "針對Acronis專為網頁主機管理平臺cPanel及WHM打造的備份外掛出現零時差漏洞，本週Acronis公布漏洞編號為CVE-2026-87886，並指出他們為另一個平臺Plesk打造的備份工具，也存在相同弱點，用戶應儘速套用更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA將Google Pixel零時差漏洞列入KEV",
-        "link": "https://www.ithome.com.tw/news/179014",
-        "pubDate": "2026-09-17 10:57",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，本週Google修補Pixel數據機元件的零時差漏洞CVE-2026-58704，已遭到積極利用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中華電信GSN IDC新機房啟用，政府服務開始分階段搬移，預期2027年全面移轉",
-        "link": "https://www.ithome.com.tw/news/179032",
-        "pubDate": "2026-09-17  06:09:50",
-        "description": "政府網際服務網（GSN）基礎設施將進入汰舊換新。中華電信本周宣布完成GSN IDC新機房建置並舉行啟用典禮，後續將承接政府機關相關服務，各機關也將規劃分階段進行系統與服務移轉，預計2027年完成全面移轉。\n數發部表示，GSN IDC新機房建置主要因應政府數位轉型及數位韌性發展需求，同時配合既有機房設施汰舊更新規劃。相較於原有機房環境，新機房將有助提升系統承載能力、營運穩定性及未來擴充彈性，支援政府數位服務持續發展。\nGSN（政府網際服務網）長期提供政府機關網路連線、跨機關資訊交換及數位服務運作的",
-        "source": "iThome"
-      },
-      {
-        "title": "英特爾布局邊緣AI生態系，從零售、製造到交通推動Physical AI落地",
-        "link": "https://www.ithome.com.tw/news/179031",
-        "pubDate": "2026-09-17  05:09:48",
-        "description": "AI發展正在從大型模型訓練階段，逐漸轉向如何讓模型真正進入產業場景。英特爾邊緣運算事業群生態系發展部門總經理杜唯揚表示，過去邊緣運算歷經嵌入式運算、物聯網（IoT）到電腦視覺（Computer Vision）等階段，現在隨著生成式AI、Agentic AI與Physical AI興起，邊緣端將成為AI實際應用的重要環節。\n杜唯揚指出，市場目前並不缺少AI模型，許多企業面臨的是「如何選擇模型，以及如何將模型部署到實際環境」的問題。因此，邊緣AI未來需要的不只是運算能力，而是完整支援感知（Sense",
-        "source": "iThome"
-      },
-      {
-        "title": "Google Home導入MCP，開放第三方AI代理人存取智慧家庭",
-        "link": "https://www.ithome.com.tw/news/179029",
-        "pubDate": "2026-09-17  03:09:22",
-        "description": "Google周三（9/16）宣布，旗下智慧家庭平臺Google Home導入模型脈絡協定（Model Context Protocol，MCP），讓Claude、OpenClaw等第三方AI代理人在取得使用者授權後，可透過MCP存取Google Home平臺，取得智慧家庭裝置資訊及事件紀錄，並控制連接至Google",
-        "source": "iThome"
-      },
-      {
-        "title": "環境部公布我國ETS推動時程，2028年啟動總量管制排放交易試行",
-        "link": "https://www.ithome.com.tw/news/179027",
-        "pubDate": "2026-09-17  02:09:02",
-        "description": "環境部本周揭示臺灣碳定價制度的下一階段規畫，將在現行碳費制度基礎上，逐步導入總量管制及排放交易制度（Emissions Trading System，ETS），採取碳費與ETS雙軌並行模式。今年底先提出ETS試行計畫草案，明年持續完成制度整備及企業參與準備，並在2028年正式啟動臺灣ETS試行為目標。\n環境部長彭啓明表示，臺灣於2025年正式實施碳費制度，並已完成首次徵收，建立了碳定價基礎。相較於碳費採固定價格機制，ETS則是先設定整體排放總量，再透過市場交易形成碳價，更能將企業減碳責任與國家減",
-        "source": "iThome"
-      },
-      {
-        "title": "歐盟執委會提出《兒童法案》，擬禁止13歲以下使用社交媒體",
-        "link": "https://www.ithome.com.tw/news/179026",
-        "pubDate": "2026-09-17  01:09:02",
-        "description": "歐盟執委會（European Commission，EC）主席馮德萊恩（Ursula von der Leyen）周三（9/16）發表年度演說時宣布，執委會將提出《歐盟兒童法案》（EU KIDS ACT），針對未成年人使用社交媒體建立分齡管制制度，包括禁止13歲以下兒童使用社交媒體，且15歲以下不得擁有個人帳號。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -152,52 +138,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "瑞安航空如何把客服從「成本中心」變成策略資產？AI 每天處理 12 萬則對話、8 成免真人介入",
-        "link": "https://techorange.com/2026/09/16/ryanair-ai-customer-chats-without-humans/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 16:43:52 +0800",
-        "description": "歐洲最大的廉航瑞安航空公司（Ryanair）持續擴大 AI 在客服領域的應用。根據 AWS 發布的案例研究，瑞安航空目前每天透過 AI 處理約 12 萬則客服對話，涵蓋 7 種語言，其中約 80% 的對話可在無需人工客服介入的情況下完成。 準確率達 94%、回覆僅需 2.9 秒：瑞安航空導入 AWS 打造 AI 客服系統 瑞安航空這套系統由 AWS 提供雲端與 AI 服務，並與跨國 IT 與雲端技術諮詢公司 Cation Consulting 共同打造，可集中處理行李、退款、訂位及航班異動等主要",
-        "source": "TechOrange"
-      },
-      {
-        "title": "人形機器人終於能拆除鐵籠？Digit 5 靠 360 度動態感測，實現免護欄近距共工",
-        "link": "https://techorange.com/2026/09/16/agility-robotics-solutions-digit-5/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 12:40:40 +0800",
-        "description": "人形機器人公司 Agility Robotics 發表最新一代人形機器人 Digit 5，在腿部結構、電池與安全系統方面全面升級，強化負載能力與充電效率，主打可在沒有實體安全護欄的環境下與人員近距離協作。Agility Robotics 執行長 Peggy Johnson 表示，Digit 5 是在 Digit 4 於客戶生產現場運作 3 年所累積的經驗與需求基礎上打造。 Digit 5 技能解鎖：包辦拆棧、機台上下料到物料組裝等流程自動化 《The Robot Report》指出，根據 Agi",
-        "source": "TechOrange"
-      },
-      {
-        "title": "不只為了降低 NVIDIA 依賴：算力擴到 14 GW，Meta 為何更需要自研晶片？",
-        "link": "https://techorange.com/2026/09/16/meta-latest-in-house-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 11:51:50 +0800",
-        "description": "Meta 正準備把自研 AI 晶片推向更大規模。根據《Bloomberg》，Meta 最新一代 MTIA 450、代號 Arke，預計 2027 年上半年開始大量部署；下一代 MTIA 500、代號 Astrid，也預計近期一月內完成設計，2027 年底投入資料中心使用。兩款晶片由 Broadcom 協助設計、台積電負責製造。 但這次更值得注意的，不只是 Meta 又推出新晶片，而是當 AI 資料中心一路擴張到 GW 規模後，連一顆晶片多出 30% 的成本，都開始變得難以接受。 Meta 工程副",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Universal Robots 發表 Gen 7：專為工業自動化與實體 AI 部署打造的全新平台",
-        "link": "https://techorange.com/2026/09/16/universal-robots-gen7/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 11:07:35 +0800",
-        "description": "從控制器到工具法蘭全面重新設計，全新 Gen 7 機器人平台開箱即可支援 AI，為企業提供現代化軟體工具與新一代連接能力，協助企業有信心地將 AI 從實驗室導入工業現場。 今日於 IMTS 工具機展，Teradyne Robotics 旗下公司 Universal Robots（UR），亦即協作型工業機器人的原創者與全球領導製造商，正式發表 Gen 7 第七代機器人平台。 Gen 7 是一次整合式系統升級，進一步提升操作人員、工程師與系統整合商經常使用的機器人使用體驗。以 PolyScope X",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 代理入侵事件連環爆，美國靠人才市場逼資安長扛責，歐洲靠法規讓董事會負責",
-        "link": "https://techorange.com/2026/09/16/cisos-go-to-boardroom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 10:24:06 +0800",
-        "description": "一場發生在 7 月的 AI 代理人入侵事件，重新定義企業資安長的角色分量，不只讓薪酬水漲船高，更把這個原本偏技術性的職位，推進董事會權力核心。 美國：市場正把資安長推進董事會 OpenAI 的 AI 代理今年 7 月從沙箱（sandbox，讓程式在隔離環境中執行、避免影響外部系統的技術機制）逃逸，入侵開源 AI 社群平台 Hugging Face，事件由 OpenAI 證實，但並非主動揭露。這起事件讓資安長（CISO）躍升為董事會層級要職，合格候選人薪酬甚至衝上七位數美元。 教育服務公司 ETS",
-        "source": "TechOrange"
-      },
-      {
-        "title": "工程師尋料不必再翻文件、追著業務問，3M 用 Agentic AI 重寫工作流程",
-        "link": "https://techorange.com/2026/09/16/3m-agentic-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 06:32:00 +0800",
-        "description": "3M 旗下擁有超過 6 萬種產品，但繁瑣的規格搜尋常成為銷售與研發的隱形阻礙。過去，工程師需要翻閱龐大的規格文件、技術資料，甚至與業務及技術顧問反覆溝通，才能確認產品是否符合需求。當尋找材料本身演變為耗時費力的負擔，企業極可能因無法即時取得資訊，轉而選擇資訊更易取得的競爭品牌。 為此，3M 推出 Agentic AI（代理式 AI）數位助手「Ask 3M」，首階段聚焦於工業膠帶與黏合劑，讓工程師與採購人員能以自然語言進行自主查詢，迅速評估並選購適用的材料。 對接內部技術檔案，打通「搜尋至採購」的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】聯發科首款台積電 2 奈米手機晶片亮相，AI 版圖橫跨終端與資料中心",
-        "link": "https://techorange.com/2026/09/16/mediatek-tsmc-2nm-chip-edge-cloud-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊聯發科首款 2 奈米手機晶片亮相，AI 版圖橫跨終端與雲端 聯發科（MediaTek）發表天璣 9600 Pro 與天璣 9600M，分別鎖定頂級與更廣泛的高階手機市場。9600 Pro 是聯發科首款採用台積電（TSMC）2 奈米製程的手機晶片，9600M 則採用 3 奈米製程。首批搭載兩款晶片的手機即將上市，但聯發科尚未公布合作品牌、機型與確切時間。9600 Pro 也搭載新一代 AI 處理器，可直接在手機執行更複雜的生成式 AI；使用者輸入",
+        "title": "Noetive 募得 4,100 萬美元，讓 AI「自我改進」工廠與物流流程，瞄準實體產業最佳化",
+        "link": "https://techorange.com/2026/09/17/noetive-launches-self-improving-ai-factories-logistics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 17 Sep 2026 18:22:28 +0800",
+        "description": "工業 AI 新創公司 Noetive 近日正式宣布成立，並完成 4,100 萬美元種子輪融資。《SiliconANGLE》報導，Noetive 開發的軟體可學習工廠與物流作業的日常運作模式，協助企業掌握生產線、貨運等實體營運流程。公司表示，目前已有製造、物流、能源及資料中心等產業的設計合作夥伴採用這套系統。 Noetive 專為工廠與物流打造「營運大腦」，望打破跨部門資料孤島 Noetive 執行長 Amir Frenkel 表示，過去多數 AI 產品都是為網際網路上的資訊工作而設計。但工廠與物",
         "source": "TechOrange"
       },
       {
@@ -248,6 +192,48 @@
         "pubDate": "Thu, 17 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元 《金融時報》引述知情人士報導，OpenAI 最近與大型投資人接觸，討論在上市前進行新一輪募資，潛在估值約為 1.2 兆美元。相關對話仍處初期，且由投資人主動發起，募資規模尚未確定，估值也可能在未來幾個月改變；OpenAI 拒絕評論。公司今年 3 月完成一輪包含 1,220 億美元承諾資本的募資，投資後估值為 8,520 億美元；若新估值成真，約半年內將提高 40.8%。 《金融時報》指",
         "source": "TechOrange"
+      },
+      {
+        "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
+        "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 12:49:07 +0800",
+        "description": "由 NVIDIA 擔任 AI 技術協辦單位的 AI 代理邊緣黑客松大賽【2026 Agentic AI on the Edge HACKATHON】將於 10 月底登場，邀請開發者、IT 人員與新創團隊，在低延遲、無網 / 弱網環境、隱私資料保護等邊緣場景中，打造能自主規劃、執行與修正，真正走進現實世界的 Agentic AI。 TechOrange 在會前採訪黑客松主辦單位翰尼斯企業成員暨技術工作坊講師曾吉弘（以下稱阿吉老師）。阿吉老師身為 CAVEDU 教育團隊創辦人、NVIDIA DLI ",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「AI 開發 AI」到底進展多快？Anthropic 首度公布三大衡量指標",
+        "link": "https://techorange.com/2026/09/18/anthropic-measurements-the-pace-of-ai-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 11:57:12 +0800",
+        "description": "AI 發展得太快了嗎？人們越來越擔心，AI 可能很快就會發展成幾乎不需人類干預就能自我發展的地步。Anthropic 執行長 Dario Amodei 近日呼籲前沿 AI 公司討論放慢模型能力進步速度，並主張引入獨立第三方評估者。與此同時，前沿 AI 公司也開始增加外界看見內部風險的方式。 OpenAI 美國時間 9/16 公布新的模型異常行為揭露框架，承諾更有系統地公開模型出現未授權或其他值得關注的行為。但除了出了什麼問題，另一個更根本的問題是：AI 到底正在以多快的速度發展？當 AI 已開始",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI 推 Astra for Law：判例多找 24%、正確率大勝通用模型，法律 AI 開打",
+        "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 10:48:28 +0800",
+        "description": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《SiliconANGLE》指出，Astra for Law 的法律搜尋索引涵蓋美國判例法、成文法、法規、法院",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【洗碗影片＝機器人訓練資料】Figure 砸 10 億美元蒐集真實數據，瞄準家用機器人市場",
+        "link": "https://techorange.com/2026/09/18/figure-index-human-train-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 10:00:31 +0800",
+        "description": "Figure 推出零工經濟平台 Index，透過佩戴攝影機的人類工作者，以影像記錄家事任務，藉此取得大量資料投入人形機器人訓練，並預期支出 10 億美元換取真實世界數據。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
+        "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 06:11:00 +0800",
+        "description": "對擁有數百甚至上千家門市的連鎖品牌而言，Google 與 Yelp 等平台上的顧客評論早已不只是客服工作，更是影響消費者選擇門市、反映線下營運問題的關鍵。然而，隨著展店速度加快，總部若要維持每家分店的評論品質、搜尋曝光與數據分析，傳統的人力維運模式將難以為繼。 生成式 AI 正徹底翻轉這項局限。AI 的角色已從單純「輔助寫作」進化為自主運作的「門市數位代理人」，能直接執行評論維運、在地 SEO 優化、客訴派單與顧客洞察，讓品牌無痛邁向規模化。 回覆率提升至 98%！美髮連鎖品牌靠 AI 代理搞定",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
+        "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Spansion 將重啟 華邦電子（Winbond）宣布，已與英飛凌（Infineon Technologies）旗下 Infineon Technologies LLC 簽署股份購買協議，將以全現金取得英飛凌 NOR Flash 與 F-RAM 事業百分之百股權。基礎交易價格為 11.2 億美元，交割前仍將依股份購買協議調整。這筆交易已獲華邦電董事會核准，預計在 2027 年下半年完成，但仍須",
+        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -259,46 +245,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Three Threat Groups Target Russian Enterprises With Backdoors, Ransomware, and Wipers",
-        "link": "https://thehackernews.com/2026/09/three-threat-groups-target-russian.html",
-        "pubDate": "Wed, 16 Sep 2026 20:57:49 +0530",
-        "description": "Enterprises in Russia have emerged as the target of three threat activity clusters tracked as NightEagle, Hacking Cat, and Toy Ghouls, according to multiple reports from Kaspersky.\n\nThe cybersecurity vendor said it has identified attacks mounted by N",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Anthropic wants Claude to analyze your bank account and financial data",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
         "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400",
         "description": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "One Extension Could Hijack AI Assistants Across Chrome, Comet, Edge, Opera Neon and Claude",
-        "link": "https://thehackernews.com/2026/09/one-extension-could-hijack-ai.html",
-        "pubDate": "Wed, 16 Sep 2026 20:06:44 +0530",
-        "description": "Security researchers at Forever Security have shown that one ordinary browser extension could take control of the AI assistants built into five Chromium-based products: Gemini Live in Chrome, Perplexity Comet, Microsoft Edge, Opera Neon and the Claud",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attacker Hijacks AI Coding Assistant Session, Spreads Shai-Hulud Across About 100 Repositories",
-        "link": "https://thehackernews.com/2026/09/attacker-hijacks-ai-coding-assistant.html",
-        "pubDate": "Wed, 16 Sep 2026 19:07:07 +0530",
-        "description": "Mandiant says an attacker hijacked an active AI coding-assistant session at an unnamed software-as-a-service provider and later spread Shai-Hulud across about 100 internal code repositories.\n\nBefore the repository spread, the assistant recommended so",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Parallels Desktop Flaw Lets Non-Admin Mac Users Gain Root, but Intel Macs Can't Install Fix",
-        "link": "https://thehackernews.com/2026/09/parallels-desktop-flaw-lets-non-admin.html",
-        "pubDate": "Wed, 16 Sep 2026 18:44:05 +0530",
-        "description": "Parallels Desktop for Mac has a flaw that lets an ordinary local account run code as root, the highest level of access on a Mac, software company JFrog said this week.\n\nThe attack needs code already running on the machine as a normal user, so it does",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "N0va Phishkit Targets US and EU Businesses: A New Challenge for Identity Security",
-        "link": "https://thehackernews.com/2026/09/n0va-phishkit-targets-us-and-eu.html",
-        "pubDate": "Wed, 16 Sep 2026 17:28:00 +0530",
-        "description": "N0va is targeting organizations across North America and Europe with phishing campaigns that impersonate trusted services and abuse legitimate authentication flows. Successful attacks can give threat actors access to valid accounts without relying on",
-        "source": "TheHackerNews"
       },
       {
         "title": "Windows 11 KB5124008 update breaks domain trust for some users",
@@ -334,6 +285,34 @@
         "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400",
         "description": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a fa",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
+        "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
+        "pubDate": "Thu, 17 Sep 2026 23:38:28 +0530",
+        "description": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Security Management Server is the system that controls firewal",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
+        "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
+        "pubDate": "Thu, 17 Sep 2026 23:02:22 +0530",
+        "description": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.\n\nThis week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
+        "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
+        "pubDate": "Thu, 17 Sep 2026 21:07:56 +0530",
+        "description": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15.\n\nThe escape runs ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
+        "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
+        "pubDate": "Thu, 17 Sep 2026 19:33:13 +0530",
+        "description": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.\n\n\"HEAVYGRAM offers builtin commands supporting remote command ",
+        "source": "TheHackerNews"
       },
       {
         "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
@@ -390,6 +369,13 @@
         "pubDate": "Thu, 17 Sep 2026 13:30:29 +0530",
         "description": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (D",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
+        "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
+        "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
+        "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -499,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Waymo says Singapore will be its next international robotaxi city",
+        "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
+        "pubDate": "2026-09-17T22:00:00-04:00",
+        "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparati",
+        "source": "TheVerge"
+      },
+      {
         "title": "The AI Superintelligence Slowdown",
         "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
         "pubDate": "2026-09-17T15:28:24-04:00",
@@ -524,13 +517,6 @@
         "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
         "pubDate": "2026-09-17T12:00:00-04:00",
         "description": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing Pla",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Camp Snap’s 110D gives slim retro film cameras a digital upgrade",
-        "link": "https://www.theverge.com/tech/996453/camp-snap-110d-digital-camera-retro-horizontal-kodak-100-film",
-        "pubDate": "2026-09-17T11:00:00-04:00",
-        "description": "Camp Snap is expanding its small collection of screenless digital point-and-shoot cameras with the new pocket-friendly 110D featuring a thin horizontal design first popularized by Kodak film cameras in the 1970s. The Camp Snap 110D is available for p",
         "source": "TheVerge"
       }
     ],
@@ -564,16 +550,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Oracle Products"
-      },
-      {
-        "title": "Adobe Monthly Security Update (September 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-september-2026-_20260909",
-        "pubDate": "Wed, 09 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Adobe Monthly Security Update (September 2026)"
       },
       {
         "title": "Apple Products Multiple Vulnerabilities",
@@ -636,16 +612,6 @@
         "products": "Palo Alto Products"
       },
       {
-        "title": "Citrix Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260910",
-        "pubDate": "Thu, 10 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Citrix Products"
-      },
-      {
         "title": "GitLab Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260914",
         "pubDate": "Mon, 14 Sep 2026 09:00:00 +0800",
@@ -664,6 +630,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions"
+      },
+      {
+        "title": "ISC BIND Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20260918",
+        "pubDate": "Fri, 18 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "ISC BIND"
       }
     ]
   }
