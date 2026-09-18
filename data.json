@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-18T06:37:56.933533Z",
+  "ts": "2026-09-18T11:48:08.909716Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者",
+        "link": "https://www.ithome.com.tw/news/179046",
+        "pubDate": "2026-09-18 18:52",
+        "description": "美國CISA發布網路誘餌指南，說明如何透過假帳號、假憑證、誘餌檔案與Honeytoken等欺敵手法，協助關鍵基礎設施偵測已進入環境中的攻擊者，即使一般企業也可依據自身資安成熟度，評估規畫與導入相關欺敵策略",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】0914~0918，產品資安應變能力強化成焦點，AI安全爭議持續升溫",
+        "link": "https://www.ithome.com.tw/news/179033",
+        "pubDate": "2026-09-18 17:52",
+        "description": "2026年9月第三週的資安新聞熱點，聚焦歐盟CRA通報義務上路、AI安全爭議升溫與個資保護監管強化；針對網路、應用程式與端點的漏洞利用攻擊持續頻傳，國內外亦接連傳出企業遭駭，特別是義大利醫療機構遭勒索軟體攻擊造成多項醫療服務中斷近兩週，商周集團網站復原情形，亦突顯資安事件對營運韌性的實際衝擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月18日，商周集團宣布主站基礎服務恢復運作",
+        "link": "https://www.ithome.com.tw/news/179059",
+        "pubDate": "2026-09-18 15:54",
+        "description": "本週商周集團宣布，在旗下網站遭遇惡意攻擊一週後，恢復主站與部分服務的正常運作，並表示其他的系統尚在進行重建",
+        "source": "iThome資安"
+      },
+      {
+        "title": "商周集團主站基礎服務恢復運作，旗下網站、互動功能、個人化服務將逐步開放",
+        "link": "https://www.ithome.com.tw/news/179056",
+        "pubDate": "2026-09-18 14:45",
+        "description": "商周集團旗下網站遭惡意攻擊一週後，宣布主站與部分服務恢復運作，並表示其他的系統尚在進行重建的工作",
+        "source": "iThome資安"
+      },
       {
         "title": "任天堂修補Switch高風險弱點，鄰近的攻擊者可透過QR Code執行程式碼",
         "link": "https://www.ithome.com.tw/news/179051",
@@ -66,13 +94,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
-        "link": "https://www.ithome.com.tw/news/179001",
-        "pubDate": "2026-09-18 08:00",
-        "description": "義大利物聯網資安業者Exein取得2.7億美元新一輪融資，估值達17億美元。隨著AI逐漸導入機器人、無人機及車輛等實體設備，Exein正將資安技術延伸至實體AI領域",
-        "source": "iThome資安"
-      },
-      {
         "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
         "link": "https://www.ithome.com.tw/news/179035",
         "pubDate": "2026-09-18 08:00",
@@ -80,10 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Issabel PBX重大漏洞遭積極利用，攻擊者可未經驗證執行任意指令",
-        "link": "https://www.ithome.com.tw/news/179036",
-        "pubDate": "2026-09-18 01:31",
-        "description": "Issabel PBX存在硬編碼簽章金鑰可能導致攻擊者偽造權杖問題，Shadowserver已發現攻擊活動，使用者須儘速修補",
+        "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
+        "link": "https://www.ithome.com.tw/news/179001",
+        "pubDate": "2026-09-18 08:00",
+        "description": "義大利物聯網資安業者Exein取得2.7億美元新一輪融資，估值達17億美元。隨著AI逐漸導入機器人、無人機及車輛等實體設備，Exein正將資安技術延伸至實體AI領域",
         "source": "iThome資安"
       },
       {
@@ -101,42 +122,28 @@
         "source": "iThome"
       },
       {
+        "title": "Lucid攜手Bolt在歐洲部署2.5萬輛Level 4自駕計程車",
+        "link": "https://www.ithome.com.tw/news/179058",
+        "pubDate": "2026-09-18  03:09:50",
+        "description": "美國電動車業者Lucid周四（9/17）宣布與歐洲叫車平臺Bolt建立策略合作，雙方將共同開發Level 4自動駕駛車輛及叫車服務。Bolt計畫在歐洲多個城市及國家部署至少2.5萬輛Lucid自駕計程車，並採用Nvidia Hyperion自動駕駛平臺。",
+        "source": "iThome"
+      },
+      {
+        "title": "從911到貝爾斯登　Shopline全球資安長李彥民：CISO要做的，是替企業算清楚風險",
+        "link": "https://www.ithome.com.tw/people/179055",
+        "pubDate": "2026-09-18  02:09:30",
+        "description": "2001年911恐攻後，紐約曼哈頓道路封鎖，許多工程師無法進入公司。當時住在島上的李彥民，徒步走了三十幾條街到公司，連續三天靠雙腳往返，協助系統恢復運作。那次經驗讓他發現，厚厚一本BCP手冊裡，還少了一項備援：「工程師的兩條腿」。\n幾年後，另一場事件又讓他看到風險的另一面。2008年3月17日，他走進貝爾斯登（Bear Stearns）辦公室，看著這家擁有85年歷史的投資銀行，在一個週末後被摩根大通以每股2美元收購。\n當時的他是貝爾斯登固定收益與股票業務部門的資訊安全官，負責超過150個專案的軟",
+        "source": "iThome"
+      },
+      {
         "title": "OpenAI推出法律業版GPT-6 Astra，可搜尋逾2.3億網址法律資料",
         "link": "https://www.ithome.com.tw/news/179053",
         "pubDate": "2026-09-18  01:09:51",
         "description": "OpenAI周四（9/17）推出法律專用AI Astra for Law，將最新旗艦模型GPT-6 Astra結合法律搜尋索引，以及針對法律分析與寫作設計的專用指令，讓律師事務所與法律科技業者用於法律研究、案件分析、合約審查及法律文件撰寫等工作。\nAstra for Law內建的法律搜尋索引涵蓋超過2.3億個網址，可搜尋美國判例、成文法、行政法規、法院規則及行政機關決定等資料，並每日持續加入新來源。OpenAI也與非營利組織Free Law Project合作，納入CourtListener收錄",
         "source": "iThome"
-      },
-      {
-        "title": "勿盲目追逐頂尖AI模型，F5亞太技術長籲企業打好雲端原生基礎、聚焦控制與一致性",
-        "link": "https://www.ithome.com.tw/news/179020",
-        "pubDate": "2026-09-17 19:20",
-        "description": "企業務實導入AI有方法可循，F5亞太地區、中國和日本首席技術長Mohan Veloo建議企業應體認AI的獨特性，將雲端原生架構的基礎打好，並且聚焦控制與一致性，而非盲目追逐頂尖AI模型的發展",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安業者揭露北韓駭客組織Lazarus新演進，拆分六大群組展開攻擊活動",
-        "link": "https://www.ithome.com.tw/news/179034",
-        "pubDate": "2026-09-17 18:46",
-        "description": "研究人員指出北韓將網路攻擊能力分散至不同團隊，各自側重網路間諜、金融竊盜及假冒IT人員等活動，範圍遍及政府、金融、科技與加密貨幣產業",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月17日，歐盟CRA單一通報平臺上線，漏洞與事故通報管道正式啟用",
-        "link": "https://www.ithome.com.tw/news/179028",
-        "pubDate": "2026-09-17 14:46",
-        "description": "歐盟CRA的漏洞與重大資安事件通報義務於9月11日正式上路，歐盟網路安全局（ENISA）同步啟用單一通報平臺（SRP），讓製造商可透過單一入口完成CRA通報，並將相關資訊提供給歐盟相關主管機關",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
-      {
-        "title": "AI 叢集 ROI 關鍵在傳輸效率？英特爾前員工創 Delos Data 募逾 1 億美元",
-        "link": "https://techorange.com/2026/09/16/delos-data-efficient-ai-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 16 Sep 2026 16:56:40 +0800",
-        "description": "由英特爾前員工創立的 AI 基礎架構新創 Delos Data 近日宣布，已完成 1 億美元募資，將投入開發網路晶片與軟體，提升 AI 資料中心內部的資料傳輸效率。《Reuters》報導，隨著 AI 資料中心的運算架構日益複雜，如何讓不同種類的運算晶片高速交換資料，成為影響整體運算效率的重要因素。 此次募資由創投與科技投資機構參與，包括深科技創投公司 Playground、半導體領域創投 Socratic Partners、Matter Venture Partners，以及 Capricorn",
-        "source": "TechOrange"
-      },
       {
         "title": "Noetive 募得 4,100 萬美元，讓 AI「自我改進」工廠與物流流程，瞄準實體產業最佳化",
         "link": "https://techorange.com/2026/09/17/noetive-launches-self-improving-ai-factories-logistics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -194,6 +201,13 @@
         "source": "TechOrange"
       },
       {
+        "title": "舊金山軟體工程師需求跌 42%、「前線部署工程師」缺暴增近 6 倍：AI 就業兩極化成形",
+        "link": "https://techorange.com/2026/09/18/san-francisco-ai-engineers-openai-anthropic-ipos-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 15:18:55 +0800",
+        "description": "Anthropic 與 OpenAI 即將 IPO，預期將為舊金山帶來新一波財富，但 AI 熱潮也正同步重塑當地就業市場。《Bloomberg》報導，科技公司持續爭搶能夠建構與部署 AI 的人才之際，傳統科技工作者卻面臨裁員，甚至開始思考是否要離開科技業。 軟體工程師需求慘跌 42%：加州就業市場重組，科技業新鮮人首當其衝 《Bloomberg》根據加州就業發展部（California Employment Development Department）數據指出，截至今年 6 月的 12 個月內",
+        "source": "TechOrange"
+      },
+      {
         "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
         "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 18 Sep 2026 12:49:07 +0800",
@@ -238,13 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "Attackers Exploit Issabel Framework Flaw Enabling Unauthenticated OS Command Execution",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-issabel-framework.html",
-        "pubDate": "Wed, 16 Sep 2026 21:20:59 +0530",
-        "description": "A critical security flaw in Issabel Framework, a web-based framework for the open-source unified communications PBX software, has come under active exploitation.\n\nThe vulnerability in question is CVE-2026-89026 (CVSS v3.1 score: 9.8/CVSS v4.0 score: ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Anthropic wants Claude to analyze your bank account and financial data",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
         "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400",
@@ -270,20 +277,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
         "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400",
         "description": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Spain's data agency gets first report of AI-powered data breach",
-        "link": "https://www.bleepingcomputer.com/news/security/spains-data-agency-gets-first-report-of-ai-powered-data-breach/",
-        "pubDate": "Wed, 16 Sep 2026 13:26:41 -0400",
-        "description": "The Spanish Data Protection Agency (AEPD) was notified of an attack allegedly carried out with an AI agent powered by a known large language model (LLM). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "The true cost of a ransomware attack, with and without BCDR",
-        "link": "https://www.bleepingcomputer.com/news/security/the-true-cost-of-a-ransomware-attack-with-and-without-bcdr/",
-        "pubDate": "Wed, 16 Sep 2026 10:00:10 -0400",
-        "description": "The ransom itself can be only a fraction of the total cost of a ransomware attack, with downtime, recovery, remediation, and legal obligations adding millions to the bill. Datto explains how a mature BCDR strategy can reduce downtime and provide a fa",
         "source": "BleepingComputer"
       },
       {
@@ -375,6 +368,27 @@
         "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
         "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
         "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
+        "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
+        "pubDate": "Thu, 17 Sep 2026 13:00:01 +0530",
+        "description": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday.\n\nIt also exposed about 490 million im",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
+        "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
+        "pubDate": "Thu, 17 Sep 2026 12:09:40 +0530",
+        "description": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote atta",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
+        "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
+        "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400",
+        "description": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device re",
         "source": "BleepingComputer"
       }
     ],
@@ -485,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Flash floods can strike without warning — this new technology could change that",
+        "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
+        "pubDate": "2026-09-18T07:00:00-04:00",
+        "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look",
+        "source": "TheVerge"
+      },
+      {
         "title": "Waymo says Singapore will be its next international robotaxi city",
         "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
         "pubDate": "2026-09-17T22:00:00-04:00",
@@ -510,13 +531,6 @@
         "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
         "pubDate": "2026-09-17T13:14:07-04:00",
         "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Xbox’s clever disc-to-digital feature was 15 years in the making",
-        "link": "https://www.theverge.com/tech/996826/microsoft-xbox-disc-to-digital-history-notepad",
-        "pubDate": "2026-09-17T12:00:00-04:00",
-        "description": "When Xbox announced a new feature last month that lets you digitize existing physical game collections, I immediately thought of the Xbox One. Disc-to-digital seems like a clever new feature for Xbox, perfectly timed as a response to Sony killing Pla",
         "source": "TheVerge"
       }
     ],
