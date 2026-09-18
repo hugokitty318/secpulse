@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T19:10:57.793253Z",
+  "ts": "2026-09-18T21:41:07.946149Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,13 +301,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "CISO's Expert Guide to Agentic Pentesting for Websites",
-        "link": "https://thehackernews.com/2026/09/cisos-expert-guide-to-agentic.html",
-        "pubDate": "Thu, 17 Sep 2026 16:20:53 +0530",
-        "description": "Attackers now weaponize new vulnerabilities in about five days (Mandiant, part of Google Cloud). The median organization takes 43 days to patch one (Verizon DBIR 2026). A new free guide explains how autonomous AI agents are closing that gap, and what",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenAI details more cases of AI agents taking unauthorized actions",
         "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
         "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
@@ -348,6 +341,13 @@
         "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
         "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
+        "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
+        "pubDate": "Fri, 18 Sep 2026 23:32:24 +0530",
+        "description": "A security researcher has released working exploit code for four Linux kernel flaws that each let a local user gain root, the highest level of access on a machine.\n\nKernel maintainers have fixed all four over the past few weeks, so a system running a",
+        "source": "TheHackerNews"
       },
       {
         "title": "New WordPress Click2Shell Flaw Forces Theme Installs, Can Chain to Code Execution",
@@ -393,6 +393,27 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Automattic names interim CFO after exec departures",
+        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
+        "pubDate": "Fri, 18 Sep 2026 20:25:22 +0000",
+        "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
+        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
+        "pubDate": "Fri, 18 Sep 2026 20:24:33 +0000",
+        "description": "Angle Health has grown to 5,000 customers and become profitable, by helping small businesses get \"level-funded\" health insurance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
+        "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "source": "TechCrunch"
+      },
       {
         "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
         "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
@@ -478,25 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
-        "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
-        "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
-        "pubDate": "Fri, 18 Sep 2026 14:30:00 +0000",
-        "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
-        "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
-        "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
-        "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
-        "source": "TechCrunch"
+        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "pubDate": "2026-09-18T17:07:24-04:00",
+        "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to",
+        "source": "TheVerge"
       },
       {
         "title": "Virginia governor creates an AI task force and moves to restrain data centers",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
         "pubDate": "2026-09-18T13:04:51-04:00",
         "description": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "What Hollywood thinks about existential AI warnings",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-        "pubDate": "2026-09-18T12:35:19-04:00",
-        "description": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios wh",
         "source": "TheVerge"
       }
     ],
