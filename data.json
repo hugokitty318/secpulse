@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-18T11:48:08.909716Z",
+  "ts": "2026-09-18T16:20:56.535089Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%",
+        "link": "https://www.ithome.com.tw/news/179047",
+        "pubDate": "2026-09-18 23:17",
+        "description": "面對假冒網站、網域挾持等風險，台灣網路資訊中心（TWNIC）呼籲企業將網域、DNS與路由納入資安治理。最新統計顯示，臺灣ROA覆蓋率達98.06%，ROV過濾率55.98%，但DNSSEC部署率僅2.47%，Registry Lock目前約24個核心域名啟用，顯示不同網域安全防護機制採用率仍有明顯差距。",
+        "source": "iThome資安"
+      },
       {
         "title": "CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者",
         "link": "https://www.ithome.com.tw/news/179046",
@@ -84,13 +91,6 @@
         "link": "https://www.ithome.com.tw/news/179003",
         "pubDate": "2026-09-18 08:00",
         "description": "CISA與五眼聯盟資安機構更新Active Directory防護指引，新增利用RPC活動偵測DCSync的方法，協助企業從網域複寫紀錄找出異常行為；同時納入Shadow Credentials攻擊手法及防護措施，強化AD環境的入侵偵測",
-        "source": "iThome資安"
-      },
-      {
-        "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
-        "link": "https://www.ithome.com.tw/news/179002",
-        "pubDate": "2026-09-18 08:00",
-        "description": "NIST發布權杖與身分聲明防護指引IR 8587，提供聯邦機關與雲端服務供應商相關實作建議，並涵蓋工作負載身分、AI代理及PQC轉型等安全考量",
         "source": "iThome資安"
       },
       {
@@ -194,10 +194,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元",
-        "link": "https://techorange.com/2026/09/17/openai-pre-ipo-funding-1-2-trillion-valuation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 17 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊OpenAI 傳洽談新募資，上市前估值上看 1.2 兆美元 《金融時報》引述知情人士報導，OpenAI 最近與大型投資人接觸，討論在上市前進行新一輪募資，潛在估值約為 1.2 兆美元。相關對話仍處初期，且由投資人主動發起，募資規模尚未確定，估值也可能在未來幾個月改變；OpenAI 拒絕評論。公司今年 3 月完成一輪包含 1,220 億美元承諾資本的募資，投資後估值為 8,520 億美元；若新估值成真，約半年內將提高 40.8%。 《金融時報》指",
+        "title": "全自駕計程車下一關是規模化？Waymo 加速亞洲布局：東京 2027、新加坡 2028",
+        "link": "https://techorange.com/2026/09/18/waymo-robotaxi-autonomous-ride-tokyo-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 18 Sep 2026 18:04:13 +0800",
+        "description": "Alphabet 旗下自駕車公司 Waymo 正加速進軍亞洲市場。Waymo 於 9 月 14 日宣布，目標在 2027 年於東京推出全自動駕駛叫車服務；9 月 17 日又宣布，計劃於 2028 年在新加坡推出全自動駕駛叫車服務，並採用全電動車隊。兩項布局相隔僅數日，分別鎖定東亞與東南亞市場。 全自駕計程車 2027 登陸東京：Waymo 攜手車隊打造 24 小時服務 《Reuters》指出，Waymo 將與日本計程車 App 業者 GO 及計程車公司日本交通（Nihon Kotsu）合作，目標",
         "source": "TechOrange"
       },
       {
@@ -251,34 +251,6 @@
       }
     ],
     "en_sec": [
-      {
-        "title": "Anthropic wants Claude to analyze your bank account and financial data",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-        "pubDate": "Wed, 16 Sep 2026 20:35:48 -0400",
-        "description": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-        "pubDate": "Wed, 16 Sep 2026 16:39:29 -0400",
-        "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-        "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-        "pubDate": "Wed, 16 Sep 2026 16:24:55 -0400",
-        "description": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-        "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-        "pubDate": "Wed, 16 Sep 2026 14:50:53 -0400",
-        "description": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-        "source": "BleepingComputer"
-      },
       {
         "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
         "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
@@ -343,25 +315,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "OpenAI Reveals Six Model Incidents Involving Hidden Failures and Unauthorized Uploads",
-        "link": "https://thehackernews.com/2026/09/openai-reveals-six-model-incidents.html",
-        "pubDate": "Thu, 17 Sep 2026 15:23:38 +0530",
-        "description": "OpenAI on Wednesday disclosed six new instances of \"unexpected or concerning model behavior\" that took place over the past six months, while sharing a new framework for reporting, tracking, investigating, and disclosing model misalignment in a bid to",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenAI details more cases of AI agents taking unauthorized actions",
         "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
         "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
         "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "BIND 9 Update Fixes 14 Flaws, Including an Unauthenticated Crash Over DNS-over-HTTPS",
-        "link": "https://thehackernews.com/2026/09/bind-9-update-fixes-14-flaws-including.html",
-        "pubDate": "Thu, 17 Sep 2026 13:30:29 +0530",
-        "description": "The Internet Systems Consortium (ISC) has released BIND 9.20.29 and 9.21.26 to fix fourteen security flaws it disclosed on 16 September in BIND 9, its open-source DNS server software. One of them affects any BIND server that answers DNS-over-HTTPS (D",
-        "source": "TheHackerNews"
       },
       {
         "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
@@ -371,25 +329,67 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Gyazo Breach Exposes 23.62 Million User Records and 490 Million Image Metadata Records",
-        "link": "https://thehackernews.com/2026/09/gyazo-breach-exposes-2362-million-user.html",
-        "pubDate": "Thu, 17 Sep 2026 13:00:01 +0530",
-        "description": "A security breach at Gyazo, Helpfeel's image-sharing service, exposed about 23.62 million user records, including email addresses and password hashes, the Kyoto-based company said in a notice published Wednesday.\n\nIt also exposed about 490 million im",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Cisco Warns of New Zero-Day ISE Auth Bypass (CVSS 10.0) Exploited in Active Attacks",
-        "link": "https://thehackernews.com/2026/09/cisco-warns-of-new-zero-day-ise-auth.html",
-        "pubDate": "Thu, 17 Sep 2026 12:09:40 +0530",
-        "description": "Cisco has warned of a fresh maximum-severity security flaw impacting Identity Services Engine (ISE) that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-76460 (CVSS score: 10.0), could allow an unauthenticated, remote atta",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
         "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
         "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400",
         "description": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device re",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Windows 11 24H2 Home and Pro reach end of support in October",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
+        "pubDate": "Thu, 17 Sep 2026 09:09:09 -0400",
+        "description": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "US takes down NightmareStresser DDoS-for-hire platform",
+        "link": "https://www.bleepingcomputer.com/news/security/fbi-seizes-nightmarestresser-service-linked-to-thousands-of-ddos-attacks/",
+        "pubDate": "Thu, 17 Sep 2026 07:33:35 -0400",
+        "description": "The U.S. Federal Bureau of Investigation (FBI) seized the domains used by NightmareStresser, one of the world's longest-running distributed denial-of-service (DDoS) platforms. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+        "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
+        "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
+        "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
+        "pubDate": "Fri, 18 Sep 2026 20:54:16 +0530",
+        "description": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLab",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+        "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+        "pubDate": "Fri, 18 Sep 2026 18:17:04 +0530",
+        "description": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+        "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+        "pubDate": "Fri, 18 Sep 2026 16:31:16 +0530",
+        "description": "In July 2025, someone registered a domain that used to belong to a content delivery network.  The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of w",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+        "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+        "pubDate": "Fri, 18 Sep 2026 16:31:01 +0530",
+        "description": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+        "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+        "pubDate": "Fri, 18 Sep 2026 16:10:06 +0530",
+        "description": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit.\n\nThe new malware family, per OpenSourceMalware, exhibits functional overlaps ",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -429,108 +429,108 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The fix for rogue AI agents could be more AI",
-        "link": "https://techcrunch.com/2026/09/17/the-fix-for-rogue-ai-agents-could-be-more-ai/",
-        "pubDate": "Thu, 17 Sep 2026 20:34:47 +0000",
-        "description": "As companies hand off longer and more complex tasks to AI agents, they are running into an oversight problem: Agents can act faster, longer, and at greater volume than humans can realistically review.",
+        "title": "Family offices are clamoring for AI investments",
+        "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
+        "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
+        "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI caught its models leaving notes to successors to hide bad behavior",
-        "link": "https://techcrunch.com/2026/09/17/openai-caught-its-models-leaving-notes-to-successors-to-hide-bad-behavior/",
-        "pubDate": "Thu, 17 Sep 2026 20:34:24 +0000",
-        "description": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
+        "title": "FBI, Coast Guard boarded hacked oil tankers heading towards US coast",
+        "link": "https://techcrunch.com/2026/09/18/fbi-coast-guard-boarded-hacked-oil-tankers-heading-towards-us-coast/",
+        "pubDate": "Fri, 18 Sep 2026 15:44:09 +0000",
+        "description": "The feds are said to be investigating the compromise of the tankers' networks, which in one case interfered with one of the tanker's navigation and propulsion systems.",
         "source": "TechCrunch"
       },
       {
-        "title": "Is the AI safety debate about safety or control?",
-        "link": "https://techcrunch.com/2026/09/17/is-the-ai-safety-debate-about-safety-or-control/",
-        "pubDate": "Thu, 17 Sep 2026 20:19:37 +0000",
-        "description": "Not everyone agrees with Amodei's call for globally coordinated action for AI safety.",
+        "title": "Open or closed AI? Nvidia’s Nader Khalil and Sydney Sykes take on one of the decisions shaping next-gen startups at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/18/open-or-closed-ai-nvidias-nader-khalil-and-sydney-sykes-take-on-one-of-the-decisions-shaping-next-gen-startups-at-techcrunch-disrupt-2026/",
+        "pubDate": "Fri, 18 Sep 2026 15:30:00 +0000",
+        "description": "Nvidia's Nader Khalil and Sydney Sykes discuss one of the decisions shaping next-gen startups on the Builders Stage at TechCrunch Disrupt 2026.",
         "source": "TechCrunch"
       },
       {
-        "title": "UN turns to Google to make its global data ready for AI agents",
-        "link": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents/",
-        "pubDate": "Thu, 17 Sep 2026 20:00:00 +0000",
-        "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+        "title": "Meta’s Muse hits Mac, letting the AI take actions on your computer",
+        "link": "https://techcrunch.com/2026/09/18/metas-muse-hits-mac-letting-the-ai-take-actions-on-your-computer/",
+        "pubDate": "Fri, 18 Sep 2026 15:22:48 +0000",
+        "description": "Muse is now available on the Mac, where it can work with your files and apps to take action on your behalf.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft exec called AI scraping ‘the largest theft of labor in human history,’ new unredacted filings reveal",
-        "link": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
-        "pubDate": "Thu, 17 Sep 2026 19:46:08 +0000",
-        "description": "Newly unsealed court filings show Microsoft privately called OpenAI's data practices \"theft\" while both companies scraped paywalled Times content, built datasets from it, and warned internally it would gut publishers.",
+        "title": "I’m so mad that I love Orion’s $2,195 AI mattress pad",
+        "link": "https://techcrunch.com/2026/09/18/im-so-mad-that-i-love-orions-2195-ai-mattress-pad/",
+        "pubDate": "Fri, 18 Sep 2026 15:22:16 +0000",
+        "description": "Sleeping on the Orion is like flipping your pillow to find “the cool side,” except that your whole entire bed is the cool side.",
         "source": "TechCrunch"
       },
       {
-        "title": "Waymo restarts San Antonio service 5 months after flooding troubles",
-        "link": "https://techcrunch.com/2026/09/17/waymo-restarts-san-antonio-service-five-months-after-flooding-troubles/",
-        "pubDate": "Thu, 17 Sep 2026 18:30:30 +0000",
-        "description": "The company suspended service in the city in April after one of its robotaxis got swept away.",
+        "title": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/18/robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techcrunch-disrupt-2026/",
+        "pubDate": "Fri, 18 Sep 2026 15:00:00 +0000",
+        "description": "Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at TechCrunch Disrupt 2026. Register now to save up to $200 before September 25 at 11:59 p.m. PT.",
         "source": "TechCrunch"
       },
       {
-        "title": "Even the king of England has his hesitations about AI",
-        "link": "https://techcrunch.com/2026/09/17/even-the-king-of-england-has-his-hesitations-about-ai/",
-        "pubDate": "Thu, 17 Sep 2026 17:26:25 +0000",
-        "description": "King Charles hosted a private summit Thursday with some of the most prominent names in AI and the U.K. government.",
+        "title": "Inertia co-founder Jeff Lawson’s next big bet is fusion: Go inside it at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/18/jeff-lawsons-next-big-bet-is-fusion-go-inside-it-at-techcrunch-disrupt-2026/",
+        "pubDate": "Fri, 18 Sep 2026 14:30:00 +0000",
+        "description": "Inertia co-founder and CEO Jeff Lawson joins the Smart Systems Stage at TechCrunch Disrupt 2026. Register now to save up to $200 by September 25.",
         "source": "TechCrunch"
       },
       {
-        "title": "Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire",
-        "link": "https://techcrunch.com/2026/09/17/base-labs-launches-an-open-weight-ai-safety-partnership-with-hugging-face-and-goodfire/",
-        "pubDate": "Thu, 17 Sep 2026 17:15:59 +0000",
-        "description": "Base Labs, the research group Baseten spun up earlier this year, will develop and publish methods for training and monitoring open models.",
+        "title": "Researchers used Anthropic’s Claude to hack into OpenAI",
+        "link": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/",
+        "pubDate": "Fri, 18 Sep 2026 14:00:14 +0000",
+        "description": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
         "source": "TechCrunch"
       },
       {
-        "title": "Pinterest teases a new ‘Restyle’ feature that lets you redesign your room with AI",
-        "link": "https://techcrunch.com/2026/09/17/pinterest-teases-a-new-restyle-feature-that-lets-you-redesign-your-room-with-ai/",
-        "pubDate": "Thu, 17 Sep 2026 17:15:00 +0000",
-        "description": "Pinterest is testing Restyle, a new AI-powered feature that lets users visualize furniture, decor, lighting, and more in photos of their own rooms — potentially helping turn saved inspiration into purchases.",
+        "title": "The clock is ticking: Final 24 hours to exhibit at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/18/final-24-hours-to-exhibit-at-techcrunch-disrupt-2026/",
+        "pubDate": "Fri, 18 Sep 2026 14:00:00 +0000",
+        "description": "Last day to book your exhibit table at Disrupt is today, September 18. Get your startup in front of 10,000+ founders, investors, operators, and tech leaders on October 13–15.",
         "source": "TechCrunch"
       },
       {
-        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into super-hot-rock geothermal",
+        "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
         "link": "https://techcrunch.com/2026/09/17/khosla-backed-mazama-energy-just-raised-135m-to-drill-deeper-into-super-hot-rock-geothermal/",
         "pubDate": "Fri, 18 Sep 2026 00:02:36 +0000",
         "description": "Geothermal startup Mazama is drilling three miles underground to tap superhot rock, with one well capable of generating 15 MW of electricity 24/7.",
         "source": "TechCrunch"
       },
       {
+        "title": "Security researchers used Claude to help them hack into OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+        "pubDate": "2026-09-18T11:30:16-04:00",
+        "description": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, the Wall Street Journal reports. They were able to access OpenAI's Gi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Brendan Carr’s FCC is more worried about who The View interviews than foreign governments owning Paramount",
+        "link": "https://www.theverge.com/policy/997416/brendan-carr-fcc-foreign-governments-paramount",
+        "pubDate": "2026-09-18T11:12:41-04:00",
+        "description": "The FCC has announced it's waiving its rules limiting foreign equity ownership to 25 percent in the Paramount-Warner Bros. case and will allow three sovereign wealth funds run by the governments of Saudi Arabia, Qatar, and Abu Dhabi to own 49.5 perce",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
+        "link": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
+        "pubDate": "2026-09-18T10:51:26-04:00",
+        "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon",
+        "source": "TheVerge"
+      },
+      {
+        "title": "This cartridge-playing Game Boy clone is smaller and cheaper than Analogue’s Pocket",
+        "link": "https://www.theverge.com/tech/997379/funnyplaying-fpbg-mini-game-boy-color-handheld-fpga-cartridge",
+        "pubDate": "2026-09-18T10:41:18-04:00",
+        "description": "FunnyPlaying, a Chinese company known for its Game Boy and GBA upgrade kits, has announced a new handheld that plays original Nintendo cartridges and ROMs. The FPGB Mini's cartridge support is limited to the Game Boy and Game Boy Color so it isn't as",
+        "source": "TheVerge"
+      },
+      {
         "title": "Flash floods can strike without warning — this new technology could change that",
         "link": "https://www.theverge.com/science/997083/flash-flood-warning-tacls-satellite-machine-learning",
         "pubDate": "2026-09-18T07:00:00-04:00",
         "description": "On the morning of June 9th, Laura Lin was working from her home in Lanesville, a rural southern Indiana town about 15 miles from the Kentucky border. She was on a Zoom call, unaware that the heavy rain outside was beginning to flood her yard. \"I look",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Waymo says Singapore will be its next international robotaxi city",
-        "link": "https://www.theverge.com/transportation/997091/waymo-singapore-robotaxi-launch-2027",
-        "pubDate": "2026-09-17T22:00:00-04:00",
-        "description": "Waymo says it will launch a robotaxi service in Singapore in 2028, as the Alphabet-owned company continues to eye overseas markets for expansion. Waymo's vehicles will begin arriving in Singapore in \"the coming months,\" the company says, in preparati",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The AI Superintelligence Slowdown",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "pubDate": "2026-09-17T15:28:24-04:00",
-        "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of l",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Claude Code relaunches Projects to manage multiple AI agents in the cloud",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997134/anthropic-claude-code-projects",
-        "pubDate": "2026-09-17T14:58:05-04:00",
-        "description": "The revamped projects feature in Claude Code allows users to run multiple agents under the same roof, with a shared memory, goals, and library of files and artifacts. Similar to Grok Bot and other tools that manage groups of AI agents, each project h",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Save $30 or more on a refurbished Apple TV 4K",
-        "link": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-        "pubDate": "2026-09-17T13:14:07-04:00",
-        "description": "Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model",
         "source": "TheVerge"
       }
     ],
