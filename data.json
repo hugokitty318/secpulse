@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-19T17:58:39.355381Z",
+  "ts": "2026-09-19T20:35:11.527569Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,6 +273,13 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+        "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+        "pubDate": "Sun, 20 Sep 2026 00:06:53 +0530",
+        "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
         "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
         "pubDate": "Sat, 19 Sep 2026 18:58:48 +0530",
@@ -284,13 +291,6 @@
         "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
         "pubDate": "Sat, 19 Sep 2026 18:58:41 +0530",
         "description": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Repor",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-        "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-        "pubDate": "Sat, 19 Sep 2026 18:58:35 +0530",
-        "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in ",
         "source": "TheHackerNews"
       },
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+        "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+        "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
+        "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Google’s Gemini is the latest AI model to hack other companies",
         "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
         "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
@@ -401,7 +408,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+        "title": "The US Navy just told us what’s on its tech wish list for the next several years",
         "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
         "pubDate": "Sat, 19 Sep 2026 17:00:00 +0000",
         "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be buildi",
@@ -489,13 +496,6 @@
         "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
         "pubDate": "Fri, 18 Sep 2026 20:24:33 +0000",
         "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "World model companies are keeping a lot of secrets",
-        "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "pubDate": "Fri, 18 Sep 2026 20:18:14 +0000",
-        "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
         "source": "TechCrunch"
       },
       {
