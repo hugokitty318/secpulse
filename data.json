@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-19T14:46:19.867107Z",
+  "ts": "2026-09-19T17:58:39.355381Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "What Recent AI-Powered Attacks Mean for Your Identity Security",
-        "link": "https://www.bleepingcomputer.com/news/security/what-recent-ai-powered-attacks-mean-for-your-identity-security/",
-        "pubDate": "Thu, 17 Sep 2026 10:01:11 -0400",
-        "description": "AI is making credential theft faster and easier to scale, giving attackers more opportunities to abuse valid identities. Specops explains why identity security must go beyond successful authentication by verifying that both the user and the device re",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
         "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
         "pubDate": "Sat, 19 Sep 2026 18:58:48 +0530",
@@ -336,6 +329,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "BragJack attacks hijack AI browser agents through malicious extensions",
+        "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
+        "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400",
+        "description": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in ",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
         "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
         "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400",
@@ -350,8 +350,8 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Calling viral AI actress Tilly Norwood? Agree to a face scan first",
-        "link": "https://www.bleepingcomputer.com/news/security/calling-viral-ai-actress-tilly-norwood-agree-to-a-face-scan-first/",
+        "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+        "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
         "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400",
         "description": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanentl",
         "source": "BleepingComputer"
@@ -393,6 +393,41 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Google’s Gemini is the latest AI model to hack other companies",
+        "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+        "pubDate": "Sat, 19 Sep 2026 17:30:00 +0000",
+        "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+        "link": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+        "pubDate": "Sat, 19 Sep 2026 17:00:00 +0000",
+        "description": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be buildi",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
+        "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+        "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+        "description": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI safety conversations have gotten unbelievable",
+        "link": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+        "pubDate": "Sat, 19 Sep 2026 15:00:00 +0000",
+        "description": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
+        "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
+        "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
+        "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+        "source": "TechCrunch"
+      },
       {
         "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
         "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
@@ -464,73 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-        "link": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-        "pubDate": "Fri, 18 Sep 2026 18:49:30 +0000",
-        "description": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-        "source": "TechCrunch"
+        "title": "Trump treads further on free speech with new journalist bans",
+        "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+        "pubDate": "2026-09-19T13:10:21-04:00",
+        "description": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White H",
+        "source": "TheVerge"
       },
       {
-        "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-        "link": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-        "pubDate": "Fri, 18 Sep 2026 17:59:53 +0000",
-        "description": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-        "source": "TechCrunch"
+        "title": "Gemini went rogue, hacked three companies, and Google hid it",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+        "pubDate": "2026-09-19T11:25:03-04:00",
+        "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by thi",
+        "source": "TheVerge"
       },
       {
-        "title": "In India, the new iPhone can arrive faster than a pizza",
-        "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
-        "pubDate": "Fri, 18 Sep 2026 17:45:00 +0000",
-        "description": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
-        "source": "TechCrunch"
+        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+        "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+        "pubDate": "2026-09-19T11:00:00-04:00",
+        "description": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or ",
+        "source": "TheVerge"
       },
       {
-        "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-        "link": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-        "pubDate": "Fri, 18 Sep 2026 17:33:50 +0000",
-        "description": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-        "link": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-        "pubDate": "Fri, 18 Sep 2026 17:26:41 +0000",
-        "description": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-        "source": "TechCrunch"
+        "title": "The colorful, unique Hyte X50 PC case is $50 off",
+        "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+        "pubDate": "2026-09-19T11:00:00-04:00",
+        "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way ",
+        "source": "TheVerge"
       },
       {
         "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
         "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
         "pubDate": "2026-09-19T10:00:00-04:00",
         "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "It’s not just LG. Every TV company is spying on you",
-        "link": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
-        "pubDate": "2026-09-19T09:00:00-04:00",
-        "description": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you wat",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The AI regulation smackdown isn’t over",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "pubDate": "2026-09-19T09:00:00-04:00",
-        "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party ev",
-        "source": "TheVerge"
-      },
-      {
-        "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
-        "pubDate": "2026-09-18T17:07:24-04:00",
-        "description": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-        "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-        "pubDate": "2026-09-18T14:29:17-04:00",
-        "description": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the",
         "source": "TheVerge"
       }
     ],
