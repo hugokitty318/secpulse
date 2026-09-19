@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-19T06:35:29.536855Z",
+  "ts": "2026-09-19T11:30:45.359462Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,53 +252,11 @@
     ],
     "en_sec": [
       {
-        "title": "Critical Check Point Management Flaw Lets Unauthenticated Attackers Run Code as Root",
-        "link": "https://thehackernews.com/2026/09/critical-check-point-management-server.html",
-        "pubDate": "Thu, 17 Sep 2026 23:38:28 +0530",
-        "description": "A critical vulnerability in Check Point's Security Management and Log Servers could allow an attacker without login credentials to run code as root on those servers over the network.\n\nThe Security Management Server is the system that controls firewal",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ThreatsDay: Self-Rewriting Agents, 800+ Flaws Patched, Insider SIM Swaps and 22 More New Stories",
-        "link": "https://thehackernews.com/2026/09/threatsday-self-rewriting-agents-800.html",
-        "pubDate": "Thu, 17 Sep 2026 23:02:22 +0530",
-        "description": "Attackers keep finding new keys. The funny part is that defenders keep inventing where to store them.\n\nThis week, those keys sit in AI tools, exposed services, old bugs, weak logins, and software sold like a monthly subscription. Some attacks use new",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Docker Sandboxes Flaw Lets Malicious Guest Code Read and Modify macOS Host Files",
-        "link": "https://thehackernews.com/2026/09/critical-docker-sandboxes-flaw-lets.html",
-        "pubDate": "Thu, 17 Sep 2026 21:07:56 +0530",
-        "description": "Malicious code running inside a Docker Sandboxes virtual machine on macOS could escape the project directory shared into it and read or change files anywhere else on the host, Docker warns in a security announcement on September 15.\n\nThe escape runs ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
-        "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
-        "pubDate": "Thu, 17 Sep 2026 19:33:13 +0530",
-        "description": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE.\n\n\"HEAVYGRAM offers builtin commands supporting remote command ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
-        "link": "https://thehackernews.com/2026/09/critical-unbound-dnssec-validator-flaw.html",
-        "pubDate": "Thu, 17 Sep 2026 18:00:00 +0530",
-        "description": "Every release of the Unbound DNS resolver before 1.26.1 has a critical heap overflow in its DNSSEC validator, maintainer NLnet Labs said in an advisory on Wednesday.\n\nAn attacker who controls a malicious zone and queries a vulnerable resolver can tri",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New RatHat Android malware uses AI to automate device control",
         "link": "https://www.bleepingcomputer.com/news/security/new-rathat-android-malware-uses-ai-to-automate-device-control/",
         "pubDate": "Thu, 17 Sep 2026 17:50:26 -0400",
         "description": "A new Android malware called RatHat has been discovered, targeting users with an AI-powered subsystem that helps operators remotely navigate compromised devices. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-        "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-        "pubDate": "Thu, 17 Sep 2026 17:20:00 +0530",
-        "description": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time between disclosure and workin",
-        "source": "TheHackerNews"
       },
       {
         "title": "OpenAI details more cases of AI agents taking unauthorized actions",
@@ -341,6 +299,48 @@
         "pubDate": "Thu, 17 Sep 2026 05:00:00 -0400",
         "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
+        "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
+        "pubDate": "Sat, 19 Sep 2026 15:31:10 +0530",
+        "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
+        "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
+        "pubDate": "Sat, 19 Sep 2026 15:01:17 +0530",
+        "description": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.\n\nThe vulnerability, tracked as CVE-2026-283",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
+        "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
+        "pubDate": "Sat, 19 Sep 2026 13:48:54 +0530",
+        "description": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
+        "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
+        "pubDate": "Sat, 19 Sep 2026 13:21:34 +0530",
+        "description": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incidents occ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
+        "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
+        "pubDate": "Sat, 19 Sep 2026 12:44:54 +0530",
+        "description": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18.\n\nThe French security company had kept his GitHub access open. CrowdSec says his laptop",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
+        "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
+        "pubDate": "Sat, 19 Sep 2026 11:54:10 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are li",
+        "source": "TheHackerNews"
       },
       {
         "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
