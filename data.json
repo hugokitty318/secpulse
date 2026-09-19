@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-19T20:35:11.527569Z",
+  "ts": "2026-09-19T22:29:02.424818Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,7 +394,14 @@
     ],
     "en_tech": [
       {
-        "title": "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
+        "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+        "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+        "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
+        "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
         "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
         "pubDate": "Sat, 19 Sep 2026 19:57:47 +0000",
         "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
@@ -492,11 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
-        "link": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
-        "pubDate": "Fri, 18 Sep 2026 20:24:33 +0000",
-        "description": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
-        "source": "TechCrunch"
+        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
+        "pubDate": "2026-09-19T16:44:40-04:00",
+        "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself",
+        "source": "TheVerge"
       },
       {
         "title": "Trump treads further on free speech with new journalist bans",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
         "pubDate": "2026-09-19T11:00:00-04:00",
         "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "link": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "pubDate": "2026-09-19T10:00:00-04:00",
-        "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of ",
         "source": "TheVerge"
       }
     ],
