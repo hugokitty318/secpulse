@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-18T23:35:00.074757Z",
+  "ts": "2026-09-19T01:33:57.403664Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "India forces caller-ID apps to feed spam reports to telcos",
+        "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
+        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
+        "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
+        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
+        "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
+        "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
         "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
         "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
@@ -415,7 +429,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic’s first embedded evaluator is … Accenture?",
+        "title": "Anthropic’s first embedded evaluator is … Accenture?",
         "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
         "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
         "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
@@ -482,20 +496,6 @@
         "link": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
         "pubDate": "Fri, 18 Sep 2026 17:09:56 +0000",
         "description": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-        "link": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
-        "pubDate": "Fri, 18 Sep 2026 16:35:49 +0000",
-        "description": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Family offices are clamoring for AI investments",
-        "link": "https://techcrunch.com/2026/09/18/family-offices-are-clamoring-for-ai-investments/",
-        "pubDate": "Fri, 18 Sep 2026 16:00:00 +0000",
-        "description": "Whether it's a permanent shift or part of a familiar cycle is worth asking, though.",
         "source": "TechCrunch"
       },
       {
