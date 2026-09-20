@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T10:05:26.608944Z",
+  "ts": "2026-09-20T14:11:55.379360Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,10 +266,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Brevo supply-chain attack injected ClickFix scripts on customer sites",
-        "link": "https://www.bleepingcomputer.com/news/security/brevo-supply-chain-attack-injected-clickfix-scripts-on-customer-sites/",
-        "pubDate": "Thu, 17 Sep 2026 13:11:34 -0400",
-        "description": "Brevo confirmed that attackers stole a Cloudflare API key and used it to inject malicious ClickFix scripts into its websites and JavaScript files embedded on customer sites to distribute malware. [...]",
+        "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
+        "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
+        "pubDate": "Sun, 20 Sep 2026 08:00:00 -0400",
+        "description": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
-        "pubDate": "2026-09-19T16:44:40-04:00",
-        "description": "Meta's Muse is apparently an effective AI assistant, but one that's a little creepy. Part of that is because of its new Mac app, which can access Messages, Calendar, and Notes. But for all its smarts, Muse doesn't actually know how to describe itself",
+        "title": "A24’s reputation is on the line with the SCP Foundation movie",
+        "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
+        "pubDate": "2026-09-20T08:45:48-04:00",
+        "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash ",
         "source": "TheVerge"
       },
       {
-        "title": "Trump treads further on free speech with new journalist bans",
-        "link": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
-        "pubDate": "2026-09-19T13:10:21-04:00",
-        "description": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White H",
+        "title": "A great new video game movie",
+        "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
+        "pubDate": "2026-09-20T08:00:00-04:00",
+        "description": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out t",
         "source": "TheVerge"
       },
       {
-        "title": "Gemini went rogue, hacked three companies, and Google hid it",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-        "pubDate": "2026-09-19T11:25:03-04:00",
-        "description": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by thi",
+        "title": "The hidden monopoly behind your TI graphing calculator",
+        "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
+        "pubDate": "2026-09-20T08:00:00-04:00",
+        "description": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The V",
         "source": "TheVerge"
       },
       {
-        "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
-        "link": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
-        "pubDate": "2026-09-19T11:00:00-04:00",
-        "description": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or ",
+        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+        "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+        "pubDate": "2026-09-20T08:00:00-04:00",
+        "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the app",
         "source": "TheVerge"
       },
       {
-        "title": "The colorful, unique Hyte X50 PC case is $50 off",
-        "link": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
-        "pubDate": "2026-09-19T11:00:00-04:00",
-        "description": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way ",
+        "title": "All roads lead to cable",
+        "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+        "pubDate": "2026-09-20T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' i",
         "source": "TheVerge"
       }
     ],
