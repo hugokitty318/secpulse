@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-20T14:11:55.379360Z",
+  "ts": "2026-09-20T17:28:54.817687Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "支援身分聯合服務與Passkey，兆勤網管雲大幅強化登入安全",
+        "link": "https://www.ithome.com.tw/review/179044",
+        "pubDate": "2026-09-20 22:22",
+        "description": "兆勤科技（Zyxel Networks）推出至今將屆滿10年的雲端網路管理平臺Nebula，今年9月發布最新版（20.10），增設身分認證聯合服務，可整合Microsoft Entra ID這類第三方身分識別系統，透過Nebula雲端身分驗證伺服器建立的憑證，也支援通行密碼（Passkey）登入",
+        "source": "iThome資安"
+      },
       {
         "title": "TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%",
         "link": "https://www.ithome.com.tw/news/179047",
@@ -94,17 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "微軟9月Windows 11更新造成部分AD網域登入異常，提出暫時因應措施",
-        "link": "https://www.ithome.com.tw/news/179035",
+        "title": "NIST發布權杖與身分聲明防護指引，納入AI代理與PQC考量",
+        "link": "https://www.ithome.com.tw/news/179002",
         "pubDate": "2026-09-18 08:00",
-        "description": "微軟9月Windows 11安全性更新出現相容性問題，部分加入AD網域的裝置可能無法登入Windows，問題與Machine Identity Isolation強制模式有關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Exein取得2.7億美元融資，布局實體AI資安與亞太市場",
-        "link": "https://www.ithome.com.tw/news/179001",
-        "pubDate": "2026-09-18 08:00",
-        "description": "義大利物聯網資安業者Exein取得2.7億美元新一輪融資，估值達17億美元。隨著AI逐漸導入機器人、無人機及車輛等實體設備，Exein正將資安技術延伸至實體AI領域",
+        "description": "NIST發布權杖與身分聲明防護指引IR 8587，提供聯邦機關與雲端服務供應商相關實作建議，並涵蓋工作負載身分、AI代理及PQC轉型等安全考量",
         "source": "iThome資安"
       },
       {
@@ -259,10 +259,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI details more cases of AI agents taking unauthorized actions",
-        "link": "https://www.bleepingcomputer.com/news/security/openai-details-more-cases-of-ai-agents-taking-unauthorized-actions/",
-        "pubDate": "Thu, 17 Sep 2026 14:55:12 -0400",
-        "description": "OpenAI has presented new examples of what they call \"AI model misalignment\" from the past six months, including unauthorized file uploads, following self-generated instructions, hiding mistakes, and leveraging exposed API keys. [...]",
+        "title": "Malicious npm packages evade install-script defenses at runtime",
+        "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
+        "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400",
+        "description": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -394,6 +394,34 @@
     ],
     "en_tech": [
       {
+        "title": "New California law will penalize influencers who don’t disclose political ads",
+        "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
+        "pubDate": "Sun, 20 Sep 2026 16:30:00 +0000",
+        "description": "The new legislation adds teeth to disclosure requirements for online influencers who are paid to post about politics.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: How do we know when an AV is safe enough?",
+        "link": "https://techcrunch.com/2026/09/20/techcrunch-mobility-how-do-we-know-when-an-av-is-safe-enough/",
+        "pubDate": "Sun, 20 Sep 2026 16:02:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it. To get this in your inbox, sign up here for free — just click TechCrunch Mobility!",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A small but growing number of founders are betting on bringing people together offline",
+        "link": "https://techcrunch.com/2026/09/20/a-small-but-growing-number-of-founders-are-betting-that-bringing-people-together-is-its-own-industry/",
+        "pubDate": "Sun, 20 Sep 2026 15:00:00 +0000",
+        "description": "Brynn Putnam and Tristan Walker have already done something that most founders only dream about: created companies so compelling that bigger outfits bought them. Putnam, a trained ballerina with a small chain of boutique studios, built the connected-",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "pubDate": "Sun, 20 Sep 2026 14:00:00 +0000",
+        "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
         "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
         "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
@@ -439,7 +467,7 @@
         "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
         "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
         "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
-        "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
+        "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
         "source": "TechCrunch"
       },
       {
@@ -471,32 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic is operating a lab that conducts biology experiments",
-        "link": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
-        "pubDate": "Fri, 18 Sep 2026 23:13:31 +0000",
-        "description": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI hallucination nearly triggers US military operation",
-        "link": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
-        "pubDate": "Fri, 18 Sep 2026 23:12:32 +0000",
-        "description": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic’s first embedded evaluator is … Accenture?",
-        "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
-        "pubDate": "Fri, 18 Sep 2026 21:44:33 +0000",
-        "description": "Accenture is about to take on its most high-risk consulting engagement ever.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Automattic names interim CFO after exec departures",
-        "link": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
-        "pubDate": "Fri, 18 Sep 2026 20:25:22 +0000",
-        "description": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
-        "source": "TechCrunch"
+        "title": "Trump now says he wants to form an ‘AI Force’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
+        "pubDate": "2026-09-20T11:39:22-04:00",
+        "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He",
+        "source": "TheVerge"
       },
       {
         "title": "A24’s reputation is on the line with the SCP Foundation movie",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
         "pubDate": "2026-09-20T08:00:00-04:00",
         "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the app",
-        "source": "TheVerge"
-      },
-      {
-        "title": "All roads lead to cable",
-        "link": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-        "pubDate": "2026-09-20T08:00:00-04:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' i",
         "source": "TheVerge"
       }
     ],
