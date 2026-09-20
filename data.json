@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T19:42:40.289350Z",
+  "ts": "2026-09-20T22:24:08.690958Z",
   "tabs": {
     "cn_sec": [
       {
@@ -180,17 +180,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "【巨頭搶聘 FDE 前線部署工程師】需求暴增是雙面指標，企業評估績效該看能否自主營運",
-        "link": "https://techorange.com/2026/09/17/deployed-engineers-around-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 17 Sep 2026 09:46:50 +0800",
-        "description": "生成式 AI 的競爭，正在從模型能力轉向企業部署。AWS 之前宣布投入 10 億美元成立專責組織，計畫派遣數千名工程師深入客戶現場；微軟則準備為新的 AI 交付部門投資 35 億美元、招募 6,000 人。 OpenAI 也成立專門的部署公司，並同意收購英國 AI 顧問與工程公司 Tomoro，增加約 150 名「前線部署工程師」（Forward Deployed Engineer，FDE）及部署專家。 據職涯培訓平台 Interview Kickstart 統計，FDE 職缺數量自 2023 ",
-        "source": "TechOrange"
-      },
-      {
         "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
         "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 19 Sep 2026 06:29:00 +0800",
         "description": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業，占比也超過 75%。受訪者的層級包含 33.7% 的董事會成員與總經理、38.8% 的部門主管，以",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Google Gemini 測試中自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常",
+        "link": "https://techorange.com/2026/09/21/google-gemini-hacks-three-companies-openai-ai-incidents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 21 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Gemini 首度自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常 Google 母公司 Alphabet 旗下 Gemini 模型，今年 5 月接受獨立資安機構 Irregular 測試時，自主進入 3 家真實企業的系統，成為 Google AI 首次被發現自行做出這類行為。其中一次，Gemini 持續猜測密碼直到成功登入；另外兩次則從公開存放庫找到登入憑證。Google 表示，模型原本以為這些系統都在測試範圍內，辨",
         "source": "TechOrange"
       },
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
+        "pubDate": "Sun, 20 Sep 2026 21:41:08 +0000",
+        "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "World model companies are keeping a lot of secrets",
+        "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+        "pubDate": "Sun, 20 Sep 2026 20:29:07 +0000",
+        "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
         "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
         "pubDate": "Sun, 20 Sep 2026 19:38:48 +0000",
@@ -443,13 +457,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-        "pubDate": "Sun, 20 Sep 2026 14:00:00 +0000",
-        "description": "Current ticket pricing ends in 6 days on Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Flock reportedly tries to shrink workforce with employee buyouts",
         "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
         "pubDate": "Sat, 19 Sep 2026 20:39:13 +0000",
@@ -492,11 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
-        "link": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
-        "pubDate": "Sat, 19 Sep 2026 14:00:00 +0000",
-        "description": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then.",
-        "source": "TechCrunch"
+        "title": "No Dogs in Space is back to feed your need for obsessive music history",
+        "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+        "pubDate": "2026-09-20T16:51:57-04:00",
+        "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce th",
+        "source": "TheVerge"
       },
       {
         "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
         "pubDate": "2026-09-20T08:45:48-04:00",
         "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "A great new video game movie",
-        "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-        "pubDate": "2026-09-20T08:00:00-04:00",
-        "description": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out t",
         "source": "TheVerge"
       }
     ],
