@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-20T17:28:54.817687Z",
+  "ts": "2026-09-20T19:42:40.289350Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,34 @@
     ],
     "en_tech": [
       {
+        "title": "Elon Musk’s latest Boring Company pitch involves a Hyperloop between Austin and San Antonio",
+        "link": "https://techcrunch.com/2026/09/20/elon-musks-latest-boring-company-pitch-involves-a-hyperloop-between-austin-and-san-antonio/",
+        "pubDate": "Sun, 20 Sep 2026 19:38:48 +0000",
+        "description": "Many of The Boring Company's announced project have not materialized.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is the AI industry really ready to slow down?",
+        "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+        "pubDate": "Sun, 20 Sep 2026 18:56:04 +0000",
+        "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+        "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+        "pubDate": "Sun, 20 Sep 2026 18:32:52 +0000",
+        "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ScrollEd wants to turn textbooks into TikTok",
+        "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+        "pubDate": "Sun, 20 Sep 2026 18:00:00 +0000",
+        "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "New California law will penalize influencers who don’t disclose political ads",
         "link": "https://techcrunch.com/2026/09/20/new-california-law-will-penalize-influencers-dont-disclose-political-ads/",
         "pubDate": "Sun, 20 Sep 2026 16:30:00 +0000",
@@ -471,32 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-        "link": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-        "pubDate": "Sat, 19 Sep 2026 13:00:00 +0000",
-        "description": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-        "source": "TechCrunch"
+        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
+        "pubDate": "2026-09-20T14:50:18-04:00",
+        "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% ch",
+        "source": "TheVerge"
       },
       {
-        "title": "India forces caller-ID apps to feed spam reports to telcos",
-        "link": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
-        "pubDate": "Sat, 19 Sep 2026 01:00:00 +0000",
-        "description": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
-        "link": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
-        "pubDate": "Sat, 19 Sep 2026 00:12:07 +0000",
-        "description": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
-        "link": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
-        "pubDate": "Fri, 18 Sep 2026 23:25:01 +0000",
-        "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-        "source": "TechCrunch"
+        "title": "Kojima Productions disputes reports the studio is in trouble",
+        "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+        "pubDate": "2026-09-20T14:15:10-04:00",
+        "description": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was ",
+        "source": "TheVerge"
       },
       {
         "title": "Trump now says he wants to form an ‘AI Force’",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
         "pubDate": "2026-09-20T08:00:00-04:00",
         "description": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The hidden monopoly behind your TI graphing calculator",
-        "link": "https://www.theverge.com/podcast/997725/the-hidden-monopoly-behind-your-ti-graphing-calculator",
-        "pubDate": "2026-09-20T08:00:00-04:00",
-        "description": "The same calculator has been on most kids' back to school shopping list since the early 2000's and the dominance of Texas Instruments' calculator division goes back even farther. In the next episode of Version History, David Pierce is joined by The V",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-        "link": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-        "pubDate": "2026-09-20T08:00:00-04:00",
-        "description": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the app",
         "source": "TheVerge"
       }
     ],
