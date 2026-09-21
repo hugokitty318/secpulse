@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-21T05:27:40.072481Z",
+  "ts": "2026-09-21T11:05:07.139990Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "921防災日延伸數位防災，台灣數位信任協會倡議「台灣資安日」提升全民資安意識",
+        "link": "https://www.ithome.com.tw/news/179081",
+        "pubDate": "2026-09-21 16:35",
+        "description": "9月21日全台依照國家防災日演練發布地震警報，同一天也是台灣數位信任協會攜手產官學研推動的首屆「台灣資安日」，希望將防災意識延伸至數位環境。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "新HTTP QUERY方法逐步進入既有Web生態系，SANS ISC提醒安全控制需重新檢視",
+        "link": "https://www.ithome.com.tw/news/179087",
+        "pubDate": "2026-09-21 16:19",
+        "description": "IETF今年6月正式將QUERY納入HTTP標準後，這個介於GET與POST之間的新方法，也讓既有Web安全機制面臨新的灰色地帶。SANS網路風暴中心（ISC）指出，隨著部分Web元件開始支援QUERY，WAF、API Gateway、CSRF與快取等既有安全控制能否正確處理這項新方法，也成為需要關注的問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月21日，Google證實Gemini代理人也駭入外部公司網站",
+        "link": "https://www.ithome.com.tw/news/179088",
+        "pubDate": "2026-09-21 16:08",
+        "description": "Google證實，Gemini在AI安全測試期間意外存取3家外部公司的受保護系統，其中一家是反覆猜測密碼後成功登入，另外兩家則是從公開儲存庫找到憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "npm惡意套件避開GitHub安裝指令碼防護，改於執行時期發動攻擊",
+        "link": "https://www.ithome.com.tw/news/179086",
+        "pubDate": "2026-09-21 15:38",
+        "description": "資安業者發現累計獲數百萬次下載的10個惡意npm套件，攻擊者將載入程式藏入套件功能，避開GitHub在npm v12中的install-script防護機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員揭露4個Linux核心本機權限提升漏洞並公開PoC",
+        "link": "https://www.ithome.com.tw/news/179084",
+        "pubDate": "2026-09-21 15:11",
+        "description": "研究人員發現DirtyAH6、TUNderflow、PPPoEject及DiagSpill等漏洞，均可讓低權限用戶取得root權限，修補程式已陸續納入Linux Kernel",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI Codex程式開發代理工具曝雙漏洞，唯讀模式也可越界執行命令",
+        "link": "https://www.ithome.com.tw/news/179082",
+        "pubDate": "2026-09-21 15:08",
+        "description": "OpenAI Codex曝兩項沙箱逃逸漏洞，Heapjack可在唯讀模式取得信任權杖，無須使用者核准便呼叫主機端程式，Overpatch則可利用權限判斷缺陷越界寫檔，兩項漏洞均已修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐洲AI業者反對放慢AI發展，批美國巨頭藉安全鞏固領先地位",
+        "link": "https://www.ithome.com.tw/news/179083",
+        "pubDate": "2026-09-21 15:07",
+        "description": "面對美國AI業界討論放慢前沿AI發展，歐洲多家AI業者擔心，此舉可能讓技術差距更難追趕",
+        "source": "iThome資安"
+      },
       {
         "title": "北韓駭客組織WaterPlum利用假冒求職感染全球至少3萬臺裝置，竊取千萬美元加密貨幣",
         "link": "https://www.ithome.com.tw/news/179080",
@@ -52,38 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Oracle發布Java 27，強化TLS 1.3後量子密碼學支援",
-        "link": "https://www.ithome.com.tw/news/179030",
-        "pubDate": "2026-09-21 08:00",
-        "description": "Oracle發布Java 27，TLS 1.3新增後量子混合式金鑰建立機制，在建立連線時結合傳統與抗量子密碼學演算法。相關PQC功能也將陸續納入Java長期支援版本，企業既有Java環境未來可逐步導入",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cloudflare揭露4波惡意JavaScript攻擊，依環境條件啟動提高偵測難度",
-        "link": "https://www.ithome.com.tw/news/179039",
-        "pubDate": "2026-09-21 08:00",
-        "description": "Cloudflare揭露4波惡意JavaScript攻擊，共涉及8個惡意酬載。部分攻擊只在特定裝置或網路環境下啟動，還會移除網站監控工具，使掃描工具更難發現惡意行為",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國要求金融機構加強防範詐騙，並打擊支援東南亞詐騙中心的犯罪市集Xinbi",
-        "link": "https://www.ithome.com.tw/news/178983",
-        "pubDate": "2026-09-21 08:00",
-        "description": "美國鎖定支援東南亞詐騙中心的犯罪市集Xinbi Guarantee展開打擊，制裁平臺並查扣Telegram頻道及加密貨幣錢包，整體限制逾5,200萬美元加密貨幣移轉。Xinbi被指透過Telegram串聯詐騙中心與犯罪服務商家，支援詐騙、洗錢等活動",
-        "source": "iThome資安"
-      },
-      {
         "title": "歐盟擬建立緊急安全協議，共同因應網路攻擊等混合威脅",
         "link": "https://www.ithome.com.tw/news/179023",
         "pubDate": "2026-09-21 08:00",
         "description": "歐盟面對持續增加的網路攻擊、破壞活動等混合威脅，擬建立緊急安全協議",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員利用Claude開發漏洞利用程式，可操作OpenAI內部程式碼儲存庫",
-        "link": "https://www.ithome.com.tw/news/179063",
-        "pubDate": "2026-09-21 08:00",
-        "description": "資安研究人員利用Claude協助開發漏洞利用程式，在不到72小時的研究過程中，控制OpenAI員工的ChatGPT帳號，最終可操作OpenAI內部程式碼儲存庫",
         "source": "iThome資安"
       },
       {
@@ -94,47 +115,61 @@
         "source": "iThome"
       },
       {
-        "title": "ChatGPT支援Microsoft Word、外掛連結多帳號",
-        "link": "https://www.ithome.com.tw/news/179071",
-        "pubDate": "2026-09-21  09:09:56",
-        "description": "OpenAI上周公佈ChatGPT新功能，包括桌機版首度支援Microsoft Word、外掛能連結多帳號等。\n透過ChatGPT for Word，使用者可以在ChatGPT側邊欄叫這個聊天機器人將筆記寫成文件草稿、摘要文件、修改特定部分文字、編輯標題和格式。在此之前，ChatGPT已透過同一個Microsoft整合功能支援Excel和PowerPoint。",
+        "title": "World推出金融超級App World Money，整合支付、投資與跨境轉帳",
+        "link": "https://www.ithome.com.tw/news/179090",
+        "pubDate": "2026-09-21  05:09:38",
+        "description": "World周四（9/17）推出金融超級程式World Money，它整合穩定幣、支付、投資、收益及跨境轉帳等金融服務，使用者可在同一個App中持有美元及其他當地貨幣計價的穩定幣、買賣數位資產，還可免費進行數位資產的跨境轉帳，現已開始於全球逾150個國家部署。",
         "source": "iThome"
       },
       {
-        "title": "支援身分聯合服務與Passkey，兆勤網管雲大幅強化登入安全",
-        "link": "https://www.ithome.com.tw/review/179044",
-        "pubDate": "2026-09-20 22:22",
-        "description": "兆勤科技（Zyxel Networks）推出至今將屆滿10年的雲端網路管理平臺Nebula，今年9月發布最新版（20.10），增設身分認證聯合服務，可整合Microsoft Entra ID這類第三方身分識別系統，透過Nebula雲端身分驗證伺服器建立的憑證，也支援通行密碼（Passkey）登入",
-        "source": "iThome資安"
+        "title": "NPM新增僅限暫存發布權杖，為2027年收緊自動發布權限做準備",
+        "link": "https://www.ithome.com.tw/news/179089",
+        "pubDate": "2026-09-21  04:09:35",
+        "description": "GitHub套件管理器NPM精細度存取權杖新增僅限暫存發布（Stage-only）權限，讓軟體自動化流程送出套件版本等待審查，但不能直接發布至NPM套件登錄庫。NPM預計2027年1月取消可繞過雙因素驗證（2FA）權杖的直接發布能力，新權限提供仍採權杖自動發布的開發團隊一個過渡方式。",
+        "source": "iThome"
       },
       {
-        "title": "TWNIC籲企業將網域納入資安治理，臺灣DNSSEC部署率僅2.47%",
-        "link": "https://www.ithome.com.tw/news/179047",
-        "pubDate": "2026-09-18 23:17",
-        "description": "面對假冒網站、網域挾持等風險，台灣網路資訊中心（TWNIC）呼籲企業將網路信任納入資安治理。最新統計顯示，臺灣ROA覆蓋率達98.06%，ROV過濾率55.98%，但DNSSEC部署率僅2.47%，Registry Lock目前約24個核心域名啟用，顯示不同網域安全防護機制採用率仍有明顯差距。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA發布首份網路誘餌實務指南，協助關鍵基礎設施及早偵測已入侵攻擊者",
-        "link": "https://www.ithome.com.tw/news/179046",
-        "pubDate": "2026-09-18 18:52",
-        "description": "美國CISA發布網路誘餌指南，說明如何透過假帳號、假憑證、誘餌檔案與Honeytoken等欺敵手法，協助關鍵基礎設施偵測已進入環境中的攻擊者，即使一般企業也可依據自身資安成熟度，評估規畫與導入相關欺敵策略",
-        "source": "iThome資安"
+        "title": "德國法院要求Meta對臉書及IG上的假廣告負責",
+        "link": "https://www.ithome.com.tw/news/179085",
+        "pubDate": "2026-09-21  03:09:51",
+        "description": "德國金融資訊網站Finanzfluss及共同創辦人Thomas Kehl，因臉書（Facebook）及IG（Instagram）長期出現冒用其商標與肖像的投資詐騙廣告而控告Meta。法蘭克福地方法院9月16日判決Meta敗訴，要求Meta停止散布相關假廣告並賠償損失。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "Noetive 募得 4,100 萬美元，讓 AI「自我改進」工廠與物流流程，瞄準實體產業最佳化",
-        "link": "https://techorange.com/2026/09/17/noetive-launches-self-improving-ai-factories-logistics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 17 Sep 2026 18:22:28 +0800",
-        "description": "工業 AI 新創公司 Noetive 近日正式宣布成立，並完成 4,100 萬美元種子輪融資。《SiliconANGLE》報導，Noetive 開發的軟體可學習工廠與物流作業的日常運作模式，協助企業掌握生產線、貨運等實體營運流程。公司表示，目前已有製造、物流、能源及資料中心等產業的設計合作夥伴採用這套系統。 Noetive 專為工廠與物流打造「營運大腦」，望打破跨部門資料孤島 Noetive 執行長 Amir Frenkel 表示，過去多數 AI 產品都是為網際網路上的資訊工作而設計。但工廠與物",
-        "source": "TechOrange"
-      },
       {
         "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
         "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 19 Sep 2026 06:29:00 +0800",
         "description": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業，占比也超過 75%。受訪者的層級包含 33.7% 的董事會成員與總經理、38.8% 的部門主管，以",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 重塑外包市場：印度 3,150 億美元 IT 產業，從例行工作走向高價值服務",
+        "link": "https://techorange.com/2026/09/21/ai-matters-india-philippines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 21 Sep 2026 17:22:35 +0800",
+        "description": "AI 正在改變印度外包產業的工作內容，目前尚未造成產業出口的廣泛下降。但 ING 銀行指出，隨著 AI 逐步自動化客服、法律審查、理賠處理、文件驗證及資料輸入等工作，外包產業成長正逐漸從例行性處理工作轉向資料分析、軟體開發及其他更高價值的服務。 需求縮減還是結構改變？分析指 AI 正逐漸重塑印度的全球外包角色 《Reuters》提及，印度 3,150 億美元的 IT 產業被視為特別容易受到 AI 影響，原因之一在於其傳統上依賴按工時計費的商業模式。ING 研究指出，印度軟體服務出口占國內生產毛額",
+        "source": "TechOrange"
+      },
+      {
+        "title": "烏克蘭無人機產業從爆發成長走向整合，500 多家業者下一步拚什麼？",
+        "link": "https://techorange.com/2026/09/21/ukraine-drone-industry/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 21 Sep 2026 16:26:36 +0800",
+        "description": "烏克蘭戰爭催生超過 500 家無人飛行載具（UAV）製造商，如今這個高度分散的市場開始出現另一種變化。源自烏克蘭、目前在美國掛牌的自主系統公司 Swarmer，9 月宣布最高以 2.24 億美元收購烏克蘭地面機器人公司 Ratel Robotics。《The Wall Street Journal》將這筆交易視為當地無人系統產業走向整併的重要訊號之一。 這筆交易發生之際，烏克蘭無人機市場也正從大量小團隊快速試作，逐漸走向更大規模採購。業者除了開發產品，還開始面對產能、供應鏈、公司治理、海外募資等",
+        "source": "TechOrange"
+      },
+      {
+        "title": "30 分鐘建構雷射腔：MIT 導入 7 軸機器人，實現光學實驗「從零到一」自動化",
+        "link": "https://techorange.com/2026/09/21/mit-robotic-lab-runs-optics-experiments-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 21 Sep 2026 12:34:06 +0800",
+        "description": "麻省理工學院（Massachusetts Institute of Technology，MIT）研究團隊打造一套可自主執行光學實驗的機器人系統，讓機器人能自行組裝鏡子、透鏡等光學元件，並依照研究需求調整實驗配置。《Forbes》報導，這套系統可協助研究人員自動完成大量重複性的實驗準備工作，並有望應用於包括量子力學在內的多種研究。 MIT 開發全自動機器人實驗室：30 分鐘組裝「桌上型雷射腔」 這項研究由 MIT 電子研究實驗室（Research Laboratory of Electronic",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 失控就拔插頭？打造「終止開關」為何比想像中更難",
+        "link": "https://techorange.com/2026/09/21/ai-kill-switch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 21 Sep 2026 12:14:28 +0800",
+        "description": "最近幾個月，前沿實驗室的 AI Agent（AI 代理）接連出現越過原先限制的案例。這些事件多發生在評測與研究環境，但當 Agent 能自己操作電腦、使用工具甚至尋找其他行動路徑，一個更實際的問題也跟著浮現：出了問題，人類真的能把 AI 關掉嗎？ 美國已經開始嘗試回答這個問題。加州州長 Gavin Newsom 9 月 18 日發布行政命令，成立專家小組研究 AI「終止開關（kill switch）」；今年 7 月，美國跨黨派眾議員也提出《AI Kill Switch Act》，要求大型 AI ",
         "source": "TechOrange"
       },
       {
@@ -205,27 +240,6 @@
         "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 18 Sep 2026 10:48:28 +0800",
         "description": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《SiliconANGLE》指出，Astra for Law 的法律搜尋索引涵蓋美國判例法、成文法、法規、法院",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【洗碗影片＝機器人訓練資料】Figure 砸 10 億美元蒐集真實數據，瞄準家用機器人市場",
-        "link": "https://techorange.com/2026/09/18/figure-index-human-train-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 10:00:31 +0800",
-        "description": "Figure 推出零工經濟平台 Index，透過佩戴攝影機的人類工作者，以影像記錄家事任務，藉此取得大量資料投入人形機器人訓練，並預期支出 10 億美元換取真實世界數據。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 代理怎麼顧好 1,800 家門市評論？美國連鎖美髮龍頭把回覆率衝上 98%",
-        "link": "https://techorange.com/2026/09/18/agentic-ai-localize-customer-engagement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 06:11:00 +0800",
-        "description": "對擁有數百甚至上千家門市的連鎖品牌而言，Google 與 Yelp 等平台上的顧客評論早已不只是客服工作，更是影響消費者選擇門市、反映線下營運問題的關鍵。然而，隨著展店速度加快，總部若要維持每家分店的評論品質、搜尋曝光與數據分析，傳統的人力維運模式將難以為繼。 生成式 AI 正徹底翻轉這項局限。AI 的角色已從單純「輔助寫作」進化為自主運作的「門市數位代理人」，能直接執行評論維運、在地 SEO 優化、客訴派單與顧客洞察，讓品牌無痛邁向規模化。 回覆率提升至 98%！美髮連鎖品牌靠 AI 代理搞定",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Apple 傳重返企業伺服器市場",
-        "link": "https://techorange.com/2026/09/18/winbond-infineon-memory-deal-apple-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊華邦電 11.2 億美元簽約收購英飛凌記憶體事業，Spansion 將重啟 華邦電子（Winbond）宣布，已與英飛凌（Infineon Technologies）旗下 Infineon Technologies LLC 簽署股份購買協議，將以全現金取得英飛凌 NOR Flash 與 F-RAM 事業百分之百股權。基礎交易價格為 11.2 億美元，交割前仍將依股份購買協議調整。這筆交易已獲華邦電董事會核准，預計在 2027 年下半年完成，但仍須",
         "source": "TechOrange"
       }
     ],
@@ -336,6 +350,20 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
+        "link": "https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html",
+        "pubDate": "Mon, 21 Sep 2026 14:09:38 +0530",
+        "description": "Threat actors are leveraging ClickFix-like lures to deliver a previously undocumented remote access trojan (RAT) called ChainScript.\n\n\"ChainScript has appeared under multiple build names, including ComponentTask33, UpdateDigital, HostShared, and Orch",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors",
+        "link": "https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html",
+        "pubDate": "Mon, 21 Sep 2026 11:36:44 +0530",
+        "description": "The North Korean threat actor known as Jade Sleet has been attributed to the compromise of an India-based \"much smaller organization\" in the information technology (IT) services industry, once again highlighting how the adversary continues to target ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Public Exploits Released for Four Linux Kernel Flaws That Enable Local Root",
         "link": "https://thehackernews.com/2026/09/public-exploits-released-for-four-linux.html",
         "pubDate": "Fri, 18 Sep 2026 23:32:24 +0530",
@@ -354,20 +382,6 @@
         "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
         "pubDate": "Fri, 18 Sep 2026 20:54:16 +0530",
         "description": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan.\n\nThe attacks, per Zscaler ThreatLab",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-        "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-        "pubDate": "Fri, 18 Sep 2026 18:17:04 +0530",
-        "description": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required.\n\nThe vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-        "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-        "pubDate": "Fri, 18 Sep 2026 16:31:16 +0530",
-        "description": "In July 2025, someone registered a domain that used to belong to a content delivery network.  The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of w",
         "source": "TheHackerNews"
       }
     ],
@@ -478,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "No one is surprised that Nvidia&#8217;s Jensen Huang thinks AI fears are overblown.",
+        "title": "Get a closer look at the iPhone 18 Pro’s mechanical camera",
+        "link": "https://www.theverge.com/tech/998108/apple-iphone-18-pro-max-camera-ifixit-teardown",
+        "pubDate": "2026-09-21T06:57:27-04:00",
+        "description": "iFixit's latest device teardown shows us the inner workings of the new variable aperture lens inside Apple's iPhone 18 Pro and 18 Pro Max, alongside some repair concerns to be mindful of. The adjustable mechanical iris opens and closes magnetically, ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "UN says AI safeguards can’t wait for certainty",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
+        "pubDate": "2026-09-21T06:18:06-04:00",
+        "description": "Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The r",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Amazon doesn’t trust Meta’s Muse AI agent",
+        "link": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping",
+        "pubDate": "2026-09-21T05:21:47-04:00",
+        "description": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "No Dogs in Space is back to feed your need for obsessive music history",
+        "link": "https://www.theverge.com/report/997948/no-dogs-in-space-is-back-punk-2-0-music-history-podcast",
+        "pubDate": "2026-09-20T16:51:57-04:00",
+        "description": "In August, I wrote about my love of the music history podcast No Dogs in Space, but mourned the fact that there hadn't been a new episode in over two years. Little did I know that hosts Carolina Hidalgo and Marcus Parks were gearing up to announce th",
+        "source": "TheVerge"
+      },
+      {
+        "title": "No one is surprised that Nvidia’s Jensen Huang thinks AI fears are overblown",
         "link": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
         "pubDate": "2026-09-20T14:50:18-04:00",
         "description": "The man who may stand to make the most money from the AI boom seems to think he knows better than anyone else, including researchers who have studied and worked on AI for decades. In an interview with CBS Sunday Morning, he claimed there was a \"0% ch",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Kojima Productions disputes reports the studio is in trouble",
-        "link": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
-        "pubDate": "2026-09-20T14:15:10-04:00",
-        "description": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Trump now says he wants to form an ‘AI Force’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-        "pubDate": "2026-09-20T11:39:22-04:00",
-        "description": "The president posted on Truth Social that he wanted to appoint an \"AI czar\" to lead a new \"AI force.\" He made the announcement amid growing calls from across the political spectrum and even within the industry to pump the brakes on AI development. He",
-        "source": "TheVerge"
-      },
-      {
-        "title": "A24’s reputation is on the line with the SCP Foundation movie",
-        "link": "https://www.theverge.com/entertainment/997853/a24-scp-movie-creative-commons-license",
-        "pubDate": "2026-09-20T08:45:48-04:00",
-        "description": "After the success of Backrooms, it looks like A24 is trying to cash in on yet another internet horror craze with a new installment in the V/H/S horror anthology series set in the SCP Foundation universe. But as soon as it was announced, the backlash ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "A great new video game movie",
-        "link": "https://www.theverge.com/tech/997322/resident-evil-steam-frame-fire-emblem-fortunes-weave",
-        "pubDate": "2026-09-20T08:00:00-04:00",
-        "description": "Hi, friends! Welcome to Installer No. 144, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, new tech season is here, and also you can read all the old editions at the Installer homepage.) This week, I flew out t",
         "source": "TheVerge"
       }
     ],
