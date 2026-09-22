@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-21T21:01:22.752069Z",
+  "ts": "2026-09-22T00:03:43.079444Z",
   "tabs": {
     "cn_sec": [
       {
@@ -138,6 +138,20 @@
     ],
     "cn_tech": [
       {
+        "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
+        "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 06:30:00 +0800",
+        "description": "「世界模型（World Model）」正成為 AI 資本市場的新熱門領域，但一個反差也越來越明顯：錢已經大量進場，真正能賺錢的產品卻還沒有定型。 今年以來，Yann LeCun 創立的 AMI Labs 募得 10.3 億美元，李飛飛的 World Labs 也完成 10 億美元融資。更極端的是，《Financial Times》9 月報導，由前 Google DeepMind Genie 團隊成立的 Emulate，創立約一個月就洽談最高 7 億美元融資，估值約 37 億美元，但該公司至今仍未",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】川習會前美中研議 AI 對話、川普將組「AI 部隊」；中國傳放慢人形機器人上市",
+        "link": "https://techorange.com/2026/09/22/us-china-ai-dialogue-ai-force/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊川習會前美中研議 AI 對話，美提國安事故通報、川普將組「AI 部隊」 美國財政部長貝森特（Scott Bessent）與中國國務院副總理何立峰，在紐約舉行川習會前的經貿會談。雙方討論建立美中 AI 對話，處理 AI 帶來的機會與威脅。美方並提議建立安全通報機制，當 AI 事件升高到國家安全層級時，兩國可以相互通知，提高資訊透明度。中國是否接受這項具體安排仍不清楚，提案將交由美國總統川普與中國國家主席習近平在峰會上考慮。兩位領袖今年 5 月曾討",
+        "source": "TechOrange"
+      },
+      {
         "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
         "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 19 Sep 2026 06:29:00 +0800",
@@ -226,20 +240,6 @@
         "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 18 Sep 2026 12:49:07 +0800",
         "description": "由 NVIDIA 擔任 AI 技術協辦單位的 AI 代理邊緣黑客松大賽【2026 Agentic AI on the Edge HACKATHON】將於 10 月底登場，邀請開發者、IT 人員與新創團隊，在低延遲、無網 / 弱網環境、隱私資料保護等邊緣場景中，打造能自主規劃、執行與修正，真正走進現實世界的 Agentic AI。 TechOrange 在會前採訪黑客松主辦單位翰尼斯企業成員暨技術工作坊講師曾吉弘（以下稱阿吉老師）。阿吉老師身為 CAVEDU 教育團隊創辦人、NVIDIA DLI ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「AI 開發 AI」到底進展多快？Anthropic 首度公布三大衡量指標",
-        "link": "https://techorange.com/2026/09/18/anthropic-measurements-the-pace-of-ai-development/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 11:57:12 +0800",
-        "description": "AI 發展得太快了嗎？人們越來越擔心，AI 可能很快就會發展成幾乎不需人類干預就能自我發展的地步。Anthropic 執行長 Dario Amodei 近日呼籲前沿 AI 公司討論放慢模型能力進步速度，並主張引入獨立第三方評估者。與此同時，前沿 AI 公司也開始增加外界看見內部風險的方式。 OpenAI 美國時間 9/16 公布新的模型異常行為揭露框架，承諾更有系統地公開模型出現未授權或其他值得關注的行為。但除了出了什麼問題，另一個更根本的問題是：AI 到底正在以多快的速度發展？當 AI 已開始",
-        "source": "TechOrange"
-      },
-      {
-        "title": "OpenAI 推 Astra for Law：判例多找 24%、正確率大勝通用模型，法律 AI 開打",
-        "link": "https://techorange.com/2026/09/18/openai-astra-law-source-chatgpt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 10:48:28 +0800",
-        "description": "OpenAI Group PBC 宣布推出 Astra for Law，將 GPT-6 Astra 結合法律搜尋索引與法律分析的指令，針對法律研究與文件起草需求提供給律師事務所及法律科技軟體公司使用。Astra for Law 並非全新的模型，而是以 GPT-6 Astra 為基礎打造的法律專用版本。 奠基於 GPT-6 基礎：Astra for Law 強化法律依據檢索與段落定位能力 《SiliconANGLE》指出，Astra for Law 的法律搜尋索引涵蓋美國判例法、成文法、法規、法院",
         "source": "TechOrange"
       }
     ],
@@ -378,10 +378,10 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "CISA alerts of active exploitation of three Linux kernel flaws",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-alerts-of-active-exploitation-of-three-linux-kernel-flaws/",
-        "pubDate": "Mon, 21 Sep 2026 16:12:17 -0400",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting three Linux kernel vulnerabilities, one of them rated critical. [...]",
+        "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
+        "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
+        "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
+        "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -394,10 +394,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "World model companies are keeping a lot of secrets",
-        "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
-        "pubDate": "Sun, 20 Sep 2026 20:29:07 +0000",
-        "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+        "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
+        "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
         "source": "TechCrunch"
       },
       {
@@ -492,6 +492,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "A cut cable disrupted hundreds of flights across the US",
+        "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
+        "pubDate": "2026-09-21T19:48:56-04:00",
+        "description": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of th",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
+        "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
+        "pubDate": "2026-09-21T19:15:32-04:00",
+        "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny ov",
+        "source": "TheVerge"
+      },
+      {
         "title": "California tightens rules on AI data center energy and water use",
         "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
         "pubDate": "2026-09-21T16:29:45-04:00",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
         "pubDate": "2026-09-21T13:42:15-04:00",
         "description": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. Ac",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Bungie says it’s ‘not done with Destiny’ and will bring back vaulted content",
-        "link": "https://www.theverge.com/news/998317/bungie-destiny-2-unvaulted-raids-campaigns-destinations",
-        "pubDate": "2026-09-21T12:35:59-04:00",
-        "description": "Months after seemingly giving up on Destiny 2, Bungie now says it's planning to restore vaulted content in the game like campaigns, destinations, and raids. The decision reverses the Destiny Content Vault that Bungie created six years ago, controvers",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Grab an Xbox controller and a $50 Xbox gift card together for just $80",
-        "link": "https://www.theverge.com/gadgets/998207/xbox-controller-chromebook-usbc-charger-deal-sale",
-        "pubDate": "2026-09-21T11:13:32-04:00",
-        "description": "Newegg is hosting a bundle that includes Microsoft’s wireless Xbox controller (in black) and a $50 digital Xbox gift card together for $80. Given that this model typically sits around $50 to $60 depending on the color you want, this is a fantastic va",
         "source": "TheVerge"
       }
     ],
