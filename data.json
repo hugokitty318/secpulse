@@ -1,7 +1,70 @@
 {
-  "ts": "2026-09-22T04:48:31.123001Z",
+  "ts": "2026-09-22T09:54:22.887079Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179144",
+        "pubDate": "2026-09-22 16:52",
+        "description": "9月上旬資安公司Fortinet兩度提出警告，他們偵測到大規模針對工作流程編排平臺Orkes Conductor的攻擊活動，試圖利用6月修補的重大漏洞CVE-2026-58138",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Rust熱門套件維護者遭鎖定，假工作邀約搭配視訊通話成駭客入侵管道",
+        "link": "https://www.ithome.com.tw/news/179141",
+        "pubDate": "2026-09-22 15:39",
+        "description": "攻擊者正以工作、專案與合約邀約接觸Rust熱門套件維護者，再藉視訊會議誘使安裝惡意軟體或執行指令，目標是取得帳號與發布權限，並進一步散布惡意套件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月22日，臺灣工業自動化業者遭中國駭客Red Heron竊取數百個程式碼儲存庫",
+        "link": "https://www.ithome.com.tw/news/179140",
+        "pubDate": "2026-09-22 14:51",
+        "description": "今年7月底Gitea修補重大漏洞CVE-2026-60004後，短短數日內便遭中國駭客Red Heron鎖定利用，針對尚未及時修補的多國Gitea系統發動攻擊。資安公司Acronis調查發現，一家臺灣工業自動化業者遭竊數百個程式碼儲存庫；另一個臺灣受害環境中，攻擊者更從Gitea進一步橫向移動至Proxmox虛擬化環境",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署揭機關老舊防火牆遭駭事件，設備交接不全、未掌握EOS成內網破口",
+        "link": "https://www.ithome.com.tw/news/179118",
+        "pubDate": "2026-09-22 14:16",
+        "description": "原本用來阻擋外部威脅的防火牆，卻因設備交接與生命週期管理未落實，反而成為駭客進入內網的破口。資安署近期揭露一起政府機關資安事件，指出攻擊者入侵一臺已超過原廠支援期限的防火牆，不僅取得控制權、竄改最高管理者帳密，更利用該設備進一步連線至機關內部網路",
+        "source": "iThome資安"
+      },
+      {
+        "title": "排除使郵件呈現看似正常的新型內容混淆手法，網擎郵件安全閘道新增隱形字元偵測功能",
+        "link": "https://www.ithome.com.tw/news/179091",
+        "pubDate": "2026-09-22 14:15",
+        "description": "在今年第二季實際郵件流量中，網擎資訊觀察到攻擊者利用隱形字元混淆郵件內容、規避偵測，為此該公司推出的郵件安全防護系統MailGates已於6.2.11.062版本支援ASCII Smuggling偵測，可自動辨識並處理信件中的隱形Unicode字元",
+        "source": "iThome資安"
+      },
+      {
+        "title": "印度IT供應商遭後門程式FlatRoof、RoofDeck入侵，疑為北韓駭客Jade Sleet所為",
+        "link": "https://www.ithome.com.tw/news/179132",
+        "pubDate": "2026-09-22 14:06",
+        "description": "資安公司SentinelOne指出，北韓駭客組織Jade Sleet（UNC4899、Pukchong、TraderTraitor）入侵印度一家IT服務廠商，攻擊源頭疑似針對開發人員下手，假借徵才面試與惡意Terraform專案啟動攻擊流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟Edge IE模式至少支援至2029年底，籲企業提前規畫轉型",
+        "link": "https://www.ithome.com.tw/news/179126",
+        "pubDate": "2026-09-22 12:57",
+        "description": "由於應用程式現代化可能耗時數年，微軟呼籲仍依賴IE模式的企業提早盤點並規畫轉型",
+        "source": "iThome資安"
+      },
+      {
+        "title": "攻擊手法BragJack透過惡意延伸套件挾持AI瀏覽器",
+        "link": "https://www.ithome.com.tw/news/179125",
+        "pubDate": "2026-09-22 12:51",
+        "description": "資安公司Forever Security揭露攻擊AI瀏覽器的新型態手法BragJack，攻擊者只需利用惡意Chrome延伸套件，就有機會挾持Chrome、Edge、Perplexity Comet、Opera Neon，以及安裝Claude in Chrome的瀏覽器，進而存取受害電腦檔案、瀏覽上網記錄、截取分頁內容，甚至讓AI代理代替使狦者執行任何操作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Rambus推出支援Caliptra規範的CryptoManager信任根",
+        "link": "https://www.ithome.com.tw/news/179123",
+        "pubDate": "2026-09-22 12:42",
+        "description": "為AI SoC提供硬體及軟體安全機制，涵蓋安全開機、裝置身分、金鑰管理與遠端驗證等應用",
+        "source": "iThome資安"
+      },
       {
         "title": "工控資安公司Dragos買下NetRise與runZero，打造xOT資安平臺",
         "link": "https://www.ithome.com.tw/news/179122",
@@ -45,55 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "與中國駭客Red Heron有關的攻擊者滲透近1,000臺GS1900兆勤交換器，臺灣受害數量排名第3",
-        "link": "https://www.ithome.com.tw/news/179106",
-        "pubDate": "2026-09-22 10:28",
-        "description": "威脅情報公司GreyNoise揭露自今年5月出現的一連串攻擊活動，疑與中國駭客Red Heron有關的團體，在8月中旬利用已知漏洞CVE-2026-7273，成功入侵996臺兆勤（Zyxel）GS1900系列交換器，並竊取敏感資料，臺灣有123臺，僅次於義大利和美國",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA警告兆勤交換器高風險漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179104",
-        "pubDate": "2026-09-22 10:10",
-        "description": "美國網路安全與基礎設施安全局（CISA）指出，他們掌握兆勤（Zyxel）GS1900交換器漏洞CVE-2026-7273遭積極利用，聯邦機構需3天內緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "萬達寵物客戶傳出個資外洩",
-        "link": "https://www.ithome.com.tw/news/179103",
-        "pubDate": "2026-09-22 09:21",
-        "description": "寵物零售公司萬達寵物發布資安重訊，指出客戶反映近日接獲第三人電子郵件聯繫，且對方掌握了他們的消費資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "友訊網站遭大量帳密嘗試登入",
-        "link": "https://www.ithome.com.tw/news/179102",
-        "pubDate": "2026-09-22 09:14",
-        "description": "網通設備公司友訊（2332）發布資安重訊，指出網站遭外部攻擊者以大量帳密嘗試登入，該公司清查登入記錄、封鎖可疑連線因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "NIST發布IR 8536製造業供應鏈追溯框架，以密碼學機制建立可驗證追溯紀錄",
-        "link": "https://www.ithome.com.tw/news/179052",
-        "pubDate": "2026-09-22 08:00",
-        "description": "NIST發布IR 8536製造業供應鏈追溯框架，利用密碼學雜湊值串接產品製造、組裝及出貨等紀錄，讓供應鏈上下游驗證產品來源歷程，同時透過選擇性揭露機制，避免為了追溯產品而公開敏感內部製造資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Comp AI募資3,400萬美元，從法規遵循自動化延伸至資安與AI代理安全",
-        "link": "https://www.ithome.com.tw/news/179062",
-        "pubDate": "2026-09-22 08:00",
-        "description": "Comp AI完成A輪募資，準備從既有的法規遵循自動化業務，進一步擴展至資安監控、安全測試及AI代理安全，並將AI代理的權限與當責問題列為發展重點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AIUC募資4,000萬美元，安全稽核將從AI代理擴及頂尖AI模型",
-        "link": "https://www.ithome.com.tw/news/179057",
-        "pubDate": "2026-09-22 08:00",
-        "description": "AIUC與BSI合作發展的AIUC-1認證，除了測試AI代理的安全與可靠性，也會稽核企業的AI治理及營運控制措施，並可結合AI代理相關保險",
-        "source": "iThome資安"
-      },
-      {
         "title": "Google開放Googlebook筆電預購，主打和Android手機緊密協作",
         "link": "https://www.ithome.com.tw/news/179119",
         "pubDate": "2026-09-22  12:09:44",
@@ -108,42 +122,42 @@
         "source": "iThome"
       },
       {
-        "title": "歐盟公布資料中心共同評等制度，PUE、WUE納入A至G分級",
-        "link": "https://www.ithome.com.tw/news/179113",
-        "pubDate": "2026-09-22  11:09:33",
-        "description": "生成式AI、高效能運算與雲端服務需求快速成長，使資料中心耗電與資源使用成為歐盟數位政策的重要議題。歐盟執委會本周公布資料中心共同評等制度（Common Union Rating Scheme for Data Centres），希望建立一套適用於歐盟各會員國的資料中心能源與永續表現評估方式，讓不同資料中心具備可比較性。",
+        "title": "【AI轉型實戰上篇】玉山銀行GENIE每月處理14億Token，模型調用成本不到5萬元",
+        "link": "https://www.ithome.com.tw/news/179111",
+        "pubDate": "2026-09-22  03:09:55",
+        "description": "也可參考【AI轉型實戰下篇】玉山打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架\n今年9月底，玉山銀行即將推出第三代GENIE，作為內部統一AI入口，全面導入Agentic AI，要從AI輔助轉為人機協作，進一步邁向代理式銀行（Agentic Banking）願景發展。",
         "source": "iThome"
       },
       {
-        "title": "Cloudflare無伺服器運算平臺正式支援Python，Web框架、資料庫與AI套件一併補齊",
-        "link": "https://www.ithome.com.tw/news/179105",
-        "pubDate": "2026-09-22  11:09:15",
-        "description": "Cloudflare旗下無伺服器運算平臺Workers的Python執行環境Python Workers正式上線，結束自2024年開始的測試階段。Python成為Cloudflare Developer Platform正式支援的程式語言，可使用Workers AI、R2、D1、Hyperdrive、Durable Objects、Queues與Workflows等服務。FastAPI、Django及Flask等Python Web框架也能在Workers環境執行。",
+        "title": "【AI轉型實戰下篇】玉山銀行打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架",
+        "link": "https://www.ithome.com.tw/news/179124",
+        "pubDate": "2026-09-22  03:09:16",
+        "description": "可先閱讀【",
         "source": "iThome"
       },
       {
-        "title": "Amazon封鎖Meta Muse，禁止AI代理人代替用戶購物",
-        "link": "https://www.ithome.com.tw/news/179108",
-        "pubDate": "2026-09-22  11:09:15",
-        "description": "Meta於9月8日推出個人AI代理人Muse，可替使用者瀏覽網站、填寫表格、購物及預約服務。不過，Amazon本周證實已封鎖Muse存取Amazon.com，指其未經授權進入網站，且未表明AI代理人身分，違反Amazon使用條款。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google位置資料處理違反GDPR，遭愛爾蘭重罰4.03億歐元",
-        "link": "https://www.ithome.com.tw/news/179112",
-        "pubDate": "2026-09-22  11:09:11",
-        "description": "愛爾蘭資料保護委員會（Data Protection Commission，DPC）周一（9/21）宣布，Google處理使用者位置資料的方式違反歐盟《一般資料保護規則》（GDPR），包括資料處理的合法性、公平性、透明度及保存期限等規定，決定對Google開罰4.03億歐元，並要求Google在6個月內改善相關資料處理方式，使其符合GDPR規定。",
-        "source": "iThome"
-      },
-      {
-        "title": "AWS改造AgentCore執行環境，AI代理冷啟動從最高30秒降至約2秒",
-        "link": "https://www.ithome.com.tw/news/179100",
-        "pubDate": "2026-09-22  10:09:14",
-        "description": "AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動機制。AWS測試顯示，使用200MB至2GB容器映像檔時，75%的冷啟動測試可在約2秒內完成，而舊版使用2GB映像檔時，冷啟動接近30秒。",
+        "title": "繼紐約後德州也踩煞車，暫停核發資料中心許可",
+        "link": "https://www.ithome.com.tw/news/179138",
+        "pubDate": "2026-09-22  02:09:43",
+        "description": "美國德州州長Greg Abbott周一（9/21）下令暫停核發資料中心相關許可，在完成電網及用水稽核前，不得繼續核准相關開發案。使德州成為繼紐約之後，美國第二個暫停資料中心許可的州別。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
+        "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 12:38:02 +0800",
+        "description": "美國最大的線上餐點與零售外送平台 DoorDash 正加速將 AI 代理導入企業內部資料分析，並自行打造名為 Vera 的 AI 資料分析代理，讓員工可以直接以自然語言提問，快速取得公司內部資料的分析結果。DoorDash 表示，目前已有超過 1 萬名員工仰賴公司資料生態系，而 Vera 可以從超過 20 萬個資料集、總規模達 350 PB 的企業資料中搜尋所需資訊。 員工可直接查詢營運數據，DoorDash 部署 Vera 減輕資料團隊負擔 《PYMNTS》提及，員工過去若想知道「為什麼上週加",
+        "source": "TechOrange"
+      },
+      {
+        "title": "RSI 風險浮上檯面，OpenAI 提新標準：AI 研發到哪一步要人類介入？",
+        "link": "https://techorange.com/2026/09/22/standards-ai-rsi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 11:37:08 +0800",
+        "description": "隨著 AI Agent 越界與模型異常行為話題持續延燒，前沿 AI 公司近期也接連端出新的安全治理方案。從 Anthropic 提出 AI 研發三大量測指標，到 Google DeepMind 主張建立前沿 AI 標準機構，業界正試圖把原本較抽象的安全原則，轉成可量測、可監督的制度。 OpenAI 也在短時間內連續採取行動：9/6 先公開 AI 如何加速內部研究，9/16 再推出模型未對齊報告框架（framework for reporting model misalignment），到了 9/",
+        "source": "TechOrange"
+      },
       {
         "title": "【AI 代理只是聰明的猴子】軟體工程師的新工作，是打造讓代理更強大的系統邊界",
         "link": "https://techorange.com/2026/09/22/software-engineer-new-job-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -170,13 +184,6 @@
         "link": "https://techorange.com/2026/09/22/us-china-ai-dialogue-ai-force/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 22 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊川習會前美中研議 AI 對話，美提國安事故通報、川普將組「AI 部隊」 美國財政部長貝森特（Scott Bessent）與中國國務院副總理何立峰，在紐約舉行川習會前的經貿會談。雙方討論建立美中 AI 對話，處理 AI 帶來的機會與威脅。美方並提議建立安全通報機制，當 AI 事件升高到國家安全層級時，兩國可以相互通知，提高資訊透明度。中國是否接受這項具體安排仍不清楚，提案將交由美國總統川普與中國國家主席習近平在峰會上考慮。兩位領袖今年 5 月曾討",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【全球 900+ IT 高管報告】雲端與 AI 時代新規：49.1% 企業為導入 AI 加速上雲，IT 拚的不是客製軟體而是資料整合",
-        "link": "https://techorange.com/2026/09/19/transformations-studie-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 19 Sep 2026 06:29:00 +0800",
-        "description": "德國的數位轉型服務公司 Natuvion 與全球 IT 服務供應商 NTT DATA Business Solutions，聯合發布《IT 轉型研究報告》（Transformations studie 2026），為確保結果能反映大型架構的真實複雜度，受訪企業特別鎖定中大型規模——77% 的公司年營收超過 3.5 億歐元，其中近 34% 更高達 10 億歐元以上；員工人數超過 1,000 人的企業，占比也超過 75%。受訪者的層級包含 33.7% 的董事會成員與總經理、38.8% 的部門主管，以",
         "source": "TechOrange"
       },
       {
@@ -241,16 +248,44 @@
         "pubDate": "Mon, 21 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Gemini 首度自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常 Google 母公司 Alphabet 旗下 Gemini 模型，今年 5 月接受獨立資安機構 Irregular 測試時，自主進入 3 家真實企業的系統，成為 Google AI 首次被發現自行做出這類行為。其中一次，Gemini 持續猜測密碼直到成功登入；另外兩次則從公開存放庫找到登入憑證。Google 表示，模型原本以為這些系統都在測試範圍內，辨",
         "source": "TechOrange"
-      },
-      {
-        "title": "全自駕計程車下一關是規模化？Waymo 加速亞洲布局：東京 2027、新加坡 2028",
-        "link": "https://techorange.com/2026/09/18/waymo-robotaxi-autonomous-ride-tokyo-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 18:04:13 +0800",
-        "description": "Alphabet 旗下自駕車公司 Waymo 正加速進軍亞洲市場。Waymo 於 9 月 14 日宣布，目標在 2027 年於東京推出全自動駕駛叫車服務；9 月 17 日又宣布，計劃於 2028 年在新加坡推出全自動駕駛叫車服務，並採用全電動車隊。兩項布局相隔僅數日，分別鎖定東亞與東南亞市場。 全自駕計程車 2027 登陸東京：Waymo 攜手車隊打造 24 小時服務 《Reuters》指出，Waymo 將與日本計程車 App 業者 GO 及計程車公司日本交通（Nihon Kotsu）合作，目標",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+        "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+        "pubDate": "Tue, 22 Sep 2026 13:22:03 +0530",
+        "description": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.\n\n\"SideCopy campaign operations typically initiate through spear-phis",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
+        "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
+        "pubDate": "Tue, 22 Sep 2026 12:03:57 +0530",
+        "description": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a hidd",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
+        "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
+        "pubDate": "Tue, 22 Sep 2026 11:33:14 +0530",
+        "description": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.\n\nWordPress fixed the flaw, tracked as",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
+        "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
+        "pubDate": "Tue, 22 Sep 2026 11:01:59 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vul",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+        "pubDate": "Tue, 22 Sep 2026 04:53:09 -0400",
+        "description": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Malicious npm packages evade install-script defenses at runtime",
         "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
@@ -294,34 +329,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild",
-        "link": "https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html",
-        "pubDate": "Sat, 19 Sep 2026 13:48:54 +0530",
-        "description": "A critical vulnerability impacting Orkes Conductor is being actively exploited in the wild, according to Fortinet.\n\nThe vulnerability in question is CVE-2026-58138 (CVSS v3.1 score: 9.8/CVSS v4 score: 9.3), which relates to a case of unauthenticated ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up",
-        "link": "https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html",
-        "pubDate": "Sat, 19 Sep 2026 13:21:34 +0530",
-        "description": "Google's Gemini model has become the latest artificial intelligence (AI) system to access the internet and break into other companies during a cybersecurity evaluation. The development was first reported by The Wall Street Journal.\n\nThe incidents occ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories",
-        "link": "https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html",
-        "pubDate": "Sat, 19 Sep 2026 12:44:54 +0530",
-        "description": "An attacker copied about 170 of CrowdSec's private GitHub repositories on May 22 using the account of an employee who had just left, CrowdSec said on September 18.\n\nThe French security company had kept his GitHub access open. CrowdSec says his laptop",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Flags Three Linux Kernel Vulnerabilities Exploited in the Wild",
-        "link": "https://thehackernews.com/2026/09/cisa-flags-three-linux-kernel.html",
-        "pubDate": "Sat, 19 Sep 2026 11:54:10 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added three security flaws impacting the Linux kernel to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vulnerabilities are li",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "BragJack attacks hijack AI browser agents through malicious extensions",
         "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
         "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400",
@@ -340,13 +347,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
         "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400",
         "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-        "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-        "pubDate": "Sat, 19 Sep 2026 07:38:20 -0400",
-        "description": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanentl",
         "source": "BleepingComputer"
       },
       {
@@ -394,10 +394,10 @@
     ],
     "en_tech": [
       {
-        "title": "6 days left to save up to $200 to TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
-        "pubDate": "Sun, 20 Sep 2026 21:41:08 +0000",
-        "description": "Current ticket pricing ends in 6 days on September 25 at 11:59 p.m. PT. Join 10,000+ founders, investors, and tech leaders at Disrupt and save up to $200 on your ticket.",
+        "title": "Morphotonics raises €40M to expand its display tech into data centers",
+        "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
+        "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
+        "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
         "source": "TechCrunch"
       },
       {
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
+        "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
+        "pubDate": "2026-09-22T04:35:54-04:00",
+        "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located underneath Apple's European headqu",
+        "source": "TheVerge"
+      },
+      {
         "title": "A cut cable disrupted hundreds of flights across the US",
         "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
         "pubDate": "2026-09-21T19:48:56-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
         "pubDate": "2026-09-21T13:47:54-04:00",
         "description": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing f",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Paramount settles lawsuit blocking $110 billion Warner Bros. merger",
-        "link": "https://www.theverge.com/entertainment/998302/paramount-warner-bros-discovery-merger-settlement",
-        "pubDate": "2026-09-21T13:42:15-04:00",
-        "description": "Paramount has reached a settlement with California and the 11 other states that sued to block its planned $110 billion acquisition of Warner Bros. Discovery. The settlement removes a major roadblock standing in the way of the massive media merger. Ac",
         "source": "TheVerge"
       }
     ],
