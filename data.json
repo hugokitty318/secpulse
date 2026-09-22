@@ -1,142 +1,163 @@
 {
-  "ts": "2026-09-22T00:03:43.079444Z",
+  "ts": "2026-09-22T04:48:31.123001Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "921防災日延伸數位防災，台灣數位信任協會倡議「台灣資安日」提升全民資安意識",
-        "link": "https://www.ithome.com.tw/news/179081",
-        "pubDate": "2026-09-21 16:35",
-        "description": "9月21日全台依照國家防災日演練發布地震警報，同一天也是台灣數位信任協會攜手產官學研推動的首屆「台灣資安日」，希望將防災意識延伸至數位環境。",
+        "title": "工控資安公司Dragos買下NetRise與runZero，打造xOT資安平臺",
+        "link": "https://www.ithome.com.tw/news/179122",
+        "pubDate": "2026-09-22 12:42",
+        "description": "本週工控資安公司Dragos宣布併購NetRise與runZero，將兩家公司技術整合至Dragos平臺，進一步擴大至延伸營運技術（xOT）環境",
         "source": "iThome資安"
       },
       {
-        "title": "新HTTP QUERY方法逐步進入既有Web生態系，SANS ISC提醒安全控制需重新檢視",
-        "link": "https://www.ithome.com.tw/news/179087",
-        "pubDate": "2026-09-21 16:19",
-        "description": "IETF今年6月正式將QUERY納入HTTP標準後，這個介於GET與POST之間的新方法，也讓既有Web安全機制面臨新的灰色地帶。SANS網路風暴中心（ISC）指出，隨著部分Web元件開始支援QUERY，WAF、API Gateway、CSRF與快取等既有安全控制能否正確處理這項新方法，也成為需要關注的問題",
+        "title": "互動教學平臺Mathspace遭駭，逾107萬人個資外洩",
+        "link": "https://www.ithome.com.tw/news/179116",
+        "pubDate": "2026-09-22 12:03",
+        "description": "攻擊者利用Mathspace內部報表系統未及時修補的重大漏洞入侵，竊取澳紐學生、家長及教職員等個資",
         "source": "iThome資安"
       },
       {
-        "title": "【資安日報】9月21日，Google證實Gemini代理人也駭入外部公司網站",
-        "link": "https://www.ithome.com.tw/news/179088",
-        "pubDate": "2026-09-21 16:08",
-        "description": "Google證實，Gemini在AI安全測試期間意外存取3家外部公司的受保護系統，其中一家是反覆猜測密碼後成功登入，另外兩家則是從公開儲存庫找到憑證",
+        "title": "WordPress漏洞Click2Shell可被用於強制安裝佈景主題，若不處理恐被串連導致程式碼執行",
+        "link": "https://www.ithome.com.tw/news/179114",
+        "pubDate": "2026-09-22 11:56",
+        "description": "資安公司Pwn.ai近日公布向WordPress通報的資安漏洞Click2Shell，並指出攻擊者利用特製的佈景主題網址，誘使WordPress自動安裝，再搭配佈景主題的弱點，就有機會執行惡意PHP程式",
         "source": "iThome資安"
       },
       {
-        "title": "npm惡意套件避開GitHub安裝指令碼防護，改於執行時期發動攻擊",
-        "link": "https://www.ithome.com.tw/news/179086",
-        "pubDate": "2026-09-21 15:38",
-        "description": "資安業者發現累計獲數百萬次下載的10個惡意npm套件，攻擊者將載入程式藏入套件功能，避開GitHub在npm v12中的install-script防護機制",
+        "title": "中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣，工業自動化業者遭竊數百個程式碼儲存庫",
+        "link": "https://www.ithome.com.tw/news/179107",
+        "pubDate": "2026-09-22 11:22",
+        "description": "今年7月底，Gitea修補重大漏洞CVE-2026-60004後，短短數日內便遭中國駭客Red Heron鎖定利用，針對尚未及時修補的多國Gitea系統發動攻擊。資安公司Acronis調查發現，一家臺灣工業自動化業者遭竊數百個程式碼儲存庫；另一個臺灣受害環境中，攻擊者更從Gitea進一步橫向移動至Proxmox虛擬化環境",
         "source": "iThome資安"
       },
       {
-        "title": "研究人員揭露4個Linux核心本機權限提升漏洞並公開PoC",
-        "link": "https://www.ithome.com.tw/news/179084",
-        "pubDate": "2026-09-21 15:11",
-        "description": "研究人員發現DirtyAH6、TUNderflow、PPPoEject及DiagSpill等漏洞，均可讓低權限用戶取得root權限，修補程式已陸續納入Linux Kernel",
+        "title": "資安公司CrowdSec坦承原始碼遭竊，疑與TanStack供應鏈攻擊有關",
+        "link": "https://www.ithome.com.tw/news/179110",
+        "pubDate": "2026-09-22 11:09",
+        "description": "資安公司CrowdSec近日接獲通報，該公司存放於GitHub私有儲存庫的原始碼，於5月遭到外洩，根據初步調查的結果，很可能與TanStack供應鏈攻擊有關",
         "source": "iThome資安"
       },
       {
-        "title": "OpenAI Codex程式開發代理工具曝雙漏洞，唯讀模式也可越界執行命令",
-        "link": "https://www.ithome.com.tw/news/179082",
-        "pubDate": "2026-09-21 15:08",
-        "description": "OpenAI Codex曝兩項沙箱逃逸漏洞，Heapjack可在唯讀模式取得信任權杖，無須使用者核准便呼叫主機端程式，Overpatch則可利用權限判斷缺陷越界寫檔，兩項漏洞均已修補",
+        "title": "美國科羅拉多州供水企業遭駭，攻擊者直接干擾OT系統運作",
+        "link": "https://www.ithome.com.tw/news/179109",
+        "pubDate": "2026-09-22 11:08",
+        "description": "兩家小型供水企業遭外國駭客入侵並修改設備設定，事件未影響供水安全，但凸顯供水控制系統成為攻擊目標",
         "source": "iThome資安"
       },
       {
-        "title": "歐洲AI業者反對放慢AI發展，批美國巨頭藉安全鞏固領先地位",
-        "link": "https://www.ithome.com.tw/news/179083",
-        "pubDate": "2026-09-21 15:07",
-        "description": "面對美國AI業界討論放慢前沿AI發展，歐洲多家AI業者擔心，此舉可能讓技術差距更難追趕",
+        "title": "與中國駭客Red Heron有關的攻擊者滲透近1,000臺GS1900兆勤交換器，臺灣受害數量排名第3",
+        "link": "https://www.ithome.com.tw/news/179106",
+        "pubDate": "2026-09-22 10:28",
+        "description": "威脅情報公司GreyNoise揭露自今年5月出現的一連串攻擊活動，疑與中國駭客Red Heron有關的團體，在8月中旬利用已知漏洞CVE-2026-7273，成功入侵996臺兆勤（Zyxel）GS1900系列交換器，並竊取敏感資料，臺灣有123臺，僅次於義大利和美國",
         "source": "iThome資安"
       },
       {
-        "title": "北韓駭客組織WaterPlum利用假冒求職感染全球至少3萬臺裝置，竊取千萬美元加密貨幣",
-        "link": "https://www.ithome.com.tw/news/179080",
-        "pubDate": "2026-09-21 12:54",
-        "description": "美日澳德官方聯合揭露WaterPlum鎖定全球IT專業人士，以假求職面試散布惡意程式，受害者遍及100多國",
+        "title": "美國CISA警告兆勤交換器高風險漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179104",
+        "pubDate": "2026-09-22 10:10",
+        "description": "美國網路安全與基礎設施安全局（CISA）指出，他們掌握兆勤（Zyxel）GS1900交換器漏洞CVE-2026-7273遭積極利用，聯邦機構需3天內緊急修補",
         "source": "iThome資安"
       },
       {
-        "title": "Check Point修補安全管理與日誌伺服器重大漏洞，若未更新可能導致攻擊者取得root權限",
-        "link": "https://www.ithome.com.tw/news/179079",
-        "pubDate": "2026-09-21 12:09",
-        "description": "Check Point安全管理與日誌伺服器登入流程存在堆疊溢位問題，影響R81與R82多個分支系統版本，原廠已透過LivePatch提供修補",
+        "title": "萬達寵物客戶傳出個資外洩",
+        "link": "https://www.ithome.com.tw/news/179103",
+        "pubDate": "2026-09-22 09:21",
+        "description": "寵物零售公司萬達寵物發布資安重訊，指出客戶反映近日接獲第三人電子郵件聯繫，且對方掌握了他們的消費資料",
         "source": "iThome資安"
       },
       {
-        "title": "因應企業資安事故與個資外洩頻傳，韓國改革ISMS-P個資保護認證制度、強化現場審查",
-        "link": "https://www.ithome.com.tw/news/179076",
-        "pubDate": "2026-09-21 11:28",
-        "description": "即使取得ISMS、ISMS-P認證，企業仍可能發生重大資安及個資外洩事件，也讓韓國開始重新檢視認證制度的實效性。為改善過去偏重書面及特定時間點查核的問題，該國政府近期預告修正《個人資料保護法施行令》，未來將強化現場審查與技術驗證，並可在發生事故時進一步進行弱點診斷及模擬滲透",
+        "title": "友訊網站遭大量帳密嘗試登入",
+        "link": "https://www.ithome.com.tw/news/179102",
+        "pubDate": "2026-09-22 09:14",
+        "description": "網通設備公司友訊（2332）發布資安重訊，指出網站遭外部攻擊者以大量帳密嘗試登入，該公司清查登入記錄、封鎖可疑連線因應",
         "source": "iThome資安"
       },
       {
-        "title": "群暉修補DSM作業系統8個漏洞，含兩個可能導致服務阻斷攻擊的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179077",
-        "pubDate": "2026-09-21 11:21",
-        "description": "DSM儲存作業系統存在可能導致服務阻斷、任意讀寫檔案的重大漏洞，影響7.2到7.4等版本，用戶應儘速更新以降低風險",
+        "title": "NIST發布IR 8536製造業供應鏈追溯框架，以密碼學機制建立可驗證追溯紀錄",
+        "link": "https://www.ithome.com.tw/news/179052",
+        "pubDate": "2026-09-22 08:00",
+        "description": "NIST發布IR 8536製造業供應鏈追溯框架，利用密碼學雜湊值串接產品製造、組裝及出貨等紀錄，讓供應鏈上下游驗證產品來源歷程，同時透過選擇性揭露機制，避免為了追溯產品而公開敏感內部製造資料",
         "source": "iThome資安"
       },
       {
-        "title": "CISA將3個Linux核心漏洞列入KEV清單",
-        "link": "https://www.ithome.com.tw/news/179074",
-        "pubDate": "2026-09-21 10:52",
-        "description": "CISA於9月18日將3項Linux漏洞列入已遭利用漏洞清單（KEV），包括可能導致服務阻斷的重大漏洞，並要求聯邦機構在3天內完成修補",
+        "title": "Comp AI募資3,400萬美元，從法規遵循自動化延伸至資安與AI代理安全",
+        "link": "https://www.ithome.com.tw/news/179062",
+        "pubDate": "2026-09-22 08:00",
+        "description": "Comp AI完成A輪募資，準備從既有的法規遵循自動化業務，進一步擴展至資安監控、安全測試及AI代理安全，並將AI代理的權限與當責問題列為發展重點",
         "source": "iThome資安"
       },
       {
-        "title": "ShinyHunters駭入勒索軟體Clop網站",
-        "link": "https://www.ithome.com.tw/news/179073",
-        "pubDate": "2026-09-21 10:12",
-        "description": "ShinyHunters近日駭入勒索軟體駭客組織Clop的資料外洩網站並置換內容，宣稱取得伺服器資料、原始程式碼及私密金鑰。這起事件也揭露雙方先前圍繞Oracle EBS攻擊產生的衝突",
+        "title": "AIUC募資4,000萬美元，安全稽核將從AI代理擴及頂尖AI模型",
+        "link": "https://www.ithome.com.tw/news/179057",
+        "pubDate": "2026-09-22 08:00",
+        "description": "AIUC與BSI合作發展的AIUC-1認證，除了測試AI代理的安全與可靠性，也會稽核企業的AI治理及營運控制措施，並可結合AI代理相關保險",
         "source": "iThome資安"
       },
       {
-        "title": "Google證實Gemini代理人也駭入外部公司網站",
-        "link": "https://www.ithome.com.tw/news/179072",
-        "pubDate": "2026-09-21 10:01",
-        "description": "Google證實，Gemini在AI安全測試期間意外存取3家外部公司的受保護系統，其中一家是反覆猜測密碼後成功登入，另外兩家則是從公開儲存庫找到憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟擬建立緊急安全協議，共同因應網路攻擊等混合威脅",
-        "link": "https://www.ithome.com.tw/news/179023",
-        "pubDate": "2026-09-21 08:00",
-        "description": "歐盟面對持續增加的網路攻擊、破壞活動等混合威脅，擬建立緊急安全協議",
-        "source": "iThome資安"
-      },
-      {
-        "title": "前OpenAI研究員新創TypeSafe推Jev模型，讓AI從生成文字轉向直接判斷",
-        "link": "https://www.ithome.com.tw/news/179075",
-        "pubDate": "2026-09-21  11:09:57",
-        "description": "前OpenAI研究員Diogo Almeida創辦的AI新創TypeSafe，公開決策型AI模型Jev，現已開放所有使用者使用。Jev捨棄大型語言模型逐字生成文字的做法，直接回傳事先限定的選項、分數或是非機率，讓軟體把模型判斷用於分類、路由、評分與流程分支。Jev不是用來產生文章、程式碼或對話，而是把AI作為軟體流程中的判斷元件。",
+        "title": "Google開放Googlebook筆電預購，主打和Android手機緊密協作",
+        "link": "https://www.ithome.com.tw/news/179119",
+        "pubDate": "2026-09-22  12:09:44",
+        "description": "Google周一（9/21）連同5家品牌業者宣布整合Gemini Intelligence的筆電品牌Googlebook，同時也揭曉作業系統Googlebook OS。",
         "source": "iThome"
       },
       {
-        "title": "World推出金融超級App World Money，整合支付、投資與跨境轉帳",
-        "link": "https://www.ithome.com.tw/news/179090",
-        "pubDate": "2026-09-21  05:09:38",
-        "description": "World周四（9/17）推出金融超級程式World Money，它整合穩定幣、支付、投資、收益及跨境轉帳等金融服務，使用者可在同一個App中持有美元及其他當地貨幣計價的穩定幣、買賣數位資產，還可免費進行數位資產的跨境轉帳，現已開始於全球逾150個國家部署。",
+        "title": "加州一次通過7項資料中心新法，要求業者負擔電網升級成本",
+        "link": "https://www.ithome.com.tw/news/179121",
+        "pubDate": "2026-09-22  12:09:09",
+        "description": "美國加州州長Gavin Newsom周一（9/21）一次簽署7項資料中心相關法案，要求資料中心揭露用電、用水等資訊，並自行負擔電網及供水設施升級成本。AI資料中心大量興建造成的電力、水資源及成本問題，已在美國引發廣泛爭議。",
         "source": "iThome"
       },
       {
-        "title": "NPM新增僅限暫存發布權杖，為2027年收緊自動發布權限做準備",
-        "link": "https://www.ithome.com.tw/news/179089",
-        "pubDate": "2026-09-21  04:09:35",
-        "description": "GitHub套件管理器NPM精細度存取權杖新增僅限暫存發布（Stage-only）權限，讓軟體自動化流程送出套件版本等待審查，但不能直接發布至NPM套件登錄庫。NPM預計2027年1月取消可繞過雙因素驗證（2FA）權杖的直接發布能力，新權限提供仍採權杖自動發布的開發團隊一個過渡方式。",
+        "title": "歐盟公布資料中心共同評等制度，PUE、WUE納入A至G分級",
+        "link": "https://www.ithome.com.tw/news/179113",
+        "pubDate": "2026-09-22  11:09:33",
+        "description": "生成式AI、高效能運算與雲端服務需求快速成長，使資料中心耗電與資源使用成為歐盟數位政策的重要議題。歐盟執委會本周公布資料中心共同評等制度（Common Union Rating Scheme for Data Centres），希望建立一套適用於歐盟各會員國的資料中心能源與永續表現評估方式，讓不同資料中心具備可比較性。",
         "source": "iThome"
       },
       {
-        "title": "德國法院要求Meta對臉書及IG上的假廣告負責",
-        "link": "https://www.ithome.com.tw/news/179085",
-        "pubDate": "2026-09-21  03:09:51",
-        "description": "德國金融資訊網站Finanzfluss及共同創辦人Thomas Kehl，因臉書（Facebook）及IG（Instagram）長期出現冒用其商標與肖像的投資詐騙廣告而控告Meta。法蘭克福地方法院9月16日判決Meta敗訴，要求Meta停止散布相關假廣告並賠償損失。",
+        "title": "Cloudflare無伺服器運算平臺正式支援Python，Web框架、資料庫與AI套件一併補齊",
+        "link": "https://www.ithome.com.tw/news/179105",
+        "pubDate": "2026-09-22  11:09:15",
+        "description": "Cloudflare旗下無伺服器運算平臺Workers的Python執行環境Python Workers正式上線，結束自2024年開始的測試階段。Python成為Cloudflare Developer Platform正式支援的程式語言，可使用Workers AI、R2、D1、Hyperdrive、Durable Objects、Queues與Workflows等服務。FastAPI、Django及Flask等Python Web框架也能在Workers環境執行。",
+        "source": "iThome"
+      },
+      {
+        "title": "Amazon封鎖Meta Muse，禁止AI代理人代替用戶購物",
+        "link": "https://www.ithome.com.tw/news/179108",
+        "pubDate": "2026-09-22  11:09:15",
+        "description": "Meta於9月8日推出個人AI代理人Muse，可替使用者瀏覽網站、填寫表格、購物及預約服務。不過，Amazon本周證實已封鎖Muse存取Amazon.com，指其未經授權進入網站，且未表明AI代理人身分，違反Amazon使用條款。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google位置資料處理違反GDPR，遭愛爾蘭重罰4.03億歐元",
+        "link": "https://www.ithome.com.tw/news/179112",
+        "pubDate": "2026-09-22  11:09:11",
+        "description": "愛爾蘭資料保護委員會（Data Protection Commission，DPC）周一（9/21）宣布，Google處理使用者位置資料的方式違反歐盟《一般資料保護規則》（GDPR），包括資料處理的合法性、公平性、透明度及保存期限等規定，決定對Google開罰4.03億歐元，並要求Google在6個月內改善相關資料處理方式，使其符合GDPR規定。",
+        "source": "iThome"
+      },
+      {
+        "title": "AWS改造AgentCore執行環境，AI代理冷啟動從最高30秒降至約2秒",
+        "link": "https://www.ithome.com.tw/news/179100",
+        "pubDate": "2026-09-22  10:09:14",
+        "description": "AWS更新Amazon Bedrock AgentCore Runtime，重新設計記憶體管理及啟動機制。AWS測試顯示，使用200MB至2GB容器映像檔時，75%的冷啟動測試可在約2秒內完成，而舊版使用2GB映像檔時，冷啟動接近30秒。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "【AI 代理只是聰明的猴子】軟體工程師的新工作，是打造讓代理更強大的系統邊界",
+        "link": "https://techorange.com/2026/09/22/software-engineer-new-job-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 09:33:41 +0800",
+        "description": "資料工程領域專家認為，軟體工程師要開始理解系統邊界的意義，因為 AI 代理只是比較聰明的猴子，程式開發者得創造出有限環境，讓 AI 生成的邏輯能夠被人類所信賴。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【電動車退役電池第二人生】供電給旅館、AI 資料中心，新創 Moment 與 Redwood 如何找到解方",
+        "link": "https://techorange.com/2026/09/22/ev-batteries-second-life/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 09:33:18 +0800",
+        "description": "退役電動車電池還有第二人生，離島旅館、機場，甚至 AI 資料中心，都可能靠它們供電。電動車車主眼中「該換電池」的訊號，在儲能業者眼裡，卻是一批還沒用完的資源。 加拿大的 Moment Energy 與美國的 Redwood Materials，正把這些退役電池改造成固定式儲能系統。但這門生意能否成立，除了要拿到足夠的退役電池，還得解決兩個難題：一是電池品牌、電壓、容量與健康狀況都不同，業者得逐一檢測、重新組裝，並靠控制系統讓它們安全穩定運作；二是業者得證明這些系統真能解決客戶的實際問題，例如省下",
+        "source": "TechOrange"
+      },
       {
         "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
         "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -226,20 +247,6 @@
         "link": "https://techorange.com/2026/09/18/waymo-robotaxi-autonomous-ride-tokyo-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 18 Sep 2026 18:04:13 +0800",
         "description": "Alphabet 旗下自駕車公司 Waymo 正加速進軍亞洲市場。Waymo 於 9 月 14 日宣布，目標在 2027 年於東京推出全自動駕駛叫車服務；9 月 17 日又宣布，計劃於 2028 年在新加坡推出全自動駕駛叫車服務，並採用全電動車隊。兩項布局相隔僅數日，分別鎖定東亞與東南亞市場。 全自駕計程車 2027 登陸東京：Waymo 攜手車隊打造 24 小時服務 《Reuters》指出，Waymo 將與日本計程車 App 業者 GO 及計程車公司日本交通（Nihon Kotsu）合作，目標",
-        "source": "TechOrange"
-      },
-      {
-        "title": "舊金山軟體工程師需求跌 42%、「前線部署工程師」缺暴增近 6 倍：AI 就業兩極化成形",
-        "link": "https://techorange.com/2026/09/18/san-francisco-ai-engineers-openai-anthropic-ipos-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 15:18:55 +0800",
-        "description": "Anthropic 與 OpenAI 即將 IPO，預期將為舊金山帶來新一波財富，但 AI 熱潮也正同步重塑當地就業市場。《Bloomberg》報導，科技公司持續爭搶能夠建構與部署 AI 的人才之際，傳統科技工作者卻面臨裁員，甚至開始思考是否要離開科技業。 軟體工程師需求慘跌 42%：加州就業市場重組，科技業新鮮人首當其衝 《Bloomberg》根據加州就業發展部（California Employment Development Department）數據指出，截至今年 6 月的 12 個月內",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「帶著你的點子來！」專訪 Agentic AI on the Edge HACKATHON 技術工作坊講師曾吉弘，談 NVIDIA 技術資源與賽前準備",
-        "link": "https://techorange.com/2026/09/18/nvidia-agentic-ai-edge-hackathon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 18 Sep 2026 12:49:07 +0800",
-        "description": "由 NVIDIA 擔任 AI 技術協辦單位的 AI 代理邊緣黑客松大賽【2026 Agentic AI on the Edge HACKATHON】將於 10 月底登場，邀請開發者、IT 人員與新創團隊，在低延遲、無網 / 弱網環境、隱私資料保護等邊緣場景中，打造能自主規劃、執行與修正，真正走進現實世界的 Agentic AI。 TechOrange 在會前採訪黑客松主辦單位翰尼斯企業成員暨技術工作坊講師曾吉弘（以下稱阿吉老師）。阿吉老師身為 CAVEDU 教育團隊創辦人、NVIDIA DLI ",
         "source": "TechOrange"
       }
     ],
@@ -559,6 +566,16 @@
         "products": "Oracle Products"
       },
       {
+        "title": "WordPress Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20260922",
+        "pubDate": "Tue, 22 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "WordPress"
+      },
+      {
         "title": "Apple Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20260915",
         "pubDate": "Tue, 15 Sep 2026 11:00:00 +0800",
@@ -607,16 +624,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "MongoDB"
-      },
-      {
-        "title": "Palo Alto Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20260910",
-        "pubDate": "Thu, 10 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Palo Alto Products"
       },
       {
         "title": "F5 BIG-IP Denial of Service Vulnerability",
