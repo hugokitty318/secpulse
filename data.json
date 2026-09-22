@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T14:48:35.104438Z",
+  "ts": "2026-09-22T18:50:31.792370Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,6 +245,27 @@
     ],
     "en_sec": [
       {
+        "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
+        "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+        "pubDate": "Tue, 22 Sep 2026 22:33:31 +0530",
+        "description": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\"\n\nThe action, carried out with authorization from the U.S. District Court fo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
+        "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
+        "pubDate": "Tue, 22 Sep 2026 22:11:12 +0530",
+        "description": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.\n\nThe flaw, tracked as CV",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
+        "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
+        "pubDate": "Tue, 22 Sep 2026 21:44:04 +0530",
+        "description": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19.\n\nThe tool, called BigDiskBuster, has no patch, no CVE, and no M",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
         "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
         "pubDate": "Tue, 22 Sep 2026 18:00:00 +0530",
@@ -287,11 +308,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
+        "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
+        "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
+        "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
         "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
         "pubDate": "Tue, 22 Sep 2026 13:22:03 +0530",
         "description": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.\n\n\"SideCopy campaign operations typically initiate through spear-phis",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Reducing shadow IT visibility gaps with Wazuh",
+        "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
+        "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400",
+        "description": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizat",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Check Point warns of Management Server zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
+        "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400",
+        "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
@@ -315,6 +357,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
+        "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400",
+        "description": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
         "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
         "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400",
@@ -334,58 +383,72 @@
         "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
         "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
-        "pubDate": "Tue, 22 Sep 2026 04:53:09 -0400",
-        "description": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Malicious npm packages evade install-script defenses at runtime",
-        "link": "https://www.bleepingcomputer.com/news/security/malicious-npm-packages-evade-install-script-defenses-at-runtime/",
-        "pubDate": "Sun, 20 Sep 2026 10:11:21 -0400",
-        "description": "An ongoing npm malware campaign involving the 'indexed-btree' package shows how threat actors bypass supply chain defenses by hiding malicious code in a package's normal runtime behavior rather than in installation scripts. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Researchers escape OpenAI Codex sandbox to run commands on host",
-        "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
-        "pubDate": "Sun, 20 Sep 2026 08:00:00 -0400",
-        "description": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
-        "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
-        "pubDate": "Mon, 21 Sep 2026 23:01:01 +0530",
-        "description": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
-        "link": "https://thehackernews.com/2026/09/contagious-interview-campaign.html",
-        "pubDate": "Mon, 21 Sep 2026 22:49:00 +0530",
-        "description": "The North Korean threat actors behind the Contagious Interview campaign have compromised at least 30,000 devices located in more than 100 countries and siphoned funds or account credentials from over 7,000 cryptocurrency wallets, according to a new j",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Fined €403 Million Over GDPR Violations Tied to Location Data",
-        "link": "https://thehackernews.com/2026/09/google-fined-403-million-over-gdpr.html",
-        "pubDate": "Mon, 21 Sep 2026 22:27:31 +0530",
-        "description": "Google has been fined €403 million for breaking the EU's data protection law, the GDPR, in the way three of its features handled people's location data from May 2018 to February 2020.\n\nIreland's Data Protection Commission (DPC), Google's lead regulat",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks",
-        "link": "https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html",
-        "pubDate": "Mon, 21 Sep 2026 19:54:13 +0530",
-        "description": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak check",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
+        "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+        "pubDate": "Tue, 22 Sep 2026 18:40:30 +0000",
+        "description": "The theft of agents' personal information could present a major counterintelligence threat, where agents and their families are extorted into cooperating with a foreign government.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+        "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
+        "pubDate": "Tue, 22 Sep 2026 18:24:34 +0000",
+        "description": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "link": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+        "pubDate": "Tue, 22 Sep 2026 18:00:00 +0000",
+        "description": "OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo’s latest expansion strategy: teenagers",
+        "link": "https://techcrunch.com/2026/09/22/waymos-latest-expansion-strategy-teenagers/",
+        "pubDate": "Tue, 22 Sep 2026 17:36:06 +0000",
+        "description": "Waymo is opening its robotaxi service to teenagers aged 13 to 17 in Nashville, its second city to offer rides to minors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "link": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/",
+        "pubDate": "Tue, 22 Sep 2026 16:30:07 +0000",
+        "description": "Anthropic called it \"the strongest-performing model we've tested to date.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Stolen passwords are exposing America’s water providers to hackers",
+        "link": "https://techcrunch.com/2026/09/22/stolen-passwords-are-exposing-americas-water-providers-to-hackers/",
+        "pubDate": "Tue, 22 Sep 2026 15:50:58 +0000",
+        "description": "Researchers say another looming threat hangs over some of America's most important critical infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Noble Carbon will show how it’s making EV charger installs painless at TechCrunch Disrupt",
+        "link": "https://techcrunch.com/2026/09/22/noble-carbon-will-show-how-its-making-ev-charger-installs-painless-at-techcrunch-disrupt/",
+        "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "description": "Noble Carbon has developed a smart circuit breaker that allows households to electrify without the pain of a main panel upgrade.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Five AI safety sessions every founder should have on their TechCrunch Disrupt 2026 agenda",
+        "link": "https://techcrunch.com/2026/09/22/five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-2026-agenda/",
+        "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "description": "At TechCrunch Disrupt 2026, five sessions across the AI Stage and Real World AI Stage cover AI safety, featuring leaders from Anthropic, Nvidia, AWS, Waabi, and more. Register before September 25 to save up to $200.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AstroForge is putting AI in command of its next spacecraft",
+        "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
+        "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
+        "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
+        "source": "TechCrunch"
+      },
       {
         "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
         "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
@@ -404,7 +467,7 @@
         "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
         "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
         "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
-        "description": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
+        "description": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
         "source": "TechCrunch"
       },
       {
@@ -429,101 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Everyone can find a reason to dislike data center construction",
-        "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
-        "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
-        "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
-        "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
-        "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
-        "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
-        "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
-        "pubDate": "Tue, 22 Sep 2026 11:00:00 +0000",
-        "description": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Morphotonics raises €40M to expand its display tech into data centers",
-        "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
-        "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
-        "description": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
-        "link": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
-        "pubDate": "Mon, 21 Sep 2026 23:44:28 +0000",
-        "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
-        "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
-        "pubDate": "Mon, 21 Sep 2026 20:15:58 +0000",
-        "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
-        "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 21 Sep 2026 19:25:00 +0000",
-        "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 2",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-        "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
-        "pubDate": "Mon, 21 Sep 2026 19:19:21 +0000",
-        "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Kairos Power gets up to $100M from Samsung group to build nuclear reactor for Google",
-        "link": "https://techcrunch.com/2026/09/21/kairos-power-gets-up-to-100m-from-samsung-group-to-build-nuclear-reactor-for-google/",
-        "pubDate": "Mon, 21 Sep 2026 18:23:05 +0000",
-        "description": "Future Google supplier Kairos Power inked a deal with Samsung C&T to help build its first 50-megawatt nuclear power plant.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Xbox is merging its Forza developers into a single studio",
-        "link": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
-        "pubDate": "2026-09-22T10:01:17-04:00",
-        "description": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on ",
+        "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
+        "link": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
+        "pubDate": "2026-09-22T14:10:57-04:00",
+        "description": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
-        "link": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
-        "pubDate": "2026-09-22T10:01:16-04:00",
-        "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure i",
+        "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+        "link": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+        "pubDate": "2026-09-22T13:43:50-04:00",
+        "description": "San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that t",
         "source": "TheVerge"
       },
       {
-        "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
-        "link": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
-        "pubDate": "2026-09-22T10:00:33-04:00",
-        "description": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of ",
+        "title": "Apple is reportedly working on a Whoop-like fitness tracker",
+        "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
+        "pubDate": "2026-09-22T13:04:52-04:00",
+        "description": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The dev",
         "source": "TheVerge"
       },
       {
-        "title": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
-        "link": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
-        "pubDate": "2026-09-22T10:00:00-04:00",
-        "description": "Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are dur",
+        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
+        "pubDate": "2026-09-22T12:34:08-04:00",
+        "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic",
         "source": "TheVerge"
       },
       {
-        "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
-        "link": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
-        "pubDate": "2026-09-22T09:54:13-04:00",
-        "description": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN,",
+        "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
+        "pubDate": "2026-09-22T12:30:00-04:00",
+        "description": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempt",
         "source": "TheVerge"
       }
     ],
