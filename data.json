@@ -1,9 +1,16 @@
 {
-  "ts": "2026-09-22T09:54:22.887079Z",
+  "ts": "2026-09-22T14:48:35.104438Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用",
+        "title": "攻擊者利用假冒LastPass驗證器散布竊資程式Rapuncel，濫用微軟簽署驅動程式關閉防毒軟體",
+        "link": "https://www.ithome.com.tw/news/179147",
+        "pubDate": "2026-09-22 18:49",
+        "description": "研究人員發現至少40個軟體品牌遭冒用，攻擊者利用假冒GitHub頁面結合SEO誘騙受害者下載惡意程式，再以核心驅動程式關閉防毒與EDR軟體",
+        "source": "iThome資安"
+      },
+      {
+        "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用，一天之內出現近8,000次活動",
         "link": "https://www.ithome.com.tw/news/179144",
         "pubDate": "2026-09-22 16:52",
         "description": "9月上旬資安公司Fortinet兩度提出警告，他們偵測到大規模針對工作流程編排平臺Orkes Conductor的攻擊活動，試圖利用6月修補的重大漏洞CVE-2026-58138",
@@ -31,7 +38,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "排除使郵件呈現看似正常的新型內容混淆手法，網擎郵件安全閘道新增隱形字元偵測功能",
+        "title": "對抗使郵件呈現看似正常的新型內容混淆手法，網擎郵件安全閘道新增隱形字元偵測功能",
         "link": "https://www.ithome.com.tw/news/179091",
         "pubDate": "2026-09-22 14:15",
         "description": "在今年第二季實際郵件流量中，網擎資訊觀察到攻擊者利用隱形字元混淆郵件內容、規避偵測，為此該公司推出的郵件安全防護系統MailGates已於6.2.11.062版本支援ASCII Smuggling偵測，可自動辨識並處理信件中的隱形Unicode字元",
@@ -101,24 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國科羅拉多州供水企業遭駭，攻擊者直接干擾OT系統運作",
-        "link": "https://www.ithome.com.tw/news/179109",
-        "pubDate": "2026-09-22 11:08",
-        "description": "兩家小型供水企業遭外國駭客入侵並修改設備設定，事件未影響供水安全，但凸顯供水控制系統成為攻擊目標",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google開放Googlebook筆電預購，主打和Android手機緊密協作",
-        "link": "https://www.ithome.com.tw/news/179119",
-        "pubDate": "2026-09-22  12:09:44",
-        "description": "Google周一（9/21）連同5家品牌業者宣布整合Gemini Intelligence的筆電品牌Googlebook，同時也揭曉作業系統Googlebook OS。",
-        "source": "iThome"
-      },
-      {
-        "title": "加州一次通過7項資料中心新法，要求業者負擔電網升級成本",
-        "link": "https://www.ithome.com.tw/news/179121",
-        "pubDate": "2026-09-22  12:09:09",
-        "description": "美國加州州長Gavin Newsom周一（9/21）一次簽署7項資料中心相關法案，要求資料中心揭露用電、用水等資訊，並自行負擔電網及供水設施升級成本。AI資料中心大量興建造成的電力、水資源及成本問題，已在美國引發廣泛爭議。",
+        "title": "AWS開源Strands Harness，預組代理最佳化設定降低詞元成本達28%",
+        "link": "https://www.ithome.com.tw/news/179146",
+        "pubDate": "2026-09-22  06:09:09",
+        "description": "AWS開源AI代理專案Strands Agents發布Strands Harness，提供一套已預先配置的通用AI代理執行框架，開發者不必自行組合工具、記憶及上下文管理機制即可開始使用。官方使用相同Claude或GPT模型進行六項基準測試，Strands Harness相較Claude Code、Codex等代理框架詞元（Token）成本低28%，測試分數大致相近。",
         "source": "iThome"
       },
       {
@@ -144,6 +137,20 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "Amazon 封鎖 Meta Muse、Shopify 卻主動接入：AI Agent 能不能進站，誰說了算？",
+        "link": "https://techorange.com/2026/09/22/amazon-shopify-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 17:35:12 +0800",
+        "description": "AI 正快速進入消費者的購物流程，新的問題也逐漸浮現。PYMNTS Intelligence 與 Visa Acceptance Solutions 今年調查美國、巴西、阿聯 5,841 名消費者發現，47% 線上購物者在最近一次購物中使用過 AI。而當 AI 從找商品、比價，進一步能替人開啟網站、登入帳號甚至下單，商家開始需要思考：外部 AI Agent（AI 代理） 要進入自家公司的交易環境，究竟該開放到什麼程度？ 電商巨頭 Amazon 最近選擇擋下 Meta Muse，但更精確地說，它拒",
+        "source": "TechOrange"
+      },
+      {
+        "title": "IFR：人形機器人 2025 實銷 7,000 台，美銀估 2030 上看 120 萬台",
+        "link": "https://techorange.com/2026/09/22/ifr-humanoid-robot-sales-tally-hit-7000-globally-last-year/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 22 Sep 2026 17:15:25 +0800",
+        "description": "《Reuters》報導，據國際機器人聯盟（International Federation of Robotics，IFR）彙整的數據，2025 年全球約售出 7,000 台人形機器人，主要用於工業與專業服務。這項數據也是 IFR 首次將人形機器人納入其機器人產業統計。 人形機器人目前銷售規模仍有限，與市場成長預期成對比 《Reuters》指出，目前人形機器人的實際銷售規模仍相對有限，但與市場對未來幾年需求快速成長的預期形成對比，尤其是在中國。中國是全球最大的工業機器人市場，近期也曾在機器人賽事",
+        "source": "TechOrange"
+      },
       {
         "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
         "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -234,23 +241,51 @@
         "pubDate": "Mon, 21 Sep 2026 09:23:16 +0800",
         "description": "AI 崛起不只提升開發人員的生產力與技術力，更改變當代資安攻擊的運作模式，促使企業重新思考現有資安防禦策略是否足夠，並進一步走向「零信任程式碼」。",
         "source": "TechOrange"
-      },
-      {
-        "title": "從真人侍奉到數據預測：高價郵輪業的 AI 轉型",
-        "link": "https://techorange.com/2026/09/21/ai-is-taking-over-cruise-ships/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 06:22:00 +0800",
-        "description": "過去，高價郵輪最難被科技取代的價值，往往是「人」。旅客支付高昂票價，買的不只是海上客房與餐飲，更包含被記住的感覺：房務人員知道你習慣喝黑咖啡，服務生記得同行家人的生日，甚至船員能在旅程中主動察覺需求。對講究體驗的郵輪品牌而言，這些細節構成了高價服務的重要一環。 然而，這套高度仰賴真人經驗與人力堆疊的商業模式，正迎來 AI 的全面洗牌。《Inc.》報導，AI 在郵輪產業中已經從後台運算走向前台，深入旅客旅程、消費預測，甚至開始重塑「服務體驗」本身的定義。 從櫃檯到掌上 App，AI 成為 24 小",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】Google Gemini 測試中自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常",
-        "link": "https://techorange.com/2026/09/21/google-gemini-hacks-three-companies-openai-ai-incidents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Gemini 首度自主駭入 3 家企業，OpenAI 公布 6 起 AI 異常 Google 母公司 Alphabet 旗下 Gemini 模型，今年 5 月接受獨立資安機構 Irregular 測試時，自主進入 3 家真實企業的系統，成為 Google AI 首次被發現自行做出這類行為。其中一次，Gemini 持續猜測密碼直到成功登入；另外兩次則從公開存放庫找到登入憑證。Google 表示，模型原本以為這些系統都在測試範圍內，辨",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "AI Agents Are Rewriting the Rules of Lateral Movement",
+        "link": "https://thehackernews.com/2026/09/ai-agents-are-rewriting-rules-of.html",
+        "pubDate": "Tue, 22 Sep 2026 18:00:00 +0530",
+        "description": "Security teams have spent decades asking whether an identity has too much access. AI agents raise a harder question: how can we determine which paths an autonomous system can discover, given the access it already has?\n\nA person may try several ways t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New CVSS 10.0 VeloCloud Orchestrator Flaw Actively Exploited in Certificate-Based Setups",
+        "link": "https://thehackernews.com/2026/09/new-cvss-100-velocloud-orchestrator.html",
+        "pubDate": "Tue, 22 Sep 2026 17:59:00 +0530",
+        "description": "Attackers are exploiting a new flaw in on-premises VeloCloud Orchestrator (VCO), the server that manages the Edge devices in a VeloCloud SD-WAN, Arista said on September 22.\n\nThe flaw, tracked as CVE-2026-93952, may allow a remote attacker with no lo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+        "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+        "pubDate": "Tue, 22 Sep 2026 17:15:00 +0530",
+        "description": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party servic",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+        "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+        "pubDate": "Tue, 22 Sep 2026 17:08:40 +0530",
+        "description": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled.\n\nThe bug, tracked as CVE-2026-89775, allows a guest t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+        "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+        "pubDate": "Tue, 22 Sep 2026 16:47:41 +0530",
+        "description": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security rese",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+        "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+        "pubDate": "Tue, 22 Sep 2026 15:08:18 +0530",
+        "description": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security contro",
+        "source": "TheHackerNews"
+      },
       {
         "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
         "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
@@ -280,6 +315,27 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
+        "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
+        "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400",
+        "description": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions ",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
+        "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
+        "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
+        "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+        "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+        "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
+        "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
         "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
         "pubDate": "Tue, 22 Sep 2026 04:53:09 -0400",
@@ -298,55 +354,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/researchers-escape-openai-codex-sandbox-to-run-commands-on-host/",
         "pubDate": "Sun, 20 Sep 2026 08:00:00 -0400",
         "description": "Researchers escaped OpenAI's Codex sandbox two ways, one running commands on a developer's machine from its most locked-down mode. OpenAI has patched both. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-        "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-        "pubDate": "Sun, 20 Sep 2026 00:06:53 +0530",
-        "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository.\n\nThe chain began with a bug in ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-        "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-        "pubDate": "Sat, 19 Sep 2026 18:58:48 +0530",
-        "description": "A new CVE drops. Your scanner finds it. The severity score looks ugly.\n\nBut that still does not answer the question that matters: Can it actually be exploited in your environment?\n\nMythos-class AI is compressing the time between disclosure and workin",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Identity Visibility in 2026: The Foundation of Identity Security",
-        "link": "https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html",
-        "pubDate": "Sat, 19 Sep 2026 18:58:41 +0530",
-        "description": "Identity visibility is a starting point for modern identity security, because stolen and misused credentials are among the most frequently reported initial access vectors in breach research, including Verizon's annual Data Breach Investigations Repor",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
-        "link": "https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html",
-        "pubDate": "Sat, 19 Sep 2026 15:01:17 +0530",
-        "description": "SolarWinds has released security updates to address a high-severity flaw in Access Rights Manager (ARM) that, if successfully exploited, could lead to an unauthenticated remote code execution vulnerability.\n\nThe vulnerability, tracked as CVE-2026-283",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BragJack attacks hijack AI browser agents through malicious extensions",
-        "link": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
-        "pubDate": "Sat, 19 Sep 2026 10:56:31 -0400",
-        "description": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in ",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
-        "link": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
-        "pubDate": "Sat, 19 Sep 2026 10:05:15 -0400",
-        "description": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-        "pubDate": "Sat, 19 Sep 2026 09:48:32 -0400",
-        "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -376,28 +383,77 @@
         "pubDate": "Mon, 21 Sep 2026 19:54:13 +0530",
         "description": "A browser. A plugin. A package. A login screen. Normal stuff. That is basically the problem this week.\n\nThe trouble keeps showing up inside things people already trust: code that takes a bad turn, old payloads coming back, exposed systems, weak check",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data",
-        "link": "https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html",
-        "pubDate": "Mon, 21 Sep 2026 19:45:40 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a new campaign dubbed TASK#STOMP that delivers a PowerShell backdoor designed to harvest sensitive data from compromised hosts.\n\nThe backdoor \"automatically harvests and exfiltrates business documen",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BigCommerce alerts merchants of data breach linked to Ribon apps",
-        "link": "https://www.bleepingcomputer.com/news/security/bigcommerce-alerts-merchants-of-data-breach-linked-to-ribon-apps/",
-        "pubDate": "Mon, 21 Sep 2026 17:18:49 -0400",
-        "description": "Ecommerce platform BigCommerce has alerted multiple merchants to data breaches after attackers compromised credentials for third-party Ribon applications and used them to inject malicious scripts into online stores. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
+        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
+        "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
+        "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
+        "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
+        "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
+        "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
+        "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
+        "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+        "description": "Eight months after establishing a U.S. based joint venture, TikTok is getting on board fellow platforms to support industry-wide child safety work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
+        "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
+        "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
+        "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
+        "pubDate": "Tue, 22 Sep 2026 13:20:00 +0000",
+        "description": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
+        "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
+        "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+        "description": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Everyone can find a reason to dislike data center construction",
+        "link": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction/",
+        "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
+        "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nscale’s IPO will test Wall Street’s appetite for concentrated AI bets once again",
+        "link": "https://techcrunch.com/2026/09/22/nscales-ipo-will-test-wall-streets-appetite-for-concentrated-ai-bets-once-again/",
+        "pubDate": "Tue, 22 Sep 2026 12:23:05 +0000",
+        "description": "The British AI data center developer depends on tech giants Microsoft and Anthropic for most of its revenue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta deal will help plastics recycling startup MacroCycle build its first factory",
+        "link": "https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/",
+        "pubDate": "Tue, 22 Sep 2026 11:00:00 +0000",
+        "description": "Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Morphotonics raises €40M to expand its display tech into data centers",
         "link": "https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/",
         "pubDate": "Tue, 22 Sep 2026 06:00:00 +0000",
-        "description": "Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
+        "description": "Deep tech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.",
         "source": "TechCrunch"
       },
       {
@@ -436,101 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s AI agent has been blocked from using Amazon.com",
-        "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
-        "pubDate": "Mon, 21 Sep 2026 17:55:18 +0000",
-        "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "X will now tell users when governments have forced it to limit their posts",
-        "link": "https://techcrunch.com/2026/09/21/x-will-now-tell-users-when-governments-have-forced-it-to-limit-their-posts/",
-        "pubDate": "Mon, 21 Sep 2026 17:45:35 +0000",
-        "description": "X is expanding its “Under the Hood” transparency tool to show when posts have been downranked or withheld in response to local laws and government demands, including which country made the request.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Oura’s $2.2B IPO is mostly a payday for existing shareholders",
-        "link": "https://techcrunch.com/2026/09/21/ouras-2-2b-ipo-is-mostly-a-payday-for-existing-shareholders/",
-        "pubDate": "Mon, 21 Sep 2026 16:45:47 +0000",
-        "description": "Forerunner Ventures plans to sell its entire stake in Oura for as much as $1.26 billion, according to Oura's latest IPO filing.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
-        "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
-        "pubDate": "Mon, 21 Sep 2026 16:38:51 +0000",
-        "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/21/where-will-the-next-breakout-startup-come-from-benchmarks-full-partnership-weighs-in-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 21 Sep 2026 15:00:00 +0000",
-        "description": "Where will the next breakout startup come from? Benchmark’s full partnership weighs in on the main stage at TechCrunch Disrupt 2026. Save up to $200 before September 25 at 11:59 p.m. PT. Register now.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-        "link": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini/",
-        "pubDate": "Mon, 21 Sep 2026 14:39:22 +0000",
-        "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets, and other parts of the desktop experience.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 21 Sep 2026 14:30:00 +0000",
-        "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/21/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 21 Sep 2026 14:15:00 +0000",
-        "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Corridor raises $25M seed to build a health benefits brokerage for SMBs",
-        "link": "https://techcrunch.com/2026/09/21/corridor-raises-25m-seed-to-build-a-health-benefits-brokerage-for-smbs/",
-        "pubDate": "Mon, 21 Sep 2026 13:49:00 +0000",
-        "description": "Corridor focuses on SMBs, which it says traditional brokerages often overlook because small accounts generate lower commissions than larger accounts.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple&#8217;s first live music venue is opening beneath its UK headquarters",
-        "link": "https://www.theverge.com/tech/998581/apple-music-hall-london-venue-battersea",
-        "pubDate": "2026-09-22T04:35:54-04:00",
-        "description": "Apple is preparing to open a new \"state-of-the-art\" live music venue in the UK, a 600-capacity space for hosting performances, recording sessions, and video broadcasts. The venue, called Apple Music Hall, is located underneath Apple's European headqu",
+        "title": "Xbox is merging its Forza developers into a single studio",
+        "link": "https://www.theverge.com/news/998592/xbox-is-merging-its-forza-developers-into-a-single-studio",
+        "pubDate": "2026-09-22T10:01:17-04:00",
+        "description": "Microsoft is uniting its two Forza developers into a single studio today, as part of a massive restructuring of Xbox. Playground Games, which develops Forza Horizon, and Turn 10 Studios, creators of Forza Motorsport, are merging together to focus on ",
         "source": "TheVerge"
       },
       {
-        "title": "A cut cable disrupted hundreds of flights across the US",
-        "link": "https://www.theverge.com/transportation/998550/a-cut-cable-disrupted-hundreds-of-flights-across-the-us",
-        "pubDate": "2026-09-21T19:48:56-04:00",
-        "description": "Hundreds of flights were cancelled or delayed on Monday after construction crews in New Jersey accidentally cut a Verizon fiber cable used for air traffic control. FAA Administrator Bryan Bedford said that a circuit failure led to the discovery of th",
+        "title": "Microsoft is laying off 268 Xbox staffers and Ninja Theory may close",
+        "link": "https://www.theverge.com/news/998589/microsoft-xbox-layoffs-ninja-theory-closure",
+        "pubDate": "2026-09-22T10:01:16-04:00",
+        "description": "Microsoft is laying off around 260 Xbox employees today, as part of an ongoing \"reset\" of its gaming business. 1,600 Xbox employees were impacted by layoffs in July, with Xbox CEO Asha Sharma describing the cuts as \"the most significant restructure i",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon wants to help the Colorado River, but we still don’t know how much water the company uses",
-        "link": "https://www.theverge.com/tech/998539/amazon-data-center-water-conservation-colorado-river",
-        "pubDate": "2026-09-21T19:15:32-04:00",
-        "description": "Amazon plans to spend $20 million on water conservation projects along the Colorado River, a crucial but dwindling water supply for 40 million people in the Western US. The initiative comes as Amazon and other tech companies face mounting scrutiny ov",
+        "title": "Activision is taking over Halo as part of a massive Xbox shake-up",
+        "link": "https://www.theverge.com/news/998586/activision-halo-xbox-reorganization-layoffs",
+        "pubDate": "2026-09-22T10:00:33-04:00",
+        "description": "Microsoft is announcing a massive restructuring of its Xbox studios today, months after laying off 1,600 Xbox employees and selling off studios. The latest changes will see Activision take on the Halo and Sea of Thieves franchises, as well as Age of ",
         "source": "TheVerge"
       },
       {
-        "title": "California tightens rules on AI data center energy and water use",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-        "pubDate": "2026-09-21T16:29:45-04:00",
-        "description": "California Gov. Gavin Newsom has signed seven bills designed to prevent AI data centers from passing utility costs onto residents, as reported earlier by the Los Angeles Times. The package of laws requires the California Public Utilities Commission t",
+        "title": "The Beats 360 are what I’d bring to the gym if I hated earbuds",
+        "link": "https://www.theverge.com/tech/998566/beats-360-headphones-review",
+        "pubDate": "2026-09-22T10:00:00-04:00",
+        "description": "Everyone has seen someone at the gym or running around their neighborhood wearing headphones that were never designed for workouts. Quite often those headphones are Beats. Good news for the earbud haters: The new Beats 360 over-ear headphones are dur",
         "source": "TheVerge"
       },
       {
-        "title": "GM can’t ‘bring back’ Apple CarPlay because it never left",
-        "link": "https://www.theverge.com/transportation/998259/gm-apple-carplay-android-auto-phone-mirror-google",
-        "pubDate": "2026-09-21T13:47:54-04:00",
-        "description": "Last week, GM announced a new software experience for its upcoming Chevy Silverado and GMC Sierra trucks, including a new look for Apple CarPlay and Android Auto, the popular phone mirroring systems that the automaker made a big deal about removing f",
+        "title": "&#8216;Trump TV&#8217; is just reruns of the president on YouTube",
+        "link": "https://www.theverge.com/policy/998726/trump-tv-youtube-livestream",
+        "pubDate": "2026-09-22T09:54:13-04:00",
+        "description": "The White House is now airing reruns of President Donald Trump's speeches, bill signings, and other moments on a YouTube livestream that it's calling \"Trump TV,\" as reported earlier by Time. The 24/7 station launched just days after Trump banned CNN,",
         "source": "TheVerge"
       }
     ],
