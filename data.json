@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T18:50:31.792370Z",
+  "ts": "2026-09-22T22:03:54.479895Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,6 +245,27 @@
     ],
     "en_sec": [
       {
+        "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
+        "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
+        "pubDate": "Tue, 22 Sep 2026 23:59:39 +0530",
+        "description": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said.\n\nThe flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scri",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
+        "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
+        "pubDate": "Tue, 22 Sep 2026 23:33:10 +0530",
+        "description": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowing the attacker to run their own code. The fix shi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
+        "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
+        "pubDate": "Tue, 22 Sep 2026 23:28:15 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
         "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
         "pubDate": "Tue, 22 Sep 2026 22:33:31 +0530",
@@ -280,6 +301,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Rogue external MFA providers can steal passwords during logins",
+        "link": "https://www.bleepingcomputer.com/news/security/rogue-external-mfa-providers-can-steal-passwords-during-logins/",
+        "pubDate": "Tue, 22 Sep 2026 17:45:45 -0400",
+        "description": "Security researchers developed an attack that lets hackers with privileged access register a rogue external MFA provider that steals users' passwords during legitimate login attempts. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Sweden fines Miljödata $183,000 over breach affecting 2.2 million",
+        "link": "https://www.bleepingcomputer.com/news/security/sweden-fines-milj-data-183-000-over-breach-affecting-22-million/",
+        "pubDate": "Tue, 22 Sep 2026 17:40:37 -0400",
+        "description": "Sweden's data privacy regulator, IMY, has imposed a $183,000 (SEK 1.8 million) fine on IT systems provider Miljödata for inadequate security measures leading to a breach in August 2025 affecting 2.2 million people. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
         "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
         "pubDate": "Tue, 22 Sep 2026 17:15:00 +0530",
@@ -299,6 +334,20 @@
         "pubDate": "Tue, 22 Sep 2026 16:47:41 +0530",
         "description": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security rese",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Chinese hackers exploit WordPress, Zyxel flaws to steal govt data",
+        "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
+        "pubDate": "Tue, 22 Sep 2026 16:35:24 -0400",
+        "description": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
+        "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
+        "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
@@ -334,58 +383,37 @@
         "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400",
         "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-        "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-        "pubDate": "Tue, 22 Sep 2026 12:03:57 +0530",
-        "description": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21.\n\nIt works by changing a hidd",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
-        "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-        "pubDate": "Tue, 22 Sep 2026 11:33:14 +0530",
-        "description": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server.\n\nWordPress fixed the flaw, tracked as",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Zyxel and Veeam Flaws Under Active Exploitation With Command and SYSTEM Access",
-        "link": "https://thehackernews.com/2026/09/zyxel-and-veeam-flaws-under-active.html",
-        "pubDate": "Tue, 22 Sep 2026 11:01:59 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a now-patched security flaw impacting Zyxel GS1900 series switches to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe vul",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-        "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-        "pubDate": "Tue, 22 Sep 2026 11:00:00 -0400",
-        "description": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Webinar tomorrow: Inside real-world Google Workspace breaches",
-        "link": "https://www.bleepingcomputer.com/news/security/webinar-tomorrow-inside-real-world-google-workspace-breaches/",
-        "pubDate": "Tue, 22 Sep 2026 08:57:07 -0400",
-        "description": "Tomorrow's webinar examines real Google Workspace breaches involving social engineering and malicious OAuth applications, from initial access through the critical first hours of incident response. Learn which security controls and response decisions ",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "D-Link warns of max severity zero-day bug in DIR-822A routers",
-        "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-max-severity-zero-day-bug-in-dir-822a-routers/",
-        "pubDate": "Tue, 22 Sep 2026 08:48:06 -0400",
-        "description": "D-Link warned customers of a maximum-severity vulnerability (CVE-2026-86296) with public proof-of-concept (PoC) exploit code and no patch, affecting legacy DIR-822A dual-band Wi-Fi routers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
-        "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
-        "pubDate": "Tue, 22 Sep 2026 05:55:11 -0400",
-        "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
+        "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
+        "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
+        "description": "The seven-year-old startup has raised a $350 million Series E to fuel its data-as-a-service approach.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "link": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/",
+        "pubDate": "Tue, 22 Sep 2026 20:00:00 +0000",
+        "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple could take on Whoop with a new fitness tracker, report says",
+        "link": "https://techcrunch.com/2026/09/22/apple-could-take-on-whoop-with-a-new-fitness-tracker-report-says/",
+        "pubDate": "Tue, 22 Sep 2026 19:27:57 +0000",
+        "description": "Apple may be developing a new fitness tracker as part of its new generation of hardware devices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta admits Muse’s likeness to OpenClaw isn’t a coincidence",
+        "link": "https://techcrunch.com/2026/09/22/meta-admits-muses-likeness-to-openclaw-isnt-a-coincidence/",
+        "pubDate": "Tue, 22 Sep 2026 19:09:11 +0000",
+        "description": "Meta says Muse was built from scratch, but acknowledges the AI assistant was \"heavily inspired\" by OpenClaw — down to some of its workspace filenames and content.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data",
         "link": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
@@ -394,10 +422,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "A16z is challenging Silicon Valley’s love for drop-outs by launching a school",
+        "title": "a16z is challenging Silicon Valley’s love for drop-outs by launching a school",
         "link": "https://techcrunch.com/2026/09/22/a16z-is-challenging-silicon-valleys-love-for-drop-outs-by-launching-a-school/",
         "pubDate": "Tue, 22 Sep 2026 18:24:34 +0000",
-        "description": "This academy for promising high school grads is somewhere between a trade-school, Y Combinator and Peter Thiel's Fellowship Program.",
+        "description": "This academy for promising high school grads is somewhere between a trade school, Y Combinator, and Peter Thiel's Fellowship Program.",
         "source": "TechCrunch"
       },
       {
@@ -464,66 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok’s US arm joins Lantern, a cross-platform child safety initiative",
-        "link": "https://techcrunch.com/2026/09/22/tiktoks-us-arm-joins-lantern-a-cross-platform-child-safety-initiative/",
-        "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
-        "description": "Eight months after establishing a U.S.-based joint venture, TikTok is getting on board fellow platforms to support industrywide child safety work.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/22/4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026/",
-        "pubDate": "Tue, 22 Sep 2026 14:00:00 +0000",
-        "description": "Save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second pass before prices increase on September 25 at 11:59 p.m. PT. Register today.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Singapore’s Nexstrom wants to bring 2D semiconductors to chip fabs",
-        "link": "https://techcrunch.com/2026/09/22/singapores-nexstrom-wants-to-bring-2d-semiconductors-to-chip-fabs/",
-        "pubDate": "Tue, 22 Sep 2026 13:20:00 +0000",
-        "description": "Singapore-based Nexstrom has raised new funding to develop equipment that could help chipmakers manufacture 2D semiconductor materials at scale.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Bill Gates’ Breakthrough Energy bets these 21 startups will shape energy’s future",
-        "link": "https://techcrunch.com/2026/09/22/bill-gates-breakthrough-energy-bets-these-21-startups-will-shape-energys-future/",
-        "pubDate": "Tue, 22 Sep 2026 13:00:00 +0000",
-        "description": "To the investors at Bill Gates' Breakthrough Energy, the coming wave of electrification will make data center energy demands look quaint by comparison. Here's how they're preparing.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Save $30 on Apple’s Magic Keyboard with Touch ID and a numpad",
-        "link": "https://www.theverge.com/gadgets/998824/apple-magic-keyboard-touch-interstellar-4k-blu-ray-deal-sale",
-        "pubDate": "2026-09-22T14:10:57-04:00",
-        "description": "Until the end of the day on September 22nd, 2026, Best Buy and Amazon have the black Apple Magic Keyboard on sale for $169.99, a $30 discount from the usual price. This is the souped-up version of Apple’s full-size, wireless keyboard, with a Touch ID",
+        "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999094/rabbit-ai-agent-os3",
+        "pubDate": "2026-09-22T16:52:40-04:00",
+        "description": "Rabbit, the company behind the underwhelming R1 device, is rolling out a standalone AI agent that you don't need its hardware to use, as reported earlier by Wired. The startup says its new OS3 \"agentic operating system\" runs in the cloud but operates",
         "source": "TheVerge"
       },
       {
-        "title": "San Francisco sues Trump Media for selling early access to Trump posts",
-        "link": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
-        "pubDate": "2026-09-22T13:43:50-04:00",
-        "description": "San Francisco is suing the Trump Media & Technology Group, the parent company behind Truth Social, for selling early access to President Donald Trump's posts on the social media site. The lawsuit, filed today in California state court, alleges that t",
+        "title": "Saudi Arabia’s new Exobot EVs make the Cybertruck look normal",
+        "link": "https://www.theverge.com/transportation/998791/ceer-ev-saudi-arabia-foxconn-exobot",
+        "pubDate": "2026-09-22T16:14:54-04:00",
+        "description": "The Kingdom of Saudi Arabia is mostly known for its global dominance over petroleum production and oil reserves - not necessarily cars and auto manufacturing, and certainly not electric vehicle production. So it was a little surprising on Monday when",
         "source": "TheVerge"
       },
       {
-        "title": "Apple is reportedly working on a Whoop-like fitness tracker",
-        "link": "https://www.theverge.com/gadgets/998902/apple-whoop-fitness-tracker",
-        "pubDate": "2026-09-22T13:04:52-04:00",
-        "description": "Apple is working on a new fitness tracker with a screenless design, similar to the one made by Whoop, according to a report from Bloomberg. A prototype of the device reportedly has \"a thin fabric band with a sensor-equipped computing module.\" The dev",
+        "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
+        "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
+        "pubDate": "2026-09-22T16:00:00-04:00",
+        "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, ",
         "source": "TheVerge"
       },
       {
-        "title": "Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/998813/andreessen-horowitz-ai-academy",
-        "pubDate": "2026-09-22T12:34:08-04:00",
-        "description": "Venture capital firm Andreessen Horowitz (a16z) is creating an \"academy\" positioned as a pipeline for young people to build or join a Silicon Valley startup. The \"Horowitz Andreessen Academy\" will launch with 10 partners, including Anduril, Anthropic",
+        "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+        "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+        "pubDate": "2026-09-22T16:00:00-04:00",
+        "description": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity",
-        "pubDate": "2026-09-22T12:30:00-04:00",
-        "description": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempt",
+        "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
+        "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
+        "pubDate": "2026-09-22T15:48:08-04:00",
+        "description": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earl",
         "source": "TheVerge"
       }
     ],
