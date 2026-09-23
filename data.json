@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-22T22:03:54.479895Z",
+  "ts": "2026-09-23T00:26:58.547380Z",
   "tabs": {
     "cn_sec": [
       {
@@ -138,6 +138,20 @@
     ],
     "cn_tech": [
       {
+        "title": "歐洲央行正式接軌代幣化市場，Pontes 把鏈上交易接回央行貨幣",
+        "link": "https://techorange.com/2026/09/23/ecb-pontes-dlt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 23 Sep 2026 05:52:00 +0800",
+        "description": "債券等金融資產逐漸走向代幣化，發行、交易甚至部分交割流程都能搬到分散式帳本，但交易完成後，最後要用什麼錢結算？歐洲央行（ECB）現在正式把央行貨幣接進這個新市場。 ECB 在 9/21 正式上線 Pontes，讓銀行與市場基礎設施交易代幣化資產後，可以透過歐元體系既有的 TARGET 服務，以央行貨幣完成結算。這也代表 ECB 過去數年的分散式帳本技術（distributed ledger technology，DLT）試驗，開始走向可供市場實際使用的金融基礎設施。 所謂代幣化，是將債券等金融資",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Meta Muse 超車 ChatGPT，Amazon 封鎖 AI 代理購物",
+        "link": "https://techorange.com/2026/09/23/meta-muse-tops-app-store-amazon-blocks-ai-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 23 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta Muse 超車 ChatGPT 登頂 App Store，Amazon 封鎖代理購物 Meta 於 9 月 8 日推出個人 AI 助理 Muse，可替使用者研究資料、填寫表格、預約服務及購買商品，並能連結電子郵件、行事曆、Instagram 等服務。Muse 上線後下載排名迅速超越 ChatGPT，一度登上美國 Apple App Store 免費應用程式排行榜第一名。與主要回覆問題的聊天機器人不同，Muse 的核心定位是取得使用者授",
+        "source": "TechOrange"
+      },
+      {
         "title": "Amazon 封鎖 Meta Muse、Shopify 卻主動接入：AI Agent 能不能進站，誰說了算？",
         "link": "https://techorange.com/2026/09/22/amazon-shopify-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 22 Sep 2026 17:35:12 +0800",
@@ -226,20 +240,6 @@
         "link": "https://techorange.com/2026/09/21/deloitte-rick-wen-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 21 Sep 2026 11:00:00 +0800",
         "description": "專訪：戴季全撰稿：李昀蔚 「企業不會說 AI 不是競爭力，但是 AI 不會是唯一的競爭力。」本集《全新一週》邀請勤業眾信資深執行副總經理溫紹群，從第一線協助企業與組織導入 AI 的經驗出發，剖析 AI Agent 從回答問題走向自主執行後，企業真正面臨的挑戰，已經不只是模型能力，而是資料、流程、系統、組織與治理能不能一起跟上的課題。 從 CIO 如何在百家爭鳴的 AI Agent 生態中規劃未來架構，到 IT 與業務部門對 AI 導入方式出現不同期待，再到企業究竟該追求 AI Native，還是",
-        "source": "TechOrange"
-      },
-      {
-        "title": "都透過 Uber App 叫無人車，倫敦 Wayve 仍需配安全駕駛，克羅埃西亞 Pony.ai 已完全無人",
-        "link": "https://techorange.com/2026/09/21/robotaxi-revolution/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 10:01:22 +0800",
-        "description": "本月起，15 輛電動福特 Mustang，開始在倫敦街頭自動行駛，這是倫敦第一個商業化的無人計程車服務，由叫車平台 Uber 與英國自駕技術新創公司 Wayve 合作推出。目前這些車輛仍配有持照駕駛，一旦發生突發狀況可隨時接手控制，倫敦交通局將這些車輛核准為私人租賃車輛，而非自動駕駛車輛。 無人計程車並非新鮮事。全球已有超過 20 個城市，包括美國、中國與中東地區都有無人計程車（robotaxi）在營運，不少車輛甚至完全沒有配置安全駕駛。不過，倫敦狹窄的街道，加上密集的行人、自行車與雙層巴士，讓",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【零信任程式碼】企業資安別問能不能攔截，先問這段程式碼該不該被允許執行",
-        "link": "https://techorange.com/2026/09/21/ai-malware-to-zero-trust-code/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 09:23:16 +0800",
-        "description": "AI 崛起不只提升開發人員的生產力與技術力，更改變當代資安攻擊的運作模式，促使企業重新思考現有資安防禦策略是否足夠，並進一步走向「零信任程式碼」。",
         "source": "TechOrange"
       }
     ],
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
+        "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
+        "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
+        "description": "Founders shouldn't have to learn the hardest lessons the hardest way. TechCrunch Founder Summit is designed to make the challenges of starting a company easier and the highs that much greater.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Snorkel AI triples valuation to $3.5B as demand for AI training data booms",
         "link": "https://techcrunch.com/2026/09/22/snorkel-ai-triples-valuation-to-3-5b-as-demand-for-ai-training-data-booms/",
         "pubDate": "Tue, 22 Sep 2026 21:56:43 +0000",
@@ -485,11 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Exhibit tables added: One last chance to showcase your startup at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/22/exhibitor-program-reopened-book-by-sept-30/",
-        "pubDate": "Tue, 22 Sep 2026 14:15:00 +0000",
-        "description": "We have reopened our exhibitor program for 1 more week. Book your exhibit table by September 30 at 11:59 p.m. PT and showcase your startup in front of 10,000+ founders, investors, and tech leaders at SF's Moscone West from October 13-15.",
-        "source": "TechCrunch"
+        "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
+        "pubDate": "2026-09-22T20:17:17-04:00",
+        "description": "After turning a string of spectacular mathematical results into a reputational crisis, OpenAI is consulting human mathematicians to help it figure out a less disastrous path forward. On Monday, the company announced a new independent panel of mathema",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Paramount will need to release way more movies to make this merger work",
+        "link": "https://www.theverge.com/entertainment/999056/paramount-warner-bros-discovery-merger-annual-film-quota-guardrails",
+        "pubDate": "2026-09-22T18:26:07-04:00",
+        "description": "Now that Paramount has reached a settlement with the 12 states that were suing to block its $110 billion merger with Warner Bros. Discovery (WBD), the studio is even closer to becoming one of the world's biggest production houses. In addition to spen",
+        "source": "TheVerge"
       },
       {
         "title": "Rabbit’s new AI agent doesn’t need an R1 to run",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
         "pubDate": "2026-09-22T16:00:00-04:00",
         "description": "Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-        "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-        "pubDate": "2026-09-22T16:00:00-04:00",
-        "description": "Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple clarifies that Texture and Grain controls are exclusive to the latest iPhones’ cameras",
-        "link": "https://www.theverge.com/tech/998874/apple-iphone-18-pro-ios-27-camera-texture-grain-photographic-style",
-        "pubDate": "2026-09-22T15:48:08-04:00",
-        "description": "Apple's new texture and grain controls for stylizing photos will be more limited on older phones than initially expected. A confusingly worded press release from Apple indicated that the new features, announced alongside the iPhone 18 and 18 Pro earl",
         "source": "TheVerge"
       }
     ],
