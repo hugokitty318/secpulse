@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T14:58:59.050543Z",
+  "ts": "2026-09-23T19:01:48.340081Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,6 +252,27 @@
     ],
     "en_sec": [
       {
+        "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+        "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+        "pubDate": "Wed, 23 Sep 2026 22:23:10 +0530",
+        "description": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.\n\nGi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
+        "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
+        "pubDate": "Wed, 23 Sep 2026 21:36:41 +0530",
+        "description": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe chain, which CERT Polska calls MikroTrick, combines a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
+        "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
+        "pubDate": "Wed, 23 Sep 2026 19:47:58 +0530",
+        "description": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22.\n\nThe models can choose to steal Windows credentials, saved browser passwords, and cry",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
         "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
         "pubDate": "Wed, 23 Sep 2026 19:22:46 +0530",
@@ -287,6 +308,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers start exploiting critical WordPress flaw for code execution",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+        "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
+        "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
         "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
         "pubDate": "Wed, 23 Sep 2026 13:59:48 +0530",
@@ -306,6 +334,13 @@
         "pubDate": "Wed, 23 Sep 2026 12:34:40 +0530",
         "description": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an app puts values an attacker control",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
+        "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
+        "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400",
+        "description": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
@@ -355,49 +390,70 @@
         "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
         "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
-        "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
-        "pubDate": "Tue, 22 Sep 2026 23:59:39 +0530",
-        "description": "Attackers exploited a previously unknown flaw in Check Point's Security Management Server in a handful of targeted attacks on July 23, the company said.\n\nThe flaw, CVE-2026-93616, allows an attacker who can access the server's web service to run scri",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "WordPress Issues Patch for Critical Flaw That Can Enable Code Execution on Some Servers",
-        "link": "https://thehackernews.com/2026/09/wordpress-issues-patch-for-critical.html",
-        "pubDate": "Tue, 22 Sep 2026 23:33:10 +0530",
-        "description": "WordPress has fixed a critical flaw in its core software that lets an attacker with no account make a site load a PHP file from outside its theme folders.\n\nOn some servers, that can go further, allowing the attacker to run their own code. The fix shi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Malicious npm Package Poses as Twilio Bug-Bounty Probe, Can Exfiltrate Credentials",
-        "link": "https://thehackernews.com/2026/09/malicious-npm-package-poses-as-twilio.html",
-        "pubDate": "Tue, 22 Sep 2026 23:28:15 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a malicious npm package named \"tw-pkgprobe-7731\" that masquerades as a security tool targeting developers integrating Twilio into their applications, while stealthily attempting to harvest sensitive",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Takes Down EvilTokens Device-Code Phishing Service Tied to 12,000 Inbox Compromises",
-        "link": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
-        "pubDate": "Tue, 22 Sep 2026 22:33:31 +0530",
-        "description": "Microsoft on Tuesday announced the takedown of the EvilTokens device code phishing service that it said used artificial intelligence (AI) \"at every step of the attack chain.\"\n\nThe action, carried out with authorization from the U.S. District Court fo",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-        "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-        "pubDate": "Tue, 22 Sep 2026 22:11:12 +0530",
-        "description": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request.\n\nThe flaw, tracked as CV",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
+        "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
+        "pubDate": "Wed, 23 Sep 2026 18:06:27 +0000",
+        "description": "At the same time, Disney appears to be exploring new ways to expand its streaming business beyond simply raising subscription prices.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The old cybersecurity model is breaking",
+        "link": "https://techcrunch.com/video/the-old-cybersecurity-model-is-breaking/",
+        "pubDate": "Wed, 23 Sep 2026 17:44:02 +0000",
+        "description": "As concern over AI safety and rogue agents continue to make headlines, it’s no surprise that cybersecurity stocks are rising, or that investors are pouring massive amounts of capital into startups trying to build the next generation of security for a",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zoox grounds Atlanta test fleet after workers report toxic gas exposure symptoms",
+        "link": "https://techcrunch.com/2026/09/23/zoox-grounds-atlanta-test-fleet-after-workers-report-toxic-gas-exposure-symptoms/",
+        "pubDate": "Wed, 23 Sep 2026 17:28:38 +0000",
+        "description": "The repeated incidents led one worker to file a complaint with the Occupational Safety and Health Administration, which opened an inquiry and told Zoox to investigate the exposures.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT mobile app gets voice-based agentic features",
+        "link": "https://techcrunch.com/2026/09/23/chatgpt-mobile-app-gets-voice-based-agentic-features/",
+        "pubDate": "Wed, 23 Sep 2026 17:00:00 +0000",
+        "description": "Pro and Plus users will be able to use the Work tab on their phones to complete agentic tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Even Americans who use AI every day are worried about it",
+        "link": "https://techcrunch.com/2026/09/23/even-americans-who-use-ai-every-day-are-worried-about-it/",
+        "pubDate": "Wed, 23 Sep 2026 16:49:58 +0000",
+        "description": "The report suggests that greater exposure will not resolve the unease around the technology, nor reduce public support for AI regulation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
+        "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
+        "pubDate": "Wed, 23 Sep 2026 16:03:44 +0000",
+        "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
+        "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
+        "pubDate": "Wed, 23 Sep 2026 15:46:57 +0000",
+        "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube Music gets more conversational with new AI features",
+        "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
+        "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
+        "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
         "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
         "pubDate": "Wed, 23 Sep 2026 14:45:00 +0000",
-        "description": "Eight Sleep said the new pod is now 20% faster than the previous generation",
+        "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
         "source": "TechCrunch"
       },
       {
@@ -408,10 +464,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube’s new ‘Short Series’ feature brings episodic viewing to Shorts",
+        "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
         "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
         "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "As microdrama apps gain traction, YouTube is clearly betting that episodic short-form storytelling will stick around. And that the format belongs on Shorts. At its Made On YouTube event on Wednesday, the company announced “Shorts Series,” a new tool ",
+        "description": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
         "source": "TechCrunch"
       },
       {
@@ -425,14 +481,14 @@
         "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
         "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
         "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join this exclusive session. Save $200 before September 25, 11:59 p.m. PT.",
+        "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
         "source": "TechCrunch"
       },
       {
         "title": "YouTube will let you build your own algorithm with AI",
         "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
         "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "ouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
+        "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
         "source": "TechCrunch"
       },
       {
@@ -443,94 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Here’s the trailer for Nathan Fielder’s Elizabeth Holmes documentary, in theaters October 16",
-        "link": "https://techcrunch.com/2026/09/23/heres-the-trailer-for-nathan-fielders-elizabeth-holmes-documentary-in-theaters-october-16/",
-        "pubDate": "Wed, 23 Sep 2026 14:21:41 +0000",
-        "description": "In this cursed timeline, we have been gifted something so unfathomable that we could never have imagined it.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/23/3-days-left-to-save-up-to-200-and-make-impactful-connections-at-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 23 Sep 2026 14:00:00 +0000",
-        "description": "3 days to save up to $200 on your TechCrunch Disrupt 2026 pass, plus 50% off a second. Make impactful connections with 10,000+ tech leaders. Last day to save is September 25, 11:59 p.m. PT. Register here.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Spotify is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’",
-        "link": "https://techcrunch.com/2026/09/23/spotify-is-giving-you-the-keys-to-its-recommendation-algorithm-with-u-s-launch-of-taste-profile/",
-        "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-        "description": "Spotify is rolling out Taste Profile to Premium users in the U.S., letting listeners see how the streamer understands their tastes and use natural language to reshape their recommendations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "LinkedIn adds new tools to fight fake profiles and bogus work histories",
-        "link": "https://techcrunch.com/2026/09/23/linkedin-adds-new-tools-to-fight-fake-profiles-and-bogus-work-histories/",
-        "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-        "description": "LinkedIn is rolling out new verification tools that let members vouch for colleagues’ work experience and give companies more control over accounts that falsely claim to employ them.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "PitPro’s first tire-changing robot goes live in Canada",
-        "link": "https://techcrunch.com/2026/09/23/pitpros-first-tire-changing-robot-goes-live-in-canada/",
-        "pubDate": "Wed, 23 Sep 2026 13:00:00 +0000",
-        "description": "The startup says its automated system can change four tires in under 15 minutes.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Comma’s hands-off driving tech under investigation after 2 fatal crashes",
-        "link": "https://techcrunch.com/2026/09/23/commas-hands-off-driving-tech-under-investigation-after-2-fatal-crashes/",
-        "pubDate": "Wed, 23 Sep 2026 12:12:39 +0000",
-        "description": "The investigation involves at least some crashes where it appears drivers were using \"forked\" versions of Comma's software.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ema raises $77M as AI starts eating into enterprise software and services",
-        "link": "https://techcrunch.com/2026/09/23/ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services/",
-        "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000",
-        "description": "Ema has raised $140 million to date and has more than 50 enterprise customers, including Google and Microsoft.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
-        "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
-        "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
-        "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "YouTube is building AI creator tools that do almost everything for them",
-        "link": "https://www.theverge.com/tech/999140/made-on-youtube-creator-tools-ai-thumbnails-tests",
-        "pubDate": "2026-09-23T10:30:00-04:00",
-        "description": "Part of the job of a content creator is to figure out how to get their work in front of the most people. Cracking - or fighting - the algorithm has historically been a frustration for creators, but YouTube is increasingly simply telling creators what",
+        "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
+        "pubDate": "2026-09-23T14:00:00-04:00",
+        "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness f",
         "source": "TheVerge"
       },
       {
-        "title": "Discord will now automatically estimate your age",
-        "link": "https://www.theverge.com/tech/999305/discord-updated-age-assurance-global-rollout",
-        "pubDate": "2026-09-23T10:27:49-04:00",
-        "description": "Discord is rolling out a new global age assurance system, seven months after pausing its previous verification measures following backlash from users. Starting today in every country except Australia and the UK, Discord will automatically assign user",
+        "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
+        "pubDate": "2026-09-23T12:23:05-04:00",
+        "description": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" ",
         "source": "TheVerge"
       },
       {
-        "title": "McDonald’s is testing ads on its drive-thru menus",
-        "link": "https://www.theverge.com/tech/999295/mcdonalds-drive-thru-menu-ads",
-        "pubDate": "2026-09-23T09:52:39-04:00",
-        "description": "McDonald's is putting ads on its drive-thru menu as part of a \"limited\" pilot at company-owned restaurants, according to a report from Bloomberg. Drive-thru locations included in the test will show ads from other brands on digital menu boards after a",
+        "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
+        "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
+        "pubDate": "2026-09-23T12:01:45-04:00",
+        "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, includ",
         "source": "TheVerge"
       },
       {
-        "title": "Nobody does it like Remedy",
-        "link": "https://www.theverge.com/games/999268/control-resonant-review-ps5-xbox",
-        "pubDate": "2026-09-23T09:45:00-04:00",
-        "description": "Video games have given us plenty of ways to traverse huge open worlds, but none have felt quite as oddly exhilarating as manipulating gravity in Control Resonant's twisted version of New York City. It's a game that lets you flip, twist, and fly throu",
+        "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
+        "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
+        "pubDate": "2026-09-23T12:00:00-04:00",
+        "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the",
         "source": "TheVerge"
       },
       {
-        "title": "Xiaomi’s new 18 Pro phones improve on Samsung’s privacy display",
-        "link": "https://www.theverge.com/tech/999253/xiaomi-18-pro-max-privacy-display-launch-china",
-        "pubDate": "2026-09-23T08:04:45-04:00",
-        "description": "Xiaomi's new 18 Pro and 18 Pro Max launched in China today, and feature a more flexible take on the privacy display tech introduced this year on Samsung's Galaxy S26 Ultra. They combine it with returning rear screens, two 200-megapixel cameras, and b",
+        "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
+        "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
+        "pubDate": "2026-09-23T11:45:11-04:00",
+        "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a ",
         "source": "TheVerge"
       }
     ],
