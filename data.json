@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T19:01:48.340081Z",
+  "ts": "2026-09-23T22:15:20.214028Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,6 +252,13 @@
     ],
     "en_sec": [
       {
+        "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+        "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+        "pubDate": "Wed, 23 Sep 2026 23:36:30 +0530",
+        "description": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
         "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
         "pubDate": "Wed, 23 Sep 2026 22:23:10 +0530",
@@ -287,6 +294,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "New RemControl Android banking malware targets users in Europe and Canada",
+        "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
+        "pubDate": "Wed, 23 Sep 2026 17:25:13 -0400",
+        "description": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
         "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
         "pubDate": "Wed, 23 Sep 2026 17:17:19 +0530",
@@ -306,6 +320,13 @@
         "pubDate": "Wed, 23 Sep 2026 16:42:18 +0530",
         "description": "A use-after-free in the Linux kernel's AF_UNIX socket subsystem can be used to escape a container and gain root on the host, security firm DepthFirst said in research published September 22.\n\nThe flaw, tracked as CVE-2026-80521 (CVSS score: 7.8), was",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+        "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
+        "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hackers start exploiting critical WordPress flaw for code execution",
@@ -369,30 +390,37 @@
         "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
         "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: September Windows updates break Always On VPN connections",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-        "pubDate": "Wed, 23 Sep 2026 07:18:13 -0400",
-        "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ryuk ransomware member sentenced to 24 months in prison",
-        "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
-        "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
-        "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
-        "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
-        "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
+        "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
+        "pubDate": "Wed, 23 Sep 2026 21:21:33 +0000",
+        "description": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
+        "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
+        "pubDate": "Wed, 23 Sep 2026 20:35:17 +0000",
+        "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
+        "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
+        "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
+        "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Modal Motors is trying to cut China out of electric motors entirely",
+        "link": "https://techcrunch.com/2026/09/23/modal-motors-is-trying-to-cut-china-out-of-electric-motors-entirely/",
+        "pubDate": "Wed, 23 Sep 2026 19:05:00 +0000",
+        "description": "The startup is working on small, light motors with no rare-earth magnets that are suited for drones, fans, and robots.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Disney+ and Hulu add to the growing trend of streaming inflation",
         "link": "https://techcrunch.com/2026/09/23/disney-and-hulu-add-to-the-growing-trend-of-streaming-inflation/",
@@ -471,66 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube adds new creator tools like video A/B testing, dynamic thumbnails, and live dubbing",
-        "link": "https://techcrunch.com/2026/09/23/youtube-adds-new-creator-tools-like-video-a-b-testing-dynamic-thumbnails-and-live-dubbing/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "Many of these tools hinge on using generative AI to try out a variety of different tactics on a video to find what works best.",
-        "source": "TechCrunch"
+        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
+        "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
+        "pubDate": "2026-09-23T16:30:00-04:00",
+        "description": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable ",
+        "source": "TheVerge"
       },
       {
-        "title": "StrictlyVC at TechCrunch Disrupt 2026: Inside the changing rules of venture capital",
-        "link": "https://techcrunch.com/2026/09/23/strictlyvc-at-techcrunch-disrupt-2026-inside-the-changing-rules-of-venture-capital/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "StrictlyVC joins TechCrunch Disrupt 2026 to discuss the changing VC landscape thanks to AI. Get your Investor Pass to join these exclusive sessions. Save $200 before September 25 at 11:59 p.m. PT.",
-        "source": "TechCrunch"
+        "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
+        "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
+        "pubDate": "2026-09-23T16:30:00-04:00",
+        "description": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of ",
+        "source": "TheVerge"
       },
       {
-        "title": "YouTube will let you build your own algorithm with AI",
-        "link": "https://techcrunch.com/2026/09/23/youtube-will-let-you-build-your-own-algorithm-with-ai/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "YouTube’s new custom feeds let users describe the videos they want to see in their own words, then use Gemini to build a personalized feed around the request.",
-        "source": "TechCrunch"
+        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
+        "pubDate": "2026-09-23T15:00:00-04:00",
+        "description": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the back",
+        "source": "TheVerge"
       },
       {
-        "title": "YouTube doubles down on video shopping with AI-powered ‘Ask YouTube’ feature",
-        "link": "https://techcrunch.com/2026/09/23/youtube-doubles-down-on-video-shopping-with-ai-powered-ask-youtube-feature/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "YouTube's AI feature can now help you compare products as you shop.",
-        "source": "TechCrunch"
+        "title": "Data centers are black boxes, but California wants to change that",
+        "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
+        "pubDate": "2026-09-23T14:22:57-04:00",
+        "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communitie",
+        "source": "TheVerge"
       },
       {
         "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
         "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
         "pubDate": "2026-09-23T14:00:00-04:00",
         "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness f",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/999443/bernie-sanders-ai-superintelligence-ban-act",
-        "pubDate": "2026-09-23T12:23:05-04:00",
-        "description": "Sen. Bernie Sanders (I-VT) and Rep. Greg Casar (D-TX) have introduced new legislation that would ban anyone from developing artificial superintelligence - a technology the bill describes as capable of the \"destruction or disempowerment of humanity,\" ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Logitech’s new Blue Yeti 2 mic adjusts itself to where you are",
-        "link": "https://www.theverge.com/gadgets/999406/blue-yeti-2-usb-microphone-price-availability",
-        "pubDate": "2026-09-23T12:01:45-04:00",
-        "description": "The original Blue Yeti has been one of the most recognizable go-to USB microphones for content creators since it launched in 2009, and now it finally has a successor. Launching today under Logitech G, the Blue Yeti 2 adds some modern upgrades, includ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Logitech’s new haptics-based gaming mouse is a little better and $20 more",
-        "link": "https://www.theverge.com/news/998266/logitech-x3-pro-superstrike-specs-price",
-        "pubDate": "2026-09-23T12:00:00-04:00",
-        "description": "The G Pro Superstrike mouse is one of Logitech's most interesting products. Unlike other gaming mice, it has haptic actuators beneath its two main buttons instead of mechanical switches, which decreases latency and allows for a custom click feel (the",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Xbox’s Mythic Achievements sound like PlayStation’s Platinum trophy",
-        "link": "https://www.theverge.com/news/999404/xbox-mythic-achievement-feature",
-        "pubDate": "2026-09-23T11:45:11-04:00",
-        "description": "Xbox appears to be ready to launch its own version of PlayStation's platinum trophies. A new update to the Xbox PC app has revealed Mythic Achievements, which according to data in the app will appear once a player completes all the Achievements in a ",
         "source": "TheVerge"
       }
     ],
