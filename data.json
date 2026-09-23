@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-23T05:08:49.376963Z",
+  "ts": "2026-09-23T09:57:10.510796Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Check Point警告兩個重大漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179183",
+        "pubDate": "2026-09-23 17:52",
+        "description": "資安公司Check Point指出，近期修補的CVE-2026-85102、CVE-2026-93616已遭到利用，其中CVE-2026-93616利用活動發生在兩個月前；另一個漏洞CVE-2026-85102，則是在他們發布修補程式3天後出現嘗試利用活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科開源CAIRN工具，透過AI使用痕跡追蹤新型惡意程式",
+        "link": "https://www.ithome.com.tw/news/179176",
+        "pubDate": "2026-09-23 16:20",
+        "description": "AI開始被整合進惡意程式，資安研究人員要如何追蹤？思科Talos開源研究工具CAIRN，可從提示詞、API端點等AI使用痕跡著手，不必下載或執行惡意程式，就能先搜尋及分析可疑樣本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "納米比亞國防單位遭入侵，Nam-CSIRT證實與RansomHouse有關",
+        "link": "https://www.ithome.com.tw/news/179174",
+        "pubDate": "2026-09-23 16:15",
+        "description": "納米比亞國防暨退伍軍人事務部傳出遭駭，已證實其電腦網路出現未授權活動，並研判攻擊與勒索軟體組織RansomHouse有關。目前實際受影響範圍及是否有資料遭竊或外洩，仍有待進一步釐清",
+        "source": "iThome資安"
+      },
+      {
+        "title": "義大利政府信箱遭盜用，駭客成功冒充地方政府機關向Revolut索取客戶資料",
+        "link": "https://www.ithome.com.tw/news/179169",
+        "pubDate": "2026-09-23 15:12",
+        "description": "英國金融科技業者Revolut發生客戶資料外洩，起因是義大利政府證實機關電子郵件（PEC）帳號遭駭客盜用，攻擊者進一步冒充政府機關向其索取資料，導致680名客戶資料外洩。義大利政府也已確認相關信箱遭入侵",
+        "source": "iThome資安"
+      },
+      {
+        "title": "兩年前失竊的320萬筆俄國漢堡王客戶資料流入網路",
+        "link": "https://www.ithome.com.tw/news/179168",
+        "pubDate": "2026-09-23 14:30",
+        "description": "兩年前發生的俄國漢堡王客戶資料外洩事件再受關注。約320萬個不重複電子郵件地址及姓名、出生日期、電話號碼等個資遭外洩，近期被Have I Been Pwned（HIBP）收錄",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress存在資安漏洞Comment2Shell，攻擊者可經由匿名留言發動遠端執行程式碼攻擊",
+        "link": "https://www.ithome.com.tw/news/179167",
+        "pubDate": "2026-09-23 14:06",
+        "description": "近日WordPress開發團隊修補一系列資安漏洞，其中被稱為Comment2Shell（CVE-2026-93485）的高風險弱點相當特別，攻擊者有機會藉由留言在伺服器執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ShinyHunters傳駭入FBI，宣稱竊取探員個資及應徵者資料",
+        "link": "https://www.ithome.com.tw/news/179164",
+        "pubDate": "2026-09-23 13:13",
+        "description": "駭客組織ShinyHunters宣稱駭入FBI，取得FBI員工及應徵者資料，並聲稱資料量達數TB",
+        "source": "iThome資安"
+      },
       {
         "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
         "link": "https://www.ithome.com.tw/news/179163",
@@ -17,7 +66,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "針對CRA開源責任，OpenSSF以3類角色協助開源社群判斷義務",
+        "title": "針對CRA開源責任，OpenSSF以三類角色協助開源社群判斷義務",
         "link": "https://www.ithome.com.tw/news/179158",
         "pubDate": "2026-09-23 11:42",
         "description": "開源安全基金會（OpenSSF）近日發布一套名為「Grow CRA Readiness: A Community Garden Journey」的導覽資源，透過角色分類，協助社群成員快速找到適合自己的合規路徑與工具指引",
@@ -59,77 +108,56 @@
         "source": "iThome資安"
       },
       {
-        "title": "Check Point、F5、Arista應用系統漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179150",
-        "pubDate": "2026-09-23 09:39",
-        "description": "美國網路安全與基礎設施安全局（CISA）將CVE-2026-85102、CVE-2026-93616、CVE-2026-93952，以及CVE-2026-94127等4個漏洞，列入已遭利用的漏洞名單（KEV），並要求聯邦機構緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SolarWinds修補ARM高風險漏洞，寫死金鑰恐造成遠端程式碼執行",
-        "link": "https://www.ithome.com.tw/news/179139",
-        "pubDate": "2026-09-23 08:00",
-        "description": "SolarWinds旗下存取權限稽核系統ARM出現高風險漏洞CVE-2026-28326，問題源自產品採用寫死的靜態金鑰，未經身分驗證的攻擊者可能藉此遠端執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google推出AndroidX Security State程式庫，企業可掌握裝置實際修補情況",
-        "link": "https://www.ithome.com.tw/news/179099",
-        "pubDate": "2026-09-23 08:00",
-        "description": "Google近期推出AndroidX Security State程式庫的穩定版本，可分別檢查不同系統元件的修補狀態，並確認特定CVE是否已修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "澳洲通訊局提醒企業在推動PQC轉型過程中，不僅需更換演算法，也面臨既有系統改造",
-        "link": "https://www.ithome.com.tw/news/179101",
-        "pubDate": "2026-09-23 08:00",
-        "description": "澳洲通訊局提出PQC轉型實作建議，企業完成前期盤點與風險評估後，需開始修改既有系統並導入抗量子密碼演算法，逐步推動PQC轉型",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業AI程式開發助手工作階段遭劫持，Shai-Hulud蠕蟲擴散至約百個內部程式碼儲存庫",
-        "link": "https://www.ithome.com.tw/news/179145",
-        "pubDate": "2026-09-23 08:00",
-        "description": "駭客劫持企業開發人員的AI程式開發助手工作階段，透過遭污染的PyPI套件竊取GitHub OAuth權杖，再部署Shai-Hulud蠕蟲，擴散至約100個內部程式碼儲存庫，並竊走機密資訊及產品專有原始碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI公布GPT-6 Sol、Luna，價格較前代降低一半",
-        "link": "https://www.ithome.com.tw/news/179160",
-        "pubDate": "2026-09-23  11:09:59",
-        "description": "繼頂級的Astra後，OpenAI周二（9/22）宣布GPT-6 Sol及輕量模型GPT-6 Luna，成為GPT-6家族最新成員。\nOpenAI隨著快取和推論能力的提升，使其得以更低成本提供強大模型功能，Sol和Luna的API價格皆較GPT-5.6版降一半。其中Sol每百萬token輸入/輸出價格由4/20美元降為2/10美元，Luna則從0.2/1.2降為0.1和0.5美元。",
+        "title": "玉山AI轉型新方向",
+        "link": "https://www.ithome.com.tw/article/179182",
+        "pubDate": "2026-09-23  05:09:28",
+        "description": "",
         "source": "iThome"
       },
       {
-        "title": "Anthropic推出Claude Opus 5.5，AI越界行為減少85%",
-        "link": "https://www.ithome.com.tw/news/179162",
-        "pubDate": "2026-09-23  11:09:44",
-        "description": "Anthropic周二（9/22）推出新一代旗艦AI模型Claude Opus 5.5，為Claude 5.5系列首款模型，不只效能與成本有所改善，在一項新的安全評估中，試圖突破限制邊界的行為也較Opus 5及Claude Mythos 5.1減少約85%。",
+        "title": "玉山AI轉型瞄準Agentic Banking，全面改造新一代AI代理平臺",
+        "link": "https://www.ithome.com.tw/news/179148",
+        "pubDate": "2026-09-23  04:09:54",
+        "description": "2026年的玉山銀行，並不是第一次發起AI轉型。他們曾用資料探勘發掘大數據裡的細節，也押寶預測型AI、大力發展上百支應用。但這次，他們思考的是——AI能不能不只給答案，還真正完成一段工作？\n這是玉山現階段想實現的代理式銀行（Agentic Banking）。玉山金控科技長張智星、玉山銀行智能金融處副總工程師廖子慧日前受訪時揭露，使用者只需告訴自家AI平臺要完成什麼任務，系統就會理解需求，再把任務交給相應的Agent執行；這套架構背後，則以記憶庫、Skill與工具目錄（Tool Registry）",
         "source": "iThome"
       },
       {
-        "title": "Rust核心工具Cargo維護人力吃緊，新增全職維護者支援至少一年",
-        "link": "https://www.ithome.com.tw/news/179161",
-        "pubDate": "2026-09-23  01:09:44",
-        "description": "Rust核心建置與套件管理工具Cargo團隊將增加一名至少投入12個月的全職受資助維護者。Cargo是Rust的建置系統與套件管理器，近期因部分成員離開，加上部分成員原有的Cargo維護資助中斷，投入時間縮減，團隊維持基本維護工作的壓力增加。",
+        "title": "Node.js 26.10增強函式呼叫控制，補上PKCS#12憑證解析",
+        "link": "https://www.ithome.com.tw/news/179175",
+        "pubDate": "2026-09-23  04:09:26",
+        "description": "Node.js專案發布Node.js 26.10.0，新增兩種函式呼叫控制能力，開發者可以延後短時間內反覆出現的呼叫，或限制一段時間內的執行次數。版本更新加入PKCS#12檔案解析功能，可解析.p12與.pfx檔案內容並取得私鑰與X.509憑證，並擴充程式效能量測工具。",
         "source": "iThome"
       },
       {
-        "title": "攻擊者利用假冒LastPass驗證器散布竊資程式Rapuncel，濫用微軟簽署驅動程式關閉防毒軟體",
-        "link": "https://www.ithome.com.tw/news/179147",
-        "pubDate": "2026-09-22 18:49",
-        "description": "研究人員發現至少40個軟體品牌遭冒用，攻擊者利用假冒GitHub頁面結合SEO誘騙受害者下載惡意程式，再以核心驅動程式關閉防毒與EDR軟體",
-        "source": "iThome資安"
+        "title": "重大食安事件催生數位治理改革，政院研議建立全國食品產品識別與跨部會資料交換機制",
+        "link": "https://www.ithome.com.tw/news/179172",
+        "pubDate": "2026-09-23  03:09:31",
+        "description": "近期國內爆發的食用油品安全事件引發社會大眾的關注，暴露現行食品安全管理在數位治理上的不足。行政院長卓榮泰周二在食品安全會議上指出，政府除已提出《食品安全衛生管理法》部分條文修正草案外，也將推動食安數位治理改革，以資料整合與跨部會系統介接為核心，來提升食品安全管理及事件應變能力。\n強化數位治理為食安法修法5大面向之一",
+        "source": "iThome"
       },
       {
-        "title": "工作流程編排平臺Orkes Conductor重大漏洞遭積極利用，一天之內出現近8,000次活動",
-        "link": "https://www.ithome.com.tw/news/179144",
-        "pubDate": "2026-09-22 16:52",
-        "description": "9月上旬資安公司Fortinet兩度提出警告，他們偵測到大規模針對工作流程編排平臺Orkes Conductor的攻擊活動，試圖利用6月修補的重大漏洞CVE-2026-58138",
-        "source": "iThome資安"
+        "title": "川普貼文提前50毫秒賣華爾街，Truth Social遭舊金山提告",
+        "link": "https://www.ithome.com.tw/news/179170",
+        "pubDate": "2026-09-23  02:09:53",
+        "description": "美國舊金山市檢察長David Chiu周一（9/21）代表加州人民提告Truth Social母公司Trump Media & Technology Group（Trump Media），指控該公司透過付費服務Truth API，以每月最高10萬美元的價格，讓高頻交易業者比一般使用者提前約50毫秒取得美國總統川普（Donald Trump）等人的Truth S",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "Anthropic、OpenAI 同日推 Opus 5.5、GPT-6 Sol／Luna：最高階 AI 能力正以幾週速度往下放",
+        "link": "https://techorange.com/2026/09/23/anthropic-openai-opus-5-5-gpt-6-sol-luna-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 23 Sep 2026 12:47:48 +0800",
+        "description": "Anthropic、OpenAI 在美國時間 9/22 同日更新模型產品線，一口氣推出 3 款新模型。Anthropic 發表 Claude Opus 5.5，主打程式設計、AI 代理與專業知識工作；OpenAI 則推出 GPT-6 Sol、GPT-6 Luna，將月初才由 GPT-6 Astra 開啟的新一代產品線，進一步擴展到不同能力與價格層級。 這次兩家公司都沒有只把重點放在提高測試基準（benchmark）成績。Anthropic 的 Opus 5.5 已在多數工作達到 3 週前才推出的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "砸 3,500 萬美元辦學：a16z 打造矽谷「另類學院」，首屆免學費挑戰名校與 YC 模式？",
+        "link": "https://techorange.com/2026/09/23/horowitz-andreessen-academy-education-for-an-age-of-infinite-doing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 23 Sep 2026 12:44:37 +0800",
+        "description": "創投公司 Andreessen Horowitz（a16z）正以不同於傳統大學的方式培養下一代科技人才。該公司宣布投資 3,500 萬美元，支持另類高等教育機構 Horowitz Andreessen Academy，其規劃為兩年制、首屆先開一年期免學費課程，招收 16 至 22 歲學生。學院未取得大學認證，將由 Udemy 共同創辦人 Gagan Biyani 領導，並以獨立企業形式營運。 告別長時間課堂：AI-native 學院主打 80% 專題實作，培育科技與創業人才 《華爾街日報》指出，",
+        "source": "TechOrange"
+      },
       {
         "title": "【AI 驅動的 vibe hacking】漏洞數量已找不完，企業資安計畫重點轉向驗證漏洞「可利用性」",
         "link": "https://techorange.com/2026/09/23/vibe-hacking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,23 +248,51 @@
         "pubDate": "Mon, 21 Sep 2026 16:26:36 +0800",
         "description": "烏克蘭戰爭催生超過 500 家無人飛行載具（UAV）製造商，如今這個高度分散的市場開始出現另一種變化。源自烏克蘭、目前在美國掛牌的自主系統公司 Swarmer，9 月宣布最高以 2.24 億美元收購烏克蘭地面機器人公司 Ratel Robotics。《The Wall Street Journal》將這筆交易視為當地無人系統產業走向整併的重要訊號之一。 這筆交易發生之際，烏克蘭無人機市場也正從大量小團隊快速試作，逐漸走向更大規模採購。業者除了開發產品，還開始面對產能、供應鏈、公司治理、海外募資等",
         "source": "TechOrange"
-      },
-      {
-        "title": "30 分鐘建構雷射腔：MIT 導入 7 軸機器人，實現光學實驗「從零到一」自動化",
-        "link": "https://techorange.com/2026/09/21/mit-robotic-lab-runs-optics-experiments-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 12:34:06 +0800",
-        "description": "麻省理工學院（Massachusetts Institute of Technology，MIT）研究團隊打造一套可自主執行光學實驗的機器人系統，讓機器人能自行組裝鏡子、透鏡等光學元件，並依照研究需求調整實驗配置。《Forbes》報導，這套系統可協助研究人員自動完成大量重複性的實驗準備工作，並有望應用於包括量子力學在內的多種研究。 MIT 開發全自動機器人實驗室：30 分鐘組裝「桌上型雷射腔」 這項研究由 MIT 電子研究實驗室（Research Laboratory of Electronic",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 失控就拔插頭？打造「終止開關」為何比想像中更難",
-        "link": "https://techorange.com/2026/09/21/ai-kill-switch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 12:14:28 +0800",
-        "description": "最近幾個月，前沿實驗室的 AI Agent（AI 代理）接連出現越過原先限制的案例。這些事件多發生在評測與研究環境，但當 Agent 能自己操作電腦、使用工具甚至尋找其他行動路徑，一個更實際的問題也跟著浮現：出了問題，人類真的能把 AI 關掉嗎？ 美國已經開始嘗試回答這個問題。加州州長 Gavin Newsom 9 月 18 日發布行政命令，成立專家小組研究 AI「終止開關（kill switch）」；今年 7 月，美國跨黨派眾議員也提出《AI Kill Switch Act》，要求大型 AI ",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "F5 Patches Critical BIG-IP APM Zero-Day Exploited for Unauthenticated RCE on OAuth Servers",
+        "link": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+        "pubDate": "Wed, 23 Sep 2026 13:59:48 +0530",
+        "description": "Attackers are exploiting a critical flaw in F5 BIG-IP Access Policy Manager (APM) that lets them run code on a BIG-IP system without logging in, F5 says.\n\nThe flaw, CVE-2026-94127, affects only systems in which APM serves as an OAuth authorization se",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Chinese Hackers Exploit Chrome-Windows Zero-Day Chain to Deploy CLEANGULP Malware",
+        "link": "https://thehackernews.com/2026/09/chinese-hackers-exploit-chrome-windows.html",
+        "pubDate": "Wed, 23 Sep 2026 13:59:24 +0530",
+        "description": "A Chinese threat actor codenamed UTA0565 has been observed exploiting the recently disclosed Google Chrome-Microsoft Windows exploit chain as zero-days through fake websites.\n\nThe attacks, detected on September 3 and 4, 2026, involved the chaining of",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+        "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+        "pubDate": "Wed, 23 Sep 2026 12:34:40 +0530",
+        "description": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an app puts values an attacker control",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+        "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+        "pubDate": "Wed, 23 Sep 2026 11:00:09 +0530",
+        "description": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"We have compromised the FBI. We hold very sensitive",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Ryuk ransomware member sentenced to 24 months in prison",
+        "link": "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-sentenced-to-24-months-in-prison/",
+        "pubDate": "Wed, 23 Sep 2026 04:20:05 -0400",
+        "description": "An Armenian man was sentenced to 24 months in prison and 3 years of supervised release for hacking U.S. companies and encrypting their systems in Ryuk ransomware attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+        "pubDate": "Wed, 23 Sep 2026 03:17:23 -0400",
+        "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Check Point Warns of Management Server Zero-Day Exploited in Targeted Attacks",
         "link": "https://thehackernews.com/2026/09/check-point-warns-of-management-server.html",
@@ -333,48 +389,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-exploit-multiple-technologies-to-steal-govt-data/",
         "pubDate": "Tue, 22 Sep 2026 16:35:24 -0400",
         "description": "A Chinese-speaking threat actor has been exploiting vulnerabilities in ZyXEL GS1900 Smart Managed Switches and WordPress to steal sensitive data from 996 devices and more than 18,500 records stored in backend databases. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ShinyHunters claims FBI hack, data theft in PeopleSoft zero-day breach",
-        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-fbi-hack-data-theft-in-peoplesoft-zero-day-breach/",
-        "pubDate": "Tue, 22 Sep 2026 15:13:29 -0400",
-        "description": "The ShinyHunters extortion gang claims it breached FBI systems using a new Oracle PeopleSoft zero-day vulnerability, gaining access to internal services and stealing sensitive data on employees and job applicants. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
-        "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
-        "pubDate": "Tue, 22 Sep 2026 15:08:18 +0530",
-        "description": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security contro",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "New ClosedQuorum Windows malware uses AI for attack decisions",
-        "link": "https://www.bleepingcomputer.com/news/security/new-closedquorum-windows-malware-uses-ai-for-attack-decisions/",
-        "pubDate": "Tue, 22 Sep 2026 14:04:39 -0400",
-        "description": "A new Windows malware named ClosedQuorum uses Google Gemini, DeepSeek, Qwen, and Mistral AI models to autonomously determine the actions to take during post-compromise stages of an attack. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-        "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-        "pubDate": "Tue, 22 Sep 2026 13:22:03 +0530",
-        "description": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities.\n\n\"SideCopy campaign operations typically initiate through spear-phis",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Reducing shadow IT visibility gaps with Wazuh",
-        "link": "https://www.bleepingcomputer.com/news/security/reducing-shadow-it-visibility-gaps-with-wazuh/",
-        "pubDate": "Tue, 22 Sep 2026 13:17:41 -0400",
-        "description": "Shadow IT can leave security teams unaware of unmanaged endpoints, unauthorized software, and other assets that fall outside existing monitoring. Wazuh explains how endpoint inventory, agentless monitoring, and centralized analysis can help organizat",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Check Point warns of Management Server zero-day exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-        "pubDate": "Tue, 22 Sep 2026 12:32:47 -0400",
-        "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
         "source": "BleepingComputer"
       }
     ],
