@@ -1,7 +1,119 @@
 {
-  "ts": "2026-09-23T00:26:58.547380Z",
+  "ts": "2026-09-23T05:08:49.376963Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/179163",
+        "pubDate": "2026-09-23 12:34",
+        "description": "IBM MQ存在兩個記憶體相關重大漏洞，分別影響MQ Appliance與HPE NonStop版本，建議用戶立即更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MongoDB修補14個漏洞，包含可能導致刪除資料與破壞記憶體的重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179159",
+        "pubDate": "2026-09-23 11:48",
+        "description": "漏洞涵蓋Mongoid與C Driver等元件，攻擊者可藉此竊取、刪除資料或觸發記憶體破壞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "針對CRA開源責任，OpenSSF以3類角色協助開源社群判斷義務",
+        "link": "https://www.ithome.com.tw/news/179158",
+        "pubDate": "2026-09-23 11:42",
+        "description": "開源安全基金會（OpenSSF）近日發布一套名為「Grow CRA Readiness: A Community Garden Journey」的導覽資源，透過角色分類，協助社群成員快速找到適合自己的合規路徑與工具指引",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA針對西門子SIPLUS與SIMATIC產品漏洞發出ICS公告",
+        "link": "https://www.ithome.com.tw/news/179156",
+        "pubDate": "2026-09-23 11:11",
+        "description": "西門子部分產品受Linux Kernel Copy Fail漏洞影響，可能導致攻擊者取得root權限，建議用戶儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 154，修補108個漏洞",
+        "link": "https://www.ithome.com.tw/news/179155",
+        "pubDate": "2026-09-23 11:08",
+        "description": "本週Google推出Chrome 154，總共修補108個漏洞，其中五分之一是記憶體釋放後再存取使用（Use After Free）類型的弱點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "60萬網站採用的WordPress行事曆外掛曝兩項重大RCE漏洞",
+        "link": "https://www.ithome.com.tw/news/179153",
+        "pubDate": "2026-09-23 10:35",
+        "description": "WordPress熱門行事曆外掛The Events Calendar爆出兩項9.8分重大漏洞，攻擊者可利用尚未核准的活動頁留言觸發攻擊，執行系統命令或重設管理員密碼接管網站",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Arista公布SD-WAN集中管理平臺VCO滿分漏洞，並警告已遭利用",
+        "link": "https://www.ithome.com.tw/news/179154",
+        "pubDate": "2026-09-23 10:21",
+        "description": "Arista警告SD-WAN集中管理平臺VeloCloud Orchestrator（VCO）存在已遭利用的漏洞CVE-2026-93952，並指出CVSS嚴重程度達到滿分10分，呼籲用戶應儘速修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "F5揭露及修補已遭利用的BIG-IP APM重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179151",
+        "pubDate": "2026-09-23 09:51",
+        "description": "F5近日公布BIG-IP Access Policy Manager（APM）重大漏洞CVE-2026-94127，並表示已出現遭到利用的跡象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Check Point、F5、Arista應用系統漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179150",
+        "pubDate": "2026-09-23 09:39",
+        "description": "美國網路安全與基礎設施安全局（CISA）將CVE-2026-85102、CVE-2026-93616、CVE-2026-93952，以及CVE-2026-94127等4個漏洞，列入已遭利用的漏洞名單（KEV），並要求聯邦機構緊急修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SolarWinds修補ARM高風險漏洞，寫死金鑰恐造成遠端程式碼執行",
+        "link": "https://www.ithome.com.tw/news/179139",
+        "pubDate": "2026-09-23 08:00",
+        "description": "SolarWinds旗下存取權限稽核系統ARM出現高風險漏洞CVE-2026-28326，問題源自產品採用寫死的靜態金鑰，未經身分驗證的攻擊者可能藉此遠端執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google推出AndroidX Security State程式庫，企業可掌握裝置實際修補情況",
+        "link": "https://www.ithome.com.tw/news/179099",
+        "pubDate": "2026-09-23 08:00",
+        "description": "Google近期推出AndroidX Security State程式庫的穩定版本，可分別檢查不同系統元件的修補狀態，並確認特定CVE是否已修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲通訊局提醒企業在推動PQC轉型過程中，不僅需更換演算法，也面臨既有系統改造",
+        "link": "https://www.ithome.com.tw/news/179101",
+        "pubDate": "2026-09-23 08:00",
+        "description": "澳洲通訊局提出PQC轉型實作建議，企業完成前期盤點與風險評估後，需開始修改既有系統並導入抗量子密碼演算法，逐步推動PQC轉型",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業AI程式開發助手工作階段遭劫持，Shai-Hulud蠕蟲擴散至約百個內部程式碼儲存庫",
+        "link": "https://www.ithome.com.tw/news/179145",
+        "pubDate": "2026-09-23 08:00",
+        "description": "駭客劫持企業開發人員的AI程式開發助手工作階段，透過遭污染的PyPI套件竊取GitHub OAuth權杖，再部署Shai-Hulud蠕蟲，擴散至約100個內部程式碼儲存庫，並竊走機密資訊及產品專有原始碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI公布GPT-6 Sol、Luna，價格較前代降低一半",
+        "link": "https://www.ithome.com.tw/news/179160",
+        "pubDate": "2026-09-23  11:09:59",
+        "description": "繼頂級的Astra後，OpenAI周二（9/22）宣布GPT-6 Sol及輕量模型GPT-6 Luna，成為GPT-6家族最新成員。\nOpenAI隨著快取和推論能力的提升，使其得以更低成本提供強大模型功能，Sol和Luna的API價格皆較GPT-5.6版降一半。其中Sol每百萬token輸入/輸出價格由4/20美元降為2/10美元，Luna則從0.2/1.2降為0.1和0.5美元。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic推出Claude Opus 5.5，AI越界行為減少85%",
+        "link": "https://www.ithome.com.tw/news/179162",
+        "pubDate": "2026-09-23  11:09:44",
+        "description": "Anthropic周二（9/22）推出新一代旗艦AI模型Claude Opus 5.5，為Claude 5.5系列首款模型，不只效能與成本有所改善，在一項新的安全評估中，試圖突破限制邊界的行為也較Opus 5及Claude Mythos 5.1減少約85%。",
+        "source": "iThome"
+      },
+      {
+        "title": "Rust核心工具Cargo維護人力吃緊，新增全職維護者支援至少一年",
+        "link": "https://www.ithome.com.tw/news/179161",
+        "pubDate": "2026-09-23  01:09:44",
+        "description": "Rust核心建置與套件管理工具Cargo團隊將增加一名至少投入12個月的全職受資助維護者。Cargo是Rust的建置系統與套件管理器，近期因部分成員離開，加上部分成員原有的Cargo維護資助中斷，投入時間縮減，團隊維持基本維護工作的壓力增加。",
+        "source": "iThome"
+      },
       {
         "title": "攻擊者利用假冒LastPass驗證器散布竊資程式Rapuncel，濫用微軟簽署驅動程式關閉防毒軟體",
         "link": "https://www.ithome.com.tw/news/179147",
@@ -15,128 +127,16 @@
         "pubDate": "2026-09-22 16:52",
         "description": "9月上旬資安公司Fortinet兩度提出警告，他們偵測到大規模針對工作流程編排平臺Orkes Conductor的攻擊活動，試圖利用6月修補的重大漏洞CVE-2026-58138",
         "source": "iThome資安"
-      },
-      {
-        "title": "Rust熱門套件維護者遭鎖定，假工作邀約搭配視訊通話成駭客入侵管道",
-        "link": "https://www.ithome.com.tw/news/179141",
-        "pubDate": "2026-09-22 15:39",
-        "description": "攻擊者正以工作、專案與合約邀約接觸Rust熱門套件維護者，再藉視訊會議誘使安裝惡意軟體或執行指令，目標是取得帳號與發布權限，並進一步散布惡意套件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月22日，臺灣工業自動化業者遭中國駭客Red Heron竊取數百個程式碼儲存庫",
-        "link": "https://www.ithome.com.tw/news/179140",
-        "pubDate": "2026-09-22 14:51",
-        "description": "今年7月底Gitea修補重大漏洞CVE-2026-60004後，短短數日內便遭中國駭客Red Heron鎖定利用，針對尚未及時修補的多國Gitea系統發動攻擊。資安公司Acronis調查發現，一家臺灣工業自動化業者遭竊數百個程式碼儲存庫；另一個臺灣受害環境中，攻擊者更從Gitea進一步橫向移動至Proxmox虛擬化環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安署揭機關老舊防火牆遭駭事件，設備交接不全、未掌握EOS成內網破口",
-        "link": "https://www.ithome.com.tw/news/179118",
-        "pubDate": "2026-09-22 14:16",
-        "description": "原本用來阻擋外部威脅的防火牆，卻因設備交接與生命週期管理未落實，反而成為駭客進入內網的破口。資安署近期揭露一起政府機關資安事件，指出攻擊者入侵一臺已超過原廠支援期限的防火牆，不僅取得控制權、竄改最高管理者帳密，更利用該設備進一步連線至機關內部網路",
-        "source": "iThome資安"
-      },
-      {
-        "title": "對抗使郵件呈現看似正常的新型內容混淆手法，網擎郵件安全閘道新增隱形字元偵測功能",
-        "link": "https://www.ithome.com.tw/news/179091",
-        "pubDate": "2026-09-22 14:15",
-        "description": "在今年第二季實際郵件流量中，網擎資訊觀察到攻擊者利用隱形字元混淆郵件內容、規避偵測，為此該公司推出的郵件安全防護系統MailGates已於6.2.11.062版本支援ASCII Smuggling偵測，可自動辨識並處理信件中的隱形Unicode字元",
-        "source": "iThome資安"
-      },
-      {
-        "title": "印度IT供應商遭後門程式FlatRoof、RoofDeck入侵，疑為北韓駭客Jade Sleet所為",
-        "link": "https://www.ithome.com.tw/news/179132",
-        "pubDate": "2026-09-22 14:06",
-        "description": "資安公司SentinelOne指出，北韓駭客組織Jade Sleet（UNC4899、Pukchong、TraderTraitor）入侵印度一家IT服務廠商，攻擊源頭疑似針對開發人員下手，假借徵才面試與惡意Terraform專案啟動攻擊流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟Edge IE模式至少支援至2029年底，籲企業提前規畫轉型",
-        "link": "https://www.ithome.com.tw/news/179126",
-        "pubDate": "2026-09-22 12:57",
-        "description": "由於應用程式現代化可能耗時數年，微軟呼籲仍依賴IE模式的企業提早盤點並規畫轉型",
-        "source": "iThome資安"
-      },
-      {
-        "title": "攻擊手法BragJack透過惡意延伸套件挾持AI瀏覽器",
-        "link": "https://www.ithome.com.tw/news/179125",
-        "pubDate": "2026-09-22 12:51",
-        "description": "資安公司Forever Security揭露攻擊AI瀏覽器的新型態手法BragJack，攻擊者只需利用惡意Chrome延伸套件，就有機會挾持Chrome、Edge、Perplexity Comet、Opera Neon，以及安裝Claude in Chrome的瀏覽器，進而存取受害電腦檔案、瀏覽上網記錄、截取分頁內容，甚至讓AI代理代替使狦者執行任何操作",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Rambus推出支援Caliptra規範的CryptoManager信任根",
-        "link": "https://www.ithome.com.tw/news/179123",
-        "pubDate": "2026-09-22 12:42",
-        "description": "為AI SoC提供硬體及軟體安全機制，涵蓋安全開機、裝置身分、金鑰管理與遠端驗證等應用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "工控資安公司Dragos買下NetRise與runZero，打造xOT資安平臺",
-        "link": "https://www.ithome.com.tw/news/179122",
-        "pubDate": "2026-09-22 12:42",
-        "description": "本週工控資安公司Dragos宣布併購NetRise與runZero，將兩家公司技術整合至Dragos平臺，進一步擴大至延伸營運技術（xOT）環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "互動教學平臺Mathspace遭駭，逾107萬人個資外洩",
-        "link": "https://www.ithome.com.tw/news/179116",
-        "pubDate": "2026-09-22 12:03",
-        "description": "攻擊者利用Mathspace內部報表系統未及時修補的重大漏洞入侵，竊取澳紐學生、家長及教職員等個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress漏洞Click2Shell可被用於強制安裝佈景主題，若不處理恐被串連導致程式碼執行",
-        "link": "https://www.ithome.com.tw/news/179114",
-        "pubDate": "2026-09-22 11:56",
-        "description": "資安公司Pwn.ai近日公布向WordPress通報的資安漏洞Click2Shell，並指出攻擊者利用特製的佈景主題網址，誘使WordPress自動安裝，再搭配佈景主題的弱點，就有機會執行惡意PHP程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客Red Heron利用Gitea重大漏洞攻擊臺灣，工業自動化業者遭竊數百個程式碼儲存庫",
-        "link": "https://www.ithome.com.tw/news/179107",
-        "pubDate": "2026-09-22 11:22",
-        "description": "今年7月底，Gitea修補重大漏洞CVE-2026-60004後，短短數日內便遭中國駭客Red Heron鎖定利用，針對尚未及時修補的多國Gitea系統發動攻擊。資安公司Acronis調查發現，一家臺灣工業自動化業者遭竊數百個程式碼儲存庫；另一個臺灣受害環境中，攻擊者更從Gitea進一步橫向移動至Proxmox虛擬化環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安公司CrowdSec坦承原始碼遭竊，疑與TanStack供應鏈攻擊有關",
-        "link": "https://www.ithome.com.tw/news/179110",
-        "pubDate": "2026-09-22 11:09",
-        "description": "資安公司CrowdSec近日接獲通報，該公司存放於GitHub私有儲存庫的原始碼，於5月遭到外洩，根據初步調查的結果，很可能與TanStack供應鏈攻擊有關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS開源Strands Harness，預組代理最佳化設定降低詞元成本達28%",
-        "link": "https://www.ithome.com.tw/news/179146",
-        "pubDate": "2026-09-22  06:09:09",
-        "description": "AWS開源AI代理專案Strands Agents發布Strands Harness，提供一套已預先配置的通用AI代理執行框架，開發者不必自行組合工具、記憶及上下文管理機制即可開始使用。官方使用相同Claude或GPT模型進行六項基準測試，Strands Harness相較Claude Code、Codex等代理框架詞元（Token）成本低28%，測試分數大致相近。",
-        "source": "iThome"
-      },
-      {
-        "title": "【AI轉型實戰上篇】玉山銀行GENIE每月處理14億Token，模型調用成本不到5萬元",
-        "link": "https://www.ithome.com.tw/news/179111",
-        "pubDate": "2026-09-22  03:09:55",
-        "description": "也可參考【AI轉型實戰下篇】玉山打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架\n今年9月底，玉山銀行即將推出第三代GENIE，作為內部統一AI入口，全面導入Agentic AI，要從AI輔助轉為人機協作，進一步邁向代理式銀行（Agentic Banking）願景發展。",
-        "source": "iThome"
-      },
-      {
-        "title": "【AI轉型實戰下篇】玉山銀行打造全行AI代理入口，首度揭露新一代GENIE關鍵Agentic技術框架",
-        "link": "https://www.ithome.com.tw/news/179124",
-        "pubDate": "2026-09-22  03:09:16",
-        "description": "可先閱讀【",
-        "source": "iThome"
-      },
-      {
-        "title": "繼紐約後德州也踩煞車，暫停核發資料中心許可",
-        "link": "https://www.ithome.com.tw/news/179138",
-        "pubDate": "2026-09-22  02:09:43",
-        "description": "美國德州州長Greg Abbott周一（9/21）下令暫停核發資料中心相關許可，在完成電網及用水稽核前，不得繼續核准相關開發案。使德州成為繼紐約之後，美國第二個暫停資料中心許可的州別。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "【AI 驅動的 vibe hacking】漏洞數量已找不完，企業資安計畫重點轉向驗證漏洞「可利用性」",
+        "link": "https://techorange.com/2026/09/23/vibe-hacking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 23 Sep 2026 10:39:24 +0800",
+        "description": "過去，發動一場像樣的資安攻擊，需要經年累月鑽研技術才辦得到。但現在，只要懂得怎麼下指令給 AI，就有機會做到過去專業駭客才能完成的攻擊，這種被稱為「vibe hacking」的新型態攻擊，迫使企業資安團隊重新思考防禦節奏。 AI 讓攻擊技能門檻大幅降低 「Vibe hacking」是 AI 公司 Anthropic 提出的用語，指攻擊者只設定一個籠統目標，例如「入侵這家公司的系統並竊取資料」，接著完全放手讓 AI 代理自主處理每一個步驟，包括偵察、找出漏洞、撰寫並執行漏洞利用程式碼、彙整竊得的結",
+        "source": "TechOrange"
+      },
       {
         "title": "歐洲央行正式接軌代幣化市場，Pontes 把鏈上交易接回央行貨幣",
         "link": "https://techorange.com/2026/09/23/ecb-pontes-dlt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -233,13 +233,6 @@
         "link": "https://techorange.com/2026/09/21/ai-kill-switch/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 21 Sep 2026 12:14:28 +0800",
         "description": "最近幾個月，前沿實驗室的 AI Agent（AI 代理）接連出現越過原先限制的案例。這些事件多發生在評測與研究環境，但當 Agent 能自己操作電腦、使用工具甚至尋找其他行動路徑，一個更實際的問題也跟著浮現：出了問題，人類真的能把 AI 關掉嗎？ 美國已經開始嘗試回答這個問題。加州州長 Gavin Newsom 9 月 18 日發布行政命令，成立專家小組研究 AI「終止開關（kill switch）」；今年 7 月，美國跨黨派眾議員也提出《AI Kill Switch Act》，要求大型 AI ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "先別急著變成 AI Native 組織，勤業眾信資深執行副總經理溫紹群：台灣企業應先用 AI Empower 放大既有優勢",
-        "link": "https://techorange.com/2026/09/21/deloitte-rick-wen-podcast/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 21 Sep 2026 11:00:00 +0800",
-        "description": "專訪：戴季全撰稿：李昀蔚 「企業不會說 AI 不是競爭力，但是 AI 不會是唯一的競爭力。」本集《全新一週》邀請勤業眾信資深執行副總經理溫紹群，從第一線協助企業與組織導入 AI 的經驗出發，剖析 AI Agent 從回答問題走向自主執行後，企業真正面臨的挑戰，已經不只是模型能力，而是資料、流程、系統、組織與治理能不能一起跟上的課題。 從 CIO 如何在百家爭鳴的 AI Agent 生態中規劃未來架構，到 IT 與業務部門對 AI 導入方式出現不同期待，再到企業究竟該追求 AI Native，還是",
         "source": "TechOrange"
       }
     ],
@@ -387,6 +380,20 @@
     ],
     "en_tech": [
       {
+        "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+        "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+        "pubDate": "Wed, 23 Sep 2026 04:59:08 +0000",
+        "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Discord’s age verification era is upon us, despite community backlash",
+        "link": "https://techcrunch.com/2026/09/22/discords-age-verification-era-is-upon-us-despite-community-backlash/",
+        "pubDate": "Wed, 23 Sep 2026 03:31:12 +0000",
+        "description": "According to Discord, 90% of users will not have to verify their age.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "TechCrunch Founder Summit’s agenda revealed: Unlock fundraising, hiring, and AI insights in Boston on November 4",
         "link": "https://techcrunch.com/2026/09/22/techcrunch-founder-summits-agenda-revealed-unlock-fundraising-hiring-and-ai-insights-in-boston-on-november-4/",
         "pubDate": "Tue, 22 Sep 2026 23:21:49 +0000",
@@ -478,20 +485,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AstroForge is putting AI in command of its next spacecraft",
-        "link": "https://techcrunch.com/2026/09/22/astroforge-is-putting-ai-in-command-of-its-next-spacecraft/",
-        "pubDate": "Tue, 22 Sep 2026 15:00:00 +0000",
-        "description": "Autonomy-1 will have a small, transformer-based AI model taking charge of a space probe.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life onstage",
-        "link": "https://techcrunch.com/2026/09/22/techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-onstage/",
-        "pubDate": "Tue, 22 Sep 2026 14:30:00 +0000",
-        "description": "Hello Robot CEO and co-founder Aaron Edsinger will bring Stretch 4 for a live demo on the Real World AI Stage at TechCrunch Disrupt 2026. Register before September 25 to save up to $200, plus get a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "OpenAI wants to consult elite mathematicians about how to not fumble again",
         "link": "https://www.theverge.com/ai-artificial-intelligence/999167/openai-elite-mathematicians-panel",
         "pubDate": "2026-09-22T20:17:17-04:00",
@@ -529,9 +522,19 @@
     ],
     "cve": [
       {
+        "title": "F5 BIG-IP Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20260923",
+        "pubDate": "Wed, 23 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "F5 BIG-IP Remote Code Execution Vulnerability"
+      },
+      {
         "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260916",
-        "pubDate": "Wed, 16 Sep 2026 10:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260923",
+        "pubDate": "Wed, 23 Sep 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
@@ -609,16 +612,6 @@
         "products": "Mozilla Products"
       },
       {
-        "title": "MongoDB Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20260910",
-        "pubDate": "Thu, 10 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "MongoDB"
-      },
-      {
         "title": "F5 BIG-IP Denial of Service Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260921",
         "pubDate": "Mon, 21 Sep 2026 11:00:00 +0800",
@@ -637,16 +630,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "GitLab"
-      },
-      {
-        "title": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions",
-        "link": "https://www.hkcert.org/security-bulletin/phishing-alert-beware-of-phishing-activities-leading-to-unauthorised-credit-card-transactions_20260914",
-        "pubDate": "Mon, 14 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Phishing Alert - Beware of Phishing Activities Leading to Unauthorised Credit Card Transactions"
       },
       {
         "title": "ISC BIND Multiple Vulnerabilities",
