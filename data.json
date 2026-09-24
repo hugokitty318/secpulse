@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T19:58:36.595506Z",
+  "ts": "2026-09-24T23:11:31.575424Z",
   "tabs": {
     "cn_sec": [
       {
@@ -322,20 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "How One Kubernetes YAML Can Hand Over a GCP Organization",
-        "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
-        "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
-        "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a sin",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-        "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-        "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
-        "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
         "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
         "pubDate": "Thu, 24 Sep 2026 23:40:18 +0530",
@@ -371,11 +357,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
+        "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
+        "pubDate": "Thu, 24 Sep 2026 16:53:35 -0400",
+        "description": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
         "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
         "pubDate": "Thu, 24 Sep 2026 16:30:00 +0530",
         "description": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secr",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
+        "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
+        "pubDate": "Thu, 24 Sep 2026 16:10:48 -0400",
+        "description": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
@@ -386,6 +386,13 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Nexterity wants to automate the hard, dangerous part of pipefitting",
+        "link": "https://techcrunch.com/2026/09/24/nexterity-wants-to-automate-the-hard-dangerous-part-of-pipefitting/",
+        "pubDate": "Thu, 24 Sep 2026 20:45:00 +0000",
+        "description": "The startup's robot can tighten or loosen four bolts at a time, and it fits in a Pelican case.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
         "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
@@ -425,7 +432,7 @@
         "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
         "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
         "pubDate": "Thu, 24 Sep 2026 17:07:55 +0000",
-        "description": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
+        "description": "Databricks has bought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
         "source": "TechCrunch"
       },
       {
@@ -481,15 +488,22 @@
         "title": "Ando wants to take on Slack with a team messaging app that lets humans and agents work together",
         "link": "https://techcrunch.com/2026/09/24/ando-eyes-slack-as-it-builds-team-messaging-platform-for-humans-and-agents-to-work-together/",
         "pubDate": "Thu, 24 Sep 2026 14:31:00 +0000",
-        "description": "Ando has raised $20 million in pre-seed and seed funding from investors including Accel, Index Ventures, and Emergence.",
+        "description": "The app gives agents their own identities and inboxes and lets them partake in conversations as naturally as people can.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026: Cal AI’s Zach Yadegari on how to create viral growth and capitalize on it",
-        "link": "https://techcrunch.com/2026/09/24/techcrunch-disrupt-2026-cal-ais-zach-yadegari-on-how-to-create-viral-growth-and-capitalize-on-it/",
-        "pubDate": "Thu, 24 Sep 2026 14:30:00 +0000",
-        "description": "Zach Yadegari joins the Builders Stage at TechCrunch Disrupt 2026 to share how he capitalized on viral growth. Save up to $200 before September 25. Save 50% on a second pass.",
-        "source": "TechCrunch"
+        "title": "Microsoft puts Brad Smith in charge of communications",
+        "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "pubDate": "2026-09-24T18:08:22-04:00",
+        "description": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the compan",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
+        "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
+        "pubDate": "2026-09-24T15:59:26-04:00",
+        "description": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currentl",
+        "source": "TheVerge"
       },
       {
         "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
         "pubDate": "2026-09-24T13:52:29-04:00",
         "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app tha",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Muse will apparently let you download its entire filesystem",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
-        "pubDate": "2026-09-24T13:14:12-04:00",
-        "description": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its ro",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Muse sure looks a lot like OpenClaw",
-        "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
-        "pubDate": "2026-09-24T13:10:38-04:00",
-        "description": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, ",
         "source": "TheVerge"
       }
     ],
