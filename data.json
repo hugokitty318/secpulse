@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-24T15:55:01.153859Z",
+  "ts": "2026-09-24T19:58:36.595506Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,32 +287,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
-        "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account_0272795595.html",
-        "pubDate": "Wed, 23 Sep 2026 17:46:00 +0530",
-        "description": "A flaw in cPanel's CalDAV and CardDAV service lets anyone with a cPanel hosting account run code as root and take \"full control of the server,\" the company said on September 22.\n\nA second bug in the WP Toolkit plugin, used to install and manage WordP",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New RemControl Android banking malware targets users in Europe and Canada",
         "link": "https://www.bleepingcomputer.com/news/security/new-remcontrol-android-banking-malware-targets-users-in-europe-and-canada/",
         "pubDate": "Wed, 23 Sep 2026 17:25:13 -0400",
         "description": "A new Android malware-as-a-service (MaaS) platform called RemControl is targeting users through malvertising campaigns that impersonate the TVTap IPTV application. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "545 Hackers Tested It First. Now XRanges for AI Scores Your Security Agent",
-        "link": "https://thehackernews.com/2026/09/545-hackers-tested-it-first-now-xranges.html",
-        "pubDate": "Wed, 23 Sep 2026 17:17:19 +0530",
-        "description": "Autonomous security agents are getting good at finding bugs. Nobody has a good way to measure how good. Point one at a realistic target and what comes back is a report the agent wrote about itself: confident prose, a list of findings, and no way to t",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic and OpenAI Models Still Attempt Restricted Actions in Safety Tests",
-        "link": "https://thehackernews.com/2026/09/anthropic-and-openai-models-still.html",
-        "pubDate": "Wed, 23 Sep 2026 17:17:13 +0530",
-        "description": "Anthropic and OpenAI on Tuesday announced new models, with both artificial intelligence (AI) companies noting that they are continuing to invest in improving alignment to combat risky behavior.\n\nOpus 5.5, per Anthropic, is a \"major step up from Opus ",
-        "source": "TheHackerNews"
       },
       {
         "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
@@ -357,11 +336,25 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft: September Windows updates break Always On VPN connections",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-        "pubDate": "Wed, 23 Sep 2026 07:18:13 -0400",
-        "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-        "source": "BleepingComputer"
+        "title": "Unpatched OnePlus Flaws Let Installed Android Apps Gain Root Without Permissions",
+        "link": "https://thehackernews.com/2026/09/unpatched-oneplus-flaws-let-installed.html",
+        "pubDate": "Thu, 24 Sep 2026 23:40:18 +0530",
+        "description": "A OnePlus 15 running the latest OxygenOS can be rooted by a malicious app the owner installs, one that asks for no special permissions. A researcher, Rasmus Moorats, chained two flaws in OnePlus's own software to gain root access, the highest level o",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ThreatsDay: AI Search Poisoning, AI Coding Tool Leaking Repos, One-Click Code Execution and 13 More Stories",
+        "link": "https://thehackernews.com/2026/09/threatsday-ai-search-poisoning-ai.html",
+        "pubDate": "Thu, 24 Sep 2026 23:22:43 +0530",
+        "description": "This week, the dangerous stuff keeps arriving dressed as something boring. An update. A login box. A search answer. A coding tool. A link you have clicked a hundred times before.\n\nThat is the thread running through the pile. Trusted paths get poisone",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+        "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+        "pubDate": "Thu, 24 Sep 2026 20:57:32 +0530",
+        "description": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-party[.]com has been a generic documentation placeho",
+        "source": "TheHackerNews"
       },
       {
         "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
@@ -383,63 +376,98 @@
         "pubDate": "Thu, 24 Sep 2026 16:30:00 +0530",
         "description": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secr",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
+        "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
+        "pubDate": "Thu, 24 Sep 2026 14:44:21 +0530",
+        "description": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription produ",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Meta is trying VR glasses (again), this time with more IMAX",
-        "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
-        "pubDate": "Wed, 23 Sep 2026 23:47:35 +0000",
-        "description": "Meta's return to the VR glasses realm comes with a promising combination of lightweight form factor and enhanced entertainment options.",
+        "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+        "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+        "pubDate": "Thu, 24 Sep 2026 19:15:00 +0000",
+        "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta introduces camera-free AI glasses",
-        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
-        "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
-        "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours of battery life.",
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "pubDate": "Thu, 24 Sep 2026 19:00:42 +0000",
+        "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
         "source": "TechCrunch"
       },
       {
-        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
-        "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
-        "pubDate": "Wed, 23 Sep 2026 23:33:22 +0000",
-        "description": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+        "title": "Meet Feather, the startup building the ‘Android of robotics’ for developers",
+        "link": "https://techcrunch.com/2026/09/24/meet-feather-the-startup-building-the-android-of-robotics-for-developers/",
+        "pubDate": "Thu, 24 Sep 2026 18:52:38 +0000",
+        "description": "Feather is betting on a customizable, $30,000 platform built for software developers.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic says its biology lab has already found something big",
-        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
-        "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
-        "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "title": "Oracle sends force majeure notice on its New Mexico Stargate data center",
+        "link": "https://techcrunch.com/2026/09/24/oracle-sends-force-majeure-notice-on-its-new-mexico-stargate-data-center/",
+        "pubDate": "Thu, 24 Sep 2026 18:11:44 +0000",
+        "description": "The notice would allow Oracle to delay payments should the facility miss its 2028 target to come online.",
         "source": "TechCrunch"
       },
       {
-        "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
-        "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
-        "pubDate": "Wed, 23 Sep 2026 21:21:33 +0000",
-        "description": "Amazon is one of the largest companies in the world. How much responsibility does it have to meet its net-zero pledge?",
+        "title": "Meta’s Muse Charm looks like a Tamagotchi, but it’s tapping into a much newer trend",
+        "link": "https://techcrunch.com/2026/09/24/metas-muse-charm-looks-like-a-tamagotchi-but-its-tapping-into-a-much-newer-trend/",
+        "pubDate": "Thu, 24 Sep 2026 17:39:24 +0000",
+        "description": "Meta’s new AI gadget may look like a Tamagotchi, but its dangling form factor taps into a much broader Gen Z trend around bag charms, retro tech, and turning gadgets into fashion accessories.",
         "source": "TechCrunch"
       },
       {
-        "title": "VC firm Bessemer now has another $5.75B to invest in (what else?) AI",
-        "link": "https://techcrunch.com/2026/09/23/vc-firm-bessemer-now-has-another-5-75b-to-invest-in-what-else-ai/",
-        "pubDate": "Wed, 23 Sep 2026 20:35:17 +0000",
-        "description": "The VC firm says that AI-native companies are growing faster than any technology, ever.",
+        "title": "Databricks buys Row Zero and is scouting for more startups to acquire",
+        "link": "https://techcrunch.com/2026/09/24/databricks-buys-row-zero-and-is-scouting-for-more-startups-to-acquire/",
+        "pubDate": "Thu, 24 Sep 2026 17:07:55 +0000",
+        "description": "Databricks has brought cloud spreadsheet startup Row Zero, adding yet another acquisition to its 2026 shopping spree.",
         "source": "TechCrunch"
       },
       {
-        "title": "Enveda secures $311M to bring more nature-derived AI drugs into clinical trials",
-        "link": "https://techcrunch.com/2026/09/23/enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials/",
-        "pubDate": "Wed, 23 Sep 2026 19:31:28 +0000",
-        "description": "The round valued the AI biotech at $2 billion. It is currently testing drugs that treat skin conditions and preserve weight loss after stopping GLP-1s.",
+        "title": "Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS",
+        "link": "https://techcrunch.com/2026/09/24/google-photos-clueless-inspired-virtual-closet-is-now-available-on-android-and-ios/",
+        "pubDate": "Thu, 24 Sep 2026 17:00:00 +0000",
+        "description": "The AI-powered feature builds a virtual wardrobe from your photos, and is now broadly available after first rolling out to Android users in June.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/09/24/techcrunch-founder-summit-2026-everything-you-need-to-know/",
+        "pubDate": "Thu, 24 Sep 2026 16:46:47 +0000",
+        "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ElevenLabs’ CEO on margins, IPO timing, and telling customers they’re talking to a bot",
+        "link": "https://techcrunch.com/2026/09/24/twenty-minutes-with-the-ceo-of-elevenlabs-now-reportedly-valued-at-22-billion/",
+        "pubDate": "Thu, 24 Sep 2026 16:35:13 +0000",
+        "description": "ElevenLabs powers the AI voice on the other end of a lot of customer service calls, and its CEO told me this week that businesses should probably tell you that — at least until getting a machine is what everyone expects anyway.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/24/meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt-2026/",
+        "pubDate": "Thu, 24 Sep 2026 16:03:36 +0000",
+        "description": "Meet the next wave of VCs judging the Startup Battlefield 200 contenders on the main stage at TechCrunch Disrupt 2026. Register by September 25 at 11:59 p.m. PT, to save up to $200 and to get a front-row seat to one of the most intense startup pitch ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google tests letting Gemini call businesses for you",
+        "link": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/",
+        "pubDate": "Thu, 24 Sep 2026 16:00:00 +0000",
+        "description": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
         "source": "TechCrunch"
       },
       {
         "title": "Shield AI, Waabi, and General Motors on building AI when failure is not an option at TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/09/24/shield-ai-waabi-and-general-motors-on-building-ai-when-failure-is-not-an-option-at-techcrunch-disrupt-2026/",
         "pubDate": "Thu, 24 Sep 2026 15:00:00 +0000",
-        "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by Sept. 25, 11:59 p.m. PT. Get a second pass at 50% off.",
+        "description": "Leaders from Waabi, Shield AI, and General Motors join the Real World AI Stage at TechCrunch Disrupt 2026 to talk building AI. Save up to $200 by September 25 at 11:59 p.m. PT. Get a second pass at 50% off.",
         "source": "TechCrunch"
       },
       {
@@ -464,66 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend",
-        "link": "https://techcrunch.com/2026/09/24/2-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026-reason-5-7-to-attend/",
-        "pubDate": "Thu, 24 Sep 2026 14:00:00 +0000",
-        "description": "Reason 4 of 5 to attend TechCrunch Disrupt 2026: Practical answers. Two days left to save up to $200 on your pass. Savings disappear after September 25 at 11:59 p.m. PT. Bring a second guest at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Australia to investigate if OpenAI hack of government health website broke the law",
-        "link": "https://techcrunch.com/2026/09/24/australia-to-investigate-if-openai-hack-of-government-health-website-broke-the-law/",
-        "pubDate": "Thu, 24 Sep 2026 12:54:19 +0000",
-        "description": "The incident is the first known breach to affect a government agency, and Australia's prime minister has vowed to hold OpenAI accountable.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Everything new coming to Meta’s AI agent Muse",
-        "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-        "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
-        "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
-        "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-        "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
-        "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Reddit mod ordered to pay Nintendo $4.5 million in Switch piracy lawsuit",
-        "link": "https://www.theverge.com/games/1000088/nintendo-switch-piracy-reddit-mod-lawsuit",
-        "pubDate": "2026-09-24T11:50:35-04:00",
-        "description": "Nintendo won its $4.5 million lawsuit against James Williams, a Reddit moderator accused of distributing pirated Switch games, as reported earlier by Aftermath. In a default judgment issued on Wednesday, a Washington federal judge also ordered Willia",
+        "title": "Sadly, this $1,549 RTX 5070-equipped gaming PC is a very good deal",
+        "link": "https://www.theverge.com/gadgets/1000122/cyberpowerpc-gaming-prebuilt-rtx-5070-core-i7-asrock-oled-monitor-deal-sale",
+        "pubDate": "2026-09-24T14:19:23-04:00",
+        "description": "While PC component prices remain high, you can save a good bit of money on a system by purchasing a prebuilt desktop. Walmart has a well-equipped CyberPowerPC gaming PC on sale for $1,549, almost $600 off its original price of $2,139. It’s powered by",
         "source": "TheVerge"
       },
       {
-        "title": "You might not miss what Nikon removed from its cheaper full-frame Z5 IIC",
-        "link": "https://www.theverge.com/tech/1000037/nikon-z5-iic-full-frame-digital-camera-ibis-mechanical-shutter",
-        "pubDate": "2026-09-24T10:53:06-04:00",
-        "description": "Nikon waited five years to update its full-frame Z5 camera to the Z5 II, but today it announced a new variant of last year's upgrade that removes features instead of introducing improvements in order to make it more affordable for novice photographer",
+        "title": "Jensen Huang talks about AI and climate change like a supervillain",
+        "link": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+        "pubDate": "2026-09-24T14:04:44-04:00",
+        "description": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first. The Nvidia CEO discussed the future of energy and AI's impact on our planet in the latest episode of The Ezra Klein ",
         "source": "TheVerge"
       },
       {
-        "title": "Why can’t we just keep rogue AIs off the internet?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/999881/why-cant-we-airgap-rogue-ai-agents",
-        "pubDate": "2026-09-24T10:30:00-04:00",
-        "description": "AI agents keep getting loose, escaping supposedly secure tests to attack real-world targets, commandeer obscure wikis, and leave instructions for other agents to follow. Researchers are testing these systems precisely because they might behave in unp",
+        "title": "Meta is going to let you build games with AI right on your phone",
+        "link": "https://www.theverge.com/games/999972/meta-horizon-create-studio-ai-games",
+        "pubDate": "2026-09-24T13:52:29-04:00",
+        "description": "Meta has a new plan to get people to make games for its Horizon social platform. The company today announced two new development tools that will let you create games with AI prompts: Horizon Create, a mobile app, and Horizon Studio, a browser app tha",
         "source": "TheVerge"
       },
       {
-        "title": "Google is sending an AI satellite into space next week",
-        "link": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
-        "pubDate": "2026-09-24T10:15:17-04:00",
-        "description": "Google is getting ready to launch a satellite with its AI processors to test how well they perform in space, as reported earlier by The New York Times. The move is part of Google's Project Suncatcher, the company's experimental initiative that could ",
+        "title": "Muse will apparently let you download its entire filesystem",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1000222/meta-muse-ai-filesystem",
+        "pubDate": "2026-09-24T13:14:12-04:00",
+        "description": "A pair of developers say that with very little prompting, Meta's Muse will share its entire filesystem with you. Peter James and Jonny L. Saunders have said they both independently coaxed Muse into zipping up and sharing the entire contents of its ro",
         "source": "TheVerge"
       },
       {
-        "title": "The vibes are bad for Flock in Washington",
-        "link": "https://www.theverge.com/policy/1000005/flock-senate-hearing",
-        "pubDate": "2026-09-24T10:15:05-04:00",
-        "description": "Flock is in the hot seat in Washington, even if its CEO declined to actually face senators at a hearing about its \"AI Surveillance Network\" on Wednesday. \"There's many players in this industry, but there's one name that really stands out above the re",
+        "title": "Muse sure looks a lot like OpenClaw",
+        "link": "https://www.theverge.com/report/1000180/muse-openclaw-instinct-lookalike",
+        "pubDate": "2026-09-24T13:10:38-04:00",
+        "description": "We seem to be entering into an AI agent renaissance. Meta's new consumer-facing AI agent, Muse, topped the App Store charts soon after its release and has 600,000 daily active users in the US, by an Apptopia estimate. And AI agent platform Instinct, ",
         "source": "TheVerge"
       }
     ],
