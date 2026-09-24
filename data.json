@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-23T22:15:20.214028Z",
+  "ts": "2026-09-24T00:52:15.371012Z",
   "tabs": {
     "cn_sec": [
       {
@@ -236,17 +236,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "【電動車退役電池第二人生】供電給旅館、AI 資料中心，新創 Moment 與 Redwood 如何找到解方",
-        "link": "https://techorange.com/2026/09/22/ev-batteries-second-life/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 09:33:18 +0800",
-        "description": "退役電動車電池還有第二人生，離島旅館、機場，甚至 AI 資料中心，都可能靠它們供電。電動車車主眼中「該換電池」的訊號，在儲能業者眼裡，卻是一批還沒用完的資源。 加拿大的 Moment Energy 與美國的 Redwood Materials，正把這些退役電池改造成固定式儲能系統。但這門生意能否成立，除了要拿到足夠的退役電池，還得解決兩個難題：一是電池品牌、電壓、容量與健康狀況都不同，業者得逐一檢測、重新組裝，並靠控制系統讓它們安全穩定運作；二是業者得證明這些系統真能解決客戶的實際問題，例如省下",
+        "title": "不靠漲價也能救毛利：AI 正把「菜單工程」變餐廳新財務槓桿",
+        "link": "https://techorange.com/2026/09/24/ai-menu-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 06:33:00 +0800",
+        "description": "通膨蔓延、食材成本劇增與人力短缺，正讓餐飲業的營運數學變得空前艱難。過往業者習慣將「調漲售價」視為拆解成本危機的萬靈丹，然而根據餐飲管理軟體平台 Craftable 的資料，自疫情爆發以來，餐飲價格已累計攀升超過 30%，消費者的價格敏感度已逼近臨界點，繼續盲目漲價只會引發顧客流失。面對價格上漲空間封頂的窘境，Craftable 產品經理 Henry Escobar 指出，業者已無法單靠轉嫁成本來守住毛利，而是必須將目光轉向餐廳最重要的財務槓桿：菜單。 菜單瘦身：精減 SKU 釋放廚房與供應鏈壓",
         "source": "TechOrange"
       },
       {
-        "title": "「世界模型」資金先進場，產品卻還沒定型：AI 新創究竟在藏什麼？",
-        "link": "https://techorange.com/2026/09/22/world-model-secret/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 06:30:00 +0800",
-        "description": "「世界模型（World Model）」正成為 AI 資本市場的新熱門領域，但一個反差也越來越明顯：錢已經大量進場，真正能賺錢的產品卻還沒有定型。 今年以來，Yann LeCun 創立的 AMI Labs 募得 10.3 億美元，李飛飛的 World Labs 也完成 10 億美元融資。更極端的是，《Financial Times》9 月報導，由前 Google DeepMind Genie 團隊成立的 Emulate，創立約一個月就洽談最高 7 億美元融資，估值約 37 億美元，但該公司至今仍未",
+        "title": "【科技早餐】Meta 測試 AI 助理通話由真人接手，OpenAI、Anthropic 同日推低價模型",
+        "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 測試真人接手 AI 助理通話，因告知不足暫停 Meta 的 AI 助理 Muse 可依使用者指示致電商家，處理訂位、詢價及查詢商品等事項。《路透》查閱 Meta 內部貼文發現，公司曾在員工測試中，讓真人承包人員接手部分由 Muse 發起的電話。部分員工擔心，如果沒有清楚告知執行方式，承包人員可能在通話中接觸使用者的敏感資訊。Muse 上線時強調代理工作的隔離措施，真人參與通話的安排也因此受到員工質疑。 《路透》報導，Meta 一名主管",
         "source": "TechOrange"
       }
     ],
@@ -285,6 +285,13 @@
         "pubDate": "Wed, 23 Sep 2026 19:22:46 +0530",
         "description": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.\n\nAccordin",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
+        "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
+        "description": "The \"third-party.com\" domain, commonly used as a placeholder in developer documentation and code examples, is serving a fake Cloudflare verification page that attempts to trick Windows users into executing PowerShell commands. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "New cPanel Flaw Lets a Hosting Account Run Code as Root, Take Full Server Control",
@@ -383,16 +390,37 @@
         "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
         "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a sin",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
-        "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
-        "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
-        "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Meta is trying VR glasses (again), this time with more IMAX",
+        "link": "https://techcrunch.com/2026/09/23/meta-is-trying-vr-glasses-again-this-time-with-more-imax/",
+        "pubDate": "Wed, 23 Sep 2026 23:47:35 +0000",
+        "description": "Meta's return to the VR glasses realm comes with a promising combination of light weight form factor and enhanced entertainment options.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta introduces camera-free AI glasses",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "pubDate": "Wed, 23 Sep 2026 23:39:44 +0000",
+        "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vogue sent robots down the runway at Vogue World, and people were not impressed",
+        "link": "https://techcrunch.com/2026/09/23/vogue-sent-robots-down-the-runway-at-vogue-world-and-people-were-not-impressed/",
+        "pubDate": "Wed, 23 Sep 2026 23:33:22 +0000",
+        "description": "Nothing says Italian craftsmanship like a Chinese robot doing a lasso to \"L'Amour Toujours.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says its biology lab has already found something big",
+        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "pubDate": "Wed, 23 Sep 2026 22:17:39 +0000",
+        "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "source": "TechCrunch"
+      },
       {
         "title": "If Amazon doesn’t know how to eliminate carbon emissions, then who does?",
         "link": "https://techcrunch.com/2026/09/23/if-amazon-doesnt-know-how-to-eliminate-carbon-emissions-then-who-does/",
@@ -464,73 +492,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube’s conversational video editing tool lets creators make edits in natural language",
-        "link": "https://techcrunch.com/2026/09/23/youtubes-conversational-video-editing-tool-lets-creators-make-edits-in-natural-language/",
-        "pubDate": "Wed, 23 Sep 2026 15:46:57 +0000",
-        "description": "Creators will be able to use AI in a conversational chat interface to help them edit videos.",
+        "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+        "link": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+        "pubDate": "Thu, 24 Sep 2026 00:46:17 +0000",
+        "description": "The tiny hardware device creates  another mobile home for its AI agent Muse.",
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube Music gets more conversational with new AI features",
-        "link": "https://techcrunch.com/2026/09/23/youtube-music-gets-more-conversational-with-new-ai-features/",
-        "pubDate": "Wed, 23 Sep 2026 15:19:30 +0000",
-        "description": "Built directly into the YouTube Music app, Ask Music lets users describe what they want to hear in everyday language rather than searching for individual songs or artists.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Eight Sleep’s new Pod 6 comes in smaller and solo sizes, starting at $1,999",
-        "link": "https://techcrunch.com/2026/09/23/eight-sleeps-new-pod-6-comes-in-smaller-and-solo-sizes-starting-at-1999/",
-        "pubDate": "Wed, 23 Sep 2026 14:45:00 +0000",
-        "description": "Eight Sleep said the new pod is 20% faster than the previous generation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "YouTube releases new AI features for creators within its Studio app",
-        "link": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "YouTube’s new ‘Shorts series’ feature brings episodic viewing to Shorts",
-        "link": "https://techcrunch.com/2026/09/23/youtubes-new-short-series-feature-brings-episodic-viewing-to-shorts/",
-        "pubDate": "Wed, 23 Sep 2026 14:30:00 +0000",
-        "description": "Other Made On YouTube announcements are also designed to help creators grow and engage audiences.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
-        "link": "https://www.theverge.com/news/999195/microsoft-surface-pro-12-inch-surface-laptop-13-inch-qualcomm-x2-plus",
-        "pubDate": "2026-09-23T16:30:00-04:00",
-        "description": "Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable ",
+        "title": "Meta is making a standalone Muse AI gadget",
+        "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
+        "pubDate": "2026-09-23T20:15:20-04:00",
+        "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch wit",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft’s new Surface Mouse has haptic feedback and a customizable action button",
-        "link": "https://www.theverge.com/news/999211/microsoft-surface-mouse-haptic-feedback",
-        "pubDate": "2026-09-23T16:30:00-04:00",
-        "description": "Microsoft is launching a second generation of its Surface Mouse next month that includes haptic feedback support. The Surface Mouse also has a customizable action button for the first time, which is primarily designed for quick access to Copilot (of ",
+        "title": "Meta Connect 2026: The 7 biggest announcements",
+        "link": "https://www.theverge.com/tech/999593/meta-connect-2026-everything-announced",
+        "pubDate": "2026-09-23T20:00:33-04:00",
+        "description": "Meta announced a slate of new wearables during its annual Meta Connect showcase on Wednesday. The star of the event was the new Meta VR Glasses, which pack virtual reality tech into a lightweight smart glasses-style frame with a tethered puck. Meta a",
         "source": "TheVerge"
       },
       {
-        "title": "Meta’s AI agent is a cute little guy who’s great at spending my money",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/999526/meta-muse-ai-agent-hands-on-shopping",
-        "pubDate": "2026-09-23T15:00:00-04:00",
-        "description": "Modern life comes with an unending, auto-populating to-do list. It never ceases to amaze me how I can be doing nothing at all, minding my own business, and suddenly something needs to be taken care of. You're telling me a tree branch fell in the back",
+        "title": "Meta’s next VR device isn’t a headset — it’s glasses",
+        "link": "https://www.theverge.com/tech/999517/meta-vr-glasses-connect-2026-hands-on",
+        "pubDate": "2026-09-23T19:42:10-04:00",
+        "description": "Meta is launching new VR hardware: a pair of glasses. The new Meta VR Glasses sit on your ears like a typical pair of glasses instead of being strapped over your head, but they still have immersive displays for watching movies, playing games, and get",
         "source": "TheVerge"
       },
       {
-        "title": "Data centers are black boxes, but California wants to change that",
-        "link": "https://www.theverge.com/policy/999412/data-center-water-electricity-disclosure-bills",
-        "pubDate": "2026-09-23T14:22:57-04:00",
-        "description": "California Gov. Gavin Newsom signed a slate of bills on Monday that could finally give communities better data - and more say - on how data centers impact their electricity bills and water supply. As data centers invade a growing number of communitie",
+        "title": "Muse is coming to Meta smart glasses",
+        "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
+        "pubDate": "2026-09-23T19:40:56-04:00",
+        "description": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its na",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/999470/anthropic-biolab-claude-crispr",
-        "pubDate": "2026-09-23T14:00:00-04:00",
-        "description": "Anthropic says its AI Claude has \"autonomously discovered\" a new enzyme system similar to machinery behind the powerful gene-editing tool Crispr. It's the first result from Anthropic's newly-launched wet lab and an early test of Claude's usefulness f",
+        "title": "Meta ditches the camera on its newest smart glasses",
+        "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
+        "pubDate": "2026-09-23T19:37:17-04:00",
+        "description": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearab",
         "source": "TheVerge"
       }
     ],
