@@ -1,7 +1,119 @@
 {
-  "ts": "2026-09-24T00:52:15.371012Z",
+  "ts": "2026-09-24T06:08:31.213015Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OpenAI代理人也駭進了澳洲政府網站",
+        "link": "https://www.ithome.com.tw/news/179208",
+        "pubDate": "2026-09-24 12:37",
+        "description": "OpenAI研究團隊使用AI代理人查找澳洲藥品支出資料時，多次遭政府網站阻擋，AI代理人卻自行尋找其他方法繞過限制，未經授權存取Medicare統計網站，甚至在內部伺服器寫入檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "外界關注ShinyHunters聲稱竊得FBI資料內容，路透社最新揭露其中含有負責中、俄情報業務的機密人員個資",
+        "link": "https://www.ithome.com.tw/news/179206",
+        "pubDate": "2026-09-24 12:33",
+        "description": "5,000筆外洩資料樣本包含負責中國、俄羅斯及販毒集團等敏感目標的相關工作人員資訊，FBI仍在調查資料外洩原因",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客用3套AI工具大規模攻擊電商，竊取超過60萬筆信用卡資料",
+        "link": "https://www.ithome.com.tw/news/179205",
+        "pubDate": "2026-09-24 12:26",
+        "description": "駭客結合3套AI工具大規模攻擊電商，6天啟動105個攻擊專案，至少27家公司遭入侵，兩家受害企業另有逾60萬筆有效信用卡資料遭竊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "D-Link警告路由器DIR-822A存在近乎滿分的零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/179202",
+        "pubDate": "2026-09-24 11:41",
+        "description": "近日D-Link發布資安公告指出，他們著手調查路由器DIR-822A重大漏洞CVE-2026-86296與CVE-2026-86510，並呼籲用戶在他們完成相關調查前，應避免將路由器曝露在網際網路",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress路徑遍歷漏洞揭露當天即出現嘗試利用活動",
+        "link": "https://www.ithome.com.tw/news/179201",
+        "pubDate": "2026-09-24 11:30",
+        "description": "資安公司Patchstack在WordPress揭露CVE-2026-87902當天，發現探測網站是否存在弱點的活動，事隔一天，已有嘗試執行Shell命令的情形",
+        "source": "iThome資安"
+      },
+      {
+        "title": "pgAdmin 4修補重大身分驗證繞過漏洞，若未更新可能導致攻擊者冒充管理員",
+        "link": "https://www.ithome.com.tw/news/179200",
+        "pubDate": "2026-09-24 11:25",
+        "description": "pgAdmin 4 Webserver驗證機制存在漏洞，可能導致遠端攻擊者偽造身分，用戶應儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress發布7.1.2版，修補重大層級的路徑遍歷漏洞",
+        "link": "https://www.ithome.com.tw/news/179196",
+        "pubDate": "2026-09-24 10:09",
+        "description": "本週WordPress發布安全性更新，修補重大等級的CVE-2026-87902，並呼籲網站管理員要儘速修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "健身服務公司柏文對外服務系統遭到自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/179194",
+        "pubDate": "2026-09-24 09:53",
+        "description": "健身服務公司柏文（8462）發布資安重訊，表示該公司對外服務的系統遭到攻擊，攻擊者試圖擷取員工及會員個資",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NIST投入逾170萬美元培育資安人才，美國8州新增9項RAMPS計畫",
+        "link": "https://www.ithome.com.tw/news/179152",
+        "pubDate": "2026-09-24 08:00",
+        "description": "NIST投入逾170萬美元，在美國8州新增9項RAMPS資安人才培育計畫。地方雇主將與教育機構等組織合作，透過課程、實習、學徒培訓及實作專案等方式，培養符合當地實際需求的資安人才",
+        "source": "iThome資安"
+      },
+      {
+        "title": "提示詞注入仍難可靠防範，澳洲通訊局公布AI代理權限控管原則",
+        "link": "https://www.ithome.com.tw/news/179149",
+        "pubDate": "2026-09-24 08:00",
+        "description": "提示詞注入目前仍難可靠防範。澳洲通訊局提醒企業，部署AI代理時若給予過多系統與資料存取權限，一旦模型受到惡意內容影響，可能進一步危及企業系統，因此應限制AI代理權限，敏感或高影響操作則需人工核准",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Red Hat OpenShift 4.22導入ML-KEM，下一步推進抗量子數位簽章ML-DSA",
+        "link": "https://www.ithome.com.tw/news/179173",
+        "pubDate": "2026-09-24 08:00",
+        "description": "紅帽OpenShift 4.22已預設支援ML-KEM，讓TLS 1.3連線可採用抗量子密碼演算法建立金鑰",
+        "source": "iThome資安"
+      },
+      {
+        "title": "TeamPCP供應鏈攻擊內幕曝光，Google研究人員曾臥底核心群組",
+        "link": "https://www.ithome.com.tw/news/179166",
+        "pubDate": "2026-09-24 08:00",
+        "description": "Google旗下Mandiant研究人員曾臥底駭客組織TeamPCP，進入核心群組掌握攻擊動向，TeamPCP今年已接連鎖定PyPI、NPM及Docker Hub等生態系發動供應鏈攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitLab.com流量限制改採方案分級，匿名請求降至每小時60次",
+        "link": "https://www.ithome.com.tw/news/179197",
+        "pubDate": "2026-09-24  11:09:38",
+        "description": "GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗證的請求率先套用新規則，Premium與Ultimate方案預定2027年1月跟進。未經驗證的一般網頁與API請求，單一IP位址每小時最多60次，GitLab表示，GitLab.com需求快速成長，今年平臺負載預期增加數倍，因此需要調整流量限制，因應包含自動化工具與AI代理在內的各類工作負載。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta發表100公克VR眼鏡，支援虛擬多螢幕與AI操作",
+        "link": "https://www.ithome.com.tw/news/179198",
+        "pubDate": "2026-09-24  11:09:31",
+        "description": "Meta周三（9/23）發表新一代虛擬實境眼鏡Meta VR Glasses，將原本笨重的VR頭戴裝置縮小成約100公克的眼鏡，讓使用者可隨時在眼前開啟虛擬電影院或工作空間。新產品預計2027年春季上市，售價1,299.99美元。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta預覽AI裝置Muse Charm",
+        "link": "https://www.ithome.com.tw/news/179199",
+        "pubDate": "2026-09-24  11:09:02",
+        "description": "Meta創辦人暨執行長祖克柏（Mark Zuckerberg）周三（9/23）在一年一度的Meta Connect技術發表大會上展示了（影片53分處）全新的AI裝置Muse Charm，它看起來就像是一個由錶面與掛繩組成的鑰匙圈，可與使用者即時語音交流，預計會在今年12月的聖誕購物季發售。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟測試新的OneDrive依用量計費儲存方案",
+        "link": "https://www.ithome.com.tw/news/179195",
+        "pubDate": "2026-09-24  10:09:04",
+        "description": "微軟目前正在測試，將為OneDrive新增依用量付費的（Pay-as-you-go，PAYG）計費服務。根據微軟的產品藍圖網頁，這項服務已在今年7月推出預覽版，預計11月正式上線。",
+        "source": "iThome"
+      },
       {
         "title": "行銷平臺Brevo高權限Cloudflare API金鑰遭竊，客戶網站被注入ClickFix惡意程式",
         "link": "https://www.ithome.com.tw/news/179189",
@@ -22,125 +134,6 @@
         "pubDate": "2026-09-23 17:52",
         "description": "資安公司Check Point指出，近期修補的CVE-2026-85102、CVE-2026-93616已遭到利用，其中CVE-2026-93616利用活動發生在兩個月前；另一個漏洞CVE-2026-85102，則是在他們發布修補程式3天後出現嘗試利用活動",
         "source": "iThome資安"
-      },
-      {
-        "title": "思科開源CAIRN工具，透過AI使用痕跡追蹤新型惡意程式",
-        "link": "https://www.ithome.com.tw/news/179176",
-        "pubDate": "2026-09-23 16:20",
-        "description": "AI開始被整合進惡意程式，資安研究人員要如何追蹤？思科Talos開源研究工具CAIRN，可從提示詞、API端點等AI使用痕跡著手，不必下載或執行惡意程式，就能先搜尋及分析可疑樣本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "納米比亞國防單位遭入侵，Nam-CSIRT證實與RansomHouse有關",
-        "link": "https://www.ithome.com.tw/news/179174",
-        "pubDate": "2026-09-23 16:15",
-        "description": "納米比亞國防暨退伍軍人事務部傳出遭駭，已證實其電腦網路出現未授權活動，並研判攻擊與勒索軟體組織RansomHouse有關。目前實際受影響範圍及是否有資料遭竊或外洩，仍有待進一步釐清",
-        "source": "iThome資安"
-      },
-      {
-        "title": "義大利政府信箱遭盜用，駭客成功冒充地方政府機關向Revolut索取客戶資料",
-        "link": "https://www.ithome.com.tw/news/179169",
-        "pubDate": "2026-09-23 15:12",
-        "description": "英國金融科技業者Revolut發生客戶資料外洩，起因是義大利政府證實機關電子郵件（PEC）帳號遭駭客盜用，攻擊者進一步冒充政府機關向其索取資料，導致680名客戶資料外洩。義大利政府也已確認相關信箱遭入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月23日，ShinyHunters傳駭入FBI，宣稱竊得探員個資及應徵者資料",
-        "link": "https://www.ithome.com.tw/news/179171",
-        "pubDate": "2026-09-23 14:50",
-        "description": "駭客組織ShinyHunters宣稱駭入FBI，聲稱竊得包含幾乎所有探員及應徵者個資的數TB資料，FBI證實正調查涉及FBIjobs.gov網站的未授權活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "兩年前失竊的320萬筆俄國漢堡王客戶資料流入網路",
-        "link": "https://www.ithome.com.tw/news/179168",
-        "pubDate": "2026-09-23 14:30",
-        "description": "兩年前發生的俄國漢堡王客戶資料外洩事件再受關注。約320萬個不重複電子郵件地址及姓名、出生日期、電話號碼等個資遭外洩，近期被Have I Been Pwned（HIBP）收錄",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress存在資安漏洞Comment2Shell，攻擊者可經由匿名留言發動遠端執行程式碼攻擊",
-        "link": "https://www.ithome.com.tw/news/179167",
-        "pubDate": "2026-09-23 14:06",
-        "description": "近日WordPress開發團隊修補一系列資安漏洞，其中被稱為Comment2Shell（CVE-2026-93485）的高風險弱點相當特別，攻擊者有機會藉由留言在伺服器執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ShinyHunters傳駭入FBI，宣稱竊取探員個資及應徵者資料",
-        "link": "https://www.ithome.com.tw/news/179164",
-        "pubDate": "2026-09-23 13:13",
-        "description": "駭客組織ShinyHunters宣稱駭入FBI，取得FBI員工及應徵者資料，並聲稱資料量達數TB",
-        "source": "iThome資安"
-      },
-      {
-        "title": "IBM MQ修補兩個重大漏洞，包含可能導致遠端執行任意程式碼的CVSS滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/179163",
-        "pubDate": "2026-09-23 12:34",
-        "description": "IBM MQ存在兩個記憶體相關重大漏洞，分別影響MQ Appliance與HPE NonStop版本，建議用戶立即更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "MongoDB修補14個漏洞，包含可能導致刪除資料與破壞記憶體的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179159",
-        "pubDate": "2026-09-23 11:48",
-        "description": "漏洞涵蓋Mongoid與C Driver等元件，攻擊者可藉此竊取、刪除資料或觸發記憶體破壞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "針對CRA開源責任，OpenSSF以三類角色協助開源社群判斷義務",
-        "link": "https://www.ithome.com.tw/news/179158",
-        "pubDate": "2026-09-23 11:42",
-        "description": "開源安全基金會（OpenSSF）近日發布一套名為「Grow CRA Readiness: A Community Garden Journey」的導覽資源，透過角色分類，協助社群成員快速找到適合自己的合規路徑與工具指引",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA針對西門子SIPLUS與SIMATIC產品漏洞發出ICS公告",
-        "link": "https://www.ithome.com.tw/news/179156",
-        "pubDate": "2026-09-23 11:11",
-        "description": "西門子部分產品受Linux Kernel Copy Fail漏洞影響，可能導致攻擊者取得root權限，建議用戶儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布Chrome 154，修補108個漏洞",
-        "link": "https://www.ithome.com.tw/news/179155",
-        "pubDate": "2026-09-23 11:08",
-        "description": "本週Google推出Chrome 154，總共修補108個漏洞，其中五分之一是記憶體釋放後再存取使用（Use After Free）類型的弱點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "環境部與金管會聯手調整IFRS永續揭露準則，將強制適用企業縮減至560家、優先聚焦高排放與大型企業",
-        "link": "https://www.ithome.com.tw/news/179184",
-        "pubDate": "2026-09-23  06:09:33",
-        "description": "金管會與環境部今天（9/23）共同宣布調整上市櫃公司接軌IFRS永續揭露準則的相關規定，在國家永續目標不變的前提下，參考歐盟及亞洲近期簡化永續揭露要求的趨勢，改採較符合企業準備程度的分層推動方式。此次的調整，強制適用IFRS永續揭露準則的上市櫃公司，將由原規劃約1,970家縮減至約560家，主要鎖定實收資本額20億元以上，以及受環境部納管、需進行溫室氣體盤查及查驗的企業。\n金管會表示，雖然強制適用的家數降低，但納入企業的市值仍占全體上市櫃公司逾87%，涵蓋資本市場主要企業。這次調整並非降低永續揭",
-        "source": "iThome"
-      },
-      {
-        "title": "玉山AI轉型新方向",
-        "link": "https://www.ithome.com.tw/article/179182",
-        "pubDate": "2026-09-23  05:09:28",
-        "description": "",
-        "source": "iThome"
-      },
-      {
-        "title": "玉山AI轉型瞄準Agentic Banking，全面改造新一代AI代理平臺",
-        "link": "https://www.ithome.com.tw/news/179148",
-        "pubDate": "2026-09-23  04:09:54",
-        "description": "2026年的玉山銀行，並不是第一次發起AI轉型。他們曾用資料探勘發掘大數據裡的細節，也押寶預測型AI、大力發展上百支應用。但這次，他們思考的是——AI能不能不只給答案，還真正完成一段工作？\n這是玉山現階段想實現的代理式銀行（Agentic Banking）。玉山金控科技長張智星、玉山銀行智能金融處副總工程師廖子慧日前受訪時揭露，使用者只需告訴自家AI平臺要完成什麼任務，系統就會理解需求，再把任務交給相應的Agent執行；這套架構背後，則以記憶庫、Skill與工具目錄（Tool Registry）",
-        "source": "iThome"
-      },
-      {
-        "title": "Node.js 26.10增強函式呼叫控制，補上PKCS#12憑證解析",
-        "link": "https://www.ithome.com.tw/news/179175",
-        "pubDate": "2026-09-23  04:09:26",
-        "description": "Node.js專案發布Node.js 26.10.0，新增兩種函式呼叫控制能力，開發者可以延後短時間內反覆出現的呼叫，或限制一段時間內的執行次數。版本更新加入PKCS#12檔案解析功能，可解析.p12與.pfx檔案內容並取得私鑰與X.509憑證，並擴充程式效能量測工具。",
-        "source": "iThome"
-      },
-      {
-        "title": "重大食安事件催生數位治理改革，政院研議建立全國食品產品識別與跨部會資料交換機制",
-        "link": "https://www.ithome.com.tw/news/179172",
-        "pubDate": "2026-09-23  03:09:31",
-        "description": "近期國內爆發的食用油品安全事件引發社會大眾的關注，暴露現行食品安全管理在數位治理上的不足。行政院長卓榮泰周二在食品安全會議上指出，政府除已提出《食品安全衛生管理法》部分條文修正草案外，也將推動食安數位治理改革，以資料整合與跨部會系統介接為核心，來提升食品安全管理及事件應變能力。\n強化數位治理為食安法修法5大面向之一",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -215,24 +208,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "企業 AI 準確率如何從 43% 升至 90%？DoorDash 實踐證明：優化資料結構比升級模型更關鍵",
-        "link": "https://techorange.com/2026/09/22/ai-vera-doordashs-data-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 12:38:02 +0800",
-        "description": "美國最大的線上餐點與零售外送平台 DoorDash 正加速將 AI 代理導入企業內部資料分析，並自行打造名為 Vera 的 AI 資料分析代理，讓員工可以直接以自然語言提問，快速取得公司內部資料的分析結果。DoorDash 表示，目前已有超過 1 萬名員工仰賴公司資料生態系，而 Vera 可以從超過 20 萬個資料集、總規模達 350 PB 的企業資料中搜尋所需資訊。 員工可直接查詢營運數據，DoorDash 部署 Vera 減輕資料團隊負擔 《PYMNTS》提及，員工過去若想知道「為什麼上週加",
+        "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
+        "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 12:11:07 +0800",
+        "description": "把 AI 做成可以隨身攜帶的獨立裝置，已不是科技業的新點子。從 Friend 等產品到各式 AI 穿戴裝置，業者近年不斷嘗試，但這類產品能否形成真正需求，至今仍有待驗證。如今，Meta 正把這項嘗試，延伸到自家的個人 AI Agent（AI 代理）Muse，擴大 Muse 的使用範圍。 美國時間 9/23 登場的年度 Connect 大會上，Meta 一口氣宣布 Muse 將登上 AI 眼鏡、操作 Mac、擁有專屬 email；到了發表會接近尾聲，祖克柏從口袋拿出另一款新產品：可以掛在鑰匙圈上的",
         "source": "TechOrange"
       },
       {
-        "title": "RSI 風險浮上檯面，OpenAI 提新標準：AI 研發到哪一步要人類介入？",
-        "link": "https://techorange.com/2026/09/22/standards-ai-rsi/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 11:37:08 +0800",
-        "description": "隨著 AI Agent 越界與模型異常行為話題持續延燒，前沿 AI 公司近期也接連端出新的安全治理方案。從 Anthropic 提出 AI 研發三大量測指標，到 Google DeepMind 主張建立前沿 AI 標準機構，業界正試圖把原本較抽象的安全原則，轉成可量測、可監督的制度。 OpenAI 也在短時間內連續採取行動：9/6 先公開 AI 如何加速內部研究，9/16 再推出模型未對齊報告框架（framework for reporting model misalignment），到了 9/",
+        "title": "企業導入 AI 面臨哪些資安風險？從 AI 測試事件看 AI Security 與供應鏈安全新挑戰",
+        "link": "https://techorange.com/2026/09/24/gss-ai-security-mendio/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 10:39:25 +0800",
+        "description": "生成式 AI 快速進入企業開發與營運流程，隨著 AI 模型的能力持續提升，企業面臨的 AI Security 風險也從模型本身，進一步延伸至模型所能取得的權限、可連接的系統與實際執行環境。近期接連傳出的 AI 安全測試事件引發各界關注，AI 模型被發現可能突破原有的環境限制，連線至外部企業系統，甚至修改系統設定，反映出企業在導入 AI 模型時，除了關注模型本身的安全性，也需要重新檢視模型所能取得的權限、可連接的系統與執行環境。 另一方面，若企業開始導入開放權重 AI 模型，模型本身也逐漸成為軟體",
         "source": "TechOrange"
       },
       {
-        "title": "【AI 代理只是聰明的猴子】軟體工程師的新工作，是打造讓代理更強大的系統邊界",
-        "link": "https://techorange.com/2026/09/22/software-engineer-new-job-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 09:33:41 +0800",
-        "description": "資料工程領域專家認為，軟體工程師要開始理解系統邊界的意義，因為 AI 代理只是比較聰明的猴子，程式開發者得創造出有限環境，讓 AI 生成的邏輯能夠被人類所信賴。",
+        "title": "人形機器人短期內仍趕不上人類工人：操控、泛化、安全性卡住實際運用",
+        "link": "https://techorange.com/2026/09/24/the-limit-of-humanoid-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 09:13:56 +0800",
+        "description": "人形機器人已經足以取代人類勞動力了嗎？當代 AI 機器人確實能夠完成艱難的特技動作，但反過來說像拿起可樂、剝橘子等簡單任務，對於人形機器人卻非常困難。",
         "source": "TechOrange"
       },
       {
@@ -485,10 +478,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube is making comments more fun — and fandom more lucrative for creators",
-        "link": "https://techcrunch.com/2026/09/23/youtube-is-making-comments-more-fun-and-fandom-more-lucrative-for-creators/",
-        "pubDate": "Wed, 23 Sep 2026 16:03:44 +0000",
-        "description": "YouTube is rolling out GIF replies, voice-powered TV comments, personalized moderation, paid members-only communities, and new ways for fans to support their favorite creators.",
+        "title": "Everything new coming to Meta’s AI agent Muse",
+        "link": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+        "pubDate": "Thu, 24 Sep 2026 01:13:32 +0000",
+        "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
         "source": "TechCrunch"
       },
       {
@@ -502,7 +495,7 @@
         "title": "Meta is making a standalone Muse AI gadget",
         "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
         "pubDate": "2026-09-23T20:15:20-04:00",
-        "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smart watch wit",
+        "description": "Meta is building a dedicated hardware device for its new Muse AI agent. The product, called Muse Charm, was briefly shown off by Meta CEO Mark Zuckerberg at the end of tonight's Meta Connect presentation. It looks almost like a chunky smartwatch with",
         "source": "TheVerge"
       },
       {
@@ -616,6 +609,16 @@
         "products": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access"
       },
       {
+        "title": "WordPress Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/wordpress-remote-code-execution-vulnerability_20260924",
+        "pubDate": "Thu, 24 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "WordPress Remote Code Execution Vulnerability"
+      },
+      {
         "title": "Mozilla Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260917",
         "pubDate": "Thu, 17 Sep 2026 11:00:00 +0800",
@@ -634,16 +637,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "F5 BIG-IP Denial of Service Vulnerability"
-      },
-      {
-        "title": "GitLab Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20260914",
-        "pubDate": "Mon, 14 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "GitLab"
       },
       {
         "title": "ISC BIND Multiple Vulnerabilities",
