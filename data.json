@@ -1,7 +1,49 @@
 {
-  "ts": "2026-09-24T06:08:31.213015Z",
+  "ts": "2026-09-24T11:40:19.271634Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "影像共享服務平臺Gyazo遭入侵，2,360萬筆用戶紀錄外洩",
+        "link": "https://www.ithome.com.tw/news/179221",
+        "pubDate": "2026-09-24 18:47",
+        "description": "攻擊者入侵Gyazo影像上傳伺服器，存取資料庫取得用戶紀錄，另有4.9億筆影像Metadata外洩，可能導致部分用戶影像資料遭攻擊者查看",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CRA全面適用倒數15個月，西班牙Applus+帶來CRA協調標準與公告機構最新一線進展，呼籲臺灣企業及早展開產品分類與合規準備",
+        "link": "https://www.ithome.com.tw/news/179218",
+        "pubDate": "2026-09-24 18:32",
+        "description": "因應歐盟網路韌性法（CRA）已成產業迫切課題，來自西班牙、目前正申請成為CRA公告機構（NB）的Applus+ Laboratories，在說明CRA協調標準與NB體系進度之餘，也呼籲企業可先從產品核心功能判定分類，因為分類將決定後續符合性評估路徑；完成分類後，再著手風險評估、技術文件準備與既有測試成果盤點，並留意最後階段集中送驗可能造成的驗證量能瓶頸",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】0921~0924，首屆「台灣資安日」登場，倡議從實體防災延伸至數位防災",
+        "link": "https://www.ithome.com.tw/news/179217",
+        "pubDate": "2026-09-24 17:26",
+        "description": "回顧2026年9月第四週的資安動態，9月21日首度迎來「台灣資安日」，倡議將防災觀念延伸至數位安全；威脅面則以中國駭客Red Heron一連串攻擊最受矚目，臺灣亦有多起受害案例。產業防禦發展方面，從供應鏈追溯、網路誘餌、AI惡意程式追蹤，到產品、網域與HTTP安全議題，顯現多項值得企業留意的新進展",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Nightmare Eclipse揭露Microsoft Defender零時差漏洞BigDiskBuster",
+        "link": "https://www.ithome.com.tw/news/179219",
+        "pubDate": "2026-09-24 17:08",
+        "description": "研究人員Nightmare Eclipse（微軟前員工Abdelhamid Naceri）再度揭露Microsoft Defender零時差漏洞BigDiskBuster，並指出該弱點可導致防毒軟體無法正常更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Next.js修補ImageResponse元件重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179215",
+        "pubDate": "2026-09-24 15:25",
+        "description": "本週Next.js發布緊急更新，修補重大等級的資安漏洞CVE-2026-94545，該弱點與ImageResponse元件採用的程式庫Satori有關，CVSS v4.0嚴重程度評為9.5分",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月24日，OpenAI代理人也駭進澳洲政府網站",
+        "link": "https://www.ithome.com.tw/news/179213",
+        "pubDate": "2026-09-24 14:49",
+        "description": "OpenAI研究團隊使用AI代理人查找澳洲藥品支出資料時，多次遭政府網站阻擋，AI代理人卻自行尋找其他方法繞過限制，未經授權存取Medicare統計網站，甚至在內部伺服器寫入檔案",
+        "source": "iThome資安"
+      },
       {
         "title": "OpenAI代理人也駭進了澳洲政府網站",
         "link": "https://www.ithome.com.tw/news/179208",
@@ -10,7 +52,14 @@
         "source": "iThome資安"
       },
       {
-        "title": "外界關注ShinyHunters聲稱竊得FBI資料內容，路透社最新揭露其中含有負責中、俄情報業務的機密人員個資",
+        "title": "中國駭客UTA0565架設假網站，加入使用BlueMoon工具包的行列",
+        "link": "https://www.ithome.com.tw/news/179207",
+        "pubDate": "2026-09-24 12:34",
+        "description": "資安公司Volexity揭露中國駭客UTA0565最新一波攻擊，他們架設假網站，並搭配零時差漏洞CVE-2026-85046、CVE-2026-87491，以及CVE-2026-85880，攻擊亞洲政府機關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "外界關注ShinyHunters竊得FBI資料，路透社最新揭露其中包含負責中俄情報業務的機密人員個資",
         "link": "https://www.ithome.com.tw/news/179206",
         "pubDate": "2026-09-24 12:33",
         "description": "5,000筆外洩資料樣本包含負責中國、俄羅斯及販毒集團等敏感目標的相關工作人員資訊，FBI仍在調查資料外洩原因",
@@ -59,81 +108,32 @@
         "source": "iThome資安"
       },
       {
-        "title": "NIST投入逾170萬美元培育資安人才，美國8州新增9項RAMPS計畫",
-        "link": "https://www.ithome.com.tw/news/179152",
-        "pubDate": "2026-09-24 08:00",
-        "description": "NIST投入逾170萬美元，在美國8州新增9項RAMPS資安人才培育計畫。地方雇主將與教育機構等組織合作，透過課程、實習、學徒培訓及實作專案等方式，培養符合當地實際需求的資安人才",
-        "source": "iThome資安"
-      },
-      {
-        "title": "提示詞注入仍難可靠防範，澳洲通訊局公布AI代理權限控管原則",
-        "link": "https://www.ithome.com.tw/news/179149",
-        "pubDate": "2026-09-24 08:00",
-        "description": "提示詞注入目前仍難可靠防範。澳洲通訊局提醒企業，部署AI代理時若給予過多系統與資料存取權限，一旦模型受到惡意內容影響，可能進一步危及企業系統，因此應限制AI代理權限，敏感或高影響操作則需人工核准",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Red Hat OpenShift 4.22導入ML-KEM，下一步推進抗量子數位簽章ML-DSA",
-        "link": "https://www.ithome.com.tw/news/179173",
-        "pubDate": "2026-09-24 08:00",
-        "description": "紅帽OpenShift 4.22已預設支援ML-KEM，讓TLS 1.3連線可採用抗量子密碼演算法建立金鑰",
-        "source": "iThome資安"
-      },
-      {
-        "title": "TeamPCP供應鏈攻擊內幕曝光，Google研究人員曾臥底核心群組",
-        "link": "https://www.ithome.com.tw/news/179166",
-        "pubDate": "2026-09-24 08:00",
-        "description": "Google旗下Mandiant研究人員曾臥底駭客組織TeamPCP，進入核心群組掌握攻擊動向，TeamPCP今年已接連鎖定PyPI、NPM及Docker Hub等生態系發動供應鏈攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitLab.com流量限制改採方案分級，匿名請求降至每小時60次",
-        "link": "https://www.ithome.com.tw/news/179197",
-        "pubDate": "2026-09-24  11:09:38",
-        "description": "GitLab將於10月19日起調整GitLab.com流量限制，Free方案與未經驗證的請求率先套用新規則，Premium與Ultimate方案預定2027年1月跟進。未經驗證的一般網頁與API請求，單一IP位址每小時最多60次，GitLab表示，GitLab.com需求快速成長，今年平臺負載預期增加數倍，因此需要調整流量限制，因應包含自動化工具與AI代理在內的各類工作負載。",
+        "title": "迎合6G網路整合NTN通訊技術趨勢，6G Summit Taipei：中華電信、遠傳展示多軌衛星通訊布局",
+        "link": "https://www.ithome.com.tw/news/179220",
+        "pubDate": "2026-09-24  06:09:58",
+        "description": "2026 6G Summit Taipei在本周在臺北舉行，國內電信業者中華電信、遠傳電信也參與，並展示對下一代6G行動通訊的技術布局成果。中華電信與遠傳電信各自展示其在非地面網路（Non-Terrestrial Network, NTN）與多軌衛星通訊的布局發展，反映6G發展趨勢正從單純提升傳輸能力，轉向地面網路、衛星網路與AI技術融合的架構。",
         "source": "iThome"
       },
       {
-        "title": "Meta發表100公克VR眼鏡，支援虛擬多螢幕與AI操作",
-        "link": "https://www.ithome.com.tw/news/179198",
-        "pubDate": "2026-09-24  11:09:31",
-        "description": "Meta周三（9/23）發表新一代虛擬實境眼鏡Meta VR Glasses，將原本笨重的VR頭戴裝置縮小成約100公克的眼鏡，讓使用者可隨時在眼前開啟虛擬電影院或工作空間。新產品預計2027年春季上市，售價1,299.99美元。",
+        "title": "VS Code讓AI代理在遠端Dev Container執行，擴及SSH、Tunnel與WSL主機",
+        "link": "https://www.ithome.com.tw/news/179212",
+        "pubDate": "2026-09-24  03:09:36",
+        "description": "微軟發布Visual Studio Code 1.139穩定版，擴充AI代理使用Dev Container的範圍，代理工作階段可在SSH、Tunnel與WSL主機上的Dev Container執行，使用專案容器內的工具與相依套件建置及測試程式。新版並改善大量代理工作階段的載入速度與管理介面。",
         "source": "iThome"
       },
       {
-        "title": "Meta預覽AI裝置Muse Charm",
-        "link": "https://www.ithome.com.tw/news/179199",
-        "pubDate": "2026-09-24  11:09:02",
-        "description": "Meta創辦人暨執行長祖克柏（Mark Zuckerberg）周三（9/23）在一年一度的Meta Connect技術發表大會上展示了（影片53分處）全新的AI裝置Muse Charm，它看起來就像是一個由錶面與掛繩組成的鑰匙圈，可與使用者即時語音交流，預計會在今年12月的聖誕購物季發售。",
+        "title": "英國擴大Google搜尋監管，ChatGPT、Perplexity有望成為預設選項",
+        "link": "https://www.ithome.com.tw/news/179214",
+        "pubDate": "2026-09-24  03:09:03",
+        "description": "英國競爭與市場管理局（Competition and Markets Authority，CMA）周三（9/23）公布強化版Google搜尋監管提案，擬要求Google在Android手機及Chrome瀏覽器提供預設搜尋服務選擇畫面，並納入符合條件的AI助理，讓使用者未來有機會選擇ChatGPT、Perplexity等AI服務，取代傳統搜尋引擎作為預設搜尋入口。",
         "source": "iThome"
       },
       {
-        "title": "微軟測試新的OneDrive依用量計費儲存方案",
-        "link": "https://www.ithome.com.tw/news/179195",
-        "pubDate": "2026-09-24  10:09:04",
-        "description": "微軟目前正在測試，將為OneDrive新增依用量付費的（Pay-as-you-go，PAYG）計費服務。根據微軟的產品藍圖網頁，這項服務已在今年7月推出預覽版，預計11月正式上線。",
+        "title": "ChatGPT Voice升級，可用語音操作AI代理人",
+        "link": "https://www.ithome.com.tw/news/179210",
+        "pubDate": "2026-09-24  02:09:59",
+        "description": "OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型，也能透過語音使用外掛（Plugins），並整合ChatGPT Work，讓使用者直接以說話的方式交辦AI代理人執行工作，包括建立文件、簡報、網站及試算表，或操作瀏覽器完成複雜任務。新功能即日起陸續開放給全球用戶。",
         "source": "iThome"
-      },
-      {
-        "title": "行銷平臺Brevo高權限Cloudflare API金鑰遭竊，客戶網站被注入ClickFix惡意程式",
-        "link": "https://www.ithome.com.tw/news/179189",
-        "pubDate": "2026-09-23 18:59",
-        "description": "Brevo高權限Cloudflare API金鑰遭竊，攻擊者向客戶網站注入惡意程式，訪客可能遇上ClickFix誘騙，WordPress網站也可能被安裝惡意外掛",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客聲稱竊得大量FBI員工個資，FBI回應正在調查",
-        "link": "https://www.ithome.com.tw/news/179192",
-        "pubDate": "2026-09-23 18:47",
-        "description": "ShinyHunters宣稱駭入FBI，聲稱竊得包含幾乎所有探員及應徵者個資的數TB資料，FBI證實正調查關於FBIjobs.gov網站未授權活動的聲言",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Check Point警告兩個重大漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179183",
-        "pubDate": "2026-09-23 17:52",
-        "description": "資安公司Check Point指出，近期修補的CVE-2026-85102、CVE-2026-93616已遭到利用，其中CVE-2026-93616利用活動發生在兩個月前；另一個漏洞CVE-2026-85102，則是在他們發布修補程式3天後出現嘗試利用活動",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -180,38 +180,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "歐洲央行正式接軌代幣化市場，Pontes 把鏈上交易接回央行貨幣",
-        "link": "https://techorange.com/2026/09/23/ecb-pontes-dlt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 23 Sep 2026 05:52:00 +0800",
-        "description": "債券等金融資產逐漸走向代幣化，發行、交易甚至部分交割流程都能搬到分散式帳本，但交易完成後，最後要用什麼錢結算？歐洲央行（ECB）現在正式把央行貨幣接進這個新市場。 ECB 在 9/21 正式上線 Pontes，讓銀行與市場基礎設施交易代幣化資產後，可以透過歐元體系既有的 TARGET 服務，以央行貨幣完成結算。這也代表 ECB 過去數年的分散式帳本技術（distributed ledger technology，DLT）試驗，開始走向可供市場實際使用的金融基礎設施。 所謂代幣化，是將債券等金融資",
+        "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
+        "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 17:10:46 +0800",
+        "description": "資安公司 DataDome 發布《2026 年 Bot 與 Agent 安全狀況報告》（State of Bot & Agent Security Report 2026），分析超過 1 兆筆請求、涵蓋逾 7.5 萬個客戶網站，並測試超過 2 萬個熱門網站。報告指出，過去一年自動化流量快速增加，惡意 Bot 開始鎖定更具商業價值的使用者流程，AI Agent 也逐漸從資料蒐集延伸至實際操作。 AI 資料供應鏈可能推升網頁爬取流量？惡意 Bot 流量增 約 124% DataDome 統計 202",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Meta Muse 超車 ChatGPT，Amazon 封鎖 AI 代理購物",
-        "link": "https://techorange.com/2026/09/23/meta-muse-tops-app-store-amazon-blocks-ai-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 23 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta Muse 超車 ChatGPT 登頂 App Store，Amazon 封鎖代理購物 Meta 於 9 月 8 日推出個人 AI 助理 Muse，可替使用者研究資料、填寫表格、預約服務及購買商品，並能連結電子郵件、行事曆、Instagram 等服務。Muse 上線後下載排名迅速超越 ChatGPT，一度登上美國 Apple App Store 免費應用程式排行榜第一名。與主要回覆問題的聊天機器人不同，Muse 的核心定位是取得使用者授",
+        "title": "「Token 使用量可降至五百分之一。」SAS 分享實戰經驗：治理，才能讓 AI Agent 真正創造價值",
+        "link": "https://techorange.com/2026/09/24/sas-ai-agent-save-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 17:02:20 +0800",
+        "description": "TechOrange 科技報橘日前（9/17）在新竹舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。現場特別邀請全球數據分析與 AI 領導品牌 SAS 帶來專題分享，揭露一套能同時兼顧「安全治理」與「成本控管」的解方。 當 AI Agent 開始接入 ERP 及其他企業內部系統，企業就必須同步建立權限控管、執行紀錄與人工決策機制，才能掌握 Agent 使用了哪些資料、執行了哪些動作，並安全地擴大應用。SAS 業務副總經理張志豪以電動",
         "source": "TechOrange"
       },
       {
-        "title": "Amazon 封鎖 Meta Muse、Shopify 卻主動接入：AI Agent 能不能進站，誰說了算？",
-        "link": "https://techorange.com/2026/09/22/amazon-shopify-ai-agent-shopping/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 17:35:12 +0800",
-        "description": "AI 正快速進入消費者的購物流程，新的問題也逐漸浮現。PYMNTS Intelligence 與 Visa Acceptance Solutions 今年調查美國、巴西、阿聯 5,841 名消費者發現，47% 線上購物者在最近一次購物中使用過 AI。而當 AI 從找商品、比價，進一步能替人開啟網站、登入帳號甚至下單，商家開始需要思考：外部 AI Agent（AI 代理） 要進入自家公司的交易環境，究竟該開放到什麼程度？ 電商巨頭 Amazon 最近選擇擋下 Meta Muse，但更精確地說，它拒",
-        "source": "TechOrange"
-      },
-      {
-        "title": "IFR：人形機器人 2025 實銷 7,000 台，美銀估 2030 上看 120 萬台",
-        "link": "https://techorange.com/2026/09/22/ifr-humanoid-robot-sales-tally-hit-7000-globally-last-year/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 22 Sep 2026 17:15:25 +0800",
-        "description": "《Reuters》報導，據國際機器人聯盟（International Federation of Robotics，IFR）彙整的數據，2025 年全球約售出 7,000 台人形機器人，主要用於工業與專業服務。這項數據也是 IFR 首次將人形機器人納入其機器人產業統計。 人形機器人目前銷售規模仍有限，與市場成長預期成對比 《Reuters》指出，目前人形機器人的實際銷售規模仍相對有限，但與市場對未來幾年需求快速成長的預期形成對比，尤其是在中國。中國是全球最大的工業機器人市場，近期也曾在機器人賽事",
+        "title": "首起已知 AI 代理闖入政府網站，澳洲如何重整政府資安防禦？",
+        "link": "https://techorange.com/2026/09/24/openai-ai-agent-hacked-australias-medicare/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 16:07:36 +0800",
+        "description": "近期 AI 代理（AI Agent）越界事件接連曝光，如今，第一起已知 AI 代理成功入侵政府網站的案例也浮上檯面。《Reuters》指出，這可能是目前已知首例，而遭入侵的是澳洲政府的 Medicare 統計網站。 澳洲總理 Anthony Albanese 在美國時間 9/23、台灣時間 9/24 公開這起事件。他表示，一個 OpenAI 代理今年 6 月在執行內部能力測試時，未經授權進入澳洲服務局（Services Australia）管理的 Medicare 統計報告服務（Medicare",
         "source": "TechOrange"
       },
       {
         "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
         "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 12:11:07 +0800",
+        "pubDate": "Thu, 24 Sep 2026 12:58:25 +0800",
         "description": "把 AI 做成可以隨身攜帶的獨立裝置，已不是科技業的新點子。從 Friend 等產品到各式 AI 穿戴裝置，業者近年不斷嘗試，但這類產品能否形成真正需求，至今仍有待驗證。如今，Meta 正把這項嘗試，延伸到自家的個人 AI Agent（AI 代理）Muse，擴大 Muse 的使用範圍。 美國時間 9/23 登場的年度 Connect 大會上，Meta 一口氣宣布 Muse 將登上 AI 眼鏡、操作 Mac、擁有專屬 email；到了發表會接近尾聲，祖克柏從口袋拿出另一款新產品：可以掛在鑰匙圈上的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "參數不到 Cosmos 一半卻登頂 RoboLab：BFL 開放權重模型 FLUX 3 Action 登場",
+        "link": "https://techorange.com/2026/09/24/black-forest-labs-flux-3-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 24 Sep 2026 12:47:09 +0800",
+        "description": "以影像生成模型 FLUX 打響名號的德國 AI 新創 Black Forest Labs（BFL），近日宣布推出機器人模型 FLUX 3 Action，正式跨足機器人領域。《VentureBeat》報導，這款模型擁有 70 億參數，採開放權重形式發布。 從影片生成跨足物理表徵：FLUX 3 Action 如何預測機器人動作 FLUX 3 Action 是一款世界動作模型（World Action Model，WAM），能接收攝影機畫面、機器人當前狀態與自然語言指令，進一步預測機器人接下來應執行的",
         "source": "TechOrange"
       },
       {
@@ -350,25 +350,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
-        "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
-        "pubDate": "Wed, 23 Sep 2026 12:34:40 +0530",
-        "description": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said.\n\nThe risk applies when an app puts values an attacker control",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
         "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
         "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400",
         "description": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
-        "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
-        "pubDate": "Wed, 23 Sep 2026 11:00:09 +0530",
-        "description": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency.\n\n\"We have compromised the FBI. We hold very sensitive",
-        "source": "TheHackerNews"
       },
       {
         "title": "InfraTrust report warns network management systems under attack",
@@ -382,6 +368,20 @@
         "link": "https://www.bleepingcomputer.com/news/security/how-one-kubernetes-yaml-can-hand-over-a-gcp-organization/",
         "pubDate": "Wed, 23 Sep 2026 10:01:11 -0400",
         "description": "A Kubernetes user with limited permissions can potentially gain control of an entire Google Cloud organization by exploiting the authority granted to Google Kubernetes Config Connector. Varonis explains how this confused deputy problem can turn a sin",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Arista patches actively exploited VeloCloud Orchestrator zero-day",
+        "link": "https://www.bleepingcomputer.com/news/security/arista-patches-actively-exploited-velocloud-orchestrator-zero-day/",
+        "pubDate": "Wed, 23 Sep 2026 08:29:53 -0400",
+        "description": "Arista Networks has released security patches for a zero-day flaw that is being actively exploited and affects VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft: September Windows updates break Always On VPN connections",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
+        "pubDate": "Wed, 23 Sep 2026 07:18:13 -0400",
+        "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -492,6 +492,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Gemini 4 is almost ready, says new Google DeepMind chief",
+        "link": "https://www.theverge.com/tech/999802/google-deepmind-gemini-4-timeline-koray-kavukcuoglu",
+        "pubDate": "2026-09-24T05:04:18-04:00",
+        "description": "Google is reportedly nearing the launch of its long awaited Gemini 4 model, after dawdling behind rival developers on flagship AI releases. Speaking with The Information during his first media appearance as the leader of Google's DeepMind division, K",
+        "source": "TheVerge"
+      },
+      {
         "title": "Meta is making a standalone Muse AI gadget",
         "link": "https://www.theverge.com/tech/999750/muse-charm-meta-ai-hardware",
         "pubDate": "2026-09-23T20:15:20-04:00",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/tech/999673/meta-connect-2026-muse-glasses-features",
         "pubDate": "2026-09-23T19:40:56-04:00",
         "description": "Just a couple of weeks after launching Muse, Meta announced that it's \"working on\" bringing the agent to its smart glasses, including the new glasses it unveiled at Meta Connect. Users will be able to activate Muse from their glasses by saying its na",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta ditches the camera on its newest smart glasses",
-        "link": "https://www.theverge.com/tech/999281/ray-ban-meta-audio-glasses-meta-connect-2026",
-        "pubDate": "2026-09-23T19:37:17-04:00",
-        "description": "Walking around Meta Connect 2026, everyone's sporting smart glasses in all sorts of shapes, colors, and sizes. It's a marked difference here, a tech bubble where \"pervert glasses\" are not a concern. Outside Connect, the public backlash against wearab",
         "source": "TheVerge"
       }
     ],
