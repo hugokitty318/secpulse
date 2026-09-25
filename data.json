@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-25T01:30:34.693705Z",
+  "ts": "2026-09-25T06:35:00.351476Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Google AI代理PageBreak找出自家Web應用程式逾500個XSS漏洞",
+        "link": "https://www.ithome.com.tw/news/179224",
+        "pubDate": "2026-09-25 09:00",
+        "description": "大型語言模型（LLM）能協助尋找漏洞，但也可能產生誤判。Google內部AI代理PageBreak以專用驗證工具執行實際酬載，確認漏洞能否成功利用，以降低誤判",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS CloudWatch Omni納入AI代理品質測試，可比較模型與提示詞表現",
+        "link": "https://www.ithome.com.tw/news/179226",
+        "pubDate": "2026-09-25  11:09:59",
+        "description": "AWS擴充Amazon CloudWatch可觀測性服務，推出CloudWatch Omni，將AI代理與應用程式監控整合到同一環境。除了記錄延遲、詞元（Token）用量與工具呼叫等執行情況，CloudWatch Omni還能評估代理回答品質，並比較不同提示詞、模型與代理設定的結果，協助開發團隊找出版本變更後的品質退化問題。",
+        "source": "iThome"
+      },
+      {
+        "title": "Docker Cloud Sandboxes上線，AI代理環境可在本機與雲端雙向搬移",
+        "link": "https://www.ithome.com.tw/news/179227",
+        "pubDate": "2026-09-25  11:09:24",
+        "description": "Docker推出Cloud Sandboxes雲端沙箱服務，將原本在開發者電腦執行的Docker Sandboxes隔離環境延伸到Docker管理的雲端運算資源。開發者可讓AI程式開發代理在雲端執行大型程式修改、測試等工作，並使用sbx move指令，在本機與雲端之間搬移沙箱環境。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic動用近千Claude代理搜尋DNA，21小時找出新型ART酵素系統",
+        "link": "https://www.ithome.com.tw/news/179222",
+        "pubDate": "2026-09-25  11:09:12",
+        "description": "Anthropic公開生命科學研究團隊首批成果，近950個Claude AI代理搜尋大量DNA資料，找出過去未被描述的酵素系統ART（array-associated reverse transcriptases）。ART包含反轉錄酶、相鄰蛋白質與規律排列的DNA重複序列，DNA重複序列具有類似基因編輯工具CRISPR的排列特徵。ART的生物功能尚未確認，Anthropic已展開實驗研究。",
+        "source": "iThome"
+      },
       {
         "title": "影像共享服務平臺Gyazo遭入侵，2,360萬筆用戶紀錄外洩",
         "link": "https://www.ithome.com.tw/news/179221",
@@ -101,13 +129,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "健身服務公司柏文對外服務系統遭到自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179194",
-        "pubDate": "2026-09-24 09:53",
-        "description": "健身服務公司柏文（8462）發布資安重訊，表示該公司對外服務的系統遭到攻擊，攻擊者試圖擷取員工及會員個資",
-        "source": "iThome資安"
-      },
-      {
         "title": "迎合6G網路整合NTN通訊技術趨勢，6G Summit Taipei：中華電信、遠傳展示多軌衛星通訊布局",
         "link": "https://www.ithome.com.tw/news/179220",
         "pubDate": "2026-09-24  06:09:58",
@@ -119,20 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179212",
         "pubDate": "2026-09-24  03:09:36",
         "description": "微軟發布Visual Studio Code 1.139穩定版，擴充AI代理使用Dev Container的範圍，代理工作階段可在SSH、Tunnel與WSL主機上的Dev Container執行，使用專案容器內的工具與相依套件建置及測試程式。新版並改善大量代理工作階段的載入速度與管理介面。",
-        "source": "iThome"
-      },
-      {
-        "title": "英國擴大Google搜尋監管，ChatGPT、Perplexity有望成為預設選項",
-        "link": "https://www.ithome.com.tw/news/179214",
-        "pubDate": "2026-09-24  03:09:03",
-        "description": "英國競爭與市場管理局（Competition and Markets Authority，CMA）周三（9/23）公布強化版Google搜尋監管提案，擬要求Google在Android手機及Chrome瀏覽器提供預設搜尋服務選擇畫面，並納入符合條件的AI助理，讓使用者未來有機會選擇ChatGPT、Perplexity等AI服務，取代傳統搜尋引擎作為預設搜尋入口。",
-        "source": "iThome"
-      },
-      {
-        "title": "ChatGPT Voice升級，可用語音操作AI代理人",
-        "link": "https://www.ithome.com.tw/news/179210",
-        "pubDate": "2026-09-24  02:09:59",
-        "description": "OpenAI周四（9/24）宣布升級ChatGPT Voice，除了支援GPT-6系列模型，也能透過語音使用外掛（Plugins），並整合ChatGPT Work，讓使用者直接以說話的方式交辦AI代理人執行工作，包括建立文件、簡報、網站及試算表，或操作瀏覽器完成複雜任務。新功能即日起陸續開放給全球用戶。",
         "source": "iThome"
       }
     ],
@@ -266,20 +273,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "This Windows Malware is Built to Let Up to Four AI Models Vote on Its Next Move",
-        "link": "https://thehackernews.com/2026/09/windows-malware-is-built-to-let-up-to.html",
-        "pubDate": "Wed, 23 Sep 2026 19:47:58 +0530",
-        "description": "A Windows malware called CLOSEDQUORUM is built to take orders from a vote of up to four AI models instead of an attacker's server, Cisco Talos said on September 22.\n\nThe models can choose to steal Windows credentials, saved browser passwords, and cry",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Compromised MemTensor Packages Deliver sckit Credential Stealer via npm and PyPI",
-        "link": "https://thehackernews.com/2026/09/compromised-memtensor-packages-deliver.html",
-        "pubDate": "Wed, 23 Sep 2026 19:22:46 +0530",
-        "description": "Unknown threat actors have managed to compromise two legitimate MemTensor packages across the npm and Python Package Index (PyPI) repositories to push a platform-specific Go-based implant dubbed sckit designed for Windows, Linux, and macOS.\n\nAccordin",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
         "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
         "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
@@ -383,14 +376,28 @@
         "pubDate": "Thu, 24 Sep 2026 14:44:21 +0530",
         "description": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription produ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Exposed GitLab project email addresses let attackers push code",
+        "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+        "pubDate": "Thu, 24 Sep 2026 13:47:44 -0400",
+        "description": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
+        "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
+        "pubDate": "Thu, 24 Sep 2026 12:37:25 +0530",
+        "description": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate ",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Waymo is scaling fast. Here’s what the fleet data shows.",
+        "title": "Waymo is scaling fast: Here’s what the fleet data shows",
         "link": "https://techcrunch.com/2026/09/24/waymo-is-scaling-fast-heres-what-the-fleet-data-shows/",
         "pubDate": "Thu, 24 Sep 2026 23:24:33 +0000",
-        "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hotspots as well.",
+        "description": "In the past month, Waymo has expanded its fleet in Texas by 49%. There are other hot spots as well.",
         "source": "TechCrunch"
       },
       {
@@ -485,11 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Lovable’s annualized revenue crosses $600M as vibe coding takes off",
-        "link": "https://techcrunch.com/2026/09/24/lovables-annualized-revenue-crosses-600m-as-vibe-coding-takes-off/",
-        "pubDate": "Thu, 24 Sep 2026 14:43:25 +0000",
-        "description": "Lovable co-founder Fabian Hedin said that apps created on the platform are getting nearly a billion monthly views each month.",
+        "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
+        "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
+        "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
+        "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "Here’s the Tesla Semi… again",
+        "link": "https://www.theverge.com/transportation/1000317/tesla-semi-launch-customer-delivery-freight-battery-engineer",
+        "pubDate": "2026-09-24T22:12:57-04:00",
+        "description": "Remember the Tesla Semi? The long-gestating, heavy-duty truck first introduced in concept form in 2017 is finally in volume production as of April 2026 - nearly a decade after its initial introduction. On Thursday evening, the company held yet anothe",
+        "source": "TheVerge"
       },
       {
         "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
@@ -517,13 +531,6 @@
         "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
         "pubDate": "2026-09-24T18:08:22-04:00",
         "description": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the compan",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face",
-        "link": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face",
-        "pubDate": "2026-09-24T15:59:26-04:00",
-        "description": "Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currentl",
         "source": "TheVerge"
       }
     ],
