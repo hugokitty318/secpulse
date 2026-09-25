@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-25T20:29:45.165982Z",
+  "ts": "2026-09-25T23:31:10.499419Z",
   "tabs": {
     "cn_sec": [
       {
@@ -180,13 +180,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "【AI 驅動的 vibe hacking】漏洞數量已找不完，企業資安計畫重點轉向驗證漏洞「可利用性」",
-        "link": "https://techorange.com/2026/09/23/vibe-hacking/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 23 Sep 2026 10:39:24 +0800",
-        "description": "過去，發動一場像樣的資安攻擊，需要經年累月鑽研技術才辦得到。但現在，只要懂得怎麼下指令給 AI，就有機會做到過去專業駭客才能完成的攻擊，這種被稱為「vibe hacking」的新型態攻擊，迫使企業資安團隊重新思考防禦節奏。 AI 讓攻擊技能門檻大幅降低 「Vibe hacking」是 AI 公司 Anthropic 提出的用語，指攻擊者只設定一個籠統目標，例如「入侵這家公司的系統並竊取資料」，接著完全放手讓 AI 代理自主處理每一個步驟，包括偵察、找出漏洞、撰寫並執行漏洞利用程式碼、彙整竊得的結",
-        "source": "TechOrange"
-      },
-      {
         "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
         "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 24 Sep 2026 17:10:46 +0800",
@@ -247,6 +240,13 @@
         "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 24 Sep 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 測試真人接手 AI 助理通話，因告知不足暫停 Meta 的 AI 助理 Muse 可依使用者指示致電商家，處理訂位、詢價及查詢商品等事項。《路透》查閱 Meta 內部貼文發現，公司曾在員工測試中，讓真人承包人員接手部分由 Muse 發起的電話。部分員工擔心，如果沒有清楚告知執行方式，承包人員可能在通話中接觸使用者的敏感資訊。Muse 上線時強調代理工作的隔離措施，真人參與通話的安排也因此受到員工質疑。 《路透》報導，Meta 一名主管",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
+        "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 26 Sep 2026 06:29:00 +0800",
+        "description": "微軟近期發布白皮書《Becoming a Frontier Firm: Our Frontier Playbook》（成為前沿企業：前沿教戰守則），提供全球企業一套將人工智慧技術深度融入營運模式、業務流程與人才架構的系統化轉型方法論與實證指標。 報告核心在於破除「購買工具即完成轉型」的迷思，強調「AI 導入」本質上是一場全面的商業變革，必須由企業整體商業戰略導引，並錨定明確的業務成效。 📎 這份報告適合誰閱讀？ 報告內容並非單純的技術說明書，而是涵蓋戰略、營運、技術與組織變革的指南，適合以下 5",
         "source": "TechOrange"
       }
     ],
@@ -336,20 +336,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
-        "pubDate": "Thu, 24 Sep 2026 09:27:57 -0400",
-        "description": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
-        "pubDate": "Thu, 24 Sep 2026 08:16:32 -0400",
-        "description": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
         "link": "https://thehackernews.com/2026/09/compromised-github-actions-came-back.html",
         "pubDate": "Fri, 25 Sep 2026 20:14:41 +0530",
@@ -364,11 +350,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Kiteworks urges 6-hour server shutdown over potential zero-day attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/kiteworks-urges-6-hour-server-shutdown-over-potential-zero-day-attacks/",
+        "pubDate": "Fri, 25 Sep 2026 17:41:07 -0400",
+        "description": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "The SOC Doesn't Need to Start Over with Every Alert",
         "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
         "pubDate": "Fri, 25 Sep 2026 17:00:00 +0530",
         "description": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a lo",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
+        "pubDate": "Fri, 25 Sep 2026 16:57:55 -0400",
+        "description": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vuln",
+        "source": "BleepingComputer"
       },
       {
         "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
@@ -393,6 +393,41 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
+        "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000",
+        "description": "Boom Supersonic CEO Blake Scholl said its new stationary power plants were no longer in Crusoe's near-term plans.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Automattic has a new board after failed attempt to put CEO on leave",
+        "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+        "pubDate": "Fri, 25 Sep 2026 23:04:34 +0000",
+        "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
+        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+        "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000",
+        "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta opens early access program for new Muse features",
+        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
+        "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000",
+        "description": "Anyone interested in joining has to ask Muse to put them on the list.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
+        "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
+        "pubDate": "Fri, 25 Sep 2026 20:33:58 +0000",
+        "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
         "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
@@ -461,41 +496,6 @@
         "link": "https://techcrunch.com/2026/09/25/for-months-openais-agent-swarms-have-been-attacking-online-databases-to-find-obscure-facts/",
         "pubDate": "Fri, 25 Sep 2026 15:48:14 +0000",
         "description": "The latest unauthorized agent swarms were discovered by researchers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic’s founders seek voting control ahead of IPO",
-        "link": "https://techcrunch.com/2026/09/25/anthropics-founders-seek-voting-control-ahead-of-ipo/",
-        "pubDate": "Fri, 25 Sep 2026 15:40:03 +0000",
-        "description": "Anthropic is asking its shareholders to approve a structure that would give its seven co-founders a combined 50.1% of the vote on most corporate matters.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tesla finally moves to electrify trucking after a decade of work and delays",
-        "link": "https://techcrunch.com/2026/09/25/tesla-finally-moves-to-electrify-trucking-after-a-decade-of-work-and-delays/",
-        "pubDate": "Fri, 25 Sep 2026 15:24:50 +0000",
-        "description": "Tesla's Semi truck, with a 500-mile range, is about to hit the road in big numbers, with the company saying it plans to make 50,000 units a year.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Ricursive Intelligence’s Anna Goldie and Azalia Mirhoseini on when AI starts designing its own hardware",
-        "link": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware/",
-        "pubDate": "Fri, 25 Sep 2026 15:00:00 +0000",
-        "description": "At TechCrunch Disrupt 2026, Ricursive Intelligence co-founders Anna Goldie and Azalia Mirhoseini will take the Disrupt Stage to discuss closing the loop between AI and chip development. Save up to $200 on your pass before today ends.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "link": "https://techcrunch.com/2026/09/25/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "pubDate": "Fri, 25 Sep 2026 14:15:00 +0000",
-        "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meadow lets you leave your smartphone at home without sacrificing the essentials",
-        "link": "https://techcrunch.com/2026/09/25/meadow-lets-you-leave-your-smartphone-at-home-without-sacrificing-the-essentials/",
-        "pubDate": "Fri, 25 Sep 2026 14:05:04 +0000",
-        "description": "“We’re not Luddites... it’s just we don’t want social media, browsing, and that kind of stuff,\" said 25-year-old founder Shreyas Narlanka.",
         "source": "TechCrunch"
       },
       {
