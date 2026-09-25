@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-25T06:35:00.351476Z",
+  "ts": "2026-09-25T12:11:42.360966Z",
   "tabs": {
     "cn_sec": [
       {
@@ -28,6 +28,27 @@
         "link": "https://www.ithome.com.tw/news/179222",
         "pubDate": "2026-09-25  11:09:12",
         "description": "Anthropic公開生命科學研究團隊首批成果，近950個Claude AI代理搜尋大量DNA資料，找出過去未被描述的酵素系統ART（array-associated reverse transcriptases）。ART包含反轉錄酶、相鄰蛋白質與規律排列的DNA重複序列，DNA重複序列具有類似基因編輯工具CRISPR的排列特徵。ART的生物功能尚未確認，Anthropic已展開實驗研究。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic向Akamai採購116億美元CPU算力，取得最高5%認股權",
+        "link": "https://www.ithome.com.tw/news/179230",
+        "pubDate": "2026-09-25  03:09:48",
+        "description": "雲端服務暨資安業者Akamai周四（9/24）宣布，擴大與Anthropic的合作，後者將在未來7年採購總值116億美元的雲端運算服務，以滿足持續成長的CPU工作負載需求。雙方合作規模未來還可能增加至約200億美元，Anthropic並取得認購Akamai最高約5%股權的權利。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google太空資料中心計畫邁入實測，下周發射首顆AI衛星",
+        "link": "https://www.ithome.com.tw/news/179228",
+        "pubDate": "2026-09-25  03:09:32",
+        "description": "Google周四（9/24）宣布，旗下太空AI運算專案「太陽捕手」（Project Suncatcher）即將進入實際測試階段，預計下周透過SpaceX的Transporter-18任務，發射首顆搭載Google張量處理器（TPU）的原型衛星，測試AI晶片在太空中的運作表現。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google推出Gemini Live Avatar，讓AI代理人有臉、有表情，還能即時對話",
+        "link": "https://www.ithome.com.tw/news/179229",
+        "pubDate": "2026-09-25  03:09:10",
+        "description": "Google周四（9/24）宣布推出Gemini 3.8 Live with Live Avatar，為對話式AI加入即時生成的虛擬人物形象，讓AI代理人不只能聽、能說，還能透過臉部表情及嘴型與使用者互動，並在對話過程中呼叫工具執行任務，目前已於Gemini Enterprise中提供。",
         "source": "iThome"
       },
       {
@@ -120,27 +141,6 @@
         "pubDate": "2026-09-24 11:25",
         "description": "pgAdmin 4 Webserver驗證機制存在漏洞，可能導致遠端攻擊者偽造身分，用戶應儘速更新",
         "source": "iThome資安"
-      },
-      {
-        "title": "WordPress發布7.1.2版，修補重大層級的路徑遍歷漏洞",
-        "link": "https://www.ithome.com.tw/news/179196",
-        "pubDate": "2026-09-24 10:09",
-        "description": "本週WordPress發布安全性更新，修補重大等級的CVE-2026-87902，並呼籲網站管理員要儘速修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "迎合6G網路整合NTN通訊技術趨勢，6G Summit Taipei：中華電信、遠傳展示多軌衛星通訊布局",
-        "link": "https://www.ithome.com.tw/news/179220",
-        "pubDate": "2026-09-24  06:09:58",
-        "description": "2026 6G Summit Taipei在本周在臺北舉行，國內電信業者中華電信、遠傳電信也參與，並展示對下一代6G行動通訊的技術布局成果。中華電信與遠傳電信各自展示其在非地面網路（Non-Terrestrial Network, NTN）與多軌衛星通訊的布局發展，反映6G發展趨勢正從單純提升傳輸能力，轉向地面網路、衛星網路與AI技術融合的架構。",
-        "source": "iThome"
-      },
-      {
-        "title": "VS Code讓AI代理在遠端Dev Container執行，擴及SSH、Tunnel與WSL主機",
-        "link": "https://www.ithome.com.tw/news/179212",
-        "pubDate": "2026-09-24  03:09:36",
-        "description": "微軟發布Visual Studio Code 1.139穩定版，擴充AI代理使用Dev Container的範圍，代理工作階段可在SSH、Tunnel與WSL主機上的Dev Container執行，使用專案容器內的工具與相依套件建置及測試程式。新版並改善大量代理工作階段的載入速度與管理介面。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -259,20 +259,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
-        "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
-        "pubDate": "Wed, 23 Sep 2026 22:23:10 +0530",
-        "description": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you.\n\nGi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "MikroTrick Chain Let Attackers Take Over MikroTik Routers Without a Password or SSH Key",
-        "link": "https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html",
-        "pubDate": "Wed, 23 Sep 2026 21:36:41 +0530",
-        "description": "Two MikroTik RouterOS SSH vulnerabilities chained together let attackers take full administrative control of Internet-exposed routers without a password, SSH key, or completed authentication.\n\nThe chain, which CERT Polska calls MikroTrick, combines a",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Placeholder domain used in dev docs now serves ClickFix attacks",
         "link": "https://www.bleepingcomputer.com/news/security/placeholder-domain-used-in-dev-docs-now-serves-clickfix-attacks/",
         "pubDate": "Wed, 23 Sep 2026 18:46:01 -0400",
@@ -291,27 +277,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
         "pubDate": "Wed, 23 Sep 2026 15:53:54 -0400",
         "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers start exploiting critical WordPress flaw for code execution",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
-        "pubDate": "Wed, 23 Sep 2026 14:31:22 -0400",
-        "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
-        "link": "https://www.bleepingcomputer.com/news/security/malicious-ai-agents-steal-600k-credit-cards-infect-100-plus-sites-with-skimmers/",
-        "pubDate": "Wed, 23 Sep 2026 12:20:54 -0400",
-        "description": "A financially motivated threat actor is using open-source AI agent frameworks to attack hundreds of online retailers at scale, stealing more than 600,000 credit card records. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "InfraTrust report warns network management systems under attack",
-        "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-network-management-systems-under-attack/",
-        "pubDate": "Wed, 23 Sep 2026 10:35:26 -0400",
-        "description": "Attackers are increasingly targeting the management systems used to control enterprise infrastructure, with several critical vulnerabilities actively exploited before or shortly after vendors disclosed them. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -390,6 +355,41 @@
         "pubDate": "Thu, 24 Sep 2026 12:37:25 +0530",
         "description": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "TeamFiltration Campaign Compromises Seven Microsoft 365 Accounts Using Default Passwords",
+        "link": "https://thehackernews.com/2026/09/teamfiltration-compromises-seven.html",
+        "pubDate": "Thu, 24 Sep 2026 12:02:03 +0530",
+        "description": "Cybersecurity researchers have disclosed details of an active TeamFiltration campaign codenamed UNK_CondorFiltration that has targeted over 5,700 accounts across 28 Microsoft 365 tenants.\n\nAccording to Proofpoint, the activity has primarily focused o",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
+        "pubDate": "Thu, 24 Sep 2026 11:06:18 +0530",
+        "description": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure.\n\nThe vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote c",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
+        "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
+        "pubDate": "Thu, 24 Sep 2026 10:02:12 -0400",
+        "description": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a b",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers now exploit critical Roundcube flaw in code injection attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-roundcube-flaw-now-actively-exploited-in-code-injection-attacks/",
+        "pubDate": "Thu, 24 Sep 2026 09:27:57 -0400",
+        "description": "A high-severity Roundcube Webmail vulnerability patched in May is now being actively exploited in attacks, according to the Canadian Centre for Cyber Security. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Windows 11 KB5124010 update released with 46 changes and fixes",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124010-update-released-with-46-changes-and-fixes/",
+        "pubDate": "Thu, 24 Sep 2026 08:16:32 -0400",
+        "description": "Microsoft released the KB5124010 September 2026 non-security preview update for Windows 11 24H2 and 25H2, with 46 changes including Bluetooth improvements and the ability to remap the Copilot key. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -495,8 +495,22 @@
         "title": "Lightspeed targets $250M for new India fund, focusing on early-stage AI",
         "link": "https://techcrunch.com/2026/09/24/lightspeed-targets-250m-for-new-india-fund-focusing-on-early-stage-ai/",
         "pubDate": "Fri, 25 Sep 2026 05:00:00 +0000",
-        "description": "The Silicon Valley firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
+        "description": "The venture firm is aligning its India fundraising cycle with its global funds for the first time, as it shifts to a shorter investment period.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "Insta360 conquered 360 cameras — now it’s eyeing glasses",
+        "link": "https://www.theverge.com/tech/999489/insta360-smart-glasses-mirrorless-interview",
+        "pubDate": "2026-09-25T08:00:00-04:00",
+        "description": "It's right there in the name: \"Insta360\" makes 360-degree cameras, ones that film every angle simultaneously so you can shoot first and frame later. It didn't invent the idea, but Insta360 has become so synonymous with 360 cameras that it dominates t",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "link": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot",
+        "pubDate": "2026-09-25T08:00:00-04:00",
+        "description": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also r",
+        "source": "TheVerge"
       },
       {
         "title": "Here’s the Tesla Semi… again",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1000370/meta-instagram-attorney-client-privilege-hats",
         "pubDate": "2026-09-24T19:50:55-04:00",
         "description": "Meta's lawyers have argued that certain evidence should be withheld from public view on the grounds of attorney-client privilege in the ongoing lawsuits over alleged harm to teens' safety and mental health. Lawyers suing the company said this week th",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
-        "link": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
-        "pubDate": "2026-09-24T19:42:39-04:00",
-        "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to inte",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft puts Brad Smith in charge of communications",
-        "link": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-        "pubDate": "2026-09-24T18:08:22-04:00",
-        "description": "Microsoft is moving its communications group out of marketing and into its Corporate, External, and Legal Affairs (CELA) organization. The surprise change will see Microsoft vice chair and president Brad Smith oversee communications, while the compan",
         "source": "TheVerge"
       }
     ],
