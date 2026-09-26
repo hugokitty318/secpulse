@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T16:44:41.153230Z",
+  "ts": "2026-09-26T19:48:35.697527Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,10 +266,10 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
-        "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
-        "pubDate": "Thu, 24 Sep 2026 20:57:32 +0530",
-        "description": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users.\n\n\"third-party[.]com has been a generic documentation placeho",
+        "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
+        "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
+        "pubDate": "Sat, 26 Sep 2026 23:52:52 +0530",
+        "description": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.\n\nThe new findings come from Ontinue, which descri",
         "source": "TheHackerNews"
       },
       {
@@ -292,6 +292,13 @@
         "pubDate": "Sat, 26 Sep 2026 15:25:22 +0530",
         "description": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site reque",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
+        "pubDate": "Sat, 26 Sep 2026 15:03:34 -0400",
+        "description": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable serve",
+        "source": "BleepingComputer"
       },
       {
         "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
@@ -383,16 +390,23 @@
         "pubDate": "Fri, 25 Sep 2026 15:44:02 +0530",
         "description": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in th",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Elementor WordPress flaw lets attackers create admin accounts",
-        "link": "https://www.bleepingcomputer.com/news/security/elementor-wordpress-flaw-lets-attackers-create-admin-accounts/",
-        "pubDate": "Fri, 25 Sep 2026 14:13:33 -0400",
-        "description": "A cross-site request forgery (CSRF) vulnerability in the Elementor plugin for WordPress could allow an unauthenticated attacker to create administrator accounts. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Meta and YouTube say they will run ads for ‘Musk’ documentary after all",
+        "link": "https://techcrunch.com/2026/09/26/meta-says-it-will-run-ads-for-musk-documentary-after-all/",
+        "pubDate": "Sat, 26 Sep 2026 17:44:00 +0000",
+        "description": "Two companies now say they will accept advertising for director Alex Gibney’s upcoming documentary about Elon Musk, following earlier reporting that a number of social media platforms had rejected the ads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Levoit’s new air purifier is for the pet odors that have taken over your apartment",
+        "link": "https://techcrunch.com/2026/09/26/levoits-new-air-purifier-is-for-the-pet-odors-that-have-taken-over-your-apartment/",
+        "pubDate": "Sat, 26 Sep 2026 17:00:00 +0000",
+        "description": "This $189.99 air purifier is specifically designed to tackle pet odors, removing up to 70% in one hour.",
+        "source": "TechCrunch"
+      },
       {
         "title": "I created an interactive digital avatar of myself — and you can talk to it",
         "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
@@ -485,18 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-        "link": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-        "pubDate": "Fri, 25 Sep 2026 16:16:52 +0000",
-        "description": "Muse is topping the app store charts and adding users at a rapid clip, while Meta ramps up the personal AI agent's promotion across its own apps and beyond.",
-        "source": "TechCrunch"
+        "title": "Decap is the man behind the drums behind your favorite song",
+        "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
+        "pubDate": "2026-09-26T15:30:00-04:00",
+        "description": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, includ",
+        "source": "TheVerge"
       },
       {
-        "title": "Meta’s AI Tamagotchi bet is…working?",
-        "link": "https://techcrunch.com/video/will-metas-ai-tamagotchi-bet-isworking/",
-        "pubDate": "Fri, 25 Sep 2026 16:00:00 +0000",
-        "description": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,” maybe someone should have asked: what pace? Now it’s turned into model drop week for both companies as Anthropic rolled out Opus 5.5, followed by OpenAI’s GPT-6 mode",
-        "source": "TechCrunch"
+        "title": "Kids turned the comment section of an NPR podcast into a group chat",
+        "link": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+        "pubDate": "2026-09-26T13:32:35-04:00",
+        "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how",
+        "source": "TheVerge"
+      },
+      {
+        "title": "OpenAI pauses training of its ‘most capable models’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+        "pubDate": "2026-09-26T12:34:59-04:00",
+        "description": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within ",
+        "source": "TheVerge"
       },
       {
         "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
         "pubDate": "2026-09-26T09:00:00-04:00",
         "description": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optio",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Pokémon card resellers have turned collecting into an online blood sport",
-        "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
-        "pubDate": "2026-09-26T08:00:00-04:00",
-        "description": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
-        "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
-        "pubDate": "2026-09-26T03:00:00-04:00",
-        "description": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
-        "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
-        "pubDate": "2026-09-25T14:18:57-04:00",
-        "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The pric",
         "source": "TheVerge"
       }
     ],
