@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T12:26:07.959712Z",
+  "ts": "2026-09-26T16:44:41.153230Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,46 +273,18 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
-        "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
-        "pubDate": "Thu, 24 Sep 2026 19:59:06 +0530",
-        "description": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic.\n\n\"Whe",
+        "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
+        "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+        "pubDate": "Sat, 26 Sep 2026 17:16:40 +0530",
+        "description": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS scor",
         "source": "TheHackerNews"
       },
       {
-        "title": "Corp MDM Spyware Targets Logistics Firms, Steals New SMS and Redirects Calls",
-        "link": "https://thehackernews.com/2026/09/corp-mdm-spyware-targets-logistics.html",
-        "pubDate": "Thu, 24 Sep 2026 17:35:27 +0530",
-        "description": "The logistics sector has become the target of a new malicious cyber campaign that distributes an Android spyware codenamed Corp MDM.\n\nAccording to Have I Been Squatted, the campaign uses fake Google Play pages branded as CEVA and TKW Logistics to dis",
+        "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
+        "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
+        "pubDate": "Sat, 26 Sep 2026 16:00:00 +0530",
+        "description": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a str",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "MacSync malware uses public iCloud calendars to deliver new payloads",
-        "link": "https://www.bleepingcomputer.com/news/security/macsync-malware-uses-public-icloud-calendars-to-deliver-new-payloads/",
-        "pubDate": "Thu, 24 Sep 2026 16:53:35 -0400",
-        "description": "A new variant of the MacSync malware targeting macOS systems now uses public iCloud calendar events to deliver new native payloads. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
-        "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
-        "pubDate": "Thu, 24 Sep 2026 16:10:48 -0400",
-        "description": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Exposed GitLab project email addresses let attackers push code",
-        "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
-        "pubDate": "Thu, 24 Sep 2026 13:47:44 -0400",
-        "description": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
-        "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
-        "pubDate": "Thu, 24 Sep 2026 10:02:12 -0400",
-        "description": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a b",
-        "source": "BleepingComputer"
       },
       {
         "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
@@ -334,6 +306,34 @@
         "pubDate": "Sat, 26 Sep 2026 13:18:33 +0530",
         "description": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks received credible threat intell",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
+        "pubDate": "Sat, 26 Sep 2026 12:26:58 -0400",
+        "description": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft pauses KB5002907 update after Office license deactivations",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
+        "pubDate": "Sat, 26 Sep 2026 11:50:38 -0400",
+        "description": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
+        "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
+        "pubDate": "Sat, 26 Sep 2026 10:19:46 -0400",
+        "description": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
+        "pubDate": "Sat, 26 Sep 2026 08:28:41 -0400",
+        "description": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -393,6 +393,13 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "I created an interactive digital avatar of myself — and you can talk to it",
+        "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+        "pubDate": "Sat, 26 Sep 2026 14:00:00 +0000",
+        "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+        "source": "TechCrunch"
+      },
       {
         "title": "At Meta Connect, the company’s smart glasses were everywhere",
         "link": "https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/",
@@ -492,11 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack",
-        "link": "https://techcrunch.com/2026/09/25/kiteworks-urges-customers-to-shut-down-their-servers-amid-imminent-threat-of-cyberattack/",
-        "pubDate": "Fri, 25 Sep 2026 15:52:13 +0000",
-        "description": "The tech giant, which allows companies to send large datasets over the internet, said it received a \"credible threat\" from law enforcement about an imminent attack.",
-        "source": "TechCrunch"
+        "title": "Can Cloudflare CEO Matthew Prince save the web from AI?",
+        "link": "https://www.theverge.com/podcast/1000344/cloudflare-matthew-prince-google-zero-ai-web-advertising",
+        "pubDate": "2026-09-26T10:00:00-04:00",
+        "description": "Today, I’m talking with Matthew Prince, who is CEO of Cloudflare. This episode is part of a two-part series on the future of business. Matthew last joined us on the show about two and a half years ago, at what we thought then was a wild pivot point f",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Control Resonant is a great game — it’s even better when you read everything",
+        "link": "https://www.theverge.com/games/1000818/control-resonant-reading-collectibles-documents-logs",
+        "pubDate": "2026-09-26T09:00:00-04:00",
+        "description": "In Control Resonant, the entire world is at stake. But that didn't stop the diligent employees of the Federal Bureau of Control from filing reams of paperwork, and it didn't stop me from reading everything I could find, either. Reading is often optio",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Pokémon card resellers have turned collecting into an online blood sport",
+        "link": "https://www.theverge.com/games/1001002/pokemon-30th-celebration-scalping-resellers",
+        "pubDate": "2026-09-26T08:00:00-04:00",
+        "description": "Earlier this month, Pokémon card content creator Natalie Roush posted a video to her YouTube and Instagram pages that enraged the larger collection community. In the now-deleted video, Roush shows off two premium boxes of cards that had not yet been ",
+        "source": "TheVerge"
       },
       {
         "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
         "pubDate": "2026-09-25T14:18:57-04:00",
         "description": "Roku recently launched its first-ever OLED TVs. The $999 starting price was already impressive for the 55-inch Pro Series model that has a 120Hz refresh rate OLED panel (with four HDMI 2.1 ports and support for Dolby Vision and HDR 10 Plus). The pric",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Phones don’t have lights",
-        "link": "https://www.theverge.com/podcast/1000751/vergecast-meta-connect-muse-googlebooks",
-        "pubDate": "2026-09-25T13:42:59-04:00",
-        "description": "Mark Zuckerberg has a new defense of the Ray-Ban Meta glasses: They're actually doing more to signal they're taking a photo than phones do. He's brought this up in at least two recent interviews, noting that the glasses have a light that comes on to ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "These camera apps give you more control over the iPhone 18 Pro’s aperture",
-        "link": "https://www.theverge.com/tech/1000729/moment-pro-blackmagic-camera-ii-ios-app-iphone-18-pro-max-aperature-camera",
-        "pubDate": "2026-09-25T13:23:30-04:00",
-        "description": "One of the questionable limitations of the iPhone 18 Pro's new main camera with a variable aperture is that you're limited to just four settings in the native iOS' camera app in manual mode: f/1.48, f/1.8, f/2.8, and f/4. Those same limitations are a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Tesla&#8217;s Optimus robot is going through growing pains",
-        "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
-        "pubDate": "2026-09-25T13:01:36-04:00",
-        "description": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for",
         "source": "TheVerge"
       }
     ],
