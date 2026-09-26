@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-26T07:36:20.541594Z",
+  "ts": "2026-09-26T12:26:07.959712Z",
   "tabs": {
     "cn_sec": [
       {
@@ -294,25 +294,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Secrets Sprawl Is an Identity Problem That AI Just Made Impossible to Ignore",
-        "link": "https://thehackernews.com/2026/09/secrets-sprawl-is-identity-problem-that.html",
-        "pubDate": "Thu, 24 Sep 2026 16:30:00 +0530",
-        "description": "AI coding agents are changing how quickly developers can build and ship software as well as how quickly credentials can become exposed. According to GitGuardian’s 2026 State of Secrets Sprawl Report, commits identified as AI-assisted are leaking secr",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New Carbonato malware uses AI agents to hijack exposed Docker hosts",
         "link": "https://www.bleepingcomputer.com/news/security/new-carbonato-malware-uses-ai-agents-to-hijack-exposed-docker-hosts/",
         "pubDate": "Thu, 24 Sep 2026 16:10:48 -0400",
         "description": "A new botnet malware called Carbonato is targeting insecure hosts running Docker daemons to install the Hermes Agent AI framework and take control. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "17,000 URLs Reveal How ClickFix Turns Trusted Websites Into Malware Traps: Report by CTM360",
-        "link": "https://thehackernews.com/2026/09/17000-urls-reveal-how-clickfix-turns.html",
-        "pubDate": "Thu, 24 Sep 2026 14:44:21 +0530",
-        "description": "ClickFix has become the most common way attackers get into enterprise networks, and it does it without an exploit, an attachment, or a file on disk. Our new global threat report traces the technique from a novelty in late 2023 to a subscription produ",
-        "source": "TheHackerNews"
       },
       {
         "title": "Exposed GitLab project email addresses let attackers push code",
@@ -322,18 +308,32 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI Agent Bypassed Australian Medicare Portal Controls to Access Non-Public Files",
-        "link": "https://thehackernews.com/2026/09/openai-agent-bypassed-australian.html",
-        "pubDate": "Thu, 24 Sep 2026 12:37:25 +0530",
-        "description": "An AI agent on an internal OpenAI research task bypassed access controls on an Australian government Medicare statistics portal in June, Prime Minister Anthony Albanese said.\n\nThe portal publishes aggregate figures, such as spending, and is separate ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "FedRAMP VDR & VER: Daily Scans Are Only the Beginning",
         "link": "https://www.bleepingcomputer.com/news/security/fedramp-vdr-and-ver-daily-scans-are-only-the-beginning/",
         "pubDate": "Thu, 24 Sep 2026 10:02:12 -0400",
         "description": "FedRAMP's new VDR and VER requirements make vulnerability management more continuous, with faster scanning, tighter remediation deadlines, and stronger evidence requirements. Anecdotes explains why the December 7 deadline is just the beginning of a b",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
+        "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+        "pubDate": "Sat, 26 Sep 2026 15:25:22 +0530",
+        "description": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site reque",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
+        "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
+        "pubDate": "Sat, 26 Sep 2026 14:19:53 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nTh",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
+        "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
+        "pubDate": "Sat, 26 Sep 2026 13:18:33 +0530",
+        "description": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks received credible threat intell",
+        "source": "TheHackerNews"
       },
       {
         "title": "Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware",
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Can &#8216;eSUV&#8217; e-bikes really go from trail to town?",
+        "link": "https://www.theverge.com/transportation/999785/amflow-tl-review-avinox-esuv-e-bike-avinox",
+        "pubDate": "2026-09-26T03:00:00-04:00",
+        "description": "Have you ever wanted an electric bike that easily transitions from the drudgery of urban asphalt to adventures in gravel and dirt? That's what a subclass of so-called \"electric SUV\" (eSUV) e-bikes claims to do, with their wide, all-terrain tires and ",
+        "source": "TheVerge"
+      },
+      {
         "title": "Roku&#8217;s first OLED TVs are up to $400 off, starting at $699",
         "link": "https://www.theverge.com/gadgets/1000859/roku-pro-series-oled-nothing-phone-4a-pro-deal-sale",
         "pubDate": "2026-09-25T14:18:57-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1000794/tesla-optimus-production-issues-hands",
         "pubDate": "2026-09-25T13:01:36-04:00",
         "description": "Hitting its goal of making 20,000 Optimus robots per week is reportedly proving tricky for Tesla. The Information reports that Tesla produced \"several hundred robots a week\" last month, after it repurposed its Model S and Model X production lines for",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta makes the Muse filesystem even more accessible",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem",
-        "pubDate": "2026-09-25T12:49:53-04:00",
-        "description": "Yesterday, with a little prodding, it was discovered that Meta's Muse would expose its filesystem to curious users. The files offered a fascinating peek under the hood of an AI chatbot, and appeared to expose details we weren't meant to see, not leas",
         "source": "TheVerge"
       }
     ],
