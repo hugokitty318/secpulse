@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T17:42:40.439885Z",
+  "ts": "2026-09-27T21:17:49.045279Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Anthropic’s CEO is about to have dinner with President Trump",
+        "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+        "pubDate": "Sun, 27 Sep 2026 20:34:28 +0000",
+        "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can Muse overcome Meta’s trust issues?",
+        "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+        "pubDate": "Sun, 27 Sep 2026 19:57:30 +0000",
+        "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Anthropic’s Dario Amodei gets the SNL treatment",
         "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
         "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
@@ -485,18 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab’s knowledge",
-        "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-        "pubDate": "Fri, 25 Sep 2026 22:20:47 +0000",
-        "description": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta opens early access program for new Muse features",
-        "link": "https://techcrunch.com/2026/09/25/meta-opens-early-access-program-for-new-muse-features/",
-        "pubDate": "Fri, 25 Sep 2026 20:34:53 +0000",
-        "description": "Anyone interested in joining has to ask Muse to put them on the list.",
-        "source": "TechCrunch"
+        "title": "Engram is a sampler that turns broken AI hallucinations into music",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
+        "pubDate": "2026-09-27T16:46:36-04:00",
+        "description": "Music startup Thoughtful Things has just launched the Kickstarter campaign for its first instrument, Engram. It's a sampler and groovebox that uses AI to mangle incoming audio and even hallucinate completely new sounds. This isn't Suno in a box, thou",
+        "source": "TheVerge"
       },
       {
         "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
         "pubDate": "2026-09-27T08:00:00-04:00",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8A",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple hit with $5.7 billion in damages over haptic patents",
-        "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
-        "pubDate": "2026-09-26T17:30:01-04:00",
-        "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 a",
         "source": "TheVerge"
       }
     ],
