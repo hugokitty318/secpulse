@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T21:17:49.045279Z",
+  "ts": "2026-09-27T23:56:50.386226Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,6 +259,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+        "pubDate": "Sun, 27 Sep 2026 19:40:39 -0400",
+        "description": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
         "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
         "pubDate": "Sun, 27 Sep 2026 13:17:57 +0530",
@@ -383,13 +390,6 @@
         "pubDate": "Fri, 25 Sep 2026 17:41:07 -0400",
         "description": "Secure file-sharing software company Kiteworks is urging customers worldwide to temporarily shut down their servers on Saturday for a six-hour window after receiving threat intelligence warning of a potentially imminent cyberattack. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "The SOC Doesn't Need to Start Over with Every Alert",
-        "link": "https://thehackernews.com/2026/09/the-soc-doesnt-need-to-start-over-with.html",
-        "pubDate": "Fri, 25 Sep 2026 17:00:00 +0530",
-        "description": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a lo",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Out of the Park Baseball lets me enjoy baseball even when the Mets suck",
+        "link": "https://www.theverge.com/games/1001206/out-of-the-park-baseball-cozy-sim-video-game-review",
+        "pubDate": "2026-09-27T17:59:57-04:00",
+        "description": "If you were to ask me what game or game series I've sunk the most time into, the answer would be easy: Out of the Park Baseball (OOTP). I have spent roughly 2,300 hours, according to Steam, playing various editions of the game. OOTP isn't like MLB Th",
+        "source": "TheVerge"
+      },
+      {
         "title": "Engram is a sampler that turns broken AI hallucinations into music",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001193/engram-sampler-ai-hallucinations-music",
         "pubDate": "2026-09-27T16:46:36-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1000424/googlebooks-meta-ray-ban-audio-control-resonant-microsoft-surface-mouse",
         "pubDate": "2026-09-27T08:00:00-04:00",
         "description": "Hi, friends! Welcome to Installer No. 145, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, I'm happy to be done traveling for a bit, and also you can read all the old editions at the Installer homepage.) This w",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The smart home graveyard is getting crowded",
-        "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-        "pubDate": "2026-09-27T08:00:00-04:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the fragile state of your connected devices, follow Jennifer Pattison Tuohy. The Stepback arrives in our subscribers' inboxes on Sunday at 8A",
         "source": "TheVerge"
       }
     ],
