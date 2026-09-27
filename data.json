@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-27T12:58:55.336242Z",
+  "ts": "2026-09-27T17:42:40.439885Z",
   "tabs": {
     "cn_sec": [
       {
@@ -262,8 +262,29 @@
         "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
         "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
         "pubDate": "Sun, 27 Sep 2026 13:17:57 +0530",
-        "description": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26.\n\nCitrix has not confirmed the",
+        "description": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affe",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+        "pubDate": "Sun, 27 Sep 2026 12:02:37 -0400",
+        "description": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+        "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+        "pubDate": "Sun, 27 Sep 2026 10:13:31 -0400",
+        "description": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+        "pubDate": "Sun, 27 Sep 2026 09:38:40 -0400",
+        "description": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
@@ -369,30 +390,30 @@
         "pubDate": "Fri, 25 Sep 2026 17:00:00 +0530",
         "description": "Security leaders keep debating whether AI will produce an entirely new class of cyberattack. The nearer change is quieter and already visible: AI has made a failed attack cheap to retry.\n\nThe routine version looks like this. An attacker lands on a lo",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "ShinyHunters hacked Clop leak site using Grav CMS path traversal flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacked-clop-leak-site-using-grav-cms-path-traversal-flaw/",
-        "pubDate": "Fri, 25 Sep 2026 16:57:55 -0400",
-        "description": "The Clop ransomware gang has moved its data leak site to a new Tor address after confirming its previous server was compromised and defaced through an unpatched Grav CMS flaw that BleepingComputer has learned is an unauthenticated path traversal vuln",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
-        "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
-        "pubDate": "Fri, 25 Sep 2026 16:05:55 +0530",
-        "description": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \n\n\"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
-        "link": "https://thehackernews.com/2026/09/roundcube-pre-auth-sql-injection-flaw.html",
-        "pubDate": "Fri, 25 Sep 2026 15:44:02 +0530",
-        "description": "The Canadian Centre for Cyber Security has warned that a now-patched Roundcube Webmail vulnerability is being actively exploited in the wild.\n\nThe vulnerability in question is CVE-2026-48842 (CVSS score: 8.1), a pre-authentication SQL injection in th",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Anthropic’s Dario Amodei gets the SNL treatment",
+        "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
+        "pubDate": "Sun, 27 Sep 2026 16:30:00 +0000",
+        "description": "\"AI is the devil and I its maker.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: AV companies pick their lanes",
+        "link": "https://techcrunch.com/2026/09/27/techcrunch-mobility-av-companies-pick-their-lanes/",
+        "pubDate": "Sun, 27 Sep 2026 16:02:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sennheiser Momentum 5 review: Great sound, incredible battery life, and few compromises",
+        "link": "https://techcrunch.com/2026/09/27/sennheiser-momentum-5-review-great-sound-incredible-battery-life-and-few-compromises/",
+        "pubDate": "Sun, 27 Sep 2026 15:00:00 +0000",
+        "description": "I spent the last few weeks with the Sennheiser Momentum 5 to determine if this pair actually stands out, testing everything from sound quality and noise cancellation to comfort and battery life.",
+        "source": "TechCrunch"
+      },
       {
         "title": "PNOE’s new face mask wants to make lab-grade breath testing a self-serve affair",
         "link": "https://techcrunch.com/2026/09/26/pnoes-new-face-mask-wants-to-make-lab-grade-breath-testing-a-self-serve-affair/",
@@ -478,25 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The hottest new hangout for middle schoolers is NPR’s comment section?",
-        "link": "https://techcrunch.com/2026/09/25/the-hottest-new-hangout-for-middle-schoolers-is-nprs-comment-section/",
-        "pubDate": "Fri, 25 Sep 2026 20:33:58 +0000",
-        "description": "When NPR staffers flagged strange comments under their podcasts on Spotify as bots, it took a Gen Z colleague to (immediately) figure out the mystery.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic to pay Akamai $11.6 billion over seven years in cloud deal",
-        "link": "https://techcrunch.com/2026/09/25/anthropic-to-pay-akamai-11-6-billion-over-seven-years-in-cloud-deal/",
-        "pubDate": "Fri, 25 Sep 2026 19:13:38 +0000",
-        "description": "Anthropic has committed $11.6 billion over seven years to Akamai's cloud infrastructure, a bet on CPUs that could grow to about $20 billion, and in an unusual arrangement, Akamai is giving Anthropic a potential stake of up to 5% of its stock that gro",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-        "link": "https://techcrunch.com/2026/09/25/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-        "pubDate": "Fri, 25 Sep 2026 18:48:33 +0000",
-        "description": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-        "source": "TechCrunch"
+        "title": "OpenAI agents tried to ‘bruteforce’ a UN website",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001178/openai-agents-bruteforce-un-website",
+        "pubDate": "2026-09-27T13:21:07-04:00",
+        "description": "Security researcher Rowan Howard-Jones says that OpenAI agents scanned the UN Conference on Trade and Development's (UNCTAD) statistics site over 16,000 times between April and June. While the incident doesn't quite rise to the level of the Hugging F",
+        "source": "TheVerge"
       },
       {
         "title": "Why OLPC’s $100 laptop never stood a chance",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
         "pubDate": "2026-09-26T17:30:01-04:00",
         "description": "Haptics tech company Taction sued Apple in 2021, alleging it infringed two of its patents. Now a federal jury in San Diego has awarded Taction over $5.7 billion in damages. According to CNBC, \"The lawsuit centered around U.S. Patent Nos. 10,659,885 a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Decap is the man behind the drums behind your favorite song",
-        "link": "https://www.theverge.com/report/1000994/decap-drums-that-knock-interview",
-        "pubDate": "2026-09-26T15:30:00-04:00",
-        "description": "I don't think I'm going to hurt anyone's feelings by pointing out that Decap doesn't have the name recognition of Kendrick Lamar, Olivia Rodrigo, or Charli XCX. But his fingerprints are all over tracks from them, as well as many other artists, includ",
         "source": "TheVerge"
       }
     ],
