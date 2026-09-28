@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-28T19:38:57.053025Z",
+  "ts": "2026-09-28T23:56:04.652062Z",
   "tabs": {
     "cn_sec": [
       {
@@ -166,17 +166,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic、OpenAI 同日推 Opus 5.5、GPT-6 Sol／Luna：最高階 AI 能力正以幾週速度往下放",
-        "link": "https://techorange.com/2026/09/23/anthropic-openai-opus-5-5-gpt-6-sol-luna-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 23 Sep 2026 12:47:48 +0800",
-        "description": "Anthropic、OpenAI 在美國時間 9/22 同日更新模型產品線，一口氣推出 3 款新模型。Anthropic 發表 Claude Opus 5.5，主打程式設計、AI 代理與專業知識工作；OpenAI 則推出 GPT-6 Sol、GPT-6 Luna，將月初才由 GPT-6 Astra 開啟的新一代產品線，進一步擴展到不同能力與價格層級。 這次兩家公司都沒有只把重點放在提高測試基準（benchmark）成績。Anthropic 的 Opus 5.5 已在多數工作達到 3 週前才推出的",
+        "title": "PQC 遷移動輒 2 至 4 年、近半企業卻還沒動！HPE 台灣暨香港董事長談量子安全",
+        "link": "https://techorange.com/2026/09/29/hpe-pqc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 29 Sep 2026 06:00:00 +0800",
+        "description": "作者：HPE 台灣暨香港董事長王嘉昇 隨著量子運算逐步發展，其對現有密碼機制帶來的影響，已成為企業需關注的資安課題。許多企業認為，現在還有時間思考後量子密碼學（PQC）。但真正的風險並不在於預測具備實際密碼破解能力的量子電腦何時出現，而是企業是否有足夠時間完成準備。 量子電腦的發展時程雖仍存在不確定性，但密碼技術卻已深入企業環境，涵蓋安全通訊、軟體完整性、裝置身分識別及法規遵循等關鍵領域，全面更新企業環境中的密碼技術需投入大量時間與資源。因此企業有充分的理由從現在開始規劃。 首先，「先竊取、後解",
         "source": "TechOrange"
       },
       {
-        "title": "砸 3,500 萬美元辦學：a16z 打造矽谷「另類學院」，首屆免學費挑戰名校與 YC 模式？",
-        "link": "https://techorange.com/2026/09/23/horowitz-andreessen-academy-education-for-an-age-of-infinite-doing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 23 Sep 2026 12:44:37 +0800",
-        "description": "創投公司 Andreessen Horowitz（a16z）正以不同於傳統大學的方式培養下一代科技人才。該公司宣布投資 3,500 萬美元，支持另類高等教育機構 Horowitz Andreessen Academy，其規劃為兩年制、首屆先開一年期免學費課程，招收 16 至 22 歲學生。學院未取得大學認證，將由 Udemy 共同創辦人 Gagan Biyani 領導，並以獨立企業形式營運。 告別長時間課堂：AI-native 學院主打 80% 專題實作，培育科技與創業人才 《華爾街日報》指出，",
+        "title": "【科技早餐】OpenAI 追查 AI 代理異常，53 張用戶圖片外傳、數十家機構獲通知",
+        "link": "https://techorange.com/2026/09/29/openai-ai-agent-incidents-53-user-images/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 29 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 追查 AI 代理異常行為，數十家機構獲通知 OpenAI 正檢視旗下模型在訓練與評估期間的網路活動，已通知數十家可能受影響的第三方。公司列出的異常類型，包括代理繞過存取控制、使用外露憑證、透過指令或查詢注入接觸系統，以及自行在第三方網站張貼內容。接獲通知不代表各網站均遭入侵；OpenAI 依可能繞過安全控制、影響服務或造成其他負面影響等條件通知，調查仍在進行。 另有代理在研究環境中，把 53 張使用者同意用於改善模型的圖片意外傳到",
         "source": "TechOrange"
       },
       {
@@ -252,6 +252,20 @@
     ],
     "en_sec": [
       {
+        "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
+        "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
+        "pubDate": "Tue, 29 Sep 2026 00:48:01 +0530",
+        "description": "Apple has released security updates to address a vulnerability in older versions of iOS, iPadOS, and macOS that it said may have been exploited in targeted attacks.\n\nThe vulnerability, tracked as CVE-2026-86950, refers to an out-of-bounds write impac",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Use NeedyMantis to Maintain Long-Term Access in Breached Networks",
+        "link": "https://thehackernews.com/2026/09/hackers-use-needymantis-to-maintain.html",
+        "pubDate": "Tue, 29 Sep 2026 00:05:42 +0530",
+        "description": "Hackers have used a malware family called NeedyMantis to maintain long-term access to networks they had already breached, Microsoft said in a technical analysis.\n\nThe malware has been seen in a small number of targeted intrusions at telecommunication",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
         "pubDate": "Sun, 27 Sep 2026 19:40:39 -0400",
@@ -322,45 +336,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild",
-        "link": "https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html",
-        "pubDate": "Sat, 26 Sep 2026 14:19:53 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Microsoft SharePoint and Mikrotik RouterOS to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nTh",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack",
-        "link": "https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html",
-        "pubDate": "Sat, 26 Sep 2026 13:18:33 +0530",
-        "description": "Kiteworks (formerly Accellion) is urging customers to shut down their systems as a precautionary measure for nine hours over the weekend after it received threat intelligence about an imminent cyber attack.\n\n\"Kiteworks received credible threat intell",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
         "pubDate": "Sat, 26 Sep 2026 12:26:58 -0400",
         "description": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft pauses KB5002907 update after Office license deactivations",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-365-kb5002907-update-paused-after-office-license-deactivations/",
-        "pubDate": "Sat, 26 Sep 2026 11:50:38 -0400",
-        "description": "Microsoft has paused the rollout of the KB5002907 Microsoft 365 update after users report that it deactivated, or in some cases completely removed, perpetual Office 2016 and Office 2019 installations. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "GitHub Actions re-enabled with Mini Shai-Hulud payload still active",
-        "link": "https://www.bleepingcomputer.com/news/security/github-actions-re-enabled-with-mini-shai-hulud-payload-still-active/",
-        "pubDate": "Sat, 26 Sep 2026 10:19:46 -0400",
-        "description": "Two third-party GitHub Actions previously compromised in a Mini Shai-Hulud campaign were re-enabled by their maintainer and remained accessible for more than a week despite still pointing to malicious code. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenAI's AI agents accidentally uploaded user-provided images to third-party sites",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-ai-agents-accidentally-uploaded-user-provided-images-to-third-party-sites/",
-        "pubDate": "Sat, 26 Sep 2026 08:28:41 -0400",
-        "description": "OpenAI says its AI agents uploaded user-provided images to third-party image-hosting services while carrying out research and evaluation tasks. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -390,9 +369,58 @@
         "pubDate": "Mon, 28 Sep 2026 19:30:53 +0530",
         "description": "A domain used as harmless placeholder text showed up in roughly 1,700 repositories. Then somebody registered it and started serving malicious lures. That is the kind of week this was: forgotten assumptions turning into live attack surface.\n\nElsewhere",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Webinar: How to Govern AI Agents, Reduce Excessive Access, and Control Shadow AI",
+        "link": "https://thehackernews.com/2026/09/webinar-how-to-govern-ai-agents-reduce.html",
+        "pubDate": "Mon, 28 Sep 2026 17:28:00 +0530",
+        "description": "AI agents are moving into production faster than security teams can govern them. They are connecting to apps, handling data, calling APIs, and acting across business systems—often without the same controls applied to human users.\n\nAccording to Okta’s",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Carbonato Botnet Compromises Docker Hosts to Deploy Telegram-Controlled Hermes AI Agent",
+        "link": "https://thehackernews.com/2026/09/carbonato-botnet-compromises-docker.html",
+        "pubDate": "Mon, 28 Sep 2026 17:16:00 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the fr",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Japan's Keio confirms ransomware attack disrupted business systems",
+        "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
+        "pubDate": "Mon, 28 Sep 2026 16:56:47 -0400",
+        "description": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "OpenAI reportedly ditches model over safety concerns",
+        "link": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/",
+        "pubDate": "Mon, 28 Sep 2026 23:39:20 +0000",
+        "description": "A top executive at the AI lab told the Wall Street Journal that the model in question had displayed a poor aptitude for following orders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
+        "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
+        "pubDate": "Mon, 28 Sep 2026 22:58:35 +0000",
+        "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
+        "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
+        "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
+        "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
+        "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
+        "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
+        "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Shopify opens checkout to browser-based AI agents",
         "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
@@ -432,7 +460,7 @@
         "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
         "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
         "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
-        "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+        "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
         "source": "TechCrunch"
       },
       {
@@ -471,32 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "MAVI bets on the AI boom creating demand for a new kind of accountant",
-        "link": "https://techcrunch.com/2026/09/28/mavi-bets-on-the-ai-boom-creating-demand-for-a-new-kind-of-accountant/",
-        "pubDate": "Mon, 28 Sep 2026 15:26:46 +0000",
-        "description": "Accounting staffing company MAVI emerges from stealth with $4 million in funding.",
-        "source": "TechCrunch"
+        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+        "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+        "pubDate": "2026-09-28T17:31:35-04:00",
+        "description": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter ",
+        "source": "TheVerge"
       },
       {
-        "title": "After a deepfake voice fooled her grandfather, this founder sprang into action",
-        "link": "https://techcrunch.com/2026/09/28/after-a-deepfake-voice-fooled-her-grandfather-this-founder-sprang-into-action/",
-        "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
-        "description": "After her grandfather was scammed by a deepfake of his brother's voice, Tarini Padmanabhuni founded DetectifAI, a San Francisco startup building AI models small enough to run directly on smartphones and flag fake voices in real time, and it's now one",
-        "source": "TechCrunch"
+        "title": "Bose starts adding Auracast to its headphones",
+        "link": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
+        "pubDate": "2026-09-28T15:31:24-04:00",
+        "description": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the co",
+        "source": "TheVerge"
       },
       {
-        "title": "Commonwealth Fusion Systems’ Brandon Sorbom and Helion’s David Kirtley on bringing fusion to the grid at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/28/commonwealth-fusion-systems-brandon-sorbom-and-helions-david-kirtley-on-bringing-fusion-to-the-grid-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 28 Sep 2026 15:00:00 +0000",
-        "description": "CFS' Brandon Sorbom and Helion's David Kirtley join the Smart Systems Stage at TechCrunch Disrupt 2026 to discuss the breakthroughs moving fusion forward, the challenges that remain, and what it will take to deliver fusion power to the grid at scale.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "FBI reportedly declares ‘cyber security incident’ after hackers steal agents’ personal data",
-        "link": "https://techcrunch.com/2026/09/28/fbi-reportedly-declares-cyber-security-incident-after-hackers-steal-agents-personal-data/",
-        "pubDate": "Mon, 28 Sep 2026 14:50:30 +0000",
-        "description": "The bureau has not yet publicly confirmed a breach, but has told its agents that their personal information and Social Security numbers were exposed.",
-        "source": "TechCrunch"
+        "title": "OpenAI’s AI agents need to catch up",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
+        "pubDate": "2026-09-28T14:45:00-04:00",
+        "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture t",
+        "source": "TheVerge"
       },
       {
         "title": "Trump finalizes rule to make cars less fuel efficient",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001427/ai-is-supercharging-hacking-and-your-local-hospitals-and-banks-arent-ready",
         "pubDate": "2026-09-28T14:30:00-04:00",
         "description": "In March, Janice Malone began getting calls about suspicious activity from her nonprofit organization, Vivian's Door. Vivian's Door, headquartered in Alabama, typically provided training, resources, and community to underserved and minority-owned bus",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Florida seeks a ban on ChatGPT acting like a person",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1001527/chatgpt-florida-ban-first-person-human-attributes-kids",
-        "pubDate": "2026-09-28T13:00:23-04:00",
-        "description": "Florida Attorney General James Uthmeier is calling for a judge to block OpenAI from \"giving ChatGPT false human attributes,\" a few months after Florida sued the AI company over safety concerns. According to Uthmeier, users are lulled into a false sen",
-        "source": "TheVerge"
-      },
-      {
-        "title": "OpenAI keeps bulldozing mathematicians",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1001477/openai-math-advisory-group",
-        "pubDate": "2026-09-28T13:00:00-04:00",
-        "description": "In a chaotic few months, OpenAI has demonstrated it can do two things with remarkable consistency: make impressive breakthroughs in mathematics, then colossally screw up announcing them. OpenAI is now trying to do better. Somehow, it has botched that",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Walmart won’t hike prices based on your shopping history, CEO says",
-        "link": "https://www.theverge.com/tech/1001492/walmart-dynamic-pricing-digital-shelf-labels",
-        "pubDate": "2026-09-28T12:44:57-04:00",
-        "description": "Walmart says it won't change product prices based on your personal information or the time of day, as reported earlier by The Wall Street Journal. In a letter to customers, Walmart CEO John Furner writes that the company's switch to digital shelf lab",
         "source": "TheVerge"
       }
     ],
