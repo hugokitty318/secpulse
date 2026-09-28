@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-27T23:56:50.386226Z",
+  "ts": "2026-09-28T05:17:08.938292Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OpenAI代理人再涉及美國政府、公開資料網站存取事件",
+        "link": "https://www.ithome.com.tw/news/179241",
+        "pubDate": "2026-09-28 12:34",
+        "description": "OpenAI揭露研究代理人在內部測試期間，曾非預期存取美國SEC、普查局等政府網站，並已通知數十家受影響組織。研究機構Transluce也發現疑似OpenAI代理人的活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "四大作業系統檔案通知存在側通道風險，Windows、Android可暴露更多使用資訊",
+        "link": "https://www.ithome.com.tw/news/179240",
+        "pubDate": "2026-09-28 12:04",
+        "description": "四大作業系統的檔案通知都可能洩漏操作線索，低權限程式無須讀取檔案內容，也能推測按鍵時序、網站瀏覽與WhatsApp媒體活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MIND募資7,200萬美元，以AI代理強化企業資料外洩防護",
+        "link": "https://www.ithome.com.tw/news/179209",
+        "pubDate": "2026-09-28 08:00",
+        "description": "MIND的DLP平臺涵蓋端點、SaaS、生成式AI及AI代理等環境，並推出MIND AI DLP Agents，由AI代理處理資料分類、DLP政策管理及事件調查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "亞太地區勒索軟體事件月增近27%，臺灣事件數排名第三",
+        "link": "https://www.ithome.com.tw/news/179235",
+        "pubDate": "2026-09-28 08:00",
+        "description": "亞太勒索軟體活動升溫，8月事件數較前月增加近27%，臺灣排名第三。最活躍的勒索軟體組織The Gentlemen也有6起事件涉及臺灣",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google AI付費方案新增Colab進階權益",
+        "link": "https://www.ithome.com.tw/news/179239",
+        "pubDate": "2026-09-28  10:09:47",
+        "description": "Google上週宣布Google AI付費訂閱方案新增Colab進階權益，符合資格的訂戶可取得Colab運算單元，以及效能更高的GPU、TPU等運算資源。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟新Copilot整合Cowork、Office，Scout改名Autopilot",
+        "link": "https://www.ithome.com.tw/news/179238",
+        "pubDate": "2026-09-28  10:09:10",
+        "description": "微軟上周五宣布AI聊天助理Copilot將整合代理人工具Cowork、Office及程式開發功能，朝超級App更進一步，也允許企業在自管環境運行代理人runtime。長時在線（always-on）的代理人則改名Autopilot再出發。",
+        "source": "iThome"
+      },
+      {
+        "title": "Android Studio開放BYOA，Codex等代理可透過ACP串接IDE",
+        "link": "https://www.ithome.com.tw/news/179232",
+        "pubDate": "2026-09-28  10:09:09",
+        "description": "Google替Android Studio加入自帶代理（Bring Your Own Agent，BYOA）功能，開發者可將Anthropic Claude Agent、OpenAI Codex與Google Antigravity等程式開發代理串接Android Studio。BYOA採用代理用戶端協定（ACP），符合ACP規格的其他代理同樣可以串接，並使用Android Studio提供的專案資訊與開發工具。",
+        "source": "iThome"
+      },
       {
         "title": "簡化M365組態與資安防護，網達先進推微軟雲端服務代管方案",
         "link": "https://www.ithome.com.tw/review/179236",
@@ -91,55 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179215",
         "pubDate": "2026-09-24 15:25",
         "description": "本週Next.js發布緊急更新，修補重大等級的資安漏洞CVE-2026-94545，該弱點與ImageResponse元件採用的程式庫Satori有關，CVSS v4.0嚴重程度評為9.5分",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月24日，OpenAI代理人也駭進澳洲政府網站",
-        "link": "https://www.ithome.com.tw/news/179213",
-        "pubDate": "2026-09-24 14:49",
-        "description": "OpenAI研究團隊使用AI代理人查找澳洲藥品支出資料時，多次遭政府網站阻擋，AI代理人卻自行尋找其他方法繞過限制，未經授權存取Medicare統計網站，甚至在內部伺服器寫入檔案",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI代理人也駭進了澳洲政府網站",
-        "link": "https://www.ithome.com.tw/news/179208",
-        "pubDate": "2026-09-24 12:37",
-        "description": "OpenAI研究團隊使用AI代理人查找澳洲藥品支出資料時，多次遭政府網站阻擋，AI代理人卻自行尋找其他方法繞過限制，未經授權存取Medicare統計網站，甚至在內部伺服器寫入檔案",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客UTA0565架設假網站，加入使用BlueMoon工具包的行列",
-        "link": "https://www.ithome.com.tw/news/179207",
-        "pubDate": "2026-09-24 12:34",
-        "description": "資安公司Volexity揭露中國駭客UTA0565最新一波攻擊，他們架設假網站，並搭配零時差漏洞CVE-2026-85046、CVE-2026-87491，以及CVE-2026-85880，攻擊亞洲政府機關",
-        "source": "iThome資安"
-      },
-      {
-        "title": "外界關注ShinyHunters竊得FBI資料，路透社最新揭露其中包含負責中俄情報業務的機密人員個資",
-        "link": "https://www.ithome.com.tw/news/179206",
-        "pubDate": "2026-09-24 12:33",
-        "description": "5,000筆外洩資料樣本包含負責中國、俄羅斯及販毒集團等敏感目標的相關工作人員資訊，FBI仍在調查資料外洩原因",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客用3套AI工具大規模攻擊電商，竊取超過60萬筆信用卡資料",
-        "link": "https://www.ithome.com.tw/news/179205",
-        "pubDate": "2026-09-24 12:26",
-        "description": "駭客結合3套AI工具大規模攻擊電商，6天啟動105個攻擊專案，至少27家公司遭入侵，兩家受害企業另有逾60萬筆有效信用卡資料遭竊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "D-Link警告路由器DIR-822A存在近乎滿分的零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/179202",
-        "pubDate": "2026-09-24 11:41",
-        "description": "近日D-Link發布資安公告指出，他們著手調查路由器DIR-822A重大漏洞CVE-2026-86296與CVE-2026-86510，並呼籲用戶在他們完成相關調查前，應避免將路由器曝露在網際網路",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress路徑遍歷漏洞揭露當天即出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/179201",
-        "pubDate": "2026-09-24 11:30",
-        "description": "資安公司Patchstack在WordPress揭露CVE-2026-87902當天，發現探測網站是否存在弱點的活動，事隔一天，已有嘗試執行Shell命令的情形",
         "source": "iThome資安"
       }
     ],
@@ -485,17 +485,17 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Truecaller takes its scam intelligence to the open web as it looks beyond caller ID",
+        "link": "https://techcrunch.com/2026/09/27/truecaller-takes-its-scam-intelligence-to-the-open-web-as-it-looks-beyond-caller-id/",
+        "pubDate": "Mon, 28 Sep 2026 04:30:00 +0000",
+        "description": "Truecaller finds a new way to reach users as pressure grows on its traditional caller ID business in India, its biggest market.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
         "link": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/",
         "pubDate": "Fri, 25 Sep 2026 23:11:10 +0000",
         "description": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Automattic has a new board after failed attempt to put CEO on leave",
-        "link": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
-        "pubDate": "Fri, 25 Sep 2026 23:04:34 +0000",
-        "description": "After days of upheaval at Automattic, following a failed attempt to remove CEO Matt Mullenweg, the company has a new board.",
         "source": "TechCrunch"
       },
       {
@@ -606,16 +606,6 @@
         "products": "Cisco Products"
       },
       {
-        "title": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access",
-        "link": "https://www.hkcert.org/blog/internet-edge-devices-remain-targets-for-hackers-patching-alone-cannot-stop-credential-theft-or-persistent-access",
-        "pubDate": "Tue, 15 Sep 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] Internet-edge Devices Remain Targets for Hackers: Patching Alone Cannot Stop Credential Theft or Persistent Access"
-      },
-      {
         "title": "WordPress Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/wordpress-remote-code-execution-vulnerability_20260924",
         "pubDate": "Thu, 24 Sep 2026 11:00:00 +0800",
@@ -634,6 +624,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Mozilla Products"
+      },
+      {
+        "title": "Citrix Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260928",
+        "pubDate": "Mon, 28 Sep 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Citrix Products"
       },
       {
         "title": "F5 BIG-IP Denial of Service Vulnerability",
