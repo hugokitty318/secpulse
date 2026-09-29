@@ -1,7 +1,56 @@
 {
-  "ts": "2026-09-29T05:38:29.580478Z",
+  "ts": "2026-09-29T11:34:02.248820Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "歐盟ENISA示警數位依賴正削弱資安韌性，供應鏈、雲端與第三方服務持續遭鎖定",
+        "link": "https://www.ithome.com.tw/news/179268",
+        "pubDate": "2026-09-29 16:44",
+        "description": "歐盟網路安全局（ENISA）9月22日發布最新年度威脅情勢報告指出，2025年的多起事件顯示，供應鏈、第三方服務與雲端環境持續成為高價值攻擊目標，突顯日益緊密的數位依賴關係正進一步擴大受攻擊面",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ShinyHunters二度大規模鎖定Oracle PeopleSoft發動攻擊，突破WAF偵測機制部署後續工具",
+        "link": "https://www.ithome.com.tw/news/179269",
+        "pubDate": "2026-09-29 16:30",
+        "description": "Google針對ShinyHunters（UNC6240）的攻擊活動提出警告，這些駭客再度利用企業應用系統平臺Oracle PeopleSoft資安漏洞CVE-2026-35273，於全球數十套系統植入Webshell，進一步部署後門程式SideEye與遠端管理工具MeshAgent",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月29日，OpenAI代理人為取得聯合國資料，自主繞過網站限制",
+        "link": "https://www.ithome.com.tw/news/179265",
+        "pubDate": "2026-09-29 14:47",
+        "description": "研究人員揭露疑似OpenAI的AI代理為取得聯合國貿易和發展會議（UNCTAD）公開資料，在正常存取受阻後，仍陸續透過代理服務、改變網址格式等方法繞過限制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix NetScaler重大漏洞在修補之前已遭到利用",
+        "link": "https://www.ithome.com.tw/news/179264",
+        "pubDate": "2026-09-29 14:35",
+        "description": "有IT人員透露，他們上週末接獲IT服務供應商的資安團隊電話，建議立即關閉NetScaler系統，威脅情報公司watchTowr證實，有兩個當時尚未修補的遠端程式碼執行（RCE）漏洞被用於實際攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業威脅獵捕最大難題轉變，SANS指出資料問題首度超越人才不足",
+        "link": "https://www.ithome.com.tw/news/179263",
+        "pubDate": "2026-09-29 14:30",
+        "description": "企業威脅獵捕出現新態勢，主要障礙正從人才不足轉向資料問題，資料品質與數量首度成為最大挑戰；同時，雲端也被視為最難進行威脅獵捕的環境，企業評估獵捕成效的成熟度也出現下滑",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Nvidia替AI代理加入Sentry硬體安全監控，透過BlueField-4隔離越權代理",
+        "link": "https://www.ithome.com.tw/news/179260",
+        "pubDate": "2026-09-29 13:53",
+        "description": "Nvidia發布Open Agent Safety Platform，加入執行於BlueField-4資料處理器的Sentry安全監控機制，從主機之外監看AI代理活動，並可從硬體層隔離並停止代理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix修補NetScaler一系列資安漏洞，其中包含兩個已遭利用的重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179259",
+        "pubDate": "2026-09-29 13:34",
+        "description": "Citrix警告旗下NetScaler ADC與Gateway存在8個資安漏洞，並指出其中兩個重大漏洞CVE-2026-88771與CVE-2026-88772已被用於實際攻擊，呼籲用戶儘速檢查系統是否遭到入侵，並套用相關更新",
+        "source": "iThome資安"
+      },
       {
         "title": "美國CISA警告Citrix NetScaler重大漏洞遭積極利用",
         "link": "https://www.ithome.com.tw/news/179258",
@@ -10,10 +59,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "新加坡電信商SIMBA遭駭，逾2.3萬名用戶個資外洩",
+        "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
         "link": "https://www.ithome.com.tw/news/179257",
         "pubDate": "2026-09-29 12:54",
-        "description": "SIMBA於9月24日發現遭到入侵，外洩資料包括身分證號碼、生日、手機及電子郵件等用戶個資",
+        "description": "Simba於9月24日發現遭到入侵，外洩資料包括身分證號碼、生日、手機及電子郵件等用戶個資",
         "source": "iThome資安"
       },
       {
@@ -59,77 +108,56 @@
         "source": "iThome資安"
       },
       {
-        "title": "Apple緊急修補疑遭利用的iOS/iPadOS與macOS圖形處理框架高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/179250",
-        "pubDate": "2026-09-29 11:12",
-        "description": "圖形處理框架CoreGraphics存在可能導致執行任意程式碼問題，Apple警告此漏洞可能已被用於針對特定個人的攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告SharePoint程式碼注入漏洞遭到利用",
-        "link": "https://www.ithome.com.tw/news/179249",
-        "pubDate": "2026-09-29 10:39",
-        "description": "美國網路安全與基礎設施安全局（CISA）表示，已掌握SharePoint程式碼注入漏洞CVE-2026-65660遭積極利用，聯邦機構需在3天內緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "電商平臺Magento、中介軟體WSO2重大漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179247",
-        "pubDate": "2026-09-29 10:07",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，電商平臺Adobe Commerce與Magento漏洞CVE-2026-71362、中介軟體WSO2漏洞CVE-2026-5430遭積極利用，聯邦機構需緊急完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cyera今年募資達14億美元，擴展AI代理與非人類身分安全",
-        "link": "https://www.ithome.com.tw/news/179203",
-        "pubDate": "2026-09-29 08:00",
-        "description": "Cyera今年加碼AI代理安全，並以10億美元併購Oasis Security，納入非人類身分管理能力，進一步控管AI代理及其他非人類身分的資料與系統存取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Honeywell警示企業OT資安仍有缺口，僅2成擁有完整資產清冊、3成完整整合SOC",
-        "link": "https://www.ithome.com.tw/news/179223",
-        "pubDate": "2026-09-29 08:00",
-        "description": "Honeywell調查603名關鍵基礎設施產業資安及營運人員，發現只有21%受訪組織擁有完整OT資產清冊，33%已將OT完整整合至企業資安維運中心（SOC）。而曾發生OT資安事件的組織，最嚴重事件平均造成16.2小時停機",
-        "source": "iThome資安"
-      },
-      {
-        "title": "NIST公布OT安全指南草案，CISA與FBI示警第三方ICS整合商風險",
-        "link": "https://www.ithome.com.tw/news/179234",
-        "pubDate": "2026-09-29 08:00",
-        "description": "NIST新版OT安全指南草案改以網路安全框架CSF 2.0重新編排，增加零信任原則等安全架構內容。CISA與FBI則示警第三方ICS整合商遭入侵，可能讓客戶OT環境資訊面臨風險，呼籲業者加強第三方存取控管",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟網路安全局盤點2025年資安威脅，逾半事件涉及DDoS，勒索軟體衝擊最大",
-        "link": "https://www.ithome.com.tw/news/179211",
-        "pubDate": "2026-09-29 08:00",
-        "description": "歐盟2025年資安事件以DDoS最為常見，逾半事件都涉及這類攻擊，不過對組織造成短期衝擊最大的仍是勒索軟體",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitHub讓AI代理接手模糊測試，可依覆蓋率自動補測未觸及程式碼",
-        "link": "https://www.ithome.com.tw/news/179245",
-        "pubDate": "2026-09-29  12:09:47",
-        "description": "GitHub Security Lab開源Fuzzing Taskflow，可將大型語言模型代理與AFL++模糊測試工具串成自動化管線。開發者指定C/C++專案的GitHub儲存庫後，代理會找出適合測試的函式、分析建置方式、產生模糊測試程式並執行AFL++，再依程式覆蓋率修改測試程式或測試輸入，程式崩潰分析與漏洞報告也納入流程。GitHub提醒，漏洞判斷與修補內容仍須人工審查。",
+        "title": "從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展",
+        "link": "https://www.ithome.com.tw/news/179272",
+        "pubDate": "2026-09-29  06:09:21",
+        "description": "過去數十年的網路發展的核心目標都在如何讓資料傳輸更快、更穩定，從寬頻、行動網路到5G，技術演進大多圍繞頻寬、延遲與連線能力提升。但隨著生成式AI、AI Agent及自主系統快速發展，未來網路面臨的新挑戰，不只是「如何傳送更多資料」，而是如何支援AI模型運算、讓分散在雲端、資料中心與邊緣端的算力有效協同。\n工研院資訊與通訊研究所所長丁邦安在今天(9/29)舉行的2026 ITRI ICT TechDay中指出，面對全球AI能力與生產力快速提升，次世代通訊正迎來由「Bit」向「Token」轉型的新階",
         "source": "iThome"
       },
       {
-        "title": "建置自動化工具Gradle 9.8支援Java 27，新增Maven鏡像設定並改善建置錯誤定位",
-        "link": "https://www.ithome.com.tw/news/179244",
-        "pubDate": "2026-09-29  12:09:15",
-        "description": "Gradle團隊發布建置自動化工具Gradle 9.8，加入Java 27支援，也讓Gradle能採用Maven既有的套件儲存庫鏡像設定。新版還改善建置錯誤顯示，開發者可從支援超連結的終端機開啟發生問題的原始碼位置。",
+        "title": "Cloudflare推出JavaScript開發工具鏈Vite+ 1.0，整合建置、測試與程式檢查",
+        "link": "https://www.ithome.com.tw/news/179271",
+        "pubDate": "2026-09-29  05:09:43",
+        "description": "Cloudflare旗下VoidZero發布JavaScript開發工具Vite+ 1.0，將Vite 8、Vitest 5、Rolldown、Oxlint、Oxfmt與任務快取整合在同一套工具中，涵蓋開發伺服器、建置、測試、程式碼檢查與格式整理。Vite+可把多項開發工具的設定集中到vite.config.ts，降低前端專案分別維護多套工具與設定檔的負擔。",
         "source": "iThome"
       },
       {
-        "title": "AMD斥資82億美元併購李飛飛創辦的World Labs，布局空間智慧AI",
-        "link": "https://www.ithome.com.tw/news/179256",
-        "pubDate": "2026-09-29  12:09:11",
-        "description": "AMD周一（9/28）宣布，已簽署最終協議，將以全股票交易併購由李飛飛創辦的AI研究公司World Labs，交易價值約82億美元，預計於今年底前完成。李飛飛將在交易完成後出任AMD執行副總裁暨首席科學家，直接向執行長蘇姿丰報告。",
+        "title": "Manus 2.0登場，同步推出讓AI代理人擁有信箱、電話與錢包的Cue程式",
+        "link": "https://www.ithome.com.tw/news/179270",
+        "pubDate": "2026-09-29  04:09:28",
+        "description": "AI新創Manus周一（9/28）發表了Manus 2.0，這是該團隊所開發的新版代理人產品，採用全新代理人框架Cascade，具備更好的效能，並升級影片編輯、遊戲開發及自動化等功能。同時推出獨立程式Cue，讓使用者建立擁有專屬電子郵件、電話號碼、錢包及電腦的AI代理人。",
+        "source": "iThome"
+      },
+      {
+        "title": "Shopify讓WebMCP進入結帳流程，AI代理可在使用者確認後下單",
+        "link": "https://www.ithome.com.tw/news/179266",
+        "pubDate": "2026-09-29  03:09:26",
+        "description": "Shopify替符合資格的商家加入WebMCP結帳支援，瀏覽器中的AI代理能讀取結帳內容、修改收件地址、配送方式與折扣，並在買家確認購買後送出訂單。Shopify先前已讓WebMCP處理商品搜尋與購物車，新增結帳支援後，AI代理可以從找商品一路協助到完成訂單。\nWebMCP讓網站把AI代理能使用的功能，以固定格式提供給瀏覽器，因此AI代理就不用反覆擷取畫面、讀取網頁內容、尋找欄位再模擬點擊。Shopify在結帳頁提供讀取、更新與完成結帳3類工具，AI代理能取得商品、總額、配送選項，以及尚缺少的資",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta成立企業AI平臺，整合Muse等工具進軍企業市場",
+        "link": "https://www.ithome.com.tw/news/179262",
+        "pubDate": "2026-09-29  02:09:34",
+        "description": "Meta周一（9/28）宣布成立Meta Enterprise Platform，計畫將Muse代理人、Meta Business Agent、Muse API及Muse Code等技術提供給企業與開發者，協助企業運用AI拓展業務。Meta並延攬MongoDB前執行長Chirantan CJ Desai擔任企業平臺長，直接向執行長祖克柏（Mark Zuckerberg）報告。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 機器人平台戰從晶片打到開源生態，高通買下 PickNik 背後在爭什麼？",
+        "link": "https://techorange.com/2026/09/29/qualcomm-to-acquire-picknik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 29 Sep 2026 17:11:05 +0800",
+        "description": "AI 機器人平台戰正從晶片效能，打到開發者用哪套工具、最後部署在哪個運算平台。NVIDIA 在 9/22 才更新旗下機器人軟體套件 Isaac ROS 5.0，持續加深機器人作業系統（Robot Operating System，ROS）2 與自家 GPU、AI 開發工具的整合；隔天，高通就宣布收購開源機器人操作框架 MoveIt 背後的 PickNik Robotics。 從 AI 模型到實體動作，高通補上規劃與控制軟體 PickNik 的價值，可以先從機器人真正部署時的落差來看。PickNi",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI 新模型喊卡、NVIDIA 集結百家企業：AI Agent 安全為何不再只靠對齊？",
+        "link": "https://techorange.com/2026/09/29/openai-nvidia-gpt-6-open-agent-safety-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 29 Sep 2026 13:58:05 +0800",
+        "description": "9/28，一群來自彼此競爭的前沿 AI 公司與學界研究者罕見共同呼籲，政府應開始掌握 AI 公司究竟把多少研發工作交給 AI 自動完成。同一天，OpenAI 因安全測試未過關，取消原定 10 月推出的新模型 GPT-6.1 Astra；NVIDIA 則發布 Open Agent Safety Platform（開放代理安全平台），把 AI Agent（AI 代理）的安全防線從模型本身延伸到軟體執行環境與硬體層。 三件事情幾乎同時發生，也突顯 AI 代理安全思路正出現一個重要轉變。過去業界大量投入",
+        "source": "TechOrange"
+      },
       {
         "title": "AMD 將以 82 億美元收購李飛飛 World Labs：搶進「實體 AI」，正面對決 NVIDIA",
         "link": "https://techorange.com/2026/09/29/amd-acquire-fei-fei-lis-world-labs-82-billion-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -215,20 +243,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "不靠漲價也能救毛利：AI 正把「菜單工程」變餐廳新財務槓桿",
-        "link": "https://techorange.com/2026/09/24/ai-menu-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 06:33:00 +0800",
-        "description": "通膨蔓延、食材成本劇增與人力短缺，正讓餐飲業的營運數學變得空前艱難。過往業者習慣將「調漲售價」視為拆解成本危機的萬靈丹，然而根據餐飲管理軟體平台 Craftable 的資料，自疫情爆發以來，餐飲價格已累計攀升超過 30%，消費者的價格敏感度已逼近臨界點，繼續盲目漲價只會引發顧客流失。面對價格上漲空間封頂的窘境，Craftable 產品經理 Henry Escobar 指出，業者已無法單靠轉嫁成本來守住毛利，而是必須將目光轉向餐廳最重要的財務槓桿：菜單。 菜單瘦身：精減 SKU 釋放廚房與供應鏈壓",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】Meta 測試 AI 助理通話由真人接手，OpenAI、Anthropic 同日推低價模型",
-        "link": "https://techorange.com/2026/09/24/meta-muse-ai-assistant-human-call-test/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Meta 測試真人接手 AI 助理通話，因告知不足暫停 Meta 的 AI 助理 Muse 可依使用者指示致電商家，處理訂位、詢價及查詢商品等事項。《路透》查閱 Meta 內部貼文發現，公司曾在員工測試中，讓真人承包人員接手部分由 Muse 發起的電話。部分員工擔心，如果沒有清楚告知執行方式，承包人員可能在通話中接觸使用者的敏感資訊。Muse 上線時強調代理工作的隔離措施，真人參與通話的安排也因此受到員工質疑。 《路透》報導，Meta 一名主管",
-        "source": "TechOrange"
-      },
-      {
         "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
         "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 26 Sep 2026 06:29:00 +0800",
@@ -237,6 +251,48 @@
       }
     ],
     "en_sec": [
+      {
+        "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
+        "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
+        "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530",
+        "description": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group Shiny",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+        "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
+        "pubDate": "Tue, 29 Sep 2026 11:38:25 +0530",
+        "description": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.\n\nAffected versions sent the client ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
+        "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
+        "pubDate": "Tue, 29 Sep 2026 10:42:32 +0530",
+        "description": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wal",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+        "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
+        "pubDate": "Tue, 29 Sep 2026 10:15:20 +0530",
+        "description": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An ag",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Kiteworks patches critical flaw, brings customer systems online",
+        "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
+        "pubDate": "Tue, 29 Sep 2026 05:04:06 -0400",
+        "description": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
+        "pubDate": "Tue, 29 Sep 2026 03:33:12 -0400",
+        "description": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Apple Patches CoreGraphics Flaw Possibly Exploited in Targeted Attacks",
         "link": "https://thehackernews.com/2026/09/apple-patches-coregraphics-flaw.html",
@@ -284,48 +340,6 @@
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
         "pubDate": "Sun, 27 Sep 2026 09:38:40 -0400",
         "description": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials",
-        "link": "https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html",
-        "pubDate": "Sat, 26 Sep 2026 23:52:52 +0530",
-        "description": "The Psychedelic Stealer malware distributed via compromised Ukrainian websites using ClickFix-style Cloudflare verification checks is part of a wider malware-as-a-service (MaaS) platform called Lunex.\n\nThe new findings come from Ontinue, which descri",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells",
-        "link": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-        "pubDate": "Sat, 26 Sep 2026 17:16:40 +0530",
-        "description": "Google is warning of renewed mass exploitation of a known security vulnerability in Oracle PeopleSoft as part of a campaign targeting multiple sectors globally.\n\nThe ShinyHunters-linked activity involves the weaponization of CVE-2026-35273 (CVSS scor",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Zero Trust for AI Agents Starts With Fixing Zero Visibility",
-        "link": "https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html",
-        "pubDate": "Sat, 26 Sep 2026 16:00:00 +0530",
-        "description": "The way we talk about AI agents is shifting, and the way we implement them requires an even more fundamental shift. While earlier discourse focused on how quickly organizations could stand up agents and how much productivity they could promise, a str",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link",
-        "link": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-        "pubDate": "Sat, 26 Sep 2026 15:25:22 +0530",
-        "description": "Details have emerged about a high-severity security flaw in the Elementor Website Builder WordPress plugin that could be exploited by an unauthenticated attacker to create rogue administrator accounts and take control of a site.\n\nThe cross-site reque",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ShinyHunters uses WAF bypass trick in Oracle PeopleSoft attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-uses-waf-bypass-trick-in-oracle-peoplesoft-attacks/",
-        "pubDate": "Sat, 26 Sep 2026 15:03:34 -0400",
-        "description": "The ShinyHunters extortion gang is using a URL-encoding trick to bypass web application firewall rules that mitigate the Oracle PeopleSoft CVE-2026-35273 flaw, allowing the threat actors to resume widespread exploitation of a flaw on vulnerable serve",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Claude Opus 5.5 uses 95% fewer em dashes, but its answers are getting longer",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-opus-55-uses-95-percent-fewer-em-dashes-but-its-answers-are-getting-longer/",
-        "pubDate": "Sat, 26 Sep 2026 12:26:58 -0400",
-        "description": "Anthropic's Claude Opus 5.5 appears to be changing how it writes, with new analysis showing fewer obvious AI writing patterns, shorter sentences, and simpler wording compared with Opus 5. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -379,6 +393,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
+        "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
+        "pubDate": "Tue, 29 Sep 2026 10:00:00 +0000",
+        "description": "Protego Ventures, the first and largest dedicated defense tech VC in Israel, just completed its final $125 million closing, TechCrunch learned exclusively.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ex-Tesla team raises $12.5M to put supply chains on autopilot",
+        "link": "https://techcrunch.com/2026/09/29/ex-tesla-team-raises-12-5m-to-put-supply-chains-on-autopilot/",
+        "pubDate": "Tue, 29 Sep 2026 09:00:00 +0000",
+        "description": "Atomic's agentic supply chain software is now being used by companies like DoorDash and HelloFresh.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
         "link": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
@@ -471,18 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
-        "link": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
-        "pubDate": "Mon, 28 Sep 2026 16:52:38 +0000",
-        "description": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The iPhone Duo may already have its first killer app: a virtual Walkman",
-        "link": "https://techcrunch.com/2026/09/28/the-iphone-duo-may-already-have-its-first-killer-app-a-virtual-walkman/",
-        "pubDate": "Mon, 28 Sep 2026 16:47:49 +0000",
-        "description": "The app imitates how Walkmans used to function: You can open up the Duo to pick your music and \"insert\" your cassette tape, then close the device shut to start listening.",
-        "source": "TechCrunch"
+        "title": "Your car’s data privacy problems are worse than you think",
+        "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
+        "pubDate": "2026-09-29T06:00:00-04:00",
+        "description": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how agg",
+        "source": "TheVerge"
       },
       {
         "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
@@ -510,13 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
         "pubDate": "2026-09-28T14:45:00-04:00",
         "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Trump finalizes rule to make cars less fuel efficient",
-        "link": "https://www.theverge.com/news/1001610/trump-weakens-fuel-efficiency-standards",
-        "pubDate": "2026-09-28T14:39:50-04:00",
-        "description": "The US Department of Transportation finalized its plans today to weaken fuel efficiency standards, calling it \"among the largest deregulatory actions under the second Trump Administration.\" It's a nail in the coffin for Biden-era standards that would",
         "source": "TheVerge"
       }
     ],
