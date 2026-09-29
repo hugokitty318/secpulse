@@ -1,7 +1,14 @@
 {
-  "ts": "2026-09-29T11:34:02.248820Z",
+  "ts": "2026-09-29T17:00:25.032896Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "日本京王線、東京地鐵營運業者分別遭網路攻擊",
+        "link": "https://www.ithome.com.tw/news/179282",
+        "pubDate": "2026-09-29 22:14",
+        "description": "京王電鐵遭勒索軟體攻擊，部分系統受到影響；東京地下鐵會員服務則遭未授權存取，約5.9萬筆會員電子郵件地址可能遭第三方閱覽或取得",
+        "source": "iThome資安"
+      },
       {
         "title": "歐盟ENISA示警數位依賴正削弱資安韌性，供應鏈、雲端與第三方服務持續遭鎖定",
         "link": "https://www.ithome.com.tw/news/179268",
@@ -101,13 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "駭客利用SharePoint漏洞CVE-2026-65660發動兩階段攻擊，企圖部署Webshell",
-        "link": "https://www.ithome.com.tw/news/179251",
-        "pubDate": "2026-09-29 11:17",
-        "description": "9月24日資安公司Previdian發現有人嘗試利用SharePoint程式碼注入漏洞CVE-2026-65660的跡象，並指出攻擊者嘗試串連另一個弱點來達到目的，並於SharePoint植入Webshell後門",
-        "source": "iThome資安"
-      },
-      {
         "title": "從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展",
         "link": "https://www.ithome.com.tw/news/179272",
         "pubDate": "2026-09-29  06:09:21",
@@ -144,6 +144,13 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 瘋狂爬網站不點擊廣告：Cloudflare 示警流量 5 年恐衝千倍，這筆帳誰來付？",
+        "link": "https://techorange.com/2026/09/29/cloudflare-matthew-prince-google-zero-ai-web-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 29 Sep 2026 18:04:24 +0800",
+        "description": "AI 機器人正在快速改變網路流量結構，也可能迫使維繫網路數十年的廣告商業模式重新洗牌。Cloudflare 共同創辦人暨 CEO Matthew Prince 近日接受《The Verge》Decoder 專訪時表示，Cloudflare 今年 6 月觀察到，非人類流量已經占網路流量超過一半；若目前趨勢持續，未來 5 年自動化流量甚至可能達到人類流量的 1,000 倍。 《The Next Web》補充，Cloudflare 目前位居全球超過 20% 的網路流量前端，能直接觀察大量網站的流量變化",
+        "source": "TechOrange"
+      },
       {
         "title": "AI 機器人平台戰從晶片打到開源生態，高通買下 PickNik 背後在爭什麼？",
         "link": "https://techorange.com/2026/09/29/qualcomm-to-acquire-picknik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -236,13 +243,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "人形機器人短期內仍趕不上人類工人：操控、泛化、安全性卡住實際運用",
-        "link": "https://techorange.com/2026/09/24/the-limit-of-humanoid-ai-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 09:13:56 +0800",
-        "description": "人形機器人已經足以取代人類勞動力了嗎？當代 AI 機器人確實能夠完成艱難的特技動作，但反過來說像拿起可樂、剝橘子等簡單任務，對於人形機器人卻非常困難。",
-        "source": "TechOrange"
-      },
-      {
         "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
         "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 26 Sep 2026 06:29:00 +0800",
@@ -252,11 +252,32 @@
     ],
     "en_sec": [
       {
+        "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
+        "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
+        "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530",
+        "description": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the di",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
+        "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
+        "pubDate": "Tue, 29 Sep 2026 19:15:10 +0530",
+        "description": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
         "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
         "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530",
         "description": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group Shiny",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
+        "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
+        "pubDate": "Tue, 29 Sep 2026 11:39:19 -0400",
+        "description": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
@@ -278,6 +299,20 @@
         "pubDate": "Tue, 29 Sep 2026 10:15:20 +0530",
         "description": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An ag",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Catch threats before they escalate with real-time Identity Telemetry",
+        "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
+        "pubDate": "Tue, 29 Sep 2026 10:01:11 -0400",
+        "description": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it e",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
+        "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
+        "pubDate": "Tue, 29 Sep 2026 07:41:53 -0400",
+        "description": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Kiteworks patches critical flaw, brings customer systems online",
@@ -312,34 +347,6 @@
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
         "pubDate": "Sun, 27 Sep 2026 19:40:39 -0400",
         "description": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
-        "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-        "pubDate": "Sun, 27 Sep 2026 13:17:57 +0530",
-        "description": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affe",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
-        "pubDate": "Sun, 27 Sep 2026 12:02:37 -0400",
-        "description": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
-        "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
-        "pubDate": "Sun, 27 Sep 2026 10:13:31 -0400",
-        "description": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
-        "pubDate": "Sun, 27 Sep 2026 09:38:40 -0400",
-        "description": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -383,16 +390,79 @@
         "pubDate": "Mon, 28 Sep 2026 17:16:00 +0530",
         "description": "Cybersecurity researchers have disclosed details of a new botnet malware called Carbonato that's targeting exposed Docker daemons to deploy an open-source artificial intelligence (AI) agent framework called Hermes Agent.\n\n\"The implant installs the fr",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Japan's Keio confirms ransomware attack disrupted business systems",
-        "link": "https://www.bleepingcomputer.com/news/security/japans-keio-confirms-ransomware-attack-disrupted-business-systems/",
-        "pubDate": "Mon, 28 Sep 2026 16:56:47 -0400",
-        "description": "Keio Corporation (Keio), a major private railway operator in Japan, said its network was hit by a ransomware attack over the weekend, disrupting  some of its business systems. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Can a chatbot fix the government maze? The White House is about to find out",
+        "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
+        "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
+        "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
+        "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
+        "pubDate": "Tue, 29 Sep 2026 15:12:07 +0000",
+        "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "After losing his voice to cancer, this founder is building ‘glasses for voice’",
+        "link": "https://techcrunch.com/2026/09/29/after-losing-his-voice-to-cancer-this-founder-is-building-glasses-for-voice/",
+        "pubDate": "Tue, 29 Sep 2026 15:00:00 +0000",
+        "description": "Uhura Bionics, part of the Startup Battlefield 200 at TechCrunch Disrupt, wants to replace flat, robotics voice devices with one that carries emotions.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oura shelves its $2.2B IPO, citing ‘uncertainty’ in the market",
+        "link": "https://techcrunch.com/2026/09/29/oura-shelves-its-2-2b-ipo-citing-uncertainty-in-the-market/",
+        "pubDate": "Tue, 29 Sep 2026 14:56:55 +0000",
+        "description": "The postponement of the IPO will delay some of the company's plans for its proceeds from the IPO, as well as those of its shareholders.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox",
+        "link": "https://techcrunch.com/2026/09/29/with-dazzle-marissa-mayer-bets-your-camera-roll-has-more-info-on-your-life-than-your-inbox/",
+        "pubDate": "Tue, 29 Sep 2026 13:53:01 +0000",
+        "description": "Mayer argues that if a photo is worth a thousand words, your camera roll is worth millions. By analyzing all the photos stored on your phone, Dazzle claims to understand your hobbies, interests, food, and style preferences, how you like to spend thei",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is expanding its AI agent Muse to small businesses",
+        "link": "https://techcrunch.com/2026/09/29/meta-is-expanding-its-ai-agent-muse-to-small-businesses/",
+        "pubDate": "Tue, 29 Sep 2026 13:47:30 +0000",
+        "description": "The tech giant says the agent can help owners run their business and find new customers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Still running iOS 26? Update your iPhones, iPads and Macs for this urgent security fix",
+        "link": "https://techcrunch.com/2026/09/29/still-running-ios-26-update-your-iphones-ipads-and-macs-for-this-urgent-security-fix/",
+        "pubDate": "Tue, 29 Sep 2026 13:25:21 +0000",
+        "description": "Apple says the bug was used to attack \"specific targeted individuals\" running iOS 26, which the majority of Apple customers are still using.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fireflies adds dictation to its desktop notetaking apps",
+        "link": "https://techcrunch.com/2026/09/29/fireflies-adds-dictation-to-its-desktop-notetaking-apps/",
+        "pubDate": "Tue, 29 Sep 2026 13:00:00 +0000",
+        "description": "Fireflies said that it won't charge extra for the new dictation feature, which can be used with any desktop app.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+        "link": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+        "pubDate": "Tue, 29 Sep 2026 12:45:05 +0000",
+        "description": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reco raises $55M as AI agent security startups crowd the market",
+        "link": "https://techcrunch.com/2026/09/29/reco-raises-55m-as-ai-agent-security-startups-crowd-the-market/",
+        "pubDate": "Tue, 29 Sep 2026 12:30:00 +0000",
+        "description": "The round builds on a $30 million fundraise in February, taking the company's total funding to $140 million.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Protego Ventures closes debut $125 million fund for Israeli defense tech",
         "link": "https://techcrunch.com/2026/09/29/protego-ventures-closes-debut-125-million-fund-for-israeli-defense-tech/",
@@ -429,108 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Aurora CFO says 30,000 driverless trucks by 2030 isn’t as far-fetched as it sounds",
-        "link": "https://techcrunch.com/2026/09/28/aurora-cfo-says-30000-driverless-trucks-by-2030-isnt-as-far-fetched-as-it-sounds/",
-        "pubDate": "Mon, 28 Sep 2026 22:58:35 +0000",
-        "description": "Self-driving truck company Aurora laid out an audacious plan for 2030. Its CFO says its targets aren't aspirational.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation",
-        "link": "https://techcrunch.com/2026/09/28/source-inference-provider-modal-labs-closing-in-on-750m-round-at-15-75b-valuation/",
-        "pubDate": "Mon, 28 Sep 2026 21:29:18 +0000",
-        "description": "The new financing is expected to more than triples the AI infrastructure startup's valuation from just four months ago.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AMD will acquire Fei-Fei Li’s World Labs for $8.2 billion",
-        "link": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/",
-        "pubDate": "Mon, 28 Sep 2026 20:39:33 +0000",
-        "description": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Shopify opens checkout to browser-based AI agents",
-        "link": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
-        "pubDate": "Mon, 28 Sep 2026 19:33:57 +0000",
-        "description": "Shopify is expanding WebMCP support to checkout, allowing browser-based AI agents to update order details and complete purchases with a buyer’s authorization.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tesla delays Roadster 2 event again due to bad weather",
-        "link": "https://techcrunch.com/2026/09/28/tesla-delays-roadster-2-event-again-due-to-bad-weather/",
-        "pubDate": "Mon, 28 Sep 2026 19:27:27 +0000",
-        "description": "Tesla says the event \"can only be held outdoors,\" as it's expected to show the car flying in some form using SpaceX thrusters.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The AI boom took over Climate Week and not everyone is happy about it",
-        "link": "https://techcrunch.com/2026/09/28/the-ai-boom-took-over-climate-week-and-not-everyone-is-happy-about-it/",
-        "pubDate": "Mon, 28 Sep 2026 19:21:59 +0000",
-        "description": "Just like the rest of the U.S., data centers and AI are dividing climate tech founders and investors.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia launches new platform for reining in rogue AI agents",
-        "link": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/",
-        "pubDate": "Mon, 28 Sep 2026 18:31:23 +0000",
-        "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner",
-        "link": "https://techcrunch.com/2026/09/28/anthropic-releases-sonnet-5-5-which-it-calls-a-significantly-cheaper-faster-work-partner/",
-        "pubDate": "Mon, 28 Sep 2026 18:00:00 +0000",
-        "description": "Anthropic has released the newest version of its mid-range model, boasting faster response times and less token burn.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
-        "link": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
-        "pubDate": "Mon, 28 Sep 2026 17:29:50 +0000",
-        "description": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI still doesn’t seem to have a handle on all of its rogue AI activity",
-        "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-        "pubDate": "Mon, 28 Sep 2026 17:09:02 +0000",
-        "description": "On Friday, OpenAI published a new site devoted to “misalignment reports” and the breadth of the incidents is alarming.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Your car’s data privacy problems are worse than you think",
-        "link": "https://www.theverge.com/transportation/1001463/car-data-privacy-northeastern-study-honda-gm-ford",
-        "pubDate": "2026-09-29T06:00:00-04:00",
-        "description": "You hear it all the time: Modern cars are basically smartphones on wheels. And just like the phone in your pocket, the car in your driveway collects vast amounts of data - tracking where you drive, how fast you accelerate, how hard you brake, how agg",
+        "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
+        "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+        "pubDate": "2026-09-29T12:17:01-04:00",
+        "description": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every ori",
         "source": "TheVerge"
       },
       {
-        "title": "Nothing’s new flagship Headphone 1 Pro put you in the studio",
-        "link": "https://www.theverge.com/tech/1001797/nothings-headphone-1-pro-review",
-        "pubDate": "2026-09-28T21:00:00-04:00",
-        "description": "Nothing has been on a bit of an audio tear this year, releasing the solid Headphone A and the surprisingly good Ear 3A earbuds. The Headphone A released at $199, while the earbuds are under $100, leaving room for something fancier. That something is ",
+        "title": "Apple&#8217;s new CEO could change when it launches phones and laptops",
+        "link": "https://www.theverge.com/tech/1002107/apple-ceo-john-ternus-product-launch-strategy",
+        "pubDate": "2026-09-29T12:09:44-04:00",
+        "description": "John Ternus, Apple's new CEO, wants Apple to launch products more often than its usual splashy moments in the fall and the spring, according to a Bloomberg report detailing some of Ternus's initial plans for the company. Apple regularly holds iPhone ",
         "source": "TheVerge"
       },
       {
-        "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
-        "link": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
-        "pubDate": "2026-09-28T17:31:35-04:00",
-        "description": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr. Fei-Fei Li, in an all-stock deal worth approximately $8.2 billion. World Labs launched in 2024 and was valued at $1 billion in a matter ",
+        "title": "OpenAI DevDay 2026: The biggest news and announcements",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements",
+        "pubDate": "2026-09-29T12:00:00-04:00",
+        "description": "It’s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, starting with a live keynote featuring CEO Sam Altman. The company is teasing “20+ launches” with Altman saying that “we",
         "source": "TheVerge"
       },
       {
-        "title": "Bose starts adding Auracast to its headphones",
-        "link": "https://www.theverge.com/tech/1001522/bose-headphones-get-auracast-support",
-        "pubDate": "2026-09-28T15:31:24-04:00",
-        "description": "A new firmware update for the $449 Bose QuietComfort Ultra Headphones Gen 2 adds support for Bluetooth LE Audio and Auracast as beta features. The flagship Ultra headphones are the first from Bose to support the audio sharing technology, which the co",
+        "title": "This might be our first look at Google’s Pixel 11A",
+        "link": "https://www.theverge.com/tech/1002072/google-pixel-11a-leaked-renders-first-look",
+        "pubDate": "2026-09-29T11:57:10-04:00",
+        "description": "Google isn't making any significant design changes to its upcoming midrange Pixel update, judging by the leaks shared by Android Headlines. The image renders made by OnLeaks are potentially our first look at the Pixel 11A, which aside from having a s",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI’s AI agents need to catch up",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1001590/openai-devday-2026-aeon-ai-agent",
-        "pubDate": "2026-09-28T14:45:00-04:00",
-        "description": "OpenAI popularized the modern generative AI chatbot, but as its 2026 DevDay event approaches, it's fallen behind in one of the industry's hottest categories: continuously running, consumer-facing AI agents. On Tuesday, it will likely try to capture t",
+        "title": "Leaked images reveal new colors for Amazon’s next entry-level Kindle",
+        "link": "https://www.theverge.com/tech/1001905/amazon-leak-basic-entry-level-kindle-colors-design-power-button",
+        "pubDate": "2026-09-29T10:10:50-04:00",
+        "description": "Amazon typically introduces new Kindle models a few months ahead of the holiday shopping season, and this year it looks like that will include a bigger update to the entry-level Kindle than what debuted in 2024. The last upgrades to the basic Kindle ",
         "source": "TheVerge"
       }
     ],
