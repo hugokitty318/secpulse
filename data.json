@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-30T13:00:36.258689Z",
+  "ts": "2026-09-30T18:25:32.943207Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,6 +245,34 @@
     ],
     "en_sec": [
       {
+        "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
+        "pubDate": "Wed, 30 Sep 2026 22:16:29 +0530",
+        "description": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS sco",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
+        "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
+        "pubDate": "Wed, 30 Sep 2026 22:02:59 +0530",
+        "description": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering conten",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
+        "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
+        "pubDate": "Wed, 30 Sep 2026 20:54:54 +0530",
+        "description": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacke",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
+        "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
+        "pubDate": "Wed, 30 Sep 2026 20:30:15 +0530",
+        "description": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
         "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
         "pubDate": "Wed, 30 Sep 2026 17:28:00 +0530",
@@ -266,6 +294,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
+        "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
+        "pubDate": "Wed, 30 Sep 2026 14:08:34 -0400",
+        "description": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
         "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
         "pubDate": "Wed, 30 Sep 2026 13:54:35 +0530",
@@ -280,11 +315,39 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
+        "pubDate": "Wed, 30 Sep 2026 11:49:29 -0400",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
         "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
         "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530",
         "description": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-88772 (CVSS score",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
+        "pubDate": "Wed, 30 Sep 2026 10:46:40 -0400",
+        "description": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
+        "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
+        "pubDate": "Wed, 30 Sep 2026 10:01:11 -0400",
+        "description": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, ",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft to block Entra ID script injection attacks starting October",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
+        "pubDate": "Wed, 30 Sep 2026 09:37:15 -0400",
+        "description": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
@@ -320,210 +383,147 @@
         "pubDate": "Tue, 29 Sep 2026 22:50:08 +0530",
         "description": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft is rolling out Linux container support to WSL",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
-        "pubDate": "Tue, 29 Sep 2026 20:40:57 -0400",
-        "description": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
-        "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
-        "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530",
-        "description": "Kiteworks on Monday said it worked with federal intelligence authorities over the weekend as it identified and addressed a critical security vulnerability during the scheduled precautionary shutdown.\n\n\"During the shutdown, this activity led to the di",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "101 Malicious npm Packages Add Developers' WhatsApp Accounts to Groups Without Consent",
-        "link": "https://thehackernews.com/2026/09/101-malicious-npm-packages-add.html",
-        "pubDate": "Tue, 29 Sep 2026 19:15:10 +0530",
-        "description": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Signal adds encypted local backup support to iOS, desktop apps",
-        "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
-        "pubDate": "Tue, 29 Sep 2026 17:30:08 -0400",
-        "description": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
-        "link": "https://www.bleepingcomputer.com/news/security/custom-chatgpts-push-clickfix-attacks-to-deploy-rat-malware/",
-        "pubDate": "Tue, 29 Sep 2026 16:59:39 -0400",
-        "description": "Custom variants of OpenAI's ChatGPT promoted in sponsored Google results are directing unsuspecting users to malicious sites that use ClickFix attacks to deliver malware. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "FBI tells ShinyHunters members to turn themselves in after recent arrest",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-tells-shinyhunters-members-to-turn-themselves-in-after-recent-arrest/",
-        "pubDate": "Tue, 29 Sep 2026 16:09:55 -0400",
-        "description": "The FBI is warning members of the ShinyHunters extortion group to turn themselves in after Dutch police arrested a man the bureau described as one of the group's alleged leaders. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers exploit Citrix NetScaler zero-day to deploy web shells",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-citrix-netscaler-zero-day-to-deploy-web-shells/",
-        "pubDate": "Tue, 29 Sep 2026 14:37:12 -0400",
-        "description": "Cybersecurity firms say attackers exploited the Citrix NetScaler CVE-2026-88772 zero-day to deploy custom web shells and tunneling malware, gain root access, steal credentials, and spread into internal networks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Former US Air Force members sent to prison over BEC attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/former-us-air-force-members-sent-to-prison-over-bec-attacks/",
-        "pubDate": "Tue, 29 Sep 2026 14:09:39 -0400",
-        "description": "Two former members of the United States Air Force were sentenced to a combined 189 months in federal prison for their roles in a multi-year series of business email compromise (BEC) scams and phishing campaigns. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Dutch Police Arrest 24-Year-Old Amsterdam Man in ShinyHunters Investigation",
-        "link": "https://thehackernews.com/2026/09/dutch-police-arrest-24-year-old.html",
-        "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530",
-        "description": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group Shiny",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Charter Space raises $5M to bring insurance to the stars",
-        "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
-        "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
-        "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+        "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+        "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
+        "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
         "source": "TechCrunch"
       },
       {
-        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
-        "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
-        "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
-        "description": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which o",
+        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+        "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
+        "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
         "source": "TechCrunch"
       },
       {
-        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
-        "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
-        "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-        "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+        "title": "The ugly economics of consumer AI",
+        "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+        "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
+        "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
         "source": "TechCrunch"
       },
       {
-        "title": "Airbnb adds AI search, more social features",
-        "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
-        "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
-        "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
+        "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
+        "pubDate": "Wed, 30 Sep 2026 16:24:23 +0000",
+        "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple Pay finally launches in India after years on the sidelines",
-        "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-        "pubDate": "Wed, 30 Sep 2026 04:08:00 +0000",
-        "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+        "title": "DoorDash launches an AI agent you can text to order food",
+        "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
+        "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
+        "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
         "source": "TechCrunch"
       },
       {
-        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-        "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-        "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
-        "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
+        "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
+        "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
+        "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
         "source": "TechCrunch"
       },
       {
-        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
-        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
-        "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
-        "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "title": "Instinct’s new product recommendations are giving some users the ick",
+        "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
+        "pubDate": "Wed, 30 Sep 2026 15:56:28 +0000",
+        "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
         "source": "TechCrunch"
       },
       {
-        "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
-        "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
-        "pubDate": "Tue, 29 Sep 2026 22:18:35 +0000",
-        "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+        "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
+        "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
+        "pubDate": "Wed, 30 Sep 2026 15:26:02 +0000",
+        "description": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
         "source": "TechCrunch"
       },
       {
-        "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
-        "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
-        "pubDate": "Tue, 29 Sep 2026 21:51:36 +0000",
-        "description": "EliseAI raises $350M, doubles valuation in a year.",
+        "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
+        "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
+        "pubDate": "Wed, 30 Sep 2026 14:50:55 +0000",
+        "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intel",
         "source": "TechCrunch"
       },
       {
-        "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
-        "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
-        "pubDate": "Tue, 29 Sep 2026 21:20:12 +0000",
-        "description": "The company says it won't draw on the new debt facilities this year, as it has already planned at least $25 billion in capital expenditures.",
+        "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
+        "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
+        "pubDate": "Wed, 30 Sep 2026 14:32:03 +0000",
+        "description": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s latest features take direct aim at the app store model",
-        "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-        "pubDate": "Tue, 29 Sep 2026 20:15:47 +0000",
-        "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+        "title": "Instagram rolls out an AI video assistant for creators",
+        "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
+        "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+        "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
-        "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
-        "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
-        "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+        "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
+        "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardw",
         "source": "TechCrunch"
       },
       {
-        "title": "More Ways to Disrupt: New 2026 Side Events from KOTRA, WayFounder, Enterprise Ireland, SafetyWing + Descope",
-        "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
-        "pubDate": "Tue, 29 Sep 2026 18:48:03 +0000",
-        "description": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your ca",
+        "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
+        "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
+        "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
+        "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
         "source": "TechCrunch"
       },
       {
-        "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
-        "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
-        "pubDate": "Tue, 29 Sep 2026 18:35:00 +0000",
-        "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+        "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
+        "pubDate": "Wed, 30 Sep 2026 14:15:00 +0000",
+        "description": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
-        "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
-        "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
-        "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
+        "title": "WhatsApp adds new parental controls for teen accounts",
+        "link": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
+        "pubDate": "Wed, 30 Sep 2026 13:50:16 +0000",
+        "description": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
-        "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
-        "pubDate": "2026-09-30T09:00:16-04:00",
-        "description": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick A",
+        "title": "The AI Tamagotchis are coming",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
+        "pubDate": "2026-09-30T14:07:38-04:00",
+        "description": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar ",
         "source": "TheVerge"
       },
       {
-        "title": "Win cool gadgets we can’t keep because The Verge has ethics",
-        "link": "https://www.theverge.com/gadgets/1002523/today-im-toying-with-giveaway-free-gadgets",
-        "pubDate": "2026-09-30T09:00:00-04:00",
-        "description": "When people learn I work for The Verge, they inevitably ask: \"Do you get to keep the gadgets?\" Now that I film Today I'm Toying With, a video series where I share the joy of tech, I get that question more than ever. The answer is no, we don't keep th",
+        "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
+        "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
+        "pubDate": "2026-09-30T13:45:00-04:00",
+        "description": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the compan",
         "source": "TheVerge"
       },
       {
-        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
-        "pubDate": "2026-09-30T08:24:32-04:00",
-        "description": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment ",
+        "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
+        "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+        "pubDate": "2026-09-30T13:21:29-04:00",
+        "description": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several t",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
-        "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
-        "pubDate": "2026-09-30T08:00:00-04:00",
-        "description": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ult",
+        "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+        "pubDate": "2026-09-30T13:15:49-04:00",
+        "description": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
-        "link": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
-        "pubDate": "2026-09-30T08:00:00-04:00",
-        "description": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intended to make it easier to share ",
+        "title": "This blog could help you poop better",
+        "link": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
+        "pubDate": "2026-09-30T13:00:00-04:00",
+        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"I will explode your butthole with",
         "source": "TheVerge"
       }
     ],
