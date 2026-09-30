@@ -1,19 +1,103 @@
 {
-  "ts": "2026-09-30T00:45:09.945372Z",
+  "ts": "2026-09-30T06:39:23.637360Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "針對日前揭露的路由器DIR-822A重大漏洞，D-Link表示臺灣用戶不受影響",
+        "link": "https://www.ithome.com.tw/news/179306",
+        "pubDate": "2026-09-30 14:29",
+        "description": "D-Link針對近期揭露的路由器DIR-822A重大漏洞CVE-2026-86296、CVE-2026-86510進一步表示，此為新加坡專屬機種，未在其他國家銷售，臺灣用戶不受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "荷蘭警方逮捕疑似涉及參與駭客組織ShinyHunters嫌犯",
+        "link": "https://www.ithome.com.tw/news/179302",
+        "pubDate": "2026-09-30 13:11",
+        "description": "荷蘭警方於9月15日逮捕嫌犯並扣押內含大量證據的電子裝置，荷蘭警方與FBI正擴大調查其他ShinyHunters涉及案件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "JadePuffer借助AI代理攻擊Azure，微軟揭露兩起雲端資料破壞事件",
+        "link": "https://www.ithome.com.tw/news/179300",
+        "pubDate": "2026-09-30 12:23",
+        "description": "JadePuffer攻擊活動蔓延至雲端環境，利用遭入侵的服務主體自動偵察受害者應用環境，刪除Azure儲存帳戶等核心資源",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Amazon Corretto 27正式推出，支援TLS 1.3的後量子混合金鑰交換",
+        "link": "https://www.ithome.com.tw/news/179299",
+        "pubDate": "2026-09-30 12:04",
+        "description": "於9月17日開放下載的Amazon Corretto 27，納入JEP 527的規格，支援TLS 1.3 的後量子混合金鑰交換",
+        "source": "iThome資安"
+      },
+      {
+        "title": "針對網站遭受攻擊事故復原出現新進展，商周集團中秋節前宣布兩個網站重新上線",
+        "link": "https://www.ithome.com.tw/news/179298",
+        "pubDate": "2026-09-30 11:56",
+        "description": "上週末商周集團宣布，旗下的良醫健康網與alive兩個網站，經過深度檢測與測試之後，於中秋節前夕正式重新啟用，並透露目前該集團其他網站的復原情形",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla發布Firefox 157改版，修補近80個弱點",
+        "link": "https://www.ithome.com.tw/news/179297",
+        "pubDate": "2026-09-30 11:45",
+        "description": "本週Firefox 157正式推出，Mozilla基金會總共修補76個資安漏洞，並指出其中有一半是高風險等級，用戶應升級新版以緩解相關弱點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國五角大廈人事資料系統遭駭，逾300萬軍人個資外洩",
+        "link": "https://www.ithome.com.tw/news/179295",
+        "pubDate": "2026-09-30 11:19",
+        "description": "美國國防人力資料中心（DMDC）檔案共享系統遭未授權存取近9個月，外洩資料包括社會安全號碼及軍職資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "川普與OpenAI、Google等科技巨頭簽署AI安全協議，引進外部獨立稽核",
+        "link": "https://www.ithome.com.tw/news/179294",
+        "pubDate": "2026-09-30 11:16",
+        "description": "川普與Google、OpenAI、Meta等6家科技業者簽署AI安全協議。業者承諾在訓練及部署前沿AI模型時持續監控安全風險，設置內部安全團隊，並引進第三方獨立稽核，再由董事會獨立委員會監督改善",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google為Chrome 154修補32個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179291",
+        "pubDate": "2026-09-30 10:49",
+        "description": "本週Google發布Chrome 154安全性更新，修補32個漏洞，其中ANGLE元件記憶體緩衝區溢位漏洞CVE-2026-102331被評為重大等級，特別危險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "鈊象發布資安重大訊息，揭露營運資訊設備遭到入侵",
+        "link": "https://www.ithome.com.tw/news/179289",
+        "pubDate": "2026-09-30 10:25",
+        "description": "遊戲軟體公司鈊象（3293）發布資安重訊，表示有不明IP位址入侵營運資訊設備的情形，初步評估對公司營運無重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "神腦外部伺服器遭自動化攻擊，部分訂單資訊遭擷取",
+        "link": "https://www.ithome.com.tw/news/179288",
+        "pubDate": "2026-09-30 10:21",
+        "description": "本週神腦國際（2450）發布資安重訊，因外部伺服器遭受自動化攻擊，部分訂單資訊遭到擷取，初步評估對營運、財務，以及服務提供無重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "華碩線上購物商店傳出資安事件，部分客戶資料可能遭未授權存取",
+        "link": "https://www.ithome.com.tw/news/179287",
+        "pubDate": "2026-09-30 10:13",
+        "description": "華碩線上購物商店傳出資安事件，部分客戶聯絡資訊與訂單紀錄可能遭未經授權存取，相關消息由國外科技媒體KitGuru率先揭露，我們也向華碩查證事件及客戶通知信內容，至截稿前尚未取得回應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA要求聯邦機構緊急修補蘋果裝置零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/179285",
+        "pubDate": "2026-09-30 09:49",
+        "description": "針對本週蘋果為iPhone、iPad，以及Mac電腦修補的零時差漏洞CVE-2026-86950，美國網路安全與基礎設施安全局（CISA）警告已遭積極利用，並要求聯邦機構緊急採取行動",
+        "source": "iThome資安"
+      },
       {
         "title": "Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳",
         "link": "https://www.ithome.com.tw/news/179283",
         "pubDate": "2026-09-30 08:00",
         "description": "Salesforce AI代理平臺Agentforce出現SalesBleed安全問題。攻擊者不需要受害企業的Salesforce帳號，就能透過公開的Web-to-Lead功能提交藏有惡意提示詞的潛在客戶資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員檢視企業網路分段隔離情況，含OT設備區段87%仍混用其他類型設備",
-        "link": "https://www.ithome.com.tw/news/179193",
-        "pubDate": "2026-09-30 08:00",
-        "description": "網路安全業者Forescout檢視209個組織、超過250萬臺裝置發現，含有OT設備的網路區段有87%仍混用其他類型設備，IP網路攝影機、IoMT及POS系統也多與其他類型設備共用網路區段",
         "source": "iThome資安"
       },
       {
@@ -24,126 +108,63 @@
         "source": "iThome資安"
       },
       {
-        "title": "SANS發布資安事件回應框架DAIR，強調依新證據動態調整事件處置",
-        "link": "https://www.ithome.com.tw/news/179231",
-        "pubDate": "2026-09-30 08:00",
-        "description": "資安事件往往不會按照既定流程發展，後續調查還可能發現新的受害系統或攻擊跡象。SANS提出事件回應框架DAIR，強調根據新證據重新界定事件範圍，必要時再次進行圍堵、清除及復原",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本京王線、東京地鐵營運業者分別遭網路攻擊",
-        "link": "https://www.ithome.com.tw/news/179282",
-        "pubDate": "2026-09-29 22:14",
-        "description": "京王電鐵遭勒索軟體攻擊，部分系統受到影響；東京地下鐵會員服務則遭未授權存取，約5.9萬筆會員電子郵件地址可能遭第三方閱覽或取得",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟ENISA示警數位依賴正削弱資安韌性，供應鏈、雲端與第三方服務持續遭鎖定",
-        "link": "https://www.ithome.com.tw/news/179268",
-        "pubDate": "2026-09-29 16:44",
-        "description": "歐盟網路安全局（ENISA）9月22日發布最新年度威脅情勢報告指出，2025年的多起事件顯示，供應鏈、第三方服務與雲端環境持續成為高價值攻擊目標，突顯日益緊密的數位依賴關係正進一步擴大受攻擊面",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ShinyHunters二度大規模鎖定Oracle PeopleSoft發動攻擊，突破WAF偵測機制部署後續工具",
-        "link": "https://www.ithome.com.tw/news/179269",
-        "pubDate": "2026-09-29 16:30",
-        "description": "Google針對ShinyHunters（UNC6240）的攻擊活動提出警告，這些駭客再度利用企業應用系統平臺Oracle PeopleSoft資安漏洞CVE-2026-35273，於全球數十套系統植入Webshell，進一步部署後門程式SideEye與遠端管理工具MeshAgent",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月29日，OpenAI代理人為取得聯合國資料，自主繞過網站限制",
-        "link": "https://www.ithome.com.tw/news/179265",
-        "pubDate": "2026-09-29 14:47",
-        "description": "研究人員揭露疑似OpenAI的AI代理為取得聯合國貿易和發展會議（UNCTAD）公開資料，在正常存取受阻後，仍陸續透過代理服務、改變網址格式等方法繞過限制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix NetScaler重大漏洞在修補之前已遭到利用",
-        "link": "https://www.ithome.com.tw/news/179264",
-        "pubDate": "2026-09-29 14:35",
-        "description": "有IT人員透露，他們上週末接獲IT服務供應商的資安團隊電話，建議立即關閉NetScaler系統，威脅情報公司watchTowr證實，有兩個當時尚未修補的遠端程式碼執行（RCE）漏洞被用於實際攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業威脅獵捕最大難題轉變，SANS指出資料問題首度超越人才不足",
-        "link": "https://www.ithome.com.tw/news/179263",
-        "pubDate": "2026-09-29 14:30",
-        "description": "企業威脅獵捕出現新態勢，主要障礙正從人才不足轉向資料問題，資料品質與數量首度成為最大挑戰；同時，雲端也被視為最難進行威脅獵捕的環境，企業評估獵捕成效的成熟度也出現下滑",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Nvidia替AI代理加入Sentry硬體安全監控，透過BlueField-4隔離越權代理",
-        "link": "https://www.ithome.com.tw/news/179260",
-        "pubDate": "2026-09-29 13:53",
-        "description": "Nvidia發布Open Agent Safety Platform，加入執行於BlueField-4資料處理器的Sentry安全監控機制，從主機之外監看AI代理活動，並可從硬體層隔離並停止代理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix修補NetScaler一系列資安漏洞，其中包含兩個已遭利用的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179259",
-        "pubDate": "2026-09-29 13:34",
-        "description": "Citrix警告旗下NetScaler ADC與Gateway存在8個資安漏洞，並指出其中兩個重大漏洞CVE-2026-88771與CVE-2026-88772已被用於實際攻擊，呼籲用戶儘速檢查系統是否遭到入侵，並套用相關更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA警告Citrix NetScaler重大漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179258",
-        "pubDate": "2026-09-29 12:57",
-        "description": "美國網路安全與基礎設施安全局（CISA）指出，Citrix NetScaler重大漏洞CVE-2026-88771、CVE-2026-88772遭積極利用，聯邦機構必須在3天內緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "新加坡電信商Simba遭駭，逾2.3萬名用戶個資外洩",
-        "link": "https://www.ithome.com.tw/news/179257",
-        "pubDate": "2026-09-29 12:54",
-        "description": "Simba於9月24日發現遭到入侵，外洩資料包括身分證號碼、生日、手機及電子郵件等用戶個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "佛州要求法院限制OpenAI開發新模型，禁止向未成年人提供ChatGPT",
-        "link": "https://www.ithome.com.tw/news/179255",
-        "pubDate": "2026-09-29 12:39",
-        "description": "佛州要求法院限制OpenAI開發新AI模型，除非先建立經獨立第三方核准的安全防護措施，並要求停止向佛州未成年人提供ChatGPT",
-        "source": "iThome資安"
-      },
-      {
-        "title": "從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展",
-        "link": "https://www.ithome.com.tw/news/179272",
-        "pubDate": "2026-09-29  06:09:21",
-        "description": "過去數十年的網路發展的核心目標都在如何讓資料傳輸更快、更穩定，從寬頻、行動網路到5G，技術演進大多圍繞頻寬、延遲與連線能力提升。但隨著生成式AI、AI Agent及自主系統快速發展，未來網路面臨的新挑戰，不只是「如何傳送更多資料」，而是如何支援AI模型運算、讓分散在雲端、資料中心與邊緣端的算力有效協同。\n工研院資訊與通訊研究所所長丁邦安在今天(9/29)舉行的2026 ITRI ICT TechDay中指出，面對全球AI能力與生產力快速提升，次世代通訊正迎來由「Bit」向「Token」轉型的新階",
+        "title": "OpenAI公布協同平臺Space及類似Office的生產力套件",
+        "link": "https://www.ithome.com.tw/news/179296",
+        "pubDate": "2026-09-30  11:09:57",
+        "description": "OpenAI週二開發者大會DevDay上公布能讓企業員工在ChatGPT內協同作業的工具Space，以及類似Office的生產力套件。",
         "source": "iThome"
       },
       {
-        "title": "Cloudflare推出JavaScript開發工具鏈Vite+ 1.0，整合建置、測試與程式檢查",
-        "link": "https://www.ithome.com.tw/news/179271",
-        "pubDate": "2026-09-29  05:09:43",
-        "description": "Cloudflare旗下VoidZero發布JavaScript開發工具Vite+ 1.0，將Vite 8、Vitest 5、Rolldown、Oxlint、Oxfmt與任務快取整合在同一套工具中，涵蓋開發伺服器、建置、測試、程式碼檢查與格式整理。Vite+可把多項開發工具的設定集中到vite.config.ts，降低前端專案分別維護多套工具與設定檔的負擔。",
+        "title": "川普簽署行政命令，要美國政府機構把AI改成SI",
+        "link": "https://www.ithome.com.tw/news/179290",
+        "pubDate": "2026-09-30  10:09:55",
+        "description": "美國總統川普（Donald Trump）周二（9/29）簽署行政命令，正式要求美國行政部門以「超級智慧」（Super Intelligence，SI）取代「人工智慧」（Artificial Intelligence，AI），未來政府機構的官方文件、公開溝通、網站、報告及政策文件，都應改用SI一詞。",
         "source": "iThome"
       },
       {
-        "title": "Manus 2.0登場，同步推出讓AI代理人擁有信箱、電話與錢包的Cue程式",
-        "link": "https://www.ithome.com.tw/news/179270",
-        "pubDate": "2026-09-29  04:09:28",
-        "description": "AI新創Manus周一（9/28）發表了Manus 2.0，這是該團隊所開發的新版代理人產品，採用全新代理人框架Cascade，具備更好的效能，並升級影片編輯、遊戲開發及自動化等功能。同時推出獨立程式Cue，讓使用者建立擁有專屬電子郵件、電話號碼、錢包及電腦的AI代理人。",
+        "title": "OpenAI推出常駐AI代理人Dots，可24小時自主工作、擁有專屬雲端電腦",
+        "link": "https://www.ithome.com.tw/news/179303",
+        "pubDate": "2026-09-30  01:09:23",
+        "description": "OpenAI周二（9/29）於ChatGPT推出常駐型AI代理人Dots，可全天候在背景持續替使用者工作。這些Dot採用GPT-6 Astra模型，擁有專屬雲端電腦及瀏覽器，並可透過Plugins連接超過4,000個應用程式。\n不同於使用者提出要求後才執行單次任務的AI代理人，Dot可持續掌握使用者的目標、偏好及工作標準。使用者交付專案後，即使離開ChatGPT，Dot仍可在自己的雲端電腦繼續執行工作，也能同時接下其他專案，不必由使用者管理多段獨立對話或逐步下達指令。",
         "source": "iThome"
       },
       {
-        "title": "Shopify讓WebMCP進入結帳流程，AI代理可在使用者確認後下單",
-        "link": "https://www.ithome.com.tw/news/179266",
-        "pubDate": "2026-09-29  03:09:26",
-        "description": "Shopify替符合資格的商家加入WebMCP結帳支援，瀏覽器中的AI代理能讀取結帳內容、修改收件地址、配送方式與折扣，並在買家確認購買後送出訂單。Shopify先前已讓WebMCP處理商品搜尋與購物車，新增結帳支援後，AI代理可以從找商品一路協助到完成訂單。\nWebMCP讓網站把AI代理能使用的功能，以固定格式提供給瀏覽器，因此AI代理就不用反覆擷取畫面、讀取網頁內容、尋找欄位再模擬點擊。Shopify在結帳頁提供讀取、更新與完成結帳3類工具，AI代理能取得商品、總額、配送選項，以及尚缺少的資",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta成立企業AI平臺，整合Muse等工具進軍企業市場",
-        "link": "https://www.ithome.com.tw/news/179262",
-        "pubDate": "2026-09-29  02:09:34",
-        "description": "Meta周一（9/28）宣布成立Meta Enterprise Platform，計畫將Muse代理人、Meta Business Agent、Muse API及Muse Code等技術提供給企業與開發者，協助企業運用AI拓展業務。Meta並延攬MongoDB前執行長Chirantan CJ Desai擔任企業平臺長，直接向執行長祖克柏（Mark Zuckerberg）報告。",
+        "title": "AI程式開發代理工具Cline更新SDK，工作階段可在本機與雲端間雙向交接",
+        "link": "https://www.ithome.com.tw/news/179301",
+        "pubDate": "2026-09-30  01:09:01",
+        "description": "AI程式開發代理工具Cline發布SDK v0.0.87，加入本機與雲端工作階段雙向交接。整合Cline SDK的開發工具可把本機正在進行的工作交給雲端代理繼續執行，之後再交接回本機，新版也加入可保留狀態的雲端工作區，工作暫停後仍能恢復執行。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "美國政府打造 AI 服務入口 : America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
+        "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 12:51:32 +0800",
+        "description": "美國總統川普宣布推出 America.gov，定位為民眾取得聯邦政府資訊與服務的單一數位入口，並簽署行政命令，要求聯邦機構逐步將相關服務整合進網站。America.gov 以 AI 聊天介面為核心，Google Gemini 與 xAI Grok 成為背後的 AI 技術夥伴。 America.gov 變身 AI 政府入口，Gemini、Grok 搶先進駐 川普在行政命令中將 America.gov 描述為聯邦政府的「統一數位前門」，讓民眾以自然語言提出需求，取得政府資訊，並在技術與授權條件允許時",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI 推出 Dots 到底新在哪？AI Agent 正從「接任務」走向「接責任」",
+        "link": "https://techorange.com/2026/09/30/openai-dots-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 12:25:04 +0800",
+        "description": "OpenAI 在美國時間 9/29 於年度開發者大會 DevDay 2026 推出新型 AI 代理（AI Agent）「Dots」。Dots 由 GPT-6 Astra 驅動，每個 Dot 都有自己的雲端電腦與瀏覽器，並可透過 OpenAI 的 plugin 生態連接超過 4,000 個應用程式，並從 ChatGPT、Slack、Microsoft Teams 等管道和使用者互動。 OpenAI 把 Dots 定位為「always-on」代理，不過，AI 代理本來就能自己拆解工作、操作工具，甚至",
+        "source": "TechOrange"
+      },
+      {
+        "title": "庫存失真年吞零售業 1.7 兆美元，H&amp;M 的「實體 AI」怎麼止血？",
+        "link": "https://techorange.com/2026/09/30/hm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 09:46:52 +0800",
+        "description": "對服飾零售商而言，庫存管理始終是一場高成本的猜謎遊戲。貨架缺貨會直接造成銷售損失，商品積壓則可能面臨折價與資金占用，庫存損耗又進一步侵蝕利潤。全球零售和飯店技術研究公司 IHL Group 最新研究指出，2026 年全球零售業因缺貨與庫存過剩造成的「庫存失真」（inventory distortion）成本約達 1.7 兆美元，占全球零售銷售額 6.2%。 這正是 RFID 與 AI 迅速推進至零售供應鏈核心的主因。RFID 能以無線射頻辨識技術，在免去逐件掃描條碼的前提下批量追蹤商品；然而，海",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【AI 的隱形學徒稅】讓新人練到敢扛責任，企業如何建立「養成階梯」？",
+        "link": "https://techorange.com/2026/09/30/ais-effects-on-overall-employment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 09:40:52 +0800",
+        "description": "AI 開始從最小的工作單位進入知識工作，包括草擬備忘錄、整理逐字稿、生成程式碼雛形、找出參考先例等「任務」，都能交給它完成。 問題是，瑣碎工作往往有「產出成果」和「訓練新人養成判斷力」的作用，如今企業只把這樣的轉變當成效率提升來慶祝，很可能在不知不覺中讓新進人才失去磨練判斷力的機會。 任務被壓縮，年輕員工就業率下降 一份針對五種職業、逐項任務建模的研究發現，以 AI 導入前每 100 小時的工作量為基準，導入後只剩下 57 到 73 小時，多半集中在理解客戶脈絡、查證資料來源、承擔簽核風險這類工",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】SpaceX 星艦首次入軌部署 26 顆衛星，引擎問題使任務提前結束",
         "link": "https://techorange.com/2026/09/30/spacex-starship-first-orbit-26-starlink-satellites/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -212,34 +233,6 @@
         "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 24 Sep 2026 17:10:46 +0800",
         "description": "資安公司 DataDome 發布《2026 年 Bot 與 Agent 安全狀況報告》（State of Bot & Agent Security Report 2026），分析超過 1 兆筆請求、涵蓋逾 7.5 萬個客戶網站，並測試超過 2 萬個熱門網站。報告指出，過去一年自動化流量快速增加，惡意 Bot 開始鎖定更具商業價值的使用者流程，AI Agent 也逐漸從資料蒐集延伸至實際操作。 AI 資料供應鏈可能推升網頁爬取流量？惡意 Bot 流量增 約 124% DataDome 統計 202",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「Token 使用量可降至五百分之一。」SAS 分享實戰經驗：治理，才能讓 AI Agent 真正創造價值",
-        "link": "https://techorange.com/2026/09/24/sas-ai-agent-save-token/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 17:02:20 +0800",
-        "description": "TechOrange 科技報橘日前（9/17）在新竹舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。現場特別邀請全球數據分析與 AI 領導品牌 SAS 帶來專題分享，揭露一套能同時兼顧「安全治理」與「成本控管」的解方。 當 AI Agent 開始接入 ERP 及其他企業內部系統，企業就必須同步建立權限控管、執行紀錄與人工決策機制，才能掌握 Agent 使用了哪些資料、執行了哪些動作，並安全地擴大應用。SAS 業務副總經理張志豪以電動",
-        "source": "TechOrange"
-      },
-      {
-        "title": "首起已知 AI 代理闖入政府網站，澳洲如何重整政府資安防禦？",
-        "link": "https://techorange.com/2026/09/24/openai-ai-agent-hacked-australias-medicare/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 16:07:36 +0800",
-        "description": "近期 AI 代理（AI Agent）越界事件接連曝光，如今，第一起已知 AI 代理成功入侵政府網站的案例也浮上檯面。《Reuters》指出，這可能是目前已知首例，而遭入侵的是澳洲政府的 Medicare 統計網站。 澳洲總理 Anthony Albanese 在美國時間 9/23、台灣時間 9/24 公開這起事件。他表示，一個 OpenAI 代理今年 6 月在執行內部能力測試時，未經授權進入澳洲服務局（Services Australia）管理的 Medicare 統計報告服務（Medicare",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Meta 為 Muse 再開一個入口：Charm 把 AI Agent 放進口袋、掛上鑰匙圈",
-        "link": "https://techorange.com/2026/09/24/meta-muse-charm-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 12:58:25 +0800",
-        "description": "把 AI 做成可以隨身攜帶的獨立裝置，已不是科技業的新點子。從 Friend 等產品到各式 AI 穿戴裝置，業者近年不斷嘗試，但這類產品能否形成真正需求，至今仍有待驗證。如今，Meta 正把這項嘗試，延伸到自家的個人 AI Agent（AI 代理）Muse，擴大 Muse 的使用範圍。 美國時間 9/23 登場的年度 Connect 大會上，Meta 一口氣宣布 Muse 將登上 AI 眼鏡、操作 Mac、擁有專屬 email；到了發表會接近尾聲，祖克柏從口袋拿出另一款新產品：可以掛在鑰匙圈上的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "參數不到 Cosmos 一半卻登頂 RoboLab：BFL 開放權重模型 FLUX 3 Action 登場",
-        "link": "https://techorange.com/2026/09/24/black-forest-labs-flux-3-action/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 12:47:09 +0800",
-        "description": "以影像生成模型 FLUX 打響名號的德國 AI 新創 Black Forest Labs（BFL），近日宣布推出機器人模型 FLUX 3 Action，正式跨足機器人領域。《VentureBeat》報導，這款模型擁有 70 億參數，採開放權重形式發布。 從影片生成跨足物理表徵：FLUX 3 Action 如何預測機器人動作 FLUX 3 Action 是一款世界動作模型（World Action Model，WAM），能接收攝影機畫面、機器人當前狀態與自然語言指令，進一步預測機器人接下來應執行的",
         "source": "TechOrange"
       },
       {
@@ -394,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Apple Pay finally launches in India after years on the sidelines",
+        "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
+        "pubDate": "Wed, 30 Sep 2026 04:08:00 +0000",
+        "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
         "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
         "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
@@ -447,13 +447,6 @@
         "link": "https://techcrunch.com/2026/09/29/more-ways-to-disrupt-new-2026-side-events-from-kotra-wayfounder-enterprise-ireland-safetywing-descope/",
         "pubDate": "Tue, 29 Sep 2026 18:48:03 +0000",
         "description": "Disrupt doesn’t end when you leave Moscone West. 👀\n\nFounder dinners, investor meetups, happy hours, workshops, roundtables and more are taking over San Francisco during Disrupt Week.\n\nSee what’s happening, find your people, and start building your ca",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple Pay set to launch in India with Axis Bank today, sources say",
-        "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
-        "pubDate": "Tue, 29 Sep 2026 18:45:00 +0000",
-        "description": "Some of India's largest banks are holding off on supporting Apple Pay initially.",
         "source": "TechCrunch"
       },
       {
@@ -536,6 +529,26 @@
     ],
     "cve": [
       {
+        "title": "Mozilla Firefox Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260930",
+        "pubDate": "Wed, 30 Sep 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Firefox"
+      },
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260930",
+        "pubDate": "Wed, 30 Sep 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome"
+      },
+      {
         "title": "F5 BIG-IP Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20260923",
         "pubDate": "Wed, 23 Sep 2026 11:00:00 +0800",
@@ -544,36 +557,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "F5 BIG-IP Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260923",
-        "pubDate": "Wed, 23 Sep 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
-      },
-      {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20260916",
-        "pubDate": "Wed, 16 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
-        "title": "Oracle Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20260916",
-        "pubDate": "Wed, 16 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Oracle Products"
       },
       {
         "title": "Apache Tomcat Multiple Vulnerabilities",
