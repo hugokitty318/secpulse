@@ -1,7 +1,35 @@
 {
-  "ts": "2026-09-29T21:22:41.805067Z",
+  "ts": "2026-09-30T00:45:09.945372Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳",
+        "link": "https://www.ithome.com.tw/news/179283",
+        "pubDate": "2026-09-30 08:00",
+        "description": "Salesforce AI代理平臺Agentforce出現SalesBleed安全問題。攻擊者不需要受害企業的Salesforce帳號，就能透過公開的Web-to-Lead功能提交藏有惡意提示詞的潛在客戶資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員檢視企業網路分段隔離情況，含OT設備區段87%仍混用其他類型設備",
+        "link": "https://www.ithome.com.tw/news/179193",
+        "pubDate": "2026-09-30 08:00",
+        "description": "網路安全業者Forescout檢視209個組織、超過250萬臺裝置發現，含有OT設備的網路區段有87%仍混用其他類型設備，IP網路攝影機、IoMT及POS系統也多與其他類型設備共用網路區段",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟Defender整合SIEM與XDR，讓AI代理參與資安維運",
+        "link": "https://www.ithome.com.tw/news/179233",
+        "pubDate": "2026-09-30 08:00",
+        "description": "微軟推出ISOC公開預覽版，在Microsoft Defender入口網站整合SIEM、XDR等資安維運能力，並讓AI代理參與威脅調查及處理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SANS發布資安事件回應框架DAIR，強調依新證據動態調整事件處置",
+        "link": "https://www.ithome.com.tw/news/179231",
+        "pubDate": "2026-09-30 08:00",
+        "description": "資安事件往往不會按照既定流程發展，後續調查還可能發現新的受害系統或攻擊跡象。SANS提出事件回應框架DAIR，強調根據新證據重新界定事件範圍，必要時再次進行圍堵、清除及復原",
+        "source": "iThome資安"
+      },
       {
         "title": "日本京王線、東京地鐵營運業者分別遭網路攻擊",
         "link": "https://www.ithome.com.tw/news/179282",
@@ -80,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Kiteworks因攻擊威脅要求客戶停機9小時，期間發現Advanced Forms重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179248",
-        "pubDate": "2026-09-29 12:26",
-        "description": "Kiteworks接獲聯邦情報機關攻擊威脅情資後，要求客戶停機9小時，期間發現Advanced Forms重大漏洞，官方表示漏洞未見遭利用，9月27日已解除停機建議",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告甫修補的WordPress重大路徑遍歷漏洞遭到利用",
-        "link": "https://www.ithome.com.tw/news/179254",
-        "pubDate": "2026-09-29 12:24",
-        "description": "美國網路安全與基礎設施安全局（CISA）針對WordPress重大漏洞CVE-2026-87902提出警告，表示他們已掌握遭到利用的證據，將其列入已遭利用的漏洞名單（KEV）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ShinyHunters聲稱竊得FBI資料中，包含敏感的探員個資與醫療紀錄",
-        "link": "https://www.ithome.com.tw/news/179253",
-        "pubDate": "2026-09-29 12:17",
-        "description": "BBC檢視ShinyHunters聲稱竊取的FBI資料樣本，發現包含血液、尿液檢測及醫師紀錄，駭客另聲稱利用Oracle雲端儲存漏洞入侵多個FBI平臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員首次實作可繞過質因數分解的RSA簽章偽造攻擊",
-        "link": "https://www.ithome.com.tw/news/179252",
-        "pubDate": "2026-09-29 12:13",
-        "description": "一項源自2007年的RSA攻擊方法，近期首度獲得實際驗證；攻擊者不必透過傳統質因數分解，也能偽造RSA數位簽章。不過，研究團隊與資安專家均指出，這項方法的適用情境有限，並不代表現行RSA已遭全面破解",
-        "source": "iThome資安"
-      },
-      {
         "title": "從傳輸資料到支援AI運算，工研院：次世代網路正從Bit走向Token轉型發展",
         "link": "https://www.ithome.com.tw/news/179272",
         "pubDate": "2026-09-29  06:09:21",
@@ -144,6 +144,13 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "【科技早餐】SpaceX 星艦首次入軌部署 26 顆衛星，引擎問題使任務提前結束",
+        "link": "https://techorange.com/2026/09/30/spacex-starship-first-orbit-26-starlink-satellites/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 星艦首次入軌部署 26 顆衛星，任務因引擎問題縮短 太空探索科技公司（SpaceX）的星艦在第 14 次試飛，首次進入地球軌道，並部署 26 顆新一代 Starlink V3 衛星。過去的星艦試飛曾在太空釋放測試用衛星，這次則是把預定投入營運的衛星送入軌道。SpaceX 執行長馬斯克表示，26 顆衛星均已部署並正常運作。新一代衛星的尺寸及載運需求，使星艦成為 SpaceX 擴大星鏈網路容量的重要運輸工具；首次入軌並完成部署，是星艦",
+        "source": "TechOrange"
+      },
       {
         "title": "AI 瘋狂爬網站不點擊廣告：Cloudflare 示警流量 5 年恐衝千倍，這筆帳誰來付？",
         "link": "https://techorange.com/2026/09/29/cloudflare-matthew-prince-google-zero-ai-web-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -236,13 +243,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "企業導入 AI 面臨哪些資安風險？從 AI 測試事件看 AI Security 與供應鏈安全新挑戰",
-        "link": "https://techorange.com/2026/09/24/gss-ai-security-mendio/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 10:39:25 +0800",
-        "description": "生成式 AI 快速進入企業開發與營運流程，隨著 AI 模型的能力持續提升，企業面臨的 AI Security 風險也從模型本身，進一步延伸至模型所能取得的權限、可連接的系統與實際執行環境。近期接連傳出的 AI 安全測試事件引發各界關注，AI 模型被發現可能突破原有的環境限制，連線至外部企業系統，甚至修改系統設定，反映出企業在導入 AI 模型時，除了關注模型本身的安全性，也需要重新檢視模型所能取得的權限、可連接的系統與執行環境。 另一方面，若企業開始導入開放權重 AI 模型，模型本身也逐漸成為軟體",
-        "source": "TechOrange"
-      },
-      {
         "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
         "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 26 Sep 2026 06:29:00 +0800",
@@ -273,6 +273,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Microsoft is rolling out Linux container support to WSL",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-is-rolling-out-linux-container-support-to-wsl/",
+        "pubDate": "Tue, 29 Sep 2026 20:40:57 -0400",
+        "description": "Microsoft is taking Windows Subsystem for Linux beyond just running Linux distributions, as WSL Containers is now generally available. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Kiteworks Fixes Critical Flaw Found During Nine-Hour Precautionary Shutdown",
         "link": "https://thehackernews.com/2026/09/kiteworks-fixes-critical-flaw-found.html",
         "pubDate": "Tue, 29 Sep 2026 19:43:20 +0530",
@@ -285,6 +292,13 @@
         "pubDate": "Tue, 29 Sep 2026 19:15:10 +0530",
         "description": "Cybersecurity researchers have identified a cluster of 101 npm packages that are used to trap developers into a WhatsApp group subscriber campaign dubbed PhantomSub.\n\n\"The malicious packages abuse the 'Baileys' WhatsApp open source project to add the",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Signal adds encypted local backup support to iOS, desktop apps",
+        "link": "https://www.bleepingcomputer.com/news/security/signal-adds-encypted-local-backup-support-to-ios-desktop-apps/",
+        "pubDate": "Tue, 29 Sep 2026 17:30:08 -0400",
+        "description": "Signal, the secure messaging app, released version 8.30, completing the rollout of its secure backups feature across all supported operating systems (Android, iOS, Linux, macOS, and Windows). [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Custom ChatGPTs push ClickFix attacks to deploy RAT malware",
@@ -376,23 +390,37 @@
         "pubDate": "Tue, 29 Sep 2026 07:41:53 -0400",
         "description": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Kiteworks patches critical flaw, brings customer systems online",
-        "link": "https://www.bleepingcomputer.com/news/security/kiteworks-lifts-shutdown-warning-after-patching-critical-flaw/",
-        "pubDate": "Tue, 29 Sep 2026 05:04:06 -0400",
-        "description": "American tech company Kiteworks has lifted a precautionary advisory asking customers to shut down systems after patching a critical vulnerability. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Apple patches CoreGraphics zero-day flaw exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/apple-patches-coregraphics-zero-day-flaw-exploited-in-attacks/",
-        "pubDate": "Tue, 29 Sep 2026 03:33:12 -0400",
-        "description": "Apple released security updates to fix a zero-day vulnerability exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
+        "link": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
+        "pubDate": "Tue, 29 Sep 2026 23:30:55 +0000",
+        "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch",
+        "link": "https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/",
+        "pubDate": "Tue, 29 Sep 2026 22:20:59 +0000",
+        "description": "Before OpenAI launched its new AI agent, Dots, on Tuesday, Elon Musk's xAI had already acquired the domain name \"dot.com,\" which now redirects to the Grok chatbot download page.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Your car and its mobile app are probably handing over all kinds of data to tech companies",
+        "link": "https://techcrunch.com/2026/09/29/your-car-and-its-mobile-app-are-probably-handing-over-all-kinds-of-data-to-tech-companies/",
+        "pubDate": "Tue, 29 Sep 2026 22:18:35 +0000",
+        "description": "Researchers at Northeastern University found vehicles and their companion apps regularly shared detailed data with some of the largest tech companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "a16z-backed EliseAI raises $350M, doubles valuation to $4B",
+        "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+        "pubDate": "Tue, 29 Sep 2026 21:51:36 +0000",
+        "description": "EliseAI raises $350M, doubles valuation in a year.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Tesla secures $30B in new credit lines as it looks to scale Cybercab, Optimus",
         "link": "https://techcrunch.com/2026/09/29/tesla-secures-30b-in-new-credit-lines-as-it-looks-to-scale-cybercab-optimus/",
@@ -408,8 +436,8 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
-        "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+        "title": "OpenAI reportedly in talks to raise $30B round at $1.4T valuation",
+        "link": "https://techcrunch.com/2026/09/29/openai-reportedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
         "pubDate": "Tue, 29 Sep 2026 19:52:37 +0000",
         "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
         "source": "TechCrunch"
@@ -439,7 +467,7 @@
         "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
         "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
         "pubDate": "Tue, 29 Sep 2026 17:45:51 +0000",
-        "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies.",
+        "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
         "source": "TechCrunch"
       },
       {
@@ -453,7 +481,7 @@
         "title": "AI-powered app maker Wabi pivots to a messaging experience",
         "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
         "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
-        "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+        "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
         "source": "TechCrunch"
       },
       {
@@ -467,70 +495,42 @@
         "title": "OpenAI gives Codex reusable cloud environments that work across devices",
         "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
         "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-        "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+        "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
-        "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
-        "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-        "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
-        "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
-        "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-        "description": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Can a chatbot fix the government maze? The White House is about to find out",
-        "link": "https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/",
-        "pubDate": "Tue, 29 Sep 2026 16:55:56 +0000",
-        "description": "America.gov is intended to simplify the process of navigating government bureaucracy, but language models are imperfect and remain prone to hallucinations, which could cause new issues.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Instinct founder said more than 50% of transactions on the platform are travel-related",
-        "link": "https://techcrunch.com/2026/09/29/instinct-founder-said-more-than-50-of-transactions-on-the-platform-are-travel-related/",
-        "pubDate": "Tue, 29 Sep 2026 15:12:07 +0000",
-        "description": "Instinct founder said the platform is growing 10% day by day, with transaction volume increasing at a similar rate.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002238/openai-google-anthropic-ai-researchers-safety-interviews",
-        "pubDate": "2026-09-29T13:35:03-04:00",
-        "description": "\"The chance of human extinction is about a coin flip, in my view,\" Geoffrey Irving, a former OpenAI and Google DeepMind employee, said in a new interview. It's one of a dozen interviews with AI researchers, including current and former employees at O",
+        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+        "pubDate": "2026-09-29T20:19:13-04:00",
+        "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the model",
         "source": "TheVerge"
       },
       {
-        "title": "Razer’s low-latency wireless gaming keyboard is almost half off",
-        "link": "https://www.theverge.com/gadgets/1002087/razer-deathstalker-v2-pro-tkl-witcher-3-remastered-deal-sale",
-        "pubDate": "2026-09-29T13:19:07-04:00",
-        "description": "Woot has the Razer DeathStalker V2 Pro TKL on sale for $130, a significant discount from its usual $219.99 price point. This keyboard is built for competitive gaming, with a low latency 2.4GHz wireless connection, and low-profile linear optical switc",
+        "title": "Trump orders US government to call AI ‘Super Intelligence’",
+        "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "pubDate": "2026-09-29T18:25:45-04:00",
+        "description": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order sign",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI launches Dots, its Muse competitor",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002033/openai-dots-launch-muse-competitor",
-        "pubDate": "2026-09-29T13:15:00-04:00",
-        "description": "OpenAI is responding to Meta's buzzy Muse AI with agentic helpers of its own: Dots. During its DevDay keynote on Tuesday, OpenAI announced that Dots will serve as always-on AI assistants that can \"do nearly anything\" across connected apps in the back",
+        "title": "BMW’s revamped i3 boasts up to 468 miles of range",
+        "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
+        "pubDate": "2026-09-29T18:01:00-04:00",
+        "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting ",
         "source": "TheVerge"
       },
       {
-        "title": "Protesters gather at OpenAI’s DevDay",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002201/openai-sam-altman-openai-devday-protests-ice-data-centers",
-        "pubDate": "2026-09-29T13:12:27-04:00",
-        "description": "On Tuesday, OpenAI's annual DevDay event began with protests, flyers, and chants. \"Sam Altman, get off it, put people over profit,\" said a group of protesters marching in a circle in front of a series of signs that spelled out \"PEOPLE OVER PROFIT.\" M",
+        "title": "Suspected ShinyHunters leader arrested in the Netherlands",
+        "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
+        "pubDate": "2026-09-29T17:50:31-04:00",
+        "description": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch ",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox’s Mythic Achievements are here and they&#8217;re just like PlayStation Platinum trophies",
-        "link": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-        "pubDate": "2026-09-29T12:17:01-04:00",
-        "description": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every ori",
+        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
+        "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+        "pubDate": "2026-09-29T17:49:09-04:00",
+        "description": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live upd",
         "source": "TheVerge"
       }
     ],
