@@ -1,5 +1,5 @@
 {
-  "ts": "2026-09-30T18:25:32.943207Z",
+  "ts": "2026-09-30T22:36:29.281293Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,11 +287,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Russian state hackers use new RedFlick technique to push malware",
+        "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
+        "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400",
+        "description": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
         "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
         "pubDate": "Wed, 30 Sep 2026 16:15:00 +0530",
         "description": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.\n\nBy ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
+        "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
+        "pubDate": "Wed, 30 Sep 2026 15:49:15 -0400",
+        "description": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
@@ -369,23 +383,58 @@
         "pubDate": "Tue, 29 Sep 2026 23:17:01 +0530",
         "description": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data ",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "New Spectre-v2 BTR Attack Leaks Linux Memory Despite Existing Defenses",
-        "link": "https://thehackernews.com/2026/09/new-spectre-v2-btr-attack-leaks-linux.html",
-        "pubDate": "Tue, 29 Sep 2026 22:50:17 +0530",
-        "description": "A group of academics from VUSec and Scuola Superiore Sant'Anna have disclosed details of a new Spectre CPU vulnerability variant that affects Just-In-Time (JIT) engines present in web browsers, language runtimes, and the operating system kernel, acro",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Russia's Star Blizzard Targets 100+ Organizations With Fake Event Invites to Deliver Backdoor",
-        "link": "https://thehackernews.com/2026/09/russias-star-blizzard-targets-100.html",
-        "pubDate": "Tue, 29 Sep 2026 22:50:08 +0530",
-        "description": "Russian state hackers known as Star Blizzard have been using fake event invitations to trick people into installing a backdoor on their Windows computers, according to Microsoft.\n\nThe campaigns, aimed at people and organizations tied to Ukraine, have",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+        "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+        "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
+        "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+        "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
+        "pubDate": "Wed, 30 Sep 2026 20:39:09 +0000",
+        "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
+        "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
+        "pubDate": "Wed, 30 Sep 2026 20:20:02 +0000",
+        "description": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, ",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers stole millions of US military personnel records during months-long data breach",
+        "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
+        "pubDate": "Wed, 30 Sep 2026 19:29:08 +0000",
+        "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DoorDash’s drone strategy started on the ground",
+        "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
+        "pubDate": "Wed, 30 Sep 2026 19:22:13 +0000",
+        "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
+        "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
+        "pubDate": "Wed, 30 Sep 2026 19:19:40 +0000",
+        "description": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+        "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
+        "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "source": "TechCrunch"
+      },
       {
         "title": "AI voice startup ElevenLabs doubles valuation to $22B",
         "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
@@ -443,53 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pledge signed by President Trump and top AI leaders misspells the United States",
-        "link": "https://techcrunch.com/2026/09/30/pledge-signed-by-president-trump-and-top-ai-leaders-misspells-the-united-states/",
-        "pubDate": "Wed, 30 Sep 2026 14:50:55 +0000",
-        "description": "On Tuesday, President Donald Trump and top AI leaders announced a signed pledge called a “Joint Commitment on Frontier Responsibilities” — a voluntary promise to implement more controls and safety measures as the rapid development of artificial intel",
-        "source": "TechCrunch"
+        "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
+        "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
+        "pubDate": "2026-09-30T16:45:00-04:00",
+        "description": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons licens",
+        "source": "TheVerge"
       },
       {
-        "title": "Google launches Fitbit Air in India, though its high price might deter the masses",
-        "link": "https://techcrunch.com/2026/09/30/google-launches-fitbit-air-in-india-though-its-high-price-might-deter-the-masses/",
-        "pubDate": "Wed, 30 Sep 2026 14:32:03 +0000",
-        "description": "Fitbit Air costs around $146 in India, roughly $47 more than its U.S. pricing.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Instagram rolls out an AI video assistant for creators",
-        "link": "https://techcrunch.com/2026/09/30/instagram-rolls-out-an-ai-video-assistant-for-creators/",
-        "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
-        "description": "This conversational AI assistant is intended to provide personalized feedback to creators, rather than generic advice.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Cerebras Systems’ Andrew Feldman on whether AI can keep scaling at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/30/cerebras-systems-andrew-feldman-on-whether-ai-can-keep-scaling-at-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 30 Sep 2026 14:30:00 +0000",
-        "description": "At TechCrunch Disrupt 2026, Cerebras Systems CEO and co-founder Andrew Feldman will explore the growing demand for compute, energy, and infrastructure, how Cerebras is approaching those constraints differently, and what comes next if today’s AI hardw",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Restate lands $20M as the need for durable infrastructure increases with AI agents",
-        "link": "https://techcrunch.com/2026/09/30/restate-lands-20m-as-the-need-for-durable-infrastructure-increases-with-ai-agents/",
-        "pubDate": "Wed, 30 Sep 2026 14:27:11 +0000",
-        "description": "Instead of building its durable execution engine on top of an external database, the company developed its own storage, replication, and redundancy layers. This architecture allows Restate to be exceptionally fast and lightweight.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "3 days left to exhibit: Turn visibility into your next opportunity at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/09/30/3-days-left-to-exhibit-at-techcrunch-disrupt-2026-2/",
-        "pubDate": "Wed, 30 Sep 2026 14:15:00 +0000",
-        "description": "Three days left to exhibit at TechCrunch Disrupt 2026. Book by October 2 at 11:59 p.m. PT to showcase your startup to 10,000+ founders, investors, operators, and tech leaders.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "WhatsApp adds new parental controls for teen accounts",
-        "link": "https://techcrunch.com/2026/09/30/whatsapp-adds-new-parental-controls-for-teen-accounts/",
-        "pubDate": "Wed, 30 Sep 2026 13:50:16 +0000",
-        "description": "Parents can limit how teens use channels, whose Status they can see, who can see their Status updates, and control who can add teens to groups.",
-        "source": "TechCrunch"
+        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
+        "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "pubDate": "2026-09-30T16:41:41-04:00",
+        "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cyber",
+        "source": "TheVerge"
       },
       {
         "title": "The AI Tamagotchis are coming",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
         "pubDate": "2026-09-30T13:21:29-04:00",
         "description": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-        "pubDate": "2026-09-30T13:15:49-04:00",
-        "description": "After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"",
-        "source": "TheVerge"
-      },
-      {
-        "title": "This blog could help you poop better",
-        "link": "https://www.theverge.com/column/1002625/optimizer-fibermaxxing-wellness-health",
-        "pubDate": "2026-09-30T13:00:00-04:00",
-        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"I will explode your butthole with",
         "source": "TheVerge"
       }
     ],
