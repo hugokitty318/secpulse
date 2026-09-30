@@ -1,7 +1,63 @@
 {
-  "ts": "2026-09-30T06:39:23.637360Z",
+  "ts": "2026-09-30T13:00:36.258689Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "加拿大量子安全公司Quantum eMotion併購資安業者Plurilock，整合QRNG、PQC與AI資安能力，加速商業化布局",
+        "link": "https://www.ithome.com.tw/news/179317",
+        "pubDate": "2026-09-30 18:46",
+        "description": "發展量子亂數產生器（QRNG）技術多年的加拿大Quantum eMotion（QeM），近日宣布併購資安業者Plurilock，期望藉由後者既有的客戶基礎、政府採購管道與服務能力，加快自身量子安全技術商業化",
+        "source": "iThome資安"
+      },
+      {
+        "title": "逾百業者響應Nvidia Open Agent Safety Platform，打造跨產業的AI代理安全生態系",
+        "link": "https://www.ithome.com.tw/news/179324",
+        "pubDate": "2026-09-30 18:44",
+        "description": "Anthropic、Salesforce、SAP、Microsoft等業者啟動與Nvidia代理安全架構的整合，涵蓋AI模型、企業軟體、基礎架構與機器人等應用領域",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署首度舉辦資安聯合稽核，將121場稽核併成16場",
+        "link": "https://www.ithome.com.tw/news/179323",
+        "pubDate": "2026-09-30 18:44",
+        "description": "化繁為簡、提升政府檢查資服廠商資安效率，針對行政院所屬機關的16家資服業者，資安署首度舉辦資安聯合稽核，不只要建立的是一套共通標準，也把原先預計的121場稽核，併成16場實體稽核，預計明年將擴大到中央及地方各級政府，受稽核廠商增至30家",
+        "source": "iThome資安"
+      },
+      {
+        "title": "事件應變難以沿用既有線性流程，SANS從勒索、雲端與OT實務挑戰印證動態調整必要性",
+        "link": "https://www.ithome.com.tw/news/179310",
+        "pubDate": "2026-09-30 16:31",
+        "description": "傳統線性事件應變流程愈來愈難涵蓋實際攻擊情境，SANS Institute近日發布動態資安事件回應框架DAIR，並邀請勒索軟體、雲端與OT領域專家從應變實務出發，解析現代資安事件在調查範圍、可見性與處置方式上面臨的新挑戰，以說明為何防禦方需要改以可隨新證據持續調整的動態方式進行應變",
+        "source": "iThome資安"
+      },
+      {
+        "title": "DAEMON Tools攻擊調查追出NeedyMantis惡意程式，活動已持續近一年",
+        "link": "https://www.ithome.com.tw/news/179313",
+        "pubDate": "2026-09-30 16:05",
+        "description": "NeedyMantis惡意程式至少自2025年10月起被用於鎖定特定組織的攻擊，駭客通常會在入侵企業環境後部署該惡意程式，用來維持存取並載入其他模組，受害對象包括電信、大學及政府相關組織",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic警告智譜GLM-5.3具自主漏洞攻擊能力，安全防護容易遭繞過",
+        "link": "https://www.ithome.com.tw/news/179312",
+        "pubDate": "2026-09-30 15:31",
+        "description": "開放權重AI模型的漏洞攻擊能力快速提升。Anthropic測試發現，智譜GLM-5.3已能自主開發端到端漏洞利用程式，部分測試表現接近Claude Mythos Preview",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】9月30日，Salesforce Agentforce傳出安全問題疑慮，該公司回應尚未發現被用於攻擊其客戶",
+        "link": "https://www.ithome.com.tw/news/179308",
+        "pubDate": "2026-09-30 14:56",
+        "description": "資安廠商指稱Salesforce AI代理平臺Agentforce出現SalesBleed安全問題，警示攻擊者不需取得企業的Salesforce帳號，就能透過公開的Web-to-Lead功能提交藏有惡意提示詞的潛在客戶資料，然而，Salesforce最新回應指出，目前並無任何證據顯示該報告所述問題曾被用於攻擊任何客戶",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本租車公司Times Car資料外洩，影響660萬用戶",
+        "link": "https://www.ithome.com.tw/news/179307",
+        "pubDate": "2026-09-30 14:54",
+        "description": "上週日本租車公司Times Car偵測到異常存取活動，並透露部分本週進一步說明，約有660萬個會員的帳號資料外洩，其中160個帳號含有身分證明文件",
+        "source": "iThome資安"
+      },
       {
         "title": "針對日前揭露的路由器DIR-822A重大漏洞，D-Link表示臺灣用戶不受影響",
         "link": "https://www.ithome.com.tw/news/179306",
@@ -31,7 +87,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "針對網站遭受攻擊事故復原出現新進展，商周集團中秋節前宣布兩個網站重新上線",
+        "title": "商周集團透露網站遭受攻擊事故復原後續進度：中秋節前已將兩個網站重新上線",
         "link": "https://www.ithome.com.tw/news/179298",
         "pubDate": "2026-09-30 11:56",
         "description": "上週末商周集團宣布，旗下的良醫健康網與alive兩個網站，經過深度檢測與測試之後，於中秋節前夕正式重新啟用，並透露目前該集團其他網站的復原情形",
@@ -52,73 +108,17 @@
         "source": "iThome資安"
       },
       {
-        "title": "川普與OpenAI、Google等科技巨頭簽署AI安全協議，引進外部獨立稽核",
-        "link": "https://www.ithome.com.tw/news/179294",
-        "pubDate": "2026-09-30 11:16",
-        "description": "川普與Google、OpenAI、Meta等6家科技業者簽署AI安全協議。業者承諾在訓練及部署前沿AI模型時持續監控安全風險，設置內部安全團隊，並引進第三方獨立稽核，再由董事會獨立委員會監督改善",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google為Chrome 154修補32個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179291",
-        "pubDate": "2026-09-30 10:49",
-        "description": "本週Google發布Chrome 154安全性更新，修補32個漏洞，其中ANGLE元件記憶體緩衝區溢位漏洞CVE-2026-102331被評為重大等級，特別危險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "鈊象發布資安重大訊息，揭露營運資訊設備遭到入侵",
-        "link": "https://www.ithome.com.tw/news/179289",
-        "pubDate": "2026-09-30 10:25",
-        "description": "遊戲軟體公司鈊象（3293）發布資安重訊，表示有不明IP位址入侵營運資訊設備的情形，初步評估對公司營運無重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "神腦外部伺服器遭自動化攻擊，部分訂單資訊遭擷取",
-        "link": "https://www.ithome.com.tw/news/179288",
-        "pubDate": "2026-09-30 10:21",
-        "description": "本週神腦國際（2450）發布資安重訊，因外部伺服器遭受自動化攻擊，部分訂單資訊遭到擷取，初步評估對營運、財務，以及服務提供無重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "華碩線上購物商店傳出資安事件，部分客戶資料可能遭未授權存取",
-        "link": "https://www.ithome.com.tw/news/179287",
-        "pubDate": "2026-09-30 10:13",
-        "description": "華碩線上購物商店傳出資安事件，部分客戶聯絡資訊與訂單紀錄可能遭未經授權存取，相關消息由國外科技媒體KitGuru率先揭露，我們也向華碩查證事件及客戶通知信內容，至截稿前尚未取得回應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA要求聯邦機構緊急修補蘋果裝置零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/179285",
-        "pubDate": "2026-09-30 09:49",
-        "description": "針對本週蘋果為iPhone、iPad，以及Mac電腦修補的零時差漏洞CVE-2026-86950，美國網路安全與基礎設施安全局（CISA）警告已遭積極利用，並要求聯邦機構緊急採取行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Salesforce Agentforce爆SalesBleed安全問題，CRM資料恐遭外傳",
-        "link": "https://www.ithome.com.tw/news/179283",
-        "pubDate": "2026-09-30 08:00",
-        "description": "Salesforce AI代理平臺Agentforce出現SalesBleed安全問題。攻擊者不需要受害企業的Salesforce帳號，就能透過公開的Web-to-Lead功能提交藏有惡意提示詞的潛在客戶資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟Defender整合SIEM與XDR，讓AI代理參與資安維運",
-        "link": "https://www.ithome.com.tw/news/179233",
-        "pubDate": "2026-09-30 08:00",
-        "description": "微軟推出ISOC公開預覽版，在Microsoft Defender入口網站整合SIEM、XDR等資安維運能力，並讓AI代理參與威脅調查及處理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI公布協同平臺Space及類似Office的生產力套件",
-        "link": "https://www.ithome.com.tw/news/179296",
-        "pubDate": "2026-09-30  11:09:57",
-        "description": "OpenAI週二開發者大會DevDay上公布能讓企業員工在ChatGPT內協同作業的工具Space，以及類似Office的生產力套件。",
+        "title": "OpenAI更新Codex Cloud，雲端開發環境可重複套用並供團隊共享",
+        "link": "https://www.ithome.com.tw/news/179321",
+        "pubDate": "2026-09-30  06:09:21",
+        "description": "OpenAI更新Codex Cloud服務，讓程式開發代理Codex在OpenAI管理的雲端電腦執行開發工作，新版讓開發者可先替專案準備一套雲端開發環境，配置程式碼儲存庫、開發工具與相依套件等，發布後供後續任務重複使用。ChatGPT Enterprise也支援團隊共享開發環境，成員可使用相同設定執行各自的Codex任務，相關功能目前正逐步推出。",
         "source": "iThome"
       },
       {
-        "title": "川普簽署行政命令，要美國政府機構把AI改成SI",
-        "link": "https://www.ithome.com.tw/news/179290",
-        "pubDate": "2026-09-30  10:09:55",
-        "description": "美國總統川普（Donald Trump）周二（9/29）簽署行政命令，正式要求美國行政部門以「超級智慧」（Super Intelligence，SI）取代「人工智慧」（Artificial Intelligence，AI），未來政府機構的官方文件、公開溝通、網站、報告及政策文件，都應改用SI一詞。",
+        "title": "美國聯邦政府入口網站America.gov上線，底層使用Google Gemini、Grok",
+        "link": "https://www.ithome.com.tw/news/179309",
+        "pubDate": "2026-09-30  02:09:34",
+        "description": "連同美國政府和科技巨頭的AI合作，美國白宮周二宣佈America.gov網站上線，作為民眾查詢聯邦政府資訊使用政府服務的入口網站。網站將使用Google Gemini及SpaceXAI的Grok的聊天機器人技術。",
         "source": "iThome"
       },
       {
@@ -137,6 +137,41 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "OpenAI 研究揭 AI Agent 新風險：惡意上下文可能從 Email 一路傳到工具操作",
+        "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 17:47:17 +0800",
+        "description": "隨著生成式 AI 深入企業流程，Prompt Injection（提示詞注入）也成為新的資安威脅之一。攻擊者會把惡意指令藏在網頁、Email、文件或其他外部內容中，誘導模型偏離原本任務。這類攻擊某種程度上很像對人的 Social Engineering（社交工程）：攻擊者不一定要突破系統漏洞，而是想辦法讓目標「相信」一段資訊，再自行做出不該做的動作。現在，這項風險又出現新的變化。 OpenAI 在 9/25 公布紅隊研究，發現了「Self-replicating Prompt Injection",
+        "source": "TechOrange"
+      },
+      {
+        "title": "IBM 揭企業 AI 轉型落差：86% 高層認可員工準備度，卻估定期使用率僅 25%",
+        "link": "https://techorange.com/2026/09/30/ceo-gap-stalls-ai-adoption-ibm-finds-only-25-workers-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 16:46:21 +0800",
+        "description": "IBM 2026 年 CEO 研究揭示企業導入 AI 的一項落差：儘管多數企業執行長認為員工已具備與 AI 協作的能力，但受訪 CEO 估計，僅約四分之一的員工會在工作中定期使用 AI。《Forbes》報導，高層認知與員工實際採用之間的落差，可能成為企業擴大 AI 應用的阻力。其關鍵不僅在於工具是否可用，也在於企業高層是否真正參與 AI 工作流程。 從 CAIO 到中階管理層：AI 正改變企業組織，但員工採用程度仍是難題 根據 IBM Institute for Business Value（I",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【劉永信專欄】研發經費占 GDP 僅次以色列、南韓，台灣的基礎研究為什麼不到 8%？",
+        "link": "https://techorange.com/2026/09/30/gdp-anthropic-claude-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 15:55:09 +0800",
+        "description": "講一個大部分老闆都不願意接受的事實，在真正的研究裡，絕大多數的嘗試注定不會有結果，而且你無法事先知道，會是哪些。 八月十日，Anthropic 公布一份研究，他們讓一個尚未發布的 Claude 版本，去挑戰黎曼猜想，那是數學界懸了 167 年、還掛著一百萬美元獎金的難題。 結果沒有解開，但在嘗試的過程中，它意外把一個相關的下界，從 41.6% 推進到 67.2%。這個數字指的是「已經被證明落在臨界線上的零點比例」，而這一跳，是這個數字有紀錄以來最大的一次躍進。 我的背景是 R&D，工程師出身，做",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「把刀柄握好了，才敢放手讓 AI 做更多的事。」鴻海、TeamT5、SAS 與 KPMG 四大專家分析高科技製造 Edge AI Agent 的資安實戰",
+        "link": "https://techorange.com/2026/09/30/foxconn-teamt5-sas-kpmg-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 15:46:31 +0800",
+        "description": "TechOrange 科技報橘日前與美國高通公司 Qualcomm 共同主辦「2026 AI 智慧大工廠論壇新竹場」，活動主軸鎖定「Edge AI Agent：高科技製造的超自動化與資安實戰」，當產線 AI Agent 開始握有即時決策權，並從「對話問答」走向「實體執行」，風險也將從「說錯話」演變為不可逆的「做錯事」，威脅不再只是企圖闖入門口的外來駭客，而是已在內部獲得授權的 AI Agent。此次活動邀請到鴻海科技集團、杜浦數位安全 TeamT5、SAS 與 KPMG 四位專家，分析企業如何確",
+        "source": "TechOrange"
+      },
+      {
+        "title": "達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會：聚焦「虛擬雙生 × AI 助手」，打造 AI-Native 未來生態系",
+        "link": "https://techorange.com/2026/09/30/dassault-simulia-ainative/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 30 Sep 2026 15:26:11 +0800",
+        "description": "達梭系統於日前舉辦 2026 達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會，以「虛擬雙生 × AI 虛擬助手」為主題，聚焦三條主軸：如何以虛擬雙生與 AI 虛擬助手在實際部署前完成規劃驗證，降低時間、成本與風險；如何讓 AI 真正理解並運用產業知識，提升分析、推理與決策能力；以及 AI 如何深入產品研發、智慧製造與機器人領域，加速從概念到生產的流程。 今年論壇匯聚達梭系統全球與亞太區高層、NVIDIA 及臺灣產業領袖，共同探討企業 AI 如何從單點導入邁向規模化與工業化，並由達梭系統臺灣",
+        "source": "TechOrange"
+      },
       {
         "title": "美國政府打造 AI 服務入口 : America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
         "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -206,44 +241,65 @@
         "pubDate": "Tue, 29 Sep 2026 10:00:06 +0800",
         "description": "Google 研究人員發現，AI 模型產生幻覺不一定是由於缺乏知識，而是在生成答案的過程中，AI 無法將過去所內化的資訊，重新回憶並進行提取，除非仰賴思維鏈等推理機制。",
         "source": "TechOrange"
-      },
-      {
-        "title": "每發出一次提示詞都是一次採購決策，企業需要 Token-as-a-Service 新框架",
-        "link": "https://techorange.com/2026/09/29/token-as-a-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 10:00:03 +0800",
-        "description": "企業第一次買進 AI 工具時，預算看起來往往不難計算，只需掌握帳號數量、合約效期、單價多少，都能寫進採購預算。真正失控通常發生在導入後。 當 AI 從少數人的工具，變成開發、行銷、法務、人資與客服每天都會使用的隨身助理，企業面對的已不只是一張張軟體訂閱帳單，而是一筆隨使用行為持續變動的消耗式支出。 AI 支出暴增的真正原因 以前企業買軟體，抓預算很單純，帳戶數乘以單價，大致就能算出一年要花多少錢。就算後來雲端運算改成用多少算多少，工作負載也還是集中在幾套看得到、抓得到的系統跟基礎設施上。 但生成",
-        "source": "TechOrange"
-      },
-      {
-        "title": "PQC 遷移動輒 2 至 4 年、近半企業卻還沒動！HPE 台灣暨香港董事長談量子安全",
-        "link": "https://techorange.com/2026/09/29/hpe-pqc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 06:00:00 +0800",
-        "description": "作者：HPE 台灣暨香港董事長王嘉昇 隨著量子運算逐步發展，其對現有密碼機制帶來的影響，已成為企業需關注的資安課題。許多企業認為，現在還有時間思考後量子密碼學（PQC）。但真正的風險並不在於預測具備實際密碼破解能力的量子電腦何時出現，而是企業是否有足夠時間完成準備。 量子電腦的發展時程雖仍存在不確定性，但密碼技術卻已深入企業環境，涵蓋安全通訊、軟體完整性、裝置身分識別及法規遵循等關鍵領域，全面更新企業環境中的密碼技術需投入大量時間與資源。因此企業有充分的理由從現在開始規劃。 首先，「先竊取、後解",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】OpenAI 追查 AI 代理異常，53 張用戶圖片外傳、數十家機構獲通知",
-        "link": "https://techorange.com/2026/09/29/openai-ai-agent-incidents-53-user-images/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 追查 AI 代理異常行為，數十家機構獲通知 OpenAI 正檢視旗下模型在訓練與評估期間的網路活動，已通知數十家可能受影響的第三方。公司列出的異常類型，包括代理繞過存取控制、使用外露憑證、透過指令或查詢注入接觸系統，以及自行在第三方網站張貼內容。接獲通知不代表各網站均遭入侵；OpenAI 依可能繞過安全控制、影響服務或造成其他負面影響等條件通知，調查仍在進行。 另有代理在研究環境中，把 53 張使用者同意用於改善模型的圖片意外傳到",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【DataDome 2026 報告】惡意 Bot 增速超越人類 9 倍：逾六成網站防護掛零，僅 2.4% 具備完整防禦力",
-        "link": "https://techorange.com/2026/09/24/state-of-bot-agent-security-report-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 24 Sep 2026 17:10:46 +0800",
-        "description": "資安公司 DataDome 發布《2026 年 Bot 與 Agent 安全狀況報告》（State of Bot & Agent Security Report 2026），分析超過 1 兆筆請求、涵蓋逾 7.5 萬個客戶網站，並測試超過 2 萬個熱門網站。報告指出，過去一年自動化流量快速增加，惡意 Bot 開始鎖定更具商業價值的使用者流程，AI Agent 也逐漸從資料蒐集延伸至實際操作。 AI 資料供應鏈可能推升網頁爬取流量？惡意 Bot 流量增 約 124% DataDome 統計 202",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【微軟前沿企業 AI 轉型守則】試點小組人均營收成長 9.4%，靠「角色加速配方」找出職務痛點嵌入 AI",
-        "link": "https://techorange.com/2026/09/26/becoming-a-frontier-firm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 26 Sep 2026 06:29:00 +0800",
-        "description": "微軟近期發布白皮書《Becoming a Frontier Firm: Our Frontier Playbook》（成為前沿企業：前沿教戰守則），提供全球企業一套將人工智慧技術深度融入營運模式、業務流程與人才架構的系統化轉型方法論與實證指標。 報告核心在於破除「購買工具即完成轉型」的迷思，強調「AI 導入」本質上是一場全面的商業變革，必須由企業整體商業戰略導引，並錨定明確的業務成效。 📎 這份報告適合誰閱讀？ 報告內容並非單純的技術說明書，而是涵蓋戰略、營運、技術與組織變革的指南，適合以下 5",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
+        "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
+        "pubDate": "Wed, 30 Sep 2026 17:28:00 +0530",
+        "description": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
+        "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
+        "pubDate": "Wed, 30 Sep 2026 17:00:00 +0530",
+        "description": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,000 internal images from developers at over 300 org",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
+        "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
+        "pubDate": "Wed, 30 Sep 2026 16:15:00 +0530",
+        "description": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.\n\nBy ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
+        "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
+        "pubDate": "Wed, 30 Sep 2026 13:54:35 +0530",
+        "description": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
+        "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
+        "pubDate": "Wed, 30 Sep 2026 13:39:28 +0530",
+        "description": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes.\n\nDTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arr",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
+        "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
+        "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530",
+        "description": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-88772 (CVSS score",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
+        "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
+        "pubDate": "Wed, 30 Sep 2026 08:25:10 -0400",
+        "description": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Bitget hacked via zero-day in third-party security products",
+        "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
+        "pubDate": "Wed, 30 Sep 2026 07:11:46 -0400",
+        "description": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
         "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
@@ -327,65 +383,37 @@
         "pubDate": "Tue, 29 Sep 2026 14:05:10 +0530",
         "description": "Dutch authorities have confirmed that they arrested a 24-year-old man from Amsterdam in connection with the ShinyHunters group.\n\n\"It is true that this month a 24-year-old man from Amsterdam was arrested in an investigation into the hacker group Shiny",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Windows 11 2026 Update released, here's everything you need to know",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-2026-update-released-heres-everything-you-need-to-know/",
-        "pubDate": "Tue, 29 Sep 2026 13:37:40 -0400",
-        "description": "Microsoft has started rolling out Windows 11 26H2 to everyone, and while it's this year's big annual feature update, you probably won't notice a massive difference after installing it. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "New Spectre v2 attack variant leaks Linux root password hash in minutes",
-        "link": "https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/",
-        "pubDate": "Tue, 29 Sep 2026 13:10:11 -0400",
-        "description": "A new Branch Target Reuse (BTR) attack has been devised that can recover root password hashes on Intel computers running Linux in 3-5 minutes on average. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Automated AI agent used to breach cybersecurity nonprofit DIVD",
-        "link": "https://www.bleepingcomputer.com/news/security/automated-ai-agent-used-to-breach-cybersecurity-nonprofit-divd/",
-        "pubDate": "Tue, 29 Sep 2026 11:39:19 -0400",
-        "description": "The Dutch Institute for Vulnerability Disclosure (DIVD) suffered an AI-driven cyberattack that the organization described as \"loud and very, very messy.\" [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
-        "link": "https://thehackernews.com/2026/09/official-mcp-python-sdk-flaw-can-let.html",
-        "pubDate": "Tue, 29 Sep 2026 11:38:25 +0530",
-        "description": "A malicious MCP server could trick an application built on the official MCP Python SDK into handing over the OAuth credentials it uses to log in to a real service, the SDK's maintainers said in a security advisory.\n\nAffected versions sent the client ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI Shelves GPT-6.1 Astra After Tests Find Deception and Unauthorized Actions",
-        "link": "https://thehackernews.com/2026/09/openai-shelves-gpt-61-astra-after-tests.html",
-        "pubDate": "Tue, 29 Sep 2026 10:42:32 +0530",
-        "description": "OpenAI on Monday shelved plans to release GPT-6.1 Astra, a next-generation artificial intelligence (AI) model that was planned for an October launch, after it failed internal safety and alignment audits.\n\nThe development was first reported by The Wal",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
-        "link": "https://thehackernews.com/2026/09/openai-pauses-tool-use-after-agent.html",
-        "pubDate": "Tue, 29 Sep 2026 10:15:20 +0530",
-        "description": "OpenAI said it has made the decision to pause training of its most powerful models after one of its agents during reinforcement learning (RL) training contacted an external chatbot by exploiting a loophole in its internet-access restrictions.\n\n\"An ag",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Catch threats before they escalate with real-time Identity Telemetry",
-        "link": "https://www.bleepingcomputer.com/news/security/catch-threats-before-they-escalate-with-real-time-identity-telemetry/",
-        "pubDate": "Tue, 29 Sep 2026 10:01:11 -0400",
-        "description": "Identity governance helps control who should have access, but periodic reviews alone may not reveal attacks as they happen. tenfold Software explains how real-time identity telemetry can help security teams investigate suspicious activity before it e",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Vietnamese man charged in $16 million 'pig butchering' crypto scam",
-        "link": "https://www.bleepingcomputer.com/news/security/vietnamese-man-charged-in-16-million-pig-butchering-crypto-scam/",
-        "pubDate": "Tue, 29 Sep 2026 07:41:53 -0400",
-        "description": "A Vietnamese national was charged with money laundering for his role in a massive \"pig butchering\" scam, which defrauded a victim out of $16 million worth of cryptocurrency. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Charter Space raises $5M to bring insurance to the stars",
+        "link": "https://techcrunch.com/2026/09/30/charter-space-raises-5m-to-bring-insurance-to-the-stars/",
+        "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
+        "description": "As Charter explains on its website, a common experience for space companies is that regular insurers \"heard a bunch of scary science words and freaked out.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tinder adapts to a social, IRL dating future with ‘Group Hangouts’ feature",
+        "link": "https://techcrunch.com/2026/09/30/tinder-adapts-to-a-social-irl-dating-future-with-group-hangouts-feature/",
+        "pubDate": "Wed, 30 Sep 2026 13:00:00 +0000",
+        "description": "As younger users grow increasingly tired of the endless scroll, dating apps are scrambling to adapt to a generation that increasingly wants dating to feel more social and rooted in real-world experiences. The latest example comes from Tinder, which o",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Two Google alumni raise $11.3M to back AI startups that enterprises will actually pay for",
+        "link": "https://techcrunch.com/2026/09/30/bag-ventures-sets-its-eyes-deeper-into-the-ai-stack/",
+        "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+        "description": "BAG Ventures announces close of a $11.3M Fund I to invest in all things AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Airbnb adds AI search, more social features",
+        "link": "https://techcrunch.com/2026/09/30/airbnb-adds-ai-search-more-social-features/",
+        "pubDate": "Wed, 30 Sep 2026 12:00:00 +0000",
+        "description": "Airbnb is also launching new services such as meal delivery and laundry in select locations.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Apple Pay finally launches in India after years on the sidelines",
         "link": "https://techcrunch.com/2026/09/29/apple-pay-set-to-launch-in-india-with-axis-bank-today-sources-say/",
@@ -464,66 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Dutch police arrest ShinyHunters hacker accused of planning two murders",
-        "link": "https://techcrunch.com/2026/09/29/dutch-police-arrest-shinyhunters-hacker-accused-of-planning-two-murders/",
-        "pubDate": "Tue, 29 Sep 2026 17:27:09 +0000",
-        "description": "Dutch police said the hacker, arrested for being part of the ShinyHunters cybercriminal gang, had plans to organize the murder of two people on his laptop.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI-powered app maker Wabi pivots to a messaging experience",
-        "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
-        "pubDate": "Tue, 29 Sep 2026 17:20:00 +0000",
-        "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI launches Dots, its bubbly agentic avatar",
-        "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
-        "pubDate": "Tue, 29 Sep 2026 17:17:15 +0000",
-        "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-        "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-        "pubDate": "Tue, 29 Sep 2026 17:15:00 +0000",
-        "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-        "pubDate": "2026-09-29T20:19:13-04:00",
-        "description": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the model",
+        "title": "Amazon&#8217;s new Fire TV Stick 4K can pull power directly from your TV",
+        "link": "https://www.theverge.com/streaming/1002597/amazon-fire-tv-stick-4k-direct-power",
+        "pubDate": "2026-09-30T09:00:16-04:00",
+        "description": "The new Fire TV Stick 4K will be a little easier to set up than Amazon's previous 4K streaming sticks since it no longer requires a power adapter. You can power the device directly from your TV's USB port, like the updated entry-level Fire TV Stick A",
         "source": "TheVerge"
       },
       {
-        "title": "Trump orders US government to call AI ‘Super Intelligence’",
-        "link": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-        "pubDate": "2026-09-29T18:25:45-04:00",
-        "description": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super Intelligence,\" thanks to a new executive order sign",
+        "title": "Win cool gadgets we can’t keep because The Verge has ethics",
+        "link": "https://www.theverge.com/gadgets/1002523/today-im-toying-with-giveaway-free-gadgets",
+        "pubDate": "2026-09-30T09:00:00-04:00",
+        "description": "When people learn I work for The Verge, they inevitably ask: \"Do you get to keep the gadgets?\" Now that I film Today I'm Toying With, a video series where I share the joy of tech, I get that question more than ever. The answer is no, we don't keep th",
         "source": "TheVerge"
       },
       {
-        "title": "BMW’s revamped i3 boasts up to 468 miles of range",
-        "link": "https://www.theverge.com/transportation/1002173/bmws-revamped-i3-boasts-up-to-468-miles-of-range",
-        "pubDate": "2026-09-29T18:01:00-04:00",
-        "description": "When BMW first announced it was reimagining the i3 as an all-electric four-door sedan built on its Neue Klasse platform, it left out a lot of important details, like battery capacity, range, and price. Today, the German automaker is finally starting ",
+        "title": "Here’s how tech leaders will self-police AI safety under Trump’s deal",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1002584/trump-us-ai-safety-deal-self-regulation-tech-execs",
+        "pubDate": "2026-09-30T08:24:32-04:00",
+        "description": "We now have the full details of the \"morally binding\" AI safety deal announced by President Trump yesterday, in which top executives agreed to self-regulate their artificial intelligence technology. The accord, officially titled the Joint Commitment ",
         "source": "TheVerge"
       },
       {
-        "title": "Suspected ShinyHunters leader arrested in the Netherlands",
-        "link": "https://www.theverge.com/tech/1002410/shinyhunters-hacking-suspect-arrested",
-        "pubDate": "2026-09-29T17:50:31-04:00",
-        "description": "Dutch police say they arrested a 24-year-old Amsterdam man in connection with ShinyHunters, the hacking group that claimed responsibility for high-profile attacks on Ticketmaster, Rockstar Games, and more recently, the FBI. In a press release, Dutch ",
+        "title": "Samsung gives its two-year-old Galaxy Tab S Plus an overhaul",
+        "link": "https://www.theverge.com/tech/1002533/samsung-galaxy-tab-s12-plus-ultra-android-tablets-specs-price",
+        "pubDate": "2026-09-30T08:00:00-04:00",
+        "description": "Since the Galaxy Tab S10 line, Samsung has updated its flagship Ultra tablet annually, but alternates its regular and Plus variants. It means that this year's Galaxy Tab S12 series includes an Ultra model with few changes from last year's Tab S11 Ult",
         "source": "TheVerge"
       },
       {
-        "title": "Elon Musk&#8217;s AI-powered Grokipedia is updating again",
-        "link": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-        "pubDate": "2026-09-29T17:49:09-04:00",
-        "description": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live upd",
+        "title": "Samsung’s new SmartTag is smaller, longer-lasting, and works with iPhones",
+        "link": "https://www.theverge.com/tech/1002552/samsung-galaxy-smarttag-3-design-battery-price-features",
+        "pubDate": "2026-09-30T08:00:00-04:00",
+        "description": "Samsung has announced its third-generation Bluetooth tracker, the Galaxy SmartTag 3. It combines a smaller design and improved battery life with a few new tracking and software features, including cross-OS support intended to make it easier to share ",
         "source": "TheVerge"
       }
     ],
