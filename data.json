@@ -1,7 +1,28 @@
 {
-  "ts": "2026-09-30T22:36:29.281293Z",
+  "ts": "2026-10-01T01:32:50.577970Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "全球前百萬網站54%支援PQC金鑰交換，CDN預設啟用成主要推力",
+        "link": "https://www.ithome.com.tw/news/179267",
+        "pubDate": "2026-10-01 08:00",
+        "description": "F5調查發現，全球前100萬網站已有逾五成支援PQC金鑰交換，背後主要受到CDN效應推動，但不代表PQC轉型已經完成。公開Web目前仍未出現採用PQC憑證進行網站身分驗證的案例",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PQC金鑰轉型應從信任根著手，傳統信任根恐讓整個金鑰階層面臨量子威脅",
+        "link": "https://www.ithome.com.tw/news/179311",
+        "pubDate": "2026-10-01 08:00",
+        "description": "企業即使已在部分系統導入PQC，也不代表整個金鑰階層已具備量子安全能力。CSA指出，只要上層金鑰或信任根仍依賴傳統密碼學，整個金鑰階層仍可能面臨量子威脅",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Island募資4億美元，從企業瀏覽器擴展AI代理治理",
+        "link": "https://www.ithome.com.tw/news/179225",
+        "pubDate": "2026-10-01 08:00",
+        "description": "以企業瀏覽器打響名號的Island，今年進一步將企業控管擴展至一般瀏覽器、桌面應用程式及網路環境，同時開始提供AI代理治理功能",
+        "source": "iThome資安"
+      },
       {
         "title": "加拿大量子安全公司Quantum eMotion併購資安業者Plurilock，整合QRNG、PQC與AI資安能力，加速商業化布局",
         "link": "https://www.ithome.com.tw/news/179317",
@@ -87,27 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "商周集團透露網站遭受攻擊事故復原後續進度：中秋節前已將兩個網站重新上線",
-        "link": "https://www.ithome.com.tw/news/179298",
-        "pubDate": "2026-09-30 11:56",
-        "description": "上週末商周集團宣布，旗下的良醫健康網與alive兩個網站，經過深度檢測與測試之後，於中秋節前夕正式重新啟用，並透露目前該集團其他網站的復原情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla發布Firefox 157改版，修補近80個弱點",
-        "link": "https://www.ithome.com.tw/news/179297",
-        "pubDate": "2026-09-30 11:45",
-        "description": "本週Firefox 157正式推出，Mozilla基金會總共修補76個資安漏洞，並指出其中有一半是高風險等級，用戶應升級新版以緩解相關弱點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國五角大廈人事資料系統遭駭，逾300萬軍人個資外洩",
-        "link": "https://www.ithome.com.tw/news/179295",
-        "pubDate": "2026-09-30 11:19",
-        "description": "美國國防人力資料中心（DMDC）檔案共享系統遭未授權存取近9個月，外洩資料包括社會安全號碼及軍職資訊",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI更新Codex Cloud，雲端開發環境可重複套用並供團隊共享",
         "link": "https://www.ithome.com.tw/news/179321",
         "pubDate": "2026-09-30  06:09:21",
@@ -119,13 +119,6 @@
         "link": "https://www.ithome.com.tw/news/179309",
         "pubDate": "2026-09-30  02:09:34",
         "description": "連同美國政府和科技巨頭的AI合作，美國白宮周二宣佈America.gov網站上線，作為民眾查詢聯邦政府資訊使用政府服務的入口網站。網站將使用Google Gemini及SpaceXAI的Grok的聊天機器人技術。",
-        "source": "iThome"
-      },
-      {
-        "title": "OpenAI推出常駐AI代理人Dots，可24小時自主工作、擁有專屬雲端電腦",
-        "link": "https://www.ithome.com.tw/news/179303",
-        "pubDate": "2026-09-30  01:09:23",
-        "description": "OpenAI周二（9/29）於ChatGPT推出常駐型AI代理人Dots，可全天候在背景持續替使用者工作。這些Dot採用GPT-6 Astra模型，擁有專屬雲端電腦及瀏覽器，並可透過Plugins連接超過4,000個應用程式。\n不同於使用者提出要求後才執行單次任務的AI代理人，Dot可持續掌握使用者的目標、偏好及工作標準。使用者交付專案後，即使離開ChatGPT，Dot仍可在自己的雲端電腦繼續執行工作，也能同時接下其他專案，不必由使用者管理多段獨立對話或逐步下達指令。",
         "source": "iThome"
       },
       {
@@ -229,17 +222,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "AMD 將以 82 億美元收購李飛飛 World Labs：搶進「實體 AI」，正面對決 NVIDIA",
-        "link": "https://techorange.com/2026/09/29/amd-acquire-fei-fei-lis-world-labs-82-billion-deal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 12:01:53 +0800",
-        "description": "美國晶片大廠 AMD 宣布，將以全股票交易、約 82 億美元收購 AI 新創 World Labs，取得其在實體 AI 與空間智慧領域的研究能力。World Labs 由知名 AI 研究者李飛飛創辦，研究重點在於讓 AI 更理解及模擬真實世界。《Reuters》報導，空間智慧著重讓 AI 建立三維環境模型，並理解實體世界中的互動，潛在應用包括機器人、模擬、設計及其他真實世界場景。 AI 需理解物理世界：李飛飛創立之 World Labs 將與 AMD 整合軟硬體 AMD 表示，World Lab",
+        "title": "P&amp;G 測紙巾、三星 SDI 測電池內部金屬：AI 視覺如何攻下傳統光學檢測盲點？",
+        "link": "https://techorange.com/2026/10/01/pg-siemens-samsung/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 06:24:00 +0800",
+        "description": "在製造現場，品質檢測一直是自動化最難處理的環節之一。當產線運轉速度越快，留給相機擷取影像、算力進行分析與判定瑕疵的時間就被壓縮得越短，若遇上紙巾、包裝材料等容易伸縮、褶皺或移位的柔軟材質，產品外觀本身的變化甚至可能被誤判為瑕疵。若瑕疵藏在產品內部，傳統光學檢測更難直接辨識。 近年來，工業級 AI 視覺技術的普及正徹底翻轉傳統自動光學檢測（AOI）的局限。寶潔（P&G）與西門子（Siemens）聯手打造的「視覺檢測駕駛艙」（Visual Inspection Cockpit，VIC），成功將深度學",
         "source": "TechOrange"
       },
       {
-        "title": "Google 研究：AI 有幻覺是因為「想不起來」！增加規模無助提取問題，靠思考才能找回答案",
-        "link": "https://techorange.com/2026/09/29/ai-recall-bottleneck-think-longer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 10:00:06 +0800",
-        "description": "Google 研究人員發現，AI 模型產生幻覺不一定是由於缺乏知識，而是在生成答案的過程中，AI 無法將過去所內化的資訊，重新回憶並進行提取，除非仰賴思維鏈等推理機制。",
+        "title": "【科技早餐】Anthropic IPO 文件警告：先進 AI 恐帶來災難性風險",
+        "link": "https://techorange.com/2026/10/01/anthropic-ipo-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 傳募資至少 300 億美元，Anthropic 招股文件示警 AI 災難性風險 OpenAI 傳尋求至少 300 億美元新資金，Anthropic IPO 文件則揭露高速成長、巨額虧損與先進 AI 的安全風險。《彭博》引述知情人士報導，OpenAI 正尋求募資至少 300 億美元，目標估值約 1.4 兆美元，不包含這次募資的新資金。協商仍在初期，條件可能改變。OpenAI 執行長 Sam Altman 也在開發者大會表示，公司將優",
         "source": "TechOrange"
       }
     ],
@@ -387,6 +380,20 @@
     ],
     "en_tech": [
       {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "pubDate": "Wed, 30 Sep 2026 23:43:07 +0000",
+        "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
+        "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
+        "pubDate": "Wed, 30 Sep 2026 23:08:00 +0000",
+        "description": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
         "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
         "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
@@ -394,10 +401,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Factory CEO just accused his VC board advisor of spying for Cognition",
+        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
         "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
         "pubDate": "Wed, 30 Sep 2026 20:39:09 +0000",
-        "description": "VC Chris Degnan and former board advisor to Factory AI has taken a job as chief revenue officer for Cognition.",
+        "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
         "source": "TechCrunch"
       },
       {
@@ -478,18 +485,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Instinct’s new product recommendations are giving some users the ick",
-        "link": "https://techcrunch.com/2026/09/30/instincts-new-product-recommendations-are-giving-some-users-the-ick/",
-        "pubDate": "Wed, 30 Sep 2026 15:56:28 +0000",
-        "description": "Instinct is rolling out human-curated product and travel recommendations, but some users aren’t happy about getting suggestions they never asked for.",
-        "source": "TechCrunch"
+        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
+        "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
+        "pubDate": "2026-09-30T20:23:45-04:00",
+        "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI hea",
+        "source": "TheVerge"
       },
       {
-        "title": "FedEx orders 2,000 electric trucks from Harbinger in $300M deal",
-        "link": "https://techcrunch.com/2026/09/30/fedex-orders-2000-electric-trucks-from-harbinger-in-300m-deal/",
-        "pubDate": "Wed, 30 Sep 2026 15:26:02 +0000",
-        "description": "The order -- Harbinger's biggest ever -- comes as the startup is reportedly considering an IPO.",
-        "source": "TechCrunch"
+        "title": "The new and huger Paramount has a new co-CEO",
+        "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
+        "pubDate": "2026-09-30T19:08:49-04:00",
+        "description": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to",
+        "source": "TheVerge"
       },
       {
         "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
@@ -510,20 +517,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
         "pubDate": "2026-09-30T14:07:38-04:00",
         "description": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Reddit says it has to cut back access to ‘Old Reddit’ because of AI bots",
-        "link": "https://www.theverge.com/tech/1002788/old-reddit-ai-scraping",
-        "pubDate": "2026-09-30T13:45:00-04:00",
-        "description": "Reddit is further limiting who can use the \"Old Reddit\" experience as part of its efforts to combat scraping and automated traffic. Reddit recently started forcing users to log in to be able to use Old Reddit, but in the \"next few months,\" the compan",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Amazon&#8217;s delivery driver smart glasses will reportedly take photos &#8216;almost constantly&#8217;",
-        "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
-        "pubDate": "2026-09-30T13:21:29-04:00",
-        "description": "Amazon deliveries could soon come with a new catch: the delivery driver's smart glasses will be snapping photos of anything they see while they're in use, including people and private property. Bloomberg reports that the glasses could take \"several t",
         "source": "TheVerge"
       }
     ],
