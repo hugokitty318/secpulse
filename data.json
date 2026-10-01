@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-01T15:24:55.630441Z",
+  "ts": "2026-10-01T20:29:18.717702Z",
   "tabs": {
     "cn_sec": [
       {
@@ -280,20 +280,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Know Your Enemy: Browser-Based Attack Techniques in 2026",
-        "link": "https://thehackernews.com/2026/09/know-your-enemy-browser-based-attack.html",
-        "pubDate": "Wed, 30 Sep 2026 17:28:00 +0530",
-        "description": "Given that the browser is where business apps are accessed and used, it makes sense that attacks are happening there too. Most breaches today begin in a browser session. Often, they never leave it, with the entire attack chain from initial access to ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "AI Coding Agents Exposed 13,000 Internal Images, Including Billing Records, on GitHub",
-        "link": "https://thehackernews.com/2026/09/ai-coding-agents-exposed-13000-internal.html",
-        "pubDate": "Wed, 30 Sep 2026 17:00:00 +0530",
-        "description": "AI coding agents asked to share screenshots of code changes for review have put internal company images in public GitHub repositories, security company Glow said.\n\nIts researchers found more than 13,000 internal images from developers at over 300 org",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Russian state hackers use new RedFlick technique to push malware",
         "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
         "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400",
@@ -350,11 +336,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Bitget hacked via zero-day in third-party security products",
-        "link": "https://www.bleepingcomputer.com/news/security/bitget-hacked-via-zero-day-in-third-party-security-products/",
-        "pubDate": "Wed, 30 Sep 2026 07:11:46 -0400",
-        "description": "Cryptocurrency exchange Bitget revealed today that attackers who stole $387.5 million last week breached its systems after exploiting a zero-day flaw in third-party security products. [...]",
-        "source": "BleepingComputer"
+        "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
+        "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
+        "pubDate": "Thu, 01 Oct 2026 22:25:57 +0530",
+        "description": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old w",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
+        "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
+        "pubDate": "Thu, 01 Oct 2026 22:15:38 +0530",
+        "description": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A p",
+        "source": "TheHackerNews"
       },
       {
         "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
@@ -385,6 +378,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Microsoft says threat actors are ahead in the early AI race",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
+        "pubDate": "Thu, 01 Oct 2026 15:32:47 -0400",
+        "description": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to ",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
         "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
         "pubDate": "Thu, 01 Oct 2026 13:19:36 +0530",
@@ -394,59 +394,73 @@
     ],
     "en_tech": [
       {
-        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
-        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
-        "pubDate": "Wed, 30 Sep 2026 23:43:07 +0000",
-        "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "title": "ChatGPT can now virtually try on clothes for you",
+        "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+        "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
+        "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
         "source": "TechCrunch"
       },
       {
-        "title": "The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next",
-        "link": "https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next/",
-        "pubDate": "Wed, 30 Sep 2026 23:08:00 +0000",
-        "description": "Defense Secretary Pete Hegseth just launched a 120-day study on the future of warfare, led by Elon Musk, Palmer Luckey, and Newt Gingrich, and while it makes sense given their ties to the administration, critics could point out that Musk's and Luckey",
+        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+        "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
+        "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
         "source": "TechCrunch"
       },
       {
-        "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
-        "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
-        "pubDate": "Wed, 30 Sep 2026 21:07:40 +0000",
-        "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+        "title": "World’s first enhanced geothermal power plant completed in just 23 months",
+        "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
+        "pubDate": "Thu, 01 Oct 2026 18:35:55 +0000",
+        "description": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
         "source": "TechCrunch"
       },
       {
-        "title": "Factory CEO just accused his VC board adviser of spying for Cognition",
-        "link": "https://techcrunch.com/2026/09/30/factory-ceo-just-accused-his-vc-board-advisor-of-spying-for-cognition/",
-        "pubDate": "Wed, 30 Sep 2026 20:39:09 +0000",
-        "description": "VC Chris Degnan and former board adviser to Factory AI has taken a job as chief revenue officer for competitor Cognition -- and everyone is arguing on X about it.",
+        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+        "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+        "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
+        "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
         "source": "TechCrunch"
       },
       {
-        "title": "Is Neko Health’s body scan worth it? Spotify billionaire’s startup has come to America",
-        "link": "https://techcrunch.com/video/is-neko-healths-body-scan-worth-it-spotify-billionaires-startup-has-come-to-america/",
-        "pubDate": "Wed, 30 Sep 2026 20:20:02 +0000",
-        "description": "Spotify founder Daniel Ek’s Neko Health raised $700 million to build a business around scanning your body, but it’s not the only company centering its roadmap around a new kind of preventative healthcare. Midjourney is building its own body scanner, ",
+        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
+        "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
+        "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
+        "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hackers stole millions of US military personnel records during months-long data breach",
-        "link": "https://techcrunch.com/2026/09/30/hackers-stole-millions-of-us-military-personnel-records-during-months-long-data-breach/",
-        "pubDate": "Wed, 30 Sep 2026 19:29:08 +0000",
-        "description": "The Department of Defense notified millions of current and former U.S. military personnel that their personal information had been stolen in a months-long breach.",
+        "title": "This startup wants to turn idle car inventory into rental revenue",
+        "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
+        "pubDate": "Thu, 01 Oct 2026 17:09:00 +0000",
+        "description": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15",
         "source": "TechCrunch"
       },
       {
-        "title": "DoorDash’s drone strategy started on the ground",
-        "link": "https://techcrunch.com/2026/09/30/doordashs-drone-strategy-started-on-the-ground/",
-        "pubDate": "Wed, 30 Sep 2026 19:22:13 +0000",
-        "description": "DoorDash unveiled the six-propeller aircraft that will be used in its new drone delivery business at its annual Dash Forward 2026 event.",
+        "title": "Amazon releases its own Jev clone as decision models flood the web",
+        "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
+        "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
+        "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
         "source": "TechCrunch"
       },
       {
-        "title": "BMW built the same car for gas and electric. The EV is $4,400 cheaper.",
-        "link": "https://techcrunch.com/2026/09/30/bmw-built-the-same-car-for-gas-and-electric-the-ev-is-4400-cheaper/",
-        "pubDate": "Wed, 30 Sep 2026 19:19:40 +0000",
-        "description": "The new BMW 3 Series shows just how quickly EVs have caught up to fossil fuel vehicles on pricing.",
+        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+        "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+        "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
+        "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
+        "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
+        "pubDate": "Thu, 01 Oct 2026 16:35:25 +0000",
+        "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
+        "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
+        "pubDate": "Thu, 01 Oct 2026 15:50:10 +0000",
+        "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
         "source": "TechCrunch"
       },
       {
@@ -485,52 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
-        "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
-        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-        "description": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
-        "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "pubDate": "Thu, 01 Oct 2026 12:00:00 +0000",
-        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "NYC is now the first city in America that bans sketchy subscriptions",
-        "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
-        "pubDate": "2026-10-01T10:49:25-04:00",
-        "description": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a ",
+        "title": "Google’s new Guided Vision feature can help you read the fine print",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
+        "pubDate": "2026-10-01T15:47:51-04:00",
+        "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with thing",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
-        "pubDate": "2026-10-01T10:36:50-04:00",
-        "description": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-d",
+        "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
+        "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
+        "pubDate": "2026-10-01T15:20:29-04:00",
+        "description": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly",
         "source": "TheVerge"
       },
       {
-        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-        "pubDate": "2026-10-01T10:00:00-04:00",
-        "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts",
+        "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
+        "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
+        "pubDate": "2026-10-01T14:52:58-04:00",
+        "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's so",
         "source": "TheVerge"
       },
       {
-        "title": "The best early October Prime Day deals happening now",
-        "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "pubDate": "2026-10-01T09:35:15-04:00",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3",
+        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+        "pubDate": "2026-10-01T13:12:21-04:00",
+        "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
         "source": "TheVerge"
       },
       {
-        "title": "What even is a ‘microdrama’?",
-        "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
-        "pubDate": "2026-10-01T09:30:00-04:00",
-        "description": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Though Neighbours ran for 41 sea",
+        "title": "Sony brings AI graphics upscaling to the regular PS5",
+        "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
+        "pubDate": "2026-10-01T12:53:39-04:00",
+        "description": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, accor",
         "source": "TheVerge"
       }
     ],
