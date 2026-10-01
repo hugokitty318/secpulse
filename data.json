@@ -1,19 +1,75 @@
 {
-  "ts": "2026-10-01T01:32:50.577970Z",
+  "ts": "2026-10-01T07:46:57.491425Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "全球前百萬網站54%支援PQC金鑰交換，CDN預設啟用成主要推力",
-        "link": "https://www.ithome.com.tw/news/179267",
-        "pubDate": "2026-10-01 08:00",
-        "description": "F5調查發現，全球前100萬網站已有逾五成支援PQC金鑰交換，背後主要受到CDN效應推動，但不代表PQC轉型已經完成。公開Web目前仍未出現採用PQC憑證進行網站身分驗證的案例",
+        "title": "因應PQC簽章帶來的憑證架構負擔，Cloudflare完成初步大規模MTC實測，已傳送數十億份憑證",
+        "link": "https://www.ithome.com.tw/news/179335",
+        "pubDate": "2026-10-01 12:55",
+        "description": "為降低PQC憑證帶來的傳輸與驗證負擔，Cloudflare與Google正測試新的憑證架構與驗證機制MTC。最新實驗結果顯示，MTC已提供給50%的Chrome Beta 146使用者，累計傳送數十億份憑證，已驗證其初步可行性",
         "source": "iThome資安"
       },
       {
-        "title": "PQC金鑰轉型應從信任根著手，傳統信任根恐讓整個金鑰階層面臨量子威脅",
-        "link": "https://www.ithome.com.tw/news/179311",
+        "title": "Google發表Gemini 4 Argon，輸出上限增至100萬個Token",
+        "link": "https://www.ithome.com.tw/news/179337",
+        "pubDate": "2026-10-01 12:46",
+        "description": "Google發表新一代AI模型Gemini 4 Argon，輸出上限提高至100萬個token，是先前Gemini模型的逾15倍，可在單次執行過程持續推理並處理更長的工作流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國強化跨產業的基礎設施韌性，近50家不同領域領導企業加入關鍵基礎設施聯盟（ACI）",
+        "link": "https://www.ithome.com.tw/news/179334",
+        "pubDate": "2026-10-01 12:04",
+        "description": "ACI新設CEO層級董事會，聚焦LLM資安、開源軟體、供應鏈及攻擊應變，並加強與政府合作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客UAT-11587於亞洲多國政府散布後門Antino，其中包含臺灣",
+        "link": "https://www.ithome.com.tw/news/179333",
+        "pubDate": "2026-10-01 11:30",
+        "description": "思科威脅情報團隊Talos揭露中國駭客UAT-11587的網路間諜活動，這些駭客專門針對臺灣等多個國家的亞洲政府機關，以及參與制訂政策的組織，並散布Rust後門程式Antino",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Microsoft強化Entra ID登入驗證流程，阻擋外部指令碼注入",
+        "link": "https://www.ithome.com.tw/news/179331",
+        "pubDate": "2026-10-01 11:02",
+        "description": "去年11月預告的登入流程強化內容安全性原則，將於今年10月中旬起陸續啟用，僅允許受信任Microsoft網域指令碼執行，降低XSS等攻擊風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix NetScaler漏洞被用於攻擊北美與歐洲組織，駭客藉此散布惡意程式WhipShot與SlapShot",
+        "link": "https://www.ithome.com.tw/news/179330",
+        "pubDate": "2026-10-01 10:48",
+        "description": "Citrix本週修補的NetScaler重大漏洞CVE-2026-88771、 CVE-2026-88772，Google指出已在北美與歐洲發現攻擊活動，鎖定政府機關、金融服務、科技等產業，相關活動可追溯至9月初",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cloudflare計畫成為公開憑證授權機構，將支援後量子MTC憑證",
+        "link": "https://www.ithome.com.tw/news/179327",
+        "pubDate": "2026-10-01 10:45",
+        "description": "Cloudflare宣布有意成為公開憑證授權機構（CA），一方面希望降低Web PKI在導入後量子憑證時的效能與遷移負擔，另一方面增加公開憑證供應來源，提升整體備援與韌性",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA將思科Catalyst SD-WAN Manager重大漏洞列KEV",
+        "link": "https://www.ithome.com.tw/news/179329",
+        "pubDate": "2026-10-01 10:41",
+        "description": "美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV）內容，新增思科Catalyst SD-WAN Manager重大漏洞CVE-2026-76504，並要求聯邦機構3天內緊急採取行動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科警告Catalyst SD-WAN Manager存在重大等級的身分驗證繞過漏洞",
+        "link": "https://www.ithome.com.tw/news/179325",
+        "pubDate": "2026-10-01 10:07",
+        "description": "本週思科揭露重大等級的漏洞CVE-2026-76504，此弱點存在於Catalyst SD-WAN Manager，攻擊者有機會透過API繞過身分驗證，值得留意的是，思科表示已發現遭到積極利用的跡象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA比較5種隱私強化技術，全同態加密可直接處理加密資料但效能負擔較高",
+        "link": "https://www.ithome.com.tw/news/179284",
         "pubDate": "2026-10-01 08:00",
-        "description": "企業即使已在部分系統導入PQC，也不代表整個金鑰階層已具備量子安全能力。CSA指出，只要上層金鑰或信任根仍依賴傳統密碼學，整個金鑰階層仍可能面臨量子威脅",
+        "description": "雲端安全聯盟（CSA）比較5種隱私強化技術，其中全同態加密（FHE）可直接對加密資料進行運算，但需要更多運算資源，企業導入時也需評估效能負擔",
         "source": "iThome資安"
       },
       {
@@ -24,109 +80,67 @@
         "source": "iThome資安"
       },
       {
+        "title": "PQC金鑰轉型應從信任根著手，傳統信任根恐讓整個金鑰階層面臨量子威脅",
+        "link": "https://www.ithome.com.tw/news/179311",
+        "pubDate": "2026-10-01 08:00",
+        "description": "企業即使已在部分系統導入PQC，也不代表整個金鑰階層已具備量子安全能力。CSA指出，只要上層金鑰或信任根仍依賴傳統密碼學，整個金鑰階層仍可能面臨量子威脅",
+        "source": "iThome資安"
+      },
+      {
+        "title": "全球前百萬網站54%支援PQC金鑰交換，CDN預設啟用成主要推力",
+        "link": "https://www.ithome.com.tw/news/179267",
+        "pubDate": "2026-10-01 08:00",
+        "description": "F5調查發現，全球前100萬網站已有逾五成支援PQC金鑰交換，背後主要受到CDN效應推動，但不代表PQC轉型已經完成。公開Web目前仍未出現採用PQC憑證進行網站身分驗證的案例",
+        "source": "iThome資安"
+      },
+      {
+        "title": "商用逾30年C++編譯器前端EDG開源，C++ Alliance接手維護",
+        "link": "https://www.ithome.com.tw/news/179328",
+        "pubDate": "2026-10-01  11:10:50",
+        "description": "老牌C/C++編譯器技術供應商Edison Design Group（EDG）正式公開C/C++編譯器前端原始碼，結束逾30年的專有授權模式。後續專案由非營利組織C++ Alliance接手維護，既有EDG開發人員也會繼續參與，原始碼目前已公開在GitHub。\nEDG的C++編譯器前端自1992年推出，而編譯器前端主要負責程式碼編譯的前置工作，負責處理語法、型別和程式結構，再把分析結果交給後續的編譯或開發工具使用。因此EDG前端不像GCC或Clang主要供一般開發者直接作為編譯工具使用，而是提供",
+        "source": "iThome"
+      },
+      {
+        "title": "Google將SynthID浮水印導入蛋白質，可追蹤AI設計來源",
+        "link": "https://www.ithome.com.tw/news/179332",
+        "pubDate": "2026-10-01  11:10:01",
+        "description": "Google DeepMind周三（9/30）發表SynthID Bio，將SynthID浮水印技術延伸至合成生物學，可在AI設計的蛋白質序列及3D結構中嵌入不易察覺的標記，以辨識及追蹤其來源。Google表示，實驗顯示加入浮水印後，蛋白質仍能維持原有的生物功能。",
+        "source": "iThome"
+      },
+      {
+        "title": "Open Standard美元穩定幣OUSD正式上線，Stripe、Visa等開放企業串接",
+        "link": "https://www.ithome.com.tw/news/179343",
+        "pubDate": "2026-10-01  03:10:09",
+        "description": "Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並提供Coinbase、Mastercard、Stripe及Visa等4條整合管道，讓企業與開發者可將OUSD應用於支付、結算、交易、外匯及錢包等金融服務。",
+        "source": "iThome"
+      },
+      {
+        "title": "Cloudflare重構Containers支援AI代理沙箱，百沙箱並行啟動不需1秒",
+        "link": "https://www.ithome.com.tw/news/179339",
+        "pubDate": "2026-10-01  02:10:40",
+        "description": "Cloudflare重構容器服務Containers，讓AI代理可依照不同任務臨時建立隔離的Linux工作環境，並在工作結束或暫停後保存檔案狀態。新版也縮短容器啟動時間，獨立測試顯示，同時建立100個沙箱時，啟動時間中位數由約4秒降至648毫秒。",
+        "source": "iThome"
+      },
+      {
+        "title": "Reddit封堵大規模資料爬取，11月關RSS、明年停止Public API公開存取",
+        "link": "https://www.ithome.com.tw/news/179341",
+        "pubDate": "2026-10-01  02:10:06",
+        "description": "美國社群新聞與討論平臺Reddit周三（9/30）宣布進一步限制外部程式大量取得平臺內容，將於11月13日停止支援簡易資訊聚合（Really Simple Syndication，RSS），並逐步關閉Public API存取，2027年3月全面停止Public API公開存取，以減少大規模資料爬取及自動化濫用。",
+        "source": "iThome"
+      },
+      {
+        "title": "健康幣今日上路！健保快易通串國健署Health GO App打造預防保健獎勵機制",
+        "link": "https://www.ithome.com.tw/news/179338",
+        "pubDate": "2026-10-01  01:10:50",
+        "description": "衛福部健康幣10月1日正式上路，要把民眾健檢、癌篩、打疫苗等預防保健行為，轉換為可查詢、可兌換的數位獎勵。年滿18歲且持有臺灣健保卡的民眾，完成健保快易通App身分驗證並綁定國健署Health GO App後，就能透過健康存摺的健康幣專區，來查詢累積情形。今年12月1日起，累積滿1,000健康幣，民眾可依規定於合作通路兌換健康商品、電子票券或折抵部分自費醫療項目。\n健康幣10月1日上路，健保快易通身兼點數查詢入口\n做完健檢、癌篩或打疫苗後，能不能不用自己留單據、拍照上傳，也能自動拿到獎勵？",
+        "source": "iThome"
+      },
+      {
         "title": "加拿大量子安全公司Quantum eMotion併購資安業者Plurilock，整合QRNG、PQC與AI資安能力，加速商業化布局",
         "link": "https://www.ithome.com.tw/news/179317",
         "pubDate": "2026-09-30 18:46",
         "description": "發展量子亂數產生器（QRNG）技術多年的加拿大Quantum eMotion（QeM），近日宣布併購資安業者Plurilock，期望藉由後者既有的客戶基礎、政府採購管道與服務能力，加快自身量子安全技術商業化",
         "source": "iThome資安"
-      },
-      {
-        "title": "逾百業者響應Nvidia Open Agent Safety Platform，打造跨產業的AI代理安全生態系",
-        "link": "https://www.ithome.com.tw/news/179324",
-        "pubDate": "2026-09-30 18:44",
-        "description": "Anthropic、Salesforce、SAP、Microsoft等業者啟動與Nvidia代理安全架構的整合，涵蓋AI模型、企業軟體、基礎架構與機器人等應用領域",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安署首度舉辦資安聯合稽核，將121場稽核併成16場",
-        "link": "https://www.ithome.com.tw/news/179323",
-        "pubDate": "2026-09-30 18:44",
-        "description": "化繁為簡、提升政府檢查資服廠商資安效率，針對行政院所屬機關的16家資服業者，資安署首度舉辦資安聯合稽核，不只要建立的是一套共通標準，也把原先預計的121場稽核，併成16場實體稽核，預計明年將擴大到中央及地方各級政府，受稽核廠商增至30家",
-        "source": "iThome資安"
-      },
-      {
-        "title": "事件應變難以沿用既有線性流程，SANS從勒索、雲端與OT實務挑戰印證動態調整必要性",
-        "link": "https://www.ithome.com.tw/news/179310",
-        "pubDate": "2026-09-30 16:31",
-        "description": "傳統線性事件應變流程愈來愈難涵蓋實際攻擊情境，SANS Institute近日發布動態資安事件回應框架DAIR，並邀請勒索軟體、雲端與OT領域專家從應變實務出發，解析現代資安事件在調查範圍、可見性與處置方式上面臨的新挑戰，以說明為何防禦方需要改以可隨新證據持續調整的動態方式進行應變",
-        "source": "iThome資安"
-      },
-      {
-        "title": "DAEMON Tools攻擊調查追出NeedyMantis惡意程式，活動已持續近一年",
-        "link": "https://www.ithome.com.tw/news/179313",
-        "pubDate": "2026-09-30 16:05",
-        "description": "NeedyMantis惡意程式至少自2025年10月起被用於鎖定特定組織的攻擊，駭客通常會在入侵企業環境後部署該惡意程式，用來維持存取並載入其他模組，受害對象包括電信、大學及政府相關組織",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic警告智譜GLM-5.3具自主漏洞攻擊能力，安全防護容易遭繞過",
-        "link": "https://www.ithome.com.tw/news/179312",
-        "pubDate": "2026-09-30 15:31",
-        "description": "開放權重AI模型的漏洞攻擊能力快速提升。Anthropic測試發現，智譜GLM-5.3已能自主開發端到端漏洞利用程式，部分測試表現接近Claude Mythos Preview",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】9月30日，Salesforce Agentforce傳出安全問題疑慮，該公司回應尚未發現被用於攻擊其客戶",
-        "link": "https://www.ithome.com.tw/news/179308",
-        "pubDate": "2026-09-30 14:56",
-        "description": "資安廠商指稱Salesforce AI代理平臺Agentforce出現SalesBleed安全問題，警示攻擊者不需取得企業的Salesforce帳號，就能透過公開的Web-to-Lead功能提交藏有惡意提示詞的潛在客戶資料，然而，Salesforce最新回應指出，目前並無任何證據顯示該報告所述問題曾被用於攻擊任何客戶",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本租車公司Times Car資料外洩，影響660萬用戶",
-        "link": "https://www.ithome.com.tw/news/179307",
-        "pubDate": "2026-09-30 14:54",
-        "description": "上週日本租車公司Times Car偵測到異常存取活動，並透露部分本週進一步說明，約有660萬個會員的帳號資料外洩，其中160個帳號含有身分證明文件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "針對日前揭露的路由器DIR-822A重大漏洞，D-Link表示臺灣用戶不受影響",
-        "link": "https://www.ithome.com.tw/news/179306",
-        "pubDate": "2026-09-30 14:29",
-        "description": "D-Link針對近期揭露的路由器DIR-822A重大漏洞CVE-2026-86296、CVE-2026-86510進一步表示，此為新加坡專屬機種，未在其他國家銷售，臺灣用戶不受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "荷蘭警方逮捕疑似涉及參與駭客組織ShinyHunters嫌犯",
-        "link": "https://www.ithome.com.tw/news/179302",
-        "pubDate": "2026-09-30 13:11",
-        "description": "荷蘭警方於9月15日逮捕嫌犯並扣押內含大量證據的電子裝置，荷蘭警方與FBI正擴大調查其他ShinyHunters涉及案件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "JadePuffer借助AI代理攻擊Azure，微軟揭露兩起雲端資料破壞事件",
-        "link": "https://www.ithome.com.tw/news/179300",
-        "pubDate": "2026-09-30 12:23",
-        "description": "JadePuffer攻擊活動蔓延至雲端環境，利用遭入侵的服務主體自動偵察受害者應用環境，刪除Azure儲存帳戶等核心資源",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Amazon Corretto 27正式推出，支援TLS 1.3的後量子混合金鑰交換",
-        "link": "https://www.ithome.com.tw/news/179299",
-        "pubDate": "2026-09-30 12:04",
-        "description": "於9月17日開放下載的Amazon Corretto 27，納入JEP 527的規格，支援TLS 1.3 的後量子混合金鑰交換",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI更新Codex Cloud，雲端開發環境可重複套用並供團隊共享",
-        "link": "https://www.ithome.com.tw/news/179321",
-        "pubDate": "2026-09-30  06:09:21",
-        "description": "OpenAI更新Codex Cloud服務，讓程式開發代理Codex在OpenAI管理的雲端電腦執行開發工作，新版讓開發者可先替專案準備一套雲端開發環境，配置程式碼儲存庫、開發工具與相依套件等，發布後供後續任務重複使用。ChatGPT Enterprise也支援團隊共享開發環境，成員可使用相同設定執行各自的Codex任務，相關功能目前正逐步推出。",
-        "source": "iThome"
-      },
-      {
-        "title": "美國聯邦政府入口網站America.gov上線，底層使用Google Gemini、Grok",
-        "link": "https://www.ithome.com.tw/news/179309",
-        "pubDate": "2026-09-30  02:09:34",
-        "description": "連同美國政府和科技巨頭的AI合作，美國白宮周二宣佈America.gov網站上線，作為民眾查詢聯邦政府資訊使用政府服務的入口網站。網站將使用Google Gemini及SpaceXAI的Grok的聊天機器人技術。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI程式開發代理工具Cline更新SDK，工作階段可在本機與雲端間雙向交接",
-        "link": "https://www.ithome.com.tw/news/179301",
-        "pubDate": "2026-09-30  01:09:01",
-        "description": "AI程式開發代理工具Cline發布SDK v0.0.87，加入本機與雲端工作階段雙向交接。整合Cline SDK的開發工具可把本機正在進行的工作交給雲端代理繼續執行，之後再交接回本機，新版也加入可保留狀態的雲端工作區，工作暫停後仍能恢復執行。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -187,38 +201,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "【AI 的隱形學徒稅】讓新人練到敢扛責任，企業如何建立「養成階梯」？",
-        "link": "https://techorange.com/2026/09/30/ais-effects-on-overall-employment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 09:40:52 +0800",
-        "description": "AI 開始從最小的工作單位進入知識工作，包括草擬備忘錄、整理逐字稿、生成程式碼雛形、找出參考先例等「任務」，都能交給它完成。 問題是，瑣碎工作往往有「產出成果」和「訓練新人養成判斷力」的作用，如今企業只把這樣的轉變當成效率提升來慶祝，很可能在不知不覺中讓新進人才失去磨練判斷力的機會。 任務被壓縮，年輕員工就業率下降 一份針對五種職業、逐項任務建模的研究發現，以 AI 導入前每 100 小時的工作量為基準，導入後只剩下 57 到 73 小時，多半集中在理解客戶脈絡、查證資料來源、承擔簽核風險這類工",
+        "title": "亞馬遜配送員變「移動資料庫」：戴智慧眼鏡狂拍住家數千張，為何掀隱私爭議也要做？",
+        "link": "https://techorange.com/2026/10/01/smart-glasses-amazon-delivery-drivers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 13:04:04 +0800",
+        "description": "亞馬遜（Amazon）計畫讓配送員配戴智慧眼鏡，在送貨過程中幾乎持續拍攝周遭環境，並將影像傳回公司，由人工分析並提供給 AI 系統使用。Amazon 認為，這項技術能讓配送更快速、可靠；《Bloomberg》專欄作者 Dave Lee 認為，此舉可能讓 Amazon 再次陷入隱私爭議。 Amazon 推動智慧眼鏡計畫，大規模蒐集影像驅動 AI 配送 Amazon 去年 10 月宣布智慧眼鏡計畫。這款裝置已開發超過 3 年，主要用於降低配送錯誤，讓配送員以免持方式確認正確包裹、尋找配送位置，並拍攝",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】SpaceX 星艦首次入軌部署 26 顆衛星，引擎問題使任務提前結束",
-        "link": "https://techorange.com/2026/09/30/spacex-starship-first-orbit-26-starlink-satellites/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 星艦首次入軌部署 26 顆衛星，任務因引擎問題縮短 太空探索科技公司（SpaceX）的星艦在第 14 次試飛，首次進入地球軌道，並部署 26 顆新一代 Starlink V3 衛星。過去的星艦試飛曾在太空釋放測試用衛星，這次則是把預定投入營運的衛星送入軌道。SpaceX 執行長馬斯克表示，26 顆衛星均已部署並正常運作。新一代衛星的尺寸及載運需求，使星艦成為 SpaceX 擴大星鏈網路容量的重要運輸工具；首次入軌並完成部署，是星艦",
+        "title": "Gemini 4 終於登場：一次可輸出 100 萬 token，Google 為何要把 AI 單次工作量做這麼大？",
+        "link": "https://techorange.com/2026/10/01/gemini-4-argon-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 11:58:54 +0800",
+        "description": "Google 在美國時間 9/30 推出新一代旗艦模型 Gemini 4 Argon，這也是自 2025 年 11 月 Gemini 3 系列後，睽違近一年再更新的最高階模型。而原訂今年 6 月推出的 Gemini 3.5 Pro 最終取消，Google 直接進入 Gemini 4 世代。 《Axios》指出，在這段期間，Google 主要推出速度更快、成本更低的 Flash 模型，OpenAI、Anthropic 則持續更新前沿模型，Gemini 4 因此也肩負 Google 重返最高階模型競",
         "source": "TechOrange"
       },
       {
-        "title": "AI 瘋狂爬網站不點擊廣告：Cloudflare 示警流量 5 年恐衝千倍，這筆帳誰來付？",
-        "link": "https://techorange.com/2026/09/29/cloudflare-matthew-prince-google-zero-ai-web-advertising/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 18:04:24 +0800",
-        "description": "AI 機器人正在快速改變網路流量結構，也可能迫使維繫網路數十年的廣告商業模式重新洗牌。Cloudflare 共同創辦人暨 CEO Matthew Prince 近日接受《The Verge》Decoder 專訪時表示，Cloudflare 今年 6 月觀察到，非人類流量已經占網路流量超過一半；若目前趨勢持續，未來 5 年自動化流量甚至可能達到人類流量的 1,000 倍。 《The Next Web》補充，Cloudflare 目前位居全球超過 20% 的網路流量前端，能直接觀察大量網站的流量變化",
+        "title": "呼應府院出版數位韌性小藍書 AWS發布《公部門與企業數位韌性指南》",
+        "link": "https://techorange.com/2026/10/01/aws-cht-deloitte/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 10:56:08 +0800",
+        "description": "當數位服務已經深入到社會運行的每個環節，從公部門到企業，也必須持續整備數位服務本身的防災能力與韌性，以因應天然災害及人為事件可能造成的數位基礎設施損壞風險。亞馬遜網路服務（Amazon Web Services, AWS）與中華電信於 9 月 30 日共同主辦「《公部門與企業數位韌性指南》白皮書發布暨韌性政府論壇」、並由勤業眾信協辦，正式發布《公部門與企業數位韌性指南》白皮書（「小藍書」）。三方將結合 AWS 全球雲端服務經驗、中華電信在地電信網路與資安整合能量，以及勤業眾信治理與風險管理專業，",
         "source": "TechOrange"
       },
       {
-        "title": "AI 機器人平台戰從晶片打到開源生態，高通買下 PickNik 背後在爭什麼？",
-        "link": "https://techorange.com/2026/09/29/qualcomm-to-acquire-picknik/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 17:11:05 +0800",
-        "description": "AI 機器人平台戰正從晶片效能，打到開發者用哪套工具、最後部署在哪個運算平台。NVIDIA 在 9/22 才更新旗下機器人軟體套件 Isaac ROS 5.0，持續加深機器人作業系統（Robot Operating System，ROS）2 與自家 GPU、AI 開發工具的整合；隔天，高通就宣布收購開源機器人操作框架 MoveIt 背後的 PickNik Robotics。 從 AI 模型到實體動作，高通補上規劃與控制軟體 PickNik 的價值，可以先從機器人真正部署時的落差來看。PickNi",
+        "title": "搶攻 AI 基礎建設商機，大同首度發表「TTG AIDC CUBE」",
+        "link": "https://techorange.com/2026/10/01/ttg-aidc-cube-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 10:40:40 +0800",
+        "description": "張榮華：180 天從電網到算力 大同開啟 AI 新未來 隨著生成式 AI 快速發展，全球算力需求急速攀升，也帶動 AI 資料中心基礎建設進入新一波成長期。面對高密度運算帶來的供電、散熱、建置速度及能源效率等挑戰，大同股份有限公司今舉辦「算力無界・大同新未來（Power Ready for AI）」發表會，首度對外發表全新 AI 基礎建設解決方案「TTG AIDC CUBE」，整合電力、冷卻、能源管理、智慧監控及算力系統，展現從電網端一路到機櫃端的一站式整合能力，宣示大同進一步跨足 AI 基礎建設",
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI 新模型喊卡、NVIDIA 集結百家企業：AI Agent 安全為何不再只靠對齊？",
-        "link": "https://techorange.com/2026/09/29/openai-nvidia-gpt-6-open-agent-safety-platform/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 29 Sep 2026 13:58:05 +0800",
-        "description": "9/28，一群來自彼此競爭的前沿 AI 公司與學界研究者罕見共同呼籲，政府應開始掌握 AI 公司究竟把多少研發工作交給 AI 自動完成。同一天，OpenAI 因安全測試未過關，取消原定 10 月推出的新模型 GPT-6.1 Astra；NVIDIA 則發布 Open Agent Safety Platform（開放代理安全平台），把 AI Agent（AI 代理）的安全防線從模型本身延伸到軟體執行環境與硬體層。 三件事情幾乎同時發生，也突顯 AI 代理安全思路正出現一個重要轉變。過去業界大量投入",
+        "title": "【YC Demo Day 觀察】從海上核電廠到訓練腦細胞，殊途同歸都在解運算與能源瓶頸",
+        "link": "https://techorange.com/2026/10/01/9-bubzziest-startups-from-y-combinator/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 09:52:54 +0800",
+        "description": "Y Combinator 最新一屆 Demo Day 剛落幕，這次新創陣容和過去幾屆相比有個明顯變化是，深科技類新創的比重大幅增加。 有投資人形容，這批技術「像科幻小說」，從海上核電廠到訓練人類腦細胞做運算，都相當大膽前衛。但有趣的是，儘管題材天馬行空，這屆投資人對估值的態度反而更務實，沒有過去那種一窩蜂追捧、估值虛高的情況。 能源與運算基礎設施類新創受矚目 第一類新創鎖定能源與運算基礎設施的痛點。Atomarine 打算把資料中心蓋在海上駁船，用海水免費冷卻，藉此繞開電力短缺與社區居民兩大難題",
         "source": "TechOrange"
       },
       {
@@ -485,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
+        "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
+        "pubDate": "2026-09-30T22:00:00-04:00",
+        "description": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same si",
+        "source": "TheVerge"
+      },
+      {
         "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
         "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
         "pubDate": "2026-09-30T20:23:45-04:00",
@@ -510,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
         "pubDate": "2026-09-30T16:41:41-04:00",
         "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cyber",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The AI Tamagotchis are coming",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1002779/openai-dots-meta-muse-ai-agents-hardware-devices",
-        "pubDate": "2026-09-30T14:07:38-04:00",
-        "description": "While AI has made plenty of inroads on people's phones and computers, it's largely failed in dedicated devices. But over the next year, two major AI companies, Meta and OpenAI, will attempt to change that. And they're apparently betting on a similar ",
         "source": "TheVerge"
       }
     ],
