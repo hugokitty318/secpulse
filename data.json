@@ -1,7 +1,35 @@
 {
-  "ts": "2026-10-01T07:46:57.491425Z",
+  "ts": "2026-10-01T15:24:55.630441Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "日本破獲境內北韓筆電農場，揭露北韓IT工作者遠端接案模式",
+        "link": "https://www.ithome.com.tw/news/179348",
+        "pubDate": "2026-10-01 18:35",
+        "description": "日本警方拆除由協助者提供設備的筆電農場，北韓IT工作者可遠端操作日本境內電腦，掩飾實際所在地",
+        "source": "iThome資安"
+      },
+      {
+        "title": "臺灣資安新創的突圍之路：從駭客競賽到日本市場的五年長征",
+        "link": "https://www.ithome.com.tw/news/179347",
+        "pubDate": "2026-10-01 18:27",
+        "description": "從CTF競賽、紅隊攻防到藍隊產品，TRAPA  Security在技術之外重新學習產品、管理與市場，藉由日本資安公司的投資，走出臺灣資安新創的海外路徑",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌",
+        "link": "https://www.ithome.com.tw/news/179344",
+        "pubDate": "2026-10-01 18:21",
+        "description": "中國駭客UAT-11587今年3月以魚叉式網釣鎖定臺灣學術界、智庫與公民社會政策社群。Cisco Talos於9月30日揭露該組織一系列網路間諜活動及臺灣案例，指出攻擊者會在郵件中仿製Gmail原生附件預覽介面，將惡意連結暗藏其中，同時也會依目標量身設計網釣內容，例如採用資訊戰工作坊與臺灣政府公開文件作為誘餌",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月1日，資安署首度辦理資安聯合稽核，將121場稽核整併成16場",
+        "link": "https://www.ithome.com.tw/news/179342",
+        "pubDate": "2026-10-01 14:51",
+        "description": "化繁為簡、提升政府檢查資服廠商資安的效率，針對為行政院所屬機關提供服務的16家業者，資安署首度辦理資安聯合稽核，不只建立一套共通標準，也把原先預計的121場稽核，併成16場實體稽核，預計明年將擴大到中央及地方各級政府，受稽核廠商增至30家",
+        "source": "iThome資安"
+      },
       {
         "title": "因應PQC簽章帶來的憑證架構負擔，Cloudflare完成初步大規模MTC實測，已傳送數十億份憑證",
         "link": "https://www.ithome.com.tw/news/179335",
@@ -66,24 +94,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "CSA比較5種隱私強化技術，全同態加密可直接處理加密資料但效能負擔較高",
-        "link": "https://www.ithome.com.tw/news/179284",
-        "pubDate": "2026-10-01 08:00",
-        "description": "雲端安全聯盟（CSA）比較5種隱私強化技術，其中全同態加密（FHE）可直接對加密資料進行運算，但需要更多運算資源，企業導入時也需評估效能負擔",
-        "source": "iThome資安"
-      },
-      {
         "title": "Island募資4億美元，從企業瀏覽器擴展AI代理治理",
         "link": "https://www.ithome.com.tw/news/179225",
         "pubDate": "2026-10-01 08:00",
         "description": "以企業瀏覽器打響名號的Island，今年進一步將企業控管擴展至一般瀏覽器、桌面應用程式及網路環境，同時開始提供AI代理治理功能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PQC金鑰轉型應從信任根著手，傳統信任根恐讓整個金鑰階層面臨量子威脅",
-        "link": "https://www.ithome.com.tw/news/179311",
-        "pubDate": "2026-10-01 08:00",
-        "description": "企業即使已在部分系統導入PQC，也不代表整個金鑰階層已具備量子安全能力。CSA指出，只要上層金鑰或信任根仍依賴傳統密碼學，整個金鑰階層仍可能面臨量子威脅",
         "source": "iThome資安"
       },
       {
@@ -101,10 +115,17 @@
         "source": "iThome"
       },
       {
-        "title": "Google將SynthID浮水印導入蛋白質，可追蹤AI設計來源",
-        "link": "https://www.ithome.com.tw/news/179332",
-        "pubDate": "2026-10-01  11:10:01",
-        "description": "Google DeepMind周三（9/30）發表SynthID Bio，將SynthID浮水印技術延伸至合成生物學，可在AI設計的蛋白質序列及3D結構中嵌入不易察覺的標記，以辨識及追蹤其來源。Google表示，實驗顯示加入浮水印後，蛋白質仍能維持原有的生物功能。",
+        "title": "臺北市政府網站9/26服務中斷事件：跳電後機房過熱造成儲存設備關閉，備援分級成關注焦點",
+        "link": "https://www.ithome.com.tw/news/179349",
+        "pubDate": "2026-10-01  07:10:11",
+        "description": "臺北市政府網站在上周六(9/26)晚間一度出現無法連線情況，影響包括市府全球資訊網、部分局處網站及使用市府雲平臺的相關服務受到影響。臺北市政府資訊局後續調查指出，事件起因並非資安攻擊，而是市政大樓施工造成電力過載跳電，進一步導致資訊機房環境升溫，部分儲存設備因過熱啟動保護機制並關閉，造成雲平臺網站服務中斷。\n根據資訊局的說明，9月26日晚間7點多，市政大樓地下1樓中控室因施工導致電力過載，引發跳電。跳電後，市政大樓10樓的資訊機房溫度升高，約晚間8點30分起，機房內單一儲存設備類型因過熱啟動保護",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenPoint推出AI生活服務平臺，導入AI Agent線上預約餐廳、居家清潔與藥局領藥等12項服務",
+        "link": "https://www.ithome.com.tw/news/179346",
+        "pubDate": "2026-10-01  06:10:57",
+        "description": "過去消費者要安排生活服務，往往需要在不同平臺間切換：訂餐廳要找訂位平臺，居家清潔要找服務業者，領藥則需要確認附近藥局與服務流程。隨著AI Agent發展，企業開始嘗試讓使用者不再逐一操作不同服務，而是直接提出需求，由AI協助完成後續流程。\n統一資訊今天(10/1)發表OpenPoint上的生活服務平臺「i住家」，將AI Agent的代理人概念導入到生活服務平臺。使用者可以透過文字輸入或語音說出需求，背後的LumineOne AI會理解語意，將需求拆解成工作任務，再搜尋平臺上可提供的服務，找出符合",
         "source": "iThome"
       },
       {
@@ -120,27 +141,6 @@
         "pubDate": "2026-10-01  02:10:40",
         "description": "Cloudflare重構容器服務Containers，讓AI代理可依照不同任務臨時建立隔離的Linux工作環境，並在工作結束或暫停後保存檔案狀態。新版也縮短容器啟動時間，獨立測試顯示，同時建立100個沙箱時，啟動時間中位數由約4秒降至648毫秒。",
         "source": "iThome"
-      },
-      {
-        "title": "Reddit封堵大規模資料爬取，11月關RSS、明年停止Public API公開存取",
-        "link": "https://www.ithome.com.tw/news/179341",
-        "pubDate": "2026-10-01  02:10:06",
-        "description": "美國社群新聞與討論平臺Reddit周三（9/30）宣布進一步限制外部程式大量取得平臺內容，將於11月13日停止支援簡易資訊聚合（Really Simple Syndication，RSS），並逐步關閉Public API存取，2027年3月全面停止Public API公開存取，以減少大規模資料爬取及自動化濫用。",
-        "source": "iThome"
-      },
-      {
-        "title": "健康幣今日上路！健保快易通串國健署Health GO App打造預防保健獎勵機制",
-        "link": "https://www.ithome.com.tw/news/179338",
-        "pubDate": "2026-10-01  01:10:50",
-        "description": "衛福部健康幣10月1日正式上路，要把民眾健檢、癌篩、打疫苗等預防保健行為，轉換為可查詢、可兌換的數位獎勵。年滿18歲且持有臺灣健保卡的民眾，完成健保快易通App身分驗證並綁定國健署Health GO App後，就能透過健康存摺的健康幣專區，來查詢累積情形。今年12月1日起，累積滿1,000健康幣，民眾可依規定於合作通路兌換健康商品、電子票券或折抵部分自費醫療項目。\n健康幣10月1日上路，健保快易通身兼點數查詢入口\n做完健檢、癌篩或打疫苗後，能不能不用自己留單據、拍照上傳，也能自動拿到獎勵？",
-        "source": "iThome"
-      },
-      {
-        "title": "加拿大量子安全公司Quantum eMotion併購資安業者Plurilock，整合QRNG、PQC與AI資安能力，加速商業化布局",
-        "link": "https://www.ithome.com.tw/news/179317",
-        "pubDate": "2026-09-30 18:46",
-        "description": "發展量子亂數產生器（QRNG）技術多年的加拿大Quantum eMotion（QeM），近日宣布併購資安業者Plurilock，期望藉由後者既有的客戶基礎、政府採購管道與服務能力，加快自身量子安全技術商業化",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -180,24 +180,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "美國政府打造 AI 服務入口 : America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
+        "title": "美國政府打造 AI 服務入口：America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
         "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 30 Sep 2026 12:51:32 +0800",
         "description": "美國總統川普宣布推出 America.gov，定位為民眾取得聯邦政府資訊與服務的單一數位入口，並簽署行政命令，要求聯邦機構逐步將相關服務整合進網站。America.gov 以 AI 聊天介面為核心，Google Gemini 與 xAI Grok 成為背後的 AI 技術夥伴。 America.gov 變身 AI 政府入口，Gemini、Grok 搶先進駐 川普在行政命令中將 America.gov 描述為聯邦政府的「統一數位前門」，讓民眾以自然語言提出需求，取得政府資訊，並在技術與授權條件允許時",
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI 推出 Dots 到底新在哪？AI Agent 正從「接任務」走向「接責任」",
-        "link": "https://techorange.com/2026/09/30/openai-dots-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 12:25:04 +0800",
-        "description": "OpenAI 在美國時間 9/29 於年度開發者大會 DevDay 2026 推出新型 AI 代理（AI Agent）「Dots」。Dots 由 GPT-6 Astra 驅動，每個 Dot 都有自己的雲端電腦與瀏覽器，並可透過 OpenAI 的 plugin 生態連接超過 4,000 個應用程式，並從 ChatGPT、Slack、Microsoft Teams 等管道和使用者互動。 OpenAI 把 Dots 定位為「always-on」代理，不過，AI 代理本來就能自己拆解工作、操作工具，甚至",
+        "title": "車內支付生態系崛起：掌握「儀表板介面」即掌握商業入口？憑證與數據控制權成競逐焦點",
+        "link": "https://techorange.com/2026/10/01/connected-cars-steer-next-shopping-decision/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 17:06:20 +0800",
+        "description": "連網汽車與支付系統的整合，正讓加油、充電、停車、過路費等原本分散的車輛支出，逐漸納入共同的支付憑證。《PYMNTS》報導，這種整合也讓支付不只是完成單筆交易，而可能進一步串起整段旅程，讓優惠在消費者做出下一個消費決定之前就出現。 Waymo 於 2026 年 9 月 22 日推出 Transit Rewards 計畫，讓舊金山灣區乘客將 Visa 卡綁定 Waymo App。當乘客使用同一張卡搭乘 Waymo 與公共運輸，且兩次行程相隔在兩小時內，就會自動獲得 2.85 美元的 Waymo Ca",
         "source": "TechOrange"
       },
       {
-        "title": "庫存失真年吞零售業 1.7 兆美元，H&amp;M 的「實體 AI」怎麼止血？",
-        "link": "https://techorange.com/2026/09/30/hm-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 09:46:52 +0800",
-        "description": "對服飾零售商而言，庫存管理始終是一場高成本的猜謎遊戲。貨架缺貨會直接造成銷售損失，商品積壓則可能面臨折價與資金占用，庫存損耗又進一步侵蝕利潤。全球零售和飯店技術研究公司 IHL Group 最新研究指出，2026 年全球零售業因缺貨與庫存過剩造成的「庫存失真」（inventory distortion）成本約達 1.7 兆美元，占全球零售銷售額 6.2%。 這正是 RFID 與 AI 迅速推進至零售供應鏈核心的主因。RFID 能以無線射頻辨識技術，在免去逐件掃描條碼的前提下批量追蹤商品；然而，海",
+        "title": "美元穩定幣 OUSD 正式上線：Visa、Stripe 瞄準的，是下一批還沒上鏈的企業交易？",
+        "link": "https://techorange.com/2026/10/01/ousd-is-live/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 01 Oct 2026 16:46:03 +0800",
+        "description": "Visa、Mastercard、Stripe、Coinbase、Shopify 等業者共同支持的美元穩定幣 Open USD（OUSD）在 9/30 正式上線。OUSD 背後的 Open Standard，目前已有超過 200 家金融機構、FinTech、銀行與企業加入，Coinbase、Mastercard、Shopify、Stripe、Visa 則是首批創始夥伴。 OUSD 上線後，企業與開發者目前可從 Stripe、Mastercard、Coinbase、Visa 4 個管道接入，並利用相",
         "source": "TechOrange"
       },
       {
@@ -301,13 +301,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "US-Focused CSuite Phishing Steals Microsoft 365 Sessions and Deploys RMM Tools for Remote Access",
-        "link": "https://thehackernews.com/2026/09/us-focused-csuite-phishing-steals.html",
-        "pubDate": "Wed, 30 Sep 2026 16:15:00 +0530",
-        "description": "ANY.RUN researchers traced a US-focused CSuite phishing campaign across 351 sandbox analyses, with 51% of submissions coming from the United States. Technology, manufacturing, government, and consulting organizations showed the highest exposure.\n\nBy ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
         "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
         "pubDate": "Wed, 30 Sep 2026 15:49:15 -0400",
@@ -322,32 +315,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Attackers Exploit NetScaler Flaw for Root Access, Deploy WHIPSHOT and SLAPSHOT",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-netscaler-flaw-for.html",
-        "pubDate": "Wed, 30 Sep 2026 13:54:35 +0530",
-        "description": "Unknown threat actors have been observed exploiting a newly patched security flaw in Citrix NetScaler ADC and NetScaler Gateway appliances to target organizations in North America and Europe.\n\nThe activity, observed by Mandiant Consulting and Google ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenSSL Fixes High-Severity DTLS Flaw That Can Leak Heap Memory Unencrypted",
-        "link": "https://thehackernews.com/2026/09/openssl-fixes-high-severity-dtls-flaw.html",
-        "pubDate": "Wed, 30 Sep 2026 13:39:28 +0530",
-        "description": "A High-severity OpenSSL flaw can leak heap memory to the other side of a DTLS connection or crash the program, OpenSSL said on September 29 as it released fixes.\n\nDTLS, the TLS variant used for UDP traffic, resends a handshake message if no reply arr",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
         "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
         "pubDate": "Wed, 30 Sep 2026 11:49:29 -0400",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Citrix NetScaler CVE-2026-88772 Exploit Details Show Pre-Auth Path to Shellcode Execution",
-        "link": "https://thehackernews.com/2026/09/citrix-netscaler-cve-2026-88772-exploit.html",
-        "pubDate": "Wed, 30 Sep 2026 11:00:30 +0530",
-        "description": "Cybersecurity researchers have disclosed technical details of a recently patched critical security flaw in Citrix NetScaler ADC and Gateway that has come under active exploitation in the wild.\n\nThe vulnerability, tracked as CVE-2026-88772 (CVSS score",
-        "source": "TheHackerNews"
       },
       {
         "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
@@ -385,10 +357,38 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "French Tax Data Theft Using Stolen Staff Passwords Went Undetected for Seven Weeks",
-        "link": "https://thehackernews.com/2026/09/french-tax-data-theft-using-stolen.html",
-        "pubDate": "Tue, 29 Sep 2026 23:17:01 +0530",
-        "description": "An attacker used stolen passwords of staff at France's tax administration to take tax data on hundreds of thousands of taxpayers and businesses in June and July.\n\nNeither the tax administration nor France's national cybersecurity agency saw the data ",
+        "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
+        "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
+        "pubDate": "Thu, 01 Oct 2026 20:07:35 +0530",
+        "description": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.\n\nThe backdoor has been codena",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
+        "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
+        "pubDate": "Thu, 01 Oct 2026 17:15:00 +0530",
+        "description": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody price",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+        "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
+        "pubDate": "Thu, 01 Oct 2026 16:12:36 +0530",
+        "description": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models.\n\nA \"core cluster of the activity,\" going back to the fir",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
+        "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
+        "pubDate": "Thu, 01 Oct 2026 16:03:16 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation.\n",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
+        "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
+        "pubDate": "Thu, 01 Oct 2026 13:19:36 +0530",
+        "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex wor",
         "source": "TheHackerNews"
       }
     ],
@@ -450,87 +450,87 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
-        "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
-        "pubDate": "Wed, 30 Sep 2026 19:00:57 +0000",
-        "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence.",
+        "title": "Brian Chesky interview: AI agents need their own operating system",
+        "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
+        "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
+        "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
         "source": "TechCrunch"
       },
       {
-        "title": "AI voice startup ElevenLabs doubles valuation to $22B",
-        "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
-        "pubDate": "Wed, 30 Sep 2026 18:23:57 +0000",
-        "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
+        "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
+        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
+        "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
         "source": "TechCrunch"
       },
       {
-        "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
-        "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
-        "pubDate": "Wed, 30 Sep 2026 17:45:00 +0000",
-        "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+        "title": "Hearing tech startup Legato launches its AI hearing glasses",
+        "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
+        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+        "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
         "source": "TechCrunch"
       },
       {
-        "title": "The ugly economics of consumer AI",
-        "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
-        "pubDate": "Wed, 30 Sep 2026 17:24:45 +0000",
-        "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+        "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
+        "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
+        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+        "description": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta disputes claim that Muse read a user’s private messages without permission",
-        "link": "https://techcrunch.com/2026/09/30/meta-disputes-claim-that-muse-read-a-users-private-messages-without-permission/",
-        "pubDate": "Wed, 30 Sep 2026 16:24:23 +0000",
-        "description": "Meta says its Muse AI agent cannot access a user’s Messages without explicit permission, disputing a journalist’s account that the agent read his private messages while the required Mac setting was turned off.",
+        "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
+        "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
+        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+        "description": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
         "source": "TechCrunch"
       },
       {
-        "title": "DoorDash launches an AI agent you can text to order food",
-        "link": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-        "pubDate": "Wed, 30 Sep 2026 16:00:24 +0000",
-        "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "title": "Amazon introduces Kindle Click, a $35 remote for turning pages",
+        "link": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
+        "description": "The compact Bluetooth remote is designed to let readers turn pages without touching their Kindle.",
         "source": "TechCrunch"
       },
       {
-        "title": "Destro AI’s secret sauce is getting robots and humans on the same page",
-        "link": "https://techcrunch.com/2026/09/30/destro-ais-secret-sauce-is-getting-robots-and-humans-on-the-same-page/",
-        "pubDate": "Wed, 30 Sep 2026 16:00:00 +0000",
-        "description": "\"One of the biggest reasons we are winning against robotics companies is because we are not a robotics company.\"",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "link": "https://techcrunch.com/2026/10/01/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "pubDate": "Thu, 01 Oct 2026 12:00:00 +0000",
+        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
         "source": "TechCrunch"
       },
       {
-        "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
-        "link": "https://www.theverge.com/tech/1002680/vivo-x-fold-6-global-release-specs-cameras",
-        "pubDate": "2026-09-30T22:00:00-04:00",
-        "description": "It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same si",
+        "title": "NYC is now the first city in America that bans sketchy subscriptions",
+        "link": "https://www.theverge.com/policy/1003426/nyc-click-to-cancel-subscriptions-rule",
+        "pubDate": "2026-10-01T10:49:25-04:00",
+        "description": "New York City residents struggling to get out of recurring subscription fees can now submit complaints to the city government. As of Thursday, the city's click-to-cancel rule has taken effect, which requires businesses to make it as easy to cancel a ",
         "source": "TheVerge"
       },
       {
-        "title": "Elon Musk’s Grokipedia has a ‘newly refreshed’ design",
-        "link": "https://www.theverge.com/tech/1003068/elon-musk-grokipedia-v-0-3-spacexai",
-        "pubDate": "2026-09-30T20:23:45-04:00",
-        "description": "Grokipedia, SpaceXAI's AI-powered competitor to Wikipedia, recently started incorporating edits again, and today, it got some design tweaks as part of a v0.3 update, including a new logo and refreshes to its homepage and live edits page. SpaceXAI hea",
+        "title": "OpenAI’s new agent is a shot at Meta — but can it compete with free?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003399/meta-openai-ai-agents-muse-dots-battle",
+        "pubDate": "2026-10-01T10:36:50-04:00",
+        "description": "At OpenAI's annual DevDay conference, the company pulled out all the stops to compete with its rivals - primarily Meta, whose Muse AI agent platform has seen early runaway success. CEO Sam Altman walked onstage to cheers and announced Dots, a \"real-d",
         "source": "TheVerge"
       },
       {
-        "title": "The new and huger Paramount has a new co-CEO",
-        "link": "https://www.theverge.com/news/1003037/paramount-david-ellison-co-ceo-ynon-kriez",
-        "pubDate": "2026-09-30T19:08:49-04:00",
-        "description": "Paramount is appointing a new co-CEO ahead of the close of its $110 billion merger with Warner Bros. Discovery. Ynon Kreiz, previously Mattel's chairman and CEO, will be joining Paramount to lead alongside chairman and CEO David Ellison. According to",
+        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+        "link": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
+        "pubDate": "2026-10-01T10:00:00-04:00",
+        "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah.  The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts",
         "source": "TheVerge"
       },
       {
-        "title": "Neon sticks it to A24 by announcing a Creative Commons SCP Foundation movie",
-        "link": "https://www.theverge.com/entertainment/1002958/neon-a24-creative-commons-scp-foundation-movie",
-        "pubDate": "2026-09-30T16:45:00-04:00",
-        "description": "A24 pissed off one of the internet's largest horror communities when it announced it was working on an SCP Foundation film, but apparently hadn't bothered to contact the SCP Wiki team, nor did it commit to releasing it under a Creative Commons licens",
+        "title": "The best early October Prime Day deals happening now",
+        "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "pubDate": "2026-10-01T09:35:15-04:00",
+        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3",
         "source": "TheVerge"
       },
       {
-        "title": "Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now",
-        "link": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "pubDate": "2026-09-30T16:41:41-04:00",
-        "description": "Google today revealed its next AI frontier model, which it's calling Gemini 4 Argon. The new model delivers \"frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cyber",
+        "title": "What even is a ‘microdrama’?",
+        "link": "https://www.theverge.com/entertainment/1003297/microdramas-neighbours-epis-roseberry-reelshort-dramabox-vertical-video",
+        "pubDate": "2026-10-01T09:30:00-04:00",
+        "description": "On Monday, Variety reported that RoseBerry Media is recutting episodes of the Australian soap opera Neighbours \"into microdramas.\" These clips will be available on Epis, a short-form vertical video streaming platform. Though Neighbours ran for 41 sea",
         "source": "TheVerge"
       }
     ],
