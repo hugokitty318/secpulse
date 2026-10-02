@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-02T16:49:00.151505Z",
+  "ts": "2026-10-02T21:18:11.287833Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,13 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "Russian state hackers use new RedFlick technique to push malware",
-        "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
-        "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400",
-        "description": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
         "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
         "pubDate": "Thu, 01 Oct 2026 22:25:57 +0530",
@@ -336,32 +329,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
-        "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
-        "pubDate": "Thu, 01 Oct 2026 10:51:10 +0530",
-        "description": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"Their investigation identified ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
-        "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
-        "pubDate": "Thu, 01 Oct 2026 10:40:09 +0530",
-        "description": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coordination with external partners and secur",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
         "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
         "pubDate": "Thu, 01 Oct 2026 10:25:14 -0400",
         "description": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
-        "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
-        "pubDate": "Thu, 01 Oct 2026 10:05:34 +0530",
-        "description": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue's Threat Hunt Operations & ",
-        "source": "TheHackerNews"
       },
       {
         "title": "The Day-One Hole in Zero Trust Architecture",
@@ -390,18 +362,81 @@
         "pubDate": "Thu, 01 Oct 2026 05:44:28 -0400",
         "description": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
+        "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
+        "pubDate": "Fri, 02 Oct 2026 23:03:31 +0530",
+        "description": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI model",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
+        "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
+        "pubDate": "Fri, 02 Oct 2026 23:03:16 +0530",
+        "description": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pa",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
+        "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
+        "pubDate": "Fri, 02 Oct 2026 22:32:12 +0530",
+        "description": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
+        "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
+        "pubDate": "Fri, 02 Oct 2026 17:53:15 +0530",
+        "description": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with three individuals for violating our policies on accessin",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
-        "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
-        "pubDate": "Thu, 01 Oct 2026 21:57:08 +0000",
-        "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+        "title": "Sean Parker is rebuilding Stability AI around music",
+        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+        "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
+        "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
         "source": "TechCrunch"
       },
       {
-        "title": "Paramount and Warner Bros Discovery to become Skydance",
+        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+        "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
+        "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+        "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+        "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
+        "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
+        "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
+        "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
+        "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "pubDate": "Fri, 02 Oct 2026 17:32:05 +0000",
+        "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+        "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+        "pubDate": "Fri, 02 Oct 2026 17:00:00 +0000",
+        "description": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has created \"crash-test  dummies\" to solve that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Paramount and Warner Bros. Discovery to become Skydance",
         "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
         "pubDate": "Fri, 02 Oct 2026 15:53:50 +0000",
         "description": "The roughly $110 billion deal is expected to close October 6.",
@@ -419,13 +454,6 @@
         "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
         "pubDate": "Fri, 02 Oct 2026 15:31:20 +0000",
         "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-        "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
-        "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
         "source": "TechCrunch"
       },
       {
@@ -471,66 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Rivian’s R2 just helped it set a new sales record",
-        "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
-        "pubDate": "Fri, 02 Oct 2026 13:17:05 +0000",
-        "description": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Rivian issues R2 recall for poorly tightened battery packs",
-        "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-        "pubDate": "Fri, 02 Oct 2026 12:50:11 +0000",
-        "description": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Robotaxi operators will face fines for blocking first responders",
-        "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
-        "pubDate": "Fri, 02 Oct 2026 00:57:57 +0000",
-        "description": "A new California law places new rules on autonomous vehicles operators.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "pubDate": "Fri, 02 Oct 2026 00:03:23 +0000",
-        "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
-        "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
-        "pubDate": "2026-10-02T12:35:13-04:00",
-        "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimit",
+        "title": "Netflix is pivoting away from prestige",
+        "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+        "pubDate": "2026-10-02T16:30:26-04:00",
+        "description": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to",
         "source": "TheVerge"
       },
       {
-        "title": "Dots get up in Muse’s business",
-        "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
-        "pubDate": "2026-10-02T11:47:05-04:00",
-        "description": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character",
+        "title": "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
+        "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+        "pubDate": "2026-10-02T16:08:40-04:00",
+        "description": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Apple says it's rolling out new controls to \"ensure that users who genuinely wish to grant an ",
         "source": "TheVerge"
       },
       {
-        "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-        "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-        "pubDate": "2026-10-02T10:34:14-04:00",
-        "description": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. When a Tesla vehicle is chargi",
+        "title": "Sling TV drops its one-day cable passes",
+        "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+        "pubDate": "2026-10-02T16:00:20-04:00",
+        "description": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by The Desk. The feature was announced last year and offered a day pass, a weekend pass, and ",
         "source": "TheVerge"
       },
       {
-        "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-        "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-        "pubDate": "2026-10-02T10:29:05-04:00",
-        "description": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago whi",
+        "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+        "pubDate": "2026-10-02T14:00:00-04:00",
+        "description": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to ",
         "source": "TheVerge"
       },
       {
-        "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
-        "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
-        "pubDate": "2026-10-02T09:42:36-04:00",
-        "description": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wanted a name that would give th",
+        "title": "Breaking up (with Elon Musk) is hard to do",
+        "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
+        "pubDate": "2026-10-02T13:37:36-04:00",
+        "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitor",
         "source": "TheVerge"
       }
     ],
