@@ -1,7 +1,98 @@
 {
-  "ts": "2026-10-02T00:11:50.867909Z",
+  "ts": "2026-10-02T05:38:18.860373Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦",
+        "link": "https://www.ithome.com.tw/news/179370",
+        "pubDate": "2026-10-02 12:54",
+        "description": "BambooToken自2023年開始活躍，鎖定亞洲與南美企業，透過合法軟體側載及MQTT通訊隱匿活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI調查失控AI代理人活動，已通知逾100個組織",
+        "link": "https://www.ithome.com.tw/news/179368",
+        "pubDate": "2026-10-02 12:08",
+        "description": "OpenAI擴大追查自家AI代理偏離原定任務的情況，包括繞過網站存取限制、使用對外暴露的憑證及命令注入；外部資安研究則發現，疑似OpenAI代理曾借助第三方服務開啟網頁並取回資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "FBI聯手歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年",
+        "link": "https://www.ithome.com.tw/news/179366",
+        "pubDate": "2026-10-02 11:33",
+        "description": "KillSwitch行動橫跨歐洲多國展開逮捕與搜索，查扣勒索集團網站並保全110TB遭竊資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額",
+        "link": "https://www.ithome.com.tw/news/179365",
+        "pubDate": "2026-10-02 11:10",
+        "description": "根據Gartner最新發布2027年暨未來核心策略預測，惡意行為者刻意拉高AI使用量，導致企業營運成本增加的網路安全風險正在出現；在此同時，AI相關風險與責任問題日漸突出，保險公司透過企業強化監督、風險管理與技術管控，影響AI治理實踐；採用AI的企業也面臨日益增加的AI行為當責、透明度與監督壓力，使得技術領導者職責範圍擴大",
+        "source": "iThome資安"
+      },
+      {
+        "title": "軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄",
+        "link": "https://www.ithome.com.tw/news/179322",
+        "pubDate": "2026-10-02 08:00",
+        "description": "軟體供應鏈攻擊進一步鎖定CI/CD環境。Mandiant指出，攻擊者可操弄軟體建置流程，甚至發布仍帶有合法來源證明的遭污染套件。企業不能只靠來源證明判斷軟體是否安全，也需確認來源程式碼及建置流程",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
+        "link": "https://www.ithome.com.tw/news/179336",
+        "pubDate": "2026-10-02 08:00",
+        "description": "美國制裁涉及ATM吐鈔攻擊及洗錢的TdA相關詐欺網路。根據美國財政部統計，截至2025年8月，全美疑似ATM吐鈔攻擊已超過1,500起，通報損失達4,073萬美元",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力",
+        "link": "https://www.ithome.com.tw/news/179340",
+        "pubDate": "2026-10-02 08:00",
+        "description": "英國軍情五處（MI5）向學界發布間諜活動警告，中國國安部透過中國通用技術研究院資助AI、資安等研究，逾百名與英國有關的學者曾參與其中",
+        "source": "iThome資安"
+      },
+      {
+        "title": "今年前8月遭利用漏洞數超越2025全年，N-day漏洞利用明顯增加",
+        "link": "https://www.ithome.com.tw/news/179326",
+        "pubDate": "2026-10-02 08:00",
+        "description": "Google威脅情報團隊GTIG調查發現，今年前8月新揭露並遭利用的漏洞數，已超越2025全年，攻擊者對N-day漏洞的利用明顯增加",
+        "source": "iThome資安"
+      },
+      {
+        "title": "開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable",
+        "link": "https://www.ithome.com.tw/news/179369",
+        "pubDate": "2026-10-02  12:10:12",
+        "description": "Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當執行中的服務重新啟動或意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。",
+        "source": "iThome"
+      },
+      {
+        "title": "加州禁止AI自行決定解僱員工，成全美首例",
+        "link": "https://www.ithome.com.tw/news/179367",
+        "pubDate": "2026-10-02  11:10:25",
+        "description": "美國加州州長Gavin Newsom周三（9/30）簽署SB 947，禁止雇主完全依賴AI或自動化決策系統，決定對員工採取懲戒或解僱措施，要求這類重大人事決策必須有人類參與審查，成為全美首個禁止雇主完全依賴AI做出懲戒或解僱決定的州別。",
+        "source": "iThome"
+      },
+      {
+        "title": "Aurora PostgreSQL現可查詢S3資料湖，由DuckDB引擎負責Iceberg與Parquet分析",
+        "link": "https://www.ithome.com.tw/news/179362",
+        "pubDate": "2026-10-02  08:10:31",
+        "description": "AWS將DuckDB分析引擎嵌入Aurora PostgreSQL，使其具備直接查詢資料湖的功能。開發者可從Aurora查詢Amazon S3中的Apache Iceberg與Parquet資料，再與資料庫內的交易資料一起處理，不必先把資料湖中的歷史資料複製進Aurora。",
+        "source": "iThome"
+      },
+      {
+        "title": "GitHub HydraFusion進入VS Code，AI可依任務自動安排多模型分工",
+        "link": "https://www.ithome.com.tw/news/179345",
+        "pubDate": "2026-10-02  08:10:28",
+        "description": "GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工具，現在也於VS Code與GitHub Copilot應用程式提供。使用者可從Copilot模型選單選擇HydraFusion，不過，HydraFusion並非單一AI模型，而是一套協調模型工作的機制，會依照任務決定由一個模型直接處理，或讓多個模型接力完成並檢查結果。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta推出主打小型企業用的Muse for Small Business",
+        "link": "https://www.ithome.com.tw/news/179371",
+        "pubDate": "2026-10-02  01:10:40",
+        "description": "Meta推出高話題性的消費者AI助理Muse後，本週推出針對小型企業的Muse for Small Business，能幫小型店家處理行銷、行政或客戶服務等事務。\nMeta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目標、產品、客服問題及營運狀況，以提供AI自動化服務。",
+        "source": "iThome"
+      },
       {
         "title": "日本破獲境內北韓筆電農場，揭露北韓IT工作者遠端接案模式",
         "link": "https://www.ithome.com.tw/news/179348",
@@ -50,97 +141,6 @@
         "pubDate": "2026-10-01 12:04",
         "description": "ACI新設CEO層級董事會，聚焦LLM資安、開源軟體、供應鏈及攻擊應變，並加強與政府合作",
         "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客UAT-11587於亞洲多國政府散布後門Antino，其中包含臺灣",
-        "link": "https://www.ithome.com.tw/news/179333",
-        "pubDate": "2026-10-01 11:30",
-        "description": "思科威脅情報團隊Talos揭露中國駭客UAT-11587的網路間諜活動，這些駭客專門針對臺灣等多個國家的亞洲政府機關，以及參與制訂政策的組織，並散布Rust後門程式Antino",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Microsoft強化Entra ID登入驗證流程，阻擋外部指令碼注入",
-        "link": "https://www.ithome.com.tw/news/179331",
-        "pubDate": "2026-10-01 11:02",
-        "description": "去年11月預告的登入流程強化內容安全性原則，將於今年10月中旬起陸續啟用，僅允許受信任Microsoft網域指令碼執行，降低XSS等攻擊風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix NetScaler漏洞被用於攻擊北美與歐洲組織，駭客藉此散布惡意程式WhipShot與SlapShot",
-        "link": "https://www.ithome.com.tw/news/179330",
-        "pubDate": "2026-10-01 10:48",
-        "description": "Citrix本週修補的NetScaler重大漏洞CVE-2026-88771、 CVE-2026-88772，Google指出已在北美與歐洲發現攻擊活動，鎖定政府機關、金融服務、科技等產業，相關活動可追溯至9月初",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cloudflare計畫成為公開憑證授權機構，將支援後量子MTC憑證",
-        "link": "https://www.ithome.com.tw/news/179327",
-        "pubDate": "2026-10-01 10:45",
-        "description": "Cloudflare宣布有意成為公開憑證授權機構（CA），一方面希望降低Web PKI在導入後量子憑證時的效能與遷移負擔，另一方面增加公開憑證供應來源，提升整體備援與韌性",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA將思科Catalyst SD-WAN Manager重大漏洞列KEV",
-        "link": "https://www.ithome.com.tw/news/179329",
-        "pubDate": "2026-10-01 10:41",
-        "description": "美國網路安全與基礎設施安全局（CISA）更新已遭利用的漏洞名單（KEV）內容，新增思科Catalyst SD-WAN Manager重大漏洞CVE-2026-76504，並要求聯邦機構3天內緊急採取行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科警告Catalyst SD-WAN Manager存在重大等級的身分驗證繞過漏洞",
-        "link": "https://www.ithome.com.tw/news/179325",
-        "pubDate": "2026-10-01 10:07",
-        "description": "本週思科揭露重大等級的漏洞CVE-2026-76504，此弱點存在於Catalyst SD-WAN Manager，攻擊者有機會透過API繞過身分驗證，值得留意的是，思科表示已發現遭到積極利用的跡象",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Island募資4億美元，從企業瀏覽器擴展AI代理治理",
-        "link": "https://www.ithome.com.tw/news/179225",
-        "pubDate": "2026-10-01 08:00",
-        "description": "以企業瀏覽器打響名號的Island，今年進一步將企業控管擴展至一般瀏覽器、桌面應用程式及網路環境，同時開始提供AI代理治理功能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全球前百萬網站54%支援PQC金鑰交換，CDN預設啟用成主要推力",
-        "link": "https://www.ithome.com.tw/news/179267",
-        "pubDate": "2026-10-01 08:00",
-        "description": "F5調查發現，全球前100萬網站已有逾五成支援PQC金鑰交換，背後主要受到CDN效應推動，但不代表PQC轉型已經完成。公開Web目前仍未出現採用PQC憑證進行網站身分驗證的案例",
-        "source": "iThome資安"
-      },
-      {
-        "title": "商用逾30年C++編譯器前端EDG開源，C++ Alliance接手維護",
-        "link": "https://www.ithome.com.tw/news/179328",
-        "pubDate": "2026-10-01  11:10:50",
-        "description": "老牌C/C++編譯器技術供應商Edison Design Group（EDG）正式公開C/C++編譯器前端原始碼，結束逾30年的專有授權模式。後續專案由非營利組織C++ Alliance接手維護，既有EDG開發人員也會繼續參與，原始碼目前已公開在GitHub。\nEDG的C++編譯器前端自1992年推出，而編譯器前端主要負責程式碼編譯的前置工作，負責處理語法、型別和程式結構，再把分析結果交給後續的編譯或開發工具使用。因此EDG前端不像GCC或Clang主要供一般開發者直接作為編譯工具使用，而是提供",
-        "source": "iThome"
-      },
-      {
-        "title": "臺北市政府網站9/26服務中斷事件：跳電後機房過熱造成儲存設備關閉，備援分級成關注焦點",
-        "link": "https://www.ithome.com.tw/news/179349",
-        "pubDate": "2026-10-01  07:10:11",
-        "description": "臺北市政府網站在上周六(9/26)晚間一度出現無法連線情況，影響包括市府全球資訊網、部分局處網站及使用市府雲平臺的相關服務受到影響。臺北市政府資訊局後續調查指出，事件起因並非資安攻擊，而是市政大樓施工造成電力過載跳電，進一步導致資訊機房環境升溫，部分儲存設備因過熱啟動保護機制並關閉，造成雲平臺網站服務中斷。\n根據資訊局的說明，9月26日晚間7點多，市政大樓地下1樓中控室因施工導致電力過載，引發跳電。跳電後，市政大樓10樓的資訊機房溫度升高，約晚間8點30分起，機房內單一儲存設備類型因過熱啟動保護",
-        "source": "iThome"
-      },
-      {
-        "title": "OpenPoint推出AI生活服務平臺，導入AI Agent線上預約餐廳、居家清潔與藥局領藥等12項服務",
-        "link": "https://www.ithome.com.tw/news/179346",
-        "pubDate": "2026-10-01  06:10:57",
-        "description": "過去消費者要安排生活服務，往往需要在不同平臺間切換：訂餐廳要找訂位平臺，居家清潔要找服務業者，領藥則需要確認附近藥局與服務流程。隨著AI Agent發展，企業開始嘗試讓使用者不再逐一操作不同服務，而是直接提出需求，由AI協助完成後續流程。\n統一資訊今天(10/1)發表OpenPoint上的生活服務平臺「i住家」，將AI Agent的代理人概念導入到生活服務平臺。使用者可以透過文字輸入或語音說出需求，背後的LumineOne AI會理解語意，將需求拆解成工作任務，再搜尋平臺上可提供的服務，找出符合",
-        "source": "iThome"
-      },
-      {
-        "title": "Open Standard美元穩定幣OUSD正式上線，Stripe、Visa等開放企業串接",
-        "link": "https://www.ithome.com.tw/news/179343",
-        "pubDate": "2026-10-01  03:10:09",
-        "description": "Open Standard周三（9/30）正式推出美元穩定幣Open USD（OUSD），並提供Coinbase、Mastercard、Stripe及Visa等4條整合管道，讓企業與開發者可將OUSD應用於支付、結算、交易、外匯及錢包等金融服務。",
-        "source": "iThome"
-      },
-      {
-        "title": "Cloudflare重構Containers支援AI代理沙箱，百沙箱並行啟動不需1秒",
-        "link": "https://www.ithome.com.tw/news/179339",
-        "pubDate": "2026-10-01  02:10:40",
-        "description": "Cloudflare重構容器服務Containers，讓AI代理可依照不同任務臨時建立隔離的Linux工作環境，並在工作結束或暫停後保存檔案狀態。新版也縮短容器啟動時間，獨立測試顯示，同時建立100個沙箱時，啟動時間中位數由約4秒降至648毫秒。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -149,34 +149,6 @@
         "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 30 Sep 2026 17:47:17 +0800",
         "description": "隨著生成式 AI 深入企業流程，Prompt Injection（提示詞注入）也成為新的資安威脅之一。攻擊者會把惡意指令藏在網頁、Email、文件或其他外部內容中，誘導模型偏離原本任務。這類攻擊某種程度上很像對人的 Social Engineering（社交工程）：攻擊者不一定要突破系統漏洞，而是想辦法讓目標「相信」一段資訊，再自行做出不該做的動作。現在，這項風險又出現新的變化。 OpenAI 在 9/25 公布紅隊研究，發現了「Self-replicating Prompt Injection",
-        "source": "TechOrange"
-      },
-      {
-        "title": "IBM 揭企業 AI 轉型落差：86% 高層認可員工準備度，卻估定期使用率僅 25%",
-        "link": "https://techorange.com/2026/09/30/ceo-gap-stalls-ai-adoption-ibm-finds-only-25-workers-use/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 16:46:21 +0800",
-        "description": "IBM 2026 年 CEO 研究揭示企業導入 AI 的一項落差：儘管多數企業執行長認為員工已具備與 AI 協作的能力，但受訪 CEO 估計，僅約四分之一的員工會在工作中定期使用 AI。《Forbes》報導，高層認知與員工實際採用之間的落差，可能成為企業擴大 AI 應用的阻力。其關鍵不僅在於工具是否可用，也在於企業高層是否真正參與 AI 工作流程。 從 CAIO 到中階管理層：AI 正改變企業組織，但員工採用程度仍是難題 根據 IBM Institute for Business Value（I",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【劉永信專欄】研發經費占 GDP 僅次以色列、南韓，台灣的基礎研究為什麼不到 8%？",
-        "link": "https://techorange.com/2026/09/30/gdp-anthropic-claude-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 15:55:09 +0800",
-        "description": "講一個大部分老闆都不願意接受的事實，在真正的研究裡，絕大多數的嘗試注定不會有結果，而且你無法事先知道，會是哪些。 八月十日，Anthropic 公布一份研究，他們讓一個尚未發布的 Claude 版本，去挑戰黎曼猜想，那是數學界懸了 167 年、還掛著一百萬美元獎金的難題。 結果沒有解開，但在嘗試的過程中，它意外把一個相關的下界，從 41.6% 推進到 67.2%。這個數字指的是「已經被證明落在臨界線上的零點比例」，而這一跳，是這個數字有紀錄以來最大的一次躍進。 我的背景是 R&D，工程師出身，做",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「把刀柄握好了，才敢放手讓 AI 做更多的事。」鴻海、TeamT5、SAS 與 KPMG 四大專家分析高科技製造 Edge AI Agent 的資安實戰",
-        "link": "https://techorange.com/2026/09/30/foxconn-teamt5-sas-kpmg-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 15:46:31 +0800",
-        "description": "TechOrange 科技報橘日前與美國高通公司 Qualcomm 共同主辦「2026 AI 智慧大工廠論壇新竹場」，活動主軸鎖定「Edge AI Agent：高科技製造的超自動化與資安實戰」，當產線 AI Agent 開始握有即時決策權，並從「對話問答」走向「實體執行」，風險也將從「說錯話」演變為不可逆的「做錯事」，威脅不再只是企圖闖入門口的外來駭客，而是已在內部獲得授權的 AI Agent。此次活動邀請到鴻海科技集團、杜浦數位安全 TeamT5、SAS 與 KPMG 四位專家，分析企業如何確",
-        "source": "TechOrange"
-      },
-      {
-        "title": "達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會：聚焦「虛擬雙生 × AI 助手」，打造 AI-Native 未來生態系",
-        "link": "https://techorange.com/2026/09/30/dassault-simulia-ainative/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 15:26:11 +0800",
-        "description": "達梭系統於日前舉辦 2026 達梭系統臺灣年度高峰論壇暨 SIMULIA 用戶大會，以「虛擬雙生 × AI 虛擬助手」為主題，聚焦三條主軸：如何以虛擬雙生與 AI 虛擬助手在實際部署前完成規劃驗證，降低時間、成本與風險；如何讓 AI 真正理解並運用產業知識，提升分析、推理與決策能力；以及 AI 如何深入產品研發、智慧製造與機器人領域，加速從概念到生產的流程。 今年論壇匯聚達梭系統全球與亞太區高層、NVIDIA 及臺灣產業領袖，共同探討企業 AI 如何從單點導入邁向規模化與工業化，並由達梭系統臺灣",
         "source": "TechOrange"
       },
       {
@@ -240,6 +212,34 @@
         "link": "https://techorange.com/2026/10/01/anthropic-ipo-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 01 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 傳募資至少 300 億美元，Anthropic 招股文件示警 AI 災難性風險 OpenAI 傳尋求至少 300 億美元新資金，Anthropic IPO 文件則揭露高速成長、巨額虧損與先進 AI 的安全風險。《彭博》引述知情人士報導，OpenAI 正尋求募資至少 300 億美元，目標估值約 1.4 兆美元，不包含這次募資的新資金。協商仍在初期，條件可能改變。OpenAI 執行長 Sam Altman 也在開發者大會表示，公司將優",
+        "source": "TechOrange"
+      },
+      {
+        "title": "OpenAI 零售新局：ChatGPT 虛擬試穿＋收藏上線，把「探索到決策」搬進對話框",
+        "link": "https://techorange.com/2026/10/02/shopping-with-chatgpt-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 12:35:34 +0800",
+        "description": "OpenAI 持續探索 ChatGPT 作為 AI 購物助理的應用。OpenAI 宣布，全球推出兩項新的購物功能，包括讓使用者虛擬試穿服裝與配件，以及新增收藏（Favorites）功能，讓使用者儲存喜歡的商品，方便之後再查看。 OpenAI 推出「虛擬試穿」功能，ChatGPT 升級 AI 購物助理體驗 《TechCrunch》提及，這項更新正值 AI 助理持續探索購物應用之際。OpenAI 先前曾推出即時結帳（Instant Checkout）功能，但這項功能最終表現不佳，促使 OpenAI ",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google 首度把 4 顆 TPU 送上太空！開始實測「軌道 AI 資料中心」",
+        "link": "https://techorange.com/2026/10/02/google-tpu-ai-project-suncatcher/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 11:57:44 +0800",
+        "description": "Google 首度把自家 AI 晶片送上太空。美國時間 10/1，太空公司 SpaceX 的 Falcon 9 火箭執行 Transporter-18 任務，其中一顆由衛星公司 Planet Labs 製造、約冰箱大小的衛星，搭載了 4 顆 Google TPU。這也是 Google 的 Project Suncatcher（捕日者計畫）首次把 TPU 真正送進軌道。《CNN》形容，這次發射可視為 Google 在軌道 AI 資料中心競爭中率先展開的一波實際行動。 Up, up, and awa",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Agile Robots 的產品是「工廠」，機械手臂、人形機器人都只是其中一環",
+        "link": "https://techorange.com/2026/10/02/agile-robots-physical-ai-automation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 09:29:28 +0800",
+        "description": "Agile Robots 指出，開發實體 AI 的企業，例如機器人公司必須先投入有價值的應用，大規模部署機器人後動能才會回流，進而帶動資本投資、推動運算能力進步，再驅動實體產品進化。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "一個 AI Agent 別管超過 8～10 類任務，Salesforce 如何重新設計企業分工？",
+        "link": "https://techorange.com/2026/10/02/ai-agent-salesforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 06:36:00 +0800",
+        "description": "隨著企業建立的 AI Agent 越來越多，如何避免 Agent 彼此重複、職責模糊甚至失控，也開始成為新的管理問題。在這個背景下，一個 Agent 到底該負責多少事？ Salesforce 最近在多 Agent 設計建議中提出一個具體參考：實務上，當單一 Agent 負責超過約 8～10 個範圍明確的任務主題，就應考慮進一步拆分。而這項建議出現之際，Salesforce 自己也正在調整內部導入 Agent 的方法。 從數百個 Agent 收斂，Salesforce 先學會聚焦問題 《Fortu",
         "source": "TechOrange"
       },
       {
@@ -485,10 +485,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Brian Chesky interview: AI agents need their own operating system",
-        "link": "https://techcrunch.com/2026/10/01/brian-chesky-interview-ai-agents-need-their-own-operating-system/",
-        "pubDate": "Thu, 01 Oct 2026 15:12:00 +0000",
-        "description": "Brian Chesky on making Airbnb agent-friendly, the state of consumer AI, and why the world needs an AI-native operating system.",
+        "title": "Robotaxi operators will face fines for blocking first responders",
+        "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
+        "pubDate": "Fri, 02 Oct 2026 00:57:57 +0000",
+        "description": "A new California law places new rules on autonomous vehicles operators",
         "source": "TechCrunch"
       },
       {
@@ -606,26 +606,6 @@
         "products": "WordPress Remote Code Execution Vulnerability"
       },
       {
-        "title": "Cisco Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20260917",
-        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Cisco Products"
-      },
-      {
-        "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20260917",
-        "pubDate": "Thu, 17 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Products"
-      },
-      {
         "title": "Citrix Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260928",
         "pubDate": "Mon, 28 Sep 2026 09:00:00 +0800",
@@ -636,24 +616,64 @@
         "products": "Citrix Products"
       },
       {
-        "title": "F5 BIG-IP Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-denial-of-service-vulnerability_20260921",
-        "pubDate": "Mon, 21 Sep 2026 11:00:00 +0800",
+        "title": "Fortinet Products Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-remote-code-execution-vulnerability_20261002",
+        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "F5 BIG-IP Denial of Service Vulnerability"
+        "products": "Fortinet Products Remote Code Execution Vulnerability"
       },
       {
-        "title": "ISC BIND Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20260918",
-        "pubDate": "Fri, 18 Sep 2026 11:00:00 +0800",
+        "title": "Mozilla Thunderbird Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20261002",
+        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "ISC BIND"
+        "products": "Mozilla Thunderbird"
+      },
+      {
+        "title": "SUSE Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
+        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "SUSE Linux Kernel"
+      },
+      {
+        "title": "Debian Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261002",
+        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Debian Linux Kernel"
+      },
+      {
+        "title": "RedHat Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
+        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "RedHat Linux Kernel"
+      },
+      {
+        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
+        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Ubuntu Linux Kernel"
       }
     ]
   }
