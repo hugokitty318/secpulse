@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-01T20:29:18.717702Z",
+  "ts": "2026-10-02T00:11:50.867909Z",
   "tabs": {
     "cn_sec": [
       {
@@ -180,13 +180,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "美國政府打造 AI 服務入口：America.gov 搭載 Gemini、Grok 整合 2.9 萬個政府網站",
-        "link": "https://techorange.com/2026/09/30/gsa-joins-the-white-houses-national-design-studio-unveiling-americagov/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 12:51:32 +0800",
-        "description": "美國總統川普宣布推出 America.gov，定位為民眾取得聯邦政府資訊與服務的單一數位入口，並簽署行政命令，要求聯邦機構逐步將相關服務整合進網站。America.gov 以 AI 聊天介面為核心，Google Gemini 與 xAI Grok 成為背後的 AI 技術夥伴。 America.gov 變身 AI 政府入口，Gemini、Grok 搶先進駐 川普在行政命令中將 America.gov 描述為聯邦政府的「統一數位前門」，讓民眾以自然語言提出需求，取得政府資訊，並在技術與授權條件允許時",
-        "source": "TechOrange"
-      },
-      {
         "title": "車內支付生態系崛起：掌握「儀表板介面」即掌握商業入口？憑證與數據控制權成競逐焦點",
         "link": "https://techorange.com/2026/10/01/connected-cars-steer-next-shopping-decision/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 01 Oct 2026 17:06:20 +0800",
@@ -247,6 +240,13 @@
         "link": "https://techorange.com/2026/10/01/anthropic-ipo-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 01 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 傳募資至少 300 億美元，Anthropic 招股文件示警 AI 災難性風險 OpenAI 傳尋求至少 300 億美元新資金，Anthropic IPO 文件則揭露高速成長、巨額虧損與先進 AI 的安全風險。《彭博》引述知情人士報導，OpenAI 正尋求募資至少 300 億美元，目標估值約 1.4 兆美元，不包含這次募資的新資金。協商仍在初期，條件可能改變。OpenAI 執行長 Sam Altman 也在開發者大會表示，公司將優",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】美光客戶長約承諾增至 320 億美元，預期記憶體供應更吃緊",
+        "link": "https://techorange.com/2026/10/02/micron-memory-supply-32-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊美光客戶長約承諾增至 320 億美元，預期記憶體供應將更吃緊 美光（Micron）9 月 30 日公布截至 9 月 3 日的 2026 會計年度第四季財報，營收達 542.3 億美元，高於去年同期的 113.2 億美元。美光董事長暨執行長梅羅特拉（Sanjay Mehrotra）表示，客戶在長期供應協議下的財務承諾，已從 6 月公布的 220 億美元提高至 320 億美元，多數採現金訂金形式。這是未來供應承諾，並非當季營收。 美光預期，2027",
         "source": "TechOrange"
       }
     ],
@@ -322,20 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft to block Entra ID script injection attacks starting October",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-to-block-entra-id-script-injection-attacks-starting-october/",
-        "pubDate": "Wed, 30 Sep 2026 09:37:15 -0400",
-        "description": "Microsoft has reminded customers that the Entra ID authentication system will get better protection against external script injection attacks starting next month. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "TeamViewer urges users to patch severe flaws “as soon as possible”",
-        "link": "https://www.bleepingcomputer.com/news/security/teamviewer-urges-users-to-patch-severe-flaws-as-soon-as-possible/",
-        "pubDate": "Wed, 30 Sep 2026 08:25:10 -0400",
-        "description": "Remote access software company TeamViewer warned customers on Tuesday to immediately patch a set of high-severity vulnerabilities affecting its client and host software. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
         "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
         "pubDate": "Thu, 01 Oct 2026 22:25:57 +0530",
@@ -357,11 +343,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
+        "pubDate": "Thu, 01 Oct 2026 18:42:49 -0400",
+        "description": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
         "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
         "pubDate": "Thu, 01 Oct 2026 17:15:00 +0530",
         "description": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody price",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Autonomous AI agents tried to hack US, Canadian government websites",
+        "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
+        "pubDate": "Thu, 01 Oct 2026 16:52:50 -0400",
+        "description": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
@@ -393,6 +393,27 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Lyft is paying $272.5M to settle lawsuit over how it classified drivers",
+        "link": "https://techcrunch.com/2026/10/01/lyft-is-paying-272-5m-to-settle-lawsuit-over-how-it-classified-drivers/",
+        "pubDate": "Thu, 01 Oct 2026 21:57:08 +0000",
+        "description": "Today, gig economy drivers are classified as contractors. This settlement clears up a lingering lawsuit from 2020 when that was still an unanswered issue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
+        "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
+        "pubDate": "Thu, 01 Oct 2026 21:55:22 +0000",
+        "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
+        "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
+        "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
+        "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "source": "TechCrunch"
+      },
       {
         "title": "ChatGPT can now virtually try on clothes for you",
         "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
@@ -471,32 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents.",
-        "link": "https://techcrunch.com/2026/10/01/photon-held-a-funeral-for-mobile-apps-now-it-has-4-5m-to-help-replace-them-with-agents/",
-        "pubDate": "Thu, 01 Oct 2026 14:00:00 +0000",
-        "description": "The startup helps developers build AI agents that work over iMessage, SMS/RCS, email, and other messaging platforms. It's a bet that consumers will increasingly use agents instead of downloading apps.",
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/01/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "pubDate": "Fri, 02 Oct 2026 00:03:23 +0000",
+        "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hearing tech startup Legato launches its AI hearing glasses",
-        "link": "https://techcrunch.com/2026/10/01/hearing-tech-startup-legato-launches-its-ai-hearing-glasses/",
-        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-        "description": "The glasses stem from the startup’s goal of making hearing care more accessible by addressing the cost, comfort, and stigma associated with traditional hearing aids.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Audible’s new features let you explore book worlds — and use AI to talk to characters",
-        "link": "https://techcrunch.com/2026/10/01/audibles-new-features-let-you-explore-book-worlds-and-even-talk-to-characters/",
-        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-        "description": "Audible is rolling out new features that help listeners keep track of characters, explore places and imagery mentioned in books, and even interact with characters using generative AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The new Kindle ditches the raised bezel in a push toward a smaller, lighter e-reader",
-        "link": "https://techcrunch.com/2026/10/01/the-new-kindle-ditches-the-bezel-in-a-push-toward-a-smaller-lighter-e-reader/",
-        "pubDate": "Thu, 01 Oct 2026 13:00:00 +0000",
-        "description": "The new Kindle lineup features its lightest and thinnest designs yet, with a sleek, front-flush display that eliminates bezels for good.",
-        "source": "TechCrunch"
+        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
+        "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
+        "pubDate": "2026-10-01T18:51:36-04:00",
+        "description": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of",
+        "source": "TheVerge"
       },
       {
         "title": "Google’s new Guided Vision feature can help you read the fine print",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
         "pubDate": "2026-10-01T13:12:21-04:00",
         "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Sony brings AI graphics upscaling to the regular PS5",
-        "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-        "pubDate": "2026-10-01T12:53:39-04:00",
-        "description": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new performance tier of AI upscaling\" that's a result of Sony's Project Amethyst work with AMD, accor",
         "source": "TheVerge"
       }
     ],
