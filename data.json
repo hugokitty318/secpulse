@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-02T11:20:51.019583Z",
+  "ts": "2026-10-02T16:49:00.151505Z",
   "tabs": {
     "cn_sec": [
       {
@@ -201,10 +201,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Anthropic IPO 文件警告：先進 AI 恐帶來災難性風險",
-        "link": "https://techorange.com/2026/10/01/anthropic-ipo-ai-risk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 傳募資至少 300 億美元，Anthropic 招股文件示警 AI 災難性風險 OpenAI 傳尋求至少 300 億美元新資金，Anthropic IPO 文件則揭露高速成長、巨額虧損與先進 AI 的安全風險。《彭博》引述知情人士報導，OpenAI 正尋求募資至少 300 億美元，目標估值約 1.4 兆美元，不包含這次募資的新資金。協商仍在初期，條件可能改變。OpenAI 執行長 Sam Altman 也在開發者大會表示，公司將優",
+        "title": "Jev 爆紅後 Strands Decider、Clef 接連登場，決策模型正走出哪些不同路線？",
+        "link": "https://techorange.com/2026/10/02/ai-jev-decisions-api-strands-decider-clef/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 17:13:19 +0800",
+        "description": "TypeSafe 9 月中推出 Jev 後，「決策模型（Decision Model）」快速成為 AI 領域的新熱點。不到三週，OpenAI 推出 Decisions API，AWS、Cloudflare 接連發布 Strands Decider 2B 與 Clef，開發者社群與研究團隊也快速跟進。這波熱潮背後，是 AI 代理內部不同工作的分工開始被重新檢視。 《VentureBeat》指出，如果系統只需要回答「這個工具該不該執行？」或「這筆請求該走哪一條路徑？」這類答案範圍明確的問題，讓大型語",
         "source": "TechOrange"
       },
       {
@@ -252,52 +252,10 @@
     ],
     "en_sec": [
       {
-        "title": "Attackers Exploit Zimbra Flaw to Deploy Web Shells and Harvest Authentication Secrets",
-        "link": "https://thehackernews.com/2026/09/attackers-exploit-zimbra-flaw-to-deploy.html",
-        "pubDate": "Wed, 30 Sep 2026 22:16:29 +0530",
-        "description": "Threat actors have weaponized a now-patched security flaw in Zimbra Collaboration Suite (ZCS) to deploy web shells and access mailbox data, according to findings from the Microsoft Security Research team.\n\nThe attack exploits CVE-2026-73570 (CVSS sco",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Abuse MSP360 to Deploy ScreenConnect in Dual-RMM Phishing Attacks",
-        "link": "https://thehackernews.com/2026/09/attackers-abuse-msp360-to-deploy.html",
-        "pubDate": "Wed, 30 Sep 2026 22:02:59 +0530",
-        "description": "Microsoft has warned of phishing campaigns distributing an installer for the MSP360 Remote Monitoring and Management (RMM) software under the guise of meeting invitations, PDF-themed lures, software update prompts, and other social-engineering conten",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Russian state hackers use new RedFlick technique to push malware",
         "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
         "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400",
         "description": "The Russian state actor Star Blizzard has been using a new malware installation tactic dubbed \"RedFlick\" to deploy its signature CosmicPulse backdoor. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "DIVD says Zammad zero-days enabled AI-driven network breach",
-        "link": "https://www.bleepingcomputer.com/news/security/divd-says-zammad-zero-days-enabled-ai-driven-network-breach/",
-        "pubDate": "Wed, 30 Sep 2026 15:49:15 -0400",
-        "description": "The Dutch Institute for Vulnerability Disclosure (DIVD) says that the breach of its network was possible by exploiting a chain of two zero-day vulnerabilities in the open-source Zammad ticketing system. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Over 543,000 valid credentials exposed in public GitHub repositories",
-        "link": "https://www.bleepingcomputer.com/news/security/over-543-000-valid-credentials-exposed-in-public-github-repositories/",
-        "pubDate": "Wed, 30 Sep 2026 14:08:34 -0400",
-        "description": "More than 543,000 credentials exposed in public GitHub repositories were still valid in July despite the platform's security measures to prevent accidental leaks of sensitive data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA warns of critical pre-auth RCE flaw in MikroTik RouterOS",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-pre-auth-rce-flaw-in-mikrotik-routeros/",
-        "pubDate": "Wed, 30 Sep 2026 11:49:29 -0400",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a new critical vulnerability in MikroTik RouterOS that could lead to remote code execution or cause a denial-of-service condition. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Cisco warns of new SD-WAN zero-day exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
-        "pubDate": "Wed, 30 Sep 2026 10:46:40 -0400",
-        "description": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -390,6 +348,48 @@
         "pubDate": "Thu, 01 Oct 2026 10:40:09 +0530",
         "description": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coordination with external partners and secur",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
+        "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
+        "pubDate": "Thu, 01 Oct 2026 10:25:14 -0400",
+        "description": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Citrix NetScaler Post-Exploitation Payload Creates Superuser, Maps Web Shell to CSS-Like URLs",
+        "link": "https://thehackernews.com/2026/10/citrix-netscaler-post-exploitation.html",
+        "pubDate": "Thu, 01 Oct 2026 10:05:34 +0530",
+        "description": "Threat actors have been observed exploiting a critical pre-authentication command injection vulnerability in Citrix NetScaler ADC and NetScaler Gateway to drop web shells and attempt theft of configuration data.\n\nLevelBlue's Threat Hunt Operations & ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The Day-One Hole in Zero Trust Architecture",
+        "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
+        "pubDate": "Thu, 01 Oct 2026 10:01:11 -0400",
+        "description": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA meth",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Kiteworks patches max severity code injection vulnerability",
+        "link": "https://www.bleepingcomputer.com/news/security/kiteworks-patches-max-severity-email-protection-gateway-code-injection-vulnerability/",
+        "pubDate": "Thu, 01 Oct 2026 09:51:08 -0400",
+        "description": "Secure file-sharing software company Kiteworks has released security updates to address 126 vulnerabilities, including a max-severity flaw affecting its Email Protection Gateway (EPG) security solution. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft enables Windows settings backup by default for orgs",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
+        "pubDate": "Thu, 01 Oct 2026 07:14:28 -0400",
+        "description": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers stole Pentagon personnel records of over 3 million people",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-pentagon-human-resources-management-system-steal-data-of-nearly-3-million-people/",
+        "pubDate": "Thu, 01 Oct 2026 05:44:28 -0400",
+        "description": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -401,94 +401,94 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-        "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-        "pubDate": "Thu, 01 Oct 2026 21:55:22 +0000",
-        "description": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
+        "title": "Paramount and Warner Bros Discovery to become Skydance",
+        "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
+        "pubDate": "Fri, 02 Oct 2026 15:53:50 +0000",
+        "description": "The roughly $110 billion deal is expected to close October 6.",
         "source": "TechCrunch"
       },
       {
-        "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-        "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-        "pubDate": "Thu, 01 Oct 2026 21:08:11 +0000",
-        "description": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
+        "title": "Pope Leo XIV is not a fan of AI-generated art",
+        "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+        "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000",
+        "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
         "source": "TechCrunch"
       },
       {
-        "title": "ChatGPT can now virtually try on clothes for you",
-        "link": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-        "pubDate": "Thu, 01 Oct 2026 19:21:53 +0000",
-        "description": "OpenAI is rolling out new shopping features for ChatGPT that let users virtually try on clothing and accessories using their own photos and save products they like to a Favorites library.",
+        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
+        "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
+        "pubDate": "Fri, 02 Oct 2026 15:31:20 +0000",
+        "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-        "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-        "pubDate": "Thu, 01 Oct 2026 19:18:03 +0000",
-        "description": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+        "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+        "pubDate": "Fri, 02 Oct 2026 15:00:00 +0000",
+        "description": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
         "source": "TechCrunch"
       },
       {
-        "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-        "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-        "pubDate": "Thu, 01 Oct 2026 18:35:55 +0000",
-        "description": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
+        "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+        "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+        "pubDate": "Fri, 02 Oct 2026 14:47:46 +0000",
+        "description": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
-        "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
-        "pubDate": "Thu, 01 Oct 2026 18:14:42 +0000",
-        "description": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+        "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
+        "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
+        "pubDate": "Fri, 02 Oct 2026 14:30:00 +0000",
+        "description": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second pass at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Opus 5.5 loves to tell you ‘this matters’ (and other AI writing tells)",
-        "link": "https://techcrunch.com/2026/10/01/opus-5-5-loves-to-tell-you-this-matters-and-other-ai-writing-tells/",
-        "pubDate": "Thu, 01 Oct 2026 17:50:19 +0000",
-        "description": "Opus 5.5’s biggest tell is the word “dependable,” which pops up 23 times more often than in human samples.",
+        "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+        "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+        "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
+        "description": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will arrive at San Francisco’s Moscone West looking for companies, products, ideas, and people w",
         "source": "TechCrunch"
       },
       {
-        "title": "This startup wants to turn idle car inventory into rental revenue",
-        "link": "https://techcrunch.com/2026/10/01/this-startup-wants-to-turn-idle-car-inventory-into-rental-revenue/",
-        "pubDate": "Thu, 01 Oct 2026 17:09:00 +0000",
-        "description": "When Igor Dobrianskyi looks at a car dealership lot, he doesn't see rows of cars — he sees millions of dollars just sitting there, depreciating. Come see MyMonthlyCar in the Startup Battlefield 200 at TechCrunch Disrupt, taking place October 13 to 15",
+        "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+        "pubDate": "Fri, 02 Oct 2026 14:00:00 +0000",
+        "description": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at midnight PT. Connect with the Boston startup ecosystem through November 1–7 by hosting your o",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon releases its own Jev clone as decision models flood the web",
-        "link": "https://techcrunch.com/2026/10/01/amazon-releases-its-own-jev-clone-as-decision-models-flood-the-web/",
-        "pubDate": "Thu, 01 Oct 2026 16:49:22 +0000",
-        "description": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
+        "title": "Tesla sustains its EV sales momentum despite US troubles",
+        "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
+        "pubDate": "Fri, 02 Oct 2026 13:39:23 +0000",
+        "description": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
         "source": "TechCrunch"
       },
       {
-        "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-        "link": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-        "pubDate": "Thu, 01 Oct 2026 16:44:35 +0000",
-        "description": "Shopify’s new Canvas site builder lets merchants create and customize their online stores by chatting with its AI agent Sidekick, while watching the changes happen in real time.",
+        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
+        "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
+        "pubDate": "Fri, 02 Oct 2026 13:23:09 +0000",
+        "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
         "source": "TechCrunch"
       },
       {
-        "title": "California governor vetoes bill banning use of ‘pervert glasses’ to secretly record people",
-        "link": "https://techcrunch.com/2026/10/01/california-governor-vetoes-bill-banning-use-of-pervert-glasses-to-secretly-record-people/",
-        "pubDate": "Thu, 01 Oct 2026 16:35:25 +0000",
-        "description": "The California state bill would have penalized people who secretly recorded people in public with wearables equipped with cameras and microphones.",
+        "title": "Rivian’s R2 just helped it set a new sales record",
+        "link": "https://techcrunch.com/2026/10/02/rivians-r2-just-helped-it-set-a-new-sales-record/",
+        "pubDate": "Fri, 02 Oct 2026 13:17:05 +0000",
+        "description": "Deliveries jumped roughly 45% compared to the same quarter last year, with Rivian delivering more than 19,000 EVs.",
         "source": "TechCrunch"
       },
       {
-        "title": "One year later, Tesla and Musk still don’t have a good definition of ‘abundance’",
-        "link": "https://techcrunch.com/2026/10/01/one-year-later-tesla-and-musk-are-still-dont-have-a-good-definition-of-abundance/",
-        "pubDate": "Thu, 01 Oct 2026 15:50:10 +0000",
-        "description": "The CEO promised to get more specific about his vision. But the details are still absent.",
+        "title": "Rivian issues R2 recall for poorly tightened battery packs",
+        "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
+        "pubDate": "Fri, 02 Oct 2026 12:50:11 +0000",
+        "description": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
         "source": "TechCrunch"
       },
       {
         "title": "Robotaxi operators will face fines for blocking first responders",
         "link": "https://techcrunch.com/2026/10/01/robotaxi-operators-will-face-fines-for-blocking-first-responders/",
         "pubDate": "Fri, 02 Oct 2026 00:57:57 +0000",
-        "description": "A new California law places new rules on autonomous vehicles operators",
+        "description": "A new California law places new rules on autonomous vehicles operators.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AI music maker Suno now generates spoken words",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
-        "pubDate": "2026-10-02T05:42:19-04:00",
-        "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simulta",
+        "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
+        "link": "https://www.theverge.com/tech/1004053/nacon-sony-playstation-licensed-revolution-5-unlimited-wireless-controller",
+        "pubDate": "2026-10-02T12:35:13-04:00",
+        "description": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings like joystick sensitivity or remapping buttons right on the gamepad. The Revolution 5 Unlimit",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
-        "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
-        "pubDate": "2026-10-01T18:51:36-04:00",
-        "description": "Apple's rumored push into smart home tech could include a smart home security camera that only gives users text event descriptions instead of video footage. Mark Gurman said in the first episode of the Power On podcast that the camera will be part of",
+        "title": "Dots get up in Muse’s business",
+        "link": "https://www.theverge.com/podcast/1004059/openai-dots-kindle-homepad-cybercab-vergecast",
+        "pubDate": "2026-10-02T11:47:05-04:00",
+        "description": "OpenAI's answer to Muse arrived this week, and it looks a whole lot like Muse dressed up in a suit and tie. Dots is a business-first product - for now, at least - costing a minimum of $100 per month. And sure, you can make a cute little Dot character",
         "source": "TheVerge"
       },
       {
-        "title": "Google’s new Guided Vision feature can help you read the fine print",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1003756/google-gemini-live-guided-vision",
-        "pubDate": "2026-10-01T15:47:51-04:00",
-        "description": "Guided Vision is launching in Gemini Live on compatible Android devices today to use AI to give real-time audio descriptions of anything you point your phone's camera at. By sharing your camera in Gemini Live, you can have Google's AI help with thing",
+        "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
+        "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+        "pubDate": "2026-10-02T10:34:14-04:00",
+        "description": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Idaho in August that left seven people wounded and four dead. When a Tesla vehicle is chargi",
         "source": "TheVerge"
       },
       {
-        "title": "Android Central &#8216;will continue&#8217; despite laying off its staff",
-        "link": "https://www.theverge.com/tech/1003735/android-central-layoffs",
-        "pubDate": "2026-10-01T15:20:29-04:00",
-        "description": "Android Central, a blog focused on the Android ecosystem, laid off its staff yesterday, but owner Future confirms to The Verge that the site will continue publishing. Yesterday, four of the six staffers on Android Central's staff page posted publicly",
+        "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
+        "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
+        "pubDate": "2026-10-02T10:29:05-04:00",
+        "description": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from plastic and aluminum. The company first showed off its Keurig Alta machine two years ago whi",
         "source": "TheVerge"
       },
       {
-        "title": "Steam Deck 2: Is AMD Gainsborough the chip Valve’s been waiting for?",
-        "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
-        "pubDate": "2026-10-01T14:52:58-04:00",
-        "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's so",
+        "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
+        "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
+        "pubDate": "2026-10-02T09:42:36-04:00",
+        "description": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Discovery next week. In a post on X, Ellison writes that \"we wanted a name that would give th",
         "source": "TheVerge"
       }
     ],
