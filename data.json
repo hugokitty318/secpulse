@@ -1,7 +1,21 @@
 {
-  "ts": "2026-10-02T05:38:18.860373Z",
+  "ts": "2026-10-02T11:20:51.019583Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局",
+        "link": "https://www.ithome.com.tw/news/179381",
+        "pubDate": "2026-10-02 17:58",
+        "description": "中秋節與教師節4天連假過後，2026年9月最後一週的資安新聞熱點，聚焦勒索軟體與企業資安事件、AI代理安全風險，以及政府資安治理與歐盟CRA合規進展；針對網路、應用程式與端點的漏洞利用攻擊仍持續頻傳，國內外也接連出現資料外洩與重大資安事件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月2日，臺北市政府網站發生服務中斷事件，起因為跳電後機房過熱造成儲存設備關閉",
+        "link": "https://www.ithome.com.tw/news/179374",
+        "pubDate": "2026-10-02 14:54",
+        "description": "台北市政府網站9月26日晚間發生服務中斷，根據資訊局說明，市政大樓電力過載跳電後，資訊機房溫度升高，導致部分儲存設備因啟動保護機制而關閉，影響部分使用市府雲平臺的網站服務。由於一般網站未配置異地備援，此次事件也引發政府數位服務備援分級與韌性的討論",
+        "source": "iThome資安"
+      },
       {
         "title": "研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦",
         "link": "https://www.ithome.com.tw/news/179370",
@@ -31,13 +45,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄",
-        "link": "https://www.ithome.com.tw/news/179322",
-        "pubDate": "2026-10-02 08:00",
-        "description": "軟體供應鏈攻擊進一步鎖定CI/CD環境。Mandiant指出，攻擊者可操弄軟體建置流程，甚至發布仍帶有合法來源證明的遭污染套件。企業不能只靠來源證明判斷軟體是否安全，也需確認來源程式碼及建置流程",
-        "source": "iThome資安"
-      },
-      {
         "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
         "link": "https://www.ithome.com.tw/news/179336",
         "pubDate": "2026-10-02 08:00",
@@ -56,6 +63,13 @@
         "link": "https://www.ithome.com.tw/news/179326",
         "pubDate": "2026-10-02 08:00",
         "description": "Google威脅情報團隊GTIG調查發現，今年前8月新揭露並遭利用的漏洞數，已超越2025全年，攻擊者對N-day漏洞的利用明顯增加",
+        "source": "iThome資安"
+      },
+      {
+        "title": "軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄",
+        "link": "https://www.ithome.com.tw/news/179322",
+        "pubDate": "2026-10-02 08:00",
+        "description": "軟體供應鏈攻擊進一步鎖定CI/CD環境。Mandiant指出，攻擊者可操弄軟體建置流程，甚至發布仍帶有合法來源證明的遭污染套件。企業不能只靠來源證明判斷軟體是否安全，也需確認來源程式碼及建置流程",
         "source": "iThome資安"
       },
       {
@@ -80,10 +94,38 @@
         "source": "iThome"
       },
       {
-        "title": "GitHub HydraFusion進入VS Code，AI可依任務自動安排多模型分工",
-        "link": "https://www.ithome.com.tw/news/179345",
-        "pubDate": "2026-10-02  08:10:28",
-        "description": "GitHub擴大HydraFusion研究預覽範圍，除了原本的Copilot命令列工具，現在也於VS Code與GitHub Copilot應用程式提供。使用者可從Copilot模型選單選擇HydraFusion，不過，HydraFusion並非單一AI模型，而是一套協調模型工作的機制，會依照任務決定由一個模型直接處理，或讓多個模型接力完成並檢查結果。",
+        "title": "全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本",
+        "link": "https://www.ithome.com.tw/news/179377",
+        "pubDate": "2026-10-02  06:10:52",
+        "description": "Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定方式，將SvelteKit相關設定集中到Vite設定檔，同時提高開發工具的最低版本要求，包括採用TypeScript 6與建置工具Vite 8。官方也提供自動遷移工具，協助既有專案升級。",
+        "source": "iThome"
+      },
+      {
+        "title": "案件太多、敏感卷證又不能上商用AI，法務部啟動三年主權AI計畫",
+        "link": "https://www.ithome.com.tw/news/179379",
+        "pubDate": "2026-10-02  04:10:50",
+        "description": "「案件這麼多，又不讓我用AI，要我怎麼辦？」時任法務部綜合規劃司副司長古慧珍在8月底數位政府高峰會上，用這句第一線同仁可能的抱怨，點出法務部推動AI的兩難：檢察官、觀護人需要工具幫忙整理資料和文書，但卷宗內有個資、案情和偵查脈絡，不能直接上傳到商用AI。\n法務部的解法是，要用三年時間建立自己的三層式主權AI平臺：底層共用算力與資料湖，中層提供法務專屬大型語言模型推論系統，上層則是自主開發的AI助理應用。今年，這項計畫先選定代表性場域、展開試驗，明年則進入推廣期，要逐步擴增本土司法語料庫和實務案例",
+        "source": "iThome"
+      },
+      {
+        "title": "五大科技巨頭主動型Agent大比較，一張表告訴你Dots、Muse和Spark有何不同",
+        "link": "https://www.ithome.com.tw/news/179380",
+        "pubDate": "2026-10-02  04:10:28",
+        "description": "主動型Agent助理產品大爆發。從今年5月開始，多家科技巨頭陸續跨進主動型Agent市場，到了8、9月更進入密集推出期，大廠紛紛推出了主打24小時全天候運作的AI Agent，在沒有新的提示指令下持續執行。\n年初全球爆紅的OpenClaw（龍蝦），掀起了新一波AI代理的熱潮。相較於過去多半依據使用者指令行動的Agent，OpenClaw可以持續運作、定期執行任務，甚至在沒有持續提示的情況下主動完成工作，讓Agent從一次性任務執行，進一步發展為長時間、持續自主運作的模式。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型",
+        "link": "https://www.ithome.com.tw/news/179375",
+        "pubDate": "2026-10-02  03:10:27",
+        "description": "微軟AI部門Microsoft AI（MAI）周四（10/1）推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。",
+        "source": "iThome"
+      },
+      {
+        "title": "AWS開源20億參數Strands Decider，專門替AI代理人快速做決策",
+        "link": "https://www.ithome.com.tw/news/179373",
+        "pubDate": "2026-10-02  02:10:03",
+        "description": "AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。",
         "source": "iThome"
       },
       {
@@ -99,58 +141,9 @@
         "pubDate": "2026-10-01 18:35",
         "description": "日本警方拆除由協助者提供設備的筆電農場，北韓IT工作者可遠端操作日本境內電腦，掩飾實際所在地",
         "source": "iThome資安"
-      },
-      {
-        "title": "臺灣資安新創的突圍之路：從駭客競賽到日本市場的五年長征",
-        "link": "https://www.ithome.com.tw/news/179347",
-        "pubDate": "2026-10-01 18:27",
-        "description": "從CTF競賽、紅隊攻防到藍隊產品，TRAPA  Security在技術之外重新學習產品、管理與市場，藉由日本資安公司的投資，走出臺灣資安新創的海外路徑",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客UAT-11587鎖定臺灣學術界與智庫，以圖片仿製Gmail附件預覽介面並用政府文件作為誘餌",
-        "link": "https://www.ithome.com.tw/news/179344",
-        "pubDate": "2026-10-01 18:21",
-        "description": "中國駭客UAT-11587今年3月以魚叉式網釣鎖定臺灣學術界、智庫與公民社會政策社群。Cisco Talos於9月30日揭露該組織一系列網路間諜活動及臺灣案例，指出攻擊者會在郵件中仿製Gmail原生附件預覽介面，將惡意連結暗藏其中，同時也會依目標量身設計網釣內容，例如採用資訊戰工作坊與臺灣政府公開文件作為誘餌",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月1日，資安署首度辦理資安聯合稽核，將121場稽核整併成16場",
-        "link": "https://www.ithome.com.tw/news/179342",
-        "pubDate": "2026-10-01 14:51",
-        "description": "化繁為簡、提升政府檢查資服廠商資安的效率，針對為行政院所屬機關提供服務的16家業者，資安署首度辦理資安聯合稽核，不只建立一套共通標準，也把原先預計的121場稽核，併成16場實體稽核，預計明年將擴大到中央及地方各級政府，受稽核廠商增至30家",
-        "source": "iThome資安"
-      },
-      {
-        "title": "因應PQC簽章帶來的憑證架構負擔，Cloudflare完成初步大規模MTC實測，已傳送數十億份憑證",
-        "link": "https://www.ithome.com.tw/news/179335",
-        "pubDate": "2026-10-01 12:55",
-        "description": "為降低PQC憑證帶來的傳輸與驗證負擔，Cloudflare與Google正測試新的憑證架構與驗證機制MTC。最新實驗結果顯示，MTC已提供給50%的Chrome Beta 146使用者，累計傳送數十億份憑證，已驗證其初步可行性",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發表Gemini 4 Argon，輸出上限增至100萬個Token",
-        "link": "https://www.ithome.com.tw/news/179337",
-        "pubDate": "2026-10-01 12:46",
-        "description": "Google發表新一代AI模型Gemini 4 Argon，輸出上限提高至100萬個token，是先前Gemini模型的逾15倍，可在單次執行過程持續推理並處理更長的工作流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國強化跨產業的基礎設施韌性，近50家不同領域領導企業加入關鍵基礎設施聯盟（ACI）",
-        "link": "https://www.ithome.com.tw/news/179334",
-        "pubDate": "2026-10-01 12:04",
-        "description": "ACI新設CEO層級董事會，聚焦LLM資安、開源軟體、供應鏈及攻擊應變，並加強與政府合作",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
-      {
-        "title": "OpenAI 研究揭 AI Agent 新風險：惡意上下文可能從 Email 一路傳到工具操作",
-        "link": "https://techorange.com/2026/09/30/openai-ai-self-replicating-prompt-injections/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 30 Sep 2026 17:47:17 +0800",
-        "description": "隨著生成式 AI 深入企業流程，Prompt Injection（提示詞注入）也成為新的資安威脅之一。攻擊者會把惡意指令藏在網頁、Email、文件或其他外部內容中，誘導模型偏離原本任務。這類攻擊某種程度上很像對人的 Social Engineering（社交工程）：攻擊者不一定要突破系統漏洞，而是想辦法讓目標「相信」一段資訊，再自行做出不該做的動作。現在，這項風險又出現新的變化。 OpenAI 在 9/25 公布紅隊研究，發現了「Self-replicating Prompt Injection",
-        "source": "TechOrange"
-      },
       {
         "title": "車內支付生態系崛起：掌握「儀表板介面」即掌握商業入口？憑證與數據控制權成競逐焦點",
         "link": "https://techorange.com/2026/10/01/connected-cars-steer-next-shopping-decision/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -215,6 +208,13 @@
         "source": "TechOrange"
       },
       {
+        "title": "Walmart、TikTok Shop 訂單也能在 Amazon 後台管理：零售巨頭搶當商家的作業系統",
+        "link": "https://techorange.com/2026/10/02/amazon-walmart-race-merchants-operating-system/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 02 Oct 2026 16:17:08 +0800",
+        "description": "AI 正逐步改變零售商與商家之間的關係。《PYMNTS》報導，過去零售市場主要圍繞 4 項競爭槓桿，包括消費者占有率、賣家占有率、廣告支出占有率與錢包占有率；如今，AI 進一步帶來第 5、6 項槓桿，也就是決策權占有率，以及意圖基礎設施占有率。 賣家端的系統整合戰：Amazon 與 Walmart 搶占商家的「決策權占有率」 近期亞馬遜（Amazon）與沃爾瑪（Walmart）的產品更新，正反映出這項變化。Amazon 升級 Seller Assistant，讓 AI 能持續監控商家的業務狀況，",
+        "source": "TechOrange"
+      },
+      {
         "title": "OpenAI 零售新局：ChatGPT 虛擬試穿＋收藏上線，把「探索到決策」搬進對話框",
         "link": "https://techorange.com/2026/10/02/shopping-with-chatgpt-search/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 02 Oct 2026 12:35:34 +0800",
@@ -266,20 +266,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Cisco Warns of Attackers Exploiting Critical Authentication Bypass in SD-WAN Manager",
-        "link": "https://thehackernews.com/2026/09/cisco-warns-of-attackers-exploiting.html",
-        "pubDate": "Wed, 30 Sep 2026 20:54:54 +0530",
-        "description": "Attackers are exploiting a new critical zero-day flaw in Cisco Catalyst SD-WAN Manager, the system companies use to manage their Cisco SD-WAN networks, Cisco said in an advisory on September 30.\n\nThe flaw, CVE-2026-76504, could allow a remote attacke",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix Lures",
-        "link": "https://thehackernews.com/2026/09/attackers-abuse-chatgpt-custom-gpts-to.html",
-        "pubDate": "Wed, 30 Sep 2026 20:30:15 +0530",
-        "description": "Threat actors are abusing ChatGPT Custom GPTs to disguise them as legitimate product offerings and direct unsuspecting victims to malicious sites that employ ClickFix lures to deliver malware.\n\nHuntress, which observed the activity in late September ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Russian state hackers use new RedFlick technique to push malware",
         "link": "https://www.bleepingcomputer.com/news/security/russian-state-hackers-use-new-redflick-technique-to-push-malware/",
         "pubDate": "Wed, 30 Sep 2026 16:34:01 -0400",
@@ -312,13 +298,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-sd-wan-authentication-bypass-zero-day-exploited-in-attacks/",
         "pubDate": "Wed, 30 Sep 2026 10:46:40 -0400",
         "description": "Cisco released security updates to address a critical zero-day in the Catalyst SD-WAN Manager (tracked as CVE-2026-76504) that attackers are actively exploiting to escalate to admin privileges. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "AI's Third Wave: Coworkers Break the Security Model That Worked for Agents",
-        "link": "https://www.bleepingcomputer.com/news/security/ais-third-wave-coworkers-break-the-security-model-that-worked-for-agents/",
-        "pubDate": "Wed, 30 Sep 2026 10:01:11 -0400",
-        "description": "Persistent AI coworkers may operate continuously with standing access, creating identity risks that existing security models were not designed to handle. Token Security explains why these agents need their own identities, owners, scoped permissions, ",
         "source": "BleepingComputer"
       },
       {
@@ -389,6 +368,27 @@
         "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
         "pubDate": "Thu, 01 Oct 2026 13:19:36 +0530",
         "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program.\n\n\"It delivers frontier performance in complex wor",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
+        "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
+        "pubDate": "Thu, 01 Oct 2026 11:24:41 +0530",
+        "description": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malicious PDF with a crafted embedd",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Bitget Confirms Third-Party Zero-Day Behind $387.5 Million Cryptocurrency Theft",
+        "link": "https://thehackernews.com/2026/10/bitget-confirms-third-party-zero-day.html",
+        "pubDate": "Thu, 01 Oct 2026 10:51:10 +0530",
+        "description": "Cryptocurrency exchange Bitget on Wednesday confirmed that attackers who stole $387.5 million last week exploited a zero-day flaw in third-party security products, citing ongoing investigation findings from SlowMist.\n\n\"Their investigation identified ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "MetaMask Security Incident Prompts Exit of Affected Ethereum Validators",
+        "link": "https://thehackernews.com/2026/10/metamask-security-incident-prompts-exit.html",
+        "pubDate": "Thu, 01 Oct 2026 10:40:09 +0530",
+        "description": "MetaMask on Thursday said it's responding to what it described as an \"ongoing security incident\" impacting part of its infrastructure.\n\n\"We are actively addressing and remediating the issue internally, in coordination with external partners and secur",
         "source": "TheHackerNews"
       }
     ],
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "AI music maker Suno now generates spoken words",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+        "pubDate": "2026-10-02T05:42:19-04:00",
+        "description": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions. Speech is now available in public beta across Suno's web and mobile platforms, and allows you to simulta",
+        "source": "TheVerge"
+      },
+      {
         "title": "Apple’s reportedly developing a smart home camera that doesn’t record video",
         "link": "https://www.theverge.com/tech/1003877/apple-security-camera-no-video",
         "pubDate": "2026-10-01T18:51:36-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/games/1003593/steam-deck-2-is-amd-gainsborough-the-chip-valves-been-waiting-for",
         "pubDate": "2026-10-01T14:52:58-04:00",
         "description": "The Steam Deck is four and a half years old, and handheld gamers are eagerly awaiting a Steam Deck 2 - but Valve has consistently said it needs a new chip with a \"generational leap\" in performance and efficiency before building the sequel. There's so",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
-        "link": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
-        "pubDate": "2026-10-01T13:12:21-04:00",
-        "description": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters.",
         "source": "TheVerge"
       }
     ],
