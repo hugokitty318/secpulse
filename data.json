@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-03T16:12:52.413133Z",
+  "ts": "2026-10-03T19:23:30.793393Z",
   "tabs": {
     "cn_sec": [
       {
@@ -329,13 +329,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft enables Windows settings backup by default for orgs",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-enables-windows-settings-backup-by-default-for-orgs/",
-        "pubDate": "Thu, 01 Oct 2026 07:14:28 -0400",
-        "description": "Microsoft announced that Windows settings backup and restore is now enabled by default on all Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems upgraded to Windows 11 26H2. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
         "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
         "pubDate": "Sat, 03 Oct 2026 20:08:46 +0530",
@@ -355,6 +348,13 @@
         "pubDate": "Sat, 03 Oct 2026 16:30:00 +0530",
         "description": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
+        "pubDate": "Sat, 03 Oct 2026 15:09:38 -0400",
+        "description": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Danish university DTU breach exposes data of up to 200,000 people",
@@ -393,6 +393,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+        "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
+        "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
+        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
+        "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
+        "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
         "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
@@ -485,18 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pope Leo XIV is not a fan of AI-generated art",
-        "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-        "pubDate": "Fri, 02 Oct 2026 15:39:41 +0000",
-        "description": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-        "source": "TechCrunch"
+        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
+        "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
+        "pubDate": "2026-10-03T12:49:10-04:00",
+        "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook a",
+        "source": "TheVerge"
       },
       {
-        "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
-        "link": "https://techcrunch.com/2026/10/02/laytrs-new-app-lets-you-save-anything-you-find-online-not-just-articles-to-read/",
-        "pubDate": "Fri, 02 Oct 2026 15:31:20 +0000",
-        "description": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
-        "source": "TechCrunch"
+        "title": "The best early October Prime Day deals happening now",
+        "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "pubDate": "2026-10-03T12:22:40-04:00",
+        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3",
+        "source": "TheVerge"
       },
       {
         "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
         "pubDate": "2026-10-03T08:00:00-04:00",
         "description": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and w",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta open sources code to let you make Muse AI gadgets",
-        "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-        "pubDate": "2026-10-02T17:08:37-04:00",
-        "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Netflix is pivoting away from prestige",
-        "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
-        "pubDate": "2026-10-02T16:30:26-04:00",
-        "description": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn Levy. In the past few weeks, though, the streamer has brought some of those partnerships to",
         "source": "TheVerge"
       }
     ],
