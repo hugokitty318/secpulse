@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-02T21:18:11.287833Z",
+  "ts": "2026-10-03T00:43:30.537816Z",
   "tabs": {
     "cn_sec": [
       {
@@ -194,10 +194,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "P&amp;G 測紙巾、三星 SDI 測電池內部金屬：AI 視覺如何攻下傳統光學檢測盲點？",
-        "link": "https://techorange.com/2026/10/01/pg-siemens-samsung/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 06:24:00 +0800",
-        "description": "在製造現場，品質檢測一直是自動化最難處理的環節之一。當產線運轉速度越快，留給相機擷取影像、算力進行分析與判定瑕疵的時間就被壓縮得越短，若遇上紙巾、包裝材料等容易伸縮、褶皺或移位的柔軟材質，產品外觀本身的變化甚至可能被誤判為瑕疵。若瑕疵藏在產品內部，傳統光學檢測更難直接辨識。 近年來，工業級 AI 視覺技術的普及正徹底翻轉傳統自動光學檢測（AOI）的局限。寶潔（P&G）與西門子（Siemens）聯手打造的「視覺檢測駕駛艙」（Visual Inspection Cockpit，VIC），成功將深度學",
+        "title": "【AI 應用漏洞無所不在】雲端與身分權限同列高風險破口，企業防禦應轉向「實測真正風險」",
+        "link": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 03 Oct 2026 06:29:00 +0800",
+        "description": "資安公司 BreachLock 發布《滲透測試情報報告》（2026 Penetration Testing Intelligence Report），研究基於過去 12 個月內於全球執行的 4,970 多次實測滲透測試，以及高達 531,770 項具體漏洞的匿名統計數據。 內容透過跨越 60 多個產業領域的大規模實測結果，指出企業在加速導入 AI 與雲端架構時，攻擊面擴張速度已遠超資安治理能力的真實困境，並為企業指明從「收集漏洞清單」轉向「主動驗證實質風險」的轉型路徑。 📎 這份報告適合誰閱讀？",
         "source": "TechOrange"
       },
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Sanders introduces bill to ban the federal government from using Flock",
+        "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+        "pubDate": "Sat, 03 Oct 2026 00:21:57 +0000",
+        "description": "The proposed legislation would extend to all automotica license plate readers.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Sean Parker is rebuilding Stability AI around music",
         "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
         "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
@@ -492,11 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-        "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-        "pubDate": "Fri, 02 Oct 2026 13:23:09 +0000",
-        "description": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
-        "source": "TechCrunch"
+        "title": "Meta open sources code to let you make Muse AI gadgets",
+        "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+        "pubDate": "2026-10-02T17:08:37-04:00",
+        "description": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like loading Muse on a color E Ink display to show reminders, adding it to an HDMI stick so yo",
+        "source": "TheVerge"
       },
       {
         "title": "Netflix is pivoting away from prestige",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
         "pubDate": "2026-10-02T14:00:00-04:00",
         "description": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachable Meta Muse, Dots feel very much like using workplace software that happens to be able to ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Breaking up (with Elon Musk) is hard to do",
-        "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
-        "pubDate": "2026-10-02T13:37:36-04:00",
-        "description": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, she quote-tweeted a post from \"Big Tech Alert,\" an account that, among other things, monitor",
         "source": "TheVerge"
       }
     ],
