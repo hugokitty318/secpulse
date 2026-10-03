@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-03T06:26:52.480071Z",
+  "ts": "2026-10-03T12:00:16.956137Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "開源IT服務與客服系統Zammad漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179387",
+        "pubDate": "2026-10-03 14:38",
+        "description": "荷蘭漏洞揭露協會（DIVD）揭露開源IT服務臺與客服工單系統Zammad存在兩個高風險以上的漏洞：CVE-2026-102489與CVE-2026-102490，10月2日美國網路與基礎設施安全局（CISA）已知遭利用漏洞（KEV）清單中，也增列上述兩個漏洞",
+        "source": "iThome資安"
+      },
       {
         "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
         "link": "https://www.ithome.com.tw/news/179386",
@@ -133,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179373",
         "pubDate": "2026-10-02  02:10:03",
         "description": "AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta推出主打小型企業用的Muse for Small Business",
-        "link": "https://www.ithome.com.tw/news/179371",
-        "pubDate": "2026-10-02  01:10:40",
-        "description": "Meta推出高話題性的消費者AI助理Muse後，本週推出針對小型企業的Muse for Small Business，能幫小型店家處理行銷、行政或客戶服務等事務。\nMeta說明，小型企業主通常身兼數職，同時擔任會計、行銷、營運和客服等工作，無法專注於核心業務。而單純的聊天機器人無法解決複雜的商業問題，Muse for Small Business的目的就是成為企業的營運工具鏈的一環，了解小型企業目標、產品、客服問題及營運狀況，以提供AI自動化服務。",
         "source": "iThome"
       }
     ],
@@ -322,13 +322,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Apple CoreGraphics PoC Emerges as WhatsApp PDF Checks Hint at Possible Delivery Path",
-        "link": "https://thehackernews.com/2026/10/apple-coregraphics-poc-emerges-as.html",
-        "pubDate": "Thu, 01 Oct 2026 11:24:41 +0530",
-        "description": "Security researchers have published the first public proof-of-concept for CVE-2026-86950, an Apple CoreGraphics flaw Apple says may have been used in attacks against specific targeted individuals.\n\nThe trigger is a malicious PDF with a crafted embedd",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
         "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
         "pubDate": "Thu, 01 Oct 2026 10:25:14 -0400",
@@ -362,6 +355,13 @@
         "pubDate": "Thu, 01 Oct 2026 05:44:28 -0400",
         "description": "The Pentagon's Defense Manpower Data Center (DMDC) is notifying millions of military service members that hackers stole their data after breaching the Pentagon's human resources management system in October 2025. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
+        "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
+        "pubDate": "Sat, 03 Oct 2026 16:30:00 +0530",
+        "description": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, ",
+        "source": "TheHackerNews"
       },
       {
         "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
