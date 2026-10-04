@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-04T18:20:59.512940Z",
+  "ts": "2026-10-04T21:55:05.742457Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+        "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
+        "description": "AI slop seems to be overwhelming bug bounty programs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+        "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000",
+        "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "TechCrunch Mobility: Reining in robotaxis",
         "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
         "pubDate": "Sun, 04 Oct 2026 16:05:00 +0000",
@@ -485,18 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-        "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
-        "pubDate": "Fri, 02 Oct 2026 18:11:27 +0000",
-        "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-        "source": "TechCrunch"
+        "title": "The new Fitbit Edge leaks",
+        "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+        "pubDate": "2026-10-04T17:02:09-04:00",
+        "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker s",
+        "source": "TheVerge"
       },
       {
-        "title": "It’s not AI anymore, it’s ‘super intelligence’ (according to the White House)",
-        "link": "https://techcrunch.com/video/its-not-ai-anymore-its-super-intelligence-according-to-the-white-house/",
-        "pubDate": "Fri, 02 Oct 2026 17:48:16 +0000",
-        "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also signed an executi",
-        "source": "TechCrunch"
+        "title": "Prick’s theatrical industrial punk is perfect for spooky season",
+        "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
+        "pubDate": "2026-10-04T16:00:00-04:00",
+        "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as th",
+        "source": "TheVerge"
       },
       {
         "title": "The best early October Prime Day deals happening now",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
         "pubDate": "2026-10-04T11:21:59-04:00",
         "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rate",
-        "source": "TheVerge"
-      },
-      {
-        "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-        "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-        "pubDate": "2026-10-04T11:00:00-04:00",
-        "description": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and liked it so much I bought my own? Now, OhSnap has a magnetic lever-action card wallet tha",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The AirPods Pro 3 are a fantastic deal at $179",
-        "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-        "pubDate": "2026-10-04T09:00:00-04:00",
-        "description": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include ",
         "source": "TheVerge"
       }
     ],
