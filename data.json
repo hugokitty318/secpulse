@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-04T08:23:43.056651Z",
+  "ts": "2026-10-04T14:21:11.741643Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,13 +301,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "The Day-One Hole in Zero Trust Architecture",
-        "link": "https://www.bleepingcomputer.com/news/security/the-day-one-hole-in-zero-trust-architecture/",
-        "pubDate": "Thu, 01 Oct 2026 10:01:11 -0400",
-        "description": "Zero Trust can verify users once they are established, but onboarding creates a gap where organizations must decide who to trust before strong authentication exists. Specops explains why identity verification should begin before credentials, MFA meth",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
         "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
         "pubDate": "Sun, 04 Oct 2026 12:52:05 +0530",
@@ -320,6 +313,13 @@
         "pubDate": "Sun, 04 Oct 2026 12:50:32 +0530",
         "description": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.\n\nThe campa",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Anthropic asks Claude users to share voice data for AI model training",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
+        "pubDate": "Sun, 04 Oct 2026 06:53:21 -0400",
+        "description": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Capcom is preparing for a ‘future where we create games together with AI’",
-        "link": "https://www.theverge.com/games/1004418/capcom-ai-game-development",
-        "pubDate": "2026-10-03T12:49:10-04:00",
-        "description": "Capcom's Pragmata might be all about the horrors of AI, but in practice the studio doesn't seem so down on the tech. During the Capcom Open Conference RE: 2026 programmer Satoshi Ishida gave a presentation with the mouthful of a title: \"The Outlook a",
+        "title": "The AirPods Pro 3 are a fantastic deal at $179",
+        "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+        "pubDate": "2026-10-04T09:00:00-04:00",
+        "description": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening now for October Prime Day. You can snag a pair of the noise-canceling earbuds that include ",
         "source": "TheVerge"
       },
       {
-        "title": "The best early October Prime Day deals happening now",
-        "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "pubDate": "2026-10-03T12:22:40-04:00",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3",
+        "title": "The MacBook Air M5 is $200 off for the first time in months",
+        "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+        "pubDate": "2026-10-04T08:34:01-04:00",
+        "description": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of storage is on sale for $1,099 at Amazon. That’s a more palatable price for a machine that’s sig",
         "source": "TheVerge"
       },
       {
-        "title": "Splice CEO Kakul Srivastava thinks AI emails are killing conversations",
-        "link": "https://www.theverge.com/entertainment/1004162/splice-ceo-kakul-srivastava-ai-interview",
-        "pubDate": "2026-10-03T11:00:00-04:00",
-        "description": "Kakul Srivastava is the CEO of Splice, the sample platform countless producers rely on for one-shots and melodic loops. Samples pulled from the service have found their way into massive hits like Lisa's \"Money\" and \"Espresso\" by Sabrina Carpenter. (T",
+        "title": "The iPad Mini is slightly cheaper again during Prime Day",
+        "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+        "pubDate": "2026-10-04T08:31:50-04:00",
+        "description": "Apple bumped up prices on several of its devices in June, and we haven’t seen a good discount on the iPad Mini since. Just ahead of Amazon’s October Prime Big Deals Days, however, both Wi-Fi only and cellular-connected models are $100 off. The Wi-Fi ",
         "source": "TheVerge"
       },
       {
-        "title": "An OpenAI safety employee has quit and is sounding the alarm",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
-        "pubDate": "2026-10-03T10:31:56-04:00",
-        "description": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynica",
+        "title": "The forgotten Chromebook that started it all",
+        "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+        "pubDate": "2026-10-04T08:00:00-04:00",
+        "description": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product you could buy. Instead, it was a portal to a big new idea about computers. In this week's e",
         "source": "TheVerge"
       },
       {
-        "title": "3D movies are finally worth watching",
-        "link": "https://www.theverge.com/tech/1004131/3d-movies-are-finally-worth-watching-xreal-meta-glasses-vision-pro",
-        "pubDate": "2026-10-03T08:00:00-04:00",
-        "description": "Why am I suddenly buying up every 3D Blu-ray I can find after 3D became one of the biggest tech flops of all time? The technology's finally ready for 3D movies to shine, more than 15 years since James Cameron's Avatar wowed me on the big screen and w",
+        "title": "The rise, fall, and rise of portable MP3 players",
+        "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
+        "pubDate": "2026-10-04T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable media player, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Su",
         "source": "TheVerge"
       }
     ],
