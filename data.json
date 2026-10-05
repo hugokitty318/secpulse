@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-04T21:55:05.742457Z",
+  "ts": "2026-10-05T00:53:23.721045Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "AI紅隊平臺新創Armadin完成2.56億美元B輪募資",
+        "link": "https://www.ithome.com.tw/news/179364",
+        "pubDate": "2026-10-05 08:00",
+        "description": "Armadin以AI代理進行紅隊演練，尋找企業環境中可利用的弱點，並透過攻擊測試驗證攻擊路徑及可能造成的影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Reco完成5,500萬美元募資，擴大AI代理安全業務",
+        "link": "https://www.ithome.com.tw/news/179363",
+        "pubDate": "2026-10-05 08:00",
+        "description": "企業大量導入AI代理後，不只要找出環境中有哪些代理，還要掌握它們能存取哪些系統與資料。AI代理安全業者Reco取得5,500萬美元新資金，其Reco Graph可串連代理的身分、權限及活動資訊，找出權限過大與異常行為",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國相關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣",
+        "link": "https://www.ithome.com.tw/news/179378",
+        "pubDate": "2026-10-05 08:00",
+        "description": "TA419假冒前白宮科技政策官員等人士寄信接觸目標對象，利用對手中間人網釣轉送真正的Microsoft登入流程，即使使用者完成MFA驗證，攻擊者仍可攔截完成驗證後產生的連線階段Cookie",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位",
+        "link": "https://www.ithome.com.tw/news/179372",
+        "pubDate": "2026-10-05 08:00",
+        "description": "AI正加快網路攻擊速度。微軟觀察，漏洞被發現後，駭客不到24小時就可能找到利用漏洞的攻擊方法，但企業修補重大對外漏洞可能需要30至60天",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI",
+        "link": "https://www.ithome.com.tw/news/179382",
+        "pubDate": "2026-10-05  08:10:22",
+        "description": "Cloudflare推出自行訓練的決策模型Clef與Clef-flash，兩款模型已整合至Workers AI，並以Apache 2.0授權開放模型權重。Clef採用與Jev相容的程式介面，既有使用Jev的應用較容易改用Clef，主要用於AI代理進行分類、判斷或決定下一步動作。\n決策模型和一般大型語言模型負責的工作不同，大型語言模型可以產生文字、進行推理或操作工具，決策模型則專門處理範圍明確的判斷。開發者先設定可接受的答案，模型讀取輸入資料後，直接回傳符合指定格式的答案及各選項機率。",
+        "source": "iThome"
+      },
       {
         "title": "開源IT服務與客服系統Zammad漏洞遭積極利用",
         "link": "https://www.ithome.com.tw/news/179387",
@@ -66,10 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國示警中國情報機構藉資助AI、資安等研究，提升間諜技術能力",
-        "link": "https://www.ithome.com.tw/news/179340",
+        "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
+        "link": "https://www.ithome.com.tw/news/179336",
         "pubDate": "2026-10-02 08:00",
-        "description": "英國軍情五處（MI5）向學界發布間諜活動警告，中國國安部透過中國通用技術研究院資助AI、資安等研究，逾百名與英國有關的學者曾參與其中",
+        "description": "美國制裁涉及ATM吐鈔攻擊及洗錢的TdA相關詐欺網路。根據美國財政部統計，截至2025年8月，全美疑似ATM吐鈔攻擊已超過1,500起，通報損失達4,073萬美元",
         "source": "iThome資安"
       },
       {
@@ -78,34 +113,6 @@
         "pubDate": "2026-10-02 08:00",
         "description": "Google威脅情報團隊GTIG調查發現，今年前8月新揭露並遭利用的漏洞數，已超越2025全年，攻擊者對N-day漏洞的利用明顯增加",
         "source": "iThome資安"
-      },
-      {
-        "title": "軟體供應鏈攻擊擴大至CI/CD，企業需防建置流程遭操弄",
-        "link": "https://www.ithome.com.tw/news/179322",
-        "pubDate": "2026-10-02 08:00",
-        "description": "軟體供應鏈攻擊進一步鎖定CI/CD環境。Mandiant指出，攻擊者可操弄軟體建置流程，甚至發布仍帶有合法來源證明的遭污染套件。企業不能只靠來源證明判斷軟體是否安全，也需確認來源程式碼及建置流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
-        "link": "https://www.ithome.com.tw/news/179336",
-        "pubDate": "2026-10-02 08:00",
-        "description": "美國制裁涉及ATM吐鈔攻擊及洗錢的TdA相關詐欺網路。根據美國財政部統計，截至2025年8月，全美疑似ATM吐鈔攻擊已超過1,500起，通報損失達4,073萬美元",
-        "source": "iThome資安"
-      },
-      {
-        "title": "開源AI代理框架Pi邁入1.0，另推出長時間代理框架Pi Durable",
-        "link": "https://www.ithome.com.tw/news/179369",
-        "pubDate": "2026-10-02  12:10:12",
-        "description": "Earendil發布開源AI代理框架Pi 1.0，同時推出實驗性代理執行框架Pi Durable，讓開發者建立可長時間執行的AI代理應用。當執行中的服務重新啟動或意外中斷，Pi Durable可以讀取先前保存的進度，接著處理尚未完成的工作，也支援多條對話同時執行及多人介入同一代理任務。",
-        "source": "iThome"
-      },
-      {
-        "title": "加州禁止AI自行決定解僱員工，成全美首例",
-        "link": "https://www.ithome.com.tw/news/179367",
-        "pubDate": "2026-10-02  11:10:25",
-        "description": "美國加州州長Gavin Newsom周三（9/30）簽署SB 947，禁止雇主完全依賴AI或自動化決策系統，決定對員工採取懲戒或解僱措施，要求這類重大人事決策必須有人類參與審查，成為全美首個禁止雇主完全依賴AI做出懲戒或解僱決定的州別。",
-        "source": "iThome"
       },
       {
         "title": "全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本",
@@ -133,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179375",
         "pubDate": "2026-10-02  03:10:27",
         "description": "微軟AI部門Microsoft AI（MAI）周四（10/1）推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。",
-        "source": "iThome"
-      },
-      {
-        "title": "AWS開源20億參數Strands Decider，專門替AI代理人快速做決策",
-        "link": "https://www.ithome.com.tw/news/179373",
-        "pubDate": "2026-10-02  02:10:03",
-        "description": "AWS旗下Strands團隊周四（10/1）開源Strands Decider 2B決策模型，專門替AI代理人快速進行分類、工具選擇及安全判斷等工作。模型共有20億個參數，可直接在本機CPU或GPU執行，並以低延遲完成決策。AWS同步公開模型權重、訓練資料及訓練程式碼。",
         "source": "iThome"
       }
     ],
@@ -173,20 +173,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "呼應府院出版數位韌性小藍書 AWS發布《公部門與企業數位韌性指南》",
-        "link": "https://techorange.com/2026/10/01/aws-cht-deloitte/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 10:56:08 +0800",
-        "description": "當數位服務已經深入到社會運行的每個環節，從公部門到企業，也必須持續整備數位服務本身的防災能力與韌性，以因應天然災害及人為事件可能造成的數位基礎設施損壞風險。亞馬遜網路服務（Amazon Web Services, AWS）與中華電信於 9 月 30 日共同主辦「《公部門與企業數位韌性指南》白皮書發布暨韌性政府論壇」、並由勤業眾信協辦，正式發布《公部門與企業數位韌性指南》白皮書（「小藍書」）。三方將結合 AWS 全球雲端服務經驗、中華電信在地電信網路與資安整合能量，以及勤業眾信治理與風險管理專業，",
-        "source": "TechOrange"
-      },
-      {
-        "title": "搶攻 AI 基礎建設商機，大同首度發表「TTG AIDC CUBE」",
-        "link": "https://techorange.com/2026/10/01/ttg-aidc-cube-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 10:40:40 +0800",
-        "description": "張榮華：180 天從電網到算力 大同開啟 AI 新未來 隨著生成式 AI 快速發展，全球算力需求急速攀升，也帶動 AI 資料中心基礎建設進入新一波成長期。面對高密度運算帶來的供電、散熱、建置速度及能源效率等挑戰，大同股份有限公司今舉辦「算力無界・大同新未來（Power Ready for AI）」發表會，首度對外發表全新 AI 基礎建設解決方案「TTG AIDC CUBE」，整合電力、冷卻、能源管理、智慧監控及算力系統，展現從電網端一路到機櫃端的一站式整合能力，宣示大同進一步跨足 AI 基礎建設",
-        "source": "TechOrange"
-      },
-      {
         "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
         "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 03 Oct 2026 19:30:24 +0800",
@@ -198,6 +184,20 @@
         "link": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 03 Oct 2026 06:29:00 +0800",
         "description": "資安公司 BreachLock 發布《滲透測試情報報告》（2026 Penetration Testing Intelligence Report），研究基於過去 12 個月內於全球執行的 4,970 多次實測滲透測試，以及高達 531,770 項具體漏洞的匿名統計數據。 內容透過跨越 60 多個產業領域的大規模實測結果，指出企業在加速導入 AI 與雲端架構時，攻擊面擴張速度已遠超資安治理能力的真實困境，並為企業指明從「收集漏洞清單」轉向「主動驗證實質風險」的轉型路徑。 📎 這份報告適合誰閱讀？",
+        "source": "TechOrange"
+      },
+      {
+        "title": "汰換 30 年老 POS、再上 AI，美國披薩品牌的數位轉型如何拿回主導權",
+        "link": "https://techorange.com/2026/10/05/ai-papa-johns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 06:12:00 +0800",
+        "description": "第三方外送平台改變了披薩產業的消費習慣，也讓原本擁有直面消費者優勢的速食品牌，開始面臨顧客關係與利潤空間被中間平台切割的問題。美國速食披薩品牌 Papa Johns 上季同店銷售下滑超過 8%，伴隨關店與營運調整，促使品牌展開全面性的數位轉型。 Papa Johns 數位與科技長 Kevin Vasconi 指出，Papa Johns 雖有高達 85% 業務來自數位管道，但核心系統已嚴重老化，改革的關鍵在於重構底層科技，從根本改善門市營運與顧客下單體驗。 告別 30 年老舊 POS，串聯數據賦能",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權",
+        "link": "https://techorange.com/2026/10/05/apple-mac-ai-agent-data-access/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權 蘋果（Apple）10 月 2 日宣布，將為 macOS 的「完整磁碟存取權」（Full Disk Access）增加控制措施，要求使用者透過更明確的操作才能授權。該功能原本支援備份程式，可略過多項資料保護限制，接觸檔案、郵件、訊息與瀏覽紀錄。蘋果指出，部分開發者的使用方式，可能讓使用者未充分理解便暴露資料；隨 AI 代理能力與自主性提高，這類廣泛權限的風險將擴大，通訊對象的隱私也可能",
         "source": "TechOrange"
       },
       {
@@ -294,10 +294,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Police dismantle KillSec ransomware gang allegedly led by 16-year-old",
-        "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-killsec-ransomware-gang-allegedly-led-by-16-year-old/",
-        "pubDate": "Thu, 01 Oct 2026 10:25:14 -0400",
-        "description": "An international law enforcement operation dubbed \"Operation KillSwitch\" seized the KillSec ransomware gang's data leak site and servers, led to three arrests, and identified a 16-year-old as the group's alleged administrator. [...]",
+        "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
+        "pubDate": "Sun, 04 Oct 2026 17:58:01 -0400",
+        "description": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution",
         "source": "BleepingComputer"
       },
       {
