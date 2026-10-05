@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-05T15:57:15.863119Z",
+  "ts": "2026-10-05T22:35:31.003231Z",
   "tabs": {
     "cn_sec": [
       {
@@ -138,6 +138,13 @@
     ],
     "cn_tech": [
       {
+        "title": "【科技早餐】台積電將助馬斯克營運德州晶圓廠？馬斯克證實洽談中",
+        "link": "https://techorange.com/2026/10/06/musk-tsmc-chip-fab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 06 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊馬斯克證實與台積電洽談，晶圓廠合作仍未定案 馬斯克（Elon Musk）證實，旗下晶片計畫 Terafab 與台積電（TSMC）的合作仍在討論。據消息人士指出，台積電正評估協助 Terafab 營運德州新晶圓廠的可能性。馬斯克在社群平台 X 回應相關消息時表示，目前只是討論，但可能會有進展。現階段可確認的是雙方正在商談，合作模式與具體安排仍待說明。 另外，馬斯克表示，將把太空探索科技公司（SpaceX）旗下 AI 部門的名稱，從 SpaceXA",
+        "source": "TechOrange"
+      },
+      {
         "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
         "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 03 Oct 2026 19:30:24 +0800",
@@ -234,13 +241,6 @@
         "pubDate": "Fri, 02 Oct 2026 11:57:44 +0800",
         "description": "Google 首度把自家 AI 晶片送上太空。美國時間 10/1，太空公司 SpaceX 的 Falcon 9 火箭執行 Transporter-18 任務，其中一顆由衛星公司 Planet Labs 製造、約冰箱大小的衛星，搭載了 4 顆 Google TPU。這也是 Google 的 Project Suncatcher（捕日者計畫）首次把 TPU 真正送進軌道。《CNN》形容，這次發射可視為 Google 在軌道 AI 資料中心競爭中率先展開的一波實際行動。 Up, up, and awa",
         "source": "TechOrange"
-      },
-      {
-        "title": "Agile Robots 的產品是「工廠」，機械手臂、人形機器人都只是其中一環",
-        "link": "https://techorange.com/2026/10/02/agile-robots-physical-ai-automation/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 02 Oct 2026 09:29:28 +0800",
-        "description": "Agile Robots 指出，開發實體 AI 的企業，例如機器人公司必須先投入有價值的應用，大規模部署機器人後動能才會回流，進而帶動資本投資、推動運算能力進步，再驅動實體產品進化。",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -315,6 +315,13 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+        "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+        "pubDate": "Mon, 05 Oct 2026 21:51:52 +0530",
+        "description": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
         "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
         "pubDate": "Mon, 05 Oct 2026 19:50:43 +0530",
@@ -336,6 +343,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+        "pubDate": "Mon, 05 Oct 2026 16:20:05 -0400",
+        "description": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
         "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
         "pubDate": "Mon, 05 Oct 2026 16:08:50 +0530",
@@ -350,10 +364,17 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+        "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+        "pubDate": "Mon, 05 Oct 2026 13:19:53 -0400",
+        "description": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
         "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
         "pubDate": "Mon, 05 Oct 2026 12:10:19 +0530",
-        "description": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of ",
+        "description": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out",
         "source": "TheHackerNews"
       },
       {
@@ -362,91 +383,98 @@
         "pubDate": "Mon, 05 Oct 2026 11:21:10 -0400",
         "description": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "New Dell System Update flaw lets hackers gain root privileges",
-        "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
-        "pubDate": "Mon, 05 Oct 2026 10:53:06 -0400",
-        "description": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
-        "pubDate": "Mon, 05 Oct 2026 10:22:12 -0400",
-        "description": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
-        "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
-        "pubDate": "Mon, 05 Oct 2026 09:33:42 -0400",
-        "description": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-        "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-        "pubDate": "Sun, 04 Oct 2026 20:31:07 +0000",
-        "description": "AI slop seems to be overwhelming bug bounty programs.",
+        "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+        "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+        "pubDate": "Mon, 05 Oct 2026 21:54:01 +0000",
+        "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
         "source": "TechCrunch"
       },
       {
-        "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-        "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-        "pubDate": "Sun, 04 Oct 2026 20:08:34 +0000",
-        "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
+        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+        "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
+        "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: Reining in robotaxis",
-        "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-        "pubDate": "Sun, 04 Oct 2026 16:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Etched fields funding offers at $40B+ valuation, sources say",
+        "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+        "pubDate": "Mon, 05 Oct 2026 20:24:09 +0000",
+        "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
         "source": "TechCrunch"
       },
       {
-        "title": "Trump unveils his new Super Intelligence Force",
-        "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-        "pubDate": "Sun, 04 Oct 2026 15:15:10 +0000",
-        "description": "This new task force is Trump's latest response to the debate over AI safety.",
+        "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
+        "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
+        "pubDate": "Mon, 05 Oct 2026 19:38:07 +0000",
+        "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
         "source": "TechCrunch"
       },
       {
-        "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-        "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-        "pubDate": "Sat, 03 Oct 2026 19:33:15 +0000",
-        "description": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
+        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+        "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
+        "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own ",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-        "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-        "pubDate": "Sat, 03 Oct 2026 18:43:57 +0000",
-        "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
+        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
+        "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
+        "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal age",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-        "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-        "pubDate": "Sat, 03 Oct 2026 16:30:01 +0000",
-        "description": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
+        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+        "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
+        "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+        "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+        "pubDate": "Mon, 05 Oct 2026 18:07:07 +0000",
+        "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+        "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+        "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000",
+        "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+        "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+        "pubDate": "Mon, 05 Oct 2026 17:26:44 +0000",
+        "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+        "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+        "pubDate": "Mon, 05 Oct 2026 16:43:35 +0000",
+        "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
         "source": "TechCrunch"
       },
       {
         "title": "OpenAI launches visual ads that appear alongside image generation results",
         "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
         "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
-        "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+        "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
         "source": "TechCrunch"
       },
       {
         "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
         "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
         "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
-        "description": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
+        "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
         "source": "TechCrunch"
       },
       {
@@ -464,66 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
-        "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
-        "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
-        "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 05 Oct 2026 14:30:00 +0000",
-        "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
-        "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-        "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-        "pubDate": "Mon, 05 Oct 2026 12:00:00 +0000",
-        "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-        "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-        "pubDate": "2026-10-05T11:43:13-04:00",
-        "description": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded ",
+        "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
+        "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
+        "pubDate": "2026-10-05T17:17:45-04:00",
+        "description": "It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely chang",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s new M6 Mac Mini is over $100 off",
-        "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
-        "pubDate": "2026-10-05T11:08:31-04:00",
-        "description": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the base model th",
+        "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
+        "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
+        "pubDate": "2026-10-05T17:15:05-04:00",
+        "description": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the origin",
         "source": "TheVerge"
       },
       {
-        "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
-        "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
-        "pubDate": "2026-10-05T10:42:34-04:00",
-        "description": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will \"fully support the p",
+        "title": "This startup is issuing AI-generated acne prescriptions",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
+        "pubDate": "2026-10-05T16:14:57-04:00",
+        "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously ",
         "source": "TheVerge"
       },
       {
-        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-        "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
-        "pubDate": "2026-10-05T10:30:00-04:00",
-        "description": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about h",
+        "title": "All the drama around AI&#8217;s takeover of mathematics",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
+        "pubDate": "2026-10-05T15:28:59-04:00",
+        "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of ",
         "source": "TheVerge"
       },
       {
-        "title": "The best early October Prime Day deals happening now",
-        "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "pubDate": "2026-10-05T10:10:19-04:00",
-        "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals t",
+        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
+        "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
+        "pubDate": "2026-10-05T15:05:19-04:00",
+        "description": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia pla",
         "source": "TheVerge"
       }
     ],
