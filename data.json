@@ -1,12 +1,89 @@
 {
-  "ts": "2026-10-05T00:53:23.721045Z",
+  "ts": "2026-10-05T06:58:10.465484Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "連鎖餐飲服務公司安心委外平臺疑個資外洩",
+        "link": "https://www.ithome.com.tw/news/179408",
+        "pubDate": "2026-10-05 14:31",
+        "description": "上週連鎖餐飲服務公司安心（1259）發布資安重訊，有消費者反映疑似第三方人士取得個資並向他們聯繫，資料源自該公司委外廠商管理的平臺，安心表示已要求該廠商進行改善",
+        "source": "iThome資安"
+      },
+      {
+        "title": "大量自動化無效通報湧入，Google暫停開源軟體產品漏洞獎勵計畫",
+        "link": "https://www.ithome.com.tw/news/179406",
+        "pubDate": "2026-10-05 14:02",
+        "description": "大量低品質通報持續衝擊開源漏洞獎勵計畫，Google也宣布暫停OSS VRP產品漏洞通報，著手調整受理機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟發布2026數位防禦報告，臺灣上半年遭網路威脅影響排名升至全球第4名",
+        "link": "https://www.ithome.com.tw/news/179405",
+        "pubDate": "2026-10-05 13:02",
+        "description": "微軟揭露最新全球資安態勢，指出臺灣客戶2026年上半年遭受網路威脅影響排名全球第4，佔全球總量的3.9%，去年的1.8%增逾一倍，顯示臺灣在全球受威脅版圖中的相對位置明顯上升",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客組織ShinyHunters成員在約旦遭捕，據報將協助FBI追查同夥",
+        "link": "https://www.ithome.com.tw/news/179404",
+        "pubDate": "2026-10-05 12:28",
+        "description": "疑似ShinyHunters重要成員遭約旦當局拘留，美國官員及消息人士稱其正協助FBI調查該組織其他成員",
+        "source": "iThome資安"
+      },
+      {
+        "title": "管理員下AI提示出錯，致美珍香洩露近10萬會員資料",
+        "link": "https://www.ithome.com.tw/news/179402",
+        "pubDate": "2026-10-05 11:46",
+        "description": "美珍香員工使用生成式AI撰寫大量寄信程式碼，卻未要求隱藏其他收件者的電子郵件地址，加上測試及複核不足，最終造成逾9.5萬名會員的電子郵件地址外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "蘋果將增加macOS完全磁碟存取的開關控制",
+        "link": "https://www.ithome.com.tw/news/179400",
+        "pubDate": "2026-10-05 11:29",
+        "description": "隨著AI代理能自主執行更多任務，蘋果將強化macOS「完全磁碟存取」控制，要求使用者更明確授權App取得這項權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix修補NetScaler阻斷服務漏洞",
+        "link": "https://www.ithome.com.tw/news/179398",
+        "pubDate": "2026-10-05 11:26",
+        "description": "本週Citrix再度為NetScaler修補高風險資安漏洞CVE-2026-88779，並表示該弱點會在配置為特定的SAML服務時出現，有可能會導致服務中斷（DoS）。值得留意的是，該公司警告已被用於目標式攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA警告Citirx NetScaler漏洞遭積極利用，要求聯邦機構緊急修補",
+        "link": "https://www.ithome.com.tw/news/179397",
+        "pubDate": "2026-10-05 11:18",
+        "description": "本週美國網路安全與基礎設施安全局（CISA）將CVE-2026-88779加入已遭利用的漏洞名單（KEV），並要求聯邦機構3天內緊急修補Citirx NetScaler設備",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟揭2026國家級駭客活動，臺灣、日本遭遇事件躍居全球第三、第四，威脅情勢較兩年前更嚴峻",
+        "link": "https://www.ithome.com.tw/news/179391",
+        "pubDate": "2026-10-05 11:05",
+        "description": "微軟2026年數位防禦報告顯示，2025年7月至2026年6月間，臺灣被觀察到193起國家級駭客活動事件，比2024年報告143起增加，另值得關注的是，日本兩年前僅38起，今年172起數量明顯大增，躍居全球第四",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Dell修補容器儲存套件CSM 13個漏洞，含兩個CVSS滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/179395",
+        "pubDate": "2026-10-05 11:02",
+        "description": "Dell CSM存在重大身分驗證漏洞，可能導致遠端攻擊者取得儲存管理權限，建議用戶儘速升級至1.18.0以上版本",
+        "source": "iThome資安"
+      },
       {
         "title": "AI紅隊平臺新創Armadin完成2.56億美元B輪募資",
         "link": "https://www.ithome.com.tw/news/179364",
         "pubDate": "2026-10-05 08:00",
         "description": "Armadin以AI代理進行紅隊演練，尋找企業環境中可利用的弱點，並透過攻擊測試驗證攻擊路徑及可能造成的影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位",
+        "link": "https://www.ithome.com.tw/news/179372",
+        "pubDate": "2026-10-05 08:00",
+        "description": "AI正加快網路攻擊速度。微軟觀察，漏洞被發現後，駭客不到24小時就可能找到利用漏洞的攻擊方法，但企業修補重大對外漏洞可能需要30至60天",
         "source": "iThome資安"
       },
       {
@@ -24,11 +101,25 @@
         "source": "iThome資安"
       },
       {
-        "title": "微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位",
-        "link": "https://www.ithome.com.tw/news/179372",
-        "pubDate": "2026-10-05 08:00",
-        "description": "AI正加快網路攻擊速度。微軟觀察，漏洞被發現後，駭客不到24小時就可能找到利用漏洞的攻擊方法，但企業修補重大對外漏洞可能需要30至60天",
-        "source": "iThome資安"
+        "title": "Rust預告停止32位元Windows主機工具，開發者需改採交叉編譯",
+        "link": "https://www.ithome.com.tw/news/179393",
+        "pubDate": "2026-10-05  12:10:27",
+        "description": "Rust團隊預告，從Rust 1.100開始，不再替32位元Windows提供可直接執行的Rust編譯器等開發工具。開發者仍可製作32位元Windows程式，但之後必須改在64位元Windows等受支援的電腦上完成編譯，再產生供32位元Windows執行的程式。",
+        "source": "iThome"
+      },
+      {
+        "title": "AI導致低品質報告氾濫，arXiv將限制報告每月提交最多2篇",
+        "link": "https://www.ithome.com.tw/news/179401",
+        "pubDate": "2026-10-05  11:10:57",
+        "description": "由於AI生成的低品質報告氾濫造成管理負擔，知名論文發布平臺arXiv上周更新論文發布規範，限制每個月每人僅能提交最多2篇論文，而審稿論文最多只能有3篇論文。",
+        "source": "iThome"
+      },
+      {
+        "title": "Meta開源Muse Gadgets硬體開發套件，支援自製AI裝置",
+        "link": "https://www.ithome.com.tw/news/179403",
+        "pubDate": "2026-10-05  11:10:38",
+        "description": "Meta上周六（10/3）宣布開源Muse Gadgets硬體開發套件，讓開發者可使用現成ESP32開發板、Raspberry Pi或其他Linux電腦，自行打造可與Muse AI連接的實體裝置，並加入螢幕、按鈕、感測器、致動器及音訊等功能。Meta同步公開相關SDK及韌體，該專案採用Apache License 2.0授權。",
+        "source": "iThome"
       },
       {
         "title": "Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI",
@@ -43,135 +134,9 @@
         "pubDate": "2026-10-03 14:38",
         "description": "荷蘭漏洞揭露協會（DIVD）揭露開源IT服務臺與客服工單系統Zammad存在兩個高風險以上的漏洞：CVE-2026-102489與CVE-2026-102490，10月2日美國網路與基礎設施安全局（CISA）已知遭利用漏洞（KEV）清單中，也增列上述兩個漏洞",
         "source": "iThome資安"
-      },
-      {
-        "title": "CISA警示FortiMail漏洞CVE-2026-104286已遭實際利用",
-        "link": "https://www.ithome.com.tw/news/179386",
-        "pubDate": "2026-10-03 11:59",
-        "description": "美國網路與基礎設施安全局（CISA）根據漏洞已被積極利用的證據，10月1日在已知遭利用漏洞清單（KEV）增加1個9.8分漏洞：Fortinet FortiMail 路徑遍歷漏洞CVE-2026-104286",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Chrome 154本週第二度發布更新版，緊急修補11個漏洞",
-        "link": "https://www.ithome.com.tw/news/179385",
-        "pubDate": "2026-10-03 10:08",
-        "description": "10月1日Chrome推出更新版，先針對Windows、Mac與Android平臺提供，預計幾天或幾週後釋出Linux平臺的版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安週報】0929~1002，臺灣8月勒索軟體事件20起居亞太第三，全球聚焦AI代理安全風險與防護布局",
-        "link": "https://www.ithome.com.tw/news/179381",
-        "pubDate": "2026-10-02 17:58",
-        "description": "中秋節與教師節4天連假過後，2026年9月最後一週的資安新聞熱點，聚焦勒索軟體與企業資安事件、AI代理安全風險，以及政府資安治理與歐盟CRA合規進展；針對網路、應用程式與端點的漏洞利用攻擊仍持續頻傳，國內外也接連出現資料外洩與重大資安事件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月2日，臺北市政府網站發生服務中斷事件，起因為跳電後機房過熱造成儲存設備關閉",
-        "link": "https://www.ithome.com.tw/news/179374",
-        "pubDate": "2026-10-02 14:54",
-        "description": "台北市政府網站9月26日晚間發生服務中斷，根據資訊局說明，市政大樓電力過載跳電後，資訊機房溫度升高，導致部分儲存設備因啟動保護機制而關閉，影響部分使用市府雲平臺的網站服務。由於一般網站未配置異地備援，此次事件也引發政府數位服務備援分級與韌性的討論",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露惡意軟體BambooToken，透過MQTT通訊協定控制Windows與Linux電腦",
-        "link": "https://www.ithome.com.tw/news/179370",
-        "pubDate": "2026-10-02 12:54",
-        "description": "BambooToken自2023年開始活躍，鎖定亞洲與南美企業，透過合法軟體側載及MQTT通訊隱匿活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI調查失控AI代理人活動，已通知逾100個組織",
-        "link": "https://www.ithome.com.tw/news/179368",
-        "pubDate": "2026-10-02 12:08",
-        "description": "OpenAI擴大追查自家AI代理偏離原定任務的情況，包括繞過網站存取限制、使用對外暴露的憑證及命令注入；外部資安研究則發現，疑似OpenAI代理曾借助第三方服務開啟網頁並取回資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "FBI聯手歐洲警方打擊勒索軟體組織KillSec，逮捕疑似主嫌的16歲少年",
-        "link": "https://www.ithome.com.tw/news/179366",
-        "pubDate": "2026-10-02 11:33",
-        "description": "KillSwitch行動橫跨歐洲多國展開逮捕與搜索，查扣勒索集團網站並保全110TB遭竊資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Gartner預測2030年部署面向公眾的AI服務的企業，有80%將經歷成本耗盡攻擊，致營運成本超額",
-        "link": "https://www.ithome.com.tw/news/179365",
-        "pubDate": "2026-10-02 11:10",
-        "description": "根據Gartner最新發布2027年暨未來核心策略預測，惡意行為者刻意拉高AI使用量，導致企業營運成本增加的網路安全風險正在出現；在此同時，AI相關風險與責任問題日漸突出，保險公司透過企業強化監督、風險管理與技術管控，影響AI治理實踐；採用AI的企業也面臨日益增加的AI行為當責、透明度與監督壓力，使得技術領導者職責範圍擴大",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國制裁涉ATM吐鈔攻擊詐欺網路，全美相關攻擊損失逾4千萬美元",
-        "link": "https://www.ithome.com.tw/news/179336",
-        "pubDate": "2026-10-02 08:00",
-        "description": "美國制裁涉及ATM吐鈔攻擊及洗錢的TdA相關詐欺網路。根據美國財政部統計，截至2025年8月，全美疑似ATM吐鈔攻擊已超過1,500起，通報損失達4,073萬美元",
-        "source": "iThome資安"
-      },
-      {
-        "title": "今年前8月遭利用漏洞數超越2025全年，N-day漏洞利用明顯增加",
-        "link": "https://www.ithome.com.tw/news/179326",
-        "pubDate": "2026-10-02 08:00",
-        "description": "Google威脅情報團隊GTIG調查發現，今年前8月新揭露並遭利用的漏洞數，已超越2025全年，攻擊者對N-day漏洞的利用明顯增加",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全端框架SvelteKit 3整理開發工具鏈，舊專案升級需更新設定與工具版本",
-        "link": "https://www.ithome.com.tw/news/179377",
-        "pubDate": "2026-10-02  06:10:52",
-        "description": "Svelte團隊正式發布全端應用框架SvelteKit 3，新版調整專案設定方式，將SvelteKit相關設定集中到Vite設定檔，同時提高開發工具的最低版本要求，包括採用TypeScript 6與建置工具Vite 8。官方也提供自動遷移工具，協助既有專案升級。",
-        "source": "iThome"
-      },
-      {
-        "title": "案件太多、敏感卷證又不能上商用AI，法務部啟動三年主權AI計畫",
-        "link": "https://www.ithome.com.tw/news/179379",
-        "pubDate": "2026-10-02  04:10:50",
-        "description": "「案件這麼多，又不讓我用AI，要我怎麼辦？」時任法務部綜合規劃司副司長古慧珍在8月底數位政府高峰會上，用這句第一線同仁可能的抱怨，點出法務部推動AI的兩難：檢察官、觀護人需要工具幫忙整理資料和文書，但卷宗內有個資、案情和偵查脈絡，不能直接上傳到商用AI。\n法務部的解法是，要用三年時間建立自己的三層式主權AI平臺：底層共用算力與資料湖，中層提供法務專屬大型語言模型推論系統，上層則是自主開發的AI助理應用。今年，這項計畫先選定代表性場域、展開試驗，明年則進入推廣期，要逐步擴增本土司法語料庫和實務案例",
-        "source": "iThome"
-      },
-      {
-        "title": "五大科技巨頭主動型Agent大比較，一張表告訴你Dots、Muse和Spark有何不同",
-        "link": "https://www.ithome.com.tw/news/179380",
-        "pubDate": "2026-10-02  04:10:28",
-        "description": "主動型Agent助理產品大爆發。從今年5月開始，多家科技巨頭陸續跨進主動型Agent市場，到了8、9月更進入密集推出期，大廠紛紛推出了主打24小時全天候運作的AI Agent，在沒有新的提示指令下持續執行。\n年初全球爆紅的OpenClaw（龍蝦），掀起了新一波AI代理的熱潮。相較於過去多半依據使用者指令行動的Agent，OpenClaw可以持續運作、定期執行任務，甚至在沒有持續提示的情況下主動完成工作，讓Agent從一次性任務執行，進一步發展為長時間、持續自主運作的模式。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟推出首款自研即時串流語音轉錄模型，並更新MAI語音模型",
-        "link": "https://www.ithome.com.tw/news/179375",
-        "pubDate": "2026-10-02  03:10:27",
-        "description": "微軟AI部門Microsoft AI（MAI）周四（10/1）推出首款自研即時串流語音轉錄模型MAI-Transcribe-2-Streaming，支援60種語言及持續自動語言偵測，收到音訊後約100毫秒即可開始輸出初步轉錄內容。同一天微軟也更新文字轉語音模型MAI-Voice系列，推出MAI-Voice-2.1及低延遲版本MAI-Voice-2.1-Flash。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "車內支付生態系崛起：掌握「儀表板介面」即掌握商業入口？憑證與數據控制權成競逐焦點",
-        "link": "https://techorange.com/2026/10/01/connected-cars-steer-next-shopping-decision/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 17:06:20 +0800",
-        "description": "連網汽車與支付系統的整合，正讓加油、充電、停車、過路費等原本分散的車輛支出，逐漸納入共同的支付憑證。《PYMNTS》報導，這種整合也讓支付不只是完成單筆交易，而可能進一步串起整段旅程，讓優惠在消費者做出下一個消費決定之前就出現。 Waymo 於 2026 年 9 月 22 日推出 Transit Rewards 計畫，讓舊金山灣區乘客將 Visa 卡綁定 Waymo App。當乘客使用同一張卡搭乘 Waymo 與公共運輸，且兩次行程相隔在兩小時內，就會自動獲得 2.85 美元的 Waymo Ca",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美元穩定幣 OUSD 正式上線：Visa、Stripe 瞄準的，是下一批還沒上鏈的企業交易？",
-        "link": "https://techorange.com/2026/10/01/ousd-is-live/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 16:46:03 +0800",
-        "description": "Visa、Mastercard、Stripe、Coinbase、Shopify 等業者共同支持的美元穩定幣 Open USD（OUSD）在 9/30 正式上線。OUSD 背後的 Open Standard，目前已有超過 200 家金融機構、FinTech、銀行與企業加入，Coinbase、Mastercard、Shopify、Stripe、Visa 則是首批創始夥伴。 OUSD 上線後，企業與開發者目前可從 Stripe、Mastercard、Coinbase、Visa 4 個管道接入，並利用相",
-        "source": "TechOrange"
-      },
-      {
-        "title": "亞馬遜配送員變「移動資料庫」：戴智慧眼鏡狂拍住家數千張，為何掀隱私爭議也要做？",
-        "link": "https://techorange.com/2026/10/01/smart-glasses-amazon-delivery-drivers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 13:04:04 +0800",
-        "description": "亞馬遜（Amazon）計畫讓配送員配戴智慧眼鏡，在送貨過程中幾乎持續拍攝周遭環境，並將影像傳回公司，由人工分析並提供給 AI 系統使用。Amazon 認為，這項技術能讓配送更快速、可靠；《Bloomberg》專欄作者 Dave Lee 認為，此舉可能讓 Amazon 再次陷入隱私爭議。 Amazon 推動智慧眼鏡計畫，大規模蒐集影像驅動 AI 配送 Amazon 去年 10 月宣布智慧眼鏡計畫。這款裝置已開發超過 3 年，主要用於降低配送錯誤，讓配送員以免持方式確認正確包裹、尋找配送位置，並拍攝",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Gemini 4 終於登場：一次可輸出 100 萬 token，Google 為何要把 AI 單次工作量做這麼大？",
-        "link": "https://techorange.com/2026/10/01/gemini-4-argon-google/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 01 Oct 2026 11:58:54 +0800",
-        "description": "Google 在美國時間 9/30 推出新一代旗艦模型 Gemini 4 Argon，這也是自 2025 年 11 月 Gemini 3 系列後，睽違近一年再更新的最高階模型。而原訂今年 6 月推出的 Gemini 3.5 Pro 最終取消，Google 直接進入 Gemini 4 世代。 《Axios》指出，在這段期間，Google 主要推出速度更快、成本更低的 Flash 模型，OpenAI、Anthropic 則持續更新前沿模型，Gemini 4 因此也肩負 Google 重返最高階模型競",
-        "source": "TechOrange"
-      },
       {
         "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
         "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -184,6 +149,34 @@
         "link": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 03 Oct 2026 06:29:00 +0800",
         "description": "資安公司 BreachLock 發布《滲透測試情報報告》（2026 Penetration Testing Intelligence Report），研究基於過去 12 個月內於全球執行的 4,970 多次實測滲透測試，以及高達 531,770 項具體漏洞的匿名統計數據。 內容透過跨越 60 多個產業領域的大規模實測結果，指出企業在加速導入 AI 與雲端架構時，攻擊面擴張速度已遠超資安治理能力的真實困境，並為企業指明從「收集漏洞清單」轉向「主動驗證實質風險」的轉型路徑。 📎 這份報告適合誰閱讀？",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Robotaxi 開得更晚、FSD 前進台灣，Tesla 純視覺路線面臨哪些新考驗？",
+        "link": "https://techorange.com/2026/10/05/tesla-robotaxi-austin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 12:48:32 +0800",
+        "description": "電動車大廠 Tesla 正把旗下無人計程車服務 Robotaxi 往更晚的夜間延伸，但執行長馬斯克最近提到的一個例子，也讓 Tesla 長年選擇的自駕技術路線再次受到關注。 Tesla 近日將美國德州 Austin 的 Robotaxi 無人計程車服務時間，從晚上 10 點延長至 11 點。馬斯克隨後表示，目前團隊仍在處理夜間寵物辨識問題，甚至具體舉例，要確保車輛能看見「黑暗中灰色柏油路上的灰色小貓」。《Electrek》據此將問題指向 Tesla 的純視覺路線，認為 LiDAR 能為這類低照度",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美中 AI 差距縮至 3%？彭博研究：中國憑「高效率與低成本」逼近美國領先優勢",
+        "link": "https://techorange.com/2026/10/05/ai-china-narrows-deepseek-nvidia-bloomberg-intelligence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 11:25:39 +0800",
+        "description": "美國 AI 業者與中國業者之間的性能差距，近幾個月快速縮小至歷來最低水準。彭博行業研究（Bloomberg Intelligence，BI）指出，在中國 AI 實驗室 DeepSeek 等業者持續追趕下，美國在 AI 技術上的領先優勢正面臨挑戰。 中國 AI 靠效率追趕：部分模型以五分之一成本處理多數工程任務 BI 資深分析師 Robert Lea 在報告中指出，DeepSeek 於 9 月推出 V4.1 Flash 後，中國頂尖 AI 模型與美國競爭對手在基準測試上的性能差距已縮小至約 3%。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【用資安思維做 AI 治理】78% 員工自行使用未核准 AI，企業可比照資安管控分層授權",
+        "link": "https://techorange.com/2026/10/05/employees-are-trusting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 10:36:15 +0800",
+        "description": "員工自行使用公司從未審核過的 AI 工具，這種情況在中小企業裡遠比管理層想像的普遍。美國雲端軟體經銷平台 Pax8 近期一項研究發現，約 78% 員工正在使用雇主未核准的 AI 工具。 這類在 IT 部門視線之外使用的 AI 工具被稱為「影子 AI」（Shadow AI），牽涉的不只是工作效率，更關乎資料安全、客戶信任與企業治理。 90% 中小企業已用 AI，僅 23% 訂有書面政策 從整體導入情況來看，AI 已大規模進入中小企業。Pax8 另一份《2026 年第 2 季中小企業 AI 脈動報告",
+        "source": "TechOrange"
+      },
+      {
+        "title": "資料中心是當代工廠運算層：製造業與資料中心不是二選一，而是同一場工業革命",
+        "link": "https://techorange.com/2026/10/05/data-center-modern-reindustrialization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 09:55:39 +0800",
+        "description": "資料中心本身將是現代工廠幕後的運算層，亦是傳統製造業邁向下一階段，實現次世代工廠的發展關鍵，藉此重塑社區經濟面貌，並非得 AI 與傳統製造業投資二選一。",
         "source": "TechOrange"
       },
       {
@@ -556,16 +549,6 @@
         "products": "Google Chrome"
       },
       {
-        "title": "F5 BIG-IP Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20260923",
-        "pubDate": "Wed, 23 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "F5 BIG-IP Remote Code Execution Vulnerability"
-      },
-      {
         "title": "Apache Tomcat Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20260929",
         "pubDate": "Tue, 29 Sep 2026 11:00:00 +0800",
@@ -586,16 +569,6 @@
         "products": "Apple Products Remote Code Execution Vulnerability"
       },
       {
-        "title": "WordPress Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20260922",
-        "pubDate": "Tue, 22 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "WordPress"
-      },
-      {
         "title": "WordPress Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/wordpress-remote-code-execution-vulnerability_20260924",
         "pubDate": "Thu, 24 Sep 2026 11:00:00 +0800",
@@ -614,6 +587,26 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Citrix Products"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261005",
+        "pubDate": "Mon, 05 Oct 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
+      },
+      {
+        "title": "Citrix Products Denial of Service Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerability_20261005",
+        "pubDate": "Mon, 05 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Citrix Products Denial of Service Vulnerability"
       },
       {
         "title": "Fortinet Products Remote Code Execution Vulnerability",
