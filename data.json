@@ -1,9 +1,51 @@
 {
-  "ts": "2026-10-05T06:58:10.465484Z",
+  "ts": "2026-10-05T15:57:15.863119Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "連鎖餐飲服務公司安心委外平臺疑個資外洩",
+        "title": "QNAP推出HDP for Business，讓既有NAS升級為企業備份中心",
+        "link": "https://www.ithome.com.tw/news/179421",
+        "pubDate": "2026-10-05 19:21",
+        "description": "整合實體與虛擬主機集中備份復原管理、不可變備份、遠端複製與物件鎖定等功能，讓NAS扮演企業資料備份與保護中心角色",
+        "source": "iThome資安"
+      },
+      {
+        "title": "勒索軟體Warlock鎖定水資源與電信產業，利用SharePoint漏洞攻擊",
+        "link": "https://www.ithome.com.tw/news/179416",
+        "pubDate": "2026-10-05 16:59",
+        "description": "中國駭客Storm-2603（Longlegs）利用SharePoint相關資安漏洞散布勒索軟體Warlock，近兩個月至少攻擊4個企業組織，其中有兩家是關鍵基礎設施營運廠商",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Roundcube已知SQL注入弱點遭到利用",
+        "link": "https://www.ithome.com.tw/news/179413",
+        "pubDate": "2026-10-05 15:41",
+        "description": "加拿大網路安全中心近日表示，今年5月Roundcube修補的SQL注入漏洞CVE-2026-48842，已出現實際利用的情況，呼籲管理人員應儘速根據指引採取行動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic投入1億美元培訓萬名工程師，強化企業Claude部署能力",
+        "link": "https://www.ithome.com.tw/news/179412",
+        "pubDate": "2026-10-05 15:03",
+        "description": "Anthropic加碼企業AI人才培訓，投入1億美元推出Claude Frontier Academy，讓參訓工程師完成訓練後，能回到原公司實際執行Claude導入專案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署針對GitLab滿分漏洞利用攻擊提出警告",
+        "link": "https://www.ithome.com.tw/news/179411",
+        "pubDate": "2026-10-05 15:01",
+        "description": "上週數位發展部資通安全署針對GitLab重大漏洞CVE-2026-85706提出警告，呼籲各界儘速完成相關系統的版本更新，以因應相關漏洞利用的威脅",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月5日，微軟揭露2026年國家級駭客威脅較兩年前更嚴峻，臺灣遭遇事件數躍居全球第三",
+        "link": "https://www.ithome.com.tw/news/179410",
+        "pubDate": "2026-10-05 14:53",
+        "description": "微軟2026年數位防禦報告顯示，2025年7月至2026年6月間，臺灣被觀察到193起國家級駭客活動事件，比2024年報告的143起增加，另值得關注的是，日本從兩年前的38起大增至今年的172起，躍居全球第四",
+        "source": "iThome資安"
+      },
+      {
+        "title": "摩斯漢堡傳出消費者個資外流，廠商說明後續處理方式",
         "link": "https://www.ithome.com.tw/news/179408",
         "pubDate": "2026-10-05 14:31",
         "description": "上週連鎖餐飲服務公司安心（1259）發布資安重訊，有消費者反映疑似第三方人士取得個資並向他們聯繫，資料源自該公司委外廠商管理的平臺，安心表示已要求該廠商進行改善",
@@ -52,10 +94,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國CISA警告Citirx NetScaler漏洞遭積極利用，要求聯邦機構緊急修補",
+        "title": "美國CISA警告Citrix NetScaler漏洞遭積極利用，要求聯邦機構緊急修補",
         "link": "https://www.ithome.com.tw/news/179397",
         "pubDate": "2026-10-05 11:18",
-        "description": "本週美國網路安全與基礎設施安全局（CISA）將CVE-2026-88779加入已遭利用的漏洞名單（KEV），並要求聯邦機構3天內緊急修補Citirx NetScaler設備",
+        "description": "本週美國網路安全與基礎設施安全局（CISA）將CVE-2026-88779加入已遭利用的漏洞名單（KEV），並要求聯邦機構3天內緊急修補Citrix NetScaler設備",
         "source": "iThome資安"
       },
       {
@@ -63,41 +105,6 @@
         "link": "https://www.ithome.com.tw/news/179391",
         "pubDate": "2026-10-05 11:05",
         "description": "微軟2026年數位防禦報告顯示，2025年7月至2026年6月間，臺灣被觀察到193起國家級駭客活動事件，比2024年報告143起增加，另值得關注的是，日本兩年前僅38起，今年172起數量明顯大增，躍居全球第四",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Dell修補容器儲存套件CSM 13個漏洞，含兩個CVSS滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/179395",
-        "pubDate": "2026-10-05 11:02",
-        "description": "Dell CSM存在重大身分驗證漏洞，可能導致遠端攻擊者取得儲存管理權限，建議用戶儘速升級至1.18.0以上版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI紅隊平臺新創Armadin完成2.56億美元B輪募資",
-        "link": "https://www.ithome.com.tw/news/179364",
-        "pubDate": "2026-10-05 08:00",
-        "description": "Armadin以AI代理進行紅隊演練，尋找企業環境中可利用的弱點，並透過攻擊測試驗證攻擊路徑及可能造成的影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟示警AI加劇資安攻防速度落差，臺灣觀測到的國家級駭客活動事件數居亞太首位",
-        "link": "https://www.ithome.com.tw/news/179372",
-        "pubDate": "2026-10-05 08:00",
-        "description": "AI正加快網路攻擊速度。微軟觀察，漏洞被發現後，駭客不到24小時就可能找到利用漏洞的攻擊方法，但企業修補重大對外漏洞可能需要30至60天",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Reco完成5,500萬美元募資，擴大AI代理安全業務",
-        "link": "https://www.ithome.com.tw/news/179363",
-        "pubDate": "2026-10-05 08:00",
-        "description": "企業大量導入AI代理後，不只要找出環境中有哪些代理，還要掌握它們能存取哪些系統與資料。AI代理安全業者Reco取得5,500萬美元新資金，其Reco Graph可串連代理的身分、權限及活動資訊，找出權限過大與異常行為",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國相關網路間諜TA419鎖定美國AI政策圈，假冒前白宮官員進行Microsoft帳號網釣",
-        "link": "https://www.ithome.com.tw/news/179378",
-        "pubDate": "2026-10-05 08:00",
-        "description": "TA419假冒前白宮科技政策官員等人士寄信接觸目標對象，利用對手中間人網釣轉送真正的Microsoft登入流程，即使使用者完成MFA驗證，攻擊者仍可攔截完成驗證後產生的連線階段Cookie",
         "source": "iThome資安"
       },
       {
@@ -122,18 +129,11 @@
         "source": "iThome"
       },
       {
-        "title": "Cloudflare開源Clef決策模型，主打快速判斷並整合Workers AI",
-        "link": "https://www.ithome.com.tw/news/179382",
-        "pubDate": "2026-10-05  08:10:22",
-        "description": "Cloudflare推出自行訓練的決策模型Clef與Clef-flash，兩款模型已整合至Workers AI，並以Apache 2.0授權開放模型權重。Clef採用與Jev相容的程式介面，既有使用Jev的應用較容易改用Clef，主要用於AI代理進行分類、判斷或決定下一步動作。\n決策模型和一般大型語言模型負責的工作不同，大型語言模型可以產生文字、進行推理或操作工具，決策模型則專門處理範圍明確的判斷。開發者先設定可接受的答案，模型讀取輸入資料後，直接回傳符合指定格式的答案及各選項機率。",
+        "title": "AI資料中心擴建爭議升高，Amazon加碼逾10億美元回應地方疑慮",
+        "link": "https://www.ithome.com.tw/news/179415",
+        "pubDate": "2026-10-05  05:10:37",
+        "description": "Amazon公布新的資料中心營運與社區承諾，回應近期資料中心擴建引發的電力、用水及地方社區疑慮。未來5年將在美國資料中心所在地額外投入超過10億美元，用於教育、職業訓練及能源與用水改善，Amazon也表示，今後不再與資料中心專案合作的政府機關簽署保密協議，並將每年公開能源與用水等營運資料。",
         "source": "iThome"
-      },
-      {
-        "title": "開源IT服務與客服系統Zammad漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179387",
-        "pubDate": "2026-10-03 14:38",
-        "description": "荷蘭漏洞揭露協會（DIVD）揭露開源IT服務臺與客服工單系統Zammad存在兩個高風險以上的漏洞：CVE-2026-102489與CVE-2026-102490，10月2日美國網路與基礎設施安全局（CISA）已知遭利用漏洞（KEV）清單中，也增列上述兩個漏洞",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -149,6 +149,20 @@
         "link": "https://techorange.com/2026/10/03/penetration-testing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 03 Oct 2026 06:29:00 +0800",
         "description": "資安公司 BreachLock 發布《滲透測試情報報告》（2026 Penetration Testing Intelligence Report），研究基於過去 12 個月內於全球執行的 4,970 多次實測滲透測試，以及高達 531,770 項具體漏洞的匿名統計數據。 內容透過跨越 60 多個產業領域的大規模實測結果，指出企業在加速導入 AI 與雲端架構時，攻擊面擴張速度已遠超資安治理能力的真實困境，並為企業指明從「收集漏洞清單」轉向「主動驗證實質風險」的轉型路徑。 📎 這份報告適合誰閱讀？",
+        "source": "TechOrange"
+      },
+      {
+        "title": "川崎人形機器人準備導入日本自研 AI，日本 Physical AI 正從算力走向實體應用",
+        "link": "https://techorange.com/2026/10/05/kawasaki-kaleido-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 16:00:08 +0800",
+        "description": "日本是全球工業機器人重鎮，川崎重工也已投入人形機器人研發超過 10 年，但進入 Physical AI（實體 AI）時代，光有機器人硬體與控制技術還不夠。川崎現在準備替自家人形機器人 Kaleido 接上一顆由日本自己打造的 AI「大腦」。 《日本經濟新聞》報導，川崎計畫導入 AI 公司 Noetra 開發中的 Physical AI，最快 2030 年投入工廠等實際場域。初期仍會搭配遠端操作，再隨 AI 能力提升，逐步擴大機器人自行辨識環境、判斷並完成工作的範圍。 川崎其實早已規劃 Kalei",
+        "source": "TechOrange"
+      },
+      {
+        "title": "科技業職缺逾 28 萬、裁員砍半：AI 沒消滅工作，而是改寫了徵才名單",
+        "link": "https://techorange.com/2026/10/05/tech-job-rise-ai-fuels-hardware-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 05 Oct 2026 15:53:56 +0800",
+        "description": "AI 原本被認為可能大幅消滅科技業工作，但最新職缺數據顯示，科技公司的招聘需求並未全面萎縮，職缺數量較年初明顯增加。其中，硬體工程師需求更在今年明顯成長，顯示 AI 帶動的不只是軟體開發，也正在推升晶片、伺服器、機器人與資料中心等實體基礎建設的人才需求。 《Business Insider》報導，根據招聘平台 TrueUp 的最新數據，科技公司的職缺數量正在增加。TrueUp 追蹤超過 9,000 家科技公司，目前統計的新創公司與大型科技企業共有超過 28 萬個科技職缺，較 2026 年初大幅增",
         "source": "TechOrange"
       },
       {
@@ -227,65 +241,9 @@
         "pubDate": "Fri, 02 Oct 2026 09:29:28 +0800",
         "description": "Agile Robots 指出，開發實體 AI 的企業，例如機器人公司必須先投入有價值的應用，大規模部署機器人後動能才會回流，進而帶動資本投資、推動運算能力進步，再驅動實體產品進化。",
         "source": "TechOrange"
-      },
-      {
-        "title": "一個 AI Agent 別管超過 8～10 類任務，Salesforce 如何重新設計企業分工？",
-        "link": "https://techorange.com/2026/10/02/ai-agent-salesforce/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 02 Oct 2026 06:36:00 +0800",
-        "description": "隨著企業建立的 AI Agent 越來越多，如何避免 Agent 彼此重複、職責模糊甚至失控，也開始成為新的管理問題。在這個背景下，一個 Agent 到底該負責多少事？ Salesforce 最近在多 Agent 設計建議中提出一個具體參考：實務上，當單一 Agent 負責超過約 8～10 個範圍明確的任務主題，就應考慮進一步拆分。而這項建議出現之際，Salesforce 自己也正在調整內部導入 Agent 的方法。 從數百個 Agent 收斂，Salesforce 先學會聚焦問題 《Fortu",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】美光客戶長約承諾增至 320 億美元，預期記憶體供應更吃緊",
-        "link": "https://techorange.com/2026/10/02/micron-memory-supply-32-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 02 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊美光客戶長約承諾增至 320 億美元，預期記憶體供應將更吃緊 美光（Micron）9 月 30 日公布截至 9 月 3 日的 2026 會計年度第四季財報，營收達 542.3 億美元，高於去年同期的 113.2 億美元。美光董事長暨執行長梅羅特拉（Sanjay Mehrotra）表示，客戶在長期供應協議下的財務承諾，已從 6 月公布的 220 億美元提高至 320 億美元，多數採現金訂金形式。這是未來供應承諾，並非當季營收。 美光預期，2027",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
-      {
-        "title": "Police Arrest 16-Year-Old Suspected of Running KillSec, Seize Ransomware Leak Site and Servers",
-        "link": "https://thehackernews.com/2026/10/police-arrest-16-year-old-suspected-of.html",
-        "pubDate": "Thu, 01 Oct 2026 22:25:57 +0530",
-        "description": "Police in Spain have arrested a 16-year-old whom investigators suspect of running the KillSec ransomware group. KillSec is accused of stealing data from organizations and threatening to publish it on its leak site unless they paid.\n\nThe 16-year-old w",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-        "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-        "pubDate": "Thu, 01 Oct 2026 22:15:38 +0530",
-        "description": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A p",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-        "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-        "pubDate": "Thu, 01 Oct 2026 20:07:35 +0530",
-        "description": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again.\n\nThe backdoor has been codena",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fortinet warns of critical FortiMail flaw exploited in zero-day attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-fortimail-flaw-exploited-in-zero-day-attacks/",
-        "pubDate": "Thu, 01 Oct 2026 18:42:49 -0400",
-        "description": "Fortinet is warning customers of a critical FortiMail vulnerability, tracked as CVE-2026-104286, that is being actively exploited in zero-day attacks to execute unauthorized code or commands on vulnerable devices. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Autonomous AI agents tried to hack US, Canadian government websites",
-        "link": "https://www.bleepingcomputer.com/news/security/autonomous-ai-agents-tried-to-hack-us-canadian-government-websites/",
-        "pubDate": "Thu, 01 Oct 2026 16:52:50 -0400",
-        "description": "Autonomous AI agents using aggressive strategies attempted to hack U.S. and Canadian government websites to find school and divorce statistics. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft says threat actors are ahead in the early AI race",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-says-threat-actors-are-ahead-in-the-early-ai-race/",
-        "pubDate": "Thu, 01 Oct 2026 15:32:47 -0400",
-        "description": "Microsoft says cyberattackers are currently benefiting from artificial intelligence faster than defenders, allowing threat actors to speed up vulnerability discovery, malware development, and post-compromise activity while security teams struggle to ",
-        "source": "BleepingComputer"
-      },
       {
         "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
         "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
@@ -339,7 +297,7 @@
         "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
         "link": "https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html",
         "pubDate": "Sat, 03 Oct 2026 16:30:00 +0530",
-        "description": "Featuring:\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure, ",
+        "description": "Featuring:\n\n\n\nCybersecurity is being reshaped by the expansion of cloud infrastructure, AI, distributed systems, and increasingly complex digital environments. As organizations manage more identities, devices, data, and internet-facing infrastructure",
         "source": "TheHackerNews"
       },
       {
@@ -357,32 +315,74 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
-        "link": "https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html",
-        "pubDate": "Fri, 02 Oct 2026 23:03:31 +0530",
-        "description": "A critical flaw in GitLab's AI Gateway could let a logged-in user with Duo Agent Platform access run commands on the gateway under certain conditions, GitLab said in an advisory.\n\nThe gateway is the service that connects a GitLab instance to AI model",
+        "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
+        "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
+        "pubDate": "Mon, 05 Oct 2026 19:50:43 +0530",
+        "description": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.\n\nThere are actively exploited bu",
         "source": "TheHackerNews"
       },
       {
-        "title": "Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign",
-        "link": "https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html",
-        "pubDate": "Fri, 02 Oct 2026 23:03:16 +0530",
-        "description": "Government and policy organizations across Asia have become the target of a new campaign orchestrated by a China-nexus threat actor.\n\nThe activity, which has targeted government and policy organizations in Taiwan, India, the Philippines, Cambodia, Pa",
+        "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
+        "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
+        "pubDate": "Mon, 05 Oct 2026 17:25:00 +0530",
+        "description": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, a",
         "source": "TheHackerNews"
       },
       {
-        "title": "Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes",
-        "link": "https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html",
-        "pubDate": "Fri, 02 Oct 2026 22:32:12 +0530",
-        "description": "Dell has released security updates to address multiple critical security flaws in Dell Container Storage Modules (CSM) that could be exploited by bad actors to take over susceptible systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-63688 ",
+        "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
+        "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
+        "pubDate": "Mon, 05 Oct 2026 17:16:25 +0530",
+        "description": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is notable not because it introduces a new propag",
         "source": "TheHackerNews"
       },
       {
-        "title": "OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling",
-        "link": "https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html",
-        "pubDate": "Fri, 02 Oct 2026 17:53:15 +0530",
-        "description": "OpenAI has parted ways with three members of its safety team after they leaked private information in violation of company policies, The Wall Street Journal reported.\n\n\"We have parted ways with three individuals for violating our policies on accessin",
+        "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
+        "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
+        "pubDate": "Mon, 05 Oct 2026 16:08:50 +0530",
+        "description": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers are using Full Disk Access in ways that could pu",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
+        "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
+        "pubDate": "Mon, 05 Oct 2026 13:39:23 +0530",
+        "description": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
+        "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
+        "pubDate": "Mon, 05 Oct 2026 12:10:19 +0530",
+        "description": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks.\n\nThe vulnerability, tracked as CVE-2026-88779, carries a CVSS score of ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Denmark population registry data breach affects 8.8 million people",
+        "link": "https://www.bleepingcomputer.com/news/security/denmark-population-registry-data-breach-affects-88-million-people/",
+        "pubDate": "Mon, 05 Oct 2026 11:21:10 -0400",
+        "description": "Denmark's Central Population Register (CPR) is warning of a data breach that exposed the personal information of approximately 8.8 million registered individuals. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New Dell System Update flaw lets hackers gain root privileges",
+        "link": "https://www.bleepingcomputer.com/news/security/new-dell-system-update-flaw-lets-hackers-gain-root-privileges/",
+        "pubDate": "Mon, 05 Oct 2026 10:53:06 -0400",
+        "description": "Dell warned customers to patch a critical vulnerability in the System Update (DSU) command-line interface (CLI) deployment tool as soon as possible. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "South Korea probes bank breaches amid suspected AI-powered attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/south-korea-probes-bank-breaches-amid-suspected-ai-powered-attacks/",
+        "pubDate": "Mon, 05 Oct 2026 10:22:12 -0400",
+        "description": "South Korea's Financial Services Commission (FSC) held an emergency meeting following a series of cyberattacks targeting financial institutions in the country. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "tenfold CE: Our free Identity Governance tool just got 2 new features",
+        "link": "https://www.bleepingcomputer.com/news/security/tenfold-ce-our-free-identity-governance-tool-just-got-2-new-features/",
+        "pubDate": "Mon, 05 Oct 2026 09:33:42 -0400",
+        "description": "tenfold has added shared content governance and real-time event auditing to its free Community Edition for organizations with under 150 users. The new features help teams manage Microsoft 365 sharing and investigate suspicious identity activity. [...",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -436,94 +436,94 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-        "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-        "pubDate": "Sat, 03 Oct 2026 15:02:01 +0000",
-        "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+        "title": "OpenAI launches visual ads that appear alongside image generation results",
+        "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+        "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
+        "description": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
         "source": "TechCrunch"
       },
       {
-        "title": "Vessev built an electric ferry that almost flies",
-        "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-        "pubDate": "Sat, 03 Oct 2026 14:42:00 +0000",
-        "description": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
+        "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+        "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+        "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
+        "description": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
         "source": "TechCrunch"
       },
       {
-        "title": "All the AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
-        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+        "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
+        "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Spotify billionaire’s body scan startup has come to America",
-        "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-        "pubDate": "Sat, 03 Oct 2026 14:00:00 +0000",
-        "description": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
+        "title": "Hackers steal 8 million citizens’ records from Danish government database",
+        "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+        "pubDate": "Mon, 05 Oct 2026 14:58:42 +0000",
+        "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta wants your next gadget to be Muse-infused",
-        "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-        "pubDate": "Sat, 03 Oct 2026 00:45:39 +0000",
-        "description": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+        "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+        "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+        "pubDate": "Mon, 05 Oct 2026 14:35:09 +0000",
+        "description": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
         "source": "TechCrunch"
       },
       {
-        "title": "Sanders introduces bill to ban the federal government from using Flock",
-        "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
-        "pubDate": "Sat, 03 Oct 2026 00:21:57 +0000",
-        "description": "The proposed legislation would extend to all automotica license plate readers.",
+        "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+        "pubDate": "Mon, 05 Oct 2026 14:30:00 +0000",
+        "description": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, and get a second at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Sean Parker is rebuilding Stability AI around music",
-        "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
-        "pubDate": "Fri, 02 Oct 2026 21:09:14 +0000",
-        "description": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+        "pubDate": "Mon, 05 Oct 2026 14:00:00 +0000",
+        "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
-        "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
-        "pubDate": "Fri, 02 Oct 2026 19:15:51 +0000",
-        "description": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+        "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
+        "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+        "pubDate": "Mon, 05 Oct 2026 12:00:00 +0000",
+        "description": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
         "source": "TechCrunch"
       },
       {
-        "title": "The new Fitbit Edge leaks",
-        "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
-        "pubDate": "2026-10-04T17:02:09-04:00",
-        "description": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in these images posted by Android Headlines, you can see that Google's rumored fitness tracker s",
+        "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
+        "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
+        "pubDate": "2026-10-05T11:43:13-04:00",
+        "description": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras to game consoles. When the Shield TV Pro launched nearly seven years ago with an upgraded ",
         "source": "TheVerge"
       },
       {
-        "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-        "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-        "pubDate": "2026-10-04T16:00:00-04:00",
-        "description": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave band Lucky Pierre (which Reznor was briefly a member of). While Reznor is only credited as th",
+        "title": "Apple’s new M6 Mac Mini is over $100 off",
+        "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
+        "pubDate": "2026-10-05T11:08:31-04:00",
+        "description": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly unchanged 2026 edition starts at $899 — except for right now. You can grab the base model th",
+        "source": "TheVerge"
+      },
+      {
+        "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+        "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+        "pubDate": "2026-10-05T10:42:34-04:00",
+        "description": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wrote in a memo to employees that he believes the combined company will \"fully support the p",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+        "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+        "pubDate": "2026-10-05T10:30:00-04:00",
+        "description": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual property, antitrust, privacy and technology — it’s all there. I really wanted to ask him about h",
         "source": "TheVerge"
       },
       {
         "title": "The best early October Prime Day deals happening now",
         "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "pubDate": "2026-10-04T13:18:00-04:00",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3",
-        "source": "TheVerge"
-      },
-      {
-        "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-        "pubDate": "2026-10-04T12:16:04-04:00",
-        "description": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-        "pubDate": "2026-10-04T11:21:59-04:00",
-        "description": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rate",
+        "pubDate": "2026-10-05T10:10:19-04:00",
+        "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals t",
         "source": "TheVerge"
       }
     ],
