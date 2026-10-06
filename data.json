@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-06T16:15:17.440131Z",
+  "ts": "2026-10-06T21:13:12.492937Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,11 +252,32 @@
     ],
     "en_sec": [
       {
+        "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+        "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
+        "pubDate": "Wed, 07 Oct 2026 00:08:55 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
+        "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
+        "pubDate": "Tue, 06 Oct 2026 23:54:25 +0530",
+        "description": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicio",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
         "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
         "pubDate": "Tue, 06 Oct 2026 17:27:00 +0530",
         "description": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe attack ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+        "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400",
+        "description": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
@@ -273,11 +294,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers exploit 32 zero-days on first day of Pwn2Own Ireland",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-32-zero-days-on-first-day-of-pwn2own-ireland/",
+        "pubDate": "Tue, 06 Oct 2026 15:21:53 -0400",
+        "description": "On the first day of the Pwn2Own Ireland 2026 competition, security researchers hacked the Samsung Galaxy S26 twice and earned $388,500 after exploiting 32 zero-days. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
         "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
         "pubDate": "Tue, 06 Oct 2026 14:51:47 +0530",
         "description": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Atlassian warns of critical file-access flaw in Jira, Confluence",
+        "link": "https://www.bleepingcomputer.com/news/security/atlassian-warns-of-critical-file-access-flaw-in-jira-confluence/",
+        "pubDate": "Tue, 06 Oct 2026 13:34:59 -0400",
+        "description": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ASOS confirms data breach after “HACKED” in-app notifications",
+        "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
+        "pubDate": "Tue, 06 Oct 2026 12:33:54 -0400",
+        "description": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
@@ -348,51 +390,72 @@
         "pubDate": "Mon, 05 Oct 2026 21:51:52 +0530",
         "description": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests",
-        "link": "https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html",
-        "pubDate": "Mon, 05 Oct 2026 19:50:43 +0530",
-        "description": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.\n\nThere are actively exploited bu",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
-        "pubDate": "Mon, 05 Oct 2026 18:46:33 -0400",
-        "description": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
-        "link": "https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html",
-        "pubDate": "Mon, 05 Oct 2026 17:25:00 +0530",
-        "description": "Every modern enterprise depends on credentials. This is how humans, systems, and now AI, all connect to data, services, and each other securely. GitGuardian helps secure that credential layer through three connected capabilities: Detect, Remediate, a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2",
-        "link": "https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html",
-        "pubDate": "Mon, 05 Oct 2026 17:16:25 +0530",
-        "description": "Threat actors have been observed attempting to exploit a now-patched critical security flaw impacting the Realtek Jungle software development kit (SDK) to deploy a botnet malware called Cling.\n\n\"Cling is notable not because it introduces a new propag",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
-        "pubDate": "Mon, 05 Oct 2026 16:20:05 -0400",
-        "description": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access",
-        "link": "https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html",
-        "pubDate": "Mon, 05 Oct 2026 16:08:50 +0530",
-        "description": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers are using Full Disk Access in ways that could pu",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
+        "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
+        "pubDate": "Tue, 06 Oct 2026 20:47:01 +0000",
+        "description": "Sigil Wen, backed by a Silicon Valley's who-who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How AI decision models could change content moderation",
+        "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+        "pubDate": "Tue, 06 Oct 2026 20:35:20 +0000",
+        "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+        "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+        "pubDate": "Tue, 06 Oct 2026 20:00:30 +0000",
+        "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The next hurdle for AI agents: getting websites to let them in",
+        "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+        "pubDate": "Tue, 06 Oct 2026 19:56:50 +0000",
+        "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hark releases an AI personal assistant with a focus on privacy",
+        "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+        "pubDate": "Tue, 06 Oct 2026 18:22:45 +0000",
+        "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
+        "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
+        "pubDate": "Tue, 06 Oct 2026 17:14:07 +0000",
+        "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mirror Particle is building a ‘world model’ of human behavior",
+        "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
+        "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
+        "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
+        "link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
+        "pubDate": "Tue, 06 Oct 2026 16:29:12 +0000",
+        "description": "The storied Silicon Valley firm makes its first pure defense investment.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
+        "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
+        "pubDate": "Tue, 06 Oct 2026 16:18:45 +0000",
+        "description": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Sta",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
         "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
@@ -436,101 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pinterest’s AI now turns beauty Pins into action plans",
-        "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
-        "pubDate": "Tue, 06 Oct 2026 14:00:49 +0000",
-        "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uber is spending $2.3B to get into catering",
-        "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
-        "pubDate": "Tue, 06 Oct 2026 14:00:25 +0000",
-        "description": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
-        "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
-        "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
-        "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Paramount closes historic Warner Bros. merger to form Skydance",
-        "link": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
-        "pubDate": "Tue, 06 Oct 2026 13:57:32 +0000",
-        "description": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
-        "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
-        "pubDate": "Tue, 06 Oct 2026 13:15:00 +0000",
-        "description": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
-        "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
-        "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-        "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Facebook tests going Reels-first in India",
-        "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
-        "pubDate": "Tue, 06 Oct 2026 12:38:53 +0000",
-        "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
-        "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
-        "pubDate": "Tue, 06 Oct 2026 12:00:00 +0000",
-        "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
-        "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
-        "pubDate": "Mon, 05 Oct 2026 21:54:01 +0000",
-        "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "HBO Max and Paramount Plus will merge into a single streamer under Skydance",
-        "link": "https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance",
-        "pubDate": "2026-10-06T12:03:06-04:00",
-        "description": "HBO Max and Paramount Plus will become one streaming service under Paramount's $110 billion acquisition of Warner Bros. Discovery. In a press release announcing the completion of the deal, Skydance - the name of the combined companies - says both str",
+        "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
+        "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
+        "pubDate": "2026-10-06T17:10:13-04:00",
+        "description": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margare",
         "source": "TheVerge"
       },
       {
-        "title": "The stylish Nothing Headphone 1 are cheaper than ever",
-        "link": "https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale",
-        "pubDate": "2026-10-06T12:00:00-04:00",
-        "description": "There’s no denying that Nothing knows how to make eye-catching headphones. If you’re considering a new pair of over-ear cans, the Nothing Headphone 1 pack style and great sound, and they’re on sale for $189 at Amazon. That’s a big discount considerin",
+        "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
+        "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
+        "pubDate": "2026-10-06T16:37:54-04:00",
+        "description": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires ow",
         "source": "TheVerge"
       },
       {
-        "title": "Arturia adds proper sound design tools to its AstroLab synths",
-        "link": "https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update",
-        "pubDate": "2026-10-06T12:00:00-04:00",
-        "description": "Arturia's AstroLab series was already amongst the best stage keyboards out there. They essentially put the company's AnalogLab suite of vintage synth emulations, sampled pianos, and original instrument plugins into playable hardware. But they were ul",
+        "title": "Google’s power-hungry data centers crave nuclear energy",
+        "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
+        "pubDate": "2026-10-06T16:32:10-04:00",
+        "description": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear powe",
         "source": "TheVerge"
       },
       {
-        "title": "The earbuds with the best call quality are cheaper than ever",
-        "link": "https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale",
-        "pubDate": "2026-10-06T11:00:00-04:00",
-        "description": "Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the AirPods 5. While these earbuds stand out for a number of reasons, like",
+        "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
+        "link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
+        "pubDate": "2026-10-06T16:00:00-04:00",
+        "description": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the ",
         "source": "TheVerge"
       },
       {
-        "title": "New leaks reveal more details about the Fitbit Edge including its price",
-        "link": "https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features",
-        "pubDate": "2026-10-06T10:37:28-04:00",
-        "description": "Following more images of the previously leaked Google Fitbit Edge surfacing a few days ago, new details about the upcoming fitness tracker have been revealed, including potential features and pricing. The Fitbit Edge will reportedly sell for €179 in ",
+        "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
+        "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
+        "pubDate": "2026-10-06T15:30:00-04:00",
+        "description": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, ",
         "source": "TheVerge"
       }
     ],
