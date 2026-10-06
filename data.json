@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-05T22:35:31.003231Z",
+  "ts": "2026-10-06T02:29:45.288025Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "攻擊者濫用ChatGPT Custom GPT發動ClickFix攻擊，誘騙使用者植入木馬",
+        "link": "https://www.ithome.com.tw/news/179389",
+        "pubDate": "2026-10-06 08:00",
+        "description": "資安業者Huntress發現，使用者可能透過Google贊助搜尋結果進入惡意Custom GPT，再被帶往假Cloudflare驗證頁面，依照指示操作後導致Windows電腦遭植入遠端控制木馬",
+        "source": "iThome資安"
+      },
+      {
+        "title": "硬體權杖驗證軟體Thales SConnect爆重大漏洞，金融與政府舊版用戶恐有風險",
+        "link": "https://www.ithome.com.tw/news/179388",
+        "pubDate": "2026-10-06 08:00",
+        "description": "Thales的硬體權杖驗證軟體SConnect爆出重大漏洞CVE-2026-18397，CVSS 4.0風險分數達9.4分，攻擊者可能利用漏洞在使用者電腦執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "南韓金融業接連遭網路攻擊，金融主管機關FSC召開緊急會議",
+        "link": "https://www.ithome.com.tw/news/179422",
+        "pubDate": "2026-10-06 08:00",
+        "description": "南韓金融業近期接連發生資安事件，金融主管機關FSC召開緊急會議因應。新韓銀行約2.5萬名客戶資料外洩，KB國民銀行、韓亞銀行也有客戶受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Unsloth Studio存在任意程式碼執行漏洞，檢查模型資訊時就可能觸發",
+        "link": "https://www.ithome.com.tw/news/179390",
+        "pubDate": "2026-10-06 08:00",
+        "description": "用於LLM微調及量化的開源函式庫Unsloth，其Web操作介面Unsloth Studio出現任意程式碼執行漏洞。使用者從Hugging Face選取惡意模型後，光是在檢查模型資訊時就可能執行其中的自訂Python程式碼，不必真正載入模型或開始訓練",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google Spanner資料庫內建訊息佇列，同筆交易處理AI代理資料更新與任務派送",
+        "link": "https://www.ithome.com.tw/news/179417",
+        "pubDate": "2026-10-06  08:10:01",
+        "description": "Google替分散式資料庫Spanner加入原生訊息佇列功能，讓應用程式可以在同一筆資料庫交易中，同時更新資料並加入後續任務。兩個動作會一起成功或一起取消，避免AI代理已經改變資料狀態，後續工作卻沒有執行。",
+        "source": "iThome"
+      },
       {
         "title": "QNAP推出HDP for Business，讓既有NAS升級為企業備份中心",
         "link": "https://www.ithome.com.tw/news/179421",
@@ -80,55 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "蘋果將增加macOS完全磁碟存取的開關控制",
-        "link": "https://www.ithome.com.tw/news/179400",
-        "pubDate": "2026-10-05 11:29",
-        "description": "隨著AI代理能自主執行更多任務，蘋果將強化macOS「完全磁碟存取」控制，要求使用者更明確授權App取得這項權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix修補NetScaler阻斷服務漏洞",
-        "link": "https://www.ithome.com.tw/news/179398",
-        "pubDate": "2026-10-05 11:26",
-        "description": "本週Citrix再度為NetScaler修補高風險資安漏洞CVE-2026-88779，並表示該弱點會在配置為特定的SAML服務時出現，有可能會導致服務中斷（DoS）。值得留意的是，該公司警告已被用於目標式攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA警告Citrix NetScaler漏洞遭積極利用，要求聯邦機構緊急修補",
-        "link": "https://www.ithome.com.tw/news/179397",
-        "pubDate": "2026-10-05 11:18",
-        "description": "本週美國網路安全與基礎設施安全局（CISA）將CVE-2026-88779加入已遭利用的漏洞名單（KEV），並要求聯邦機構3天內緊急修補Citrix NetScaler設備",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟揭2026國家級駭客活動，臺灣、日本遭遇事件躍居全球第三、第四，威脅情勢較兩年前更嚴峻",
-        "link": "https://www.ithome.com.tw/news/179391",
-        "pubDate": "2026-10-05 11:05",
-        "description": "微軟2026年數位防禦報告顯示，2025年7月至2026年6月間，臺灣被觀察到193起國家級駭客活動事件，比2024年報告143起增加，另值得關注的是，日本兩年前僅38起，今年172起數量明顯大增，躍居全球第四",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Rust預告停止32位元Windows主機工具，開發者需改採交叉編譯",
-        "link": "https://www.ithome.com.tw/news/179393",
-        "pubDate": "2026-10-05  12:10:27",
-        "description": "Rust團隊預告，從Rust 1.100開始，不再替32位元Windows提供可直接執行的Rust編譯器等開發工具。開發者仍可製作32位元Windows程式，但之後必須改在64位元Windows等受支援的電腦上完成編譯，再產生供32位元Windows執行的程式。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI導致低品質報告氾濫，arXiv將限制報告每月提交最多2篇",
-        "link": "https://www.ithome.com.tw/news/179401",
-        "pubDate": "2026-10-05  11:10:57",
-        "description": "由於AI生成的低品質報告氾濫造成管理負擔，知名論文發布平臺arXiv上周更新論文發布規範，限制每個月每人僅能提交最多2篇論文，而審稿論文最多只能有3篇論文。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta開源Muse Gadgets硬體開發套件，支援自製AI裝置",
-        "link": "https://www.ithome.com.tw/news/179403",
-        "pubDate": "2026-10-05  11:10:38",
-        "description": "Meta上周六（10/3）宣布開源Muse Gadgets硬體開發套件，讓開發者可使用現成ESP32開發板、Raspberry Pi或其他Linux電腦，自行打造可與Muse AI連接的實體裝置，並加入螢幕、按鈕、感測器、致動器及音訊等功能。Meta同步公開相關SDK及韌體，該專案採用Apache License 2.0授權。",
-        "source": "iThome"
-      },
-      {
         "title": "AI資料中心擴建爭議升高，Amazon加碼逾10億美元回應地方疑慮",
         "link": "https://www.ithome.com.tw/news/179415",
         "pubDate": "2026-10-05  05:10:37",
@@ -137,6 +123,13 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI Agent 斷網還能繼續動作，KPMG：Edge AI Agent 需要另一套治理方式",
+        "link": "https://techorange.com/2026/10/06/edge-ai-agent-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 06 Oct 2026 06:36:00 +0800",
+        "description": "撰稿：廖紹伶 企業開始讓 AI Agent 不只回答問題，還能規劃任務、存取資料、呼叫工具，甚至直接執行動作後，AI 治理也變得更複雜，而到了「Edge AI Agent」，問題又多了一層。資料與部分運算留在企業內部或終端裝置，乍看之下似乎更安全，但當 Agent 同時取得端點上的資料與執行能力，即使與中央系統失去連線，也可能繼續動作。換句話說，「資料不上雲」不代表企業就比較容易掌控 Agent。 「Edge AI 的 Agent 相對會比較安全嗎？」KPMG 安侯企管數位創新服務副總經理張智淵",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】台積電將助馬斯克營運德州晶圓廠？馬斯克證實洽談中",
         "link": "https://techorange.com/2026/10/06/musk-tsmc-chip-fab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -234,13 +227,6 @@
         "pubDate": "Fri, 02 Oct 2026 12:35:34 +0800",
         "description": "OpenAI 持續探索 ChatGPT 作為 AI 購物助理的應用。OpenAI 宣布，全球推出兩項新的購物功能，包括讓使用者虛擬試穿服裝與配件，以及新增收藏（Favorites）功能，讓使用者儲存喜歡的商品，方便之後再查看。 OpenAI 推出「虛擬試穿」功能，ChatGPT 升級 AI 購物助理體驗 《TechCrunch》提及，這項更新正值 AI 助理持續探索購物應用之際。OpenAI 先前曾推出即時結帳（Instant Checkout）功能，但這項功能最終表現不佳，促使 OpenAI ",
         "source": "TechOrange"
-      },
-      {
-        "title": "Google 首度把 4 顆 TPU 送上太空！開始實測「軌道 AI 資料中心」",
-        "link": "https://techorange.com/2026/10/02/google-tpu-ai-project-suncatcher/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 02 Oct 2026 11:57:44 +0800",
-        "description": "Google 首度把自家 AI 晶片送上太空。美國時間 10/1，太空公司 SpaceX 的 Falcon 9 火箭執行 Transporter-18 任務，其中一顆由衛星公司 Planet Labs 製造、約冰箱大小的衛星，搭載了 4 顆 Google TPU。這也是 Google 的 Project Suncatcher（捕日者計畫）首次把 TPU 真正送進軌道。《CNN》形容，這次發射可視為 Google 在軌道 AI 資料中心競爭中率先展開的一波實際行動。 Up, up, and awa",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -308,13 +294,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Danish university DTU breach exposes data of up to 200,000 people",
-        "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-        "pubDate": "Sat, 03 Oct 2026 10:35:20 -0400",
-        "description": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
         "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
         "pubDate": "Mon, 05 Oct 2026 21:51:52 +0530",
@@ -327,6 +306,13 @@
         "pubDate": "Mon, 05 Oct 2026 19:50:43 +0530",
         "description": "A blank field. A public repo. One reply to an email. A box left exposed. None of this sounds dramatic, which is partly the problem. This week’s threats keep finding leverage in small things that were easy to overlook.\n\nThere are actively exploited bu",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+        "pubDate": "Mon, 05 Oct 2026 18:46:33 -0400",
+        "description": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "The Credential Layer Is Expanding Faster Than Security Teams Can See It",
@@ -387,7 +373,7 @@
     ],
     "en_tech": [
       {
-        "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+        "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
         "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
         "pubDate": "Mon, 05 Oct 2026 21:54:01 +0000",
         "description": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
@@ -492,6 +478,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "pubDate": "2026-10-05T19:09:55-04:00",
+        "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that includ",
+        "source": "TheVerge"
+      },
+      {
         "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
         "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
         "pubDate": "2026-10-05T17:17:45-04:00",
@@ -517,13 +510,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
         "pubDate": "2026-10-05T15:28:59-04:00",
         "description": "This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers expected current systems to be capable of — including resolving one of ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-        "link": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-        "pubDate": "2026-10-05T15:05:19-04:00",
-        "description": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we have discovered some activity\" by \"rogue\" OpenAI agents on Wikimedia pla",
         "source": "TheVerge"
       }
     ],
