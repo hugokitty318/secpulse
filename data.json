@@ -1,12 +1,33 @@
 {
-  "ts": "2026-10-06T09:24:04.603296Z",
+  "ts": "2026-10-06T16:15:17.440131Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "軟體定義汽車時代，車輛資安成出海新標準，ARTC與美、德合作成立國內首個車輛資安實驗室",
+        "link": "https://www.ithome.com.tw/news/179457",
+        "pubDate": "2026-10-06 19:13",
+        "description": "汽車產業正從機械製造走向軟體定義汽車（SDV）與智慧連網時代，隨著AI、自駕、車聯網與OTA更新功能導入，車輛資安已成為全球車廠與供應鏈關注的新課題。因應UN R155、R156等國際車輛資安與軟體更新規範，車輛中心（ARTC）建立國際級車輛資安實驗室，並取得德國TÜV SÜD實驗室認可，同時與美國OmniAir Consortium合作建置車聯網驗證環境，協助臺灣車廠與車電業者在國內完成國際標準測試，加速產品進入海外市場。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "荷蘭漏洞揭露協會遭AI自主攻擊，攻擊者利用開源IT服務與客服系統Zammad零時差漏洞得到初期存取管道",
+        "link": "https://www.ithome.com.tw/news/179447",
+        "pubDate": "2026-10-06 17:03",
+        "description": "近日荷蘭漏洞揭露協會（DIVD）公布開源IT服務與客服系統Zammad零時差漏洞CVE-2026-102489、CVE-2026-102490，該協會透露，相關發現源自他們9月底遭遇的AI自主攻擊",
+        "source": "iThome資安"
+      },
       {
         "title": "郵件伺服器Zimbra高風險漏洞在公開前就遭到利用",
         "link": "https://www.ithome.com.tw/news/179445",
         "pubDate": "2026-10-06 16:34",
         "description": "微軟近日針對郵件伺服器Zimbra漏洞CVE-2026-73570利用活動公布最新調查結果，該公司於7月底至8月上旬之前觀察到相關活動，當時Zimbra開發團隊尚未公開弱點資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月6日，Rapid7揭露AVERAT後門程式鎖定臺灣設備，相關惡意程式疑似針對眾至產品所開發",
+        "link": "https://www.ithome.com.tw/news/179438",
+        "pubDate": "2026-10-06 15:08",
+        "description": "資安業者Rapid7揭露鎖定網路邊緣設備的Linux惡意程式活動，發現6個部署於臺灣設備的AVERAT樣本，另有惡意程式疑似針對ShareTech（眾至資訊）產品所開發，研究人員還發現3臺位於臺灣的設備被用作AVERAT中繼基礎設施",
         "source": "iThome資安"
       },
       {
@@ -20,11 +41,11 @@
         "title": "丹麥人口登記系統遭駭，880萬人資料外洩",
         "link": "https://www.ithome.com.tw/news/179437",
         "pubDate": "2026-10-06 14:43",
-        "description": "丹麥中央人口登記局（Central Population Register，CPR）傳出資料外洩，攻擊者透過當地公司持有的存取權限，竊取約880萬名公民個資，相當於該局系統八成民眾資料",
+        "description": "丹麥中央人口登記局傳出資料外洩事件，攻擊者透過當地公司持有的存取權限，竊取約880萬名公民個資，相當於該局系統八成民眾資料",
         "source": "iThome資安"
       },
       {
-        "title": "Debian修補Linux核心1313個漏洞，CVE數量暴增引發關注",
+        "title": "Debian修補Linux核心1,313個漏洞，CVE數量暴增引發關注",
         "link": "https://www.ithome.com.tw/news/179434",
         "pubDate": "2026-10-06 13:05",
         "description": "漏洞涉及權限提升、阻斷服務及資訊洩漏等問題，Debian 13用戶應升級至Linux 6.12.111-1",
@@ -66,13 +87,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "攻擊者濫用ChatGPT Custom GPT發動ClickFix攻擊，誘騙使用者植入木馬",
-        "link": "https://www.ithome.com.tw/news/179389",
-        "pubDate": "2026-10-06 08:00",
-        "description": "資安業者Huntress發現，使用者可能透過Google贊助搜尋結果進入惡意Custom GPT，再被帶往假Cloudflare驗證頁面，依照指示操作後導致Windows電腦遭植入遠端控制木馬",
-        "source": "iThome資安"
-      },
-      {
         "title": "Unsloth Studio存在任意程式碼執行漏洞，檢查模型資訊時就可能觸發",
         "link": "https://www.ithome.com.tw/news/179390",
         "pubDate": "2026-10-06 08:00",
@@ -94,17 +108,17 @@
         "source": "iThome資安"
       },
       {
-        "title": "JetBrains縮減KMP的Swift開發工具支援，Swift程式碼改由Xcode等工具處理",
-        "link": "https://www.ithome.com.tw/news/179428",
-        "pubDate": "2026-10-06  11:10:37",
-        "description": "JetBrains宣布，從IntelliJ IDEA 2026.3與Android Studio Rabbit 2 | 2026.2.2開始，Kotlin Multiplatform（KMP）外掛將停止提供Swift程式碼編輯功能，包括語法上色、檔案導覽，以及在Swift與Kotlin程式碼之間直接跳轉。不過，開發者仍可執行iOS應用程式，也能在iOS裝置上除錯Kotlin程式碼。",
+        "title": "ChatGPT圖片生成功能將出現視覺廣告",
+        "link": "https://www.ithome.com.tw/news/179456",
+        "pubDate": "2026-10-06  07:10:27",
+        "description": "OpenAI宣布將擴大ChatGPT廣告測試，10月稍晚將在美國的圖片生成功能中測試新的視覺廣告，以圖片呈現商品或服務，並與使用者生成的圖片分開顯示。OpenAI也擴充廣告成效追蹤及投放安全機制，讓廣告主了解廣告是否帶來購買等後續行動，同時避免廣告出現在敏感或不適合的對話旁。\n新的視覺廣告會在使用者生成圖片時出現，可使用商品照片、使用情境或服務相關圖片呈現，並會明確標示為廣告，不會混入使用者要求ChatGPT生成的圖片。首波測試僅限美國及部分廣告主，OpenAI表示，廣告也不會影響ChatGPT",
         "source": "iThome"
       },
       {
-        "title": "Reflection AI推出首款開放權重模型Beam，要挑戰中國GLM-5.2",
-        "link": "https://www.ithome.com.tw/news/179430",
-        "pubDate": "2026-10-06  11:10:26",
-        "description": "Reflection AI周一（10/5）發表首款開放權重模型Beam，採用稀疏型混合專家（MoE）架構，總參數量5010億、每次推理啟用230億個參數，主攻程式開發、推理及AI代理人工作負載。Reflection AI表示，Beam在程式開發及代理人任務上的表現可與中國智譜AI（Z.ai）的GLM-5.2競爭。",
+        "title": "臺鐵首度完成全公司碳盤查，2025年排放42.84萬噸CO₂e，列車運行成減碳最大挑戰",
+        "link": "https://www.ithome.com.tw/news/179455",
+        "pubDate": "2026-10-06  05:10:08",
+        "description": "臺鐵公司完成首次全公司溫室氣體盤查，以2025年排放量約42.84萬公噸CO₂e(不同溫室氣體按二氧化碳換算的當量)作為減碳基準，其中列車運行占逾7成，是最大排放來源。臺鐵依此提出列車運行、車站、軌道設施維養、機廠與列車維養、辦公處所及餐廳共6大面向、11項減碳措施，要在2028年前較基準年減少3%溫室氣體排放，並逐步建立能源管理與淨零轉型路徑。\n臺鐵過去長期以運輸安全、服務品質與營運效率作為主要改善方向，但在淨零轉型要求下，鐵路運輸本身的能源消耗也成為必須面對的課題。臺鐵此次完成全公司溫室氣體",
         "source": "iThome"
       },
       {
@@ -127,23 +141,30 @@
         "pubDate": "2026-10-06  01:10:59",
         "description": "挪威政府準備提出AI眼鏡臨時禁令，限制民眾在特定場所使用相關裝置，可能納入的地點包括公園、海灘、博物館、購物中心、學校與醫療院所等。禁令目前尚未生效，挪威政府將盡快向國會提出法案，實際適用場所及受管制裝置範圍仍待確認。\n政府主要擔心，這類裝置可在旁人不知情的情況下拍照、錄影或錄音。規畫中的管制範圍包括民眾經常出入的公園、海灘、博物館與購物中心，也可能涵蓋遊樂園，以及體育、音樂與文化活動。",
         "source": "iThome"
-      },
-      {
-        "title": "OpenAI推出文字浮水印textGrain以因應歐盟AI法令",
-        "link": "https://www.ithome.com.tw/news/179435",
-        "pubDate": "2026-10-06  01:10:17",
-        "description": "OpenAI周一（10/5）公布文字浮水印技術textGrain，計畫於未來幾周內導入歐盟地區的ChatGPT與Codex文字輸出，以因應歐盟《人工智慧法》（AI Act）對AI生成內容辨識的要求。即日起也開放全球API客戶針對部分模型自行啟用。",
-        "source": "iThome"
-      },
-      {
-        "title": "QNAP推出HDP for Business，讓既有NAS升級為企業備份中心",
-        "link": "https://www.ithome.com.tw/news/179421",
-        "pubDate": "2026-10-05 19:21",
-        "description": "整合實體與虛擬主機集中備份復原管理、不可變備份、遠端複製與物件鎖定等功能，讓NAS扮演企業資料備份與保護中心角色",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "為何不直接用 Mac mini？Ghost 為個人 Agent 造專用電腦，19 歲創辦人獲 a16z 領投",
+        "link": "https://techorange.com/2026/10/06/ghost-ai-core-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 06 Oct 2026 17:28:19 +0800",
+        "description": "當 AI Agent（AI 代理）開始長期讀取使用者資料、持續累積記憶，甚至代替人執行任務，是否也需要一台專門承載它的電腦？美國 AI 新創 Ghost 正押注這個方向，10/5 結束一年多的秘密開發，宣布完成由 Andreessen Horowitz（a16z）領投的 1,100 萬美元種子輪融資，並推出首款產品 Core，售價 3,499 美元。 根據《TechCrunch》報導，Core 不是一般 AI PC，而是一台專門替個人 Agent 打造的電腦，預計 10 月最後一週開始出貨。今年",
+        "source": "TechOrange"
+      },
+      {
+        "title": "鴻海研究院資安所所長李維斌分析：一天遭 6 億次攻擊的防禦哲學",
+        "link": "https://techorange.com/2026/10/06/foxconn-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 06 Oct 2026 17:24:14 +0800",
+        "description": "「集團今年一天被攻擊約三億次，到六月已是一天六億次。」鴻海研究院執行長兼資通安全研究所所長李維斌於日前在 TechOrange 科技報橘與高通（Qualcomm）共同主辦的「2026 AI 智慧大工廠論壇——新竹場」中表示，如今的資安攻擊已經不可能完全擋下，與其追求擋下每一次攻擊，不如先控制事故的波及範圍，讓治理重心從入口移到後果。 李維斌指出，過去駭客得先突破企業設定的防火牆，再通過 EDR、NDR 等層層偵測，進門後還要橫向移動，如今企業內部已經有現成、握有適當權限的 AI Agent，駭客",
+        "source": "TechOrange"
+      },
+      {
+        "title": "RobCo 估值 9 個月翻倍破 10 億美元：德國實體 AI 機器人新創晉升獨角獸",
+        "link": "https://techorange.com/2026/10/06/physical-ai-builder-robco-doubles-valuation-billion-dollars/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 06 Oct 2026 16:48:45 +0800",
+        "description": "德國自主工業機器人公司 RobCo 估值突破 10 億美元，正式成為獨角獸。RobCo 近日宣布，透過一筆包含新投資與員工老股出售的交易，公司估值在 9 個月內翻倍；此次交易由既有投資人與新投資人共同參與，讓公司員工也有機會實現部分持股價值。 RobCo 上一次估值提升是在 2026 年 1 月，當時公司完成 1 億美元 C 輪融資，並表示將利用資金推進實體 AI 發展藍圖。RobCo 共同創辦人暨執行長 Roman Hölzl 表示，市場對投資 RobCo 有強烈需求，因此公司把握這次機會強化",
+        "source": "TechOrange"
+      },
       {
         "title": "免寫程式也能讓 AI 自動交易？幣安 Binance Intelligence 從市場資訊一路做到策略執行",
         "link": "https://techorange.com/2026/10/06/binance-launches-retail-ai-assistant-repackages-trading-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -187,13 +208,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "新北青年局「AI 實戰職涯營」成果亮相  25 位跨域青年打造 AI Agent 解企業真實命題",
-        "link": "https://techorange.com/2026/10/03/2026aipractitionerprogram-aws-ai-agent-demoday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 03 Oct 2026 19:30:24 +0800",
-        "description": "【新北市訊】新北市政府青年局第二屆「2026 AI Practitioner Program（ AI 實戰職涯營）」昨（2）日舉辦 Demo Day，25 名學員歷經 3 個月密集訓練，將 AI 導入物流、航運、食品、醫療及會計等領域，針對企業實際工作流程打造 AI Agent。獲選 MVP 的「箱當可以 Boxcellent」團隊獲得 AWS 資深主管職涯諮詢機會，結訓學員也有機會銜接伊雲谷數位科技、永豐銀行、統一資訊等企業提供的生成式 AI 系統分析師、雲端架構師及生成式 AI 專案管理等熱",
-        "source": "TechOrange"
-      },
-      {
         "title": "川崎人形機器人準備導入日本自研 AI，日本 Physical AI 正從算力走向實體應用",
         "link": "https://techorange.com/2026/10/05/kawasaki-kaleido-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 05 Oct 2026 16:00:08 +0800",
@@ -234,23 +248,37 @@
         "pubDate": "Mon, 05 Oct 2026 09:55:39 +0800",
         "description": "資料中心本身將是現代工廠幕後的運算層，亦是傳統製造業邁向下一階段，實現次世代工廠的發展關鍵，藉此重塑社區經濟面貌，並非得 AI 與傳統製造業投資二選一。",
         "source": "TechOrange"
-      },
-      {
-        "title": "汰換 30 年老 POS、再上 AI，美國披薩品牌的數位轉型如何拿回主導權",
-        "link": "https://techorange.com/2026/10/05/ai-papa-johns/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 06:12:00 +0800",
-        "description": "第三方外送平台改變了披薩產業的消費習慣，也讓原本擁有直面消費者優勢的速食品牌，開始面臨顧客關係與利潤空間被中間平台切割的問題。美國速食披薩品牌 Papa Johns 上季同店銷售下滑超過 8%，伴隨關店與營運調整，促使品牌展開全面性的數位轉型。 Papa Johns 數位與科技長 Kevin Vasconi 指出，Papa Johns 雖有高達 85% 業務來自數位管道，但核心系統已嚴重老化，改革的關鍵在於重構底層科技，從根本改善門市營運與顧客下單體驗。 告別 30 年老舊 POS，串聯數據賦能",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權",
-        "link": "https://techorange.com/2026/10/05/apple-mac-ai-agent-data-access/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 代理私訊存取惹爭議，蘋果將收緊 Mac 完整磁碟授權 蘋果（Apple）10 月 2 日宣布，將為 macOS 的「完整磁碟存取權」（Full Disk Access）增加控制措施，要求使用者透過更明確的操作才能授權。該功能原本支援備份程式，可略過多項資料保護限制，接觸檔案、郵件、訊息與瀏覽紀錄。蘋果指出，部分開發者的使用方式，可能讓使用者未充分理解便暴露資料；隨 AI 代理能力與自主性提高，這類廣泛權限的風險將擴大，通訊對象的隱私也可能",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
+        "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
+        "pubDate": "Tue, 06 Oct 2026 17:27:00 +0530",
+        "description": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe attack ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
+        "link": "https://thehackernews.com/2026/10/wikimedia-says-openai-agents-tried-to.html",
+        "pubDate": "Tue, 06 Oct 2026 16:56:25 +0530",
+        "description": "The Wikimedia Foundation, which hosts Wikipedia, has confirmed that it has discovered activity by rogue OpenAI agents on its platforms, including unsuccessful efforts to compromise Etherpad, a public note-taking tool, and edit Wikipedia pages.\n\n\"The ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Welcome to the Jungle: What We Found Inside 15,465 Public MCP Servers",
+        "link": "https://thehackernews.com/2026/10/welcome-to-jungle-what-we-found-inside.html",
+        "pubDate": "Tue, 06 Oct 2026 16:32:30 +0530",
+        "description": "In 2024, MCP (Model Context Protocol) set out to become the USB-C of AI: one standard for connecting models, agents, and IDEs to tools and data. The protocol delivered. Thousands of developers built servers, and enterprises plugged them into agent wo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+        "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+        "pubDate": "Tue, 06 Oct 2026 14:51:47 +0530",
+        "description": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software.\n\nThe change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, ",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
         "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
@@ -273,6 +301,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
+        "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
+        "pubDate": "Tue, 06 Oct 2026 11:16:44 -0400",
+        "description": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
         "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
         "pubDate": "Tue, 06 Oct 2026 10:52:55 +0530",
@@ -280,59 +315,31 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "How to secure RMM software: 8 controls MSPs should test",
+        "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
+        "pubDate": "Tue, 06 Oct 2026 10:00:10 -0400",
+        "description": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to re",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
+        "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
+        "pubDate": "Tue, 06 Oct 2026 07:31:48 -0400",
+        "description": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+        "pubDate": "Tue, 06 Oct 2026 05:25:50 -0400",
+        "description": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Engineer sentenced for locking over 3,000 devices on employer network",
         "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
         "pubDate": "Tue, 06 Oct 2026 04:19:24 -0400",
         "description": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
-        "pubDate": "Sun, 04 Oct 2026 17:58:01 -0400",
-        "description": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members",
-        "link": "https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html",
-        "pubDate": "Sun, 04 Oct 2026 12:52:05 +0530",
-        "description": "A suspected member of the ShinyHunters digital extortion group, who goes by the online alias \"Rey,\" has been allegedly detained by authorities in Jordan, Reuters reported, citing three people familiar with the matter.\n\nRey, whose real name is Saif ‌a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing",
-        "link": "https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html",
-        "pubDate": "Sun, 04 Oct 2026 12:50:32 +0530",
-        "description": "A new China-nexus cyber espionage group known as TA419 has been attributed to multiple credential phishing campaigns targeting artificial intelligence (AI) experts working for U.S. think tanks, universities, and legal sector organizations.\n\nThe campa",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic asks Claude users to share voice data for AI model training",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-asks-claude-users-to-share-voice-data-for-ai-model-training/",
-        "pubDate": "Sun, 04 Oct 2026 06:53:21 -0400",
-        "description": "Anthropic has started asking Claude users to voluntarily share their voice conversations to help train and improve its AI models. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
-        "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
-        "pubDate": "Sat, 03 Oct 2026 20:08:46 +0530",
-        "description": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service.\n\nIn a \"Security Service Espionage Alert\" issued on ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware",
-        "link": "https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html",
-        "pubDate": "Sat, 03 Oct 2026 20:06:33 +0530",
-        "description": "The suspected China-linked threat actor known as Warlock is still continuing to weaponize Microsoft SharePoint vulnerabilities, likely both old and new, in attacks targeting organizations in Portuguese- and Spanish-speaking countries.\n\nThe activity, ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-        "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-        "pubDate": "Sat, 03 Oct 2026 19:12:34 -0400",
-        "description": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -383,16 +390,107 @@
         "pubDate": "Mon, 05 Oct 2026 16:08:50 +0530",
         "description": "Apple has announced that it's taking steps to tighten controls around a macOS setting called Full Disk Access (FDA) due to security risks posed by artificial intelligence (AI) agents.\n\n\"Some developers are using Full Disk Access in ways that could pu",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE",
-        "link": "https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html",
-        "pubDate": "Mon, 05 Oct 2026 13:39:23 +0530",
-        "description": "A critical security flaw impacting Rejetto HTTP File Server (HFS) is witnessing active exploitation attempts, according to VulnCheck.\n\nThe vulnerability in question is CVE-2026-61500 (CVSS score: 9.3), a case of session forgery stemming from the use ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
+        "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
+        "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "LibreOffice says ‘no AI’ is now a software feature",
+        "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
+        "pubDate": "Tue, 06 Oct 2026 15:25:00 +0000",
+        "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
+        "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
+        "pubDate": "Tue, 06 Oct 2026 15:15:00 +0000",
+        "description": "Wajo's Fo agent can hire humans to complete a task.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky wants to give you your own domain on the open web",
+        "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
+        "pubDate": "Tue, 06 Oct 2026 14:41:52 +0000",
+        "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Emmys will move from broadcast TV to Prime Video in 2027",
+        "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
+        "pubDate": "Tue, 06 Oct 2026 14:37:31 +0000",
+        "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
+        "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
+        "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
+        "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pinterest’s AI now turns beauty Pins into action plans",
+        "link": "https://techcrunch.com/2026/10/06/pinterests-ai-now-turns-beauty-pins-into-action-plans/",
+        "pubDate": "Tue, 06 Oct 2026 14:00:49 +0000",
+        "description": "Pinterest’s new AI-powered Beauty Guides translate hair and nail Pins into salon terminology, with estimated costs, appointment times, and maintenance needs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber is spending $2.3B to get into catering",
+        "link": "https://techcrunch.com/2026/10/06/uber-is-spending-2-3b-to-get-into-catering/",
+        "pubDate": "Tue, 06 Oct 2026 14:00:25 +0000",
+        "description": "It's the latest in a string of deals meant to grow Uber Eats into a food delivery behemoth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Get all your questions answered at TechCrunch Disrupt 2026: The full breakout session agenda revealed",
+        "link": "https://techcrunch.com/2026/10/06/get-all-your-questions-answered-at-techcrunch-disrupt-2026-the-full-breakout-session-agenda-revealed/",
+        "pubDate": "Tue, 06 Oct 2026 14:00:00 +0000",
+        "description": "Get all of your scaling and tech questions answered at TechCrunch Disrupt 2026. Here's the full breakout session agenda, happening October 13-15 in San Francisco. Register now to join and save up to $100, and get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Paramount closes historic Warner Bros. merger to form Skydance",
+        "link": "https://techcrunch.com/2026/10/06/paramount-closes-historic-warner-bros-merger-to-form-skydance/",
+        "pubDate": "Tue, 06 Oct 2026 13:57:32 +0000",
+        "description": "The deal brings together two major streaming platforms, Paramount+ and HBO Max, along with networks including CBS, CNN, MTV, TBS, Comedy Central, and Food Network.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Glimpse wants to give hardware companies an X-ray view of every critical part",
+        "link": "https://techcrunch.com/2026/10/06/glimpse-wants-to-give-hardware-companies-an-x-ray-view-of-every-critical-part/",
+        "pubDate": "Tue, 06 Oct 2026 13:15:00 +0000",
+        "description": "Called Explore, Glimpse's new image processing software lets hardware makers speed up quality control checks using CT scanners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flai’s AI dealership software is booking 50,000 appointments per month",
+        "link": "https://techcrunch.com/2026/10/06/flais-ai-dealership-software-is-booking-50000-appointments-per-month/",
+        "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
+        "description": "Flai's revenue has grown 20x in a year, and the company just closed a $27 million Series A funding round.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Facebook tests going Reels-first in India",
+        "link": "https://techcrunch.com/2026/10/06/facebook-tests-going-reels-first-in-india/",
+        "pubDate": "Tue, 06 Oct 2026 12:38:53 +0000",
+        "description": "Meta is testing a new Facebook UX in India that sends some users directly into full-screen video when they open the app, putting Reels front and center.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Type One Energy raised $200M to build a fusion power plant by 2034",
+        "link": "https://techcrunch.com/2026/10/06/type-one-energy-raised-200m-to-build-a-fusion-power-plant-by-2034/",
+        "pubDate": "Tue, 06 Oct 2026 12:00:00 +0000",
+        "description": "Type One Energy is betting that its lean approach to fusion power will get a power plant on the grid faster, and investors have rewarded it with $200 million.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Lucid Motors’ EV output falls to lowest level in almost 2 years",
         "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
@@ -401,136 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI will start watermarking ChatGPT’s text in the EU",
-        "link": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
-        "pubDate": "Mon, 05 Oct 2026 20:36:48 +0000",
-        "description": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Etched fields funding offers at $40B+ valuation, sources say",
-        "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
-        "pubDate": "Mon, 05 Oct 2026 20:24:09 +0000",
-        "description": "Just a couple of months after its last big raise, the AI chip startup is already being plied with investment offers at double or more its current value, sources tell TechCrunch.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "After Factory’s public spat with Khosla, Menlo proudly invests",
-        "link": "https://techcrunch.com/2026/10/05/after-factorys-public-spat-with-khosla-menlo-proudly-invests/",
-        "pubDate": "Mon, 05 Oct 2026 19:38:07 +0000",
-        "description": "Days after Vinod Khosla called Factory a struggling also-ran, Menlo has shown up with a check and a glowing blog post.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
-        "link": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
-        "pubDate": "Mon, 05 Oct 2026 19:33:53 +0000",
-        "description": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Instinct brings its AI agent to group chats, even for friends without an account",
-        "link": "https://techcrunch.com/2026/10/05/instinct-brings-its-ai-agent-to-group-chats-even-for-friends-without-an-account/",
-        "pubDate": "Mon, 05 Oct 2026 18:54:30 +0000",
-        "description": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The company says personal accounts remain separate, with permission required before personal age",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-        "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-        "pubDate": "Mon, 05 Oct 2026 18:29:00 +0000",
-        "description": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
-        "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
-        "pubDate": "Mon, 05 Oct 2026 18:07:07 +0000",
-        "description": "Ghost's first product is Core, a personal computer designed specifically for AI agents that can take actions on a person's behalf.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
-        "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
-        "pubDate": "Mon, 05 Oct 2026 17:29:22 +0000",
-        "description": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotional dependency.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
-        "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
-        "pubDate": "Mon, 05 Oct 2026 17:26:44 +0000",
-        "description": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
-        "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
-        "pubDate": "Mon, 05 Oct 2026 16:43:35 +0000",
-        "description": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI launches visual ads that appear alongside image generation results",
-        "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-        "pubDate": "Mon, 05 Oct 2026 15:14:24 +0000",
-        "description": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-        "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-        "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
-        "description": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
-        "pubDate": "Mon, 05 Oct 2026 15:00:00 +0000",
-        "description": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hackers steal 8 million citizens’ records from Danish government database",
-        "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
-        "pubDate": "Mon, 05 Oct 2026 14:58:42 +0000",
-        "description": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "This remote-controlled wagon is silly but so very useful",
-        "link": "https://www.theverge.com/tech/1004820/this-remote-controlled-wagon-is-silly-but-useful",
-        "pubDate": "2026-10-06T04:00:00-04:00",
-        "description": "Confession: When BougeRV told me about its remote-controlled wagon with animated lighting, I called it in for a laugh, expecting to eviscerate it in a review. It's ridiculous, to be sure. But the DuneRover also proved very capable, with enough torque",
+        "title": "HBO Max and Paramount Plus will merge into a single streamer under Skydance",
+        "link": "https://www.theverge.com/entertainment/1005696/hbo-max-paramout-plus-merge-skydance",
+        "pubDate": "2026-10-06T12:03:06-04:00",
+        "description": "HBO Max and Paramount Plus will become one streaming service under Paramount's $110 billion acquisition of Warner Bros. Discovery. In a press release announcing the completion of the deal, Skydance - the name of the combined companies - says both str",
         "source": "TheVerge"
       },
       {
-        "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
-        "pubDate": "2026-10-05T19:09:55-04:00",
-        "description": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Calling\" introductory screen in an APK teardown with examples that includ",
+        "title": "The stylish Nothing Headphone 1 are cheaper than ever",
+        "link": "https://www.theverge.com/gadgets/1004290/nothing-headphone-1-deal-sale",
+        "pubDate": "2026-10-06T12:00:00-04:00",
+        "description": "There’s no denying that Nothing knows how to make eye-catching headphones. If you’re considering a new pair of over-ear cans, the Nothing Headphone 1 pack style and great sound, and they’re on sale for $189 at Amazon. That’s a big discount considerin",
         "source": "TheVerge"
       },
       {
-        "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
-        "link": "https://www.theverge.com/games/1004869/reverse-engineered-games-all-the-news-on-video-game-decomps-recomps-vr-and-web-and-3d-ports",
-        "pubDate": "2026-10-05T17:17:45-04:00",
-        "description": "It’s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprietary code and original hardware to be ported to new devices or updated in ways to completely chang",
+        "title": "Arturia adds proper sound design tools to its AstroLab synths",
+        "link": "https://www.theverge.com/gadgets/1005671/arturia-astrolab-synth-firmware-update",
+        "pubDate": "2026-10-06T12:00:00-04:00",
+        "description": "Arturia's AstroLab series was already amongst the best stage keyboards out there. They essentially put the company's AnalogLab suite of vintage synth emulations, sampled pianos, and original instrument plugins into playable hardware. But they were ul",
         "source": "TheVerge"
       },
       {
-        "title": "The Matic is the first robovac to get an FCC ban waiver, not that it needs it",
-        "link": "https://www.theverge.com/policy/1004926/matic-fcc-ban-waiver-conditional-approval",
-        "pubDate": "2026-10-05T17:15:05-04:00",
-        "description": "The Matic is our favorite robot vacuum and robo-mop, and it's also now the first to escape the FCC's Roomba ban. Well, sort of - because the Matic wasn't banned to begin with. Here's what's actually happening: On October 2nd, the FCC added the origin",
+        "title": "The earbuds with the best call quality are cheaper than ever",
+        "link": "https://www.theverge.com/gadgets/1004111/soundcore-liberty-5-pro-prime-day-deal-sale",
+        "pubDate": "2026-10-06T11:00:00-04:00",
+        "description": "Normally $169.99, the Soundcore Liberty 5 Pro are discounted to $135.99 during Amazon’s October sale, beating their previous low price of $149.99, and coming in $14 lower than the AirPods 5. While these earbuds stand out for a number of reasons, like",
         "source": "TheVerge"
       },
       {
-        "title": "This startup is issuing AI-generated acne prescriptions",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-        "pubDate": "2026-10-05T16:14:57-04:00",
-        "description": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan their faces using its app, allowing its AI system to analyze acne severity and autonomously ",
+        "title": "New leaks reveal more details about the Fitbit Edge including its price",
+        "link": "https://www.theverge.com/tech/1005519/google-fitbit-edge-leak-fitness-tracker-price-features",
+        "pubDate": "2026-10-06T10:37:28-04:00",
+        "description": "Following more images of the previously leaked Google Fitbit Edge surfacing a few days ago, new details about the upcoming fitness tracker have been revealed, including potential features and pricing. The Fitbit Edge will reportedly sell for €179 in ",
         "source": "TheVerge"
       }
     ],
