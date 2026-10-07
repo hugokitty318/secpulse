@@ -1,12 +1,89 @@
 {
-  "ts": "2026-10-07T07:11:22.641109Z",
+  "ts": "2026-10-07T14:30:16.737488Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "104人力銀行遭到入侵，12萬筆履歷資料恐外流",
+        "title": "金融機構接連爆發資料外洩案，韓國政府要求徹查",
+        "link": "https://www.ithome.com.tw/news/179497",
+        "pubDate": "2026-10-07 22:18",
+        "description": "韓國金融業近期接連發生資料外洩，受影響業者涵蓋銀行、儲蓄銀行及消費金融業者，韓國金融主管機關已要求金融業者全面檢查內外部資安系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "維基媒體揭露OpenAI代理未授權活動，大規模抓取與工具探測加重伺服器負擔",
+        "link": "https://www.ithome.com.tw/news/179490",
+        "pubDate": "2026-10-07 20:07",
+        "description": "維基媒體調查發現疑似OpenAI代理未經核准編輯維基網站、探測Etherpad並大量抓取資料，部分流量可能影響Wikidata服務，基金會也要求AI業者承擔更多代理監控與網站維運責任",
+        "source": "iThome資安"
+      },
+      {
+        "title": "大映科技運用AI加速IoT網路封包分析，處理500MB資料量所需時間可從4小時縮至10幾分鐘",
+        "link": "https://www.ithome.com.tw/news/179468",
+        "pubDate": "2026-10-07 19:15",
+        "description": "企業採購物聯網設備往往難以掌握設備使用哪些通訊元件與實際的通訊行為，傳統仰賴人工判讀PCAP封包的方式，面臨效率與經驗傳承上的限制，大映科技表示，ANMAS透過AI協助分析大量網路封包，一份500MB封包的分析時間可由約4小時縮短至10至15分鐘，並藉由RAG與模型微調持續累積企業自身的分析經驗",
+        "source": "iThome資安"
+      },
+      {
+        "title": "從網路封包分析切入，大映科技攜手多家機構拓展IoT網路安全檢測應用",
+        "link": "https://www.ithome.com.tw/news/179466",
+        "pubDate": "2026-10-07 19:06",
+        "description": "IoT設備實際通訊行為，已成為設備供應鏈安全不可忽視的檢測重點，大映科技近年將網路封包分析能力結合AI發展ANMAS，透過分析PCAP封包協助辨識設備異常連線與潛在風險。今年並進一步攜手SGS台灣檢驗科技、精技電腦、資策會資安科技研究所、中華民國網路封包分析協會、精誠資訊恆逸教育訓練中心、逢甲大學及三丸公司等夥伴，擴大可信任供應鏈檢測、本地端部署、OT／IoT場域及教育訓練等應用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "龔化中上任兩個月揭「國家資安防護2.0」，明年4月AI紅隊先攻政府機關",
+        "link": "https://www.ithome.com.tw/news/179495",
+        "pubDate": "2026-10-07 18:42",
+        "description": "資安院院長龔化中上任屆滿兩個月，首度公開「國家資安防護2.0」藍圖，主張以AI對抗AI。他推動四項重點工作，搭配六大中心的時程與數字，勾勒出臺灣資安防線下一版的樣貌，其中最受矚目的一場利用AI進行的攻防演練，預計明年四月登場。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "不只要加快修補程式開發，Google Project Zero呼籲軟體業者建立正式修補前的緊急應變機制，整理Hotpatch等4種作法",
+        "link": "https://www.ithome.com.tw/news/179489",
+        "pubDate": "2026-10-07 18:11",
+        "description": "AI正加快漏洞發現與利用節奏，如何提高零時差漏洞的利用難度，也成為軟體業者更迫切的課題。Google Project Zero因此呼籲業者預先建立正式修補前的緊急應變能力，並整理Feature Flag、輸入過濾、替代更新管道與Hotpatch等4類作法，主張在加快修補程式開發的同時，也透過緊急手段先降低漏洞遭利用的風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "IBM與Red Hat以Lightwell修補逾400個Java漏洞，支援舊版軟體修正",
+        "link": "https://www.ithome.com.tw/news/179487",
+        "pubDate": "2026-10-07 16:40",
+        "description": "Lightwell已累計修補超過400個先前未知的Java漏洞，企業仍在使用的舊版函式庫也能取得安全修正，而Clearinghouse服務也正式推出，企業可提交開源軟體要求優先檢查與修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Sierra、Meta推Personal Agent Protocol，規範AI代理人存取企業服務",
+        "link": "https://www.ithome.com.tw/news/179485",
+        "pubDate": "2026-10-07 16:09",
+        "description": "AI代理人開始代替使用者存取企業網站與服務，企業也面臨新的身分與權限控管問題。Personal Agent Protocol規畫透過身分驗證與OAuth授權，讓企業辨識AI代理人並限制其存取權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本大阪公立大學傳出遭勒索軟體攻擊而被迫停課",
+        "link": "https://www.ithome.com.tw/news/179484",
+        "pubDate": "2026-10-07 15:53",
+        "description": "上週因校園資訊基礎設施故障宣布停課的日本大阪公立大學，本週透露此起事故很可能是勒索軟體攻擊造成，並著手確認是否出現個資外洩的情形",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月7日，一零四資訊科技系統遭到異常讀取，12萬筆履歷資料恐外流",
+        "link": "https://www.ithome.com.tw/news/179480",
+        "pubDate": "2026-10-07 15:08",
+        "description": "經營104人力銀行的一零四資訊科技發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布10月Android例行更新，修補近30個漏洞",
+        "link": "https://www.ithome.com.tw/news/179479",
+        "pubDate": "2026-10-07 15:06",
+        "description": "本週Google針對Android作業系統發布10月例行更新，針對該平臺的框架、系統，以及Google Play等元件修補28個弱點，其中有8個為重大等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "一零四資訊科技系統遭到異常讀取，12萬筆履歷資料恐外流",
         "link": "https://www.ithome.com.tw/news/179476",
         "pubDate": "2026-10-07 14:31",
-        "description": "經營104人力銀行的一零四資訊科技（3130）發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
+        "description": "一零四資訊科技（3130）發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
         "source": "iThome資安"
       },
       {
@@ -31,80 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Anthropic擴大資安Claude存取計畫，Glasswing半年找到逾12萬漏洞",
-        "link": "https://www.ithome.com.tw/news/179470",
-        "pubDate": "2026-10-07 11:55",
-        "description": "Anthropic放寬資安團隊使用Claude進行漏洞研究與紅隊測試的限制，並將Project Glasswing併入Cyber Verification Program",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Atlassian揭露影響旗下8款主要應用系統的任意檔案讀取漏洞",
-        "link": "https://www.ithome.com.tw/news/179469",
-        "pubDate": "2026-10-07 11:53",
-        "description": "本週軟體開發廠商Atlassian公布重大漏洞CVE-2026-21589，並呼籲用戶若是無法及時套用更新或採取緩解措施，應將受影響系統暫時離線因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "FBI傳與Accenture解約，疑因未修補PeopleSoft漏洞造成ShinyHunters入侵",
-        "link": "https://www.ithome.com.tw/news/179467",
-        "pubDate": "2026-10-07 11:20",
-        "description": "FBI證實第三方承包商未及時部署修補程式導致入侵事件，路透社消息指向Accenture及Oracle PeopleSoft",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla推出Firefox 157.0.1更新，修補檔案處理元件弱點",
-        "link": "https://www.ithome.com.tw/news/179464",
-        "pubDate": "2026-10-07 10:54",
-        "description": "本週Mozilla發布Firefox 157安全性更新，修補一個中度風險的檔案處理元件資安漏洞CVE-2026-106016",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布Chrome 155，修補近250個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179463",
-        "pubDate": "2026-10-07 09:48",
-        "description": "本週Google針對電腦版與Android版用戶，推出Chrome 155大改版，總共修補247個資安漏洞，其中有4個重大等級、53個為高風險等級",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Linux基金會旗下ELISA納入兩項開源專案，擴大Linux程式碼分析與壓力測試能力",
-        "link": "https://www.ithome.com.tw/news/179424",
-        "pubDate": "2026-10-07 08:00",
-        "description": "Linux基金會託管的安全關鍵軟體開源社群ELISA，宣布納入Cregit與stress-ng兩項開源專案。Cregit可分析Linux核心程式碼的歷史與演進，stress-ng則提供數百項壓力測試，評估Linux系統行為、可靠性及效能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員發現GitHub公開儲存庫暴露逾54萬組仍有效憑證",
-        "link": "https://www.ithome.com.tw/news/179433",
-        "pubDate": "2026-10-07 08:00",
-        "description": "GitHub公開儲存庫中的憑證，即使暴露多年仍可能有效。研究人員分析約2.25億個公開儲存庫快照，在2026年7月驗證時，仍有逾54萬組憑證可使用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "製造業PQC轉型不只換演算法，OT設備升級與汰換成挑戰",
-        "link": "https://www.ithome.com.tw/news/179409",
-        "pubDate": "2026-10-07 08:00",
-        "description": "製造業PQC轉型不只涉及演算法更換，既有OT設備的韌體簽章、安全開機及裝置身分等機制能否升級，也將影響後續防護與設備汰換規畫",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Linux後門ClingSTUN利用公開STUN服務，惡意通訊更難辨識",
-        "link": "https://www.ithome.com.tw/news/179423",
-        "pubDate": "2026-10-07 08:00",
-        "description": "Linux後門ClingSTUN利用已知漏洞入侵暴露於公開網路的IoT及網路設備，感染後還能將設備變成代理節點，替攻擊者轉送流量",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI用內部模型挑戰4,000道數學問題，公開722篇研究手稿",
-        "link": "https://www.ithome.com.tw/news/179471",
-        "pubDate": "2026-10-07  12:10:01",
-        "description": "OpenAI周二（10/6）公布大批由內部前沿模型產生的數學研究成果，並在GitHub公開722篇研究手稿。OpenAI尚未公開產生這批成果的前沿模型，目前正研究如何以負責任的方式釋出。",
-        "source": "iThome"
-      },
-      {
-        "title": "GitHub Actions相隔4天再傳異常，代管執行環境延遲波及Pages與帳務功能",
-        "link": "https://www.ithome.com.tw/news/179459",
-        "pubDate": "2026-10-07  08:10:12",
-        "description": "GitHub Actions相隔約4天再度發生服務異常，GitHub於臺灣時間10月6日凌晨通報，代管的工作執行環境分派出現延遲，造成部分自動化工作流程啟動延遲，後續也出現工作執行失敗。GitHub Actions約2小時43分鐘後恢復正常，期間GitHub Pages及部分帳務、授權功能都受到影響。",
+        "title": "Mistral預覽兆參數Large 4，10月底釋出權重",
+        "link": "https://www.ithome.com.tw/news/179481",
+        "pubDate": "2026-10-07  03:10:59",
+        "description": "法國AI業者Mistral周二（10/6）推出Mistral Large 4（ML4）公開預覽版。這是該公司迄今規模最大、能力最強的模型，採用細粒度混合專家（MoE）架構，具備1.05兆個參數，每次推理啟用490億個參數。第三方評測機構Artificial Analysis稱它是目前在美國及中國之外，整體表現最強的模型；Mistral則說，ML4也是目前美國或歐洲所開發的最佳開放權重模型。",
         "source": "iThome"
       },
       {
@@ -113,23 +120,30 @@
         "pubDate": "2026-10-07  02:10:23",
         "description": "Google推出EmbeddingGemma 2多模態嵌入模型，以740M參數處理文字、程式碼、圖片、影片與音訊，並可直接部署在手機、筆電等裝置。開發者可用文字搜尋圖片或影片片段，也能拿一段音訊尋找內容相近的影音，相關資料不必上傳雲端處理。",
         "source": "iThome"
-      },
-      {
-        "title": "軟體定義汽車時代，車輛資安成出海新標準，ARTC與美、德合作成立國內首個車輛資安實驗室",
-        "link": "https://www.ithome.com.tw/news/179457",
-        "pubDate": "2026-10-06 19:13",
-        "description": "汽車產業正從機械製造走向軟體定義汽車（SDV）與智慧連網時代，隨著AI、自駕、車聯網與OTA更新功能導入，車輛資安已成為全球車廠與供應鏈關注的新課題。因應UN R155、R156等國際車輛資安與軟體更新規範，車輛中心（ARTC）建立國際級車輛資安實驗室，並取得德國TÜV SÜD實驗室認可，同時與美國OmniAir Consortium合作建置車聯網驗證環境，協助臺灣車廠與車電業者在國內完成國際標準測試，加速產品進入海外市場。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "荷蘭漏洞揭露協會遭AI自主攻擊，攻擊者利用開源IT服務與客服系統Zammad零時差漏洞得到初期存取管道",
-        "link": "https://www.ithome.com.tw/news/179447",
-        "pubDate": "2026-10-06 17:03",
-        "description": "近日荷蘭漏洞揭露協會（DIVD）公布開源IT服務與客服系統Zammad零時差漏洞CVE-2026-102489、CVE-2026-102490，該協會透露，相關發現源自他們9月底遭遇的AI自主攻擊",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "【劉永信專欄】Perplexity Portable Computer 登陸 Windows！一張顯卡就能跑 AI，代價是什麼？",
+        "link": "https://techorange.com/2026/10/07/perplexity-portable-computer-windows/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 18:30:05 +0800",
+        "description": "以前一家公司想要一套完全不連網、資料不出門的 AI，得先蓋機房、買伺服器，但現在這件事的門檻變很低，只要一張顯卡，加上一個月 20 美元的訂閱就可能可以做到。 9 月 14 日，以 AI 搜尋起家的 Perplexity 把一個叫 Portable Computer 的功能正式帶進 Windows，這是 Perplexity 旗下 AI 助理「Computer」的本地版本，原本這個助理要連到雲端伺服器才會動，現在它的推理引擎、任務規劃、排程系統，全部可以跑在你自己的電腦上。 但你的電腦裡要有一張",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Meta 再推 AI Agent 新標準 PAP，為什麼 Agent 協議越來越多？",
+        "link": "https://techorange.com/2026/10/07/personal-agent-protocol-pap-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 17:27:10 +0800",
+        "description": "AI Agent（AI 代理）的協議名單又變長了。Meta 與企業 AI 新創 Sierra 10/6 宣布，將聯合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等業者開發「Personal Agent Protocol（PAP）」，希望建立一套個人 AI Agent 與企業互動的共同標準，包括身分驗證、使用者授權，以及企業如何掌握 Agent 透過網站、API 或企業 Agent 執行的行動。 不過 AI Agent 相關的協議已經越來越多：M",
+        "source": "TechOrange"
+      },
+      {
+        "title": "誰真的在為生成式 AI 買單？a16z：前 1% 付費者支出超過後 50% 總和",
+        "link": "https://techorange.com/2026/10/07/the-top-100-gen-ai-consumer-apps-7th-edition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 16:00:08 +0800",
+        "description": "創投公司 Andreessen Horowitz（a16z）最新發布的消費型生成式 AI App 排名顯示，市場目前仍由少數大型業者主導，其中 OpenAI 的 ChatGPT 持續在網站與行動 App 流量上保持領先，Google Gemini 與 Anthropic Claude 則是最接近的競爭者。a16z 同時也是 OpenAI 的投資者。 前 10% AI 消費者貢獻約一半支出，程式開發、生產力與創意工具最受青睞 這是 a16z 第 7 版《Top 100 Gen AI Consume",
+        "source": "TechOrange"
+      },
       {
         "title": "高通、緯謙科技、戴爾科技專家拆解 Edge AI Agent 落地應用關鍵",
         "link": "https://techorange.com/2026/10/07/qualcomm-dell-wiadvance-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,30 +227,86 @@
         "pubDate": "Tue, 06 Oct 2026 09:39:10 +0800",
         "description": "Lumana 認為 AI 監視系統的願景，將是組合成一套實體 AI 代理，由監視攝影機觸發後續於現實世界中的各種行動，讓監視器影像畫面成為 AI 進軍實體世界最自然也最合理的起點。",
         "source": "TechOrange"
-      },
-      {
-        "title": "通用 AI 懂最多卻搞不定公司內部流程，企業需要訓練自己的專屬模型",
-        "link": "https://techorange.com/2026/10/06/enterprises-open-weight-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 09:38:50 +0800",
-        "description": "企業導入 AI 時，最常問的是目前哪個通用模型最強？但對真正需要把 AI 放進日常流程的企業來說，這個問題可能問錯了。 模型在公開測試中得分最高，不代表它能準確處理公司的會計規則、內部系統與審批流程。企業真正需要比較的，是哪個模型能以合理的成本與延遲，穩定完成指定任務。 當通用模型無法滿足這項要求時，開源權重模型的專業化微調，便可能成為更合適的選擇。 權重模型讓企業取得 AI 的核心系統 首先，先分清楚兩個容易搞混的詞。「通用模型」指用途廣泛的 AI，能寫文章、整理資料、回答問題、協助寫程式；「",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI Agent 斷網還能繼續動作，KPMG：Edge AI Agent 需要另一套治理方式",
-        "link": "https://techorange.com/2026/10/06/edge-ai-agent-kpmg/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 06:36:00 +0800",
-        "description": "撰稿：廖紹伶 企業開始讓 AI Agent 不只回答問題，還能規劃任務、存取資料、呼叫工具，甚至直接執行動作後，AI 治理也變得更複雜，而到了「Edge AI Agent」，問題又多了一層。資料與部分運算留在企業內部或終端裝置，乍看之下似乎更安全，但當 Agent 同時取得端點上的資料與執行能力，即使與中央系統失去連線，也可能繼續動作。換句話說，「資料不上雲」不代表企業就比較容易掌控 Agent。 「Edge AI 的 Agent 相對會比較安全嗎？」KPMG 安侯企管數位創新服務副總經理張智淵",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】台積電將助馬斯克營運德州晶圓廠？馬斯克證實洽談中",
-        "link": "https://techorange.com/2026/10/06/musk-tsmc-chip-fab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊馬斯克證實與台積電洽談，晶圓廠合作仍未定案 馬斯克（Elon Musk）證實，旗下晶片計畫 Terafab 與台積電（TSMC）的合作仍在討論。據消息人士指出，台積電正評估協助 Terafab 營運德州新晶圓廠的可能性。馬斯克在社群平台 X 回應相關消息時表示，目前只是討論，但可能會有進展。現階段可確認的是雙方正在商談，合作模式與具體安排仍待說明。 另外，馬斯克表示，將把太空探索科技公司（SpaceX）旗下 AI 部門的名稱，從 SpaceXA",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
+        "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
+        "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530",
+        "description": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterp",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
+        "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
+        "pubDate": "Wed, 07 Oct 2026 17:26:56 +0530",
+        "description": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL)",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
+        "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
+        "pubDate": "Wed, 07 Oct 2026 17:19:26 +0530",
+        "description": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVS",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
+        "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
+        "pubDate": "Wed, 07 Oct 2026 17:12:24 +0530",
+        "description": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promis",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
+        "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
+        "pubDate": "Wed, 07 Oct 2026 13:37:38 +0530",
+        "description": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
+        "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
+        "pubDate": "Wed, 07 Oct 2026 12:27:54 +0530",
+        "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Ransomware has a new target. Is your backup ready?",
+        "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
+        "pubDate": "Wed, 07 Oct 2026 10:01:11 -0400",
+        "description": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot e",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers exploit critical Atlassian flaw after public PoC release",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
+        "pubDate": "Wed, 07 Oct 2026 08:49:01 -0400",
+        "description": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
+        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
+        "pubDate": "Wed, 07 Oct 2026 07:37:07 -0400",
+        "description": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
+        "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
+        "pubDate": "Wed, 07 Oct 2026 06:35:15 -0400",
+        "description": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Advantest confirms personal information stolen in ransomware attack",
+        "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
+        "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400",
+        "description": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
         "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
@@ -299,91 +369,56 @@
         "pubDate": "Tue, 06 Oct 2026 13:34:59 -0400",
         "description": "Atlassian is warning customers of a critical vulnerability, tracked as CVE-2026-21589, that can be exploited for arbitrary file-access in multiple self-hosted Data Center products, including Confluence, Jira, and Bitbucket. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "ASOS confirms data breach after “HACKED” in-app notifications",
-        "link": "https://www.bleepingcomputer.com/news/security/asos-confirms-data-breach-after-hacked-in-app-notifications/",
-        "pubDate": "Tue, 06 Oct 2026 12:33:54 -0400",
-        "description": "UK fashion retailer ASOS confirmed a data breach Tuesday after hackers sent unauthorized push notifications through its mobile app while claiming to have stolen customer data from the company's Snowflake environment. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
-        "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
-        "pubDate": "Tue, 06 Oct 2026 12:28:56 +0530",
-        "description": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory.\n\nThe attacker must already know a file's exact name",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
-        "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
-        "pubDate": "Tue, 06 Oct 2026 12:26:57 +0530",
-        "description": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees.\n\nThat's according to a report from Reuters,",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
-        "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
-        "pubDate": "Tue, 06 Oct 2026 11:30:30 +0530",
-        "description": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5.\n\nTh",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fake ChatGPT, Gemini Sites steal advertising accounts, MFA codes",
-        "link": "https://www.bleepingcomputer.com/news/security/fake-chatgpt-gemini-sites-steal-advertising-accounts-mfa-codes/",
-        "pubDate": "Tue, 06 Oct 2026 11:16:44 -0400",
-        "description": "A new campaign targeting ad account managers uses fake ChatGPT, Gemini, Claude, and Perplexity sites that steal login credentials and multi-factor authentication (MFA) codes through browser-in-browser attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
-        "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
-        "pubDate": "Tue, 06 Oct 2026 10:52:55 +0530",
-        "description": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache.\n\n\"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "How to secure RMM software: 8 controls MSPs should test",
-        "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-        "pubDate": "Tue, 06 Oct 2026 10:00:10 -0400",
-        "description": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to re",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-        "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-        "pubDate": "Tue, 06 Oct 2026 07:31:48 -0400",
-        "description": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-        "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-        "pubDate": "Tue, 06 Oct 2026 05:25:50 -0400",
-        "description": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Engineer sentenced for locking over 3,000 devices on employer network",
-        "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
-        "pubDate": "Tue, 06 Oct 2026 04:19:24 -0400",
-        "description": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
-        "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
-        "pubDate": "Mon, 05 Oct 2026 21:51:52 +0530",
-        "description": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions.\n\nThe vulnerability, tracked as CVE-2026-96940, is rated 8.8",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+        "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
+        "pubDate": "Wed, 07 Oct 2026 14:30:00 +0000",
+        "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
+        "pubDate": "Wed, 07 Oct 2026 14:15:00 +0000",
+        "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+        "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
+        "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+        "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, don’t wait to register your ticket before prices increas",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s new SynthID website can identify AI-generated media",
+        "link": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/",
+        "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+        "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ring’s first smart lock can be hand-cranked when its battery dies",
+        "link": "https://techcrunch.com/2026/10/07/rings-first-smart-lock-can-be-hand-cranked-when-its-battery-dies/",
+        "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
+        "description": "Amazon-owned Ring is entering the smart lock market with a device designed to tackle a common concern: getting locked out when the battery dies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Another personal AI assistant has launched — Meet Tab, which emerged from stealth with a $300M valuation",
+        "link": "https://techcrunch.com/2026/10/07/another-personal-ai-assistant-has-launched-meet-tab-which-emerged-from-stealth-with-a-300m-valuation/",
+        "pubDate": "Wed, 07 Oct 2026 13:45:00 +0000",
+        "description": "A new personal AI assistant has arrived. Meet Tab, which announced Tuesday that it had officially emerged from stealth.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Spotify expands audiobooks to over 180 markets",
         "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
         "pubDate": "Wed, 07 Oct 2026 07:00:00 +0000",
-        "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+        "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion.",
         "source": "TechCrunch"
       },
       {
@@ -443,80 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "India’s JioHotstar takes partnership route for Middle East expansion",
-        "link": "https://techcrunch.com/2026/10/06/indias-jiohotstar-takes-partnership-route-for-middle-east-expansion/",
-        "pubDate": "Tue, 06 Oct 2026 17:14:07 +0000",
-        "description": "JioHotstar will be offered inside Starzplay rather than through a stand-alone service.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Mirror Particle is building a ‘world model’ of human behavior",
-        "link": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior/",
-        "pubDate": "Tue, 06 Oct 2026 16:35:00 +0000",
-        "description": "Mirror Particle will launch at TechCrunch Disrupt's Startup Battlefield 200 with a world model built from scratch to predict human behavior, arguing that LLM role-play falls short for market research and brand strategy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Furientis lands $25M from Benchmark to mass-produce low-cost missile interceptors",
-        "link": "https://techcrunch.com/2026/10/06/furientis-lands-25m-from-benchmark-to-mass-produce-low-cost-missile-interceptors/",
-        "pubDate": "Tue, 06 Oct 2026 16:29:12 +0000",
-        "description": "The storied Silicon Valley firm makes its first pure defense investment.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Learn all about scaling, fundraising, founder how-tos, and more at TechCrunch Founder Summit, November 4",
-        "link": "https://techcrunch.com/2026/10/06/learn-all-about-scaling-fundraising-founder-how-tos-and-more-at-techcrunch-founder-summit-november-4/",
-        "pubDate": "Tue, 06 Oct 2026 16:18:45 +0000",
-        "description": "There isn’t a single manual to read or prompt to give an LLM that can equip you with the skills and knowledge to build a company. But on November 4, TechCrunch Founder Summit gives founders the next-best thing: A packed day at Boston's SoWa Power Sta",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-        "link": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/",
-        "pubDate": "Tue, 06 Oct 2026 16:00:00 +0000",
-        "description": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "LibreOffice says ‘no AI’ is now a software feature",
-        "link": "https://techcrunch.com/2026/10/06/libreoffice-says-no-ai-is-now-a-software-feature/",
-        "pubDate": "Tue, 06 Oct 2026 15:25:00 +0000",
-        "description": "The maker of the open source document editor says it has no plans to add AI to its software's default configuration, citing user privacy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI drops another batch of mathematical breakthroughs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
-        "pubDate": "2026-10-06T19:26:38-04:00",
-        "description": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that hav",
+        "title": "Ring’s first smart lock can be charged by turning a dial when the battery unexpectedly dies",
+        "link": "https://www.theverge.com/tech/1005916/amazon-ring-smart-home-lock-dial-recharge-camera-security-pricing-availability",
+        "pubDate": "2026-10-07T10:00:00-04:00",
+        "description": "Amazon announced its first smart lock that eliminates the need for a physical backup key should its rechargeable battery die while you're away from home. While other smart locks lean on hidden USB ports or metal contacts for connecting a 9-volt batte",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox has secured GTA 6 streaming rights",
-        "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-        "pubDate": "2026-10-06T18:12:27-04:00",
-        "description": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, S",
+        "title": "My cats hate to see this great upright carpet cleaner coming",
+        "link": "https://www.theverge.com/gadgets/1006710/bissell-carpet-cleaning-prime-day-deal-sale",
+        "pubDate": "2026-10-07T09:55:04-04:00",
+        "description": "For a while, I swore by Bissell’s Little Green carpet cleaner. I liked the sub-$100 price, the fact that it was small enough to fit on a closet shelf, and that it does a good job of cleaning up little messes. However, after you clean enough spots aro",
         "source": "TheVerge"
       },
       {
-        "title": "The best robot vacuum and mop deals during October Prime Day",
-        "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
-        "pubDate": "2026-10-06T18:00:00-04:00",
-        "description": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s P",
+        "title": "Amazon uses its tracking data to guess whether shoppers have a flat butt and no friends",
+        "link": "https://www.theverge.com/tech/1006712/amazon-about-you-shopping-data",
+        "pubDate": "2026-10-07T09:40:02-04:00",
+        "description": "Most people know that Amazon collects data about your shopping history to serve up personalized product recommendations. But what some of us didn't realize is that you can check exactly what Amazon knows - or thinks it knows - about you in your setti",
         "source": "TheVerge"
       },
       {
-        "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
-        "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
-        "pubDate": "2026-10-06T17:39:53-04:00",
-        "description": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the compa",
+        "title": "Windows and Surface event: how to watch and what to expect",
+        "link": "https://www.theverge.com/news/1006292/microsoft-windows-surface-event-rtx-spark-how-to-watch",
+        "pubDate": "2026-10-07T09:12:56-04:00",
+        "description": "Microsoft is heading to San Francisco this morning to reveal what's coming next for Windows and Surface and a \"conversation on how local AI will shape the next chapter of the PC.\" That conversation will include Microsoft CEO Satya Nadella, Nvidia CEO",
         "source": "TheVerge"
       },
       {
-        "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
-        "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
-        "pubDate": "2026-10-06T17:10:13-04:00",
-        "description": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margare",
+        "title": "The Social Reckoning is a tepid thriller that reminds us of how we got here",
+        "link": "https://www.theverge.com/entertainment/1005997/the-social-reconing-review-facebook-zuckerberg-frances-haugen",
+        "pubDate": "2026-10-07T09:00:00-04:00",
+        "description": "When David Fincher's The Social Network premiered in 2010, many people still thought of Mark Zuckerberg as a genius who had revolutionized the world by creating Facebook. Writer Aaron Sorkin's script was critical of Zuckerberg's character and his rut",
         "source": "TheVerge"
       }
     ],
