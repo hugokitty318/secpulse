@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-06T21:13:12.492937Z",
+  "ts": "2026-10-07T01:00:35.746169Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Linux基金會旗下ELISA納入兩項開源專案，擴大Linux程式碼分析與壓力測試能力",
+        "link": "https://www.ithome.com.tw/news/179424",
+        "pubDate": "2026-10-07 08:00",
+        "description": "Linux基金會託管的安全關鍵軟體開源社群ELISA，宣布納入Cregit與stress-ng兩項開源專案。Cregit可分析Linux核心程式碼的歷史與演進，stress-ng則提供數百項壓力測試，評估Linux系統行為、可靠性及效能",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員發現GitHub公開儲存庫暴露逾54萬組仍有效憑證",
+        "link": "https://www.ithome.com.tw/news/179433",
+        "pubDate": "2026-10-07 08:00",
+        "description": "GitHub公開儲存庫中的憑證，即使暴露多年仍可能有效。研究人員分析約2.25億個公開儲存庫快照，2026年7月驗證時仍有逾54萬組憑證可使用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "製造業PQC轉型不只換演算法，OT設備升級與汰換成挑戰",
+        "link": "https://www.ithome.com.tw/news/179409",
+        "pubDate": "2026-10-07 08:00",
+        "description": "製造業PQC轉型不只涉及演算法更換，既有OT設備的韌體簽章、安全開機及裝置身分等機制能否升級，也將影響後續防護與設備汰換規畫",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Linux後門ClingSTUN利用公開STUN服務，惡意通訊更難辨識",
+        "link": "https://www.ithome.com.tw/news/179423",
+        "pubDate": "2026-10-07 08:00",
+        "description": "Linux後門ClingSTUN利用已知漏洞入侵暴露於公開網路的IoT及網路設備，感染後還能將設備變成代理節點，替攻擊者轉送流量",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitHub Actions相隔4天再傳異常，代管執行環境延遲波及Pages與帳務功能",
+        "link": "https://www.ithome.com.tw/news/179459",
+        "pubDate": "2026-10-07  08:10:12",
+        "description": "GitHub Actions相隔約4天再度發生服務異常，GitHub於臺灣時間10月6日凌晨通報，代管的工作執行環境分派出現延遲，造成部分自動化工作流程啟動延遲，後續也出現工作執行失敗。GitHub Actions約2小時43分鐘後恢復正常，期間GitHub Pages及部分帳務、授權功能都受到影響。",
+        "source": "iThome"
+      },
       {
         "title": "軟體定義汽車時代，車輛資安成出海新標準，ARTC與美、德合作成立國內首個車輛資安實驗室",
         "link": "https://www.ithome.com.tw/news/179457",
@@ -80,34 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "GitLab修補AI Gateway重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179426",
-        "pubDate": "2026-10-06 10:50",
-        "description": "上週GitLab發布AI Gateway元件更新，修補重大等級的資安漏洞CVE-2026-90970，若不處理，攻擊者恐用於在該元件執行任意命令",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Unsloth Studio存在任意程式碼執行漏洞，檢查模型資訊時就可能觸發",
-        "link": "https://www.ithome.com.tw/news/179390",
-        "pubDate": "2026-10-06 08:00",
-        "description": "用於LLM微調及量化的開源函式庫Unsloth，其Web操作介面Unsloth Studio出現任意程式碼執行漏洞。使用者從Hugging Face選取惡意模型後，光是在檢查模型資訊時就可能執行其中的自訂Python程式碼，不必真正載入模型或開始訓練",
-        "source": "iThome資安"
-      },
-      {
-        "title": "南韓金融業接連遭網路攻擊，金融主管機關FSC召開緊急會議",
-        "link": "https://www.ithome.com.tw/news/179422",
-        "pubDate": "2026-10-06 08:00",
-        "description": "南韓金融業近期接連發生資安事件，金融主管機關FSC召開緊急會議因應。新韓銀行約2.5萬名客戶資料外洩，KB國民銀行、韓亞銀行也有客戶受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "硬體權杖驗證軟體Thales SConnect爆重大漏洞，金融與政府舊版用戶恐有風險",
-        "link": "https://www.ithome.com.tw/news/179388",
-        "pubDate": "2026-10-06 08:00",
-        "description": "Thales的硬體權杖驗證軟體SConnect爆出重大漏洞CVE-2026-18397，CVSS 4.0風險分數達9.4分，攻擊者可能利用漏洞在使用者電腦執行程式碼",
-        "source": "iThome資安"
-      },
-      {
         "title": "ChatGPT圖片生成功能將出現視覺廣告",
         "link": "https://www.ithome.com.tw/news/179456",
         "pubDate": "2026-10-06  07:10:27",
@@ -134,16 +141,16 @@
         "pubDate": "2026-10-06  04:10:11",
         "description": "2025年成立的AI硬體新創Ghost周一（10/5）正式推出首款AI代理人專用個人電腦Core，標榜可讓AI模型、代理人與長期記憶全在使用者自己的硬體上執行，而無需將大量個人資料交給雲端AI業者。Core售價3,499美元，首批預計在10月底出貨。",
         "source": "iThome"
-      },
-      {
-        "title": "挪威擬推AI眼鏡臨時禁令，公共場所與校園成管制重點",
-        "link": "https://www.ithome.com.tw/news/179436",
-        "pubDate": "2026-10-06  01:10:59",
-        "description": "挪威政府準備提出AI眼鏡臨時禁令，限制民眾在特定場所使用相關裝置，可能納入的地點包括公園、海灘、博物館、購物中心、學校與醫療院所等。禁令目前尚未生效，挪威政府將盡快向國會提出法案，實際適用場所及受管制裝置範圍仍待確認。\n政府主要擔心，這類裝置可在旁人不知情的情況下拍照、錄影或錄音。規畫中的管制範圍包括民眾經常出入的公園、海灘、博物館與購物中心，也可能涵蓋遊樂園，以及體育、音樂與文化活動。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
+        "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊維基媒體發現 OpenAI 代理未授權活動，流量疑涉服務中斷 維基百科營運機構維基媒體基金會（Wikimedia Foundation）10 月 5 日公布調查，表示旗下平台出現它認為由 OpenAI 運作的 AI 代理活動，包括未經批准的編輯、未成功的線上筆記工具入侵嘗試，以及大量資料下載。基金會指出，編輯幾乎都發生在測試區，未刊登至一般讀者可見頁面，也未發現系統或資料遭到侵害的證據。依社群政策，機器人編輯須披露身分並取得批准，這些活動未完成",
+        "source": "TechOrange"
+      },
       {
         "title": "為何不直接用 Mac mini？Ghost 為個人 Agent 造專用電腦，19 歲創辦人獲 a16z 領投",
         "link": "https://techorange.com/2026/10/06/ghost-ai-core-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -240,13 +247,6 @@
         "link": "https://techorange.com/2026/10/05/employees-are-trusting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 05 Oct 2026 10:36:15 +0800",
         "description": "員工自行使用公司從未審核過的 AI 工具，這種情況在中小企業裡遠比管理層想像的普遍。美國雲端軟體經銷平台 Pax8 近期一項研究發現，約 78% 員工正在使用雇主未核准的 AI 工具。 這類在 IT 部門視線之外使用的 AI 工具被稱為「影子 AI」（Shadow AI），牽涉的不只是工作效率，更關乎資料安全、客戶信任與企業治理。 90% 中小企業已用 AI，僅 23% 訂有書面政策 從整體導入情況來看，AI 已大規模進入中小企業。Pax8 另一份《2026 年第 2 季中小企業 AI 脈動報告",
-        "source": "TechOrange"
-      },
-      {
-        "title": "資料中心是當代工廠運算層：製造業與資料中心不是二選一，而是同一場工業革命",
-        "link": "https://techorange.com/2026/10/05/data-center-modern-reindustrialization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 09:55:39 +0800",
-        "description": "資料中心本身將是現代工廠幕後的運算層，亦是傳統製造業邁向下一階段，實現次世代工廠的發展關鍵，藉此重塑社區經濟面貌，並非得 AI 與傳統製造業投資二選一。",
         "source": "TechOrange"
       }
     ],
@@ -394,10 +394,31 @@
     ],
     "en_tech": [
       {
+        "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
+        "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
+        "pubDate": "Tue, 06 Oct 2026 22:55:39 +0000",
+        "description": "\"I stumbled upon a page of assumptions that Amazon has made about me based on my purchases and I’m literally speechless,\" one shopper wrote on Threads.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple is reportedly partnering with LG to launch a smart lock, thermostat, and doorbell",
+        "link": "https://techcrunch.com/2026/10/06/apple-is-reportedly-partnering-with-lg-to-launch-a-smart-lock-thermostat-and-doorbell/",
+        "pubDate": "Tue, 06 Oct 2026 22:53:09 +0000",
+        "description": "Apple appears poised to push into the smart home market with a slate of new devices and a key partner.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product",
+        "link": "https://techcrunch.com/2026/10/06/ex-ramp-engineers-raise-20m-for-platform-melius-after-scrapping-their-first-product/",
+        "pubDate": "Tue, 06 Oct 2026 22:34:03 +0000",
+        "description": "Instead of helping marketers manage and optimize ad spend, the company is focusing on building the tools that generate the creative assets and campaigns.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Silicon Valley’s AI wunderkind launches Underdog, the most private Instinct/Muse competitor yet",
         "link": "https://techcrunch.com/2026/10/06/silicon-valleys-ai-wunderkind-launches-underdog-the-most-private-instinct-muse-competitor-yet/",
         "pubDate": "Tue, 06 Oct 2026 20:47:01 +0000",
-        "description": "Sigil Wen, backed by a Silicon Valley's who-who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
+        "description": "Sigil Wen, backed by a Silicon Valley who's who, has built an on-device AI assistant that promises to be free, fully private, and capable for everyday tasks.",
         "source": "TechCrunch"
       },
       {
@@ -478,59 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Bluesky wants to give you your own domain on the open web",
-        "link": "https://techcrunch.com/2026/10/06/bluesky-wants-to-give-you-your-own-domain-on-the-open-web/",
-        "pubDate": "Tue, 06 Oct 2026 14:41:52 +0000",
-        "description": "Bluesky says the process will still take 18-24 months, so don't expect your new, shortened 'bsky' handle any time soon.",
-        "source": "TechCrunch"
+        "title": "OpenAI drops another batch of mathematical breakthroughs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
+        "pubDate": "2026-10-06T19:26:38-04:00",
+        "description": "OpenAI has revealed solutions to a number of long-standing mathematics problems produced by an unreleased frontier model in a batch of 722 manuscripts, covering 372 result families that group related papers. It extends a run of breakthroughs that hav",
+        "source": "TheVerge"
       },
       {
-        "title": "Emmys will move from broadcast TV to Prime Video in 2027",
-        "link": "https://techcrunch.com/2026/10/06/emmys-will-move-from-broadcast-tv-to-prime-video-in-2027/",
-        "pubDate": "Tue, 06 Oct 2026 14:37:31 +0000",
-        "description": "Non-Amazon Prime subscribers will be able to watch the awards show on the platform.",
-        "source": "TechCrunch"
+        "title": "Xbox has secured exclusive GTA 6 streaming rights",
+        "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+        "pubDate": "2026-10-06T18:12:27-04:00",
+        "description": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, X",
+        "source": "TheVerge"
       },
       {
-        "title": "Mistral’s new 1T model aims to leapfrog closed and open rivals",
-        "link": "https://techcrunch.com/2026/10/06/mistrals-new-1t-model-aims-to-leapfrog-closed-and-open-rivals/",
-        "pubDate": "Tue, 06 Oct 2026 14:33:16 +0000",
-        "description": "French AI lab Mistral AI has released Mistral Large 4, a new large multimodal model aiming to leapfrog both American and Chinese rivals.",
-        "source": "TechCrunch"
+        "title": "The best robot vacuum and mop deals during October Prime Day",
+        "link": "https://www.theverge.com/gadgets/1006059/robot-vacuum-mop-roborock-qrevo-prime-day-deal-sale",
+        "pubDate": "2026-10-06T18:00:00-04:00",
+        "description": "Spending too much time constantly sweeping and mopping? If you have the money to delegate those chores to a robot cleaner, you could save a lot of personal time. Thankfully, it’s cheaper than usual to buy a robot vacuum / mop hybrid during Amazon’s P",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Apple and LG team up on new smart home gear, starting with a lock, doorbell, and thermostat",
+        "link": "https://www.theverge.com/news/1006238/apple-lg-homekit-rumor-fcc",
+        "pubDate": "2026-10-06T17:39:53-04:00",
+        "description": "Apple is collaborating with LG on a new lineup of smart home devices, including a video doorbell, thermostat, indoor camera, and more, according to a report from Bloomberg. The products will reportedly feature LG branding but integrate with the compa",
+        "source": "TheVerge"
       },
       {
         "title": "Sebastian Maniscalco’s SiriusXM channel is hurting up-and-coming talent, comics say",
         "link": "https://www.theverge.com/entertainment/1006221/sebastian-maniscalco-siriusxm-channel-controversy",
         "pubDate": "2026-10-06T17:10:13-04:00",
         "description": "Comedian Sebastian Maniscalco is facing backlash from fellow comics who claim his takeover of SiriusXM's Raw Comedy channel is harming up-and-coming talent, as reported earlier by Deadline. Many established comics, including Patton Oswalt and Margare",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Tesla&#8217;s Model 3 and Model Y can be a backup battery for your house",
-        "link": "https://www.theverge.com/transportation/1006193/tesla-model-3-model-y-powershare-home-backup",
-        "pubDate": "2026-10-06T16:37:54-04:00",
-        "description": "Some Tesla Model 3 and Model Y owners can use their EV battery to keep the lights on longer during a power outage, now that Tesla's expanding the Powershare Home Backup feature. It was previously only available on the Cybertruck, and also requires ow",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google’s power-hungry data centers crave nuclear energy",
-        "link": "https://www.theverge.com/science/1006082/google-nuclear-energy-power-purchase-agreement-constellation",
-        "pubDate": "2026-10-06T16:32:10-04:00",
-        "description": "Google announced a new agreement to update six nuclear power plant sites across the US as the tech giant seeks to generate more electricity for its power-hungry data centers. Google signed the 20-year deal with Constellation, the leading nuclear powe",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Amazon’s last-gen Kindle Paperwhite is 30 percent off",
-        "link": "https://www.theverge.com/gadgets/1006020/amazon-kindle-paperwhite-prime-day-deal-sale",
-        "pubDate": "2026-10-06T16:00:00-04:00",
-        "description": "Calling something “last-gen” usually means it comes with big compromises compared to the latest version. That’s not as true for the last-gen Kindle Paperwhite as it is with some other tech. The newer version can open books 30 percent faster (not the ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Save on MacBooks, iPads and Apple Watches during October Prime Day",
-        "link": "https://www.theverge.com/gadgets/1005662/apple-ipad-macbook-airpod-prime-day-deal-sale",
-        "pubDate": "2026-10-06T15:30:00-04:00",
-        "description": "Amazon’s October Big Deal Days are underway (lasting through tomorrow night), and we spotted a ton of Apple products and accessories in the sale, ranging from laptops and headphones to desktops and more. Some of the deals are only for Prime members, ",
         "source": "TheVerge"
       }
     ],
