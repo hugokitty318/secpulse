@@ -1,7 +1,70 @@
 {
-  "ts": "2026-10-07T01:00:35.746169Z",
+  "ts": "2026-10-07T07:11:22.641109Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "104人力銀行遭到入侵，12萬筆履歷資料恐外流",
+        "link": "https://www.ithome.com.tw/news/179476",
+        "pubDate": "2026-10-07 14:31",
+        "description": "經營104人力銀行的一零四資訊科技（3130）發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenSSH 10.6調整壓縮機制防側通道攻擊，並啟用混合式後量子簽章",
+        "link": "https://www.ithome.com.tw/news/179472",
+        "pubDate": "2026-10-07 13:15",
+        "description": "OpenSSH 10.6針對SSH壓縮共用狀態可能洩露資訊的問題，停用LZ77字典編碼，並把先前實驗性的混合式後量子簽章納入預設支援，同時加入後量子安全警示",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Sony發布PS5系統軟體更新，疑似堵上Relapse越獄漏洞",
+        "link": "https://www.ithome.com.tw/news/179474",
+        "pubDate": "2026-10-07 13:06",
+        "description": "PS5系統更新可能涵蓋修補越獄工具Relapse利用的WebKit與核心漏洞，Sony未公開說明",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Apache HTTP Server發布2.4.69版修補20個漏洞，包含3個重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179473",
+        "pubDate": "2026-10-07 12:29",
+        "description": "漏洞涉及記憶體安全、資訊洩露、權限管理等問題，影響2.4.68及以前版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic擴大資安Claude存取計畫，Glasswing半年找到逾12萬漏洞",
+        "link": "https://www.ithome.com.tw/news/179470",
+        "pubDate": "2026-10-07 11:55",
+        "description": "Anthropic放寬資安團隊使用Claude進行漏洞研究與紅隊測試的限制，並將Project Glasswing併入Cyber Verification Program",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Atlassian揭露影響旗下8款主要應用系統的任意檔案讀取漏洞",
+        "link": "https://www.ithome.com.tw/news/179469",
+        "pubDate": "2026-10-07 11:53",
+        "description": "本週軟體開發廠商Atlassian公布重大漏洞CVE-2026-21589，並呼籲用戶若是無法及時套用更新或採取緩解措施，應將受影響系統暫時離線因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "FBI傳與Accenture解約，疑因未修補PeopleSoft漏洞造成ShinyHunters入侵",
+        "link": "https://www.ithome.com.tw/news/179467",
+        "pubDate": "2026-10-07 11:20",
+        "description": "FBI證實第三方承包商未及時部署修補程式導致入侵事件，路透社消息指向Accenture及Oracle PeopleSoft",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla推出Firefox 157.0.1更新，修補檔案處理元件弱點",
+        "link": "https://www.ithome.com.tw/news/179464",
+        "pubDate": "2026-10-07 10:54",
+        "description": "本週Mozilla發布Firefox 157安全性更新，修補一個中度風險的檔案處理元件資安漏洞CVE-2026-106016",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 155，修補近250個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179463",
+        "pubDate": "2026-10-07 09:48",
+        "description": "本週Google針對電腦版與Android版用戶，推出Chrome 155大改版，總共修補247個資安漏洞，其中有4個重大等級、53個為高風險等級",
+        "source": "iThome資安"
+      },
       {
         "title": "Linux基金會旗下ELISA納入兩項開源專案，擴大Linux程式碼分析與壓力測試能力",
         "link": "https://www.ithome.com.tw/news/179424",
@@ -13,7 +76,7 @@
         "title": "研究人員發現GitHub公開儲存庫暴露逾54萬組仍有效憑證",
         "link": "https://www.ithome.com.tw/news/179433",
         "pubDate": "2026-10-07 08:00",
-        "description": "GitHub公開儲存庫中的憑證，即使暴露多年仍可能有效。研究人員分析約2.25億個公開儲存庫快照，2026年7月驗證時仍有逾54萬組憑證可使用",
+        "description": "GitHub公開儲存庫中的憑證，即使暴露多年仍可能有效。研究人員分析約2.25億個公開儲存庫快照，在2026年7月驗證時，仍有逾54萬組憑證可使用",
         "source": "iThome資安"
       },
       {
@@ -31,10 +94,24 @@
         "source": "iThome資安"
       },
       {
+        "title": "OpenAI用內部模型挑戰4,000道數學問題，公開722篇研究手稿",
+        "link": "https://www.ithome.com.tw/news/179471",
+        "pubDate": "2026-10-07  12:10:01",
+        "description": "OpenAI周二（10/6）公布大批由內部前沿模型產生的數學研究成果，並在GitHub公開722篇研究手稿。OpenAI尚未公開產生這批成果的前沿模型，目前正研究如何以負責任的方式釋出。",
+        "source": "iThome"
+      },
+      {
         "title": "GitHub Actions相隔4天再傳異常，代管執行環境延遲波及Pages與帳務功能",
         "link": "https://www.ithome.com.tw/news/179459",
         "pubDate": "2026-10-07  08:10:12",
         "description": "GitHub Actions相隔約4天再度發生服務異常，GitHub於臺灣時間10月6日凌晨通報，代管的工作執行環境分派出現延遲，造成部分自動化工作流程啟動延遲，後續也出現工作執行失敗。GitHub Actions約2小時43分鐘後恢復正常，期間GitHub Pages及部分帳務、授權功能都受到影響。",
+        "source": "iThome"
+      },
+      {
+        "title": "740M模型實現裝置端多模態搜尋，Google EmbeddingGemma 2支援文字與影音檢索",
+        "link": "https://www.ithome.com.tw/news/179475",
+        "pubDate": "2026-10-07  02:10:23",
+        "description": "Google推出EmbeddingGemma 2多模態嵌入模型，以740M參數處理文字、程式碼、圖片、影片與音訊，並可直接部署在手機、筆電等裝置。開發者可用文字搜尋圖片或影片片段，也能拿一段音訊尋找內容相近的影音，相關資料不必上傳雲端處理。",
         "source": "iThome"
       },
       {
@@ -50,100 +127,44 @@
         "pubDate": "2026-10-06 17:03",
         "description": "近日荷蘭漏洞揭露協會（DIVD）公布開源IT服務與客服系統Zammad零時差漏洞CVE-2026-102489、CVE-2026-102490，該協會透露，相關發現源自他們9月底遭遇的AI自主攻擊",
         "source": "iThome資安"
-      },
-      {
-        "title": "郵件伺服器Zimbra高風險漏洞在公開前就遭到利用",
-        "link": "https://www.ithome.com.tw/news/179445",
-        "pubDate": "2026-10-06 16:34",
-        "description": "微軟近日針對郵件伺服器Zimbra漏洞CVE-2026-73570利用活動公布最新調查結果，該公司於7月底至8月上旬之前觀察到相關活動，當時Zimbra開發團隊尚未公開弱點資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月6日，Rapid7揭露AVERAT後門程式鎖定臺灣設備，相關惡意程式疑似針對眾至產品所開發",
-        "link": "https://www.ithome.com.tw/news/179438",
-        "pubDate": "2026-10-06 15:08",
-        "description": "資安業者Rapid7揭露鎖定網路邊緣設備的Linux惡意程式活動，發現6個部署於臺灣設備的AVERAT樣本，另有惡意程式疑似針對ShareTech（眾至資訊）產品所開發，研究人員還發現3臺位於臺灣的設備被用作AVERAT中繼基礎設施",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Rapid7揭露AVERAT後門程式鎖定臺灣設備，同時指出相關惡意程式疑似針對眾至產品開發",
-        "link": "https://www.ithome.com.tw/news/179425",
-        "pubDate": "2026-10-06 15:00",
-        "description": "資安業者Rapid7揭露鎖定網路邊緣設備的Linux惡意程式活動，其中發現6個AVERAT樣本部署於臺灣設備，另有惡意安裝程式疑似針對ShareTech（眾至資訊）產品開發。研究人員還發現國內有3臺設備被用作AVERAT中繼基礎設施，分別為NAS、中小企業網路設備及錄影設備",
-        "source": "iThome資安"
-      },
-      {
-        "title": "丹麥人口登記系統遭駭，880萬人資料外洩",
-        "link": "https://www.ithome.com.tw/news/179437",
-        "pubDate": "2026-10-06 14:43",
-        "description": "丹麥中央人口登記局傳出資料外洩事件，攻擊者透過當地公司持有的存取權限，竊取約880萬名公民個資，相當於該局系統八成民眾資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Debian修補Linux核心1,313個漏洞，CVE數量暴增引發關注",
-        "link": "https://www.ithome.com.tw/news/179434",
-        "pubDate": "2026-10-06 13:05",
-        "description": "漏洞涉及權限提升、阻斷服務及資訊洩漏等問題，Debian 13用戶應升級至Linux 6.12.111-1",
-        "source": "iThome資安"
-      },
-      {
-        "title": "持續提升產品安全，永恒數位網路視訊監控系統導入雙因素身分驗證",
-        "link": "https://www.ithome.com.tw/news/179432",
-        "pubDate": "2026-10-06 12:29",
-        "description": "為了強化長時間存取網際網路的網路視訊監控系統安全，永恒數位在近期發布的新版系統韌體中，陸續加入多種安全性強化功能，9月推出的韌體改版FW84新增雙因素身分認證的帳號登入防護，並且擴增日誌系統的容量",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenSSL修補14個漏洞，包含可能造成當機與服務阻斷的高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/179431",
-        "pubDate": "2026-10-06 11:57",
-        "description": "OpenSSL修補DTLS重新傳送握手訊息導致記憶體內容外洩，甚至造成程式當機與服務阻斷的高風險漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日經新聞員工M365帳號遭到入侵，被用於發布約9,000封釣魚信",
-        "link": "https://www.ithome.com.tw/news/179429",
-        "pubDate": "2026-10-06 11:27",
-        "description": "本週大型媒體日本經濟新聞社（日經新聞）揭露兩起資安事故，皆與員工的雲端服務帳號遭到入侵有關，其中在針對Microsoft 365帳號的事故裡，攻擊者濫用被入侵的帳號發送約9,000封釣魚信",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Dell修補伺服器部署工具DSU 5個漏洞，含可能導致攻擊者取得root權限的重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179427",
-        "pubDate": "2026-10-06 11:01",
-        "description": "PowerEdge 伺服器指令碼更新部署工具存在重大路徑遍歷漏洞，攻擊者可藉此取得root權限並執行任意程式碼，",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ChatGPT圖片生成功能將出現視覺廣告",
-        "link": "https://www.ithome.com.tw/news/179456",
-        "pubDate": "2026-10-06  07:10:27",
-        "description": "OpenAI宣布將擴大ChatGPT廣告測試，10月稍晚將在美國的圖片生成功能中測試新的視覺廣告，以圖片呈現商品或服務，並與使用者生成的圖片分開顯示。OpenAI也擴充廣告成效追蹤及投放安全機制，讓廣告主了解廣告是否帶來購買等後續行動，同時避免廣告出現在敏感或不適合的對話旁。\n新的視覺廣告會在使用者生成圖片時出現，可使用商品照片、使用情境或服務相關圖片呈現，並會明確標示為廣告，不會混入使用者要求ChatGPT生成的圖片。首波測試僅限美國及部分廣告主，OpenAI表示，廣告也不會影響ChatGPT",
-        "source": "iThome"
-      },
-      {
-        "title": "臺鐵首度完成全公司碳盤查，2025年排放42.84萬噸CO₂e，列車運行成減碳最大挑戰",
-        "link": "https://www.ithome.com.tw/news/179455",
-        "pubDate": "2026-10-06  05:10:08",
-        "description": "臺鐵公司完成首次全公司溫室氣體盤查，以2025年排放量約42.84萬公噸CO₂e(不同溫室氣體按二氧化碳換算的當量)作為減碳基準，其中列車運行占逾7成，是最大排放來源。臺鐵依此提出列車運行、車站、軌道設施維養、機廠與列車維養、辦公處所及餐廳共6大面向、11項減碳措施，要在2028年前較基準年減少3%溫室氣體排放，並逐步建立能源管理與淨零轉型路徑。\n臺鐵過去長期以運輸安全、服務品質與營運效率作為主要改善方向，但在淨零轉型要求下，鐵路運輸本身的能源消耗也成為必須面對的課題。臺鐵此次完成全公司溫室氣體",
-        "source": "iThome"
-      },
-      {
-        "title": "紐約市議會審AI監管草案，四大業者宣誓作證回應模型安全要求",
-        "link": "https://www.ithome.com.tw/news/179440",
-        "pubDate": "2026-10-06  04:10:35",
-        "description": "紐約市議會10月5日舉行AI安全風險聽證會，OpenAI、Anthropic、Google與Meta代表透過視訊宣誓作證。市議會同時審議多項AI監管草案，其中一項要求在紐約市行銷、販售或部署的AI模型接受獨立第三方驗證，並具備可由人類操作人員關閉模型的技術能力。",
-        "source": "iThome"
-      },
-      {
-        "title": "新創Ghost打造AI代理人專用個人電腦，讓模型與記憶常駐本機",
-        "link": "https://www.ithome.com.tw/news/179446",
-        "pubDate": "2026-10-06  04:10:11",
-        "description": "2025年成立的AI硬體新創Ghost周一（10/5）正式推出首款AI代理人專用個人電腦Core，標榜可讓AI模型、代理人與長期記憶全在使用者自己的硬體上執行，而無需將大量個人資料交給雲端AI業者。Core售價3,499美元，首批預計在10月底出貨。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "高通、緯謙科技、戴爾科技專家拆解 Edge AI Agent 落地應用關鍵",
+        "link": "https://techorange.com/2026/10/07/qualcomm-dell-wiadvance-edge-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 13:00:00 +0800",
+        "description": "日前由 TechOrange 科技報橘與美國高通公司（Qualcomm）共同主辦的「2026 AI 智慧大工廠論壇新竹場」，以「Edge AI Agent：高科技製造的超自動化與資安實戰」為主題，聚焦 AI 如何在工廠設備端即時執行決策，邀請高通、緯謙科技、戴爾科技和先構技研等產業專家，從晶片、IT 整合服務、基礎架構與產線視覺設備，解釋為何 AI 模型愈來愈強，工廠裡的 AI 卻常卡在 PoC，或是每做一個新應用就得從頭來過，AI 判斷出不良品，產線卻動不了的根本原因，並提出如何建構從邊緣推論",
+        "source": "TechOrange"
+      },
+      {
+        "title": "避開美國、劍指中國：南韓砸 34.9 億美元自研前沿 AI，規模衝首輪 9 倍",
+        "link": "https://techorange.com/2026/10/07/south-korea-bets-billion-building-homegrown-frontier-ai-model-rival-chinas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 12:09:40 +0800",
+        "description": "《The Decoder》報導，南韓政府計畫透過政府支持的股權投資，投入 4.7 兆韓元（約 34.9 億美元），打造南韓自主研發的前沿 AI 模型，目標是讓本土 AI 能力追上中國最頂尖的開源模型。這筆資金已納入南韓政府提出的 2027 年度預算案，但仍有待國會批准；另一項資金計畫則將支持韓國自行開發的 AI 模型在全國經濟體系中的採用。 34.9 億美元押注自研前沿 AI，資金規模約為首輪 9 倍 《Reuters》指出，南韓這項新的前沿 AI 計畫預計從 2027 年 3 月正式啟動。南韓",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美中以外最強 AI 模型出現了，Mistral Large 4 靠 4,000 顆 Blackwell 怎麼追上來？",
+        "link": "https://techorange.com/2026/10/07/mistral-large-4-le-chonk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 11:40:23 +0800",
+        "description": "幾個月前，網路社群還在開玩笑，猜法國 AI 新創 Mistral 會不會做出一款巨大模型。當時一個虛構模型「Le Chaton Fat」在社群平台 X、Reddit 流傳，其中法文「Le Chaton」意指小貓，因此網友不只替它編出超過 30 兆參數等誇張規格，還惡搞它每秒可以「喵」1,000 次。Mistral 執行長 Arthur Mensch 當時也加入玩梗。 如今，這個玩笑真的成了一部分現實。Mistral 10/6 推出新一代旗艦模型 Mistral Large 4（ML4），內部代號",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【AI 已能建議解雇員工】人資體系跟不上，企業需要「機器人關係」部門接住員工申訴",
+        "link": "https://techorange.com/2026/10/07/robot-relations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 10:38:55 +0800",
+        "description": "當 AI 開始參與排班、評估績效，甚至影響裁員名單，員工的不滿該向誰申訴，正成為企業必須面對的新問題。 美國的政策研究機構布魯金斯研究院（Brookings Institution）資深研究員 Darrell M. West，在 7 月發表評論指出，AI 時代的員工關切將不再以同事為中心，而是轉向與 AI 代理人、協作機器人（cobot），以及大型語言模型之間的互動。其中，協作機器人在製造現場等實體環境中，可能成為員工的核心工作夥伴。 West 認為，只要想像人資部門平時要處理多少同事間的摩擦，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【333 Robots Community Meetup】台灣開發者用 LeRobot 玩什麼？從機械手臂一路玩到移動抓取",
+        "link": "https://techorange.com/2026/10/07/333-robots-community-meetup-september/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 07 Oct 2026 09:55:51 +0800",
+        "description": "從低成本機械手臂，到移動機器人、人形機器人，再到視覺－語言－動作（VLA）模型，Hugging Face 的 LeRobot 近年持續擴大支援範圍，並以統一資料格式串起資料蒐集、模型訓練與部署。這套開源生態也開始被台灣開發者拿來實驗，從單一手臂往移動、視覺與語音等能力延伸。 這些實作也是 9/16「333 Robots Community Meetup」的焦點，該活動由鴻海科技集團、科技報橘與三創育成共同舉辦，每月透過技術分享、實機展示與交流，聚集機器人開發者、研究者與愛好者。9 月場聚焦 Le",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
         "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -212,41 +233,6 @@
         "link": "https://techorange.com/2026/10/06/musk-tsmc-chip-fab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 06 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊馬斯克證實與台積電洽談，晶圓廠合作仍未定案 馬斯克（Elon Musk）證實，旗下晶片計畫 Terafab 與台積電（TSMC）的合作仍在討論。據消息人士指出，台積電正評估協助 Terafab 營運德州新晶圓廠的可能性。馬斯克在社群平台 X 回應相關消息時表示，目前只是討論，但可能會有進展。現階段可確認的是雙方正在商談，合作模式與具體安排仍待說明。 另外，馬斯克表示，將把太空探索科技公司（SpaceX）旗下 AI 部門的名稱，從 SpaceXA",
-        "source": "TechOrange"
-      },
-      {
-        "title": "川崎人形機器人準備導入日本自研 AI，日本 Physical AI 正從算力走向實體應用",
-        "link": "https://techorange.com/2026/10/05/kawasaki-kaleido-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 16:00:08 +0800",
-        "description": "日本是全球工業機器人重鎮，川崎重工也已投入人形機器人研發超過 10 年，但進入 Physical AI（實體 AI）時代，光有機器人硬體與控制技術還不夠。川崎現在準備替自家人形機器人 Kaleido 接上一顆由日本自己打造的 AI「大腦」。 《日本經濟新聞》報導，川崎計畫導入 AI 公司 Noetra 開發中的 Physical AI，最快 2030 年投入工廠等實際場域。初期仍會搭配遠端操作，再隨 AI 能力提升，逐步擴大機器人自行辨識環境、判斷並完成工作的範圍。 川崎其實早已規劃 Kalei",
-        "source": "TechOrange"
-      },
-      {
-        "title": "科技業職缺逾 28 萬、裁員砍半：AI 沒消滅工作，而是改寫了徵才名單",
-        "link": "https://techorange.com/2026/10/05/tech-job-rise-ai-fuels-hardware-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 15:53:56 +0800",
-        "description": "AI 原本被認為可能大幅消滅科技業工作，但最新職缺數據顯示，科技公司的招聘需求並未全面萎縮，職缺數量較年初明顯增加。其中，硬體工程師需求更在今年明顯成長，顯示 AI 帶動的不只是軟體開發，也正在推升晶片、伺服器、機器人與資料中心等實體基礎建設的人才需求。 《Business Insider》報導，根據招聘平台 TrueUp 的最新數據，科技公司的職缺數量正在增加。TrueUp 追蹤超過 9,000 家科技公司，目前統計的新創公司與大型科技企業共有超過 28 萬個科技職缺，較 2026 年初大幅增",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Robotaxi 開得更晚、FSD 前進台灣，Tesla 純視覺路線面臨哪些新考驗？",
-        "link": "https://techorange.com/2026/10/05/tesla-robotaxi-austin/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 12:48:32 +0800",
-        "description": "電動車大廠 Tesla 正把旗下無人計程車服務 Robotaxi 往更晚的夜間延伸，但執行長馬斯克最近提到的一個例子，也讓 Tesla 長年選擇的自駕技術路線再次受到關注。 Tesla 近日將美國德州 Austin 的 Robotaxi 無人計程車服務時間，從晚上 10 點延長至 11 點。馬斯克隨後表示，目前團隊仍在處理夜間寵物辨識問題，甚至具體舉例，要確保車輛能看見「黑暗中灰色柏油路上的灰色小貓」。《Electrek》據此將問題指向 Tesla 的純視覺路線，認為 LiDAR 能為這類低照度",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美中 AI 差距縮至 3%？彭博研究：中國憑「高效率與低成本」逼近美國領先優勢",
-        "link": "https://techorange.com/2026/10/05/ai-china-narrows-deepseek-nvidia-bloomberg-intelligence/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 11:25:39 +0800",
-        "description": "美國 AI 業者與中國業者之間的性能差距，近幾個月快速縮小至歷來最低水準。彭博行業研究（Bloomberg Intelligence，BI）指出，在中國 AI 實驗室 DeepSeek 等業者持續追趕下，美國在 AI 技術上的領先優勢正面臨挑戰。 中國 AI 靠效率追趕：部分模型以五分之一成本處理多數工程任務 BI 資深分析師 Robert Lea 在報告中指出，DeepSeek 於 9 月推出 V4.1 Flash 後，中國頂尖 AI 模型與美國競爭對手在基準測試上的性能差距已縮小至約 3%。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【用資安思維做 AI 治理】78% 員工自行使用未核准 AI，企業可比照資安管控分層授權",
-        "link": "https://techorange.com/2026/10/05/employees-are-trusting-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 05 Oct 2026 10:36:15 +0800",
-        "description": "員工自行使用公司從未審核過的 AI 工具，這種情況在中小企業裡遠比管理層想像的普遍。美國雲端軟體經銷平台 Pax8 近期一項研究發現，約 78% 員工正在使用雇主未核准的 AI 工具。 這類在 IT 部門視線之外使用的 AI 工具被稱為「影子 AI」（Shadow AI），牽涉的不只是工作效率，更關乎資料安全、客戶信任與企業治理。 90% 中小企業已用 AI，僅 23% 訂有書面政策 從整體導入情況來看，AI 已大規模進入中小企業。Pax8 另一份《2026 年第 2 季中小企業 AI 脈動報告",
         "source": "TechOrange"
       }
     ],
@@ -394,6 +380,13 @@
     ],
     "en_tech": [
       {
+        "title": "Spotify expands audiobooks to over 180 markets",
+        "link": "https://techcrunch.com/2026/10/07/spotify-expands-audiobooks-to-over-180-markets/",
+        "pubDate": "Wed, 07 Oct 2026 07:00:00 +0000",
+        "description": "Spotify will make 350,000 titles available in over 120 languages for this expansion",
+        "source": "TechCrunch"
+      },
+      {
         "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
         "link": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
         "pubDate": "Tue, 06 Oct 2026 22:55:39 +0000",
@@ -492,13 +485,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Vinod Khosla believes ex-DeepMind engineer’s Wajo will win agent market on trust",
-        "link": "https://techcrunch.com/2026/10/06/vinod-khosla-believes-ex-deepmind-engineers-wajo-will-win-agent-market-on-trust/",
-        "pubDate": "Tue, 06 Oct 2026 15:15:00 +0000",
-        "description": "Wajo's Fo agent can hire humans to complete a task.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "OpenAI drops another batch of mathematical breakthroughs",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1005004/openai-math-release-github",
         "pubDate": "2026-10-06T19:26:38-04:00",
@@ -506,10 +492,10 @@
         "source": "TheVerge"
       },
       {
-        "title": "Xbox has secured exclusive GTA 6 streaming rights",
+        "title": "Xbox has secured GTA 6 streaming rights",
         "link": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
         "pubDate": "2026-10-06T18:12:27-04:00",
-        "description": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, X",
+        "description": "Xbox CEO Asha Sharma told employees that Microsoft is getting ready to do something around Grand Theft Auto VI that \"no other platform holder is doing\" during an employee all-hands this morning. According to sources familiar with Microsoft's plans, S",
         "source": "TheVerge"
       },
       {
@@ -556,6 +542,16 @@
         "products": "Google Chrome"
       },
       {
+        "title": "Android Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261007",
+        "pubDate": "Wed, 07 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Android"
+      },
+      {
         "title": "Apache Tomcat Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20260929",
         "pubDate": "Tue, 29 Sep 2026 11:00:00 +0800",
@@ -574,26 +570,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Apple Products Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "WordPress Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/wordpress-remote-code-execution-vulnerability_20260924",
-        "pubDate": "Thu, 24 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "WordPress Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "Citrix Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20260928",
-        "pubDate": "Mon, 28 Sep 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Citrix Products"
       },
       {
         "title": "Microsoft Edge Multiple Vulnerabilities",
