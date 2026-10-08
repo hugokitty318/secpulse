@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-08T13:21:20.215238Z",
+  "ts": "2026-10-08T19:25:19.081422Z",
   "tabs": {
     "cn_sec": [
       {
@@ -10,7 +10,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國DARPA推動軍用安全通訊App漏洞研究，Theori旗下Xint將以AI全面分析通訊程式攻擊面",
+        "title": "美國DARPA推動安全通訊App漏洞研究，Theori旗下Xint將以AI分析軍用通訊程式攻擊面",
         "link": "https://www.ithome.com.tw/news/179545",
         "pubDate": "2026-10-08 17:35",
         "description": "美國DARPA推動ASEMA計畫，希望改善安全通訊應用程式在加密機制之外仍可能存在的攻擊面，如今選中資安公司Xint參與研究。Xint將利用AI分析軍方使用的通訊App，涵蓋原始碼、執行環境與編譯後二進位檔，找出潛在安全弱點",
@@ -294,46 +294,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
-        "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
-        "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530",
-        "description": "The 2026 findings are not just a year-over-year shift. They mark the latest point in a five-year arc where resilience, AI governance, human risk, and board scrutiny are converging inside the systems where work actually happens.\n\nFor years, the enterp",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "FBI Warns FortiBleed Remains Active After Amassing 86,644 Fortinet Device Credentials",
-        "link": "https://thehackernews.com/2026/10/fbi-warns-fortibleed-remains-active.html",
-        "pubDate": "Wed, 07 Oct 2026 17:26:56 +0530",
-        "description": "The U.S. Federal Bureau of Investigation (FBI) and Secret Service (USSS) on Tuesday warned that the FortiBleed credential harvesting campaign remains an active threat aimed at internet-facing Fortinet FortiGate firewalls and secure socket layer (SSL)",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Atlassian Data Center Flaw Draws Exploitation Attempts Within Two Hours of Public Details",
-        "link": "https://thehackernews.com/2026/10/atlassian-data-center-flaw-draws.html",
-        "pubDate": "Wed, 07 Oct 2026 17:19:26 +0530",
-        "description": "Threat actors have begun to exploit a newly disclosed critical security flaw impacting Atlassian Data Center products that could allow access to sensitive files under certain conditions.\n\nThe arbitrary file access flaw, tracked as CVE-2026-21589 (CVS",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "What Is Agentic Pentesting? What It Proves, and Where It Stops.",
-        "link": "https://thehackernews.com/2026/10/what-is-agentic-pentesting-what-it.html",
-        "pubDate": "Wed, 07 Oct 2026 17:12:24 +0530",
-        "description": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promis",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers hijack Google domains after breaching ccTLD registries",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
         "pubDate": "Wed, 07 Oct 2026 16:50:13 -0400",
         "description": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
-        "link": "https://thehackernews.com/2026/10/anthropic-expands-claude-access-for.html",
-        "pubDate": "Wed, 07 Oct 2026 13:37:38 +0530",
-        "description": "Anthropic on Tuesday said it's expanding a program that allows vetted cybersecurity professionals to test its advanced artificial intelligence (AI) models with reduced safeguards and blocking classifiers, as the company claimed its Project Glasswing ",
-        "source": "TheHackerNews"
       },
       {
         "title": "Microsoft Outlook to block MSIX attachments starting November",
@@ -357,180 +322,215 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers exploit critical Atlassian flaw after public PoC release",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-atlassian-flaw-after-public-poc-release/",
-        "pubDate": "Wed, 07 Oct 2026 08:49:01 -0400",
-        "description": "A critical vulnerability (CVE-2026-21589) affecting multiple Atlassian product families, including Jira, Confluence, and Bitbucket, is being exploited in attacks that do not require authentication. [...]",
+        "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
+        "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
+        "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530",
+        "description": "The crooks have trust problems of their own. One ransomware affiliate decided to keep the profits for himself. Elsewhere, an attacker left a server exposed, complete with tools and traces of an intrusion. Apparently, keeping things secure is a proble",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
+        "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
+        "pubDate": "Thu, 08 Oct 2026 21:15:56 +0530",
+        "description": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, bas",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
+        "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
+        "pubDate": "Thu, 08 Oct 2026 20:56:56 +0530",
+        "description": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainia",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
+        "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
+        "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Inte",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
+        "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
+        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530",
+        "description": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phis",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Low-cost Android phones ship with residential proxy malware",
+        "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
+        "pubDate": "Thu, 08 Oct 2026 15:20:33 -0400",
+        "description": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residen",
         "source": "BleepingComputer"
       },
       {
-        "title": "SonicWall warns of max severity SSRF flaw in SMA1000 gateways",
-        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-max-severity-ssrf-flaw-in-sma1000-gateways/",
-        "pubDate": "Wed, 07 Oct 2026 07:37:07 -0400",
-        "description": "SonicWall has released hotfixes to address a maximum-severity server-side request forgery (SSRF) flaw in SMA1000 series appliances. [...]",
-        "source": "BleepingComputer"
+        "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
+        "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
+        "pubDate": "Thu, 08 Oct 2026 15:16:32 +0530",
+        "description": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The extensions masquerade as wallet portals, desktop utilities, and",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Musician sent to prison for $10 million streaming fraud using AI bots",
-        "link": "https://www.bleepingcomputer.com/news/security/musician-gets-18-months-in-prison-for-10-million-streaming-fraud-using-ai-bots/",
-        "pubDate": "Wed, 07 Oct 2026 06:35:15 -0400",
-        "description": "A North Carolina musician was sentenced to 18 months in prison for collecting more than $10 million in royalties from Spotify, Apple Music, Amazon Music, and YouTube Music in a massive streaming royalty fraud scheme. [...]",
-        "source": "BleepingComputer"
+        "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
+        "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
+        "pubDate": "Thu, 08 Oct 2026 13:12:04 +0530",
+        "description": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFN",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Advantest confirms personal information stolen in ransomware attack",
-        "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
-        "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400",
-        "description": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
-        "source": "BleepingComputer"
+        "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
+        "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
+        "pubDate": "Thu, 08 Oct 2026 13:11:44 +0530",
+        "description": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary to",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
-        "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
-        "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400",
-        "description": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
+        "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
+        "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
+        "pubDate": "Thu, 08 Oct 2026 13:10:55 -0400",
+        "description": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
         "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
-        "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
-        "pubDate": "Wed, 07 Oct 2026 23:36:57 +0000",
-        "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
+        "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
+        "pubDate": "Thu, 08 Oct 2026 18:30:00 +0000",
+        "description": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
         "source": "TechCrunch"
       },
       {
-        "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
-        "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
-        "pubDate": "Wed, 07 Oct 2026 22:59:16 +0000",
-        "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
+        "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
+        "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
-        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-        "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
-        "description": "The developer of Hermes Agent raised a $90 million Series B.",
+        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
+        "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
+        "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
-        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
-        "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
-        "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
+        "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
+        "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
+        "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
-        "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
-        "pubDate": "Wed, 07 Oct 2026 18:30:57 +0000",
-        "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+        "title": "Google brings agentic AI to Gemini, starting with businesses",
+        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
+        "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
+        "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email addr",
         "source": "TechCrunch"
       },
       {
-        "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
-        "pubDate": "Wed, 07 Oct 2026 18:15:28 +0000",
-        "description": "ChatGPT’s teen safeguards are meant to protect vulnerable users, but new testing found the chatbot continues encouraging engagement during crises and potentially encourages unhealthy relationships with the AI itself.",
+        "title": "Anthropic changes usage policy to ban model abuse and election interference",
+        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
+        "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
+        "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons s",
         "source": "TechCrunch"
       },
       {
-        "title": "X expands its ‘Gametime’ sports hub beyond the NFL, starting with MLB",
-        "link": "https://techcrunch.com/2026/10/07/x-expands-its-gametime-sports-hub-beyond-the-nfl-starting-with-mlb/",
-        "pubDate": "Wed, 07 Oct 2026 18:10:00 +0000",
-        "description": "X is turning its NFL-focused Gametime feature into a year-round sports destination, starting with MLB and with other professional leagues to follow.",
+        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
+        "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
+        "pubDate": "Thu, 08 Oct 2026 18:10:55 +0000",
+        "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
         "source": "TechCrunch"
       },
       {
-        "title": "ChatGPT is getting a lot more visual, with the launch of a new interface",
-        "link": "https://techcrunch.com/2026/10/07/chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface/",
-        "pubDate": "Wed, 07 Oct 2026 18:00:19 +0000",
-        "description": "OpenAI is launching a new user interface that will bring interactive visuals to ChatGPT.",
+        "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
+        "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
+        "pubDate": "Thu, 08 Oct 2026 16:45:00 +0000",
+        "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
         "source": "TechCrunch"
       },
       {
-        "title": "Greenairy is building smart plant towers to clean the air in your office",
-        "link": "https://techcrunch.com/2026/10/07/greenairy-is-building-smart-plant-towers-to-clean-the-air-in-your-office/",
-        "pubDate": "Wed, 07 Oct 2026 17:30:00 +0000",
-        "description": "As it turns out, the cure for stuffy, chemical-infused office air might be a tower of leafy greenery.",
+        "title": "Natura’s $99 smart ring puts AI agents on your finger",
+        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+        "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
         "source": "TechCrunch"
       },
       {
-        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-        "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
-        "pubDate": "Thu, 08 Oct 2026 13:20:32 +0000",
-        "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
+        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
+        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
+        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
+        "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
         "source": "TechCrunch"
       },
       {
-        "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
-        "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
-        "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
-        "description": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chanc",
+        "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
+        "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
+        "pubDate": "Thu, 08 Oct 2026 15:42:26 +0000",
+        "description": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
-        "link": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
-        "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
-        "description": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
+        "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
+        "link": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+        "pubDate": "Thu, 08 Oct 2026 15:12:59 +0000",
+        "description": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
         "source": "TechCrunch"
       },
       {
-        "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
-        "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
-        "pubDate": "Thu, 08 Oct 2026 12:53:39 +0000",
-        "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+        "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
+        "link": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
+        "pubDate": "Thu, 08 Oct 2026 15:06:17 +0000",
+        "description": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
         "source": "TechCrunch"
       },
       {
-        "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
-        "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
-        "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
-        "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
+        "title": "Asos confirms breach of customer data after hackers send rogue app notification",
+        "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
+        "pubDate": "Thu, 08 Oct 2026 15:01:15 +0000",
+        "description": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
         "source": "TechCrunch"
       },
       {
-        "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
-        "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
-        "pubDate": "Thu, 08 Oct 2026 06:14:11 +0000",
-        "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
+        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
+        "pubDate": "Thu, 08 Oct 2026 15:00:00 +0000",
+        "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
-        "link": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
-        "pubDate": "2026-10-08T09:00:00-04:00",
-        "description": "Amazon's Fire tablets are notable for being dirt cheap. While they're great for kids, they don't offer a premium Android tablet experience. The company's new $499 Alexa Tablet 12 Pro is an attempt to build a device someone might actually want to use.",
+        "title": "Paramount is making a Cyberpunk 2077 film",
+        "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
+        "pubDate": "2026-10-08T15:14:03-04:00",
+        "description": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But D",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon’s Alexa Tablets are coming for the iPad",
-        "link": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
-        "pubDate": "2026-10-08T09:00:00-04:00",
-        "description": "Amazon is launching a new lineup of tablets that bear almost no resemblance to any tablet Amazon has ever launched before. They're not even called Fire, the name Amazon has used for its tablets for the last 15 years. They're called Alexa Tablets, and",
+        "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
+        "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
+        "pubDate": "2026-10-08T14:48:36-04:00",
+        "description": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a ",
         "source": "TheVerge"
       },
       {
-        "title": "Joe Rogan and Spotify renew massive podcast deal",
-        "link": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
-        "pubDate": "2026-10-08T08:56:05-04:00",
-        "description": "Spotify has renewed its licensing agreement with Joe Rogan, whose podcast remains the number one show on the platform - and in the world. As reported by The Wall Street Journal, the multi-year agreement is valued at around $250 million, allowing new ",
+        "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
+        "link": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale",
+        "pubDate": "2026-10-08T14:48:11-04:00",
+        "description": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (us",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox is launching a new film and TV division",
-        "link": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
-        "pubDate": "2026-10-08T08:01:12-04:00",
-        "description": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox alread",
+        "title": "Forza Horizon 6 is being delayed on PS5 to January 2027",
+        "link": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
+        "pubDate": "2026-10-08T14:14:25-04:00",
+        "description": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to early next year, and Forza Horizon 6 is now officia",
         "source": "TheVerge"
       },
       {
-        "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
-        "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
-        "pubDate": "2026-10-08T07:30:00-04:00",
-        "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dup",
+        "title": "USA Today becomes the latest publisher to sue OpenAI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
+        "pubDate": "2026-10-08T13:58:33-04:00",
+        "description": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher ask",
         "source": "TheVerge"
       }
     ],
