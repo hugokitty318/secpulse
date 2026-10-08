@@ -1,12 +1,68 @@
 {
-  "ts": "2026-10-08T06:01:19.366228Z",
+  "ts": "2026-10-08T13:21:20.215238Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "【資安週報】1005~1008，臺灣2026上半年遭網路威脅影響的程度排名升至全球第4名",
+        "link": "https://www.ithome.com.tw/news/179528",
+        "pubDate": "2026-10-08 17:51",
+        "description": "回顧2026年10月第二週的資安動態，微軟最新數位防禦報告指出，2026年上半年臺灣遭各類網路威脅影響程度排名全球第4，僅次於美國、以色列、烏克蘭而備受關注，近期日本企業資安事故消息不斷，南韓金融業也接連傳出網路攻擊與個資外洩，反映，東亞地區威脅情勢升溫",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國DARPA推動軍用安全通訊App漏洞研究，Theori旗下Xint將以AI全面分析通訊程式攻擊面",
+        "link": "https://www.ithome.com.tw/news/179545",
+        "pubDate": "2026-10-08 17:35",
+        "description": "美國DARPA推動ASEMA計畫，希望改善安全通訊應用程式在加密機制之外仍可能存在的攻擊面，如今選中資安公司Xint參與研究。Xint將利用AI分析軍方使用的通訊App，涵蓋原始碼、執行環境與編譯後二進位檔，找出潛在安全弱點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "辦公室套件LibreOffice與OpenOffice存在漏洞，惡意試算表恐繞過巨集警示並執行程式碼",
+        "link": "https://www.ithome.com.tw/news/179544",
+        "pubDate": "2026-10-08 17:17",
+        "description": "資安團隊V12揭露同時影響辦公室套件LibreOffice與OpenOffice的資安漏洞，並指出文件基金會已在最新版本LibreOffice完成修補，但OpenOffice則預計在即將推出的新版才會處理，OpenOffice用戶應留意Apache基金會相關公告，以便第一時間套用新版修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "FBI警告FortiBleed攻擊活動持續延燒",
+        "link": "https://www.ithome.com.tw/news/179526",
+        "pubDate": "2026-10-08 15:54",
+        "description": "美國聯邦調查局（FBI）與特勤局（USSS）警告，影響範圍遍及194國的大規模憑證外洩事故FortiBleed仍持續進行，且有受害組織的帳號遭竄改而無法存取設備的情形",
+        "source": "iThome資安"
+      },
+      {
+        "title": "行政院通過中小微企業轉型升級條例修法，數位、AI、資安與淨零投資納入抵減，門檻降至25萬元",
+        "link": "https://www.ithome.com.tw/news/179523",
+        "pubDate": "2026-10-08 15:49",
+        "description": "行政院通過修正草案送立法院審議，研發投資抵減率提高至20%，轉型投資範圍涵蓋硬體、軟體、技術與服務",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月8日，龔化中上任兩個月揭「國家資安防護2.0」，明年4月AI紅隊先攻政府機關",
+        "link": "https://www.ithome.com.tw/news/179522",
+        "pubDate": "2026-10-08 15:00",
+        "description": "資安院院長龔化中上任屆滿兩個月，首度公開「國家資安防護2.0」藍圖，主張以AI對抗AI，規畫推動四項重點工作，搭配六大中心的時程與數字，勾勒出臺灣資安防線下一版的樣貌，其中最受矚目的是一場利用AI進行的攻防演練，預計明年四月登場。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Atlassian重大漏洞已出現嘗試利用活動",
+        "link": "https://www.ithome.com.tw/news/179521",
+        "pubDate": "2026-10-08 14:45",
+        "description": "資安公司Previdian、watchTowr警告，本週軟體開發廠商Atlassian公布的重大漏洞CVE-2026-21589已遭到利用，呼籲受影響系統的用戶應儘速套用更新程式因應",
+        "source": "iThome資安"
+      },
       {
         "title": "駭客組織ShinyHunters約旦成員被捕前曾勒索波音前子公司",
         "link": "https://www.ithome.com.tw/news/179516",
         "pubDate": "2026-10-08 12:50",
         "description": "KrebsOnSecurity追查揭露被捕成員背景與組織內部訊息，ShinyHunters疑已演變為可接手的網路犯罪品牌",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SonicWall修補SMA1000設備滿分伺服器請求偽造漏洞",
+        "link": "https://www.ithome.com.tw/news/179514",
+        "pubDate": "2026-10-08 12:06",
+        "description": "本週資安廠商SonicWall發布公告，指出旗下SMA1000設備存在重大等級的伺服器請求偽造漏洞CVE-2026-102255，CVSS嚴重程度評分達到滿分10分",
         "source": "iThome資安"
       },
       {
@@ -52,27 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "北約量子技術戰略走向實作，持續導入PQC並規畫量子安全通訊試驗",
-        "link": "https://www.ithome.com.tw/news/179448",
-        "pubDate": "2026-10-08 08:00",
-        "description": "北約推進量子安全通訊轉型，除了持續導入PQC標準，也規畫在作業網路實際測試及驗證成熟的PQC解決方案",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PKI成熟度模型2.0新增密碼學治理，納入PQC轉型與密碼學敏捷性",
-        "link": "https://www.ithome.com.tw/news/179465",
-        "pubDate": "2026-10-08 08:00",
-        "description": "PKI成熟度模型迎來2023年推出後首次版本更新。PKI聯盟在PKIMM 2.0新增密碼學類別，將演算法、金鑰、憑證及協定的使用情況納入治理，並要求組織預先規畫密碼學技術替換，以強化密碼學敏捷性，並為PQC轉型奠定基礎",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS發布PCI DSS架構指引，說明多帳號環境如何界定適用範圍",
-        "link": "https://www.ithome.com.tw/news/179478",
-        "pubDate": "2026-10-08 08:00",
-        "description": "企業在AWS多帳號環境導入PCI DSS，除了確認哪些帳號直接納入適用範圍，也要評估與範圍內環境連接或可能影響其安全的帳號。AWS新指引進一步說明如何界定不同帳號的PCI DSS適用範圍",
-        "source": "iThome資安"
-      },
-      {
         "title": "LLM加速及快取管理平臺LMCache多行程模式曝重大RCE漏洞",
         "link": "https://www.ithome.com.tw/news/179511",
         "pubDate": "2026-10-08  12:10:47",
@@ -80,67 +115,32 @@
         "source": "iThome"
       },
       {
-        "title": "ChatGPT回答不只文字，GPT-6開始動態組合互動介面",
-        "link": "https://www.ithome.com.tw/news/179503",
-        "pubDate": "2026-10-08  11:10:46",
-        "description": "OpenAI在ChatGPT加入智慧介面（Intelligent UI），GPT-6可依問題內容，把文字、圖片、圖表、按鈕及表單組成可直接操作的回應。使用者也能要求ChatGPT建立計算機、分帳工具或簡單遊戲，直接在對話中使用，不再只有文字回答。OpenAI在9月已先後推出GPT-6 Sol、Luna及GPT-6.1 Sol，在ChatGPT產品中先提供於Work與Codex，這次更新則把GPT-6帶進一般ChatGPT聊天介面。",
+        "title": "Google推出AI遊戲平臺Playground，文字指令即可建立、發布遊戲",
+        "link": "https://www.ithome.com.tw/news/179535",
+        "pubDate": "2026-10-08  05:10:50",
+        "description": "Google推出實驗性AI遊戲平臺Playground，使用者只要透過文字描述遊戲構想，就能建立可直接遊玩的遊戲，並以對話方式修改玩法、角色及場景，不需要自行撰寫程式碼。完成的作品可以透過連結分享，也能公開發布供其他玩家遊玩。Google計畫整合Unity Spark，讓使用者未來能製作更複雜的3D遊戲。",
         "source": "iThome"
       },
       {
-        "title": "Anthropic推出Claude Haiku 5.5，成本降低75%、首度支援推理強度控制",
-        "link": "https://www.ithome.com.tw/news/179505",
-        "pubDate": "2026-10-08  11:10:36",
-        "description": "Anthropic周三（10/7）推出新一代輕量級AI模型Claude Haiku 5.5，主打低成本、高速度及大量重複性工作負載。Anthropic表示，Haiku 5.5是該公司迄今速度最快、能力最強的Haiku系列模型，平均執行成本較前代降低75%，也是Haiku系列首款支援推理強度調整的模型。",
+        "title": "AI代理頂級網域.agent成競逐焦點，OpenAI、Google與Meta爭奪營運權",
+        "link": "https://www.ithome.com.tw/news/179525",
+        "pubDate": "2026-10-08  05:10:24",
+        "description": "網際網路名稱與數位位址分配機構（ICANN）公布2026年新一輪通用頂級網域申請名單，共有481個申請者提出1,615件申請，這是繼2012年後，睽違14年再度公布新一輪申請名單。AI相關名稱成為競爭焦點，OpenAI、Meta與Google都申請.agent，也就是「代理」相關頂級網域，OpenAI另申請.agi、.model及.mcp等名稱。",
         "source": "iThome"
       },
       {
-        "title": "OpenAI為AI代理越權存取澳洲政府網站致歉，支持建立重大事故強制通報制度",
-        "link": "https://www.ithome.com.tw/news/179501",
-        "pubDate": "2026-10-08  10:10:34",
-        "description": "OpenAI策略長Jason Kwon 10月6日出席澳洲國會人工智慧聯合特別委員會聽證會，就旗下模型未經授權存取澳洲政府網站及延遲通報事件",
+        "title": "從兩張衛星影像，看雲林如何改善農業勘災",
+        "link": "https://www.ithome.com.tw/news/179527",
+        "pubDate": "2026-10-08  03:10:34",
+        "description": "雲林縣是臺灣重要的農業生產基地，一旦颱風豪雨過境，農損救助申請案件動輒突破萬筆，基層公所人力卻遠遠不及案件增加的速度。\n面對案件暴增、山區交通不便及現勘安全風險，雲林縣審計室第一課審計黃珮如嘗試以衛星影像計算的植生指標，找出疑似災損熱區，為沿用多年的逐筆現場勘查制度尋找科技輔助方案。\n農業大縣的災損壓力，逐筆現勘模式面臨考驗\n雲林縣2024年度農業產值達948億元，占全國比重約一成六，肩負糧食安全的重責。農業產值愈高，遇上颱風豪雨造成的損失金額也相對驚人。",
         "source": "iThome"
       },
       {
-        "title": "Spotify有聲書服務擴展至180多個市場，臺灣年底前上線",
-        "link": "https://www.ithome.com.tw/news/179502",
-        "pubDate": "2026-10-08  10:10:20",
-        "description": "Spotify周三（10/7）在法蘭克福書展宣布，將把有聲書服務從現有的22個市場擴展至全球180多個市場，預計今年底前陸續上線，臺灣也在新增名單之中。擴張後，Spotify全球超過7.5億名使用者將可透過該平臺收聽或購買有聲書，新增市場預計提供超過35萬本有聲書，涵蓋120多種語言。",
+        "title": "Meta、Google與美國政府攜手Biohub，整合18億美元資源打造AI生物學資料庫",
+        "link": "https://www.ithome.com.tw/news/179520",
+        "pubDate": "2026-10-08  02:10:46",
+        "description": "美國非營利研究機構Biohub周三（10/7）宣布，與美國能源部（DOE）、國家衛生研究院（NIH），以及Google DeepMind、Meta等科技業者擴大合作，整合總值18億美元的資金、資料、運算資源與測量技術，建立可供AI模型訓練的開放生物學資料庫，希望藉此訓練能夠預測細胞反應的AI模型，加速疾病研究與新藥開發。",
         "source": "iThome"
-      },
-      {
-        "title": "Dell替AI代理補上企業資料脈絡，加入語意層與企業知識圖譜",
-        "link": "https://www.ithome.com.tw/news/179498",
-        "pubDate": "2026-10-08  10:10:17",
-        "description": "Dell將擴充Dell AI Data Platform，預計2027年上半年加入統一語意層、企業知識圖譜及知識代理，讓不同應用程式與AI代理能依照一致的資料定義與關聯取得企業資訊。官方強調，這三項功能及其處理的敏感資訊會留在企業自己的資料中心。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google全面開放SynthID Detector，支援跨業者AI內容辨識",
-        "link": "https://www.ithome.com.tw/news/179517",
-        "pubDate": "2026-10-08  01:10:53",
-        "description": "Google周三（10/7）宣布，正式向全球一般使用者開放英文版SynthID Detector，讓任何人都能上傳圖片、影片或音訊，檢查是否含有AI生成內容的數位浮水印。",
-        "source": "iThome"
-      },
-      {
-        "title": "金融機構接連爆發資料外洩案，韓國政府要求徹查",
-        "link": "https://www.ithome.com.tw/news/179497",
-        "pubDate": "2026-10-07 22:18",
-        "description": "韓國金融業近期接連發生資料外洩，受影響業者涵蓋銀行、儲蓄銀行及消費金融業者，韓國金融主管機關已要求金融業者全面檢查內外部資安系統",
-        "source": "iThome資安"
-      },
-      {
-        "title": "維基媒體揭露OpenAI代理未授權活動，大規模抓取與工具探測加重伺服器負擔",
-        "link": "https://www.ithome.com.tw/news/179490",
-        "pubDate": "2026-10-07 20:07",
-        "description": "維基媒體調查發現疑似OpenAI代理未經核准編輯維基網站、探測Etherpad並大量抓取資料，部分流量可能影響Wikidata服務，基金會也要求AI業者承擔更多代理監控與網站維運責任",
-        "source": "iThome資安"
-      },
-      {
-        "title": "大映科技運用AI加速IoT網路封包分析，處理500MB資料量所需時間可從4小時縮至10幾分鐘",
-        "link": "https://www.ithome.com.tw/news/179468",
-        "pubDate": "2026-10-07 19:15",
-        "description": "企業採購物聯網設備往往難以掌握設備使用哪些通訊元件與實際的通訊行為，傳統仰賴人工判讀PCAP封包的方式，面臨效率與經驗傳承上的限制，大映科技表示，ANMAS透過AI協助分析大量網路封包，一份500MB封包的分析時間可由約4小時縮短至10至15分鐘，並藉由RAG與模型微調持續累積企業自身的分析經驗",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -173,31 +173,31 @@
         "source": "TechOrange"
       },
       {
-        "title": "避開美國、劍指中國：南韓砸 34.9 億美元自研前沿 AI，規模衝首輪 9 倍",
-        "link": "https://techorange.com/2026/10/07/south-korea-bets-billion-building-homegrown-frontier-ai-model-rival-chinas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 12:09:40 +0800",
-        "description": "《The Decoder》報導，南韓政府計畫透過政府支持的股權投資，投入 4.7 兆韓元（約 34.9 億美元），打造南韓自主研發的前沿 AI 模型，目標是讓本土 AI 能力追上中國最頂尖的開源模型。這筆資金已納入南韓政府提出的 2027 年度預算案，但仍有待國會批准；另一項資金計畫則將支持韓國自行開發的 AI 模型在全國經濟體系中的採用。 34.9 億美元押注自研前沿 AI，資金規模約為首輪 9 倍 《Reuters》指出，南韓這項新的前沿 AI 計畫預計從 2027 年 3 月正式啟動。南韓",
+        "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
+        "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 17:03:12 +0800",
+        "description": "AI 模型的 API 價格持續下降，企業選擇較便宜的模型，就一定能降低成本嗎？史丹佛大學等機構一項研究發現，在 336 組 AI 模型成本比較中，約 32% 出現「價格逆轉」（Price Reversal）現象，也就是 API 單價較低的模型，執行相同測試任務反而更花錢。隨著 AI Agent（AI 代理）開始承接更多複雜工作，這項發現也對企業過去依據模型單價比較成本的方式提出挑戰。 API 單價便宜 80%，實際成本卻高出 38% 這項由史丹佛大學、卡內基美隆大學、加州大學柏克萊分校及 Mic",
         "source": "TechOrange"
       },
       {
-        "title": "美中以外最強 AI 模型出現了，Mistral Large 4 靠 4,000 顆 Blackwell 怎麼追上來？",
-        "link": "https://techorange.com/2026/10/07/mistral-large-4-le-chonk/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 11:40:23 +0800",
-        "description": "幾個月前，網路社群還在開玩笑，猜法國 AI 新創 Mistral 會不會做出一款巨大模型。當時一個虛構模型「Le Chaton Fat」在社群平台 X、Reddit 流傳，其中法文「Le Chaton」意指小貓，因此網友不只替它編出超過 30 兆參數等誇張規格，還惡搞它每秒可以「喵」1,000 次。Mistral 執行長 Arthur Mensch 當時也加入玩梗。 如今，這個玩笑真的成了一部分現實。Mistral 10/6 推出新一代旗艦模型 Mistral Large 4（ML4），內部代號",
+        "title": "AI 落地的關鍵，在於找到合適的 Use Case：高通攜手生態系共創 Edge AI 加速產業部署",
+        "link": "https://techorange.com/2026/10/08/edge-ai-ecosystem-use-case/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 16:44:19 +0800",
+        "description": "TechOrange 科技報橘與美國高通公司（Qualcomm）於 9 月 17 日在新竹共同舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。 科技報橘社長戴季全致詞時表示，台灣企業正進入全球佈局與國際經營的新階段，研發與創新服務更不可或缺。他觀察到，台灣廠商彼此之間正從單純的上下游供應鏈，轉向奠基於共同技術基礎上合作、研發與開拓市場的「生態系」模式，這也是 Edge AI 從技術驗證走向產業部署的重要基礎。 高通行銷行政經理朱俊翰",
         "source": "TechOrange"
       },
       {
-        "title": "【AI 已能建議解雇員工】人資體系跟不上，企業需要「機器人關係」部門接住員工申訴",
-        "link": "https://techorange.com/2026/10/07/robot-relations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 10:38:55 +0800",
-        "description": "當 AI 開始參與排班、評估績效，甚至影響裁員名單，員工的不滿該向誰申訴，正成為企業必須面對的新問題。 美國的政策研究機構布魯金斯研究院（Brookings Institution）資深研究員 Darrell M. West，在 7 月發表評論指出，AI 時代的員工關切將不再以同事為中心，而是轉向與 AI 代理人、協作機器人（cobot），以及大型語言模型之間的互動。其中，協作機器人在製造現場等實體環境中，可能成為員工的核心工作夥伴。 West 認為，只要想像人資部門平時要處理多少同事間的摩擦，",
+        "title": "電動車電池有望變小、變便宜？Honda 開發「邊開邊充」道路，2027 年啟動測試",
+        "link": "https://techorange.com/2026/10/08/honda-electrification-2027-releases-e20/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 16:01:10 +0800",
+        "description": "Honda 最快將從 2027 會計年度起，參與日本高速公路上的行駛中無線充電實證測試，這套內建於道路中的系統，可讓電動車以最高每小時 120 公里的速度行駛時，仍獲得最高 150 kW 的充電功率。 道路直接幫電動車充電，電池有望更小、更輕 《The Next Web》報導，這套系統由 Honda 研發部門與建設公司大成建設（Taisei）共同開發，第一階段測試將以商用車為主。根據《日經亞洲》，這項實證由日本國營道路營運商 NEXCO 東日本主導，預計在東京近郊千葉縣館山自動車道約 300 公",
         "source": "TechOrange"
       },
       {
-        "title": "【333 Robots Community Meetup】台灣開發者用 LeRobot 玩什麼？從機械手臂一路玩到移動抓取",
-        "link": "https://techorange.com/2026/10/07/333-robots-community-meetup-september/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 09:55:51 +0800",
-        "description": "從低成本機械手臂，到移動機器人、人形機器人，再到視覺－語言－動作（VLA）模型，Hugging Face 的 LeRobot 近年持續擴大支援範圍，並以統一資料格式串起資料蒐集、模型訓練與部署。這套開源生態也開始被台灣開發者拿來實驗，從單一手臂往移動、視覺與語音等能力延伸。 這些實作也是 9/16「333 Robots Community Meetup」的焦點，該活動由鴻海科技集團、科技報橘與三創育成共同舉辦，每月透過技術分享、實機展示與交流，聚集機器人開發者、研究者與愛好者。9 月場聚焦 Le",
+        "title": "CloudMile 萬里雲 2026 AI MASTERS 登場，攜手 OpenAI、台達電子從 AI 試驗走向可衡量的回報",
+        "link": "https://techorange.com/2026/10/08/cloudmile-2026-ai-masters-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 14:15:14 +0800",
+        "description": "隨著 AI Agent 逐步走入企業核心營運，如何控管風險、管理成本並創造實際效益，成為企業擴大應用 AI 的關鍵課題。亞洲領先人工智慧科技集團 CloudMile 萬里雲與《天下》今（6）日共同舉辦「2026 AI MASTERS：AI 大師論壇暨企業實戰 Demo Day」，邀集 OpenAI、台達電子、威摩科技及奧義智慧等企業代表，從全球 AI 趨勢、風險與成本治理到企業實戰成果，探討 AI 規模化落地的關鍵。 CloudMile 萬里雲於會中發表旗下 AI 驅動 FinOps 平台 Lu",
         "source": "TechOrange"
       },
       {
@@ -208,7 +208,7 @@
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 推 Haiku 5.5，電腦操作測試超車 GPT-6 Luna，小模型能接手哪些 Agent 工作？",
+        "title": "AI 小模型戰升溫，Anthropic 推 Haiku 5.5，價格更低、Agent 能力卻更強？",
         "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 08 Oct 2026 11:16:22 +0800",
         "description": "AI 小型模型的競爭，正從價格延伸到能承接多少實際工作。Anthropic 在美國時間 10/7 推出新 AI 模型 Claude Haiku 5.5，API 價格最高調降 90%，電腦操作測試表現更大幅超越前代，甚至領先 OpenAI GPT-6 Luna。隨著小型模型逐漸具備執行多步驟任務的能力，Haiku 5.5 究竟適合接手哪些工作？ 電腦操作成功率躍升，小模型能做的事越來越多 Anthropic 將 Haiku 5.5 定位為適合大量、高頻且對成本敏感任務的小型模型。除了摘要、資料分類",
@@ -336,13 +336,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "100+ Compromised Websites Use Fake Cloudflare Checks to Deliver LunexStealer",
-        "link": "https://thehackernews.com/2026/10/100-compromised-websites-use-fake.html",
-        "pubDate": "Wed, 07 Oct 2026 12:27:54 +0530",
-        "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has identified more than 100 compromised websites that have been injected with malicious JavaScript to serve an information-stealing malware called LunexStealer (aka Psychedelic Stealer).\n\nThe",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Microsoft Outlook to block MSIX attachments starting November",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
         "pubDate": "Wed, 07 Oct 2026 11:44:22 -0400",
@@ -389,6 +382,13 @@
         "link": "https://www.bleepingcomputer.com/news/security/advantest-confirms-personal-information-stolen-in-ransomware-attack/",
         "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400",
         "description": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
+        "pubDate": "Tue, 06 Oct 2026 17:00:27 -0400",
+        "description": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -457,80 +457,80 @@
         "source": "TechCrunch"
       },
       {
-        "title": "CIA officer admits to creating fake top secret government program to steal over $190M, including gold bars",
-        "link": "https://techcrunch.com/2026/10/07/cia-officer-admits-to-creating-fake-top-secret-government-program-to-steal-over-190-million-including-gold-bars/",
-        "pubDate": "Wed, 07 Oct 2026 17:04:46 +0000",
-        "description": "CIA officer David Rush, who worked on highly sensitive intelligence programs, reached a plea deal with U.S. prosecutors after he was caught siphoning money and gold with a fake government contract.",
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "link": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+        "pubDate": "Thu, 08 Oct 2026 13:20:32 +0000",
+        "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund and others also participated.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-        "link": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
-        "pubDate": "Wed, 07 Oct 2026 16:53:46 +0000",
-        "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+        "title": "Last call to volunteer at TechCrunch Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/08/last-call-to-volunteer-at-techcrunch-founder-summit-2026/",
+        "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+        "description": "TechCrunch Founder Summit is gearing up to return to Boston on November 4! We’re doing a last call for exceptional volunteers to join us in bringing this event to life. If you’ve ever wondered about the inner workings of tech events, now’s your chanc",
         "source": "TechCrunch"
       },
       {
-        "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
-        "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
-        "pubDate": "Wed, 07 Oct 2026 15:07:08 +0000",
-        "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+        "title": "Amazon unveils new Alexa tablets with Alexa+ and Google Play Store access",
+        "link": "https://techcrunch.com/2026/10/08/amazon-unveils-new-alexa-tablets-with-alexa-and-google-play-store-access/",
+        "pubDate": "Thu, 08 Oct 2026 13:00:00 +0000",
+        "description": "The lineup includes three models: Amazon Alexa Tablet 12 Pro, Amazon Alexa Tablet 11, and Amazon Alexa Tablet 8.",
         "source": "TechCrunch"
       },
       {
-        "title": "Bloom raises $3.6M to become the ‘Alibaba’ of American manufacturing",
-        "link": "https://techcrunch.com/2026/10/07/bloom-raises-3-6m-to-become-the-alibaba-of-american-manufacturing/",
-        "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
-        "description": "The Detroit startup has widened its scope beyond mobility to help drone and robotics companies find U.S.-based manufacturers, shippers, and more.",
+        "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+        "link": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+        "pubDate": "Thu, 08 Oct 2026 12:53:39 +0000",
+        "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
         "source": "TechCrunch"
       },
       {
-        "title": "SpaceX alumni nab $100M to rethink shipping with autonomous freight trains",
-        "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
-        "pubDate": "Wed, 07 Oct 2026 15:00:00 +0000",
-        "description": "Parallel Systems raised $100 million to scale production of its autonomous electric rail vehicle, which can shuttle thousands of pounds of freight up to 500 miles.",
+        "title": "Vesta raises $30M to bring swarms of agents to mortgage lenders",
+        "link": "https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/",
+        "pubDate": "Thu, 08 Oct 2026 12:00:00 +0000",
+        "description": "Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.",
         "source": "TechCrunch"
       },
       {
-        "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
-        "link": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next/",
-        "pubDate": "Wed, 07 Oct 2026 14:41:38 +0000",
-        "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+        "title": "India rejects Elon Musk’s claim of discrimination over Starlink launch",
+        "link": "https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+        "pubDate": "Thu, 08 Oct 2026 06:14:11 +0000",
+        "description": "Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.",
         "source": "TechCrunch"
       },
       {
-        "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-        "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-        "pubDate": "2026-10-07T18:01:00-04:00",
-        "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BM",
+        "title": "Hands-on with Amazon&#8217;s Alexa Tablet 12 Pro and its wild new matte display",
+        "link": "https://www.theverge.com/tech/1007473/amazon-alexa-tablet-12-pro-nanomatte-hands-on",
+        "pubDate": "2026-10-08T09:00:00-04:00",
+        "description": "Amazon's Fire tablets are notable for being dirt cheap. While they're great for kids, they don't offer a premium Android tablet experience. The company's new $499 Alexa Tablet 12 Pro is an attempt to build a device someone might actually want to use.",
         "source": "TheVerge"
       },
       {
-        "title": "Teenage Engineering’s CEO says it’ll stop making synths",
-        "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
-        "pubDate": "2026-10-07T17:19:54-04:00",
-        "description": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design fi",
+        "title": "Amazon’s Alexa Tablets are coming for the iPad",
+        "link": "https://www.theverge.com/tech/1007648/amazon-alexa-tablets-price-specs",
+        "pubDate": "2026-10-08T09:00:00-04:00",
+        "description": "Amazon is launching a new lineup of tablets that bear almost no resemblance to any tablet Amazon has ever launched before. They're not even called Fire, the name Amazon has used for its tablets for the last 15 years. They're called Alexa Tablets, and",
         "source": "TheVerge"
       },
       {
-        "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
-        "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
-        "pubDate": "2026-10-07T16:44:34-04:00",
-        "description": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight f",
+        "title": "Joe Rogan and Spotify renew massive podcast deal",
+        "link": "https://www.theverge.com/entertainment/1007725/joe-rogan-spotify-podcast-deal",
+        "pubDate": "2026-10-08T08:56:05-04:00",
+        "description": "Spotify has renewed its licensing agreement with Joe Rogan, whose podcast remains the number one show on the platform - and in the world. As reported by The Wall Street Journal, the multi-year agreement is valued at around $250 million, allowing new ",
         "source": "TheVerge"
       },
       {
-        "title": "We found some great October Prime Day deals under $50",
-        "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
-        "pubDate": "2026-10-07T16:30:00-04:00",
-        "description": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of ",
+        "title": "Xbox is launching a new film and TV division",
+        "link": "https://www.theverge.com/games/1007602/xbox-xp-division-film-tv-products-events",
+        "pubDate": "2026-10-08T08:01:12-04:00",
+        "description": "Xbox is launching a new division, called \"XP,\" that's dedicated to Xbox experiences that aren't video games, including films and TV adaptations, consumer products, live events, and partnerships with creators and brands. Different teams at Xbox alread",
         "source": "TheVerge"
       },
       {
-        "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
-        "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
-        "pubDate": "2026-10-07T15:27:39-04:00",
-        "description": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, wh",
+        "title": "Cupertino might be made for your mom, but it&#8217;s a good take on tech",
+        "link": "https://www.theverge.com/entertainment/1007492/cupertino-cbs-tv-review",
+        "pubDate": "2026-10-08T07:30:00-04:00",
+        "description": "Cupertino brings the tech backlash to the CBS procedural - an initially awkward combination, but with rewarding results. The show starts off just slightly unsure, but quickly figures out what to do with these strange times, creating fictionalized dup",
         "source": "TheVerge"
       }
     ],
