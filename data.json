@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-07T20:08:11.031706Z",
+  "ts": "2026-10-08T00:10:10.065780Z",
   "tabs": {
     "cn_sec": [
       {
@@ -215,17 +215,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "中國的開放模型對手來了？Reflection AI 推 Beam，憑什麼挑戰 GLM、Qwen",
-        "link": "https://techorange.com/2026/10/06/reflection-ai-beam/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 11:34:15 +0800",
-        "description": "中國開放模型快速崛起後，美國又多了一個試圖迎戰的新玩家。獲 NVIDIA、Sequoia 等投資的美國新創 Reflection AI，在美國時間 10/5 發表首款開放權重模型 Beam，主攻程式設計、推理與 AI Agent 任務。《Reuters》指出，Reflection 直接把中國 Z.ai 的 GLM-5.2、阿里巴巴 Qwen3.8-Max 等模型列為競爭標竿，希望提供中國開放模型之外的新選項。 Beam 想突出的不只是模型性能，還有推論效率。Reflection AI 表示，Be",
+        "title": "800+ AI 代理進駐 GE 家電廠房：員工開口就能問數據，欠單降 25%",
+        "link": "https://techorange.com/2026/10/08/800-ai-agents-now-run-ge-appliances-factory-floor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 06:19:00 +0800",
+        "description": "AI 代理正在進入製造現場，GE 家電已在製造、物流與供應鏈營運中部署超過 800 個 AI 代理，並以 Google Cloud 的 Gemini Enterprise 作為技術基礎，將 AI 整合進名為「Brilliant Factory」的製造數據平台。這套平台追蹤各工廠生產表現、零件履歷，以及不同產線與班次的工作活動，讓現場員工可以直接與生產數據互動，加快問題診斷與決策速度。 GE 家電數位科技副總裁暨數位長 Mandar Deo 表示，AI 現在已經成為公司日常工作方式的一部分。 自動",
         "source": "TechOrange"
       },
       {
-        "title": "監視攝影機成實體 AI 天然起點，新創 Lumana 教 AI 分辨監視畫面並壓低運算費用",
-        "link": "https://techorange.com/2026/10/06/lumana-ai-via-1-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 09:39:10 +0800",
-        "description": "Lumana 認為 AI 監視系統的願景，將是組合成一套實體 AI 代理，由監視攝影機觸發後續於現實世界中的各種行動，讓監視器影像畫面成為 AI 進軍實體世界最自然也最合理的起點。",
+        "title": "【科技早餐】SpaceX 傳籌 400 億美元買 NVIDIA 晶片，AMD 將加碼台灣投資",
+        "link": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 傳籌 400 億美元買 NVIDIA 晶片，阿波羅主導融資安排 根據《路透社》引述知情人士的報導，馬斯克旗下的太空探索科技（SpaceX）正尋求約 400 億美元融資，用於採購輝達（NVIDIA）AI 晶片，預計由阿波羅全球管理公司（Apollo Global Management）主導。資金結構包含約 100 億美元銀行貸款與 300 億美元投資級債券，交易預計 2027 年完成。阿波羅將協助向不同投資人出售債券，債券投資機構 ",
         "source": "TechOrange"
       }
     ],
@@ -259,6 +259,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Ransomware recovery CEO charged over secret ransom payments",
+        "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+        "pubDate": "Wed, 07 Oct 2026 19:04:37 -0400",
+        "description": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+        "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+        "pubDate": "Wed, 07 Oct 2026 17:28:54 -0400",
+        "description": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "The Sixth Voice of the CISO Data Shows Cyber Risk Has Moved Inside the Workflow",
         "link": "https://thehackernews.com/2026/10/the-sixth-voice-of-ciso-data-shows.html",
         "pubDate": "Wed, 07 Oct 2026 17:27:05 +0530",
@@ -285,6 +299,13 @@
         "pubDate": "Wed, 07 Oct 2026 17:12:24 +0530",
         "description": "If you’re evaluating an agentic pentesting solution right now, you’ve probably heard the same pitch more than once: point it at a target, and it discovers, validates, and exploits attack paths autonomously, the way a real attacker would.\n\nThat promis",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers hijack Google domains after breaching ccTLD registries",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+        "pubDate": "Wed, 07 Oct 2026 16:50:13 -0400",
+        "description": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
+        "source": "BleepingComputer"
       },
       {
         "title": "Anthropic Expands Claude Access for Vetted Cyber Teams as Glasswing Finds 129,000 Flaws",
@@ -348,30 +369,37 @@
         "pubDate": "Wed, 07 Oct 2026 06:27:52 -0400",
         "description": "Advantest Corporation is notifying affected individuals that a ransomware attack earlier this year exposed their personally identifiable data. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
-        "link": "https://thehackernews.com/2026/10/fake-chatgpt-gemini-and-claude-ad.html",
-        "pubDate": "Wed, 07 Oct 2026 00:08:55 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a \"human-operated phishing platform\" that impersonates advertising products for artificial intelligence (AI) chatbots like Google Gemini, Anthropic Claude, OpenAI ChatGPT, Perplexity, Meta Muse, and",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Linux Backdoors Impersonate Email Security Tools to Evade Detection in Korea and Taiwan",
-        "link": "https://thehackernews.com/2026/10/linux-backdoors-impersonate-email.html",
-        "pubDate": "Tue, 06 Oct 2026 23:54:25 +0530",
-        "description": "Linux backdoors targeting telecom and network appliances in South Korea and Taiwan have been disguising their traffic as email services and seemingly legitimate processes to blend in and evade detection.\n\nThreat actors are known to name their malicio",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
-        "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
-        "pubDate": "Tue, 06 Oct 2026 17:27:00 +0530",
-        "description": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro.\n\nThe attack ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Robot data startup Mecka AI nabs $60M from Sequoia",
+        "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+        "pubDate": "Wed, 07 Oct 2026 23:36:57 +0000",
+        "description": "Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’",
+        "link": "https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/",
+        "pubDate": "Wed, 07 Oct 2026 22:59:16 +0000",
+        "description": "Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+        "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+        "pubDate": "Wed, 07 Oct 2026 20:48:45 +0000",
+        "description": "The developer of Hermes Agent raised a $90 million Series B.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
+        "link": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11/",
+        "pubDate": "Wed, 07 Oct 2026 20:22:37 +0000",
+        "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Meta’s Muse launches on iPad just a month after its mobile debut",
         "link": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/",
@@ -450,66 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google experiments with an AI-powered gaming platform",
-        "link": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/",
-        "pubDate": "Wed, 07 Oct 2026 14:36:23 +0000",
-        "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
-        "link": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots/",
-        "pubDate": "Wed, 07 Oct 2026 14:30:00 +0000",
-        "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026/",
-        "pubDate": "Wed, 07 Oct 2026 14:15:00 +0000",
-        "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
-        "link": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open/",
-        "pubDate": "Wed, 07 Oct 2026 14:00:00 +0000",
-        "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices increase at the d",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
-        "link": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
-        "pubDate": "2026-10-07T14:42:22-04:00",
-        "description": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its new laptop that’s powered by Nvidia’s RTX Spark Arm-based chip. The ma",
+        "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
+        "link": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
+        "pubDate": "2026-10-07T18:01:00-04:00",
+        "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BM",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft is giving Copilot more control over Windows and your files",
-        "link": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
-        "pubDate": "2026-10-07T14:01:20-04:00",
-        "description": "At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions across the OS. It's part of an idea Microsoft is calling \"Hybrid Intelli",
+        "title": "Teenage Engineering’s CEO says it’ll stop making synths",
+        "link": "https://www.theverge.com/gadgets/1007489/teengage-engineering-stop-making-synths",
+        "pubDate": "2026-10-07T17:19:54-04:00",
+        "description": "Teenage Engineering founder and CEO Jesper Kouthoofd told Highsnobiety that it plans to stop making synths. And yes, that includes the iconic OP-1, which put the company on the map. TE isn't just a music gear maker; it's also a sought-after design fi",
         "source": "TheVerge"
       },
       {
-        "title": "How Microsoft built its MacBook Pro competitor",
-        "link": "https://www.theverge.com/tech/1006356/microsoft-surface-laptop-ultra-behind-the-scenes",
-        "pubDate": "2026-10-07T14:00:00-04:00",
-        "description": "Before Microsoft releases a laptop to the public, it needs to put the device through its paces. That all happens inside a windowless, warehouse-like lab on the company's Redmond, Washington, campus, where the team developing Surface devices programs ",
+        "title": "Android&#8217;s physical navigation buttons are back on Googlebooks, but not the way you think",
+        "link": "https://www.theverge.com/tech/1007409/androids-physical-navigation-buttons-are-back-on-googlebooks-but-not-the-way-you-think",
+        "pubDate": "2026-10-07T16:44:34-04:00",
+        "description": "A common misconception I've seen with Googlebooks is that the Quick Insert and Google logo keys are new. They're not, as they first debuted a couple of years ago on some Chromebooks. But there is something new for Googlebooks that's ripped straight f",
         "source": "TheVerge"
       },
       {
-        "title": "The Meta Quest 3S gets a rare discount during October Prime Day",
-        "link": "https://www.theverge.com/gadgets/1006810/meta-quest-3s-prime-day-deal-sale",
-        "pubDate": "2026-10-07T14:00:00-04:00",
-        "description": "Until the end of Amazon’s October sale later tonight, you can grab the 128GB Meta Quest 3S for just $297.49 (usually $349.99) at Amazon, Walmart, and Best Buy. While the lenses and displays aren’t quite as sharp as the Quest 3, the underlying chipset",
+        "title": "We found some great October Prime Day deals under $50",
+        "link": "https://www.theverge.com/gadgets/1007110/october-prime-day-budget-deals-under-50",
+        "pubDate": "2026-10-07T16:30:00-04:00",
+        "description": "Getting in on the Prime Day action doesn’t have to result in an empty wallet. Just as we found a couple handfuls of goodies that are under $25, there are plenty of deals during Amazon’s October sale that are $50 or less, many of which offer a lot of ",
         "source": "TheVerge"
       },
       {
-        "title": "What The Social Reckoning gets right — and wrong",
-        "link": "https://www.theverge.com/policy/1007069/aaron-sorkin-social-reckoning-real-life",
-        "pubDate": "2026-10-07T13:53:48-04:00",
-        "description": "Aaron Sorkin's The Social Reckoning has its fair share of cinematic flair, but many details in the story hew closely to real life. The movie tells the story of how Frances Haugen, a Facebook civic integrity product manager, came to leak a large trove",
+        "title": "Roku’s OLED TVs are up to $400 off during Prime Day, starting at $700",
+        "link": "https://www.theverge.com/gadgets/1007149/roku-oled-tv-pro-prime-day-deal-sale",
+        "pubDate": "2026-10-07T15:27:39-04:00",
+        "description": "Just over a week ago, we covered a deal at Amazon that knocked around 30 percent off Roku’s new (and first-ever) OLED TVs. The deal expired, but has returned for the final day of October Prime Day. The 55-inch Pro Series OLED is $699.99 at Amazon, wh",
         "source": "TheVerge"
       }
     ],
