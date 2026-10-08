@@ -1,7 +1,126 @@
 {
-  "ts": "2026-10-08T00:10:10.065780Z",
+  "ts": "2026-10-08T06:01:19.366228Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "駭客組織ShinyHunters約旦成員被捕前曾勒索波音前子公司",
+        "link": "https://www.ithome.com.tw/news/179516",
+        "pubDate": "2026-10-08 12:50",
+        "description": "KrebsOnSecurity追查揭露被捕成員背景與組織內部訊息，ShinyHunters疑已演變為可接手的網路犯罪品牌",
+        "source": "iThome資安"
+      },
+      {
+        "title": "上福公告子公司Katun Corporation發生資安事故",
+        "link": "https://www.ithome.com.tw/news/179510",
+        "pubDate": "2026-10-08 11:43",
+        "description": "雷射印表機與影印機耗材製造商上福（6128）發布資安重訊，旗下子公司Katun Corporation部分資訊系統出現異常存取行為，已啟動資安事件應變機制並著手調查影響範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "杏一網站疑似發生個資外洩",
+        "link": "https://www.ithome.com.tw/news/179507",
+        "pubDate": "2026-10-08 11:37",
+        "description": "醫療用品零售通路公司杏一（4175）發布資安重訊，表示接獲消費者通報疑似個資外洩的情況，資料源自委外管理的網站平臺",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多家韓國金融業者接連遭駭，CrowdStrike揭露疑似中國背景駭客結合AI與滲透測試工具從事攻擊",
+        "link": "https://www.ithome.com.tw/news/179506",
+        "pubDate": "2026-10-08 11:31",
+        "description": "攻擊時間與目標均與近期韓國金融業事件重疊，CrowdStrike研判攻擊者可能為中文使用者",
+        "source": "iThome資安"
+      },
+      {
+        "title": "鈊象營運資訊設備遭到入侵，部分營運資料與玩家個資外洩",
+        "link": "https://www.ithome.com.tw/news/179504",
+        "pubDate": "2026-10-08 11:10",
+        "description": "本週遊戲軟體公司鈊象（3293）發布資安重訊，針對9月底營運資訊設備遭入侵事故補充說明，指出有部分遊戲營運資料外洩，其中包含了玩家個資",
+        "source": "iThome資安"
+      },
+      {
+        "title": "開源檔案共用軟體Rejetto HFS重大漏洞的細節公開後出現嘗試利用活動",
+        "link": "https://www.ithome.com.tw/news/179488",
+        "pubDate": "2026-10-08 09:48",
+        "description": "威脅情報公司VulnCheck警告，開源檔案共用軟體Rejetto HFS重大漏洞CVE-2026-61500的細節公開不久，他們就在蜜罐陷阱偵測到小規模的偵察活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "語音AI新創Modulate募資2,500萬美元，從遊戲語音安全擴展深偽偵測與AI代理監督",
+        "link": "https://www.ithome.com.tw/news/179462",
+        "pubDate": "2026-10-08 08:00",
+        "description": "Modulate從遊戲語音安全進一步拓展企業市場。旗下Velma平臺可直接分析音訊中的情緒、意圖等訊號，並偵測深偽語音，也能分析AI語音代理與客戶的對話，找出異常或不符合規範的情況",
+        "source": "iThome資安"
+      },
+      {
+        "title": "北約量子技術戰略走向實作，持續導入PQC並規畫量子安全通訊試驗",
+        "link": "https://www.ithome.com.tw/news/179448",
+        "pubDate": "2026-10-08 08:00",
+        "description": "北約推進量子安全通訊轉型，除了持續導入PQC標準，也規畫在作業網路實際測試及驗證成熟的PQC解決方案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PKI成熟度模型2.0新增密碼學治理，納入PQC轉型與密碼學敏捷性",
+        "link": "https://www.ithome.com.tw/news/179465",
+        "pubDate": "2026-10-08 08:00",
+        "description": "PKI成熟度模型迎來2023年推出後首次版本更新。PKI聯盟在PKIMM 2.0新增密碼學類別，將演算法、金鑰、憑證及協定的使用情況納入治理，並要求組織預先規畫密碼學技術替換，以強化密碼學敏捷性，並為PQC轉型奠定基礎",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS發布PCI DSS架構指引，說明多帳號環境如何界定適用範圍",
+        "link": "https://www.ithome.com.tw/news/179478",
+        "pubDate": "2026-10-08 08:00",
+        "description": "企業在AWS多帳號環境導入PCI DSS，除了確認哪些帳號直接納入適用範圍，也要評估與範圍內環境連接或可能影響其安全的帳號。AWS新指引進一步說明如何界定不同帳號的PCI DSS適用範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "LLM加速及快取管理平臺LMCache多行程模式曝重大RCE漏洞",
+        "link": "https://www.ithome.com.tw/news/179511",
+        "pubDate": "2026-10-08  12:10:47",
+        "description": "大型語言模型推論加速及快取管理平臺LMCache爆出重大遠端程式碼執行漏洞CVE-2026-105192，CVSS風險評分達9.8。",
+        "source": "iThome"
+      },
+      {
+        "title": "ChatGPT回答不只文字，GPT-6開始動態組合互動介面",
+        "link": "https://www.ithome.com.tw/news/179503",
+        "pubDate": "2026-10-08  11:10:46",
+        "description": "OpenAI在ChatGPT加入智慧介面（Intelligent UI），GPT-6可依問題內容，把文字、圖片、圖表、按鈕及表單組成可直接操作的回應。使用者也能要求ChatGPT建立計算機、分帳工具或簡單遊戲，直接在對話中使用，不再只有文字回答。OpenAI在9月已先後推出GPT-6 Sol、Luna及GPT-6.1 Sol，在ChatGPT產品中先提供於Work與Codex，這次更新則把GPT-6帶進一般ChatGPT聊天介面。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic推出Claude Haiku 5.5，成本降低75%、首度支援推理強度控制",
+        "link": "https://www.ithome.com.tw/news/179505",
+        "pubDate": "2026-10-08  11:10:36",
+        "description": "Anthropic周三（10/7）推出新一代輕量級AI模型Claude Haiku 5.5，主打低成本、高速度及大量重複性工作負載。Anthropic表示，Haiku 5.5是該公司迄今速度最快、能力最強的Haiku系列模型，平均執行成本較前代降低75%，也是Haiku系列首款支援推理強度調整的模型。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI為AI代理越權存取澳洲政府網站致歉，支持建立重大事故強制通報制度",
+        "link": "https://www.ithome.com.tw/news/179501",
+        "pubDate": "2026-10-08  10:10:34",
+        "description": "OpenAI策略長Jason Kwon 10月6日出席澳洲國會人工智慧聯合特別委員會聽證會，就旗下模型未經授權存取澳洲政府網站及延遲通報事件",
+        "source": "iThome"
+      },
+      {
+        "title": "Spotify有聲書服務擴展至180多個市場，臺灣年底前上線",
+        "link": "https://www.ithome.com.tw/news/179502",
+        "pubDate": "2026-10-08  10:10:20",
+        "description": "Spotify周三（10/7）在法蘭克福書展宣布，將把有聲書服務從現有的22個市場擴展至全球180多個市場，預計今年底前陸續上線，臺灣也在新增名單之中。擴張後，Spotify全球超過7.5億名使用者將可透過該平臺收聽或購買有聲書，新增市場預計提供超過35萬本有聲書，涵蓋120多種語言。",
+        "source": "iThome"
+      },
+      {
+        "title": "Dell替AI代理補上企業資料脈絡，加入語意層與企業知識圖譜",
+        "link": "https://www.ithome.com.tw/news/179498",
+        "pubDate": "2026-10-08  10:10:17",
+        "description": "Dell將擴充Dell AI Data Platform，預計2027年上半年加入統一語意層、企業知識圖譜及知識代理，讓不同應用程式與AI代理能依照一致的資料定義與關聯取得企業資訊。官方強調，這三項功能及其處理的敏感資訊會留在企業自己的資料中心。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google全面開放SynthID Detector，支援跨業者AI內容辨識",
+        "link": "https://www.ithome.com.tw/news/179517",
+        "pubDate": "2026-10-08  01:10:53",
+        "description": "Google周三（10/7）宣布，正式向全球一般使用者開放英文版SynthID Detector，讓任何人都能上傳圖片、影片或音訊，檢查是否含有AI生成內容的數位浮水印。",
+        "source": "iThome"
+      },
       {
         "title": "金融機構接連爆發資料外洩案，韓國政府要求徹查",
         "link": "https://www.ithome.com.tw/news/179497",
@@ -22,104 +141,6 @@
         "pubDate": "2026-10-07 19:15",
         "description": "企業採購物聯網設備往往難以掌握設備使用哪些通訊元件與實際的通訊行為，傳統仰賴人工判讀PCAP封包的方式，面臨效率與經驗傳承上的限制，大映科技表示，ANMAS透過AI協助分析大量網路封包，一份500MB封包的分析時間可由約4小時縮短至10至15分鐘，並藉由RAG與模型微調持續累積企業自身的分析經驗",
         "source": "iThome資安"
-      },
-      {
-        "title": "從網路封包分析切入，大映科技攜手多家機構拓展IoT網路安全檢測應用",
-        "link": "https://www.ithome.com.tw/news/179466",
-        "pubDate": "2026-10-07 19:06",
-        "description": "IoT設備實際通訊行為，已成為設備供應鏈安全不可忽視的檢測重點，大映科技近年將網路封包分析能力結合AI發展ANMAS，透過分析PCAP封包協助辨識設備異常連線與潛在風險。今年並進一步攜手SGS台灣檢驗科技、精技電腦、資策會資安科技研究所、中華民國網路封包分析協會、精誠資訊恆逸教育訓練中心、逢甲大學及三丸公司等夥伴，擴大可信任供應鏈檢測、本地端部署、OT／IoT場域及教育訓練等應用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "龔化中上任兩個月揭「國家資安防護2.0」，明年4月AI紅隊先攻政府機關",
-        "link": "https://www.ithome.com.tw/news/179495",
-        "pubDate": "2026-10-07 18:42",
-        "description": "資安院院長龔化中上任屆滿兩個月，首度公開「國家資安防護2.0」藍圖，主張以AI對抗AI。他推動四項重點工作，搭配六大中心的時程與數字，勾勒出臺灣資安防線下一版的樣貌，其中最受矚目的一場利用AI進行的攻防演練，預計明年四月登場。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "不只要加快修補程式開發，Google Project Zero呼籲軟體業者建立正式修補前的緊急應變機制，整理Hotpatch等4種作法",
-        "link": "https://www.ithome.com.tw/news/179489",
-        "pubDate": "2026-10-07 18:11",
-        "description": "AI正加快漏洞發現與利用節奏，如何提高零時差漏洞的利用難度，也成為軟體業者更迫切的課題。Google Project Zero因此呼籲業者預先建立正式修補前的緊急應變能力，並整理Feature Flag、輸入過濾、替代更新管道與Hotpatch等4類作法，主張在加快修補程式開發的同時，也透過緊急手段先降低漏洞遭利用的風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "IBM與Red Hat以Lightwell修補逾400個Java漏洞，支援舊版軟體修正",
-        "link": "https://www.ithome.com.tw/news/179487",
-        "pubDate": "2026-10-07 16:40",
-        "description": "Lightwell已累計修補超過400個先前未知的Java漏洞，企業仍在使用的舊版函式庫也能取得安全修正，而Clearinghouse服務也正式推出，企業可提交開源軟體要求優先檢查與修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Sierra、Meta推Personal Agent Protocol，規範AI代理人存取企業服務",
-        "link": "https://www.ithome.com.tw/news/179485",
-        "pubDate": "2026-10-07 16:09",
-        "description": "AI代理人開始代替使用者存取企業網站與服務，企業也面臨新的身分與權限控管問題。Personal Agent Protocol規畫透過身分驗證與OAuth授權，讓企業辨識AI代理人並限制其存取權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本大阪公立大學傳出遭勒索軟體攻擊而被迫停課",
-        "link": "https://www.ithome.com.tw/news/179484",
-        "pubDate": "2026-10-07 15:53",
-        "description": "上週因校園資訊基礎設施故障宣布停課的日本大阪公立大學，本週透露此起事故很可能是勒索軟體攻擊造成，並著手確認是否出現個資外洩的情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月7日，一零四資訊科技系統遭到異常讀取，12萬筆履歷資料恐外流",
-        "link": "https://www.ithome.com.tw/news/179480",
-        "pubDate": "2026-10-07 15:08",
-        "description": "經營104人力銀行的一零四資訊科技發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布10月Android例行更新，修補近30個漏洞",
-        "link": "https://www.ithome.com.tw/news/179479",
-        "pubDate": "2026-10-07 15:06",
-        "description": "本週Google針對Android作業系統發布10月例行更新，針對該平臺的框架、系統，以及Google Play等元件修補28個弱點，其中有8個為重大等級",
-        "source": "iThome資安"
-      },
-      {
-        "title": "一零四資訊科技系統遭到異常讀取，12萬筆履歷資料恐外流",
-        "link": "https://www.ithome.com.tw/news/179476",
-        "pubDate": "2026-10-07 14:31",
-        "description": "一零四資訊科技（3130）發布資安重訊，指出App系統出現異常讀取情形，經調查約有12萬筆履歷資料遭未經授權讀取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenSSH 10.6調整壓縮機制防側通道攻擊，並啟用混合式後量子簽章",
-        "link": "https://www.ithome.com.tw/news/179472",
-        "pubDate": "2026-10-07 13:15",
-        "description": "OpenSSH 10.6針對SSH壓縮共用狀態可能洩露資訊的問題，停用LZ77字典編碼，並把先前實驗性的混合式後量子簽章納入預設支援，同時加入後量子安全警示",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Sony發布PS5系統軟體更新，疑似堵上Relapse越獄漏洞",
-        "link": "https://www.ithome.com.tw/news/179474",
-        "pubDate": "2026-10-07 13:06",
-        "description": "PS5系統更新可能涵蓋修補越獄工具Relapse利用的WebKit與核心漏洞，Sony未公開說明",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apache HTTP Server發布2.4.69版修補20個漏洞，包含3個重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179473",
-        "pubDate": "2026-10-07 12:29",
-        "description": "漏洞涉及記憶體安全、資訊洩露、權限管理等問題，影響2.4.68及以前版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mistral預覽兆參數Large 4，10月底釋出權重",
-        "link": "https://www.ithome.com.tw/news/179481",
-        "pubDate": "2026-10-07  03:10:59",
-        "description": "法國AI業者Mistral周二（10/6）推出Mistral Large 4（ML4）公開預覽版。這是該公司迄今規模最大、能力最強的模型，採用細粒度混合專家（MoE）架構，具備1.05兆個參數，每次推理啟用490億個參數。第三方評測機構Artificial Analysis稱它是目前在美國及中國之外，整體表現最強的模型；Mistral則說，ML4也是目前美國或歐洲所開發的最佳開放權重模型。",
-        "source": "iThome"
-      },
-      {
-        "title": "740M模型實現裝置端多模態搜尋，Google EmbeddingGemma 2支援文字與影音檢索",
-        "link": "https://www.ithome.com.tw/news/179475",
-        "pubDate": "2026-10-07  02:10:23",
-        "description": "Google推出EmbeddingGemma 2多模態嵌入模型，以740M參數處理文字、程式碼、圖片、影片與音訊，並可直接部署在手機、筆電等裝置。開發者可用文字搜尋圖片或影片片段，也能拿一段音訊尋找內容相近的影音，相關資料不必上傳雲端處理。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -180,38 +201,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】OpenAI 代理遭指未授權活動，維基媒體揭大量請求疑涉服務中斷",
-        "link": "https://techorange.com/2026/10/07/openai-agents-wikimedia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊維基媒體發現 OpenAI 代理未授權活動，流量疑涉服務中斷 維基百科營運機構維基媒體基金會（Wikimedia Foundation）10 月 5 日公布調查，表示旗下平台出現它認為由 OpenAI 運作的 AI 代理活動，包括未經批准的編輯、未成功的線上筆記工具入侵嘗試，以及大量資料下載。基金會指出，編輯幾乎都發生在測試區，未刊登至一般讀者可見頁面，也未發現系統或資料遭到侵害的證據。依社群政策，機器人編輯須披露身分並取得批准，這些活動未完成",
+        "title": "AI 讓重建成熟軟體的門檻降低？開發者用 Claude 打造 7 款 Adobe 替代品，揚言數月內追上 99% 功能",
+        "link": "https://techorange.com/2026/10/08/artcraft-software-ai-developer-adobe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 12:11:58 +0800",
+        "description": "Adobe 長期以 Photoshop、Illustrator、Premiere 等 Creative Cloud 軟體主導創意工具市場，但現在一名軟體開發者試圖利用 AI 加速逆向工程，打造一套免費、開源的 Adobe 替代方案，甚至喊話要在數個月內達到接近完整的功能相容。 這項計畫來自 ArtCraft。ArtCraft 起步於 2025 年，原本是一款主打讓藝術家能控制 AI 的工具，讓使用者能對 AI 生成的圖片與影片進行更精細的後製。近日，ArtCraft 轉型發表一套包含 7 款開源",
         "source": "TechOrange"
       },
       {
-        "title": "為何不直接用 Mac mini？Ghost 為個人 Agent 造專用電腦，19 歲創辦人獲 a16z 領投",
-        "link": "https://techorange.com/2026/10/06/ghost-ai-core-a16z/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 17:28:19 +0800",
-        "description": "當 AI Agent（AI 代理）開始長期讀取使用者資料、持續累積記憶，甚至代替人執行任務，是否也需要一台專門承載它的電腦？美國 AI 新創 Ghost 正押注這個方向，10/5 結束一年多的秘密開發，宣布完成由 Andreessen Horowitz（a16z）領投的 1,100 萬美元種子輪融資，並推出首款產品 Core，售價 3,499 美元。 根據《TechCrunch》報導，Core 不是一般 AI PC，而是一台專門替個人 Agent 打造的電腦，預計 10 月最後一週開始出貨。今年",
+        "title": "Anthropic 推 Haiku 5.5，電腦操作測試超車 GPT-6 Luna，小模型能接手哪些 Agent 工作？",
+        "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 11:16:22 +0800",
+        "description": "AI 小型模型的競爭，正從價格延伸到能承接多少實際工作。Anthropic 在美國時間 10/7 推出新 AI 模型 Claude Haiku 5.5，API 價格最高調降 90%，電腦操作測試表現更大幅超越前代，甚至領先 OpenAI GPT-6 Luna。隨著小型模型逐漸具備執行多步驟任務的能力，Haiku 5.5 究竟適合接手哪些工作？ 電腦操作成功率躍升，小模型能做的事越來越多 Anthropic 將 Haiku 5.5 定位為適合大量、高頻且對成本敏感任務的小型模型。除了摘要、資料分類",
         "source": "TechOrange"
       },
       {
-        "title": "鴻海研究院資安所所長李維斌分析：一天遭 6 億次攻擊的防禦哲學",
-        "link": "https://techorange.com/2026/10/06/foxconn-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 17:24:14 +0800",
-        "description": "「集團今年一天被攻擊約三億次，到六月已是一天六億次。」鴻海研究院執行長兼資通安全研究所所長李維斌於日前在 TechOrange 科技報橘與高通（Qualcomm）共同主辦的「2026 AI 智慧大工廠論壇——新竹場」中表示，如今的資安攻擊已經不可能完全擋下，與其追求擋下每一次攻擊，不如先控制事故的波及範圍，讓治理重心從入口移到後果。 李維斌指出，過去駭客得先突破企業設定的防火牆，再通過 EDR、NDR 等層層偵測，進門後還要橫向移動，如今企業內部已經有現成、握有適當權限的 AI Agent，駭客",
+        "title": "「先解決人怎麼做，再試試 AI 怎麼做。」緯謙科技為智慧工廠推進 AI Ready 到 AI 落地",
+        "link": "https://techorange.com/2026/10/08/wiadvance-aiready/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 11:08:32 +0800",
+        "description": "製造業的相關資料，業績、稼動率、產能與異常分析報告，散落在 ERP、設備與紙本檔案裡，難的是怎麼把資料拿出來，以及有多少企業敢讓 AI 直接接上 SAP、Oracle 的核心系統。在日前舉辦的「2026 AI 智慧大工廠論壇新竹場」，緯謙科技智慧製造處技術經理吳政舉分享了過去一年協助製造業做 POC 的經驗，他表示 AI 進工廠的第一步不是自主決策，而是先釐清人怎麼做、資料在哪裡，再讓 AI 一段一段參與進來。 吳政舉引用今年的《台灣產業 AI 化大調查》指出，製造業平均 43.8 分，略低於全",
         "source": "TechOrange"
       },
       {
-        "title": "RobCo 估值 9 個月翻倍破 10 億美元：德國實體 AI 機器人新創晉升獨角獸",
-        "link": "https://techorange.com/2026/10/06/physical-ai-builder-robco-doubles-valuation-billion-dollars/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 16:48:45 +0800",
-        "description": "德國自主工業機器人公司 RobCo 估值突破 10 億美元，正式成為獨角獸。RobCo 近日宣布，透過一筆包含新投資與員工老股出售的交易，公司估值在 9 個月內翻倍；此次交易由既有投資人與新投資人共同參與，讓公司員工也有機會實現部分持股價值。 RobCo 上一次估值提升是在 2026 年 1 月，當時公司完成 1 億美元 C 輪融資，並表示將利用資金推進實體 AI 發展藍圖。RobCo 共同創辦人暨執行長 Roman Hölzl 表示，市場對投資 RobCo 有強烈需求，因此公司把握這次機會強化",
+        "title": "叡揚資訊提供三大 Forrester 微分段解方 打造更貼近企業環境的零信任架構",
+        "link": "https://techorange.com/2026/10/08/gss-forrester/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 10:39:13 +0800",
+        "description": "面對零日漏洞、勒索軟體等威脅，攻擊者一旦進入企業環境，即可能迅速在內部系統間橫向移動並擴大影響範圍。企業資安防禦的重點，也逐漸從「如何阻止攻擊進入」，延伸至「即使發生入侵，如何限制攻擊擴散並降低營運衝擊」。在此趨勢下，微分段（Microsegmentation）正從網路安全控制，逐步成為企業落實零信任（Zero Trust）、限制橫向移動及提升資安韌性的重要能力。 Forrester 於 2026 年第三季發布《The Forrester Wave™: Microsegmentation Sol",
         "source": "TechOrange"
       },
       {
-        "title": "免寫程式也能讓 AI 自動交易？幣安 Binance Intelligence 從市場資訊一路做到策略執行",
-        "link": "https://techorange.com/2026/10/06/binance-launches-retail-ai-assistant-repackages-trading-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 06 Oct 2026 12:18:30 +0800",
-        "description": "幣安（Binance）推出 Binance Intelligence，整合 Binance AI、Binance AI Pro 與 Binance Agent OS，讓使用者從取得市場資訊、制定投資策略，到開發可與幣安金融服務互動的 AI 應用，都能在同一套生態系中完成。 Binance Intelligence 整合 3 大 AI 工具，Binance AI 提供個人化市場資訊 幣安聯合執行長 Richard Teng 與產品副總裁 Jeff Li 於近日的直播活動中公布 Binance In",
+        "title": "視覺 AI 為建築工地打造「感知層」，讓機器人讀懂人類在哪裡、正要做什麼",
+        "link": "https://techorange.com/2026/10/08/construction-robotics-vision-ai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 08 Oct 2026 09:28:02 +0800",
+        "description": "建築機器人是否能夠取得成功，關鍵在於是否可以跟人類和其他自動化系統，安全進行協同作業，而為整個工地打造「感知層」的視覺 AI 系統將成為關鍵解方。",
         "source": "TechOrange"
       },
       {
@@ -515,26 +536,6 @@
     ],
     "cve": [
       {
-        "title": "Mozilla Firefox Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20260930",
-        "pubDate": "Wed, 30 Sep 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Firefox"
-      },
-      {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20260930",
-        "pubDate": "Wed, 30 Sep 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
-      },
-      {
         "title": "Android Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261007",
         "pubDate": "Wed, 07 Oct 2026 11:00:00 +0800",
@@ -545,24 +546,64 @@
         "products": "Android"
       },
       {
-        "title": "Apache Tomcat Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/apache-tomcat-multiple-vulnerabilities_20260929",
-        "pubDate": "Tue, 29 Sep 2026 11:00:00 +0800",
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261007",
+        "pubDate": "Wed, 07 Oct 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Apache Tomcat"
+        "products": "Google Chrome"
       },
       {
-        "title": "Apple Products Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/apple-products-remote-code-execution-vulnerability_20260929",
-        "pubDate": "Tue, 29 Sep 2026 11:00:00 +0800",
+        "title": "Cisco Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20261008",
+        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Apple Products Remote Code Execution Vulnerability"
+        "products": "Cisco Products"
+      },
+      {
+        "title": "GitHub Enterprise Server Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
+        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "GitHub Enterprise Server"
+      },
+      {
+        "title": "IBM WebSphere Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
+        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "IBM WebSphere Products"
+      },
+      {
+        "title": "Mozilla Firefox Security Restriction Bypass Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
+        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Firefox Security Restriction Bypass Vulnerability"
+      },
+      {
+        "title": "SonicWall SMA1000 Series Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/sonicwall-sma1000-series-products-multiple-vulnerabilities_20261008",
+        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "SonicWall SMA1000 Series Products"
       },
       {
         "title": "Microsoft Edge Multiple Vulnerabilities",
@@ -633,16 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "RedHat Linux Kernel"
-      },
-      {
-        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261002",
-        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Ubuntu Linux Kernel"
       }
     ]
   }
