@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-08T19:25:19.081422Z",
+  "ts": "2026-10-08T23:56:33.939388Z",
   "tabs": {
     "cn_sec": [
       {
@@ -308,20 +308,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/poellm-malware-infects-exposed-ai-servers-in-cryptomining-attacks/",
-        "pubDate": "Wed, 07 Oct 2026 11:04:08 -0400",
-        "description": "A cryptomining campaign targeting exposed AI services is using PoeLLM malware to turn compromised servers into scanners and exploit launchpads. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ransomware has a new target. Is your backup ready?",
-        "link": "https://www.bleepingcomputer.com/news/security/ransomware-has-a-new-target-is-your-backup-ready/",
-        "pubDate": "Wed, 07 Oct 2026 10:01:11 -0400",
-        "description": "Ransomware groups are increasingly targeting backup infrastructure to eliminate recovery options and increase pressure on victims to pay. Kaseya explains why organizations need isolated, immutable, and regularly tested backups that attackers cannot e",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
         "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
         "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530",
@@ -348,6 +334,20 @@
         "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530",
         "description": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Inte",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
+        "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
+        "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400",
+        "description": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
+        "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
+        "pubDate": "Thu, 08 Oct 2026 16:09:45 -0400",
+        "description": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
@@ -393,6 +393,27 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
+        "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
+        "pubDate": "Thu, 08 Oct 2026 22:33:59 +0000",
+        "description": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
+        "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
+        "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
+        "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
+        "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
+        "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
         "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
@@ -472,65 +493,44 @@
       },
       {
         "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-        "link": "https://techcrunch.com/2026/10/08/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/",
+        "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
         "pubDate": "Thu, 08 Oct 2026 15:12:59 +0000",
         "description": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
         "source": "TechCrunch"
       },
       {
-        "title": "New York alleges TikTok gave teens, children a placebo safety feature instead of a real one",
-        "link": "https://techcrunch.com/2026/10/08/new-york-alleges-tiktok-gave-teens-children-a-placebo-safety-feature-instead-of-a-real-one/",
-        "pubDate": "Thu, 08 Oct 2026 15:06:17 +0000",
-        "description": "New York’s lawsuit against the company is one of more than two dozen cases brought by states accusing the social media giant of designing its platform to encourage addictive use among children.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Asos confirms breach of customer data after hackers send rogue app notification",
-        "link": "https://techcrunch.com/2026/10/08/asos-confirms-breach-of-customer-data-after-hackers-send-rogue-app-notification/",
-        "pubDate": "Thu, 08 Oct 2026 15:01:15 +0000",
-        "description": "The hackers alerted the fashion giant's customers through a push notification that said they had \"fully compromised\" the company's cloud storage.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hear from Ambrosia Energy and Bloom Energy execs on where the AI infrastructure boom is creating opportunity at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/08/hear-from-ambrosia-energy-and-bloom-energy-execs-on-where-the-ai-infrastructure-boom-is-creating-opportunity-at-disrupt-2026/",
-        "pubDate": "Thu, 08 Oct 2026 15:00:00 +0000",
-        "description": "Ambrosia Energy CEO Ben Longmier and Bloom Energy SVP Bill Thayer join the Smart Systems Stage at TechCrunch Disrupt. Register now to save up to $100. Grab a second of the same pass to save 50%.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Paramount is making a Cyberpunk 2077 film",
-        "link": "https://www.theverge.com/games/1008327/paramount-pictures-cyberpunk-2077-film-movie",
-        "pubDate": "2026-10-08T15:14:03-04:00",
-        "description": "Cyberpunk 2077 is heading to the big screen. Deadline reports that CD Projekt Red's popular sci-fi video game franchise is being adapted into a live-action film by Paramount Pictures. There's no details just yet on when the film might premiere. But D",
+        "title": "US plans livestream of execution by firing squad",
+        "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
+        "pubDate": "2026-10-08T18:32:04-04:00",
+        "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 peop",
         "source": "TheVerge"
       },
       {
-        "title": "Tim Cook says &#8216;I&#8217;m not meddling&#8217; in the new Apple CEO&#8217;s business",
-        "link": "https://www.theverge.com/news/1008279/apple-tim-cook-not-meddling-john-ternus-ceo",
-        "pubDate": "2026-10-08T14:48:36-04:00",
-        "description": "Tim Cook stepped down as Apple CEO in September, handing over the top job to former hardware chief John Ternus and taking an executive chairman role. Cook's still a visible representative of the company, having been recently photographed attending a ",
+        "title": "Anthropic launches free AI security scans for open-source projects",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
+        "pubDate": "2026-10-08T17:53:51-04:00",
+        "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" Tha",
         "source": "TheVerge"
       },
       {
-        "title": "I only bought Pokémon Legends: Z-A during Prime Day, and it’s still on sale",
-        "link": "https://www.theverge.com/gadgets/1008212/pokemon-legends-z-a-switch-deal-sale",
-        "pubDate": "2026-10-08T14:48:11-04:00",
-        "description": "After covering Amazon’s October sale for the last few days, only one item found its way into my shopping cart, and, lucky for you, it’s still on sale after the event’s conclusion. Pokémon Legends: Z-A for the Nintendo Switch or Switch 2 is $39.88 (us",
+        "title": "SpaceX announces plan to become a ‘major mobile carrier’",
+        "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+        "pubDate": "2026-10-08T17:23:31-04:00",
+        "description": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says ",
         "source": "TheVerge"
       },
       {
-        "title": "Forza Horizon 6 is being delayed on PS5 to January 2027",
-        "link": "https://www.theverge.com/news/989314/forza-horizon-6-ps5-release-date-january-2027-delay",
-        "pubDate": "2026-10-08T14:14:25-04:00",
-        "description": "Playground Games first revealed earlier this year that Forza Horizon 6 would be arriving on PS5 in 2026, but the launch is now being pushed back. I reported last month that there would be a delay to early next year, and Forza Horizon 6 is now officia",
+        "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
+        "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
+        "pubDate": "2026-10-08T17:01:18-04:00",
+        "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip b",
         "source": "TheVerge"
       },
       {
-        "title": "USA Today becomes the latest publisher to sue OpenAI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-        "pubDate": "2026-10-08T13:58:33-04:00",
-        "description": "USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as reported earlier by Reuters. In a filing on Thursday, the publisher ask",
+        "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
+        "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+        "pubDate": "2026-10-08T16:32:21-04:00",
+        "description": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumo",
         "source": "TheVerge"
       }
     ],
