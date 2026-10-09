@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-09T18:48:17.059549Z",
+  "ts": "2026-10-09T23:13:27.667467Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,20 +259,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Japan Sees Sharp Rise in Web Data Leaks Amid Mobile API Abuse and Metabase Attacks",
-        "link": "https://thehackernews.com/2026/10/japan-sees-sharp-rise-in-web-data-leaks.html",
-        "pubDate": "Thu, 08 Oct 2026 21:15:56 +0530",
-        "description": "Attackers behind a string of personal data leaks at Japanese organizations have abused APIs for mobile apps and targeted known software flaws, the JPCERT Coordination Center (JPCERT/CC) said.\n\nThe Tokyo-based center, which takes incident reports, bas",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "UAC-0099 Targets Ukrainian Government Personnel With ASHVEIN RAT Hiding Commands in HTML",
-        "link": "https://thehackernews.com/2026/10/uac-0099-targets-ukrainian-government.html",
-        "pubDate": "Thu, 08 Oct 2026 20:56:56 +0530",
-        "description": "The Russia-aligned threat actor known as UAC-0099 has been attributed to a previously undocumented .NET infostealer and remote access trojan (RAT) codenamed ASHVEIN.\n\nAccording to TrendAI, the malware has been put to use in attacks targeting Ukrainia",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
         "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
         "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400",
@@ -308,11 +294,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
-        "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
-        "pubDate": "Thu, 08 Oct 2026 10:00:10 -0400",
-        "description": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth gra",
-        "source": "BleepingComputer"
+        "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
+        "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
+        "pubDate": "Sat, 10 Oct 2026 00:44:28 +0530",
+        "description": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kit",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
+        "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
+        "pubDate": "Fri, 09 Oct 2026 23:15:26 +0530",
+        "description": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X.\n\nShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive da",
+        "source": "TheHackerNews"
       },
       {
         "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
@@ -364,6 +357,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
+        "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
+        "description": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
         "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
         "pubDate": "Fri, 09 Oct 2026 14:33:24 +0530",
@@ -394,17 +394,38 @@
     ],
     "en_tech": [
       {
-        "title": "President Trump awards Big Tech donors with nation’s highest science prizes",
-        "link": "https://techcrunch.com/2026/10/08/president-trump-awards-big-tech-donors-with-nations-highest-science-prizes/",
-        "pubDate": "Thu, 08 Oct 2026 22:33:59 +0000",
-        "description": "Together, the awardees have donated nearly $6 billion to efforts tied to Trump and his administration.",
+        "title": "Long live the mechanical keyboard",
+        "link": "https://techcrunch.com/2026/10/09/long-live-the-mechanical-keyboard/",
+        "pubDate": "Fri, 09 Oct 2026 22:08:24 +0000",
+        "description": "Keychron made a name for itself after launching on Kickstarter in 2017. Today, it offers the value K2 model as well as a variety of other versions, including one with an all-wood body.",
         "source": "TechCrunch"
       },
       {
-        "title": "Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website",
-        "link": "https://techcrunch.com/2026/10/08/pretend-youre-sitting-at-elizabeth-holmes-desk-on-this-weirdly-detailed-website/",
-        "pubDate": "Thu, 08 Oct 2026 21:00:00 +0000",
-        "description": "With over a thousand emails, slides, texts, and documents from the United States v. Elizabeth Holmes trial, Extend engineer Bo Lau created a website that simulates what it might have been like to rifle through the Theranos founder's desk.",
+        "title": "The maker of non-text AI model Jev valued at $7.5B just weeks after launch",
+        "link": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+        "pubDate": "Fri, 09 Oct 2026 21:41:29 +0000",
+        "description": "What has users and large corporations so excited about Jev is TypeSafe’s claim that it works significantly faster and uses far fewer tokens than LLMs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+        "pubDate": "Fri, 09 Oct 2026 19:36:56 +0000",
+        "description": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Batteries are now cheaper than natural gas turbines used at many data centers",
+        "link": "https://techcrunch.com/2026/10/09/batteries-are-now-cheaper-than-natural-gas-turbines-used-at-many-data-centers/",
+        "pubDate": "Fri, 09 Oct 2026 18:57:58 +0000",
+        "description": "Batteries are now cheaper than natural gas turbines as the data center boom pushes prices up.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+        "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+        "pubDate": "Fri, 09 Oct 2026 18:57:06 +0000",
+        "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
         "source": "TechCrunch"
       },
       {
@@ -471,13 +492,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-        "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-        "pubDate": "Fri, 09 Oct 2026 14:30:00 +0000",
-        "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
         "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
         "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
@@ -485,52 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Surveillance company Flock cuts staff as privacy backlash grows",
-        "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
-        "pubDate": "Fri, 09 Oct 2026 13:40:36 +0000",
-        "description": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
-        "source": "TechCrunch"
+        "title": "Decade-old RAM is making a comeback",
+        "link": "https://www.theverge.com/games/1009140/ram-shortage-intel-amd-ddr4-comeback",
+        "pubDate": "2026-10-09T17:50:00-04:00",
+        "description": "CPU makers have noticed that the seemingly unending RAM price hikes are making it tough for a lot of us to upgrade our PCs. Their solution? A return to last-gen DDR4 RAM. Intel and AMD are making new CPUs that'll support the older, more affordable ty",
+        "source": "TheVerge"
       },
       {
-        "title": "Xona’s commercial GPS alternative is about to go live",
-        "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
-        "pubDate": "Fri, 09 Oct 2026 12:00:00 +0000",
-        "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
-        "source": "TechCrunch"
+        "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+        "pubDate": "2026-10-09T17:15:38-04:00",
+        "description": "An Anthropic AI model provided false information about an unsolved homicide to a Philadelphia Police Department (PPD) tipline, according to a report from 6abc. In a statement released on Friday, the PPD said the AI model sent the tip through PhillyUn",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Ohio blogger found guilty of harassment for sending Shrek nude to senator",
+        "link": "https://www.theverge.com/policy/1008991/ohio-blogger-harassment-shrek-nude",
+        "pubDate": "2026-10-09T15:41:11-04:00",
+        "description": "A jury found an Ohio political blogger guilty of telecommunications harassment after he sent an explicit image of Shrek to a Republican state senator. On Friday, a judge ordered DJ Byrnes, owner of political commentary blog The Rooster, to pay a $200",
+        "source": "TheVerge"
+      },
+      {
+        "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
+        "pubDate": "2026-10-09T15:09:44-04:00",
+        "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical res",
+        "source": "TheVerge"
       },
       {
         "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
         "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
         "pubDate": "2026-10-09T14:30:48-04:00",
         "description": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreame",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-        "pubDate": "2026-10-09T14:06:57-04:00",
-        "description": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hai",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google teases Fitbit Edge launch next week",
-        "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
-        "pubDate": "2026-10-09T14:05:55-04:00",
-        "description": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
-        "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
-        "pubDate": "2026-10-09T13:41:24-04:00",
-        "description": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Amazon’s new Kindles appear to have a light leak problem",
-        "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
-        "pubDate": "2026-10-09T13:25:39-04:00",
-        "description": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the light",
         "source": "TheVerge"
       }
     ],
