@@ -1,7 +1,28 @@
 {
-  "ts": "2026-10-09T06:02:21.172750Z",
+  "ts": "2026-10-09T13:09:52.749903Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
+        "link": "https://www.ithome.com.tw/news/179559",
+        "pubDate": "2026-10-09 18:27",
+        "description": "美國亞利桑那州法院系統遭網路釣魚攻擊，駭客複製法院檔案備份，涉及近130萬人的個資",
+        "source": "iThome資安"
+      },
+      {
+        "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
+        "link": "https://www.ithome.com.tw/news/179558",
+        "pubDate": "2026-10-09 18:19",
+        "description": "惡意程式PoeLLM鎖定對外開放的LiteLLM、Ollama等服務，受害主機被用於挖礦及攻擊其他系統，駭客將C2位址資訊藏在GitHub儲存庫中的英文詩裡，修改詩中用字就能切換控制位置",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國EY資料外洩波及高盛、英仕曼集團客戶",
+        "link": "https://www.ithome.com.tw/news/179557",
+        "pubDate": "2026-10-09 16:22",
+        "description": "美國EY今年春天發生的資料外洩事件，波及高盛、英仕曼集團及鐵獅門等企業的客戶，部分客戶的個人及財務資料因此外洩。事件源於EY使用的第三方IT支援系統遭入侵，高盛與英仕曼集團均表示自身系統未遭入侵",
+        "source": "iThome資安"
+      },
       {
         "title": "網頁版及Windows Outlook 11月將封鎖MSIX附件",
         "link": "https://www.ithome.com.tw/news/179553",
@@ -45,10 +66,24 @@
         "source": "iThome"
       },
       {
+        "title": "Anthropic明文禁止使用者持續辱罵Claude，違規可能遭終止對話",
+        "link": "https://www.ithome.com.tw/news/179555",
+        "pubDate": "2026-10-09  02:10:32",
+        "description": "Anthropic周四（10/8）宣布更新Claude使用政策，首度明文禁止使用者持續且無必要地辱罵、虐待或殘酷對待AI模型。新規定將於11月12日生效，主要針對反覆惡意對待Claude、且沒有明確目的的極端情況，違規者可能遭Claude主動終止對話。",
+        "source": "iThome"
+      },
+      {
         "title": "Google公布能在本地運作的AI會議筆記App",
         "link": "https://www.ithome.com.tw/news/179554",
         "pubDate": "2026-10-09  02:10:29",
         "description": "Google上周公布一款類似知名AI會議筆記軟體Granola的應用程式Google AI Edge Foresight，可讓用戶在本地端製作視訊會議筆記。\n這款應用程式是以不久前才公布的7.4億參數邊緣AI模型Google EmbeddingGemma 2為底層引擎，後者可部署在手機、筆電等裝置，能處理文字、程式碼、圖片、影片與音訊，可以文字搜尋圖片或影片片段，也能理解音訊並尋找內容相近的影音。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google Gemini Agent可建立企業AI同事，獨立帳號參與Chat與文件協作",
+        "link": "https://www.ithome.com.tw/news/179552",
+        "pubDate": "2026-10-09  02:10:02",
+        "description": "Google在Gemini at Work 2026大會發表企業通用AI代理Gemini Agent，可在Gmail、Google雲端硬碟、文件、試算表與日曆等Workspace服務間執行工作。使用者只要提出任務目標，Gemini就能規畫步驟、使用工具並產出文件、簡報或程式碼。Google也公布同事代理（Coworker Agent）功能，企業可建立具有獨立Workspace帳號的AI代理，以團隊成員身分參與工作。",
         "source": "iThome"
       },
       {
@@ -106,41 +141,6 @@
         "pubDate": "2026-10-08 14:45",
         "description": "資安公司Previdian、watchTowr警告，本週軟體開發廠商Atlassian公布的重大漏洞CVE-2026-21589已遭到利用，呼籲受影響系統的用戶應儘速套用更新程式因應",
         "source": "iThome資安"
-      },
-      {
-        "title": "駭客組織ShinyHunters約旦成員被捕前曾勒索波音前子公司",
-        "link": "https://www.ithome.com.tw/news/179516",
-        "pubDate": "2026-10-08 12:50",
-        "description": "KrebsOnSecurity追查揭露被捕成員背景與組織內部訊息，ShinyHunters疑已演變為可接手的網路犯罪品牌",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SonicWall修補SMA1000設備滿分伺服器請求偽造漏洞",
-        "link": "https://www.ithome.com.tw/news/179514",
-        "pubDate": "2026-10-08 12:06",
-        "description": "本週資安廠商SonicWall發布公告，指出旗下SMA1000設備存在重大等級的伺服器請求偽造漏洞CVE-2026-102255，CVSS嚴重程度評分達到滿分10分",
-        "source": "iThome資安"
-      },
-      {
-        "title": "上福公告子公司Katun Corporation發生資安事故",
-        "link": "https://www.ithome.com.tw/news/179510",
-        "pubDate": "2026-10-08 11:43",
-        "description": "雷射印表機與影印機耗材製造商上福（6128）發布資安重訊，旗下子公司Katun Corporation部分資訊系統出現異常存取行為，已啟動資安事件應變機制並著手調查影響範圍",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google推出AI遊戲平臺Playground，文字指令即可建立、發布遊戲",
-        "link": "https://www.ithome.com.tw/news/179535",
-        "pubDate": "2026-10-08  05:10:50",
-        "description": "Google推出實驗性AI遊戲平臺Playground，使用者只要透過文字描述遊戲構想，就能建立可直接遊玩的遊戲，並以對話方式修改玩法、角色及場景，不需要自行撰寫程式碼。完成的作品可以透過連結分享，也能公開發布供其他玩家遊玩。Google計畫整合Unity Spark，讓使用者未來能製作更複雜的3D遊戲。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI代理頂級網域.agent成競逐焦點，OpenAI、Google與Meta爭奪營運權",
-        "link": "https://www.ithome.com.tw/news/179525",
-        "pubDate": "2026-10-08  05:10:24",
-        "description": "網際網路名稱與數位位址分配機構（ICANN）公布2026年新一輪通用頂級網域申請名單，共有481個申請者提出1,615件申請，這是繼2012年後，睽違14年再度公布新一輪申請名單。AI相關名稱成為競爭焦點，OpenAI、Meta與Google都申請.agent，也就是「代理」相關頂級網域，OpenAI另申請.agi、.model及.mcp等名稱。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -252,55 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "Eight Malicious npm Packages Downloaded 40,767 Times Deliver Overlord RAT and Stealer",
-        "link": "https://thehackernews.com/2026/10/eight-malicious-npm-packages-downloaded.html",
-        "pubDate": "Wed, 07 Oct 2026 23:13:20 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a long-running npm supply chain malware campaign that pushes information stealers and remote access trojans (RAT) to compromised hosts.\n\nThe campaign has been codenamed MALFEX by CloudSEK and Checkm",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SonicWall Patches CVSS 10.0 Pre-Authentication SSRF Flaw in SMA1000 Appliances",
-        "link": "https://thehackernews.com/2026/10/sonicwall-patches-cvss-100-pre.html",
-        "pubDate": "Wed, 07 Oct 2026 21:47:44 +0530",
-        "description": "SonicWall has released hotfixes for four flaws in its SMA1000 appliances, the gateways that give remote workers access to a company's network and applications. The most serious could allow an attacker without a login to send requests through the appl",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Unpatched Critical LMCache Flaw Lets Unauthenticated Attackers Run Code Remotely",
-        "link": "https://thehackernews.com/2026/10/unpatched-critical-lmcache-flaw-lets.html",
-        "pubDate": "Wed, 07 Oct 2026 21:04:53 +0530",
-        "description": "A critical vulnerability in LMCache, open-source software that speeds up large language model (LLM) servers such as vLLM, lets an attacker run code on the cache server without logging in, and no fixed version is available.\n\nThe flaw is in LMCache's m",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PoeLLM Malware Infects 3,400+ Servers to Expand Crypto Mining Botnet",
-        "link": "https://thehackernews.com/2026/10/poellm-malware-infects-3400-servers-to.html",
-        "pubDate": "Wed, 07 Oct 2026 21:03:51 +0530",
-        "description": "Cybersecurity researchers are calling attention to a new malware family that has been observed targeting exposed artificial intelligence (AI) and large language model (LLM) infrastructure with an aim to deploy cryptocurrency miners and further expand",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Ransomware recovery CEO charged over secret ransom payments",
-        "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
-        "pubDate": "Wed, 07 Oct 2026 19:04:37 -0400",
-        "description": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
-        "pubDate": "Wed, 07 Oct 2026 17:28:54 -0400",
-        "description": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers hijack Google domains after breaching ccTLD registries",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
-        "pubDate": "Wed, 07 Oct 2026 16:50:13 -0400",
-        "description": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authori",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
         "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
         "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530",
@@ -390,6 +341,55 @@
         "pubDate": "Thu, 08 Oct 2026 11:26:33 -0400",
         "description": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "OAuth grants pile up faster than you can review them. Here's how to keep up.",
+        "link": "https://www.bleepingcomputer.com/news/security/oauth-grants-pile-up-faster-than-you-can-review-them-heres-how-to-keep-up/",
+        "pubDate": "Thu, 08 Oct 2026 10:00:10 -0400",
+        "description": "OAuth grants create data highways between SaaS apps, AI agents, and other tools. And, they are multiplying faster than any security team can review them. As the recent Klue breach showed, attackers are taking notice and exploiting forgotten OAuth gra",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
+        "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
+        "pubDate": "Thu, 08 Oct 2026 09:18:36 -0400",
+        "description": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft Teams to get support for third-party deepfake detection tools",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
+        "pubDate": "Thu, 08 Oct 2026 08:08:16 -0400",
+        "description": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ASOS links data breach to social engineering attack, credential theft",
+        "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
+        "pubDate": "Thu, 08 Oct 2026 07:42:46 -0400",
+        "description": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Owner of Empire cybercrime market gets 40 years in prison",
+        "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
+        "pubDate": "Thu, 08 Oct 2026 06:29:19 -0400",
+        "description": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
+        "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
+        "pubDate": "Fri, 09 Oct 2026 17:51:51 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon.\n\nThe vulnerabilit",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
+        "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
+        "pubDate": "Fri, 09 Oct 2026 17:00:00 +0530",
+        "description": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “ve",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -492,11 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk questions Ambani’s influence as Starlink India launch stalls",
-        "link": "https://techcrunch.com/2026/10/08/elon-musk-questions-ambanis-influence-as-starlink-india-launch-stalls/",
-        "pubDate": "Thu, 08 Oct 2026 15:12:59 +0000",
-        "description": "“Is Ambani the real boss of India?” Elon Musk asked as he questioned why Starlink has yet to launch its satellite internet service in the country.",
+        "title": "Xona’s commercial GPS alternative is about to go live",
+        "link": "https://techcrunch.com/2026/10/09/xonas-commercial-gps-alternative-is-about-to-go-live/",
+        "pubDate": "Fri, 09 Oct 2026 12:00:00 +0000",
+        "description": "Xona's precision timing and navigation service will enter beta testing after SpaceX launches six satellites designed by the company.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
+        "pubDate": "2026-10-09T05:48:26-04:00",
+        "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
+        "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
+        "pubDate": "2026-10-09T03:14:32-04:00",
+        "description": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium",
+        "source": "TheVerge"
       },
       {
         "title": "US plans livestream of execution by firing squad",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
         "pubDate": "2026-10-08T17:23:31-04:00",
         "description": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AMD will bring FSR 4 to handhelds by the end of 2026",
-        "link": "https://www.theverge.com/games/1008353/amd-will-bring-fsr-4-to-handhelds-by-the-end-of-2026",
-        "pubDate": "2026-10-08T17:01:18-04:00",
-        "description": "It's already possible to get AMD's framerate-enhancing FSR 4 boost on handhelds as old as the Steam Deck - but in June, AMD reserved the right to disappoint handheld gamers by not officially bringing FSR 4 to older handhelds. Now, AMD consumer chip b",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple will reportedly debut its first touchscreen MacBook in three weeks",
-        "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
-        "pubDate": "2026-10-08T16:32:21-04:00",
-        "description": "Apple is set to introduce a new MacBook Pro with a touchscreen and an updated iPad Mini \"on or around\" October 27th, Bloomberg reports. If true, that would put the event just two weeks after the October 13th event Apple announced today, which is rumo",
         "source": "TheVerge"
       }
     ],
