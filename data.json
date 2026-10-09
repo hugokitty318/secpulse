@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-09T13:09:52.749903Z",
+  "ts": "2026-10-09T18:48:17.059549Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "ARTEX AI Pentesting Tool Used in Data Theft Attacks on South Korean Financial Firms",
-        "link": "https://thehackernews.com/2026/10/artex-ai-pentesting-tool-used-in-data.html",
-        "pubDate": "Thu, 08 Oct 2026 19:42:34 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a targeted campaign aimed at South Korean financial organizations that used an artificial intelligence (AI) pen testing tool named ARTEX to carry out the attacks.\n\nThe activity, per CrowdStrike Inte",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
         "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
         "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400",
@@ -294,39 +287,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Wazza Phishkit Targets Banking, Government, and Manufacturing Across the US, EU, and Australia",
-        "link": "https://thehackernews.com/2026/10/wazza-phishkit-targets-banking.html",
-        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0530",
-        "description": "Phishing kits are no longer limited to copying a familiar login page and waiting for a victim to enter credentials. Attackers are increasingly building filtering, session management, and traffic controls into the infrastructure that delivers the phis",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Low-cost Android phones ship with residential proxy malware",
         "link": "https://www.bleepingcomputer.com/news/security/low-cost-android-phones-ship-with-residential-proxy-malware/",
         "pubDate": "Thu, 08 Oct 2026 15:20:33 -0400",
         "description": "A malware campaign dubbed 'Midnight Mimosa' has been discovered on low-cost Android smartphones that ship with malicious software embedded in their firmware, allowing attackers to silently install apps, perform ad fraud, and turn devices into residen",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "16 Malicious Firefox Extensions Pose as Rabby and OKX Wallets to Steal Recovery Phrases",
-        "link": "https://thehackernews.com/2026/10/16-malicious-firefox-extensions-pose-as.html",
-        "pubDate": "Thu, 08 Oct 2026 15:16:32 +0530",
-        "description": "Cybersecurity researchers have discovered a cluster of 16 malicious Mozilla Firefox extensions that are capable of stealing cryptocurrency wallet recovery phrases and private keys.\n\n\"The extensions masquerade as wallet portals, desktop utilities, and",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "U.S. Offers Up to $10 Million for Tips on Zhang Yu, Charged in HAFNIUM Hacks",
-        "link": "https://thehackernews.com/2026/10/us-offers-up-to-10-million-for-tips-on.html",
-        "pubDate": "Thu, 08 Oct 2026 13:12:04 +0530",
-        "description": "The U.S. State Department is offering up to $10 million for information leading to the identification or location of Zhang Yu, a Chinese national charged in the United States in connection with the 2021 Microsoft Exchange Server attacks known as HAFN",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "MonsterCloud Owner Accused of Billing Over $19M While Secretly Paying Ransoms to Decrypt Data",
-        "link": "https://thehackernews.com/2026/10/monstercloud-owner-accused-of-billing.html",
-        "pubDate": "Thu, 08 Oct 2026 13:11:44 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Wednesday announced charges against a 50-year-old U.S. and Israeli national for allegedly defrauding ransomware victims by secretly paying the attackers to obtain decryptors while claiming to use proprietary to",
-        "source": "TheHackerNews"
       },
       {
         "title": "FakeGit malware campaign returns with 17,610 malicious GitHub repos",
@@ -350,32 +315,39 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Uranium crypto exchange hacker convicted for stealing $53 million",
-        "link": "https://www.bleepingcomputer.com/news/security/uranium-crypto-exchange-hacker-found-guilty-of-53-million-theft/",
-        "pubDate": "Thu, 08 Oct 2026 09:18:36 -0400",
-        "description": "A Maryland man was found guilty of stealing more than $53 million after hacking the decentralized crypto exchange Uranium Finance twice in April 2021. [...]",
-        "source": "BleepingComputer"
+        "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
+        "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
+        "pubDate": "Fri, 09 Oct 2026 21:59:55 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and cry",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft Teams to get support for third-party deepfake detection tools",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-to-add-third-party-deepfake-detection-impersonation-protection/",
-        "pubDate": "Thu, 08 Oct 2026 08:08:16 -0400",
-        "description": "Microsoft will soon introduce support for third-party deepfake detection solutions and impersonation protection in Teams meetings. [...]",
-        "source": "BleepingComputer"
+        "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
+        "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
+        "pubDate": "Fri, 09 Oct 2026 18:52:53 +0530",
+        "description": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with  Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are ",
+        "source": "TheHackerNews"
       },
       {
-        "title": "ASOS links data breach to social engineering attack, credential theft",
-        "link": "https://www.bleepingcomputer.com/news/security/asos-links-data-breach-to-social-engineering-attack-credential-theft/",
-        "pubDate": "Thu, 08 Oct 2026 07:42:46 -0400",
-        "description": "ASOS is sending updates to affected customers about the cybersecurity incident it suffered earlier this week, confirming that hackers accessed some personal data. [...]",
-        "source": "BleepingComputer"
+        "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
+        "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
+        "pubDate": "Fri, 09 Oct 2026 18:29:22 +0530",
+        "description": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection.\n\nAnyDesk patched the flaw in version 8.0.3 in June",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Owner of Empire cybercrime market gets 40 years in prison",
-        "link": "https://www.bleepingcomputer.com/news/security/owner-of-empire-cybercrime-market-gets-40-years-in-prison/",
-        "pubDate": "Thu, 08 Oct 2026 06:29:19 -0400",
-        "description": "The co-creator of Empire Market, one of the largest dark web marketplaces before its shutdown, has been sentenced to 40 years in prison for facilitating $430 million in illegal transactions from 2018 to 2020. [...]",
-        "source": "BleepingComputer"
+        "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
+        "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
+        "pubDate": "Fri, 09 Oct 2026 18:17:28 +0530",
+        "description": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience using Claude to find vulnerabilities during",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
+        "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
+        "pubDate": "Fri, 09 Oct 2026 18:17:26 +0530",
+        "description": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\nDetails of the flaws are below -\n\n\n  CVE-2026-105133 ",
+        "source": "TheHackerNews"
       },
       {
         "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
@@ -390,6 +362,34 @@
         "pubDate": "Fri, 09 Oct 2026 17:00:00 +0530",
         "description": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “ve",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
+        "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
+        "pubDate": "Fri, 09 Oct 2026 14:33:24 +0530",
+        "description": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.\n\nSearchlight Cyber, which d",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
+        "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
+        "pubDate": "Fri, 09 Oct 2026 13:56:17 +0530",
+        "description": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
+        "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
+        "pubDate": "Fri, 09 Oct 2026 13:41:33 +0530",
+        "description": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions.\n\n\"CVE-2026-107406 is a memory overflow vu",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Unpatched AhsayCBS flaws exploited to deploy webshells, mine crypto",
+        "link": "https://www.bleepingcomputer.com/news/security/unpatched-ahsaycbs-flaws-exploited-to-deploy-webshells-mine-crypto/",
+        "pubDate": "Fri, 09 Oct 2026 13:17:23 -0400",
+        "description": "Threat actors are exploiting one critical and one medium-severity vulnerability still unpatched in the AhsayCBS backup management platform to deploy webshells and cryptocurrency miners. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -408,87 +408,87 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "link": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-        "pubDate": "Thu, 08 Oct 2026 20:04:26 +0000",
-        "description": "Three fired OpenAI safety researchers dispute allegations of mishandling sensitive information, warning in an open letter that their dismissals are creating a chilling effect on the company’s AI safety culture.",
+        "title": "LumenUs helps automate tedious paperwork in times of grief",
+        "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
+        "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000",
+        "description": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
         "source": "TechCrunch"
       },
       {
-        "title": "Watch the trailer for ‘The Altruists,’ Netflix’s show about the FTX scandal",
-        "link": "https://techcrunch.com/2026/10/08/watch-the-trailer-for-the-altruists-netflixs-show-about-the-ftx-scandal/",
-        "pubDate": "Thu, 08 Oct 2026 18:30:00 +0000",
-        "description": "A fictionalized Sam Bankman-Fried is coming to your TV screen on November 19.",
+        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
+        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
+        "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
+        "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hund",
         "source": "TechCrunch"
       },
       {
-        "title": "Ben Affleck is an AI nerd, and the internet is impressed",
-        "link": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/",
-        "pubDate": "Thu, 08 Oct 2026 18:20:32 +0000",
-        "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+        "title": "Danu Robotics’ fight to build a better recycling robot",
+        "link": "https://techcrunch.com/2026/10/09/danu-robotics-fight-to-build-a-better-recycling-robot/",
+        "pubDate": "Fri, 09 Oct 2026 16:45:00 +0000",
+        "description": "For six years, Danu founder Amy Ma has been working on a better way to sort recyclable waste.",
         "source": "TechCrunch"
       },
       {
-        "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
-        "link": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/",
-        "pubDate": "Thu, 08 Oct 2026 18:19:45 +0000",
-        "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+        "title": "We can’t help treating AI like it’s human. But should we?",
+        "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
+        "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
+        "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s revenue is reportedly $20 billion less than previously projected",
-        "link": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/",
-        "pubDate": "Thu, 08 Oct 2026 18:19:42 +0000",
-        "description": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
+        "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
+        "pubDate": "Fri, 09 Oct 2026 16:07:26 +0000",
+        "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google brings agentic AI to Gemini, starting with businesses",
-        "link": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses/",
-        "pubDate": "Thu, 08 Oct 2026 18:18:00 +0000",
-        "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with an email addr",
+        "title": "Remember Orkut? Its founder wants to bring it back",
+        "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
+        "pubDate": "Fri, 09 Oct 2026 15:56:15 +0000",
+        "description": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic changes usage policy to ban model abuse and election interference",
-        "link": "https://techcrunch.com/2026/10/08/anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference/",
-        "pubDate": "Thu, 08 Oct 2026 18:16:24 +0000",
-        "description": "Anthropic's updated usage policy explicitly prohibits users from repeatedly abusing Claude in extreme cases, though ordinary frustration and criticism are still allowed. The new rules also address election interference, deceptive campaigns, weapons s",
+        "title": "a16z’s Olivia Moore on the state of consumer AI",
+        "link": "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/",
+        "pubDate": "Fri, 09 Oct 2026 15:43:33 +0000",
+        "description": "Moore sees a huge opportunity in consumer AI, particularly if the industry can tap into revenue streams beyond just subscriptions and API charges.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s math solutions aren’t meeting the field’s standards yet",
-        "link": "https://techcrunch.com/2026/10/08/openais-math-solutions-arent-meeting-the-fields-standards-yet/",
-        "pubDate": "Thu, 08 Oct 2026 18:10:55 +0000",
-        "description": "OpenAI's flood of proofs deviated from the guidelines set by a group of mathematical researchers consulted by the frontier lab.",
+        "title": "Automattic interim CFO resigns just weeks after boardroom shakeup",
+        "link": "https://techcrunch.com/2026/10/09/automattic-loses-its-interim-cfo-just-weeks-after-boardroom-shakeup/",
+        "pubDate": "Fri, 09 Oct 2026 15:02:30 +0000",
+        "description": "Automattic's interim chief financial officer Jeremy Klaperman has left the company less than a month after taking the role, TechCrunch has learned. Sources say his departure followed a demotion back to his previous position, marking another executive",
         "source": "TechCrunch"
       },
       {
-        "title": "A startup founder who served time in prison is looking to court an untapped market: ex-cons",
-        "link": "https://techcrunch.com/2026/10/08/a-startup-founder-who-served-time-in-prison-is-looking-to-court-an-untapped-market-ex-cons/",
-        "pubDate": "Thu, 08 Oct 2026 16:45:00 +0000",
-        "description": "Richard Bronson, a former Stratton Oakmont partner who served time in federal prison for securities violations, has launched Commissary Club, a startup that uses AI to help people leaving prison find jobs, housing, community, and even dates.",
+        "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
+        "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
+        "pubDate": "Fri, 09 Oct 2026 14:42:34 +0000",
+        "description": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next ",
         "source": "TechCrunch"
       },
       {
-        "title": "Natura’s $99 smart ring puts AI agents on your finger",
-        "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
-        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
-        "description": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+        "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
+        "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
+        "pubDate": "Fri, 09 Oct 2026 14:30:00 +0000",
+        "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost",
-        "link": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost/",
-        "pubDate": "Thu, 08 Oct 2026 16:00:00 +0000",
-        "description": "Goodfire just launched what it says is a cheaper way to keep AI agents in check: Instead of paying a second AI to read everything an agent does, its monitors peek inside the model while it works and only call in backup when something looks fishy.",
+        "title": "TechCrunch Disrupt 2026 starts in 4 days — lock in your pass savings of up to $100 before prices rise",
+        "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-starts-in-4-days-lock-in-your-pass-savings-of-up-to-100-before-prices-rise/",
+        "pubDate": "Fri, 09 Oct 2026 14:00:00 +0000",
+        "description": "Four days until TechCrunch Disrupt 2026 starts, when 10,000 founders, investors, and tech leaders gather in San Francisco's Moscone West on October 13-15. Save up to $100 on your price. Plus, save 50% on a second pass of the same type.",
         "source": "TechCrunch"
       },
       {
-        "title": "US bars Microsoft, Adobe, and major IT firms from green card program for skilled foreign workers",
-        "link": "https://techcrunch.com/2026/10/08/us-bars-microsoft-adobe-and-major-it-firms-from-green-card-program-for-skilled-foreign-workers/",
-        "pubDate": "Thu, 08 Oct 2026 15:42:26 +0000",
-        "description": "The other firms being suspended from the program include Capgemini, Cognizant, HCL, Infosys, Tata, and Wipro.",
+        "title": "Surveillance company Flock cuts staff as privacy backlash grows",
+        "link": "https://techcrunch.com/2026/10/09/surveillance-company-flock-cuts-staff-as-privacy-backlash-grows/",
+        "pubDate": "Fri, 09 Oct 2026 13:40:36 +0000",
+        "description": "Flock would not say if CEO Garrett Langley would take a pay cut following the reduction in workforce.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI doubles down on decision to fire three AI safety researchers",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers",
-        "pubDate": "2026-10-09T05:48:26-04:00",
-        "description": "OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the company said Jasmine Wang, Tomek Korbak and Mikita ⁠Balesni were dismi",
+        "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
+        "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
+        "pubDate": "2026-10-09T14:30:48-04:00",
+        "description": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreame",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft 365 Family subscribers will finally be able to share AI benefits",
-        "link": "https://www.theverge.com/news/1008581/microsoft-365-family-premium-shared-ai-features-storage-changes",
-        "pubDate": "2026-10-09T03:14:32-04:00",
-        "description": "Microsoft bundled its AI-powered Office features into Microsoft 365 Personal and Family subscriptions last year, but it only allowed the primary account holder to access the AI benefits. Now, Microsoft is about to let Microsoft 365 Family and Premium",
+        "title": "Nikon microscopic video competition winner disqualified for using generative AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
+        "pubDate": "2026-10-09T14:06:57-04:00",
+        "description": "Nikon says the video that originally won first place in its Small World in Motion contest \"did not comply with the competition rules regarding generative AI.\" BBC reports that the original first place video from Dr. Ning Xu claimed to show \"tiny, hai",
         "source": "TheVerge"
       },
       {
-        "title": "US plans livestream of execution by firing squad",
-        "link": "https://www.theverge.com/tech/1008530/us-government-livestream-execution-firing-squad-fort-hood",
-        "pubDate": "2026-10-08T18:32:04-04:00",
-        "description": "The United States' execution of the Fort Hood shooter will be livestreamed, anonymous officials from the Defense Department told the BBC and Associated Press. The planned execution of Nidal Hasan, the former US Army major convicted of killing 13 peop",
+        "title": "Google teases Fitbit Edge launch next week",
+        "link": "https://www.theverge.com/tech/1008918/google-fitbit-edge-launch-next-week",
+        "pubDate": "2026-10-09T14:05:55-04:00",
+        "description": "It looks like Google is getting ready to take the wraps off its rumored Fitbit Edge next Monday. In a post on X, Google posted a picture of what appears to be the side of the fitness tracker, with the caption: \"Get an Edge on your health. 10.12.26.\" ",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic launches free AI security scans for open-source projects",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-        "pubDate": "2026-10-08T17:53:51-04:00",
-        "description": "Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thorough, periodic security scans by our strongest models at no cost.\" Tha",
+        "title": "The Samsung Galaxy S26 Ultra is down to $950 after Prime Day",
+        "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+        "pubDate": "2026-10-09T13:41:24-04:00",
+        "description": "Amazon has the Samsung Galaxy S26 Ultra in black with 256GB of storage discounted to $949.99, a healthy discount from its usual price of $1,399.99. This phone’s standout feature is the adjustable privacy display, which can hide your entire screen, or",
         "source": "TheVerge"
       },
       {
-        "title": "SpaceX announces plan to become a ‘major mobile carrier’",
-        "link": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
-        "pubDate": "2026-10-08T17:23:31-04:00",
-        "description": "SpaceX has acquired a portfolio of low-band spectrum licenses - a move the company says \"will pave the way\" for its Starlink Mobile service to become a \"major\" US carrier. When the Federal Communications Commission signs off on the deal, SpaceX says ",
+        "title": "Amazon’s new Kindles appear to have a light leak problem",
+        "link": "https://www.theverge.com/tech/1008833/amazon-kindle-light-leak",
+        "pubDate": "2026-10-09T13:25:39-04:00",
+        "description": "Some users are reporting that the new Kindles have a light leak issue that is especially apparent when using dark mode. The latest base-model Kindles have a flush bezel that gives them a sleek appearance and looks great… as long as you keep the light",
         "source": "TheVerge"
       }
     ],
