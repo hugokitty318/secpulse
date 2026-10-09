@@ -1,7 +1,63 @@
 {
-  "ts": "2026-10-08T23:56:33.939388Z",
+  "ts": "2026-10-09T06:02:21.172750Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "網頁版及Windows Outlook 11月將封鎖MSIX附件",
+        "link": "https://www.ithome.com.tw/news/179553",
+        "pubDate": "2026-10-09 13:51",
+        "description": "微軟將從11月起，預設封鎖新版Windows版及網頁版Outlook的MSIX附件，涵蓋.msix與.msixbundle兩種格式。這項調整是為降低惡意安裝套件透過電子郵件散布的風險，屆時使用者將無法直接開啟或下載相關附件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "當威脅情報只剩大量數據，企業該相信什麼？",
+        "link": "https://www.ithome.com.tw/news/179529",
+        "pubDate": "2026-10-09 12:00",
+        "description": "企業若只靠AI分析暗網與公開來源資料，便直接產出封鎖清單，可能因缺乏來源驗證、時效判斷與組織脈絡而造成大量誤判。AI可以協助從海量資料中找出訊號，但要轉化為可採取行動的威脅情報，仍須經過交叉驗證與專業判讀。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "HPE預告將推出第13代伺服器平臺，主打三大系統安全性強化特色",
+        "link": "https://www.ithome.com.tw/news/179547",
+        "pubDate": "2026-10-09 11:50",
+        "description": "本週HPE宣布即將推出四款ProLiant Gen13伺服器搭載第六代AMD EPYC處理器，標榜多項新增與強化功能，安全性是當中的最大特色，包含PQC防護能力擴展、多人授權，以及開機即用的自動硬碟自我加密",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本IDC Frontier雲端遭勒索軟體攻擊，波及495家客戶、部分系統靠備份重建",
+        "link": "https://www.ithome.com.tw/news/179548",
+        "pubDate": "2026-10-09 11:14",
+        "description": "IDCF Cloud東日本4個服務區的虛擬伺服器停擺，部分客戶資料恐難復原，日本物流業者、企業批發平臺及政府網站等也傳出服務異常，業者仍在調查入侵途徑與資料外洩情況",
+        "source": "iThome資安"
+      },
+      {
+        "title": "3個國碼頂級網域遭劫持，攻擊者取得Google等組織HTTPS憑證",
+        "link": "https://www.ithome.com.tw/news/179500",
+        "pubDate": "2026-10-09 08:00",
+        "description": "Google揭露.gh、.sl及.as等3個國碼頂級網域遭劫持，攻擊者竄改DNS紀錄，藉此取得Google及其他組織網域的未經授權HTTPS憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟測試新Windows Search，不只能搜尋還能執行動作",
+        "link": "https://www.ithome.com.tw/news/179549",
+        "pubDate": "2026-10-09  11:10:45",
+        "description": "本周在Windows and Surface大會上，微軟宣佈為Windows Search改版，包括改用新的WinUI 3介面、更快速搜尋，並讓使用者透過Windows Search直接操作電腦設定。預計明年將整合Windows Search和Copilot。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google公布能在本地運作的AI會議筆記App",
+        "link": "https://www.ithome.com.tw/news/179554",
+        "pubDate": "2026-10-09  02:10:29",
+        "description": "Google上周公布一款類似知名AI會議筆記軟體Granola的應用程式Google AI Edge Foresight，可讓用戶在本地端製作視訊會議筆記。\n這款應用程式是以不久前才公布的7.4億參數邊緣AI模型Google EmbeddingGemma 2為底層引擎，後者可部署在手機、筆電等裝置，能處理文字、程式碼、圖片、影片與音訊，可以文字搜尋圖片或影片片段，也能理解音訊並尋找內容相近的影音。",
+        "source": "iThome"
+      },
+      {
+        "title": "SpaceX收購低頻頻譜以擴張Starlink行動通訊能力",
+        "link": "https://www.ithome.com.tw/news/179551",
+        "pubDate": "2026-10-09  01:10:52",
+        "description": "SpaceX周四（10/8）宣布，將收購美國投資公司Grain Management持有的全美800MHz低頻段頻譜資產，以擴張Starlink Mobile行動通訊服務，並朝成為美國主要行動電信業者的目標邁進。雙方並未公布財務細節，但外電報導該交易價值80億美元，此一交易仍須取得美國聯邦通訊委員會（FCC）核准。",
+        "source": "iThome"
+      },
       {
         "title": "【資安週報】1005~1008，臺灣2026上半年遭網路威脅影響的程度排名升至全球第4名",
         "link": "https://www.ithome.com.tw/news/179528",
@@ -73,48 +129,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "杏一網站疑似發生個資外洩",
-        "link": "https://www.ithome.com.tw/news/179507",
-        "pubDate": "2026-10-08 11:37",
-        "description": "醫療用品零售通路公司杏一（4175）發布資安重訊，表示接獲消費者通報疑似個資外洩的情況，資料源自委外管理的網站平臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多家韓國金融業者接連遭駭，CrowdStrike揭露疑似中國背景駭客結合AI與滲透測試工具從事攻擊",
-        "link": "https://www.ithome.com.tw/news/179506",
-        "pubDate": "2026-10-08 11:31",
-        "description": "攻擊時間與目標均與近期韓國金融業事件重疊，CrowdStrike研判攻擊者可能為中文使用者",
-        "source": "iThome資安"
-      },
-      {
-        "title": "鈊象營運資訊設備遭到入侵，部分營運資料與玩家個資外洩",
-        "link": "https://www.ithome.com.tw/news/179504",
-        "pubDate": "2026-10-08 11:10",
-        "description": "本週遊戲軟體公司鈊象（3293）發布資安重訊，針對9月底營運資訊設備遭入侵事故補充說明，指出有部分遊戲營運資料外洩，其中包含了玩家個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "開源檔案共用軟體Rejetto HFS重大漏洞的細節公開後出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/179488",
-        "pubDate": "2026-10-08 09:48",
-        "description": "威脅情報公司VulnCheck警告，開源檔案共用軟體Rejetto HFS重大漏洞CVE-2026-61500的細節公開不久，他們就在蜜罐陷阱偵測到小規模的偵察活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "語音AI新創Modulate募資2,500萬美元，從遊戲語音安全擴展深偽偵測與AI代理監督",
-        "link": "https://www.ithome.com.tw/news/179462",
-        "pubDate": "2026-10-08 08:00",
-        "description": "Modulate從遊戲語音安全進一步拓展企業市場。旗下Velma平臺可直接分析音訊中的情緒、意圖等訊號，並偵測深偽語音，也能分析AI語音代理與客戶的對話，找出異常或不符合規範的情況",
-        "source": "iThome資安"
-      },
-      {
-        "title": "LLM加速及快取管理平臺LMCache多行程模式曝重大RCE漏洞",
-        "link": "https://www.ithome.com.tw/news/179511",
-        "pubDate": "2026-10-08  12:10:47",
-        "description": "大型語言模型推論加速及快取管理平臺LMCache爆出重大遠端程式碼執行漏洞CVE-2026-105192，CVSS風險評分達9.8。",
-        "source": "iThome"
-      },
-      {
         "title": "Google推出AI遊戲平臺Playground，文字指令即可建立、發布遊戲",
         "link": "https://www.ithome.com.tw/news/179535",
         "pubDate": "2026-10-08  05:10:50",
@@ -126,20 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179525",
         "pubDate": "2026-10-08  05:10:24",
         "description": "網際網路名稱與數位位址分配機構（ICANN）公布2026年新一輪通用頂級網域申請名單，共有481個申請者提出1,615件申請，這是繼2012年後，睽違14年再度公布新一輪申請名單。AI相關名稱成為競爭焦點，OpenAI、Meta與Google都申請.agent，也就是「代理」相關頂級網域，OpenAI另申請.agi、.model及.mcp等名稱。",
-        "source": "iThome"
-      },
-      {
-        "title": "從兩張衛星影像，看雲林如何改善農業勘災",
-        "link": "https://www.ithome.com.tw/news/179527",
-        "pubDate": "2026-10-08  03:10:34",
-        "description": "雲林縣是臺灣重要的農業生產基地，一旦颱風豪雨過境，農損救助申請案件動輒突破萬筆，基層公所人力卻遠遠不及案件增加的速度。\n面對案件暴增、山區交通不便及現勘安全風險，雲林縣審計室第一課審計黃珮如嘗試以衛星影像計算的植生指標，找出疑似災損熱區，為沿用多年的逐筆現場勘查制度尋找科技輔助方案。\n農業大縣的災損壓力，逐筆現勘模式面臨考驗\n雲林縣2024年度農業產值達948億元，占全國比重約一成六，肩負糧食安全的重責。農業產值愈高，遇上颱風豪雨造成的損失金額也相對驚人。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta、Google與美國政府攜手Biohub，整合18億美元資源打造AI生物學資料庫",
-        "link": "https://www.ithome.com.tw/news/179520",
-        "pubDate": "2026-10-08  02:10:46",
-        "description": "美國非營利研究機構Biohub周三（10/7）宣布，與美國能源部（DOE）、國家衛生研究院（NIH），以及Google DeepMind、Meta等科技業者擴大合作，整合總值18億美元的資金、資料、運算資源與測量技術，建立可供AI模型訓練的開放生物學資料庫，希望藉此訓練能夠預測細胞反應的AI模型，加速疾病研究與新藥開發。",
         "source": "iThome"
       }
     ],
@@ -301,13 +301,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft Outlook to block MSIX attachments starting November",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-outlook-to-block-msix-attachments-used-in-attacks/",
-        "pubDate": "Wed, 07 Oct 2026 11:44:22 -0400",
-        "description": "Microsoft announced that it will add .msix and .msixbundle attachments to the list of blocked attachments in Outlook Web and the new Outlook Windows client starting next month. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ThreatsDay: Ransomware Affiliate Betrayal, WhatsApp RAT, Exposed Hacker Tools and 12 More Stories",
         "link": "https://thehackernews.com/2026/10/threatsday-ransomware-affiliate.html",
         "pubDate": "Thu, 08 Oct 2026 23:28:02 +0530",
@@ -389,6 +382,13 @@
         "link": "https://www.bleepingcomputer.com/news/security/fakegit-malware-campaign-returns-with-17-610-malicious-github-repos/",
         "pubDate": "Thu, 08 Oct 2026 13:10:55 -0400",
         "description": "More than 17,000 fake repositories on GitHub are distributing the SmartLoader malware after the FakeGit campaign reactivated earlier this month to push the StealC infostealer. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Cisco warns of critical flaws allowing Nexus switch takeover",
+        "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-flaws-allowing-nexus-switch-takeover/",
+        "pubDate": "Thu, 08 Oct 2026 11:26:33 -0400",
+        "description": "Cisco released security advisories for five critical vulnerabilities in its NX-OS data center network operating system that could be exploited to run arbitrary code with root privileges on Nexus switches. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -626,6 +626,36 @@
         "products": "Citrix Products Denial of Service Vulnerability"
       },
       {
+        "title": "Apache HTTP Server Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261009",
+        "pubDate": "Fri, 09 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Apache HTTP Server"
+      },
+      {
+        "title": "ONLYOFFICE Docs Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/onlyoffice-docs-remote-code-execution-vulnerability_20261009",
+        "pubDate": "Fri, 09 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "ONLYOFFICE Docs Remote Code Execution Vulnerability"
+      },
+      {
+        "title": "Splunk Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261009",
+        "pubDate": "Fri, 09 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Splunk Products"
+      },
+      {
         "title": "Fortinet Products Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/fortinet-products-remote-code-execution-vulnerability_20261002",
         "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
@@ -644,36 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Mozilla Thunderbird"
-      },
-      {
-        "title": "SUSE Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/suse-linux-kernel-multiple-vulnerabilities_20261002",
-        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "SUSE Linux Kernel"
-      },
-      {
-        "title": "Debian Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261002",
-        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Debian Linux Kernel"
-      },
-      {
-        "title": "RedHat Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/redhat-linux-kernel-multiple-vulnerabilities_20261002",
-        "pubDate": "Fri, 02 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "RedHat Linux Kernel"
       }
     ]
   }
