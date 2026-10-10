@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-10T02:44:14.450604Z",
+  "ts": "2026-10-10T09:44:49.859313Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
+        "link": "https://www.ithome.com.tw/news/179532",
+        "pubDate": "2026-10-10 12:00",
+        "description": "代理式AI快速進入企業環境，從撰寫程式、整理郵件，到直接執行系統指令，AI正從「提供答案」走向「自主行動」，風險也從「說錯話」轉變為「做錯事」。企業若連環境中部署了哪些AI代理都不清楚，便難以進一步管理其權限與操作風險。",
+        "source": "iThome資安"
+      },
       {
         "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
         "link": "https://www.ithome.com.tw/news/179559",
@@ -133,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/179522",
         "pubDate": "2026-10-08 15:00",
         "description": "資安院院長龔化中上任屆滿兩個月，首度公開「國家資安防護2.0」藍圖，主張以AI對抗AI，規畫推動四項重點工作，搭配六大中心的時程與數字，勾勒出臺灣資安防線下一版的樣貌，其中最受矚目的是一場利用AI進行的攻防演練，預計明年四月登場。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Atlassian重大漏洞已出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/179521",
-        "pubDate": "2026-10-08 14:45",
-        "description": "資安公司Previdian、watchTowr警告，本週軟體開發廠商Atlassian公布的重大漏洞CVE-2026-21589已遭到利用，呼籲受影響系統的用戶應儘速套用更新程式因應",
         "source": "iThome資安"
       }
     ],
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
+        "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
+        "pubDate": "Sat, 10 Oct 2026 03:10:06 +0000",
+        "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead",
         "link": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/",
         "pubDate": "Sat, 10 Oct 2026 00:18:32 +0000",
@@ -492,11 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Beyond TechCrunch Disrupt 2026: The Side Events, Parties & Networking You Can’t Miss",
-        "link": "https://techcrunch.com/2026/10/09/beyond-techcrunch-disrupt-2026-the-side-events-parties-networking-you-cant-miss/",
-        "pubDate": "Fri, 09 Oct 2026 14:42:34 +0000",
-        "description": "TechCrunch Disrupt 2026 is just the beginning. From exclusive networking events and startup showcases to happy hours, dinners, and after-hours meetups, discover what’s happening across San Francisco during Disrupt Week, October 10–16. Find your next ",
-        "source": "TechCrunch"
+        "title": "My brief romance with an AI bird feeder",
+        "link": "https://www.theverge.com/gadgets/1007674/smart-bird-feeders-attact-pests-too",
+        "pubDate": "2026-10-10T03:00:00-04:00",
+        "description": "It started off promising enough. Dozens of tiny, colorful birds were drawn to my garden just a few weeks after I mounted a $350 $269 Kiwibit Bird Feeder 2 Pro. \"Looks like Great Tit!\" read the first AI-driven alert sent to my phone. \"Looks like Euras",
+        "source": "TheVerge"
       },
       {
         "title": "Decade-old RAM is making a comeback",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1008726/openai-mathematics-solutions-chaos",
         "pubDate": "2026-10-09T15:09:44-04:00",
         "description": "\"Staggering.\" \"Overwhelming.\" \"Unprecedented.\" \"Surreal.\" \"Pure insanity.\" Those were among the descriptions more than three dozen mathematicians reached for in conversations with The Verge as they tried to make sense of the flood of mathematical res",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Brendan Carr says he&#8217;ll let Pete Hegseth decide whether TV networks can air the public execution",
-        "link": "https://www.theverge.com/policy/1008950/fcc-brendan-carr-pete-hegseth-execution-tv-networks-air",
-        "pubDate": "2026-10-09T14:30:48-04:00",
-        "description": "FCC chairman Brendan Carr said he will defer to Secretary of Defense Pete Hegseth on whether TV networks can air the planned execution of convicted Fort Hood shooter Nidal Hasan by firing squad. The Pentagon has said the execution will be livestreame",
         "source": "TheVerge"
       }
     ],
