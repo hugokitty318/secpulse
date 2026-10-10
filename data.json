@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-10T15:51:23.235834Z",
+  "ts": "2026-10-10T20:02:19.195097Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,27 @@
     ],
     "en_tech": [
       {
+        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+        "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
+        "description": "Is Apple hoping to get into the AI-generated podcast business?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
+        "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
+        "pubDate": "Sat, 10 Oct 2026 17:00:00 +0000",
+        "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cloudflare acquires Deno to improve its Workers programming model",
+        "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+        "pubDate": "Sat, 10 Oct 2026 16:25:42 +0000",
+        "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
         "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
         "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
@@ -478,25 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "We can’t help treating AI like it’s human. But should we?",
-        "link": "https://techcrunch.com/2026/10/09/we-cant-help-treating-ai-like-its-human-but-should-we/",
-        "pubDate": "Fri, 09 Oct 2026 16:40:14 +0000",
-        "description": "\"When we are drawn into even the most primitive exchanges with a relational artifact, we believe it cares for us,\" Dr. Sherry Turkle writes. \"And we are wired to care for it in return.\"",
-        "source": "TechCrunch"
+        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+        "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
+        "pubDate": "2026-10-10T14:52:07-04:00",
+        "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in",
+        "source": "TheVerge"
       },
       {
-        "title": "Tesla renames ‘Full Self-Driving’ to ‘Tesla Assisted Driving’ in Europe",
-        "link": "https://techcrunch.com/2026/10/09/tesla-renames-full-self-driving-to-tesla-assisted-driving-in-europe/",
-        "pubDate": "Fri, 09 Oct 2026 16:07:26 +0000",
-        "description": "The name change is enough for Germany's transport minister to start advocating for Europe-wide adoption of the driver assistance software.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Remember Orkut? Its founder wants to bring it back",
-        "link": "https://techcrunch.com/2026/10/09/remember-orkut-its-founder-wants-to-bring-it-back/",
-        "pubDate": "Fri, 09 Oct 2026 15:56:15 +0000",
-        "description": "Orkut's founder is now taking aim at algorithms and AI-generated content.",
-        "source": "TechCrunch"
+        "title": "Ledger wallet tampering suspected after reports of crypto thefts",
+        "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
+        "pubDate": "2026-10-10T12:36:44-04:00",
+        "description": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it condu",
+        "source": "TheVerge"
       },
       {
         "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/podcast/1008733/warner-skydance-paramount-ellison-debt-failure",
         "pubDate": "2026-10-10T10:00:00-04:00",
         "description": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellis",
-        "source": "TheVerge"
-      },
-      {
-        "title": "LG’s RGB LED TV is good for certain situations, but an OLED is better",
-        "link": "https://www.theverge.com/tech/1008957/lg-mrgb95b-rgb-led-tv-review",
-        "pubDate": "2026-10-10T09:00:00-04:00",
-        "description": "When it comes to TVs, the LG name has long been synonymous with OLEDs, continually leading Samsung and Sony as the top OLED manufacturer. But 2026 is all about RGB LED TVs. Almost every major company has released models with the new technology - incl",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AI agent makers are promising privacy — will they deliver?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
-        "pubDate": "2026-10-10T09:00:00-04:00",
-        "description": "At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.\" OpenAI would spend the day taking veiled shots at Meta's Muse, its p",
         "source": "TheVerge"
       }
     ],
