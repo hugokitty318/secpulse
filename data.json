@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-11T08:48:05.521702Z",
+  "ts": "2026-10-11T15:36:40.212163Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,10 +259,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Ransomware attack disrupts Japan's IDCF Cloud used by govt clients",
-        "link": "https://www.bleepingcomputer.com/news/security/ransomware-attack-disrupts-japans-idcf-cloud-used-by-govt-clients/",
-        "pubDate": "Thu, 08 Oct 2026 16:09:45 -0400",
-        "description": "IDC Frontier, a major Japanese cloud and digital infrastructure company, disclosed that its IDCF Cloud service was targeted in a ransomware attack that caused an outage at a data center cluster serving the eastern part of the country. [...]",
+        "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
+        "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
+        "pubDate": "Sun, 11 Oct 2026 10:23:46 -0400",
+        "description": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -394,6 +394,27 @@
     ],
     "en_tech": [
       {
+        "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
+        "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+        "pubDate": "Sun, 11 Oct 2026 15:00:00 +0000",
+        "description": "This Battlefield 200 startup has developed blood-purification tech to save children",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "What to know about the landmark Warner Bros. Discovery sale",
+        "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
+        "pubDate": "Sun, 11 Oct 2026 14:15:00 +0000",
+        "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
+        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
+        "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
+        "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
         "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
         "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
@@ -478,59 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026: Gamma’s Grant Lee, Engine’s Elia Wallen, and GV’s Crystal Huang on landing your first 1,000 customers",
-        "link": "https://techcrunch.com/2026/10/09/techcrunch-disrupt-2026-gammas-grant-lee-engines-elia-wallen-and-gvs-crystal-huang-on-landing-your-first-1000-customers/",
-        "pubDate": "Fri, 09 Oct 2026 18:57:06 +0000",
-        "description": "Leaders from Gamma, Engine, and Google Ventures join TechCrunch Disrupt 2026 to talk how to get your first customers. Register now to save up to $100. Grab a second pass at 50% off.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "LumenUs helps automate tedious paperwork in times of grief",
-        "link": "https://techcrunch.com/2026/10/09/lumenus-helps-automate-tedious-paperwork-in-times-of-grief/",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 +0000",
-        "description": "\"The day your loved one passes away, you also get this honorary badge of a project manager for a project you had no idea about,\" said founder Sara Tashakorinia.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon and others are done keeping data center deals secret. Is it enough to build trust?",
-        "link": "https://techcrunch.com/video/amazon-and-others-are-done-keeping-data-center-deals-secret-is-it-enough-to-build-trust/",
-        "pubDate": "Fri, 09 Oct 2026 16:56:42 +0000",
-        "description": "Amazon says it will stop using NDAs when negotiating data center deals with local governments, following a similar move from Microsoft earlier this year. Secrecy has fueled community backlash against AI infrastructure, with opposition leading to hund",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
-        "pubDate": "2026-10-10T18:10:17-04:00",
-        "description": "In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a world where AI is treated as a \"set of nested black boxes\" whose advi",
+        "title": "NASA dumped over 800GB of Artemis II data online",
+        "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
+        "pubDate": "2026-10-11T11:34:40-04:00",
+        "description": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 p",
         "source": "TheVerge"
       },
       {
-        "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
-        "link": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
-        "pubDate": "2026-10-10T14:52:07-04:00",
-        "description": "Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are a direct response to claims made by UMG. The label filed a lawsuit in",
+        "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
+        "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
+        "pubDate": "2026-10-11T11:15:00-04:00",
+        "description": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, wh",
         "source": "TheVerge"
       },
       {
-        "title": "Ledger wallet tampering suspected after reports of crypto thefts",
-        "link": "https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts",
-        "pubDate": "2026-10-10T12:36:44-04:00",
-        "description": "Reports have been mounting that users of the Ledger crypto wallet have seen their accounts drained, and it appears to be related to tampered hardware sold by CryptoBillis. Ledger has asked CryptoBillis to pause all sales of its wallets while it condu",
+        "title": "Vurt wants you to look at vertical videos as a genre of their own",
+        "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
+        "pubDate": "2026-10-11T09:00:00-04:00",
+        "description": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential t",
         "source": "TheVerge"
       },
       {
-        "title": "K-pop star Sunmi loves Notion and ear cleaning videos",
-        "link": "https://www.theverge.com/entertainment/1008654/k-pop-sunmi-wonder-girls-interview",
-        "pubDate": "2026-10-10T11:00:00-04:00",
-        "description": "Sunmi is an undeniable force in K-pop. She first made her debut as a member of the Wonder Girls back in 2007, one of the first K-pop acts to really break through in the West. The English version of their single \"Nobody\" was the first K-pop song to hi",
+        "title": "What to expect from Apple’s ‘Welcome Home’ event",
+        "link": "https://www.theverge.com/tech/1009317/apple-what-to-expect-welcome-home",
+        "pubDate": "2026-10-11T09:00:00-04:00",
+        "description": "We are quickly coming up on Apple's \"Welcome Home\" launch event, where we expect a host of smart home-related announcements. We are expecting refreshes to Apple TV and HomePod Mini, as well as a brand new smart home hub. We could also see the debut o",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic is cutting off its internal evaluations from the internet",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
-        "pubDate": "2026-10-10T10:41:16-04:00",
-        "description": "After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a ",
+        "title": "Horror is big business",
+        "link": "https://www.theverge.com/column/1008432/horror-popular-widows-bay-resident-evil",
+        "pubDate": "2026-10-11T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on how pervasive horror has become, follow Andrew Webster. The Stepback, arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The",
         "source": "TheVerge"
       }
     ],
