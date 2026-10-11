@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-11T19:42:20.868966Z",
+  "ts": "2026-10-11T23:37:48.104556Z",
   "tabs": {
     "cn_sec": [
       {
@@ -152,20 +152,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "Meta 再推 AI Agent 新標準 PAP，為什麼 Agent 協議越來越多？",
-        "link": "https://techorange.com/2026/10/07/personal-agent-protocol-pap-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 17:27:10 +0800",
-        "description": "AI Agent（AI 代理）的協議名單又變長了。Meta 與企業 AI 新創 Sierra 10/6 宣布，將聯合 Genesys、Instinct、Rocket、Shopify、Stripe、Walmart 等業者開發「Personal Agent Protocol（PAP）」，希望建立一套個人 AI Agent 與企業互動的共同標準，包括身分驗證、使用者授權，以及企業如何掌握 Agent 透過網站、API 或企業 Agent 執行的行動。 不過 AI Agent 相關的協議已經越來越多：M",
-        "source": "TechOrange"
-      },
-      {
-        "title": "誰真的在為生成式 AI 買單？a16z：前 1% 付費者支出超過後 50% 總和",
-        "link": "https://techorange.com/2026/10/07/the-top-100-gen-ai-consumer-apps-7th-edition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 16:00:08 +0800",
-        "description": "創投公司 Andreessen Horowitz（a16z）最新發布的消費型生成式 AI App 排名顯示，市場目前仍由少數大型業者主導，其中 OpenAI 的 ChatGPT 持續在網站與行動 App 流量上保持領先，Google Gemini 與 Anthropic Claude 則是最接近的競爭者。a16z 同時也是 OpenAI 的投資者。 前 10% AI 消費者貢獻約一半支出，程式開發、生產力與創意工具最受青睞 這是 a16z 第 7 版《Top 100 Gen AI Consume",
-        "source": "TechOrange"
-      },
-      {
         "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
         "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 08 Oct 2026 17:03:12 +0800",
@@ -247,6 +233,20 @@
         "link": "https://techorange.com/2026/10/10/machinenative-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 10 Oct 2026 06:29:00 +0800",
         "description": "全球資產管理公司貝萊德（BlackRock）旗下的數位資產研究團隊，發布《機器原生經濟》（The Machine-Native Economy: How digital assets connect intelligence, commerce, and compute）報告。報告的核心主張是，人工智慧代表「機器原生的智慧」，數位資產則代表「機器原生的貨幣」；兩者結合後，將形成一個以自主軟體代理人為主角的經濟體系，區塊鏈則是讓這些代理人自動完成交易與清算的底層金融基礎設施。 報告反覆強調的核心概",
+        "source": "TechOrange"
+      },
+      {
+        "title": "餐飲 AI 不只會點餐，達美樂、麥當勞如何把 AI 深入門市營運系統？",
+        "link": "https://techorange.com/2026/10/12/dominos-mcdonalds-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 06:02:00 +0800",
+        "description": "當餐飲業開始導入 AI，最早受到關注的往往是消費者看得見的功能，例如語音點餐、聊天機器人或行銷工具。但近期達美樂（Domino’s）與麥當勞的動作，顯示餐飲科技正在往更深的營運層移動：AI 不再只是附加功能，而是逐步嵌入點餐、備餐、庫存、設備與外送等流程，成為串聯餐廳日常運作的核心系統。 達美樂以自研 DomOS 升級追蹤器，用精準預測解除顧客「等待焦慮」 達美樂近期大幅升級了自 2008 年問世的經典服務 Pizza Tracker。這項功能最初讓顧客透過簡單的視覺化介面，即時掌握披薩從下單、",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】OpenAI 年化營收為何差約 200 億美元？關鍵在計算口徑",
+        "link": "https://techorange.com/2026/10/12/openai-annualized-revenue-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 年化營收近 500 億美元，與先前數字差距涉及計算口徑 《路透社》引述知情人士報導，OpenAI 向投資人表示，9 月年化營收接近 500 億美元，低於先前在另一場投資人活動透露的接近 700 億美元。消息人士指出，差距主要涉及嘗試將 OpenAI 的數字與 Anthropic 直接比較時，採用了不同計算口徑。報導指出，Anthropic 納入透過亞馬遜（Amazon）AWS、Google Cloud 等雲端合作夥伴取得的銷售收入",
         "source": "TechOrange"
       }
     ],
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Will the HomeView be Apple’s first smart home success?",
+        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+        "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
+        "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+        "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
+        "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
+        "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+        "source": "TechCrunch"
+      },
+      {
         "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
         "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
         "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
@@ -485,18 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "pubDate": "Sat, 10 Oct 2026 14:00:00 +0000",
-        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Elon Musk intensifies attack on Ambani over Starlink India launch delay",
-        "link": "https://techcrunch.com/2026/10/09/elon-musk-intensifies-attack-on-ambani-over-starlink-india-launch-delay/",
-        "pubDate": "Sat, 10 Oct 2026 03:10:06 +0000",
-        "description": "Elon Musk has accused Indian billionaire Mukesh Ambani of blocking competition.",
-        "source": "TechCrunch"
+        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
+        "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+        "pubDate": "2026-10-11T16:06:43-04:00",
+        "description": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and ",
+        "source": "TheVerge"
       },
       {
         "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
         "pubDate": "2026-10-11T11:15:00-04:00",
         "description": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, wh",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Vurt wants you to look at vertical videos as a genre of their own",
-        "link": "https://www.theverge.com/entertainment/1008720/vurt-microdramas-verticals-interview-hilmon-sorey",
-        "pubDate": "2026-10-11T09:00:00-04:00",
-        "description": "From Disney Plus to HBO Max, almost every major established streaming service is experimenting with ways to get into vertical content. It's clear that these companies see video-focused social media platforms like TikTok and Instagram as existential t",
         "source": "TheVerge"
       }
     ],
