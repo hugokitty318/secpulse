@@ -1,7 +1,21 @@
 {
-  "ts": "2026-10-12T09:44:50.957783Z",
+  "ts": "2026-10-12T19:46:50.859266Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Telegram Desktop高風險漏洞可能導致帳號接管，研究人員已公開PoC",
+        "link": "https://www.ithome.com.tw/news/179598",
+        "pubDate": "2026-10-12 18:58",
+        "description": "Telegram處理程序間通訊（IPC）的指令字元存在漏洞，攻擊者可藉此竊取本機檔案與登入工作階段資料，進而可能接管帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PCI SSC發布支付環境AI安全指引，AI代理存取明文持卡人資料應經人工核准",
+        "link": "https://www.ithome.com.tw/news/179591",
+        "pubDate": "2026-10-12 18:25",
+        "description": "支付卡產業安全標準委員會（PCI SSC）發布支付環境AI安全指引，文件建議採least agency原則，只提供必要權限，並區分Human-in-the-loop與Human-over-the-loop兩種人工監督模式；若AI代理可存取明文持卡人資料，相關操作應經人工核准，Shadow AI及第三方AI服務也應納入治理",
+        "source": "iThome資安"
+      },
       {
         "title": "漏洞挖掘競賽Pwn2Own Ireland 2026共找出近100個零時差漏洞",
         "link": "https://www.ithome.com.tw/news/179590",
@@ -28,6 +42,13 @@
         "link": "https://www.ithome.com.tw/news/179583",
         "pubDate": "2026-10-12 15:18",
         "description": "資安公司SonicWall揭露SMA1000設備滿分漏洞CVE-2026-102255不久，已出現嘗試利用的活動，攻擊者發送特製請求試圖利用漏洞，用戶應儘速採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月12日，美司法部與FBI查封中國永信至誠科技兩款駭客工具，臺灣多所大學曾遭其滲透",
+        "link": "https://www.ithome.com.tw/news/179581",
+        "pubDate": "2026-10-12 14:56",
+        "description": "美國司法部與FBI查封中國永信至誠科技控制的相關網域，阻斷Microscan、FishHub兩款駭客工具的相關運作。此次公開資料也進一步揭露臺灣受害情況，其中兩所大學曾遭Microscan掃描，之後遭入侵並部署SoftEther維持遠端存取；FishHub的確認受害者則包括約20所臺灣大專院校",
         "source": "iThome資安"
       },
       {
@@ -87,38 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "第三季全球PC出貨量衰退逾兩成，創3年半最大跌幅",
-        "link": "https://www.ithome.com.tw/news/179568",
-        "pubDate": "2026-10-12 10:15",
-        "description": "市調機構IDC與Omdia統計顯示，2026年第三季全球PC出貨量年減逾兩成",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
-        "link": "https://www.ithome.com.tw/news/179566",
-        "pubDate": "2026-10-12 08:57",
-        "description": "Scala Communications旗下FAQ及線上諮詢系統i-ask遭非法存取，波及大和證券、Citizen及損保日本等企業",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
-        "link": "https://www.ithome.com.tw/news/179565",
-        "pubDate": "2026-10-12 08:40",
-        "description": "旅遊預約平臺skyticket營運商Adventure發生3起資安事件，涉及約1,464萬筆客戶資料；住宿預約系統業者手間いらず也傳出大規模個資外洩。旅行社H.I.S則揭露泰國子公司伺服器遭未經授權存取，可能波及旅客護照及健康資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
-        "link": "https://www.ithome.com.tw/news/179577",
-        "pubDate": "2026-10-12  12:10:48",
-        "description": "電動車大廠特斯拉（Tesla）近日將歐洲市場的Full Self-Driving（FSD，完全自動駕駛）駕駛輔助系統更名為Tesla Assisted Driving（特斯拉輔助駕駛），目前其德國官網已採用新名稱。",
+        "title": "Bun內建TypeScript型別檢查，官方測速最高達微軟編譯器6.4倍",
+        "link": "https://www.ithome.com.tw/news/179589",
+        "pubDate": "2026-10-12  07:10:57",
+        "description": "JavaScript執行環境Bun推出1.4.3版，新增內建TypeScript型別檢查器bun check，開發者可在執行程式、測試或建置前先檢查型別，發現錯誤就停止後續作業。Bun公布的測試顯示，檢查速度達TypeScript 7.0.2編譯器的3至6.4倍，記憶體用量也較低。\nBun原本就能直接執行TypeScript程式，但不會事先檢查資料型別是否正確，像是函式要求傳入數字，開發者卻提供字串，過去Bun不會在執行前報錯。新版加入型別檢查後，可在程式執行前找出這類問題，並顯示發生錯誤的檔案",
         "source": "iThome"
       },
       {
-        "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
-        "link": "https://www.ithome.com.tw/news/179570",
-        "pubDate": "2026-10-12  11:10:55",
-        "description": "網際網路號碼分配局（IANA）宣布，DNS根區域（Root Zone）自10月11日起改由新金鑰KSK-2024負責簽署，取代原本的KSK-2017，這是繼2018年首次輪替後，時隔8年再次更換根區域金鑰。IANA提醒，啟用DNSSEC驗證卻未更新信任錨（Trust Anchor）的DNS解析器，可能無法驗證根區域資料，導致網域名稱解析失敗，但預期多數使用者不會受到影響。",
+        "title": "Mullvad共同創辦人政治捐款惹議，Tor暫停聯合宣傳但維持技術合作",
+        "link": "https://www.ithome.com.tw/news/179594",
+        "pubDate": "2026-10-12  07:10:04",
+        "description": "開發Tor匿名網路及Tor Browser的美國非營利組織Tor Project宣布，因VPN業者Mullvad共同創辦人的政治捐款引發社群質疑，已暫停與Mullvad的聯合品牌宣傳，並調整官方管道對Mullvad Browser的介紹及推薦文字，避免外界誤以為雙方在價值觀上全面一致。不過，Tor不會終止合作，雙方仍將共同開發隱私瀏覽器。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
+        "link": "https://www.ithome.com.tw/news/179586",
+        "pubDate": "2026-10-12  07:10:02",
+        "description": "微軟推出決策模型Microsoft-Decision-1，專門處理AI代理及企業應用中的分類、評分、工作分派與流程控管。模型可根據預先設定的選項進行判斷，並回傳各選項的機率，協助應用程式決定下一步行動，例如選擇適合的AI模型、檢查代理操作，或判斷是否需要人工審查。目前已透過Microsoft Foundry及OpenRouter提供服務。",
         "source": "iThome"
       },
       {
@@ -166,24 +173,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "AI 讓重建成熟軟體的門檻降低？開發者用 Claude 打造 7 款 Adobe 替代品，揚言數月內追上 99% 功能",
-        "link": "https://techorange.com/2026/10/08/artcraft-software-ai-developer-adobe/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 12:11:58 +0800",
-        "description": "Adobe 長期以 Photoshop、Illustrator、Premiere 等 Creative Cloud 軟體主導創意工具市場，但現在一名軟體開發者試圖利用 AI 加速逆向工程，打造一套免費、開源的 Adobe 替代方案，甚至喊話要在數個月內達到接近完整的功能相容。 這項計畫來自 ArtCraft。ArtCraft 起步於 2025 年，原本是一款主打讓藝術家能控制 AI 的工具，讓使用者能對 AI 生成的圖片與影片進行更精細的後製。近日，ArtCraft 轉型發表一套包含 7 款開源",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 小模型戰升溫，Anthropic 推 Haiku 5.5，價格更低、Agent 能力卻更強？",
-        "link": "https://techorange.com/2026/10/08/anthropic-claude-haiku-5-5-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 11:16:22 +0800",
-        "description": "AI 小型模型的競爭，正從價格延伸到能承接多少實際工作。Anthropic 在美國時間 10/7 推出新 AI 模型 Claude Haiku 5.5，API 價格最高調降 90%，電腦操作測試表現更大幅超越前代，甚至領先 OpenAI GPT-6 Luna。隨著小型模型逐漸具備執行多步驟任務的能力，Haiku 5.5 究竟適合接手哪些工作？ 電腦操作成功率躍升，小模型能做的事越來越多 Anthropic 將 Haiku 5.5 定位為適合大量、高頻且對成本敏感任務的小型模型。除了摘要、資料分類",
-        "source": "TechOrange"
-      },
-      {
         "title": "【貝萊德機器原生經濟報告】Token Economy 打通 AI 商業行為，穩定幣與算力成新型態金融資產",
         "link": "https://techorange.com/2026/10/10/machinenative-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 10 Oct 2026 06:29:00 +0800",
         "description": "全球資產管理公司貝萊德（BlackRock）旗下的數位資產研究團隊，發布《機器原生經濟》（The Machine-Native Economy: How digital assets connect intelligence, commerce, and compute）報告。報告的核心主張是，人工智慧代表「機器原生的智慧」，數位資產則代表「機器原生的貨幣」；兩者結合後，將形成一個以自主軟體代理人為主角的經濟體系，區塊鏈則是讓這些代理人自動完成交易與清算的底層金融基礎設施。 報告反覆強調的核心概",
+        "source": "TechOrange"
+      },
+      {
+        "title": "中國無人車搶進夜間物流，京東「白天配送、夜間補貨」單車營運成本降 2 成",
+        "link": "https://techorange.com/2026/10/12/china-s-delivery-robots-learning-tackle-night-shift/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 18:24:18 +0800",
+        "description": "深圳今年 3 月開放無人車執行夜間配送。中國自動駕駛新創新石器（Neolix Technologies）的無人配送車，在深圳龍崗區的農貿市場載運家禽，送往雜貨店的顧客手中；京東物流（JINGDONG Logistics）則讓無人車在夜間運送日常用品，並為前置履約中心補充庫存。業者利用夜間較不壅塞的道路，延長車輛營運時間並降低人力成本。 新石器營運 2.7 萬輛無人車，以世界模型理解地圖上沒有的卸貨點 《Bloomberg》報導指出，深圳於 2026 年 3 月開放無人駕駛車輛執行夜間配送，這項實",
+        "source": "TechOrange"
+      },
+      {
+        "title": "ASML 下一代 Hyper NA 瞄準 5 奈米解析度，EUV 技術還有多少微縮空間？",
+        "link": "https://techorange.com/2026/10/12/asml-zeiss-hyper-na-euv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 17:08:05 +0800",
+        "description": "晶片電路還能縮得多小？荷蘭半導體設備大廠 ASML 與其光學夥伴蔡司（Zeiss）正研發下一代極紫外光（EUV）曝光技術 Hyper NA，目標將單次曝光解析度推進至約 5 奈米半間距（Half-pitch）。《Reuters》近日報導，ASML 尚未承諾量產，但表示這項技術有望約十年後準備就緒。 值得注意的是，Hyper NA 並未改用更短波長的光源，而是延續現有 EUV 技術，透過提高數值孔徑（NA）改善解析度。然而，提高 NA 並非沒有代價，ASML 與蔡司研究團隊在 10 月發表的技術論",
         "source": "TechOrange"
       },
       {
@@ -245,13 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "FBI disrupts Chinese hacking tools used to breach critical infrastructure",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-disrupts-chinese-hacking-tools-used-to-breach-critical-infrastructure/",
-        "pubDate": "Thu, 08 Oct 2026 17:42:51 -0400",
-        "description": "The FBI has seized seven domains used by Chinese state-sponsored hackers known as Flax Typhoon to operate two hacking tools, MicroScan and FishHub, used in attacks that breached critical infrastructure and other organizations worldwide. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
         "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
         "pubDate": "Sun, 11 Oct 2026 10:23:46 -0400",
@@ -308,6 +308,48 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
+        "link": "https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html",
+        "pubDate": "Mon, 12 Oct 2026 20:46:26 +0530",
+        "description": "Some meetings last longer than it took attackers to jump on a newly disclosed security flaw this week. Within hours, they were already testing it. That's not much time to read the warning, let alone do something about it.\n\nBut speed is only part of t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Bring Your Own Agent: Your Employees' Assistants Are Already Logged In",
+        "link": "https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html",
+        "pubDate": "Mon, 12 Oct 2026 17:25:00 +0530",
+        "description": "The personal AI agents rollout is going about as smoothly as expected: Amazon now blocks Meta's Muse because it doesn't identify itself as a bot while browsing; Instinct keeps raising privacy concerns; and the horror stories from pretty much every pe",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports",
+        "link": "https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html",
+        "pubDate": "Mon, 12 Oct 2026 16:51:48 +0530",
+        "description": "Cryptocurrency hardware maker Ledger has temporarily paused sales of its products via CryptoBilis following reports of stolen funds linked to devices sold by the reseller.\n\nOn Friday, the company said it was investigating reports of loss of funds fro",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
+        "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
+        "pubDate": "Mon, 12 Oct 2026 16:06:56 +0530",
+        "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Yandex confirms service outage as users lose access to cloud files",
+        "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
+        "pubDate": "Mon, 12 Oct 2026 15:23:01 -0400",
+        "description": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Anthropic takes risky AI tests offline after models breach govt sites",
+        "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
+        "pubDate": "Mon, 12 Oct 2026 14:51:59 -0400",
+        "description": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
         "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
         "pubDate": "Mon, 12 Oct 2026 14:32:14 +0530",
@@ -322,67 +364,32 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack",
-        "link": "https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html",
-        "pubDate": "Fri, 09 Oct 2026 23:15:26 +0530",
-        "description": "The FBI has arrested another suspected co-conspirator of ShinyHunters, FBI Director Kash Patel said on October 9 in a post on X.\n\nShinyHunters is the extortion group that said in September it had breached the FBI's jobs portal and stolen sensitive da",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "TP-Link Sued by Four More U.S. States Over Router Security and China Ties",
-        "link": "https://thehackernews.com/2026/10/tp-link-sued-by-four-more-us-states.html",
-        "pubDate": "Fri, 09 Oct 2026 18:52:53 +0530",
-        "description": "Four more U.S. states sued router maker TP-Link Systems on October 6, bringing the total to five, with  Texas filing a suit in February. Florida, Iowa, Montana and Nebraska allege the California company misled buyers about how secure its routers are ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Researchers Publish Working Exploit for Pre-Auth AnyDesk Linux Flaw That Gives Root Access",
-        "link": "https://thehackernews.com/2026/10/researchers-publish-working-exploit-for.html",
-        "pubDate": "Fri, 09 Oct 2026 18:29:22 +0530",
-        "description": "Security researchers have published a full working exploit for a pre-authentication remote code execution flaw in AnyDesk Linux that gives attackers root access before anyone approves the connection.\n\nAnyDesk patched the flaw in version 8.0.3 in June",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic Launches Free AI Vulnerability Scanner for Open-Source Projects",
-        "link": "https://thehackernews.com/2026/10/anthropic-launches-free-ai.html",
-        "pubDate": "Fri, 09 Oct 2026 18:17:28 +0530",
-        "description": "Anthropic on Thursday unveiled OSS Scanner as an opt-in vulnerability scanner to help secure the open-source ecosystem using artificial intelligence (AI).\n\n\"It's an opt-in service informed by our experience using Claude to find vulnerabilities during",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Exploit AhsayCBS Flaws to Deploy XMRig Miners Disguised as Microsoft Edge",
-        "link": "https://thehackernews.com/2026/10/attackers-exploit-ahsaycbs-flaws-to.html",
-        "pubDate": "Fri, 09 Oct 2026 18:17:26 +0530",
-        "description": "Threat actors have been observed exploiting two recently disclosed flaws in the AhsayCBS backup utility to seize control of affected devices and deploy web shells and XMRig cryptocurrency miners.\n\nDetails of the flaws are below -\n\n\n  CVE-2026-105133 ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Flax Typhoon Exploits Five Flaws as CISA Sets October 11 Deadline for Federal Agencies",
-        "link": "https://thehackernews.com/2026/10/flax-typhoon-exploits-five-flaws-as.html",
-        "pubDate": "Fri, 09 Oct 2026 17:51:51 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added five security flaws to its Known Exploited Vulnerabilities (KEV) catalog, following their abuse by a China-linked threat actor known as Flax Typhoon.\n\nThe vulnerabilit",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "The AI Velocity Paradox: Why Security Is Decades Behind AI Ambition",
-        "link": "https://thehackernews.com/2026/10/the-ai-velocity-paradox-why-security-is.html",
-        "pubDate": "Fri, 09 Oct 2026 17:00:00 +0530",
-        "description": "As enterprises race to deploy autonomous AI agents to accelerate business, a new report reveals they are tethered to security architectures built for a different era. The \"Horizons of Identity Security\" report from SailPoint highlights a critical “ve",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers abuse Google Ads, Bing redirects to push Claude ClickFix attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-bing-redirects-to-push-claude-clickfix-attacks/",
-        "pubDate": "Fri, 09 Oct 2026 16:31:37 -0400",
-        "description": "Hackers are abusing legitimate Bing search-result redirects as click URLs in Google search ads to direct users to fake Claude installers that deliver ClickFix attacks. [...]",
+        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+        "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+        "pubDate": "Mon, 12 Oct 2026 12:27:23 -0400",
+        "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "GoBalance Flaw Lets Attackers Hijack .onion Addresses by Recovering Tor-Format Keys",
-        "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
-        "pubDate": "Fri, 09 Oct 2026 14:33:24 +0530",
-        "description": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.\n\nSearchlight Cyber, which d",
-        "source": "TheHackerNews"
+        "title": "Cyberattack shuts down refrigerators at French supermarkets",
+        "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
+        "pubDate": "Mon, 12 Oct 2026 11:23:34 -0400",
+        "description": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
+        "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
+        "pubDate": "Mon, 12 Oct 2026 10:00:10 -0400",
+        "description": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, an",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
+        "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
+        "pubDate": "Mon, 12 Oct 2026 09:51:07 -0400",
+        "description": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -394,7 +401,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Aaron Sorkin’s ‘Social Reckoning’ is off to a weak start",
+        "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
         "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
         "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
         "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
@@ -422,66 +429,66 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: A roadblock clears for self-driving trucks",
-        "link": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
-        "pubDate": "Sun, 11 Oct 2026 16:02:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Meta releases its first frontier model, Muse Wonder",
+        "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+        "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
+        "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
         "source": "TechCrunch"
       },
       {
-        "title": "Dawn Myers is making it easier to style, detangle, and care for curly hair",
-        "link": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
-        "pubDate": "Sun, 11 Oct 2026 16:00:00 +0000",
-        "description": "Richualist is one of TechCrunch's Battlefield 200 Companies!",
+        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+        "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
+        "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
+        "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
         "source": "TechCrunch"
       },
       {
-        "title": "Efferon wants to eradicate the devastating toll of pediatric sepsis",
-        "link": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
-        "pubDate": "Sun, 11 Oct 2026 15:00:00 +0000",
-        "description": "This Battlefield 200 startup has developed blood-purification tech to save children",
+        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
+        "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
+        "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
+        "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
         "source": "TechCrunch"
       },
       {
-        "title": "What to know about the landmark Warner Bros. Discovery sale",
-        "link": "https://techcrunch.com/2026/10/11/warner-bros-netflix-paramount-acquisition-timeline-wbd/",
-        "pubDate": "Sun, 11 Oct 2026 14:15:00 +0000",
-        "description": "Learn more about Paramount's planned acquisition of Warner Bros. Discovery — a historic Hollywood megadeal valued at $111 billion — as it continues to develop.",
+        "title": "Microsoft president says UK is best placed to drive AI regulation",
+        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
+        "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
+        "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
         "source": "TechCrunch"
       },
       {
-        "title": "These execs think voice AI hasn’t reached its ChatGPT moment yet",
-        "link": "https://techcrunch.com/2026/10/11/these-execs-think-voice-ai-hasnt-reached-its-chatgpt-moment-yet/",
-        "pubDate": "Sun, 11 Oct 2026 14:00:00 +0000",
-        "description": "Voice AI's often misses important points for its context layer, and causes the whole pipeline to break",
+        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+        "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
+        "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
+        "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-        "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-        "pubDate": "Sat, 10 Oct 2026 21:47:51 +0000",
-        "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
+        "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
+        "pubDate": "Mon, 12 Oct 2026 15:11:19 +0000",
+        "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-        "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
-        "pubDate": "Sat, 10 Oct 2026 19:50:00 +0000",
-        "description": "Is Apple hoping to get into the AI-generated podcast business?",
+        "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
+        "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
+        "pubDate": "Mon, 12 Oct 2026 14:09:34 +0000",
+        "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
         "source": "TechCrunch"
       },
       {
-        "title": "Petra Power looks to modernize energy for data centers and defense vehicles",
-        "link": "https://techcrunch.com/2026/10/10/petra-power-looks-to-modernize-energy-for-data-centers-and-defense-vehicles/",
-        "pubDate": "Sat, 10 Oct 2026 17:00:00 +0000",
-        "description": "The startup says its fuel cells are super efficient and cut fuel costs during a time when the tech industry can’t get enough electricity.",
+        "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
+        "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
+        "pubDate": "Mon, 12 Oct 2026 14:00:00 +0000",
+        "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your l",
         "source": "TechCrunch"
       },
       {
-        "title": "Cloudflare acquires Deno to improve its Workers programming model",
-        "link": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
-        "pubDate": "Sat, 10 Oct 2026 16:25:42 +0000",
-        "description": "Cloudflare will use this acquisition to improve its Workers programming model and platform.",
+        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
+        "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
+        "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
+        "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, o",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "A college in Illinois tried to cancel its Flock contact and it refused",
-        "link": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-        "pubDate": "2026-10-11T16:06:43-04:00",
-        "description": "In April of 2025, Elgin Community College had six Flock safety cameras installed to \"enhance the safety and security of students.\" But by September of that year, the school's administration grew concerned that Flock was sharing data with Customs and ",
+        "title": "Meta has some Wonder Full new AI models",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
+        "pubDate": "2026-10-12T13:00:00-04:00",
+        "description": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's ",
         "source": "TheVerge"
       },
       {
-        "title": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "pubDate": "2026-10-11T14:33:56-04:00",
-        "description": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley",
+        "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
+        "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
+        "pubDate": "2026-10-12T12:52:54-04:00",
+        "description": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest politic",
         "source": "TheVerge"
       },
       {
-        "title": "The new Apple TV could have a built-in mic and a remote with a speaker",
-        "link": "https://www.theverge.com/tech/1009397/apple-tv-refresh-built-in-mic-remote-speaker",
-        "pubDate": "2026-10-11T13:31:07-04:00",
-        "description": "The latest rumors are that the new Apple TV will have a built-in microphone, while the upgraded remote will get a speaker. The mic would let users control the set-top box using Siri without having to speak into the remote or a connected HomePod devic",
+        "title": "The Yandex outage probably didn’t blitz Russian bots",
+        "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
+        "pubDate": "2026-10-12T11:43:07-04:00",
+        "description": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart cit",
         "source": "TheVerge"
       },
       {
-        "title": "NASA dumped over 800GB of Artemis II data online",
-        "link": "https://www.theverge.com/science/1009379/nasa-800gb-artemis-ii-data",
-        "pubDate": "2026-10-11T11:34:40-04:00",
-        "description": "If you thought you'd seen all there is to see from the Artemis II mission, you're wrong. This week NASA posted over 800GB worth of science data, images, and videos on the Artemis II: Sights & Sounds of Science site. The archive includes over 11,000 p",
+        "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
+        "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
+        "pubDate": "2026-10-12T11:00:00-04:00",
+        "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modu",
         "source": "TheVerge"
       },
       {
-        "title": "George A. Romero’s Season of the Witch is a slow-burn feminist occult drama",
-        "link": "https://www.theverge.com/entertainment/1009346/george-a-romero-season-of-the-witch-feminist-horror-review",
-        "pubDate": "2026-10-11T11:15:00-04:00",
-        "description": "George A. Romero is obviously best known as the father of the modern zombie movie. But between inventing the genre with Night of the Living Dead and his outbreak horror, The Crazies, Romero made two much lesser-known films: There's Always Vanilla, wh",
+        "title": "Android is the best and worst thing about Googlebooks",
+        "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
+        "pubDate": "2026-10-12T10:00:00-04:00",
+        "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessin",
         "source": "TheVerge"
       }
     ],
