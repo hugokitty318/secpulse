@@ -1,7 +1,91 @@
 {
-  "ts": "2026-10-12T02:38:42.845357Z",
+  "ts": "2026-10-12T09:44:50.957783Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "漏洞挖掘競賽Pwn2Own Ireland 2026共找出近100個零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/179590",
+        "pubDate": "2026-10-12 17:33",
+        "description": "上週愛爾蘭場漏洞挖掘競賽Pwn2Own Ireland 2026於科克展開，比賽結果出爐，由日本團隊Ikotas Labs以42.5個大師點數奪得破解大師（Master of Pwn）稱號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "備份管理平臺AhsayCBS資安漏洞被串連利用，攻擊者試圖挖礦與植入後門程式",
+        "link": "https://www.ithome.com.tw/news/179587",
+        "pubDate": "2026-10-12 16:33",
+        "description": "威脅情報公司Huntress警告，近日公布的備份管理平臺AhsayCBS資安漏洞CVE-2026-105133、CVE-2026-105134出現實際攻擊活動，攻擊者試圖於受害系統植入Webshell與挖礦軟體XMRig",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Palo Alto Networks指出68%組織在OT資產掌握上仍待加強，平均使用資安工具多達7套",
+        "link": "https://www.ithome.com.tw/news/179584",
+        "pubDate": "2026-10-12 15:58",
+        "description": "Palo Alto Networks發布2026年關鍵基礎設施網路安全現況報告，指出OT資產可視性不足仍是主要挑戰，僅32%受訪組織能即時完整掌握連線資產。此外，企業平均使用7套資安工具，AI應用尚未全面擴展，IT／OT資安營運完全整合的比例也僅26%",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SonicWall SMA1000滿分漏洞遭積極利用，3天內已出現135次活動",
+        "link": "https://www.ithome.com.tw/news/179583",
+        "pubDate": "2026-10-12 15:18",
+        "description": "資安公司SonicWall揭露SMA1000設備滿分漏洞CVE-2026-102255不久，已出現嘗試利用的活動，攻擊者發送特製請求試圖利用漏洞，用戶應儘速採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業邁向人與AI代理共存的混合工作團隊，SailPoint創辦人強調統一治理的重要性",
+        "link": "https://www.ithome.com.tw/news/179576",
+        "pubDate": "2026-10-12 14:38",
+        "description": "資安廠商SailPoint執行長暨創辦人Mark McClain日前首度造訪香港，針對AI代理快速增加帶來的身分治理挑戰提出警告。他指出，企業正邁向由人類與非人類共同組成的混合工作團隊，為有效控管相關風險，企業需要建立統一的身分治理機制，全面掌握身分環境並管理存取權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本企業接連發生資料外洩，JPCERT/CC示警並揭4類攻擊手法",
+        "link": "https://www.ithome.com.tw/news/179580",
+        "pubDate": "2026-10-12 14:21",
+        "description": "日本近期接連發生多起未經授權存取事件並造成大量資料外洩，JPCERT/CC示警，相關案例並非源自單一漏洞，而是涉及多種攻擊方式，目前彙整的案例包括：利用已知漏洞入侵、API濫用、Metabase漏洞與Web Shell等4類，並提醒企業加強API控管、漏洞修補與異常存取偵測",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix修補NetScaler重大等級的SAML漏洞",
+        "link": "https://www.ithome.com.tw/news/179578",
+        "pubDate": "2026-10-12 12:26",
+        "description": "上週Citrix揭露NetScaler重大漏洞CVE-2026-107406，並指出此弱點影響配置為SAML服務提供者與身分驗證提供者的NetScaler ADC與Gateway系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
+        "link": "https://www.ithome.com.tw/news/179575",
+        "pubDate": "2026-10-12 12:09",
+        "description": "Patchstack發現攻擊者利用Ninja Forms與WPC Product Bundles外掛漏洞，建立不易徹底清除的多重持續存取管道",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美司法部與FBI查封中國永信至誠科技兩款駭客工具，揭臺灣兩所大學曾遭Microscan掃描，後續被部署SoftEther VPN",
+        "link": "https://www.ithome.com.tw/news/179572",
+        "pubDate": "2026-10-12 11:27",
+        "description": "美國司法部與FBI查封中國永信至誠科技控制的相關網域，阻斷Microscan、FishHub兩款駭客工具。這次公開資料也進一步揭露臺灣受害情況，其中兩所大學曾遭Microscan掃描，之後遭入侵並部署SoftEther維持遠端存取；FishHub確認受害者則包括約20所臺灣大專院校",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客Flax Typhoon利用8個已知漏洞發動攻擊，美CISA要求聯邦機構緊急修補其中5個弱點",
+        "link": "https://www.ithome.com.tw/news/179574",
+        "pubDate": "2026-10-12 11:21",
+        "description": "五眼聯盟等國家資安機構針對中國資安公司永信至誠科技（Integrity Technology Group）與駭客團體Flax Typhoon攻擊活動提出警告，並提及這些駭客濫用8個已知漏洞，涵蓋FTP伺服器軟體ProFTPD、辦公室套件OnlyOffice，以及網頁應用程式框架Apache Struts等多種開源工具",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
+        "link": "https://www.ithome.com.tw/news/179573",
+        "pubDate": "2026-10-12 11:05",
+        "description": "28歲俄羅斯籍男子涉嫌攻擊德國企業並勒索加密貨幣，日本與德國警方合作完成跨國引渡",
+        "source": "iThome資安"
+      },
+      {
+        "title": "緯致科技部分員工資訊遭未經授權存取",
+        "link": "https://www.ithome.com.tw/news/179569",
+        "pubDate": "2026-10-12 10:30",
+        "description": "資訊技術服務公司緯致科技（4953）發布資安重訊，表示上週出現部分員工與公務聯繫資訊遭未經授權存取，該公司阻斷網路連線、系統隔離等措施因應",
+        "source": "iThome資安"
+      },
       {
         "title": "第三季全球PC出貨量衰退逾兩成，創3年半最大跌幅",
         "link": "https://www.ithome.com.tw/news/179568",
@@ -24,126 +108,35 @@
         "source": "iThome資安"
       },
       {
-        "title": "Carbonato殭屍網路入侵Docker主機，部署AI代理竊取憑證",
-        "link": "https://www.ithome.com.tw/news/179550",
-        "pubDate": "2026-10-12 08:00",
-        "description": "Carbonato殭屍網路鎖定未設身分驗證的Docker遠端管理介面，入侵主機後部署AI代理Hermes Agent。攻擊者可透過Telegram下達任務，讓AI代理利用LLM產生並執行命令，優先蒐集AI服務API金鑰及其他敏感資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "IBM併購英國資安顧問公司Logiq，擴大國防與公部門布局",
-        "link": "https://www.ithome.com.tw/news/179499",
-        "pubDate": "2026-10-12 08:00",
-        "description": "IBM併購英國資安顧問公司Logiq Consulting，進一步擴充英國國防、公部門及關鍵基礎設施的資安顧問服務。Logiq除了提供資安顧問服務，也開發DISX安全協作平臺，讓政府供應商與英國政府及國防組織安全交換敏感資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
-        "link": "https://www.ithome.com.tw/news/179562",
-        "pubDate": "2026-10-12 08:00",
-        "description": "韓國政府因應2025年資料中心火災暴露的災難復原問題，將約1.5萬套公部門資訊系統重新分為4級，依等級訂定復原時間目標與演練要求，並強化異地備援及資料中心鋰電池安全管理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA揭露中國資安公司支援駭客攻擊，竊取多國組織敏感資料",
-        "link": "https://www.ithome.com.tw/news/179560",
-        "pubDate": "2026-10-12 08:00",
-        "description": "美國CISA與多國資安機構揭露，中國資安公司永信至誠科技協助中國駭客入侵全球政府機關、關鍵基礎設施及其他組織的網路，旗下員工也直接參與網路入侵。CISA同時公布攻擊者使用的工具與入侵手法，建議企業加強漏洞修補、多因素驗證及異常活動監控",
-        "source": "iThome資安"
-      },
-      {
-        "title": "JetBrains開源Mellum2.1模型，程式修復評測解決率從2%升至47%",
-        "link": "https://www.ithome.com.tw/news/179561",
-        "pubDate": "2026-10-12  10:10:09",
-        "description": "JetBrains推出開源語言模型Mellum2.1，鎖定程式開發代理與輔助代理，開發者可將模型部署在自己的電腦或企業伺服器。新版主要透過強化學習提升軟體工程能力，搭配相關工具後，能檢視程式碼庫、修改檔案，並執行測試確認修改結果。模型已在Hugging Face釋出，採Apache 2.0授權。",
+        "title": "特斯拉在歐洲將FSD改名為Tesla Assisted Driving，以推動歐盟核准",
+        "link": "https://www.ithome.com.tw/news/179577",
+        "pubDate": "2026-10-12  12:10:48",
+        "description": "電動車大廠特斯拉（Tesla）近日將歐洲市場的Full Self-Driving（FSD，完全自動駕駛）駕駛輔助系統更名為Tesla Assisted Driving（特斯拉輔助駕駛），目前其德國官網已採用新名稱。",
         "source": "iThome"
       },
       {
-        "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
-        "link": "https://www.ithome.com.tw/news/179556",
-        "pubDate": "2026-10-12  08:10:57",
-        "description": "微軟宣布2027年4月1日起，SharePoint Online與OneDrive將開始淘汰部分Microsoft Graph檔案API使用的預先驗證網址（Pre-authenticated URL）。",
+        "title": "DNS根區域時隔8年更換簽章金鑰，未更新信任錨恐使網站無法連線",
+        "link": "https://www.ithome.com.tw/news/179570",
+        "pubDate": "2026-10-12  11:10:55",
+        "description": "網際網路號碼分配局（IANA）宣布，DNS根區域（Root Zone）自10月11日起改由新金鑰KSK-2024負責簽署，取代原本的KSK-2017，這是繼2018年首次輪替後，時隔8年再次更換根區域金鑰。IANA提醒，啟用DNSSEC驗證卻未更新信任錨（Trust Anchor）的DNS解析器，可能無法驗證根區域資料，導致網域名稱解析失敗，但預期多數使用者不會受到影響。",
         "source": "iThome"
       },
       {
-        "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
-        "link": "https://www.ithome.com.tw/news/179564",
-        "pubDate": "2026-10-12  08:10:19",
-        "description": "近日一份公告文件顯示，蘋果於今年春天招募了Google NotebookLM前團隊成員創立的AI podcast App業者Huxe核心成員並取得技術授權。\n根據歐盟列出大廠申報的收購清單，蘋果在今年6月向Huxe AI提出員工招募提案，招募了特定員工，並獲得後者智財權的非獨家技術授權。\n蘋果描述Huxe開發的是建造個人化音訊內容的手機應用程式。",
+        "title": "數發部推數位核銷服務網，推動社福補助核銷流程自動化，並開源供其他機關重複利用",
+        "link": "https://www.ithome.com.tw/news/179588",
+        "pubDate": "2026-10-12  05:10:21",
+        "description": "為減輕社福團體的補助核銷行政作業負載。數發部今天（10/12）發表「數位核銷服務網」推動成果，數發部與衛福部社會及家庭署聯手，將AI導入社福團體的政府補助核銷作業，運用OCR與AI辨識發票、收據等單據，自動擷取資料、協助完成核銷文件整理與檢核，首波應用於社福補助及公益彩券補助案件，藉此降低大量人工登打及核對作業。\n數發部表示，目前不少政府補助案件仍仰賴紙本單據及人工核銷，社福團體在申請補助後，需整理大量發票、收據、交通費及活動支出，再逐筆輸入核銷資料，不僅耗時，還容易因為人工登打發生錯誤。根據統",
         "source": "iThome"
       },
       {
-        "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
-        "link": "https://www.ithome.com.tw/news/179532",
-        "pubDate": "2026-10-10 12:00",
-        "description": "代理式AI快速進入企業環境，從撰寫程式、整理郵件，到直接執行系統指令，AI正從「提供答案」走向「自主行動」，風險也從「說錯話」轉變為「做錯事」。企業若連環境中部署了哪些AI代理都不清楚，便難以進一步管理其權限與操作風險。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國亞利桑那州最高法院系統遭釣魚攻擊，逾百萬人個資外洩",
-        "link": "https://www.ithome.com.tw/news/179559",
-        "pubDate": "2026-10-09 18:27",
-        "description": "美國亞利桑那州法院系統遭網路釣魚攻擊，駭客複製法院檔案備份，涉及近130萬人的個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "惡意程式PoeLLM利用GitHub上英文詩取得C2位址，入侵逾3,400臺伺服器",
-        "link": "https://www.ithome.com.tw/news/179558",
-        "pubDate": "2026-10-09 18:19",
-        "description": "惡意程式PoeLLM鎖定對外開放的LiteLLM、Ollama等服務，受害主機被用於挖礦及攻擊其他系統，駭客將C2位址資訊藏在GitHub儲存庫中的英文詩裡，修改詩中用字就能切換控制位置",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國EY資料外洩波及高盛、英仕曼集團客戶",
-        "link": "https://www.ithome.com.tw/news/179557",
-        "pubDate": "2026-10-09 16:22",
-        "description": "美國EY今年春天發生的資料外洩事件，波及高盛、英仕曼集團及鐵獅門等企業的客戶，部分客戶的個人及財務資料因此外洩。事件源於EY使用的第三方IT支援系統遭入侵，高盛與英仕曼集團均表示自身系統未遭入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "網頁版及Windows Outlook 11月將封鎖MSIX附件",
-        "link": "https://www.ithome.com.tw/news/179553",
-        "pubDate": "2026-10-09 13:51",
-        "description": "微軟將從11月起，預設封鎖新版Windows版及網頁版Outlook的MSIX附件，涵蓋.msix與.msixbundle兩種格式。這項調整是為降低惡意安裝套件透過電子郵件散布的風險，屆時使用者將無法直接開啟或下載相關附件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "當威脅情報只剩大量數據，企業該相信什麼？",
-        "link": "https://www.ithome.com.tw/news/179529",
-        "pubDate": "2026-10-09 12:00",
-        "description": "企業若只靠AI分析暗網與公開來源資料，便直接產出封鎖清單，可能因缺乏來源驗證、時效判斷與組織脈絡而造成大量誤判。AI可以協助從海量資料中找出訊號，但要轉化為可採取行動的威脅情報，仍須經過交叉驗證與專業判讀。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "HPE預告將推出第13代伺服器平臺，主打三大系統安全性強化特色",
-        "link": "https://www.ithome.com.tw/news/179547",
-        "pubDate": "2026-10-09 11:50",
-        "description": "本週HPE宣布即將推出四款ProLiant Gen13伺服器搭載第六代AMD EPYC處理器，標榜多項新增與強化功能，安全性是當中的最大特色，包含PQC防護能力擴展、多人授權，以及開機即用的自動硬碟自我加密",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本IDC Frontier雲端遭勒索軟體攻擊，波及495家客戶、部分系統靠備份重建",
-        "link": "https://www.ithome.com.tw/news/179548",
-        "pubDate": "2026-10-09 11:14",
-        "description": "IDCF Cloud東日本4個服務區的虛擬伺服器停擺，部分客戶資料恐難復原，日本物流業者、企業批發平臺及政府網站等也傳出服務異常，業者仍在調查入侵途徑與資料外洩情況",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic明文禁止使用者持續辱罵Claude，違規可能遭終止對話",
-        "link": "https://www.ithome.com.tw/news/179555",
-        "pubDate": "2026-10-09  02:10:32",
-        "description": "Anthropic週四（10/8）宣布更新Claude使用政策，首度明文禁止使用者持續且無必要地辱罵、虐待或殘酷對待AI模型。新規定將於11月12日生效，主要針對反覆惡意對待Claude、且沒有明確目的的極端情況，違規者可能遭Claude主動終止對話。",
+        "title": "Cloudflare收購Deno，將停止開發Deno執行環境",
+        "link": "https://www.ithome.com.tw/news/179579",
+        "pubDate": "2026-10-12  01:10:39",
+        "description": "Cloudflare與Deno上周五（10/9）宣布，Deno開發團隊將加入Cloudflare，未來將集中資源發展Cloudflare Workers及分散式運算技術，並在一年後停止開發Deno執行環境（Runtime），旗下雲端部署服務Deno Deploy也將於6個月後關閉。雙方並未公布交易金額。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "【劉永信專欄】Perplexity Portable Computer 登陸 Windows！一張顯卡就能跑 AI，代價是什麼？",
-        "link": "https://techorange.com/2026/10/07/perplexity-portable-computer-windows/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 07 Oct 2026 18:30:05 +0800",
-        "description": "以前一家公司想要一套完全不連網、資料不出門的 AI，得先蓋機房、買伺服器，但現在這件事的門檻變很低，只要一張顯卡，加上一個月 20 美元的訂閱就可能可以做到。 9 月 14 日，以 AI 搜尋起家的 Perplexity 把一個叫 Portable Computer 的功能正式帶進 Windows，這是 Perplexity 旗下 AI 助理「Computer」的本地版本，原本這個助理要連到雲端伺服器才會動，現在它的推理引擎、任務規劃、排程系統，全部可以跑在你自己的電腦上。 但你的電腦裡要有一張",
-        "source": "TechOrange"
-      },
       {
         "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
         "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -187,45 +180,52 @@
         "source": "TechOrange"
       },
       {
-        "title": "「先解決人怎麼做，再試試 AI 怎麼做。」緯謙科技為智慧工廠推進 AI Ready 到 AI 落地",
-        "link": "https://techorange.com/2026/10/08/wiadvance-aiready/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 11:08:32 +0800",
-        "description": "製造業的相關資料，業績、稼動率、產能與異常分析報告，散落在 ERP、設備與紙本檔案裡，難的是怎麼把資料拿出來，以及有多少企業敢讓 AI 直接接上 SAP、Oracle 的核心系統。在日前舉辦的「2026 AI 智慧大工廠論壇新竹場」，緯謙科技智慧製造處技術經理吳政舉分享了過去一年協助製造業做 POC 的經驗，他表示 AI 進工廠的第一步不是自主決策，而是先釐清人怎麼做、資料在哪裡，再讓 AI 一段一段參與進來。 吳政舉引用今年的《台灣產業 AI 化大調查》指出，製造業平均 43.8 分，略低於全",
-        "source": "TechOrange"
-      },
-      {
-        "title": "叡揚資訊提供三大 Forrester 微分段解方 打造更貼近企業環境的零信任架構",
-        "link": "https://techorange.com/2026/10/08/gss-forrester/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 10:39:13 +0800",
-        "description": "面對零日漏洞、勒索軟體等威脅，攻擊者一旦進入企業環境，即可能迅速在內部系統間橫向移動並擴大影響範圍。企業資安防禦的重點，也逐漸從「如何阻止攻擊進入」，延伸至「即使發生入侵，如何限制攻擊擴散並降低營運衝擊」。在此趨勢下，微分段（Microsegmentation）正從網路安全控制，逐步成為企業落實零信任（Zero Trust）、限制橫向移動及提升資安韌性的重要能力。 Forrester 於 2026 年第三季發布《The Forrester Wave™: Microsegmentation Sol",
-        "source": "TechOrange"
-      },
-      {
-        "title": "視覺 AI 為建築工地打造「感知層」，讓機器人讀懂人類在哪裡、正要做什麼",
-        "link": "https://techorange.com/2026/10/08/construction-robotics-vision-ai-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 09:28:02 +0800",
-        "description": "建築機器人是否能夠取得成功，關鍵在於是否可以跟人類和其他自動化系統，安全進行協同作業，而為整個工地打造「感知層」的視覺 AI 系統將成為關鍵解方。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "800+ AI 代理進駐 GE 家電廠房：員工開口就能問數據，欠單降 25%",
-        "link": "https://techorange.com/2026/10/08/800-ai-agents-now-run-ge-appliances-factory-floor/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 06:19:00 +0800",
-        "description": "AI 代理正在進入製造現場，GE 家電已在製造、物流與供應鏈營運中部署超過 800 個 AI 代理，並以 Google Cloud 的 Gemini Enterprise 作為技術基礎，將 AI 整合進名為「Brilliant Factory」的製造數據平台。這套平台追蹤各工廠生產表現、零件履歷，以及不同產線與班次的工作活動，讓現場員工可以直接與生產數據互動，加快問題診斷與決策速度。 GE 家電數位科技副總裁暨數位長 Mandar Deo 表示，AI 現在已經成為公司日常工作方式的一部分。 自動",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】SpaceX 傳籌 400 億美元買 NVIDIA 晶片，AMD 將加碼台灣投資",
-        "link": "https://techorange.com/2026/10/08/spacex-nvidia-ai-chips-amd-taiwan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX 傳籌 400 億美元買 NVIDIA 晶片，阿波羅主導融資安排 根據《路透社》引述知情人士的報導，馬斯克旗下的太空探索科技（SpaceX）正尋求約 400 億美元融資，用於採購輝達（NVIDIA）AI 晶片，預計由阿波羅全球管理公司（Apollo Global Management）主導。資金結構包含約 100 億美元銀行貸款與 300 億美元投資級債券，交易預計 2027 年完成。阿波羅將協助向不同投資人出售債券，債券投資機構 ",
-        "source": "TechOrange"
-      },
-      {
         "title": "【貝萊德機器原生經濟報告】Token Economy 打通 AI 商業行為，穩定幣與算力成新型態金融資產",
         "link": "https://techorange.com/2026/10/10/machinenative-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 10 Oct 2026 06:29:00 +0800",
         "description": "全球資產管理公司貝萊德（BlackRock）旗下的數位資產研究團隊，發布《機器原生經濟》（The Machine-Native Economy: How digital assets connect intelligence, commerce, and compute）報告。報告的核心主張是，人工智慧代表「機器原生的智慧」，數位資產則代表「機器原生的貨幣」；兩者結合後，將形成一個以自主軟體代理人為主角的經濟體系，區塊鏈則是讓這些代理人自動完成交易與清算的底層金融基礎設施。 報告反覆強調的核心概",
+        "source": "TechOrange"
+      },
+      {
+        "title": "當 AI 風險從幻覺轉為做錯事，TeamT5 剖析企業防線：治理先從「看得到」開始",
+        "link": "https://techorange.com/2026/10/12/teamt5-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 15:29:04 +0800",
+        "description": "有的企業怕出事，乾脆全面禁用 AI；有的企業積極導入，卻說不清內部到底有誰在用，當 AI Agent 開始在企業電腦上自主執行任務，看不見的使用狀況，就成了資安風險的起點。TechOrange 科技報橘與美國高通公司 Qualcomm 於日前舉辦「2026 AI 智慧大工廠論壇」，聚焦高科技製造業的 AI 落地與資安治理。於系列演講中，TeamT5 資深經理侯翔齡從三種利用 AI Agent 的攻擊談到端點上的權限盲區，提醒企業應該弄清楚內部到底有誰在用 AI、用得是否安全。 侯翔齡觀察到，企業",
+        "source": "TechOrange"
+      },
+      {
+        "title": "楊立昆團隊推新世界模型 H-JEPA，為什麼能讓機器人走迷宮成功率提升 4 倍？",
+        "link": "https://techorange.com/2026/10/12/h-jepa-yann-lecun-world-model-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 12:55:32 +0800",
+        "description": "當 AI 產業持續投入大型語言模型（LLM），AI 學者楊立昆（Yann LeCun）卻認為，光靠語言模型不足以讓 AI 真正理解物理世界，或預測自身行動可能帶來的後果。因此，他押注能學習環境運作規律、支援推理與行動規劃的「世界模型（World Model）」。 2025 年底，LeCun 離開 Meta 創辦 AI 新創 AMI Labs，今年 3 月完成 10.3 億美元種子輪融資。如今，他與 AMI Labs、學界研究人員共同提出新架構 H-JEPA，在模擬機器人走迷宮的測試中，將任務成功",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 寫的程式碼愈來愈多，美國軟體開發職缺卻增近 15%：工程師沒被取代的原因是什麼？",
+        "link": "https://techorange.com/2026/10/12/ai-software-developer-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 12:35:10 +0800",
+        "description": "自 Anthropic 於 2025 年 2 月推出 Claude Code 以來，美國軟體開發職缺刊登數量持續上升，即使整體職缺刊登數量正在下降。這讓「AI 將迅速消除開發者需求」的預測，變得更加難以判斷。 外界對軟體開發職涯未來的擔憂並非毫無根據。隨著企業採用 AI 程式設計工具，尤其是這些工具的能力持續提升，相關疑慮也日益加深。早在 2023 年，微軟旗下的軟體開發平台 GitHub 就指出，在能夠使用 AI 的專案中，AI 撰寫的程式碼已接近全部程式碼的一半。 AI 正在自動化程式碼撰寫",
+        "source": "TechOrange"
+      },
+      {
+        "title": "iKala 專訪：從零點擊到 Agentic Commerce，企業與品牌如何面對這場 AI 生存戰？",
+        "link": "https://techorange.com/2026/10/12/ikala-aimarketing-agentic-commerce-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 11:00:00 +0800",
+        "description": "試著回想一下，你上一次在 Google 搜尋後，真的點進某個網站，是什麼時候的事？ 根據 iKala 共同創辦人暨集團董事長程世嘉引用的數據，目前 Google 搜尋的零點擊率已高達 70%，消費者不再需要點進網站，因為 AI 已經替他們整理好答案，當 ChatGPT、Gemini、Perplexity 這些生成式 AI 引擎成為人們獲取資訊的主要入口，品牌與消費者之間的關係正在發生轉變。 同時，Google 與 OpenAI 正積極布局 AI 購物功能，當 AI Agent 開始代替人類搜尋、",
+        "source": "TechOrange"
+      },
+      {
+        "title": "ElevenLabs 以「聲音授權市集」提供名人聲音的正式授權，這會留下什麼風險？",
+        "link": "https://techorange.com/2026/10/12/elevenlabs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 10:35:28 +0800",
+        "description": "想讓馬克吐溫或愛迪生的聲音出現在品牌廣告裡，現在可以透過正式授權取得。提供這項服務的，是近期估值翻倍的語音 AI 新創 ElevenLabs。 總部位於倫敦、開發擬真語音生成軟體的 ElevenLabs，透過一次股權出售，估值從今年 2 月的 110 億美元翻倍至 220 億美元。新估值讓 ElevenLabs 躋身中國以外前 10 大最有價值的 AI 實驗室，與法國 AI 公司 Mistral 相當。 ElevenLabs 執行長 Mati Staniszewski 表示，這次交易引進高盛（G",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【Atlas 頭部設計邏輯】拿掉人臉改用燈環，讓人類同事秒懂機器人在看哪裡、做什麼",
+        "link": "https://techorange.com/2026/10/12/boston-dynamics-atlas-robot-head/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 12 Oct 2026 09:47:12 +0800",
+        "description": "波士頓動力（Boston Dynamics）工程師指出，新款電動版 Atlas 機器人的頭部外型，其實是人類與機器人之間透過燈光進行溝通的設計語言，並在安全與效率間扮演雙向橋樑。",
         "source": "TechOrange"
       },
       {
@@ -276,7 +276,7 @@
         "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
         "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
         "pubDate": "Sat, 10 Oct 2026 14:48:45 +0530",
-        "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted real websites.\n\nThe A",
+        "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted ",
         "source": "TheHackerNews"
       },
       {
@@ -305,6 +305,20 @@
         "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
         "pubDate": "Sat, 10 Oct 2026 00:44:28 +0530",
         "description": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kit",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
+        "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
+        "pubDate": "Mon, 12 Oct 2026 14:32:14 +0530",
+        "description": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauth",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
+        "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
+        "pubDate": "Mon, 12 Oct 2026 12:56:12 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which br",
         "source": "TheHackerNews"
       },
       {
@@ -368,20 +382,6 @@
         "link": "https://thehackernews.com/2026/10/gobalance-flaw-lets-attackers-hijack.html",
         "pubDate": "Fri, 09 Oct 2026 14:33:24 +0530",
         "description": "A bug in GoBalance, a tool many dark-web sites use to stay reachable during attacks, lets anyone work out the secret key that controls a site's .onion address using only public information, and then take that address over.\n\nSearchlight Cyber, which d",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Three Teams Demonstrate Remote Hacks of Fully Patched Google Pixel 10 at Pwn2Own",
-        "link": "https://thehackernews.com/2026/10/three-teams-demonstrate-remote-hacks-of.html",
-        "pubDate": "Fri, 09 Oct 2026 13:56:17 +0530",
-        "description": "Three research teams broke into Google's Pixel 10 on October 8 at Pwn2Own Ireland, a hacking contest in Cork whose rules require every target to be fully patched. The contest pays researchers to show working exploits and passes the flaws to the vendo",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Citrix Patches Critical NetScaler Flaw That Could Enable RCE in SAML Deployments",
-        "link": "https://thehackernews.com/2026/10/citrix-patches-critical-netscaler-flaw.html",
-        "pubDate": "Fri, 09 Oct 2026 13:41:33 +0530",
-        "description": "Citrix has released patches for yet another critical security flaw impacting NetScaler ADC and NetScaler Gateway that could result in remote code execution or denial-of-service (DoS) under certain conditions.\n\n\"CVE-2026-107406 is a memory overflow vu",
         "source": "TheHackerNews"
       }
     ],
