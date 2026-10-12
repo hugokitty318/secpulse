@@ -1,7 +1,77 @@
 {
-  "ts": "2026-10-11T23:37:48.104556Z",
+  "ts": "2026-10-12T02:38:42.845357Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "第三季全球PC出貨量衰退逾兩成，創3年半最大跌幅",
+        "link": "https://www.ithome.com.tw/news/179568",
+        "pubDate": "2026-10-12 10:15",
+        "description": "市調機構IDC與Omdia統計顯示，2026年第三季全球PC出貨量年減逾兩成",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本客服平臺業者Scala Communications遭駭，洩露多家客戶個資逾70萬",
+        "link": "https://www.ithome.com.tw/news/179566",
+        "pubDate": "2026-10-12 08:57",
+        "description": "Scala Communications旗下FAQ及線上諮詢系統i-ask遭非法存取，波及大和證券、Citizen及損保日本等企業",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本三家旅行服務、系統業者爆資料外洩超過千萬",
+        "link": "https://www.ithome.com.tw/news/179565",
+        "pubDate": "2026-10-12 08:40",
+        "description": "旅遊預約平臺skyticket營運商Adventure發生3起資安事件，涉及約1,464萬筆客戶資料；住宿預約系統業者手間いらず也傳出大規模個資外洩。旅行社H.I.S則揭露泰國子公司伺服器遭未經授權存取，可能波及旅客護照及健康資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Carbonato殭屍網路入侵Docker主機，部署AI代理竊取憑證",
+        "link": "https://www.ithome.com.tw/news/179550",
+        "pubDate": "2026-10-12 08:00",
+        "description": "Carbonato殭屍網路鎖定未設身分驗證的Docker遠端管理介面，入侵主機後部署AI代理Hermes Agent。攻擊者可透過Telegram下達任務，讓AI代理利用LLM產生並執行命令，優先蒐集AI服務API金鑰及其他敏感資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "IBM併購英國資安顧問公司Logiq，擴大國防與公部門布局",
+        "link": "https://www.ithome.com.tw/news/179499",
+        "pubDate": "2026-10-12 08:00",
+        "description": "IBM併購英國資安顧問公司Logiq Consulting，進一步擴充英國國防、公部門及關鍵基礎設施的資安顧問服務。Logiq除了提供資安顧問服務，也開發DISX安全協作平臺，讓政府供應商與英國政府及國防組織安全交換敏感資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "韓國政府資料中心大火後，重訂系統分級與災難復原標準",
+        "link": "https://www.ithome.com.tw/news/179562",
+        "pubDate": "2026-10-12 08:00",
+        "description": "韓國政府因應2025年資料中心火災暴露的災難復原問題，將約1.5萬套公部門資訊系統重新分為4級，依等級訂定復原時間目標與演練要求，並強化異地備援及資料中心鋰電池安全管理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA揭露中國資安公司支援駭客攻擊，竊取多國組織敏感資料",
+        "link": "https://www.ithome.com.tw/news/179560",
+        "pubDate": "2026-10-12 08:00",
+        "description": "美國CISA與多國資安機構揭露，中國資安公司永信至誠科技協助中國駭客入侵全球政府機關、關鍵基礎設施及其他組織的網路，旗下員工也直接參與網路入侵。CISA同時公布攻擊者使用的工具與入侵手法，建議企業加強漏洞修補、多因素驗證及異常活動監控",
+        "source": "iThome資安"
+      },
+      {
+        "title": "JetBrains開源Mellum2.1模型，程式修復評測解決率從2%升至47%",
+        "link": "https://www.ithome.com.tw/news/179561",
+        "pubDate": "2026-10-12  10:10:09",
+        "description": "JetBrains推出開源語言模型Mellum2.1，鎖定程式開發代理與輔助代理，開發者可將模型部署在自己的電腦或企業伺服器。新版主要透過強化學習提升軟體工程能力，搭配相關工具後，能檢視程式碼庫、修改檔案，並執行測試確認修改結果。模型已在Hugging Face釋出，採Apache 2.0授權。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟2027年4月起淘汰部分檔案API預先驗證網址，開發者須調整權杖驗證",
+        "link": "https://www.ithome.com.tw/news/179556",
+        "pubDate": "2026-10-12  08:10:57",
+        "description": "微軟宣布2027年4月1日起，SharePoint Online與OneDrive將開始淘汰部分Microsoft Graph檔案API使用的預先驗證網址（Pre-authenticated URL）。",
+        "source": "iThome"
+      },
+      {
+        "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+        "link": "https://www.ithome.com.tw/news/179564",
+        "pubDate": "2026-10-12  08:10:19",
+        "description": "近日一份公告文件顯示，蘋果於今年春天招募了Google NotebookLM前團隊成員創立的AI podcast App業者Huxe核心成員並取得技術授權。\n根據歐盟列出大廠申報的收購清單，蘋果在今年6月向Huxe AI提出員工招募提案，招募了特定員工，並獲得後者智財權的非獨家技術授權。\n蘋果描述Huxe開發的是建造個人化音訊內容的手機應用程式。",
+        "source": "iThome"
+      },
       {
         "title": "企業如何防止AI代理「做錯事」，專家建議四大治理方向",
         "link": "https://www.ithome.com.tw/news/179532",
@@ -59,88 +129,11 @@
         "source": "iThome資安"
       },
       {
-        "title": "3個國碼頂級網域遭劫持，攻擊者取得Google等組織HTTPS憑證",
-        "link": "https://www.ithome.com.tw/news/179500",
-        "pubDate": "2026-10-09 08:00",
-        "description": "Google揭露.gh、.sl及.as等3個國碼頂級網域遭劫持，攻擊者竄改DNS紀錄，藉此取得Google及其他組織網域的未經授權HTTPS憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟測試新Windows Search，不只能搜尋還能執行動作",
-        "link": "https://www.ithome.com.tw/news/179549",
-        "pubDate": "2026-10-09  11:10:45",
-        "description": "本周在Windows and Surface大會上，微軟宣佈為Windows Search改版，包括改用新的WinUI 3介面、更快速搜尋，並讓使用者透過Windows Search直接操作電腦設定。預計明年將整合Windows Search和Copilot。",
-        "source": "iThome"
-      },
-      {
         "title": "Anthropic明文禁止使用者持續辱罵Claude，違規可能遭終止對話",
         "link": "https://www.ithome.com.tw/news/179555",
         "pubDate": "2026-10-09  02:10:32",
-        "description": "Anthropic周四（10/8）宣布更新Claude使用政策，首度明文禁止使用者持續且無必要地辱罵、虐待或殘酷對待AI模型。新規定將於11月12日生效，主要針對反覆惡意對待Claude、且沒有明確目的的極端情況，違規者可能遭Claude主動終止對話。",
+        "description": "Anthropic週四（10/8）宣布更新Claude使用政策，首度明文禁止使用者持續且無必要地辱罵、虐待或殘酷對待AI模型。新規定將於11月12日生效，主要針對反覆惡意對待Claude、且沒有明確目的的極端情況，違規者可能遭Claude主動終止對話。",
         "source": "iThome"
-      },
-      {
-        "title": "Google公布能在本地運作的AI會議筆記App",
-        "link": "https://www.ithome.com.tw/news/179554",
-        "pubDate": "2026-10-09  02:10:29",
-        "description": "Google上周公布一款類似知名AI會議筆記軟體Granola的應用程式Google AI Edge Foresight，可讓用戶在本地端製作視訊會議筆記。\n這款應用程式是以不久前才公布的7.4億參數邊緣AI模型Google EmbeddingGemma 2為底層引擎，後者可部署在手機、筆電等裝置，能處理文字、程式碼、圖片、影片與音訊，可以文字搜尋圖片或影片片段，也能理解音訊並尋找內容相近的影音。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google Gemini Agent可建立企業AI同事，獨立帳號參與Chat與文件協作",
-        "link": "https://www.ithome.com.tw/news/179552",
-        "pubDate": "2026-10-09  02:10:02",
-        "description": "Google在Gemini at Work 2026大會發表企業通用AI代理Gemini Agent，可在Gmail、Google雲端硬碟、文件、試算表與日曆等Workspace服務間執行工作。使用者只要提出任務目標，Gemini就能規畫步驟、使用工具並產出文件、簡報或程式碼。Google也公布同事代理（Coworker Agent）功能，企業可建立具有獨立Workspace帳號的AI代理，以團隊成員身分參與工作。",
-        "source": "iThome"
-      },
-      {
-        "title": "SpaceX收購低頻頻譜以擴張Starlink行動通訊能力",
-        "link": "https://www.ithome.com.tw/news/179551",
-        "pubDate": "2026-10-09  01:10:52",
-        "description": "SpaceX周四（10/8）宣布，將收購美國投資公司Grain Management持有的全美800MHz低頻段頻譜資產，以擴張Starlink Mobile行動通訊服務，並朝成為美國主要行動電信業者的目標邁進。雙方並未公布財務細節，但外電報導該交易價值80億美元，此一交易仍須取得美國聯邦通訊委員會（FCC）核准。",
-        "source": "iThome"
-      },
-      {
-        "title": "【資安週報】1005~1008，臺灣2026上半年遭網路威脅影響的程度排名升至全球第4名",
-        "link": "https://www.ithome.com.tw/news/179528",
-        "pubDate": "2026-10-08 17:51",
-        "description": "回顧2026年10月第二週的資安動態，微軟最新數位防禦報告指出，2026年上半年臺灣遭各類網路威脅影響程度排名全球第4，僅次於美國、以色列、烏克蘭而備受關注，近期日本企業資安事故消息不斷，南韓金融業也接連傳出網路攻擊與個資外洩，反映，東亞地區威脅情勢升溫",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國DARPA推動安全通訊App漏洞研究，Theori旗下Xint將以AI分析軍用通訊程式攻擊面",
-        "link": "https://www.ithome.com.tw/news/179545",
-        "pubDate": "2026-10-08 17:35",
-        "description": "美國DARPA推動ASEMA計畫，希望改善安全通訊應用程式在加密機制之外仍可能存在的攻擊面，如今選中資安公司Xint參與研究。Xint將利用AI分析軍方使用的通訊App，涵蓋原始碼、執行環境與編譯後二進位檔，找出潛在安全弱點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "辦公室套件LibreOffice與OpenOffice存在漏洞，惡意試算表恐繞過巨集警示並執行程式碼",
-        "link": "https://www.ithome.com.tw/news/179544",
-        "pubDate": "2026-10-08 17:17",
-        "description": "資安團隊V12揭露同時影響辦公室套件LibreOffice與OpenOffice的資安漏洞，並指出文件基金會已在最新版本LibreOffice完成修補，但OpenOffice則預計在即將推出的新版才會處理，OpenOffice用戶應留意Apache基金會相關公告，以便第一時間套用新版修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "FBI警告FortiBleed攻擊活動持續延燒",
-        "link": "https://www.ithome.com.tw/news/179526",
-        "pubDate": "2026-10-08 15:54",
-        "description": "美國聯邦調查局（FBI）與特勤局（USSS）警告，影響範圍遍及194國的大規模憑證外洩事故FortiBleed仍持續進行，且有受害組織的帳號遭竄改而無法存取設備的情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "行政院通過中小微企業轉型升級條例修法，數位、AI、資安與淨零投資納入抵減，門檻降至25萬元",
-        "link": "https://www.ithome.com.tw/news/179523",
-        "pubDate": "2026-10-08 15:49",
-        "description": "行政院通過修正草案送立法院審議，研發投資抵減率提高至20%，轉型投資範圍涵蓋硬體、軟體、技術與服務",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月8日，龔化中上任兩個月揭「國家資安防護2.0」，明年4月AI紅隊先攻政府機關",
-        "link": "https://www.ithome.com.tw/news/179522",
-        "pubDate": "2026-10-08 15:00",
-        "description": "資安院院長龔化中上任屆滿兩個月，首度公開「國家資安防護2.0」藍圖，主張以AI對抗AI，規畫推動四項重點工作，搭配六大中心的時程與數字，勾勒出臺灣資安防線下一版的樣貌，其中最受矚目的是一場利用AI進行的攻防演練，預計明年四月登場。",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -492,10 +485,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-        "link": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream/",
-        "pubDate": "Sat, 10 Oct 2026 15:00:00 +0000",
-        "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to save up to ",
+        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
+        "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
+        "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
+        "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
         "source": "TechCrunch"
       },
       {
