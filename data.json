@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-12T19:46:50.859266Z",
+  "ts": "2026-10-13T01:59:19.609084Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Google DevSite爆RCE漏洞，偽造Cookie即可觸發",
+        "link": "https://www.ithome.com.tw/news/179602",
+        "pubDate": "2026-10-13 08:44",
+        "description": "Google竟把OAuth用戶端密鑰放進Cookie，還用同一把密鑰保護Cookie！研究人員發現，這項漏洞可讓攻擊者不用登入帳號，就能遠端執行任意程式碼，問題還波及多個Google開發者網站。Google已於10月7日完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenSSF與OpenChain提軟體供應鏈安全指引，協助企業因應CRA等歐盟法規",
+        "link": "https://www.ithome.com.tw/news/179563",
+        "pubDate": "2026-10-13 08:00",
+        "description": "開放原始碼安全基金會OpenSSF與推動開源軟體授權遵循及安全保證標準的OpenChain專案，共同提出軟體供應鏈安全指引，協助企業盤點軟體元件、管理漏洞及保存安全佐證資料，以回應客戶審查，並評估如何因應歐盟《網路韌性法》（CRA）及NIS2指令的相關要求",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PQC轉型不只升級系統，澳洲ASD強調教育訓練與長期維護",
+        "link": "https://www.ithome.com.tw/news/179515",
+        "pubDate": "2026-10-13 08:00",
+        "description": "澳洲通訊局公布PQC轉型架構LATICE的第五階段建議，強調企業除了升級系統、導入抗量子密碼演算法，還須加強跨部門溝通、教育訓練及供應商協調，並在完成轉型里程碑後持續監控已部署的密碼學機制，因應技術標準及量子威脅的變化",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Upwind併購AI資安新創Aegis，成立研究團隊擴大AI代理安全布局",
+        "link": "https://www.ithome.com.tw/news/179524",
+        "pubDate": "2026-10-13 08:00",
+        "description": "雲端資安業者Upwind併購以色列AI資安新創Aegis，成立AI安全研究團隊Upwind AI Lab，結合雙方技術，擴大AI系統防護與AI代理安全布局",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
+        "link": "https://www.ithome.com.tw/news/179600",
+        "pubDate": "2026-10-13  07:10:39",
+        "description": "Python開發團隊發布Python 3.15，預設採用UTF-8文字編碼，減少程式在不同作業系統讀寫文字時的差異，並新增延遲匯入機制，讓指定模組等到實際使用時才載入，以縮短程式啟動時間。新版也改進實驗性編譯器及自由執行緒版本的擴充模組支援。\n過去Python程式讀寫文字檔時，如果沒有指定編碼，可能依作業系統及語言設定採用不同方式，導致同一份檔案在不同臺電腦可能出現亂碼或讀取錯誤。Python 3.15改以UTF-8處理未指定編碼的文字資料，已明確設定編碼的程式則不受影響。",
+        "source": "iThome"
+      },
       {
         "title": "Telegram Desktop高風險漏洞可能導致帳號接管，研究人員已公開PoC",
         "link": "https://www.ithome.com.tw/news/179598",
@@ -80,34 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "美司法部與FBI查封中國永信至誠科技兩款駭客工具，揭臺灣兩所大學曾遭Microscan掃描，後續被部署SoftEther VPN",
-        "link": "https://www.ithome.com.tw/news/179572",
-        "pubDate": "2026-10-12 11:27",
-        "description": "美國司法部與FBI查封中國永信至誠科技控制的相關網域，阻斷Microscan、FishHub兩款駭客工具。這次公開資料也進一步揭露臺灣受害情況，其中兩所大學曾遭Microscan掃描，之後遭入侵並部署SoftEther維持遠端存取；FishHub確認受害者則包括約20所臺灣大專院校",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客Flax Typhoon利用8個已知漏洞發動攻擊，美CISA要求聯邦機構緊急修補其中5個弱點",
-        "link": "https://www.ithome.com.tw/news/179574",
-        "pubDate": "2026-10-12 11:21",
-        "description": "五眼聯盟等國家資安機構針對中國資安公司永信至誠科技（Integrity Technology Group）與駭客團體Flax Typhoon攻擊活動提出警告，並提及這些駭客濫用8個已知漏洞，涵蓋FTP伺服器軟體ProFTPD、辦公室套件OnlyOffice，以及網頁應用程式框架Apache Struts等多種開源工具",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本逮捕涉嫌勒索軟體組織Qilin核心成員，已引渡至德國",
-        "link": "https://www.ithome.com.tw/news/179573",
-        "pubDate": "2026-10-12 11:05",
-        "description": "28歲俄羅斯籍男子涉嫌攻擊德國企業並勒索加密貨幣，日本與德國警方合作完成跨國引渡",
-        "source": "iThome資安"
-      },
-      {
-        "title": "緯致科技部分員工資訊遭未經授權存取",
-        "link": "https://www.ithome.com.tw/news/179569",
-        "pubDate": "2026-10-12 10:30",
-        "description": "資訊技術服務公司緯致科技（4953）發布資安重訊，表示上週出現部分員工與公務聯繫資訊遭未經授權存取，該公司阻斷網路連線、系統隔離等措施因應",
-        "source": "iThome資安"
-      },
-      {
         "title": "Bun內建TypeScript型別檢查，官方測速最高達微軟編譯器6.4倍",
         "link": "https://www.ithome.com.tw/news/179589",
         "pubDate": "2026-10-12  07:10:57",
@@ -134,16 +141,16 @@
         "pubDate": "2026-10-12  05:10:21",
         "description": "為減輕社福團體的補助核銷行政作業負載。數發部今天（10/12）發表「數位核銷服務網」推動成果，數發部與衛福部社會及家庭署聯手，將AI導入社福團體的政府補助核銷作業，運用OCR與AI辨識發票、收據等單據，自動擷取資料、協助完成核銷文件整理與檢核，首波應用於社福補助及公益彩券補助案件，藉此降低大量人工登打及核對作業。\n數發部表示，目前不少政府補助案件仍仰賴紙本單據及人工核銷，社福團體在申請補助後，需整理大量發票、收據、交通費及活動支出，再逐筆輸入核銷資料，不僅耗時，還容易因為人工登打發生錯誤。根據統",
         "source": "iThome"
-      },
-      {
-        "title": "Cloudflare收購Deno，將停止開發Deno執行環境",
-        "link": "https://www.ithome.com.tw/news/179579",
-        "pubDate": "2026-10-12  01:10:39",
-        "description": "Cloudflare與Deno上周五（10/9）宣布，Deno開發團隊將加入Cloudflare，未來將集中資源發展Cloudflare Workers及分散式運算技術，並在一年後停止開發Deno執行環境（Runtime），旗下雲端部署服務Deno Deploy也將於6個月後關閉。雙方並未公布交易金額。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "麥當勞、Citi 都搶做廣告生意，零售媒體 RMN 爆發後面臨什麼難題？",
+        "link": "https://techorange.com/2026/10/13/rmn-boom-headaches-cmos/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 06:00:00 +0800",
+        "description": "麥當勞、花旗銀行（Citi）近期相繼加入商務媒體市場，從美國外送平台 DoorDash、零售商 Dollar Tree，到加油站、超市的螢幕，也都開始成為品牌投放廣告的新場域。根據《Business Insider》引述的產業追蹤數據，目前全球已有超過 200 個零售與商務媒體網路（Retail and Commerce Media Network，RMN），可選擇的平台快速增加，也讓品牌行銷人員面臨更複雜的媒體採購環境。 指標不一的歸因黑盒子，光是「銷售」就有 5 種定義 對品牌而言，問題不只",
+        "source": "TechOrange"
+      },
       {
         "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
         "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -163,13 +170,6 @@
         "link": "https://techorange.com/2026/10/08/honda-electrification-2027-releases-e20/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 08 Oct 2026 16:01:10 +0800",
         "description": "Honda 最快將從 2027 會計年度起，參與日本高速公路上的行駛中無線充電實證測試，這套內建於道路中的系統，可讓電動車以最高每小時 120 公里的速度行駛時，仍獲得最高 150 kW 的充電功率。 道路直接幫電動車充電，電池有望更小、更輕 《The Next Web》報導，這套系統由 Honda 研發部門與建設公司大成建設（Taisei）共同開發，第一階段測試將以商用車為主。根據《日經亞洲》，這項實證由日本國營道路營運商 NEXCO 東日本主導，預計在東京近郊千葉縣館山自動車道約 300 公",
-        "source": "TechOrange"
-      },
-      {
-        "title": "CloudMile 萬里雲 2026 AI MASTERS 登場，攜手 OpenAI、台達電子從 AI 試驗走向可衡量的回報",
-        "link": "https://techorange.com/2026/10/08/cloudmile-2026-ai-masters-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 14:15:14 +0800",
-        "description": "隨著 AI Agent 逐步走入企業核心營運，如何控管風險、管理成本並創造實際效益，成為企業擴大應用 AI 的關鍵課題。亞洲領先人工智慧科技集團 CloudMile 萬里雲與《天下》今（6）日共同舉辦「2026 AI MASTERS：AI 大師論壇暨企業實戰 Demo Day」，邀集 OpenAI、台達電子、威摩科技及奧義智慧等企業代表，從全球 AI 趨勢、風險與成本治理到企業實戰成果，探討 AI 規模化落地的關鍵。 CloudMile 萬里雲於會中發表旗下 AI 驅動 FinOps 平台 Lu",
         "source": "TechOrange"
       },
       {
@@ -329,6 +329,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Norway fines Microsoft ad firm $9.6 million over Grindr data sharing",
+        "link": "https://www.bleepingcomputer.com/news/security/norway-fines-microsoft-ad-firm-96-million-over-grindr-data-sharing/",
+        "pubDate": "Mon, 12 Oct 2026 16:13:52 -0400",
+        "description": "Norway's Data Protection Authority (Datatilsynet) has fined Microsoft-owned advertising company Xandr NOK 92 million ($9.6M) for unlawfully processing and sharing sensitive data belonging to Grindr users in the country. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch",
         "link": "https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html",
         "pubDate": "Mon, 12 Oct 2026 16:06:56 +0530",
@@ -382,13 +389,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
         "pubDate": "Mon, 12 Oct 2026 10:00:10 -0400",
         "description": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, an",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Retail giant Ahold Delhaize takes systems offline after cyberattack",
-        "link": "https://www.bleepingcomputer.com/news/security/retail-giant-ahold-delhaize-takes-systems-offline-after-cyberattack/",
-        "pubDate": "Mon, 12 Oct 2026 09:51:07 -0400",
-        "description": "Retail giant Ahold Delhaize, one of the world's largest food retail chains, confirmed today that it had to take some systems offline in response to a \"cybersecurity incident\" affecting its network. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "The Social Reckoning is flopping at the box office",
+        "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
+        "pubDate": "2026-10-12T17:20:57-04:00",
+        "description": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend aga",
+        "source": "TheVerge"
+      },
+      {
         "title": "Meta has some Wonder Full new AI models",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
         "pubDate": "2026-10-12T13:00:00-04:00",
@@ -525,13 +532,6 @@
         "pubDate": "2026-10-12T11:00:00-04:00",
         "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modu",
         "source": "TheVerge"
-      },
-      {
-        "title": "Android is the best and worst thing about Googlebooks",
-        "link": "https://www.theverge.com/tech/1008750/googlebooks-android-best-worst-notifications-app-cast-file-sharing",
-        "pubDate": "2026-10-12T10:00:00-04:00",
-        "description": "My first week with the new Android-powered laptops has been about as rocky as anyone's, but I've slowly learned to like them, even if love still feels a ways off. Every moment that's impressed me has been thanks to Android, whether I've been accessin",
-        "source": "TheVerge"
       }
     ],
     "cve": [
@@ -554,6 +554,26 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Google Chrome"
+      },
+      {
+        "title": "Samsung Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20261013",
+        "pubDate": "Tue, 13 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Samsung Products"
+      },
+      {
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261013",
+        "pubDate": "Tue, 13 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "GitLab"
       },
       {
         "title": "Cisco Products Multiple Vulnerabilities",
@@ -654,26 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Splunk Products"
-      },
-      {
-        "title": "Fortinet Products Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-remote-code-execution-vulnerability_20261002",
-        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Fortinet Products Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "Mozilla Thunderbird Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-thunderbird-multiple-vulnerabilities_20261002",
-        "pubDate": "Fri, 02 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Thunderbird"
       }
     ]
   }
