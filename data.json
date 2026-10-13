@@ -1,182 +1,175 @@
 {
-  "ts": "2026-10-13T01:59:19.609084Z",
+  "ts": "2026-10-13T09:20:56.089154Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Google DevSite爆RCE漏洞，偽造Cookie即可觸發",
-        "link": "https://www.ithome.com.tw/news/179602",
-        "pubDate": "2026-10-13 08:44",
-        "description": "Google竟把OAuth用戶端密鑰放進Cookie，還用同一把密鑰保護Cookie！研究人員發現，這項漏洞可讓攻擊者不用登入帳號，就能遠端執行任意程式碼，問題還波及多個Google開發者網站。Google已於10月7日完成修補",
+        "title": "德國政府公布PQC遷移指引，高風險系統最晚2030年完成轉換、整體遷移目標2035年",
+        "link": "https://www.ithome.com.tw/news/179641",
+        "pubDate": "2026-10-13 16:32",
+        "description": "德國正式提出後量子密碼學（PQC）國家遷移時程，要求2026年底前完成初步準備與密碼資產盤點，高風險應用最晚於2030年底完成轉換，整體遷移則應在2035年前大致完成。新指引也要求政府機關、企業與關鍵基礎設施營運者評估量子風險，並將密碼敏捷性與供應鏈納入遷移規畫",
         "source": "iThome資安"
       },
       {
-        "title": "OpenSSF與OpenChain提軟體供應鏈安全指引，協助企業因應CRA等歐盟法規",
-        "link": "https://www.ithome.com.tw/news/179563",
-        "pubDate": "2026-10-13 08:00",
-        "description": "開放原始碼安全基金會OpenSSF與推動開源軟體授權遵循及安全保證標準的OpenChain專案，共同提出軟體供應鏈安全指引，協助企業盤點軟體元件、管理漏洞及保存安全佐證資料，以回應客戶審查，並評估如何因應歐盟《網路韌性法》（CRA）及NIS2指令的相關要求",
+        "title": "GhostAction攻擊再襲GitHub，346個儲存庫遭植入竊密工作流程",
+        "link": "https://www.ithome.com.tw/news/179638",
+        "pubDate": "2026-10-13 15:31",
+        "description": "GitHub上Pyxel與Uber旗下AthenaDriver等儲存庫受波及，駭客利用維護者權限植入惡意工作流程，竊取Git歷史中的AWS等服務金鑰，恐被用於存取雲端系統或冒用身分發布套件",
         "source": "iThome資安"
       },
       {
-        "title": "PQC轉型不只升級系統，澳洲ASD強調教育訓練與長期維護",
-        "link": "https://www.ithome.com.tw/news/179515",
-        "pubDate": "2026-10-13 08:00",
-        "description": "澳洲通訊局公布PQC轉型架構LATICE的第五階段建議，強調企業除了升級系統、導入抗量子密碼演算法，還須加強跨部門溝通、教育訓練及供應商協調，並在完成轉型里程碑後持續監控已部署的密碼學機制，因應技術標準及量子威脅的變化",
+        "title": "Danfoss冷藏設備在法國遭駭，老舊OT風險升溫，2022年已有前例",
+        "link": "https://www.ithome.com.tw/news/179635",
+        "pubDate": "2026-10-13 15:30",
+        "description": "近日法國數百家超市的Danfoss冷藏控制系統遭惡意竄改設定，受影響設備包含已終止支援（EOL）與未更新韌體的產品。Danfoss過去曾多次警告老舊設備的資安風險，並指出俄羅斯與以色列超市亦曾遭遇網路攻擊；此次事件再次突顯零售冷藏環境的OT設備汰換與更新問題，也暴露管理介面直接對外連網的嚴重風險",
         "source": "iThome資安"
       },
       {
-        "title": "Upwind併購AI資安新創Aegis，成立研究團隊擴大AI代理安全布局",
-        "link": "https://www.ithome.com.tw/news/179524",
-        "pubDate": "2026-10-13 08:00",
-        "description": "雲端資安業者Upwind併購以色列AI資安新創Aegis，成立AI安全研究團隊Upwind AI Lab，結合雙方技術，擴大AI系統防護與AI代理安全布局",
+        "title": "Ubuntu開發商Canonical網站遭DDoS攻擊，部分服務中斷",
+        "link": "https://www.ithome.com.tw/news/179639",
+        "pubDate": "2026-10-13 15:28",
+        "description": "上週Ubuntu開發商Canonical揭露，旗下網路基礎設施與Ubuntu生態系統遭遇大規模的分散式阻斷服務（DDoS）攻擊，導致主要網站與服務停擺持續超過4個小時",
         "source": "iThome資安"
       },
       {
-        "title": "Python 3.15預設用UTF-8編碼，並新增延遲匯入機制",
-        "link": "https://www.ithome.com.tw/news/179600",
-        "pubDate": "2026-10-13  07:10:39",
-        "description": "Python開發團隊發布Python 3.15，預設採用UTF-8文字編碼，減少程式在不同作業系統讀寫文字時的差異，並新增延遲匯入機制，讓指定模組等到實際使用時才載入，以縮短程式啟動時間。新版也改進實驗性編譯器及自由執行緒版本的擴充模組支援。\n過去Python程式讀寫文字檔時，如果沒有指定編碼，可能依作業系統及語言設定採用不同方式，導致同一份檔案在不同臺電腦可能出現亂碼或讀取錯誤。Python 3.15改以UTF-8處理未指定編碼的文字資料，已明確設定編碼的程式則不受影響。",
+        "title": "日本量販連鎖Mr Max、超商Lawson、卡拉OK業者資料外洩",
+        "link": "https://www.ithome.com.tw/news/179636",
+        "pubDate": "2026-10-13 14:47",
+        "description": "日本零售及娛樂業者接連傳出資安事件。折扣量販連鎖Mr Max、便利商店Lawson確認會員資料外洩；卡拉OK業者第一興商則因委外廠商員工電腦感染惡意程式，導致客戶及員工資料可能外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "勒索軟體Qilin、Settra積極利用Palo Alto Networks防火牆已知漏洞，建立初期入侵管道",
+        "link": "https://www.ithome.com.tw/news/179634",
+        "pubDate": "2026-10-13 14:35",
+        "description": "威脅情報公司ReliaQuest警告，利用Palo Alto Networks防火牆作業系統弱點CVE-2026-0257的活動持續出現，在勒索軟體Qilin用於實際攻擊後，另一組團體Settra也加入利用的行列",
+        "source": "iThome資安"
+      },
+      {
+        "title": "法國數百家超市冷凍/冷藏系統遭駭，溫度飆至50度",
+        "link": "https://www.ithome.com.tw/news/179633",
+        "pubDate": "2026-10-13 14:28",
+        "description": "攻擊涉及丹麥冷凍空調設備製造商Danfoss的控制系統，資安業者Claroty今年8月曾揭露相關控制器的3項安全漏洞，但目前尚無法確認這些漏洞是否遭本次攻擊利用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "因旗下模型擅自存取美政府網站，Anthropic暫停測試",
+        "link": "https://www.ithome.com.tw/news/179630",
+        "pubDate": "2026-10-13 13:24",
+        "description": "Anthropic揭露Claude在內部測試中出現多起非預期行為，包括利用網站漏洞執行指令、繞過存取限制取得資料，甚至向警方網站提交虛假線索。Anthropic已暫停所有內部評估連線至即時網際網路，待安全與監控措施確認有效後再恢復",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Twitch瀏覽器外掛洩露近3.1萬用戶OAuth權杖",
+        "link": "https://www.ithome.com.tw/news/179628",
+        "pubDate": "2026-10-13 13:01",
+        "description": "Socket揭露搭配Twitch影音平臺的瀏覽器外掛存在將用戶權杖轉送至代理伺服器機制，恐導致帳號與聊天紀錄外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "企業數位大小章搬上手機！行動工商憑證如何改變驗證、簽章與授權管理",
+        "link": "https://www.ithome.com.tw/news/179617",
+        "pubDate": "2026-10-13 12:30",
+        "description": "行動工商憑證讓企業日常辦公不再受限於晶片卡與讀卡機，除了支援手機簽章，更透過集中驗證與行動附卡授權，改善企業過去憑證保管、共用及權限管理的難題。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "逾1.6萬個Supabase資料庫暴露於公開網路，恐洩漏敏感資料",
+        "link": "https://www.ithome.com.tw/news/179616",
+        "pubDate": "2026-10-13 12:17",
+        "description": "UpGuard掃描約30萬個使用Supabase的網域，發現其中1.6萬個資料庫存取控制設定不當，可能洩露個資、明文密碼、驗證權杖等資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客組織CyberXero濫用Claude Code攻擊WordPress網站，竊取近63萬烏克蘭用戶資料",
+        "link": "https://www.ithome.com.tw/news/179612",
+        "pubDate": "2026-10-13 11:54",
+        "description": "資安公司SOCRadar揭露俄羅斯初始存取管道掮客（IAB）CyberXero，這些駭客借助Claude Code的力量，主要目標是烏克蘭的關鍵基礎設施，但也對多個國家的WordPress網站與電商平臺從事自動化攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/179606",
+        "pubDate": "2026-10-13 11:16",
+        "description": "Kiteworks電子郵件防護閘道（EPG）存在輸入處理缺陷，可能導致遠端攻擊者執行任意程式碼，甚至取得root權限，用戶應儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress網頁建構外掛Bricksforge存在滿分漏洞，傳出已遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179605",
+        "pubDate": "2026-10-13 10:59",
+        "description": "甫公布的WordPress網頁建構外掛Bricksforge重大漏洞CVE-2026-85097出現遭積極利用的情況，網站管理員應儘速採取行動，套用新版Bricksforge因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科發布10月上半更新，修補NX-OS、APIC、Smart License逾30個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179592",
+        "pubDate": "2026-10-13 10:37",
+        "description": "上週思科發布10月上半更新，修補NX-OS、Application Policy Infrastructure Controller（APIC），以及Smart License（Smart Software Manager）等應用系統35個弱點，值得留意的是，近半數為重大等級，相當危險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "LINE官方帳號將內建AI代理平台，先提供3款店家AI代理角色，也將支援MCP協定",
+        "link": "https://www.ithome.com.tw/news/179642",
+        "pubDate": "2026-10-13  04:10:33",
+        "description": "LINE今天在年度記者會宣布，LINE官方帳號服務推出AI代理平台，可以讓店家打造自己的商家AI代理，先推出三款AI代理角色，包括預約、銷售和客服Agent，目前和品牌合作展開POC驗證，2027年第一季正式推出，目前還沒公布收費方案。AI代理先開放串接LINE技術合作夥伴，也計畫支援MCP協定。目前還沒公布收費模式。\nLINE官方帳號早期以行銷推廣為主，2019年全面開放API串接，2023年推出LINE MINI App，去年則推出了AI商務對話功能。目前，LINE官方帳號數量已經成長到36",
         "source": "iThome"
       },
       {
-        "title": "Telegram Desktop高風險漏洞可能導致帳號接管，研究人員已公開PoC",
-        "link": "https://www.ithome.com.tw/news/179598",
-        "pubDate": "2026-10-12 18:58",
-        "description": "Telegram處理程序間通訊（IPC）的指令字元存在漏洞，攻擊者可藉此竊取本機檔案與登入工作階段資料，進而可能接管帳號",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PCI SSC發布支付環境AI安全指引，AI代理存取明文持卡人資料應經人工核准",
-        "link": "https://www.ithome.com.tw/news/179591",
-        "pubDate": "2026-10-12 18:25",
-        "description": "支付卡產業安全標準委員會（PCI SSC）發布支付環境AI安全指引，文件建議採least agency原則，只提供必要權限，並區分Human-in-the-loop與Human-over-the-loop兩種人工監督模式；若AI代理可存取明文持卡人資料，相關操作應經人工核准，Shadow AI及第三方AI服務也應納入治理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "漏洞挖掘競賽Pwn2Own Ireland 2026共找出近100個零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/179590",
-        "pubDate": "2026-10-12 17:33",
-        "description": "上週愛爾蘭場漏洞挖掘競賽Pwn2Own Ireland 2026於科克展開，比賽結果出爐，由日本團隊Ikotas Labs以42.5個大師點數奪得破解大師（Master of Pwn）稱號",
-        "source": "iThome資安"
-      },
-      {
-        "title": "備份管理平臺AhsayCBS資安漏洞被串連利用，攻擊者試圖挖礦與植入後門程式",
-        "link": "https://www.ithome.com.tw/news/179587",
-        "pubDate": "2026-10-12 16:33",
-        "description": "威脅情報公司Huntress警告，近日公布的備份管理平臺AhsayCBS資安漏洞CVE-2026-105133、CVE-2026-105134出現實際攻擊活動，攻擊者試圖於受害系統植入Webshell與挖礦軟體XMRig",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Palo Alto Networks指出68%組織在OT資產掌握上仍待加強，平均使用資安工具多達7套",
-        "link": "https://www.ithome.com.tw/news/179584",
-        "pubDate": "2026-10-12 15:58",
-        "description": "Palo Alto Networks發布2026年關鍵基礎設施網路安全現況報告，指出OT資產可視性不足仍是主要挑戰，僅32%受訪組織能即時完整掌握連線資產。此外，企業平均使用7套資安工具，AI應用尚未全面擴展，IT／OT資安營運完全整合的比例也僅26%",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SonicWall SMA1000滿分漏洞遭積極利用，3天內已出現135次活動",
-        "link": "https://www.ithome.com.tw/news/179583",
-        "pubDate": "2026-10-12 15:18",
-        "description": "資安公司SonicWall揭露SMA1000設備滿分漏洞CVE-2026-102255不久，已出現嘗試利用的活動，攻擊者發送特製請求試圖利用漏洞，用戶應儘速採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月12日，美司法部與FBI查封中國永信至誠科技兩款駭客工具，臺灣多所大學曾遭其滲透",
-        "link": "https://www.ithome.com.tw/news/179581",
-        "pubDate": "2026-10-12 14:56",
-        "description": "美國司法部與FBI查封中國永信至誠科技控制的相關網域，阻斷Microscan、FishHub兩款駭客工具的相關運作。此次公開資料也進一步揭露臺灣受害情況，其中兩所大學曾遭Microscan掃描，之後遭入侵並部署SoftEther維持遠端存取；FishHub的確認受害者則包括約20所臺灣大專院校",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業邁向人與AI代理共存的混合工作團隊，SailPoint創辦人強調統一治理的重要性",
-        "link": "https://www.ithome.com.tw/news/179576",
-        "pubDate": "2026-10-12 14:38",
-        "description": "資安廠商SailPoint執行長暨創辦人Mark McClain日前首度造訪香港，針對AI代理快速增加帶來的身分治理挑戰提出警告。他指出，企業正邁向由人類與非人類共同組成的混合工作團隊，為有效控管相關風險，企業需要建立統一的身分治理機制，全面掌握身分環境並管理存取權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本企業接連發生資料外洩，JPCERT/CC示警並揭4類攻擊手法",
-        "link": "https://www.ithome.com.tw/news/179580",
-        "pubDate": "2026-10-12 14:21",
-        "description": "日本近期接連發生多起未經授權存取事件並造成大量資料外洩，JPCERT/CC示警，相關案例並非源自單一漏洞，而是涉及多種攻擊方式，目前彙整的案例包括：利用已知漏洞入侵、API濫用、Metabase漏洞與Web Shell等4類，並提醒企業加強API控管、漏洞修補與異常存取偵測",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Citrix修補NetScaler重大等級的SAML漏洞",
-        "link": "https://www.ithome.com.tw/news/179578",
-        "pubDate": "2026-10-12 12:26",
-        "description": "上週Citrix揭露NetScaler重大漏洞CVE-2026-107406，並指出此弱點影響配置為SAML服務提供者與身分驗證提供者的NetScaler ADC與Gateway系統",
-        "source": "iThome資安"
-      },
-      {
-        "title": "攻擊者利用WordPress兩款外掛XSS漏洞入侵網站，植入後門並建立隱藏的管理帳號，威脅逾50萬網站",
-        "link": "https://www.ithome.com.tw/news/179575",
-        "pubDate": "2026-10-12 12:09",
-        "description": "Patchstack發現攻擊者利用Ninja Forms與WPC Product Bundles外掛漏洞，建立不易徹底清除的多重持續存取管道",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Bun內建TypeScript型別檢查，官方測速最高達微軟編譯器6.4倍",
-        "link": "https://www.ithome.com.tw/news/179589",
-        "pubDate": "2026-10-12  07:10:57",
-        "description": "JavaScript執行環境Bun推出1.4.3版，新增內建TypeScript型別檢查器bun check，開發者可在執行程式、測試或建置前先檢查型別，發現錯誤就停止後續作業。Bun公布的測試顯示，檢查速度達TypeScript 7.0.2編譯器的3至6.4倍，記憶體用量也較低。\nBun原本就能直接執行TypeScript程式，但不會事先檢查資料型別是否正確，像是函式要求傳入數字，開發者卻提供字串，過去Bun不會在執行前報錯。新版加入型別檢查後，可在程式執行前找出這類問題，並顯示發生錯誤的檔案",
+        "title": "AMD推Agentic AI機櫃架構Helion，以CPU、GPU彈性配置鎖定不同Agent工作負載",
+        "link": "https://www.ithome.com.tw/news/179632",
+        "pubDate": "2026-10-13  02:10:48",
+        "description": "過去生成式AI基礎架構主要圍繞大型語言模型（LLM）推論，GPU成為AI資料中心建置的重心。但是，隨著企業開始部署能夠自主規畫任務、呼叫工具及串接企業系統的AI Agent，資料中心需要處理的不再只有模型推論，而是增加了Agent執行、工作流程協調、程式執行及多Agent協作等工作，也使CPU重新成為Agent時代的重要運算資源。看準這方面的需求，AMD在周一發表Agentic AI機櫃參考架構（Rack Reference Design）Helion，透過可彈性配置CPU與GPU的開放式架構，",
         "source": "iThome"
       },
       {
-        "title": "Mullvad共同創辦人政治捐款惹議，Tor暫停聯合宣傳但維持技術合作",
-        "link": "https://www.ithome.com.tw/news/179594",
-        "pubDate": "2026-10-12  07:10:04",
-        "description": "開發Tor匿名網路及Tor Browser的美國非營利組織Tor Project宣布，因VPN業者Mullvad共同創辦人的政治捐款引發社群質疑，已暫停與Mullvad的聯合品牌宣傳，並調整官方管道對Mullvad Browser的介紹及推薦文字，避免外界誤以為雙方在價值觀上全面一致。不過，Tor不會終止合作，雙方仍將共同開發隱私瀏覽器。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟Decision-1專攻AI代理決策，準確率83.5%領先同類模型",
-        "link": "https://www.ithome.com.tw/news/179586",
-        "pubDate": "2026-10-12  07:10:02",
-        "description": "微軟推出決策模型Microsoft-Decision-1，專門處理AI代理及企業應用中的分類、評分、工作分派與流程控管。模型可根據預先設定的選項進行判斷，並回傳各選項的機率，協助應用程式決定下一步行動，例如選擇適合的AI模型、檢查代理操作，或判斷是否需要人工審查。目前已透過Microsoft Foundry及OpenRouter提供服務。",
-        "source": "iThome"
-      },
-      {
-        "title": "數發部推數位核銷服務網，推動社福補助核銷流程自動化，並開源供其他機關重複利用",
-        "link": "https://www.ithome.com.tw/news/179588",
-        "pubDate": "2026-10-12  05:10:21",
-        "description": "為減輕社福團體的補助核銷行政作業負載。數發部今天（10/12）發表「數位核銷服務網」推動成果，數發部與衛福部社會及家庭署聯手，將AI導入社福團體的政府補助核銷作業，運用OCR與AI辨識發票、收據等單據，自動擷取資料、協助完成核銷文件整理與檢核，首波應用於社福補助及公益彩券補助案件，藉此降低大量人工登打及核對作業。\n數發部表示，目前不少政府補助案件仍仰賴紙本單據及人工核銷，社福團體在申請補助後，需整理大量發票、收據、交通費及活動支出，再逐筆輸入核銷資料，不僅耗時，還容易因為人工登打發生錯誤。根據統",
+        "title": "微軟發表Maia 300 AI晶片，2027年將成旗下主要推論系統",
+        "link": "https://www.ithome.com.tw/news/179629",
+        "pubDate": "2026-10-13  01:10:46",
+        "description": "微軟周一（10/12）發表第三代自研AI加速晶片Azure Maia 300，預計2027年投入正式生產環境，成為旗下產品與服務的主要AI推論系統，同時將Azure",
         "source": "iThome"
       }
     ],
     "cn_tech": [
       {
+        "title": "微軟 Maia 300 拚 2027 數 GW 部署，新自研 AI 晶片如何突破推理瓶頸？",
+        "link": "https://techorange.com/2026/10/13/microsoft-maia-300-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 16:23:35 +0800",
+        "description": "微軟正準備讓自研 AI 晶片承擔更大規模的運算任務。其發表第三代 AI 晶片 Maia 300，宣布自 2027 年起將 Maia 系統擴展至數 GW（百萬瓩）規模，成為旗下產品與服務的主要 AI 推理平台。《Reuters》報導，潛在部署數量可能超過 100 萬顆。 當 AI 推理走向如此龐大的部署規模，如何讓新增算力真正轉化為服務能力？根據微軟官方公告，Maia 300 的機櫃級 token 吞吐量最高達前代 Maia 200 的 7 倍，每瓦效能提升超過 2.5 倍。這些數字背後不只是單顆",
+        "source": "TechOrange"
+      },
+      {
+        "title": "懂技術還要會溝通：Anthropic 主管揭優秀 FDE 的 5 大特質，好奇心也是關鍵",
+        "link": "https://techorange.com/2026/10/13/anthropic-invests-100-million-into-frontier-deployed-engineer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 13:38:06 +0800",
+        "description": "AI 公司 Anthropic 正為其他企業培訓頂尖人才。Anthropic 本月稍早宣布投入 1 億美元成立 Claude Frontier Academy，目標在 2027 年底前，透過為期 12 週的實作計畫培訓 1 萬名前沿部署工程師（Frontier Deployed Engineer，FDE）。 採提名制、結合實體培訓與 12 週實作，Accenture、Deloitte 等企業已參與 《CRN》指出，目前參與計畫的包括 Accenture、Bain & Company、Capgem",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Meta 最強 AI 模型 Muse Wonder 登場，為何自認更適合個人與專業 Agent？",
+        "link": "https://techorange.com/2026/10/13/meta-muse-wonder-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 11:11:33 +0800",
+        "description": "Meta 在美國時間 10/12 推出新一代 AI 模型 Muse Wonder、Muse Wonder Full，宣稱這是公司至今最強大的模型，其中性能較強的 Wonder Full 在部分法律、企業工作流程及長時間程式開發測試中取得領先。執行長祖克柏更表示，Meta 已重返前沿 AI 模型競爭。 不過，Meta 這次強調的不只是模型整體性能，更宣稱新模型在個人與專業領域的 AI Agent（AI 代理）任務上達到頂尖水準。面對 OpenAI、Anthropic 等競爭對手，Muse Wond",
+        "source": "TechOrange"
+      },
+      {
+        "title": "不蓋新廠，改造老廠：新創 Harmoni 用平板與 AI 改裝美國傳統工廠",
+        "link": "https://techorange.com/2026/10/13/americas-old-factories-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 09:50:51 +0800",
+        "description": "美國近年積極推動「再工業化」，要把外移多年的製造業帶回本土；不少矽谷新創的做法是從零開始，打造大量使用機器人的全自動工廠。 而 Harmoni 走的是另一條路，它不蓋新廠，而是幫美國現有的老工廠升級。 Harmoni 成立於 2023 年，專門為工廠現場打造客製化平板與 AI 軟體。公司近日完成 1,000 萬美元 A 輪募資，由美國創投 Bessemer Venture Partners 領投，未公開估值。目前約有 40 家客戶，本月預計再增加 10 家，最大客群是航太與國防業。 Hadria",
+        "source": "TechOrange"
+      },
+      {
+        "title": "機器人不一定要有五指靈巧手，Zinova 提出「工具智慧」概念開拓建築機器人新方向",
+        "link": "https://techorange.com/2026/10/13/zinova-tool-intelligence-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 09:50:38 +0800",
+        "description": "Zinova 近來提出工具智慧（Tool Intelligence）概念，讓機器人學會辨識、抓取、感測與操作建築業的標準化工具，讓營建機器人有了全新靈巧手以外的發展方向。",
+        "source": "TechOrange"
+      },
+      {
         "title": "麥當勞、Citi 都搶做廣告生意，零售媒體 RMN 爆發後面臨什麼難題？",
         "link": "https://techorange.com/2026/10/13/rmn-boom-headaches-cmos/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 13 Oct 2026 06:00:00 +0800",
         "description": "麥當勞、花旗銀行（Citi）近期相繼加入商務媒體市場，從美國外送平台 DoorDash、零售商 Dollar Tree，到加油站、超市的螢幕，也都開始成為品牌投放廣告的新場域。根據《Business Insider》引述的產業追蹤數據，目前全球已有超過 200 個零售與商務媒體網路（Retail and Commerce Media Network，RMN），可選擇的平台快速增加，也讓品牌行銷人員面臨更複雜的媒體採購環境。 指標不一的歸因黑盒子，光是「銷售」就有 5 種定義 對品牌而言，問題不只",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 模型越便宜反而越花錢？史丹佛等機構研究：近 1/3 模型成本比較出現「反轉」",
-        "link": "https://techorange.com/2026/10/08/cheaper-ai-models-cost-more-price-reversal-study/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 17:03:12 +0800",
-        "description": "AI 模型的 API 價格持續下降，企業選擇較便宜的模型，就一定能降低成本嗎？史丹佛大學等機構一項研究發現，在 336 組 AI 模型成本比較中，約 32% 出現「價格逆轉」（Price Reversal）現象，也就是 API 單價較低的模型，執行相同測試任務反而更花錢。隨著 AI Agent（AI 代理）開始承接更多複雜工作，這項發現也對企業過去依據模型單價比較成本的方式提出挑戰。 API 單價便宜 80%，實際成本卻高出 38% 這項由史丹佛大學、卡內基美隆大學、加州大學柏克萊分校及 Mic",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 落地的關鍵，在於找到合適的 Use Case：高通攜手生態系共創 Edge AI 加速產業部署",
-        "link": "https://techorange.com/2026/10/08/edge-ai-ecosystem-use-case/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 16:44:19 +0800",
-        "description": "TechOrange 科技報橘與美國高通公司（Qualcomm）於 9 月 17 日在新竹共同舉辦「AI 智造領航午宴」，邀集多位高科技製造業中高階主管蒞臨餐敘交流，共同探討 AI 落地製造現場的實務路徑。 科技報橘社長戴季全致詞時表示，台灣企業正進入全球佈局與國際經營的新階段，研發與創新服務更不可或缺。他觀察到，台灣廠商彼此之間正從單純的上下游供應鏈，轉向奠基於共同技術基礎上合作、研發與開拓市場的「生態系」模式，這也是 Edge AI 從技術驗證走向產業部署的重要基礎。 高通行銷行政經理朱俊翰",
-        "source": "TechOrange"
-      },
-      {
-        "title": "電動車電池有望變小、變便宜？Honda 開發「邊開邊充」道路，2027 年啟動測試",
-        "link": "https://techorange.com/2026/10/08/honda-electrification-2027-releases-e20/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 08 Oct 2026 16:01:10 +0800",
-        "description": "Honda 最快將從 2027 會計年度起，參與日本高速公路上的行駛中無線充電實證測試，這套內建於道路中的系統，可讓電動車以最高每小時 120 公里的速度行駛時，仍獲得最高 150 kW 的充電功率。 道路直接幫電動車充電，電池有望更小、更輕 《The Next Web》報導，這套系統由 Honda 研發部門與建設公司大成建設（Taisei）共同開發，第一階段測試將以商用車為主。根據《日經亞洲》，這項實證由日本國營道路營運商 NEXCO 東日本主導，預計在東京近郊千葉縣館山自動車道約 300 公",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【貝萊德機器原生經濟報告】Token Economy 打通 AI 商業行為，穩定幣與算力成新型態金融資產",
-        "link": "https://techorange.com/2026/10/10/machinenative-economy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 10 Oct 2026 06:29:00 +0800",
-        "description": "全球資產管理公司貝萊德（BlackRock）旗下的數位資產研究團隊，發布《機器原生經濟》（The Machine-Native Economy: How digital assets connect intelligence, commerce, and compute）報告。報告的核心主張是，人工智慧代表「機器原生的智慧」，數位資產則代表「機器原生的貨幣」；兩者結合後，將形成一個以自主軟體代理人為主角的經濟體系，區塊鏈則是讓這些代理人自動完成交易與清算的底層金融基礎設施。 報告反覆強調的核心概",
         "source": "TechOrange"
       },
       {
@@ -241,16 +234,37 @@
         "pubDate": "Mon, 12 Oct 2026 06:02:00 +0800",
         "description": "當餐飲業開始導入 AI，最早受到關注的往往是消費者看得見的功能，例如語音點餐、聊天機器人或行銷工具。但近期達美樂（Domino’s）與麥當勞的動作，顯示餐飲科技正在往更深的營運層移動：AI 不再只是附加功能，而是逐步嵌入點餐、備餐、庫存、設備與外送等流程，成為串聯餐廳日常運作的核心系統。 達美樂以自研 DomOS 升級追蹤器，用精準預測解除顧客「等待焦慮」 達美樂近期大幅升級了自 2008 年問世的經典服務 Pizza Tracker。這項功能最初讓顧客透過簡單的視覺化介面，即時掌握披薩從下單、",
         "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】OpenAI 年化營收為何差約 200 億美元？關鍵在計算口徑",
-        "link": "https://techorange.com/2026/10/12/openai-annualized-revenue-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊OpenAI 年化營收近 500 億美元，與先前數字差距涉及計算口徑 《路透社》引述知情人士報導，OpenAI 向投資人表示，9 月年化營收接近 500 億美元，低於先前在另一場投資人活動透露的接近 700 億美元。消息人士指出，差距主要涉及嘗試將 OpenAI 的數字與 Anthropic 直接比較時，採用了不同計算口徑。報導指出，Anthropic 納入透過亞馬遜（Amazon）AWS、Google Cloud 等雲端合作夥伴取得的銷售收入",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
+        "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
+        "pubDate": "Tue, 13 Oct 2026 14:18:41 +0530",
+        "description": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe attackers reached them through the controller tha",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
+        "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
+        "pubDate": "Tue, 13 Oct 2026 14:14:01 +0530",
+        "description": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says.\n\nProgress published all 31 on October 12 and score",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
+        "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
+        "pubDate": "Tue, 13 Oct 2026 14:13:37 +0530",
+        "description": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab has remediated an issue that, under certain conditions,",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
+        "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
+        "pubDate": "Tue, 13 Oct 2026 11:30:11 +0530",
+        "description": "Low-cost Android smartphones have been shipped with malicious software baked into the device firmware, allowing bad actors to covertly install apps, conduct ad fraud, and turn devices into residential proxies.\n\nThe activity, which targets Android dev",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
         "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
@@ -362,34 +376,6 @@
         "pubDate": "Mon, 12 Oct 2026 14:32:14 +0530",
         "description": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauth",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "CyberXero Uses Claude Code in Campaign That Stole Over 628,000 Ukrainian Records",
-        "link": "https://thehackernews.com/2026/10/cyberxero-uses-claude-code-in-campaign.html",
-        "pubDate": "Mon, 12 Oct 2026 12:56:12 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a two-pronged artificial intelligence (AI)-augmented initial access campaign targeting WordPress sites, e-commerce platforms, and critical infrastructure entities in Ukraine.\n\nThe activity, which br",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-        "link": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-        "pubDate": "Mon, 12 Oct 2026 12:27:23 -0400",
-        "description": "Ledger has confirmed that some of its devices distributed through Southeast Asian reseller CryptoBilis were compromised with a hardware implant that drained users' cryptocurrency wallets. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Cyberattack shuts down refrigerators at French supermarkets",
-        "link": "https://www.bleepingcomputer.com/news/security/cyberattack-shuts-down-refrigerators-at-french-supermarkets/",
-        "pubDate": "Mon, 12 Oct 2026 11:23:34 -0400",
-        "description": "Attackers remotely defrosted refrigerators at multiple French supermarket chains overnight in a cyberattack that reportedly targeted Danfoss refrigeration controllers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Inside AvisLoader: A Windows Malware Loader Built to Resist Disruption",
-        "link": "https://www.bleepingcomputer.com/news/security/inside-avisloader-a-windows-malware-loader-built-to-resist-disruption/",
-        "pubDate": "Mon, 12 Oct 2026 10:00:10 -0400",
-        "description": "A new Windows malware loader called AvisLoader uses encrypted peer-to-peer communications to make command-and-control infrastructure harder to disrupt. Varonis researchers explain how the malware uses ClickFix delivery, shortcut-based persistence, an",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
