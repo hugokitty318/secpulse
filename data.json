@@ -1,7 +1,21 @@
 {
-  "ts": "2026-10-13T09:20:56.089154Z",
+  "ts": "2026-10-13T17:07:26.724157Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
+        "link": "https://www.ithome.com.tw/news/179658",
+        "pubDate": "2026-10-13 18:39",
+        "description": "加密貨幣投資人存放於Ledger硬體錢包設備的資產竟不翼而飛！對此，法國硬體加密貨幣錢包設備商Ledger承認確有此事，並指出這些用戶都是從經銷商CryptoBillis購入遭竄改的裝置而受害",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Let&#039;s Encrypt明年將TLS憑證效期從90天縮至64天，2028年再降至45天，憑證續期自動化更顯重要",
+        "link": "https://www.ithome.com.tw/news/179650",
+        "pubDate": "2026-10-13 18:00",
+        "description": "Let's Encrypt宣布，自2027年2月10日起，預設TLS憑證效期將由90天縮短為64天，2028年再降至45天。已完成自動續期且ACME用戶端支援ARI者通常不需額外調整，但仍應重新檢視續期排程與憑證管理流程",
+        "source": "iThome資安"
+      },
       {
         "title": "德國政府公布PQC遷移指引，高風險系統最晚2030年完成轉換、整體遷移目標2035年",
         "link": "https://www.ithome.com.tw/news/179641",
@@ -28,6 +42,13 @@
         "link": "https://www.ithome.com.tw/news/179639",
         "pubDate": "2026-10-13 15:28",
         "description": "上週Ubuntu開發商Canonical揭露，旗下網路基礎設施與Ubuntu生態系統遭遇大規模的分散式阻斷服務（DDoS）攻擊，導致主要網站與服務停擺持續超過4個小時",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月13日，法國數百家超市冷凍冷藏系統遭駭，溫度飆升造成大量食品報廢",
+        "link": "https://www.ithome.com.tw/news/179637",
+        "pubDate": "2026-10-13 15:00",
+        "description": "法國數百家超市在10月11日晚間遭到網路攻擊，駭客鎖定丹麥冷凍空調設備製造商Danfoss的冷凍冷藏控制系統，遠端啟動除霜功能，導致部分設備溫度升至攝氏50度，大量食品因此報廢，可能造成全法國數千萬歐元損失",
         "source": "iThome資安"
       },
       {
@@ -87,25 +108,18 @@
         "source": "iThome資安"
       },
       {
-        "title": "Kiteworks修補126個漏洞，包含可能導致系統遭接管的EPG滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/179606",
-        "pubDate": "2026-10-13 11:16",
-        "description": "Kiteworks電子郵件防護閘道（EPG）存在輸入處理缺陷，可能導致遠端攻擊者執行任意程式碼，甚至取得root權限，用戶應儘速更新",
-        "source": "iThome資安"
+        "title": "SQLite 3.54命令列新增磁碟空間分析指令，舊分析工具將退場",
+        "link": "https://www.ithome.com.tw/news/179647",
+        "pubDate": "2026-10-13  06:10:50",
+        "description": "資料庫SQLite開發團隊發布3.54.0版，將資料庫磁碟空間分析功能整合進命令列，開發者可直接查看資料表與索引占用多少磁碟空間，不必另外執行分析工具。新版也改善查詢效率，官方測試顯示效能約提升4%，並停止支援Windows XP及Windows CE等舊系統。",
+        "source": "iThome"
       },
       {
-        "title": "WordPress網頁建構外掛Bricksforge存在滿分漏洞，傳出已遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179605",
-        "pubDate": "2026-10-13 10:59",
-        "description": "甫公布的WordPress網頁建構外掛Bricksforge重大漏洞CVE-2026-85097出現遭積極利用的情況，網站管理員應儘速採取行動，套用新版Bricksforge因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科發布10月上半更新，修補NX-OS、APIC、Smart License逾30個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179592",
-        "pubDate": "2026-10-13 10:37",
-        "description": "上週思科發布10月上半更新，修補NX-OS、Application Policy Infrastructure Controller（APIC），以及Smart License（Smart Software Manager）等應用系統35個弱點，值得留意的是，近半數為重大等級，相當危險",
-        "source": "iThome資安"
+        "title": "GovTech月報第57期：美國聯邦政府採用AI打造全新政府服務入口網，民眾用自然語言就能尋找政府服務；行政院將研議建立食品識別與資料交換機制",
+        "link": "https://www.ithome.com.tw/news/179645",
+        "pubDate": "2026-10-13  05:10:05",
+        "description": "重點新聞(9/12~10/12)\nAI 政府入口網",
+        "source": "iThome"
       },
       {
         "title": "LINE官方帳號將內建AI代理平台，先提供3款店家AI代理角色，也將支援MCP協定",
@@ -120,16 +134,23 @@
         "pubDate": "2026-10-13  02:10:48",
         "description": "過去生成式AI基礎架構主要圍繞大型語言模型（LLM）推論，GPU成為AI資料中心建置的重心。但是，隨著企業開始部署能夠自主規畫任務、呼叫工具及串接企業系統的AI Agent，資料中心需要處理的不再只有模型推論，而是增加了Agent執行、工作流程協調、程式執行及多Agent協作等工作，也使CPU重新成為Agent時代的重要運算資源。看準這方面的需求，AMD在周一發表Agentic AI機櫃參考架構（Rack Reference Design）Helion，透過可彈性配置CPU與GPU的開放式架構，",
         "source": "iThome"
-      },
-      {
-        "title": "微軟發表Maia 300 AI晶片，2027年將成旗下主要推論系統",
-        "link": "https://www.ithome.com.tw/news/179629",
-        "pubDate": "2026-10-13  01:10:46",
-        "description": "微軟周一（10/12）發表第三代自研AI加速晶片Azure Maia 300，預計2027年投入正式生產環境，成為旗下產品與服務的主要AI推論系統，同時將Azure",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "模型可換、資料可控：微軟卞志祥談 AI 時代企業如何守住核心競爭力",
+        "link": "https://techorange.com/2026/10/13/microsoft-taiwan-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 18:21:05 +0800",
+        "description": "訪談：戴季全撰稿：張哲瑋 隨著技術的突飛猛進，全球企業正加速邁入 AI Agent 時代，試圖將自動化普及至核心業務。然而當 AI Agent 獲得系統執行與存取權限時，矛盾隨之浮現：如何在提升營運效率的同時，精準把握權限與資料控管的邊界？企業組織與治理的轉型變革，是導入 AI 的企業決策者都必須面對的課題。 本集《全新一週》專訪台灣微軟總經理卞志祥，深入探討 AI 科技的最新趨勢與企業應用，分析在合乎安全與規範的框架下，AI 如何作為數位勞動力，來提升人類的工作生產力。節目中，他逐一拆解關於人",
+        "source": "TechOrange"
+      },
+      {
+        "title": "降低對 NVIDIA 依賴：亞馬遜傳以約 70 億美元洽購 Decart，助 Trainium 晶片爭取開發者",
+        "link": "https://techorange.com/2026/10/13/amazon-buy-ai-startup-decart-around-7-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 13 Oct 2026 17:00:50 +0800",
+        "description": "根據《The Wall Street Journal》引述知情人士報導，亞馬遜（Amazon）正與 AI 新創 Decart 洽談收購事宜，交易估值可能約 70 億美元。知情人士表示，除非談判破局或有其他買家出現，雙方可望很快達成協議。《GeekWire》則分析，這筆交易能讓亞馬遜有新的方式，吸引更多 AI 開發者改用自研晶片，而非 NVIDIA 的硬體。 Decart 成立於 2023 年，由 3 名以色列工程師共同創辦，總部位於美國舊金山，並在以色列特拉維夫設有研發中心。公司銷售的軟體能讓 ",
+        "source": "TechOrange"
+      },
       {
         "title": "微軟 Maia 300 拚 2027 數 GW 部署，新自研 AI 晶片如何突破推理瓶頸？",
         "link": "https://techorange.com/2026/10/13/microsoft-maia-300-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,23 +241,44 @@
         "pubDate": "Mon, 12 Oct 2026 10:35:28 +0800",
         "description": "想讓馬克吐溫或愛迪生的聲音出現在品牌廣告裡，現在可以透過正式授權取得。提供這項服務的，是近期估值翻倍的語音 AI 新創 ElevenLabs。 總部位於倫敦、開發擬真語音生成軟體的 ElevenLabs，透過一次股權出售，估值從今年 2 月的 110 億美元翻倍至 220 億美元。新估值讓 ElevenLabs 躋身中國以外前 10 大最有價值的 AI 實驗室，與法國 AI 公司 Mistral 相當。 ElevenLabs 執行長 Mati Staniszewski 表示，這次交易引進高盛（G",
         "source": "TechOrange"
-      },
-      {
-        "title": "【Atlas 頭部設計邏輯】拿掉人臉改用燈環，讓人類同事秒懂機器人在看哪裡、做什麼",
-        "link": "https://techorange.com/2026/10/12/boston-dynamics-atlas-robot-head/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 09:47:12 +0800",
-        "description": "波士頓動力（Boston Dynamics）工程師指出，新款電動版 Atlas 機器人的頭部外型，其實是人類與機器人之間透過燈光進行溝通的設計語言，並在安全與效率間扮演雙向橋樑。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "餐飲 AI 不只會點餐，達美樂、麥當勞如何把 AI 深入門市營運系統？",
-        "link": "https://techorange.com/2026/10/12/dominos-mcdonalds-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 06:02:00 +0800",
-        "description": "當餐飲業開始導入 AI，最早受到關注的往往是消費者看得見的功能，例如語音點餐、聊天機器人或行銷工具。但近期達美樂（Domino’s）與麥當勞的動作，顯示餐飲科技正在往更深的營運層移動：AI 不再只是附加功能，而是逐步嵌入點餐、備餐、庫存、設備與外送等流程，成為串聯餐廳日常運作的核心系統。 達美樂以自研 DomOS 升級追蹤器，用精準預測解除顧客「等待焦慮」 達美樂近期大幅升級了自 2008 年問世的經典服務 Pizza Tracker。這項功能最初讓顧客透過簡單的視覺化介面，即時掌握披薩從下單、",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
+        "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
+        "pubDate": "Tue, 13 Oct 2026 21:48:18 +0530",
+        "description": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal th",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
+        "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
+        "pubDate": "Tue, 13 Oct 2026 18:42:32 +0530",
+        "description": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.\n\nThe administrative penalty is the largest issued",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
+        "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
+        "pubDate": "Tue, 13 Oct 2026 17:27:06 +0530",
+        "description": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through sy",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
+        "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
+        "pubDate": "Tue, 13 Oct 2026 16:39:10 +0530",
+        "description": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to an advisory published by SSD Secure ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
+        "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
+        "pubDate": "Tue, 13 Oct 2026 16:00:00 +0530",
+        "description": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone downloads a local model runtime, a pro",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
         "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
@@ -259,6 +301,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
+        "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
+        "pubDate": "Tue, 13 Oct 2026 12:44:18 -0400",
+        "description": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ivanti warns of Connect Secure zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/ivanti-warns-of-connect-secure-zero-day-exploited-in-attacks/",
+        "pubDate": "Tue, 13 Oct 2026 11:45:50 -0400",
+        "description": "Ivanti urged customers on Tuesday to immediately patch an actively exploited zero-day vulnerability in the Ivanti Connect Secure (ICS) remote access gateway. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Low-Cost Android Phones Ship With Preinstalled Malware That Turns Them Into Residential Proxies",
         "link": "https://thehackernews.com/2026/10/low-cost-android-phones-ship-with.html",
         "pubDate": "Tue, 13 Oct 2026 11:30:11 +0530",
@@ -266,60 +322,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Docker Hub flaw let attackers impersonate users, tamper with images",
+        "link": "https://www.bleepingcomputer.com/news/security/docker-hub-flaw-let-attackers-impersonate-users-tamper-with-images/",
+        "pubDate": "Tue, 13 Oct 2026 11:20:20 -0400",
+        "description": "Docker has disclosed a critical vulnerability (CVE-2026-105445) in Docker Hub that let attackers access another user's container repositories using a personal access token (PAT). [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "The MFA Gaps Attackers are Still Exploiting",
+        "link": "https://www.bleepingcomputer.com/news/security/the-mfa-gaps-attackers-are-still-exploiting/",
+        "pubDate": "Tue, 13 Oct 2026 10:01:11 -0400",
+        "description": "Attackers continue exploiting gaps in MFA coverage, using stolen credentials to access VPNs, RDP, and Windows systems that still rely on passwords alone. Specops explains why protecting cloud applications isn't enough and how organizations can close ",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SAP warns of maximum severity OAuth2 SSRF security flaw",
+        "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-maximum-severity-oauth2-ssrf-security-flaw/",
+        "pubDate": "Tue, 13 Oct 2026 09:51:02 -0400",
+        "description": "SAP has addressed 20 security flaws across multiple products in its October 2026 security updates, including a maximum-severity vulnerability in the Cloud SDK for Python. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Nippon Columbia malware incident exposes 8.6 million karaoke fan records",
         "link": "https://www.bleepingcomputer.com/news/security/nippon-columbia-malware-incident-exposes-86-million-karaoke-fan-records/",
         "pubDate": "Sun, 11 Oct 2026 10:23:46 -0400",
         "description": "Daiichi Kosho, a major Japanese entertainment system maker, disclosed that a malware infection at its contractor, Nippon Columbia, exposed more than 8.7 million customer and employee records. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands",
-        "link": "https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html",
-        "pubDate": "Sun, 11 Oct 2026 09:54:34 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a previously unseen variant of the DarkSword iOS exploit kit called P7 DarkSword.\n\n\"Compared with the variants we usually observe, P7 reduces its on-device footprint, adds on-device keychain and cry",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't",
-        "link": "https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html",
-        "pubDate": "Sat, 10 Oct 2026 16:30:00 +0530",
-        "description": "In environments studied for the 2026 State of Agent Security Report, roughly 1,280 third-party products now embed AI. About 282 of them sit behind single sign-on. The other thousand are invisible to identity infrastructure by default, not because any",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws",
-        "link": "https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html",
-        "pubDate": "Sat, 10 Oct 2026 14:48:45 +0530",
-        "description": "Anthropic on Friday said it's cutting off live internet access for all its internal evaluations until further notice following the discovery of new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior and targeted ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Cyber exec arrested in case allegedly tied to ShinyHunters hackers",
-        "link": "https://www.bleepingcomputer.com/news/security/cyber-exec-arrested-in-case-allegedly-tied-to-shinyhunters-hackers/",
-        "pubDate": "Sat, 10 Oct 2026 11:07:54 -0400",
-        "description": "Canadian cybersecurity executive Edward Dubrovsky has been arrested in Pennsylvania in connection with alleged extortion activity that multiple reports have linked to the FBI's ongoing crackdown on the ShinyHunters hacking group. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "ARTEX AI, Claude agents used in cyberattacks on South Korean banks",
-        "link": "https://www.bleepingcomputer.com/news/security/hacker-used-artex-ai-and-claude-agents-to-target-south-korean-banks/",
-        "pubDate": "Sat, 10 Oct 2026 10:16:17 -0400",
-        "description": "The cyberattacks that shook the South Korean financial sector earlier this month were launched by a Chinese hacker using the ARTEX AI penetration testing suite and Claude agents. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Criminal IP Introduces AITEM as the Next Evolution of Attack Surface Management",
-        "link": "https://www.bleepingcomputer.com/news/security/criminal-ip-introduces-aitem-as-the-next-evolution-of-attack-surface-management/",
-        "pubDate": "Sat, 10 Oct 2026 08:30:39 -0400",
-        "description": "Traditional attack surface management helps organizations discover exposed assets, but visibility alone is not enough to address threats. Criminal IP introduces AITEM, an AI-powered approach that connects exposure discovery with investigation, risk p",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories",
-        "link": "https://thehackernews.com/2026/10/credential-stealing-github-actions.html",
-        "pubDate": "Sat, 10 Oct 2026 00:44:28 +0530",
-        "description": "Cybersecurity researchers have disclosed details of an ongoing credential-theft campaign that has compromised two high-profile open-source maintainer accounts to push a malicious workflow into over 340 repositories.\n\n\"Using the account of Takashi Kit",
-        "source": "TheHackerNews"
       },
       {
         "title": "⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More",
@@ -355,168 +383,147 @@
         "pubDate": "Mon, 12 Oct 2026 16:06:56 +0530",
         "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in SonicWall Secure Mobile Access (SMA) 1000 appliances within days of public disclosure.\n\nThe vulnerability, tracked as CVE-2026-102255 (CVSS score: 10.0), is a ",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Yandex confirms service outage as users lose access to cloud files",
-        "link": "https://www.bleepingcomputer.com/news/security/yandex-confirms-service-outage-as-users-lose-access-to-cloud-files/",
-        "pubDate": "Mon, 12 Oct 2026 15:23:01 -0400",
-        "description": "Russian cloud services provider Yandex announced that drone attacks damaged three of its data centers, forcing it to shut down two facilities and partially disable a third. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Anthropic takes risky AI tests offline after models breach govt sites",
-        "link": "https://www.bleepingcomputer.com/news/security/anthropic-takes-risky-ai-tests-offline-after-models-breach-govt-sites/",
-        "pubDate": "Mon, 12 Oct 2026 14:51:59 -0400",
-        "description": "Anthropic announced that its internal AI models undergoing \"high-risk and cybersecurity evaluations\" no longer have internet access following incidents involving U.S. government websites at the federal, state, and local levels. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE",
-        "link": "https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html",
-        "pubDate": "Mon, 12 Oct 2026 14:32:14 +0530",
-        "description": "A maximum-severity security flaw impacting the Bricksforge plugin for WordPress has come under active exploitation in the wild, according to Patchstack.\n\nThe critical vulnerability in question is CVE-2026-85097 (CVSS score: 10.0), which allows unauth",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Will the HomeView be Apple’s first smart home success?",
-        "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
-        "pubDate": "Sun, 11 Oct 2026 21:14:40 +0000",
-        "description": "Over the past couple of years, we’ve seen multiple reports that Apple was working on a new smart home product, but now it seems the product has a name and a launch date.",
+        "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers; see it at Disrupt",
+        "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
+        "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
+        "description": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
         "source": "TechCrunch"
       },
       {
-        "title": "Aaron Sorkin’s ‘The Social Reckoning’ is off to a weak start",
-        "link": "https://techcrunch.com/2026/10/11/aaron-sorkins-social-reckoning-is-off-to-a-weak-start/",
-        "pubDate": "Sun, 11 Oct 2026 20:51:47 +0000",
-        "description": "What does this mean for a fall full of movies starring villainous tech CEOs?",
+        "title": "Google Play now supports private, vibe-coded apps built just for you",
+        "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
+        "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
+        "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
         "source": "TechCrunch"
       },
       {
-        "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
-        "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
-        "pubDate": "Sun, 11 Oct 2026 19:00:00 +0000",
-        "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+        "title": "Satlyt, founded by a former Google and SpaceX product manager, raises $8M to run AI on satellites",
+        "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
+        "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
+        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
         "source": "TechCrunch"
       },
       {
-        "title": "The investor’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/10/11/the-investors-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "pubDate": "Sun, 11 Oct 2026 17:53:37 +0000",
-        "description": "Year after year, investors who've explored the Expo Halls, met founders, and learned from peers have proven why you need to be on the ground at Disrupt Oct. 13.",
+        "title": "The 2026 Startup Battlefield Top 20: From organs to orbit and everything in between",
+        "link": "https://techcrunch.com/2026/10/13/the-2026-startup-battlefield-top-20-from-organs-to-orbit-and-everything-in-between/",
+        "pubDate": "Tue, 13 Oct 2026 15:02:00 +0000",
+        "description": "Twenty founders just earned their shot at Disrupt glory. They're headed to the main stage at TechCrunch Disrupt to compete for the $100,000 prize and the coveted Disrupt Cup.",
         "source": "TechCrunch"
       },
       {
-        "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-        "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
-        "pubDate": "Sun, 11 Oct 2026 16:52:33 +0000",
-        "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
+        "title": "Spotify users on iOS 27 can now ask Siri to play music without having to say ‘on Spotify’",
+        "link": "https://techcrunch.com/2026/10/13/spotify-users-on-ios-27-can-now-ask-siri-to-play-music-without-having-to-say-on-spotify/",
+        "pubDate": "Tue, 13 Oct 2026 14:30:12 +0000",
+        "description": "Siri can now learn users' preferred music app, allowing Spotify listeners to request songs, podcasts, and playlists without specifying which app to use.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta releases its first frontier model, Muse Wonder",
-        "link": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
-        "pubDate": "Mon, 12 Oct 2026 17:56:56 +0000",
-        "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+        "title": "Bumble agrees to a $1.3B acquisition deal as online dating faces a reset",
+        "link": "https://techcrunch.com/2026/10/13/bumble-agrees-to-a-1-3b-acquisition-deal-as-online-dating-faces-a-reset/",
+        "pubDate": "Tue, 13 Oct 2026 14:25:48 +0000",
+        "description": "After years of declining subscriber numbers and falling revenue, Bumble just agreed to a $1.3 billion acquisition.",
         "source": "TechCrunch"
       },
       {
-        "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
-        "link": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data/",
-        "pubDate": "Mon, 12 Oct 2026 17:19:14 +0000",
-        "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+        "title": "TechCrunch Disrupt 2026: Day 1",
+        "link": "https://techcrunch.com/2026/10/13/techcrunch-disrupt-2026-day-1/",
+        "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
+        "description": "TechCrunch Disrupt 2026 officially kicks off today. See what's in store for Day 1 (Oct. 13) at San Francisco's Moscone West. Don't miss it. Register for your pass now and meet 10,000+ tech leaders at the startup epicenter of the year.",
         "source": "TechCrunch"
       },
       {
-        "title": "Honeyjar offers AI tools to improve PR and comms at every company",
-        "link": "https://techcrunch.com/2026/10/12/honeyjar-offers-ai-tools-to-improve-pr-and-comms-at-every-company/",
-        "pubDate": "Mon, 12 Oct 2026 15:45:00 +0000",
-        "description": "Journalists, entrepreneurs, and even some public relations professionals will tell you that the PR process is broken. But could AI actually make things better?",
+        "title": "SpaceXSI bundles X Premium, Grok, and Cursor into one subscription",
+        "link": "https://techcrunch.com/2026/10/13/spacexsi-bundles-x-premium-grok-and-cursor-into-one-subscription/",
+        "pubDate": "Tue, 13 Oct 2026 13:50:19 +0000",
+        "description": "The new X Subscription combines X's paid features with AI tools like Grok and Cursor, offering plans ranging from $8 to $200 per month.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft president says UK is best placed to drive AI regulation",
-        "link": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation/",
-        "pubDate": "Mon, 12 Oct 2026 15:31:19 +0000",
-        "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+        "title": "Apple refreshes its HomePod mini with a new chip and $149 price tag",
+        "link": "https://techcrunch.com/2026/10/13/apple-refreshes-its-homepod-mini-with-a-new-chip-and-149-price-tag/",
+        "pubDate": "Tue, 13 Oct 2026 13:38:03 +0000",
+        "description": "The new $149 HomePod mini with Siri AI and a 'SoundGlow' visual feature will be available starting October 30.",
         "source": "TechCrunch"
       },
       {
-        "title": "This AI startup says it can generate permit-ready blueprints in minutes",
-        "link": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes/",
-        "pubDate": "Mon, 12 Oct 2026 15:27:59 +0000",
-        "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+        "title": "Apple’s new smart home lineup includes a smart lock, thermostat, and video doorbells",
+        "link": "https://techcrunch.com/2026/10/13/apples-new-smart-home-line-up-includes-a-smart-lock-thermostat-and-video-doorbells/",
+        "pubDate": "Tue, 13 Oct 2026 13:37:19 +0000",
+        "description": "The new devices work with HomeView, the company's new smart home hub which can be used to control accessories and interact with apps.",
         "source": "TechCrunch"
       },
       {
-        "title": "Fitbit Edge is Google’s middle ground between Fitbit Air and Pixel Watch",
-        "link": "https://techcrunch.com/2026/10/12/fitbit-edge-is-googles-middle-ground-between-fitbit-air-and-pixel-watch/",
-        "pubDate": "Mon, 12 Oct 2026 15:11:19 +0000",
-        "description": "Google’s newest wearable costs $179.99 and has a sleek feel like the Fitbit Air but with an OLED display.",
+        "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/13/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+        "pubDate": "Tue, 13 Oct 2026 13:28:06 +0000",
+        "description": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pass and get a second at 50% off.",
         "source": "TechCrunch"
       },
       {
-        "title": "Smart ring maker Ultrahuman to roll out biological-age model across UAE",
-        "link": "https://techcrunch.com/2026/10/12/smart-ring-maker-ultrahuman-to-roll-out-biological-age-model-across-uae/",
-        "pubDate": "Mon, 12 Oct 2026 14:09:34 +0000",
-        "description": "Ultrahuman and Abu Dhabi will spend the next two years working on research and clinical validation of the model.",
+        "title": "India delays digital payments fee rollout amid retailer pushback",
+        "link": "https://techcrunch.com/2026/10/13/india-delays-digital-payments-fee-rollout-amid-retailer-pushback/",
+        "pubDate": "Tue, 13 Oct 2026 13:25:05 +0000",
+        "description": "The NPCI, which operates the UPI network, said it was postponing the planned October 15 rollout of the 0.4% fee due to the festive shopping season.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026 starts tomorrow: Your final chance to secure up to $100 ticket savings",
-        "link": "https://techcrunch.com/2026/10/12/techcrunch-disrupt-2026-starts-tomorrow-your-final-chance-to-secure-up-to-100-ticket-savings/",
-        "pubDate": "Mon, 12 Oct 2026 14:00:00 +0000",
-        "description": "Tomorrow at 8 a.m. PT, it all begins z— 10,000+ founders, investors, and tech operators will gather at San Francisco’s Moscone West for TechCrunch Disrupt 2026 for three days of ideas, connections, and startups shaping what comes next. This is your l",
+        "title": "Apple launches a new Apple TV 4K with Siri AI and remote-free voice commands",
+        "link": "https://techcrunch.com/2026/10/13/apple-launches-a-new-apple-tv-4k-with-siri-ai-and-remote-free-commands/",
+        "pubDate": "Tue, 13 Oct 2026 13:16:11 +0000",
+        "description": "The new Apple TV 4K costs $299, comes with Siri AI, and will be available on November 13.",
         "source": "TechCrunch"
       },
       {
-        "title": "Former Plaud exec raises $26M for AI app that listens to you in the background",
-        "link": "https://techcrunch.com/2026/10/12/former-plaud-exec-raises-26m-for-ai-app-that-listens-to-you-in-the-background/",
-        "pubDate": "Mon, 12 Oct 2026 12:47:59 +0000",
-        "description": "One of the core promises of AI is that the more it knows about a person, the better it will be able to assist them with tasks and make appropriate suggestions, which, if you'll believe the tech companies, requires apps and devices to listen, watch, o",
+        "title": "Apple makes another push into the smart home market with HomeView",
+        "link": "https://techcrunch.com/2026/10/13/apple-makes-another-push-into-the-smart-home-market-with-homeview/",
+        "pubDate": "Tue, 13 Oct 2026 13:15:46 +0000",
+        "description": "Apple is taking a big swing at the smart home market with its latest product that competes with Amazon Echo Show and Google Nest Hub.",
         "source": "TechCrunch"
       },
       {
-        "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/10/11/the-founders-guide-to-techcrunch-disrupt-2026-everything-you-need-to-know/",
-        "pubDate": "Mon, 12 Oct 2026 00:59:01 +0000",
-        "description": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
+        "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+        "link": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+        "pubDate": "Tue, 13 Oct 2026 13:00:00 +0000",
+        "description": "American Express is introducing a new framework designed to ensure AI agents only make purchases their users have authorized, potentially preventing costly mistakes and disputes as AI-powered shopping grows.",
         "source": "TechCrunch"
       },
       {
-        "title": "The Social Reckoning is flopping at the box office",
-        "link": "https://www.theverge.com/entertainment/1009630/social-reckoning-box-office-other-mommy",
-        "pubDate": "2026-10-12T17:20:57-04:00",
-        "description": "As important as some of the messages in The Social Reckoning are, the movie has been drastically underperforming at the box office. Per Variety, Aaron's Sorkin's follow up to The Social Network only grossed a measly $5.5 million this past weekend aga",
+        "title": "Facebook will let you customize your feed algorithm using AI",
+        "link": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai",
+        "pubDate": "2026-10-13T13:01:31-04:00",
+        "description": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interest",
         "source": "TheVerge"
       },
       {
-        "title": "Meta has some Wonder Full new AI models",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1009479/meta-muse-wonder-full-ai-model",
-        "pubDate": "2026-10-12T13:00:00-04:00",
-        "description": "Meta is making up for lost time in the AI race. After launching Muse Spark, the first model from its revamped Superintelligence Labs division, and buzzy AI agent Muse, it's now launching two new models it claims can go toe-to-toe with the industry's ",
+        "title": "Google makes it easier to launch your vibe-coded apps",
+        "link": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch",
+        "pubDate": "2026-10-13T13:00:00-04:00",
+        "description": "The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the ",
         "source": "TheVerge"
       },
       {
-        "title": "Elon Musk has donated over $276 million to Republican midterm efforts",
-        "link": "https://www.theverge.com/tech/1009604/elon-musk-2026-midterm-republican-donations",
-        "pubDate": "2026-10-12T12:52:54-04:00",
-        "description": "Elon Musk has handed out at least $276 million to Republican groups since July, The New York Times reports, making him both the party's top known donor and the biggest established midterm donor. $158 million of that money - one of the largest politic",
+        "title": "A redesigned Play Store is coming to cars with Google built-in",
+        "link": "https://www.theverge.com/tech/1010086/cars-google-built-in-redesigned-play-store",
+        "pubDate": "2026-10-13T13:00:00-04:00",
+        "description": "The Google Play Store is getting a big update for cars with Google built-in. On Tuesday, the company announced that the Play Store's layout will now automatically adapt to the size and layout of your car's screen while making it easier to find and do",
         "source": "TheVerge"
       },
       {
-        "title": "The Yandex outage probably didn’t blitz Russian bots",
-        "link": "https://www.theverge.com/tech/1009594/russian-bots-yandex-outage-drone-strikes-debunk",
-        "pubDate": "2026-10-12T11:43:07-04:00",
-        "description": "Multiple Ukrainian drone strikes over the last week have taken Russian data centers offline and reportedly caused online bot traffic to plummet - but in reality it's probably not the kind of bot activity most people associate with Russia. A chart cit",
+        "title": "I tried out Apple&#8217;s HomeView smart display",
+        "link": "https://www.theverge.com/tech/1009877/apple-homeview-smart-home-display-hands-on",
+        "pubDate": "2026-10-13T12:55:02-04:00",
+        "description": "Apple has just announced the HomeView, its first smart home display - and I just got hands-on with the device, which features a gorgeous 7-inch square touchscreen and built-in Siri AI. It's designed as a smart home controller, personal assistant, and",
         "source": "TheVerge"
       },
       {
-        "title": "Mechanism&#8217;s first Switch 2 case is as awesome as I hoped it would be",
-        "link": "https://www.theverge.com/tech/1008161/mechanism-basecase-switch-2-case-hands-on",
-        "pubDate": "2026-10-12T11:00:00-04:00",
-        "description": "Most companies have slowed down releasing new Switch 2 cases, but one of my favorite accessory makers recently debuted its first, after a few delays. The $49 Basecase from Mechanism is a snap-on shell for the console that taps into the company's modu",
+        "title": "Actress Mia Goth says it’s ‘incomprehensible’ that Instagram allowed an AI image of her to spread",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010277/mia-goth-instagram-ai-shirt-deepfake-divorce",
+        "pubDate": "2026-10-13T12:42:51-04:00",
+        "description": "Earlier this month, news broke that actress Mia Goth had filed for divorce from actor and filmmaker Shia LaBeouf. An Instagram post from the account miagoth_ - marked with a blue verified checkmark - quickly spread. The post shows Goth in a T-shirt t",
         "source": "TheVerge"
       }
     ],
