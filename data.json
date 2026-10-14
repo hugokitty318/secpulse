@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-14T20:42:12.774761Z",
+  "ts": "2026-10-14T23:26:47.560157Z",
   "tabs": {
     "cn_sec": [
       {
@@ -236,17 +236,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "機器人不一定要有五指靈巧手，Zinova 提出「工具智慧」概念開拓建築機器人新方向",
-        "link": "https://techorange.com/2026/10/13/zinova-tool-intelligence-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 09:50:38 +0800",
-        "description": "Zinova 近來提出工具智慧（Tool Intelligence）概念，讓機器人學會辨識、抓取、感測與操作建築業的標準化工具，讓營建機器人有了全新靈巧手以外的發展方向。",
+        "title": "GitHub 爆紅的 REA 真能逆向任何軟體？從 51 件實作看 AI Agent 的能力與限制",
+        "link": "https://techorange.com/2026/10/15/rea-ai-agent-reverse-engineer-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 06:33:00 +0800",
+        "description": "AI Coding Agent 不只能協助開發者寫程式，現在也開始挑戰沒有原始碼的軟體，甚至嘗試重新實作其中的功能。開源專案 REA（Reverse Engineer Anything）近期在 GitHub 爆紅，截至 10 月 14 日已累積約 22.6 萬顆 Stars。它讓 Claude Code、Codex、Cursor 等 AI Coding Agent 能操作專業逆向工程工具，分析已編譯的執行檔、封閉式應用程式及部分韌體映像。 REA 官方更展示了 AI Agent 協助重建遊戲函式",
         "source": "TechOrange"
       },
       {
-        "title": "麥當勞、Citi 都搶做廣告生意，零售媒體 RMN 爆發後面臨什麼難題？",
-        "link": "https://techorange.com/2026/10/13/rmn-boom-headaches-cmos/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 06:00:00 +0800",
-        "description": "麥當勞、花旗銀行（Citi）近期相繼加入商務媒體市場，從美國外送平台 DoorDash、零售商 Dollar Tree，到加油站、超市的螢幕，也都開始成為品牌投放廣告的新場域。根據《Business Insider》引述的產業追蹤數據，目前全球已有超過 200 個零售與商務媒體網路（Retail and Commerce Media Network，RMN），可選擇的平台快速增加，也讓品牌行銷人員面臨更複雜的媒體採購環境。 指標不一的歸因黑盒子，光是「銷售」就有 5 種定義 對品牌而言，問題不只",
+        "title": "【科技早餐】日本出資、美國持股！最高 210 億美元晶圓廠計畫出爐",
+        "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊日本擬投最高 210 億美元在美建晶圓廠，格羅方德獲選營運 格羅方德（GlobalFoundries）10 月 14 日宣布，獲選為美日合作計畫中兩座新晶圓廠的技術提供者與營運商，廠址位於美國紐約州馬爾他，日本將提供最高 210 億美元資金。第一座廠預計以約 100 億美元加速建置，今年稍晚動工、2029 年投產；第二座廠則納入另一筆約 100 億美元的後續投資規劃。首座廠全面運作後，預計增加每年約 90 萬片 12 吋晶圓產能，主要服務汽車、",
         "source": "TechOrange"
       }
     ],
@@ -271,6 +271,13 @@
         "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530",
         "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a mix of U.S. citizens and Chin",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
+        "pubDate": "Wed, 14 Oct 2026 18:56:47 -0400",
+        "description": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
@@ -383,21 +390,49 @@
         "pubDate": "Wed, 14 Oct 2026 08:58:07 -0400",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Hirudo Android malware replaces banking apps to evade security checks",
-        "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
-        "pubDate": "Wed, 14 Oct 2026 07:41:20 -0400",
-        "description": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
+        "title": "Intero Biosystems wants drugmakers to test on mini human intestines, not animals",
+        "link": "https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/",
+        "pubDate": "Wed, 14 Oct 2026 23:00:00 +0000",
+        "description": "Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes",
+        "link": "https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/",
+        "pubDate": "Wed, 14 Oct 2026 22:00:00 +0000",
+        "description": "Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
+        "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
+        "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
+        "description": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+        "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
+        "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
+        "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
+        "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
+        "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
         "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
         "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
-        "description": "Flock CEO Garrett Langley said that the surveillance company has not cancelled contracts of any police department or law enforcement agency, despite reports of abuse.",
+        "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
         "source": "TechCrunch"
       },
       {
@@ -432,7 +467,7 @@
         "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
         "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
         "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
-        "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as  involved in composition and vocals.",
+        "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
         "source": "TechCrunch"
       },
       {
@@ -464,73 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
-        "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
-        "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
-        "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
-        "source": "TechCrunch"
+        "title": "McKinsey is making job applicants spar with a fake AI client",
+        "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+        "pubDate": "2026-10-14T18:53:31-04:00",
+        "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to refle",
+        "source": "TheVerge"
       },
       {
-        "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-        "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
-        "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
-        "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
-        "source": "TechCrunch"
+        "title": "The best feature of Apple’s HomeView might be its simplicity",
+        "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
+        "pubDate": "2026-10-14T18:00:02-04:00",
+        "description": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home das",
+        "source": "TheVerge"
       },
       {
-        "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
-        "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
-        "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
-        "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
-        "source": "TechCrunch"
+        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+        "pubDate": "2026-10-14T17:11:28-04:00",
+        "description": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, W",
+        "source": "TheVerge"
       },
       {
-        "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
-        "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
-        "pubDate": "Wed, 14 Oct 2026 14:55:47 +0000",
-        "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TechCrunch Disrupt 2026: Day 2",
-        "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
-        "pubDate": "Wed, 14 Oct 2026 14:30:00 +0000",
-        "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, as well as an investor-only session, more roundtables, Side Events, and more. Register to save 50% on your pass.",
-        "source": "TechCrunch"
+        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
+        "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
+        "pubDate": "2026-10-14T16:03:43-04:00",
+        "description": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the",
+        "source": "TheVerge"
       },
       {
         "title": "The AI race is back on",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
         "pubDate": "2026-10-14T15:06:03-04:00",
         "description": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive i",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Now that Character.AI is going bankrupt, what happens to all of its users&#8217; data?",
-        "link": "https://www.theverge.com/policy/1011417/new-york-ag-characterai-bankruptcy",
-        "pubDate": "2026-10-14T14:47:54-04:00",
-        "description": "New York Attorney General Letitia James revealed a years-long multi-state investigation against Character.AI as they now seek to require protections on consumer data sold through its bankruptcy proceeding. James is among 40 bipartisan AGs who filed a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "As a TV enthusiast, I was hoping for more from the Apple TV 4K",
-        "link": "https://www.theverge.com/tech/1011324/apple-tv-4k-missed-features",
-        "pubDate": "2026-10-14T14:38:59-04:00",
-        "description": "It's been four long years since the last Apple TV 4K was released, and in that time there have been lots of hopes and dreams for features in whatever comes next. A new chip, 4K/120Hz support, audio passthrough, a remote locator, better home control i",
-        "source": "TheVerge"
-      },
-      {
-        "title": "YouTube sticks new labels on AI-generated songs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1011369/youtube-music-ai-label",
-        "pubDate": "2026-10-14T14:22:56-04:00",
-        "description": "YouTube is adding a \"Made with AI\" label to tracks that were \"altered or fully generated\" using AI, with a similar approach to its existing process for applying AI labels to videos. It doesn't sound like this will apply to any and all use of AI tools",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Save up to 20 percent on gift cards for REI, Barnes &#038; Noble, and more",
-        "link": "https://www.theverge.com/gadgets/1010749/google-play-gift-card-deal-sale",
-        "pubDate": "2026-10-14T14:20:55-04:00",
-        "description": "While we cover a lot of deals on specific products, it’s rare that we find worthwhile savings on gift cards that let you save on essentially anything the store sells. However, until October 19th, you can save up to twenty percent on gift cards when y",
         "source": "TheVerge"
       }
     ],
