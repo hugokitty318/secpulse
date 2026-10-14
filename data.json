@@ -1,7 +1,70 @@
 {
-  "ts": "2026-10-14T06:08:48.769890Z",
+  "ts": "2026-10-14T11:46:57.810285Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "烏克蘭接連襲擊Yandex三座資料中心，俄羅斯多項網路服務中斷",
+        "link": "https://www.ithome.com.tw/news/179698",
+        "pubDate": "2026-10-14 18:49",
+        "description": "俄羅斯雲端、支付、叫車與外送與第三方企業服務受波及，俄政府與國防部研議強化資料中心防護",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MITRE ATT&amp;CK第20版登場，新增提示注入、AI輔助資料外洩等攻擊技術",
+        "link": "https://www.ithome.com.tw/news/179697",
+        "pubDate": "2026-10-14 18:27",
+        "description": "資安界廣泛採用的攻擊手法框架MITRE ATT&CK，如今已更新至第20版，新增直接提示注入、AI輔助資料外洩及AI結果污染等攻擊技術，反映MITRE持續擴充AI相關攻擊行為的分類，從利用AI協助攻擊，進一步涵蓋操控AI系統及AI代理的攻擊手法",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Ledger加密錢包設備遭植入隱藏晶片，影響範圍已從亞洲擴及歐洲",
+        "link": "https://www.ithome.com.tw/news/179660",
+        "pubDate": "2026-10-14 17:22",
+        "description": "硬體加密貨幣錢包設備Ledger遭植入間諜元件震驚全球，Ledger定調有問題的裝置來自東南亞經銷商CryptoBillis，有人發現歐洲經銷商銷售的Ledger錢包也同樣被竄改，研判這起事故的影響範圍恐怕已蔓延到歐洲",
+        "source": "iThome資安"
+      },
+      {
+        "title": "金管會擬推出金融業代理AI安全指引，先公布諮詢文件徵詢意見，聚焦安全治理、風險分級與權限控管",
+        "link": "https://www.ithome.com.tw/news/179681",
+        "pubDate": "2026-10-14 16:53",
+        "description": "金融業導入代理AI有助於提升營運效率與推動服務創新，但也伴隨新興資安風險，金管會10月13日公布「金融業運用代理AI安全諮詢文件」，針對金融業導入代理AI提出安全治理、風險分級及安全控管三大方向，並公開徵詢各界意見30天",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Docker Hub修補重大漏洞GhostPat",
+        "link": "https://www.ithome.com.tw/news/179688",
+        "pubDate": "2026-10-14 16:10",
+        "description": "Docker開發團隊發布公告指出，他們近期為Docker Hub修補重大等級的資安漏洞CVE-2026-105445（GhostPat），並透過電子郵件通知部分受到影響的使用者",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitLab發布重大安全性更新，修補嚴重程度滿分的資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179685",
+        "pubDate": "2026-10-14 15:19",
+        "description": "本週GitLab修補一系列資安漏洞，其中最值得留意的部分，是危險程度達到滿分的CVE-2026-97229，用戶應儘速套用新版本緩解相關風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SAP公布Cloud SDK for Python滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/179684",
+        "pubDate": "2026-10-14 15:08",
+        "description": "本週SAP發布10月例行更新（Security Patch Day），公布及修補20個資安漏洞，其中存在於程式庫SAP Cloud SDK for Python的重大漏洞CVE-2026-89111特別危險，CVSS嚴重程度達到滿分10分",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月14日，微軟發布10月例行更新，修補1,413個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179682",
+        "pubDate": "2026-10-14 14:53",
+        "description": "本週微軟發布10月例行更新，修補超過1,400個資安漏洞，創下單月新高，其中近八成與Windows有關，用戶應儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國政府警告Windows、Ivanti SSL VPN零時差漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179680",
+        "pubDate": "2026-10-14 14:34",
+        "description": "針對微軟與Ivanti在10月例行更新公布與修補的零時差漏洞CVE-2026-96951、CVE-2026-104935，美國網路安全與基礎設施安全局（CISA）也確認已遭到積極利用，並要求聯邦機構緊急採取行動因應",
+        "source": "iThome資安"
+      },
       {
         "title": "Google發布ChromeOS與ChromeOS Flex穩定版更新，修補106個資安漏洞",
         "link": "https://www.ithome.com.tw/news/179675",
@@ -45,66 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "微軟修補3個零時差漏洞，其中一個已遭利用",
-        "link": "https://www.ithome.com.tw/news/179667",
-        "pubDate": "2026-10-14 11:49",
-        "description": "在10月份例行更新（Patch Tuesday）當中，微軟總共公布及修補3個零時差漏洞，其中存在於Windows Shell的安全功能繞過漏洞CVE-2026-96951，已被用於實際攻擊",
-        "source": "iThome資安"
+        "title": "Character.AI聲請破產保護，迪士尼出價2,000萬美元收購部分資產",
+        "link": "https://www.ithome.com.tw/news/179689",
+        "pubDate": "2026-10-14  04:10:57",
+        "description": "美國AI角色聊天平臺Character.AI周一（10/12）宣布，已向德拉瓦州聯邦破產法院聲請《破產法》第11章破產保護，尋求出售全部或絕大部分資產。",
+        "source": "iThome"
       },
       {
-        "title": "法國超市冷藏設備遭駭引發歐洲警戒，預警擴及Copeland冷藏控制設備，義大利、德國跟進示警",
-        "link": "https://www.ithome.com.tw/news/179661",
-        "pubDate": "2026-10-14 11:05",
-        "description": "法國數百家超市冷凍冷藏設備遭駭事件持續延燒，法國資安機關擴大受影響設備清單，確認攻擊不只涉及Danfoss，也涵蓋Copeland旗下品牌Dixell的冷藏控制設備，並警告攻擊活動可能仍在持續。義大利與德國資安機關也相繼發布警示，呼籲業者檢查連網控制設備及遠端維護管道，防範類似攻擊發生",
-        "source": "iThome資安"
+        "title": "AWS Lambda推出Web Functions，Node.js網頁服務可直接部署",
+        "link": "https://www.ithome.com.tw/news/179686",
+        "pubDate": "2026-10-14  04:10:00",
+        "description": "AWS Lambda新增Web Functions，開發者可直接將使用Express、Hono、Fastify及Next.js等框架開發的Node.js網頁服務部署至Lambda，不必改寫成事件處理函式，也無須額外使用轉接工具，新服務支援多請求並行以及跨區域（Region）部署。",
+        "source": "iThome"
       },
       {
-        "title": "Google更新Chrome 155穩定版，修補37個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179663",
-        "pubDate": "2026-10-14 10:57",
-        "description": "Chrome瀏覽器修補Media、Passwords、V8、DOM等元件漏洞，多數屬於記憶體安全相關問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟發布10月例行更新，修補1,413個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179662",
-        "pubDate": "2026-10-14 10:55",
-        "description": "本週微軟發布10月例行更新（Patch Tuesday），破紀錄修補超過1,400個資安漏洞，其中有近八成與Windows有關，用戶應儘速採取行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CSA提出零信任DNS授權架構，解析網域名稱前先驗證身分、確認權限",
-        "link": "https://www.ithome.com.tw/news/179519",
-        "pubDate": "2026-10-14 08:00",
-        "description": "雲端安全聯盟（CSA）提出Secure Multi-Step DoH零信任DNS授權架構，主張在解析網域名稱前先驗證使用者身分、檢查裝置安全狀態及確認存取權限，避免未經授權者取得企業內部服務的位址資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客濫用Power BI發動網釣，利用ScreenConnect維持遠端存取",
-        "link": "https://www.ithome.com.tw/news/179604",
-        "pubDate": "2026-10-14 08:00",
-        "description": "資安業者Huntress揭露駭客濫用微軟Power BI發動網釣攻擊，誘使受害者下載遠端監控與管理工具ScreenConnect。研究人員也發現，攻擊者在部分事件中部署兩套ScreenConnect用戶端，試圖維持對受害電腦的遠端存取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "IonQ擬以最高13億美元併購零信任資安業者Elisity",
-        "link": "https://www.ithome.com.tw/news/179631",
-        "pubDate": "2026-10-14 08:00",
-        "description": "量子運算業者IonQ計畫結合零信任資安業者Elisity的網路微分段及存取控制技術，並在後續產品發展中整合密碼學資產清冊及相關風險資訊，協助企業判斷哪些系統應優先導入後量子密碼學（PQC）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OWASP回顧第三季AI資安事件，AI代理越權成焦點",
-        "link": "https://www.ithome.com.tw/news/179582",
-        "pubDate": "2026-10-14 08:00",
-        "description": "OWASP回顧2026年第3季AI資安事件，其中多起事件反映過度代理授權（Excessive Agency）的安全問題，另有案例揭露提示詞注入、惡意MCP伺服器及敏感資料外洩等風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google讓一般人用AI自製Android App，並直接安裝到手機",
-        "link": "https://www.ithome.com.tw/news/179664",
-        "pubDate": "2026-10-14  11:10:02",
-        "description": "Google周二（10/13）更新Google Play，推出多項AI應用、App探索、遊戲社群及車載服務功能，包括讓一般使用者透過AI製作Android App並安裝到手機、在Gemini對話中探索Google Play內容、利用AI推薦遊戲，以及",
+        "title": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
+        "link": "https://www.ithome.com.tw/news/179683",
+        "pubDate": "2026-10-14  03:10:20",
+        "description": "英特爾在OCP2026全球大會上發表其代理式AI基礎架構最新進展，包括Intel GPU D系列（代號Crescent Island）技術細節，還展示搭載Xeon處理器的新一代機櫃設計，以及支援異質運算的開放式軟體與硬體標準，瞄準支援代理AI的新一代企業資料中心架構。\n相較於生成式AI以大型語言模型推論為主，該公司認為，代理式AI的工作流程更加複雜，不僅包含模型推論，還涉及資訊檢索、推理、工具呼叫、工作流程協調與任務執行等多個步驟，為此，資料中心不再只是追求GPU算力，而需要CPU、GPU與專用",
         "source": "iThome"
       },
       {
@@ -120,30 +141,30 @@
         "pubDate": "2026-10-14  01:10:47",
         "description": "蘋果周二（10/13）宣布，與LG電子及法國施耐德電機（Schneider Electric）合作推出智慧家庭產品系列Apple Home Collection，涵蓋監視攝影機、智慧門鈴、電子門鎖、恆溫器及溫濕度感測器等產品，預計今年12月起陸續上市，藉此擴大Apple Home",
         "source": "iThome"
-      },
-      {
-        "title": "Mozilla推Firefox企業瀏覽器，支援自架主控臺管控AI使用與資料傳輸",
-        "link": "https://www.ithome.com.tw/news/179676",
-        "pubDate": "2026-10-14  01:10:42",
-        "description": "Mozilla推出企業瀏覽器Firefox Enterprise，搭配可由企業自行部署的管理主控臺，讓IT人員集中管理瀏覽器政策、員工存取權限，以及資料傳輸和AI工具的使用。該產品鎖定資安、管理及法規遵循要求較高的組織。",
-        "source": "iThome"
-      },
-      {
-        "title": "Gemini 4 Argon推向Gemini Pro、Ultra方案用戶、開發人員，限期優惠5折",
-        "link": "https://www.ithome.com.tw/news/179677",
-        "pubDate": "2026-10-14  01:10:06",
-        "description": "Google宣布最新尖端模型Gemini 4 Argon周二（10/13）推向Google AI Pro、Ultra付費方案用戶及軟體開發人員。11月底前輸出、輸入費用提供50%折扣。",
-        "source": "iThome"
-      },
-      {
-        "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
-        "link": "https://www.ithome.com.tw/news/179658",
-        "pubDate": "2026-10-13 18:39",
-        "description": "加密貨幣投資人存放於Ledger硬體錢包設備的資產竟不翼而飛！對此，法國硬體加密貨幣錢包設備商Ledger承認確有此事，並指出這些用戶都是從經銷商CryptoBillis購入遭竄改的裝置而受害",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 蠕蟲年底成形？Anthropic 示警小模型自我複製，外媒質疑實驗條件",
+        "link": "https://techorange.com/2026/10/14/anthropic-self-replicating-ai-iot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 18:15:13 +0800",
+        "description": "AI 能不能像電腦蠕蟲一樣，自行找到下一台裝置、把自己複製過去，而且不需要龐大的資料中心？Anthropic 前沿紅隊（Frontier Red Team）在 10/12 發布研究，在模擬的 Android 裝置網路中測試開放權重模型的自我複製能力，其中 GLM-5.2 在 5 次試驗中有 4 次擴散到全部 8 個節點。Anthropic 推估，若小模型維持過往的進步速度，今年底就可能具備同等能力。 研究一發布，科技媒體《The Register》就質疑實驗環境是刻意留下漏洞的特製節點。雙方對威",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Facebook 推「可以對話的演算法」：用 LLM 讓使用者描述喜好，推薦內容即時調整",
+        "link": "https://techorange.com/2026/10/14/meta-introducing-your-algorithm-facebook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 16:31:56 +0800",
+        "description": "Facebook 成為最新一個讓使用者更能掌控推薦演算法的社群平台。Meta 近日宣布在 Facebook 推出 AI 功能「Your Algorithm」，讓使用者能以自然語言描述自己的內容偏好，進而影響動態消息與 Reels 短影音中出現的內容。 結合 AI 與三點選單，使用者可直接告訴演算法想看什麼 透過「Your Algorithm」，使用者能直接新增並管理自己想在動態消息與 Reels 中看到的主題。Meta 表示，這項功能的目的是讓內容推薦更貼近使用者的興趣。 Facebook 的排",
+        "source": "TechOrange"
+      },
+      {
+        "title": "繼宇樹之後再押機器人大腦，DeepSeek 傳領投前騰訊科學家新創 Winverse",
+        "link": "https://techorange.com/2026/10/14/deepseek-winverse-ai-robot-seed-round/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 15:51:08 +0800",
+        "description": "中國 AI 新創 DeepSeek 正把觸角從語言模型伸向實體世界。據《Bloomberg》引述知情人士報導，DeepSeek 已同意領投機器人 AI 新創公司 Winverse AI 的種子輪，這輪募資規模達數千萬美元，交易完成後，Winverse AI 估值約 4 億美元。這家公司今年才成立，創辦人是前騰訊 AI 專家胡瀚。 這並非 DeepSeek 第一次出手機器人領域。今年 8 月它才以策略投資人身分，認購人形機器人大廠宇樹科技（Unitree）的 IPO 股份。一邊與機器人硬體廠建立合",
+        "source": "TechOrange"
+      },
       {
         "title": "AI 投資熱潮暗藏風險：IMF 估若生產力落空，美股恐跌 20%、全球產出 2028 年少 1.1%",
         "link": "https://techorange.com/2026/10/14/imf-world-bank-annual-meetings-bangkok-asia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -227,30 +248,44 @@
         "pubDate": "Tue, 13 Oct 2026 06:00:00 +0800",
         "description": "麥當勞、花旗銀行（Citi）近期相繼加入商務媒體市場，從美國外送平台 DoorDash、零售商 Dollar Tree，到加油站、超市的螢幕，也都開始成為品牌投放廣告的新場域。根據《Business Insider》引述的產業追蹤數據，目前全球已有超過 200 個零售與商務媒體網路（Retail and Commerce Media Network，RMN），可選擇的平台快速增加，也讓品牌行銷人員面臨更複雜的媒體採購環境。 指標不一的歸因黑盒子，光是「銷售」就有 5 種定義 對品牌而言，問題不只",
         "source": "TechOrange"
-      },
-      {
-        "title": "中國無人車搶進夜間物流，京東「白天配送、夜間補貨」單車營運成本降 2 成",
-        "link": "https://techorange.com/2026/10/12/china-s-delivery-robots-learning-tackle-night-shift/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 18:24:18 +0800",
-        "description": "深圳今年 3 月開放無人車執行夜間配送。中國自動駕駛新創新石器（Neolix Technologies）的無人配送車，在深圳龍崗區的農貿市場載運家禽，送往雜貨店的顧客手中；京東物流（JINGDONG Logistics）則讓無人車在夜間運送日常用品，並為前置履約中心補充庫存。業者利用夜間較不壅塞的道路，延長車輛營運時間並降低人力成本。 新石器營運 2.7 萬輛無人車，以世界模型理解地圖上沒有的卸貨點 《Bloomberg》報導指出，深圳於 2026 年 3 月開放無人駕駛車輛執行夜間配送，這項實",
-        "source": "TechOrange"
-      },
-      {
-        "title": "ASML 下一代 Hyper NA 瞄準 5 奈米解析度，EUV 技術還有多少微縮空間？",
-        "link": "https://techorange.com/2026/10/12/asml-zeiss-hyper-na-euv/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 17:08:05 +0800",
-        "description": "晶片電路還能縮得多小？荷蘭半導體設備大廠 ASML 與其光學夥伴蔡司（Zeiss）正研發下一代極紫外光（EUV）曝光技術 Hyper NA，目標將單次曝光解析度推進至約 5 奈米半間距（Half-pitch）。《Reuters》近日報導，ASML 尚未承諾量產，但表示這項技術有望約十年後準備就緒。 值得注意的是，Hyper NA 並未改用更短波長的光源，而是延續現有 EUV 技術，透過提高數值孔徑（NA）改善解析度。然而，提高 NA 並非沒有代價，ASML 與蔡司研究團隊在 10 月發表的技術論",
-        "source": "TechOrange"
-      },
-      {
-        "title": "當 AI 風險從幻覺轉為做錯事，TeamT5 剖析企業防線：治理先從「看得到」開始",
-        "link": "https://techorange.com/2026/10/12/teamt5-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 15:29:04 +0800",
-        "description": "有的企業怕出事，乾脆全面禁用 AI；有的企業積極導入，卻說不清內部到底有誰在用，當 AI Agent 開始在企業電腦上自主執行任務，看不見的使用狀況，就成了資安風險的起點。TechOrange 科技報橘與美國高通公司 Qualcomm 於日前舉辦「2026 AI 智慧大工廠論壇」，聚焦高科技製造業的 AI 落地與資安治理。於系列演講中，TeamT5 資深經理侯翔齡從三種利用 AI Agent 的攻擊談到端點上的權限盲區，提醒企業應該弄清楚內部到底有誰在用 AI、用得是否安全。 侯翔齡觀察到，企業",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
+        "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
+        "pubDate": "Wed, 14 Oct 2026 16:49:02 +0530",
+        "description": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researchers built the attack in six days by directing AI ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
+        "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
+        "pubDate": "Wed, 14 Oct 2026 16:38:22 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
+        "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
+        "pubDate": "Wed, 14 Oct 2026 16:30:00 +0530",
+        "description": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.\n\nTL;DR\n\n\n  During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
+        "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
+        "pubDate": "Wed, 14 Oct 2026 13:16:57 +0530",
+        "description": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijac",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
+        "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
+        "pubDate": "Wed, 14 Oct 2026 11:22:28 +0530",
+        "description": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an isolated slice of memory the operating system uses ",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
         "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
@@ -259,11 +294,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hirudo Android malware replaces banking apps to evade security checks",
+        "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+        "pubDate": "Wed, 14 Oct 2026 07:41:20 -0400",
+        "description": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
         "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
         "pubDate": "Wed, 14 Oct 2026 07:29:25 +0530",
-        "description": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, ha",
+        "description": "A Saudi national and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, ha",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+        "pubDate": "Wed, 14 Oct 2026 06:48:09 -0400",
+        "description": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
@@ -341,58 +390,16 @@
         "pubDate": "Tue, 13 Oct 2026 16:39:10 +0530",
         "description": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to an advisory published by SSD Secure ",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Product Walkthrough: Bitdefender AI Visibility and Control",
-        "link": "https://thehackernews.com/2026/10/product-walkthrough-bitdefender-ai.html",
-        "pubDate": "Tue, 13 Oct 2026 16:00:00 +0530",
-        "description": "A user opens a browser tab, pastes data into a chat assistant, and nothing is installed.\n\nA developer adds a coding assistant as an editor extension, and nothing shows up in the installed programs list.\n\nSomeone downloads a local model runtime, a pro",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft October 2026 Patch Tuesday fixes 1,411 flaws, 3 zero-days",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-2026-patch-tuesday-fixes-1-411-flaws-3-zero-days/",
-        "pubDate": "Tue, 13 Oct 2026 15:56:09 -0400",
-        "description": "Today is Microsoft's October 2026 Patch Tuesday, with security updates addressing a record-breaking 1,411 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft releases Windows 10 KB5126657 extended security update",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5126657-extended-security-update/",
-        "pubDate": "Tue, 13 Oct 2026 15:47:30 -0400",
-        "description": "Microsoft released the Windows 10 KB5126657 extended security update, which includes this month's record-breaking October 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: Windows 11 24H2 Home and Pro reached end of support",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-11-24h2-home-and-pro-reached-end-of-support/",
-        "pubDate": "Tue, 13 Oct 2026 15:04:38 -0400",
-        "description": "Microsoft announced today that devices running Windows 11 24H2 Home and Pro editions have reached the end of support and will no longer receive monthly security and non-security preview updates. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "UK Housing Ombudsman Service investigates 'security incident'",
-        "link": "https://www.bleepingcomputer.com/news/security/uk-housing-ombudsman-service-investigates-security-incident/",
-        "pubDate": "Tue, 13 Oct 2026 14:19:44 -0400",
-        "description": "The U.K. Housing Ombudsman Service is investigating a third-party IT security incident that impacted its case management system on Tuesday. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Heat French Supermarket Fridges Up to 50°C by Hijacking Danfoss Controllers",
-        "link": "https://thehackernews.com/2026/10/attackers-heat-french-supermarket.html",
-        "pubDate": "Tue, 13 Oct 2026 14:18:41 +0530",
-        "description": "Attackers took remote control of fridges and freezers at hundreds of French supermarkets on the night of October 11 and warmed them, forcing stores to throw food away, several retail chains said.\n\nThe attackers reached them through the controller tha",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Two Critical MarkLogic Flaws Could Give Delegated Managers Persistent Admin Control",
-        "link": "https://thehackernews.com/2026/10/two-critical-marklogic-flaws-could-give.html",
-        "pubDate": "Tue, 13 Oct 2026 14:14:01 +0530",
-        "description": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says.\n\nProgress published all 31 on October 12 and score",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
+        "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
+        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+        "description": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
         "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
@@ -492,11 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Forget rockets — Longshot wants to fire cargo into space from a gun. See it at TechCrunch Disrupt 2026",
-        "link": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
-        "pubDate": "Tue, 13 Oct 2026 18:05:00 +0000",
-        "description": "Longshot is trying to build a gun big enough to make space data centers a reality.",
-        "source": "TechCrunch"
+        "title": "The Tesla Roadster could have stayed vaporware",
+        "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
+        "pubDate": "2026-10-14T07:00:00-04:00",
+        "description": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. No",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
+        "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
+        "pubDate": "2026-10-14T07:00:00-04:00",
+        "description": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and E",
+        "source": "TheVerge"
       },
       {
         "title": "Apple’s HomeView ad is confusing to everyone except parents",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
         "pubDate": "2026-10-13T16:05:02-04:00",
         "description": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Shopify opens its catalog up to more AI agents",
-        "link": "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents",
-        "pubDate": "2026-10-13T15:42:42-04:00",
-        "description": "More AI agents will soon be able to browse and purchase from Shopify listings, marking an expansion of the company's agentic commerce ambitions. Shopify announced Tuesday it will let shoppers configure their AI agents to purchase products on their be",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Xbox is officially embracing the chaos of AI-powered game ports",
-        "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
-        "pubDate": "2026-10-13T15:00:48-04:00",
-        "description": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnes",
         "source": "TheVerge"
       }
     ],
