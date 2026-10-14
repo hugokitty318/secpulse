@@ -1,26 +1,75 @@
 {
-  "ts": "2026-10-14T01:11:25.950522Z",
+  "ts": "2026-10-14T06:08:48.769890Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "OWASP回顧第三季AI資安事件，AI代理越權成焦點",
-        "link": "https://www.ithome.com.tw/news/179582",
-        "pubDate": "2026-10-14 08:00",
-        "description": "OWASP回顧2026年第3季AI資安事件，其中多起事件反映過度代理授權（Excessive Agency）的安全問題，另有案例揭露提示詞注入、惡意MCP伺服器及敏感資料外洩等風險",
+        "title": "Google發布ChromeOS與ChromeOS Flex穩定版更新，修補106個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179675",
+        "pubDate": "2026-10-14 12:49",
+        "description": "ChromeOS穩定版修補V8、DevTools、Views與GPU等元件的漏洞，以記憶體安全與授權管理相關問題居多",
         "source": "iThome資安"
       },
       {
-        "title": "IonQ擬以最高13億美元併購零信任資安業者Elisity",
-        "link": "https://www.ithome.com.tw/news/179631",
-        "pubDate": "2026-10-14 08:00",
-        "description": "量子運算業者IonQ計畫結合零信任資安業者Elisity的網路微分段及存取控制技術，並在後續產品發展中整合密碼學資產清冊及相關風險資訊，協助企業判斷哪些系統應優先導入後量子密碼學（PQC）",
+        "title": "Ivanti發布10月例行更新，修補已遭利用的SSL VPN漏洞",
+        "link": "https://www.ithome.com.tw/news/179674",
+        "pubDate": "2026-10-14 12:38",
+        "description": "本週資安廠商Ivanti發布10月例行更新，其中最受到關注的部分，是已被用於實際攻擊的Ivanti Connect Secure（ICS）資安漏洞CVE-2026-104935",
         "source": "iThome資安"
       },
       {
-        "title": "駭客濫用Power BI發動網釣，利用ScreenConnect維持遠端存取",
-        "link": "https://www.ithome.com.tw/news/179604",
-        "pubDate": "2026-10-14 08:00",
-        "description": "資安業者Huntress揭露駭客濫用微軟Power BI發動網釣攻擊，誘使受害者下載遠端監控與管理工具ScreenConnect。研究人員也發現，攻擊者在部分事件中部署兩套ScreenConnect用戶端，試圖維持對受害電腦的遠端存取",
+        "title": "荷蘭連鎖超市Albert Heijn遭遇資安事件，網站、App及電子貨架標籤受影響",
+        "link": "https://www.ithome.com.tw/news/179671",
+        "pubDate": "2026-10-14 12:35",
+        "description": "荷蘭零售集團Ahold Delhaize旗下連鎖超市Albert Heijn受到資安事件影響，網站、App及客服服務暫時無法使用，部分物流系統也暫時關閉，部分門市的電子貨架標籤一度無法即時更新價格。這起事件也波及同集團的藥妝連鎖品牌Etos及酒類零售品牌Gall & Gall。目前業者正逐步恢復系統，事件原因及入侵途徑仍待釐清",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Rust型別檢查漏洞藏近11年，違反記憶體安全限制的程式仍可通過編譯",
+        "link": "https://www.ithome.com.tw/news/179665",
+        "pubDate": "2026-10-14 12:22",
+        "description": "Rust編譯器漏洞讓測試程式讀取到遭其他資料覆寫的記憶體，檢測工具也證實發生失效記憶體存取，同類問題可追溯至2015年的Rust 1.4版，開發團隊已列為高優先級，修補提案仍在審查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI工程師涉嫌安裝竊聽裝置遭FBI逮捕",
+        "link": "https://www.ithome.com.tw/news/179670",
+        "pubDate": "2026-10-14 12:17",
+        "description": "OpenAI一名沙烏地阿拉伯籍前工程師，涉嫌在舊金山辦公室的高階主管會議室安裝秘密錄音裝置，遭FBI逮捕",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla發布Firefox 158，修補77個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179668",
+        "pubDate": "2026-10-14 11:57",
+        "description": "Firefox瀏覽器修補DOM、Networking與JavaScript等元件漏洞，以邊界條件、記憶體安全與沙箱逃逸問題占多數",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟修補3個零時差漏洞，其中一個已遭利用",
+        "link": "https://www.ithome.com.tw/news/179667",
+        "pubDate": "2026-10-14 11:49",
+        "description": "在10月份例行更新（Patch Tuesday）當中，微軟總共公布及修補3個零時差漏洞，其中存在於Windows Shell的安全功能繞過漏洞CVE-2026-96951，已被用於實際攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "法國超市冷藏設備遭駭引發歐洲警戒，預警擴及Copeland冷藏控制設備，義大利、德國跟進示警",
+        "link": "https://www.ithome.com.tw/news/179661",
+        "pubDate": "2026-10-14 11:05",
+        "description": "法國數百家超市冷凍冷藏設備遭駭事件持續延燒，法國資安機關擴大受影響設備清單，確認攻擊不只涉及Danfoss，也涵蓋Copeland旗下品牌Dixell的冷藏控制設備，並警告攻擊活動可能仍在持續。義大利與德國資安機關也相繼發布警示，呼籲業者檢查連網控制設備及遠端維護管道，防範類似攻擊發生",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google更新Chrome 155穩定版，修補37個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179663",
+        "pubDate": "2026-10-14 10:57",
+        "description": "Chrome瀏覽器修補Media、Passwords、V8、DOM等元件漏洞，多數屬於記憶體安全相關問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟發布10月例行更新，修補1,413個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179662",
+        "pubDate": "2026-10-14 10:55",
+        "description": "本週微軟發布10月例行更新（Patch Tuesday），破紀錄修補超過1,400個資安漏洞，其中有近八成與Windows有關，用戶應儘速採取行動",
         "source": "iThome資安"
       },
       {
@@ -31,105 +80,98 @@
         "source": "iThome資安"
       },
       {
+        "title": "駭客濫用Power BI發動網釣，利用ScreenConnect維持遠端存取",
+        "link": "https://www.ithome.com.tw/news/179604",
+        "pubDate": "2026-10-14 08:00",
+        "description": "資安業者Huntress揭露駭客濫用微軟Power BI發動網釣攻擊，誘使受害者下載遠端監控與管理工具ScreenConnect。研究人員也發現，攻擊者在部分事件中部署兩套ScreenConnect用戶端，試圖維持對受害電腦的遠端存取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "IonQ擬以最高13億美元併購零信任資安業者Elisity",
+        "link": "https://www.ithome.com.tw/news/179631",
+        "pubDate": "2026-10-14 08:00",
+        "description": "量子運算業者IonQ計畫結合零信任資安業者Elisity的網路微分段及存取控制技術，並在後續產品發展中整合密碼學資產清冊及相關風險資訊，協助企業判斷哪些系統應優先導入後量子密碼學（PQC）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OWASP回顧第三季AI資安事件，AI代理越權成焦點",
+        "link": "https://www.ithome.com.tw/news/179582",
+        "pubDate": "2026-10-14 08:00",
+        "description": "OWASP回顧2026年第3季AI資安事件，其中多起事件反映過度代理授權（Excessive Agency）的安全問題，另有案例揭露提示詞注入、惡意MCP伺服器及敏感資料外洩等風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google讓一般人用AI自製Android App，並直接安裝到手機",
+        "link": "https://www.ithome.com.tw/news/179664",
+        "pubDate": "2026-10-14  11:10:02",
+        "description": "Google周二（10/13）更新Google Play，推出多項AI應用、App探索、遊戲社群及車載服務功能，包括讓一般使用者透過AI製作Android App並安裝到手機、在Gemini對話中探索Google Play內容、利用AI推薦遊戲，以及",
+        "source": "iThome"
+      },
+      {
+        "title": "蘋果推出首款智慧家庭顯示器HomeView，整合Siri AI與臉部辨識",
+        "link": "https://www.ithome.com.tw/news/179679",
+        "pubDate": "2026-10-14  02:10:52",
+        "description": "蘋果周二（10/13）發表首款智慧家庭顯示器Apple HomeView，配備7吋Liquid Retina觸控螢幕，整合新一代Siri AI、臉部辨識及智慧家庭控制功能，同時推出第二代HomePod mini與第四代Apple TV 4K，全面更新自家智慧家庭硬體陣容。HomeView提供桌上型與壁掛式兩種版本，售價皆為299美元，11月13日起在美國等市場上市，臺灣上市時間未定。",
+        "source": "iThome"
+      },
+      {
+        "title": "蘋果攜手LG、施耐德打造Apple Home Collection，擴大智慧家庭布局",
+        "link": "https://www.ithome.com.tw/news/179678",
+        "pubDate": "2026-10-14  01:10:47",
+        "description": "蘋果周二（10/13）宣布，與LG電子及法國施耐德電機（Schneider Electric）合作推出智慧家庭產品系列Apple Home Collection，涵蓋監視攝影機、智慧門鈴、電子門鎖、恆溫器及溫濕度感測器等產品，預計今年12月起陸續上市，藉此擴大Apple Home",
+        "source": "iThome"
+      },
+      {
+        "title": "Mozilla推Firefox企業瀏覽器，支援自架主控臺管控AI使用與資料傳輸",
+        "link": "https://www.ithome.com.tw/news/179676",
+        "pubDate": "2026-10-14  01:10:42",
+        "description": "Mozilla推出企業瀏覽器Firefox Enterprise，搭配可由企業自行部署的管理主控臺，讓IT人員集中管理瀏覽器政策、員工存取權限，以及資料傳輸和AI工具的使用。該產品鎖定資安、管理及法規遵循要求較高的組織。",
+        "source": "iThome"
+      },
+      {
+        "title": "Gemini 4 Argon推向Gemini Pro、Ultra方案用戶、開發人員，限期優惠5折",
+        "link": "https://www.ithome.com.tw/news/179677",
+        "pubDate": "2026-10-14  01:10:06",
+        "description": "Google宣布最新尖端模型Gemini 4 Argon周二（10/13）推向Google AI Pro、Ultra付費方案用戶及軟體開發人員。11月底前輸出、輸入費用提供50%折扣。",
+        "source": "iThome"
+      },
+      {
         "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
         "link": "https://www.ithome.com.tw/news/179658",
         "pubDate": "2026-10-13 18:39",
         "description": "加密貨幣投資人存放於Ledger硬體錢包設備的資產竟不翼而飛！對此，法國硬體加密貨幣錢包設備商Ledger承認確有此事，並指出這些用戶都是從經銷商CryptoBillis購入遭竄改的裝置而受害",
         "source": "iThome資安"
-      },
-      {
-        "title": "Let&#039;s Encrypt明年將TLS憑證效期從90天縮至64天，2028年再降至45天，憑證續期自動化更顯重要",
-        "link": "https://www.ithome.com.tw/news/179650",
-        "pubDate": "2026-10-13 18:00",
-        "description": "Let's Encrypt宣布，自2027年2月10日起，預設TLS憑證效期將由90天縮短為64天，2028年再降至45天。已完成自動續期且ACME用戶端支援ARI者通常不需額外調整，但仍應重新檢視續期排程與憑證管理流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "德國政府公布PQC遷移指引，高風險系統最晚2030年完成轉換、整體遷移目標2035年",
-        "link": "https://www.ithome.com.tw/news/179641",
-        "pubDate": "2026-10-13 16:32",
-        "description": "德國正式提出後量子密碼學（PQC）國家遷移時程，要求2026年底前完成初步準備與密碼資產盤點，高風險應用最晚於2030年底完成轉換，整體遷移則應在2035年前大致完成。新指引也要求政府機關、企業與關鍵基礎設施營運者評估量子風險，並將密碼敏捷性與供應鏈納入遷移規畫",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GhostAction攻擊再襲GitHub，346個儲存庫遭植入竊密工作流程",
-        "link": "https://www.ithome.com.tw/news/179638",
-        "pubDate": "2026-10-13 15:31",
-        "description": "GitHub上Pyxel與Uber旗下AthenaDriver等儲存庫受波及，駭客利用維護者權限植入惡意工作流程，竊取Git歷史中的AWS等服務金鑰，恐被用於存取雲端系統或冒用身分發布套件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Danfoss冷藏設備在法國遭駭，老舊OT風險升溫，2022年已有前例",
-        "link": "https://www.ithome.com.tw/news/179635",
-        "pubDate": "2026-10-13 15:30",
-        "description": "近日法國數百家超市的Danfoss冷藏控制系統遭惡意竄改設定，受影響設備包含已終止支援（EOL）與未更新韌體的產品。Danfoss過去曾多次警告老舊設備的資安風險，並指出俄羅斯與以色列超市亦曾遭遇網路攻擊；此次事件再次突顯零售冷藏環境的OT設備汰換與更新問題，也暴露管理介面直接對外連網的嚴重風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Ubuntu開發商Canonical網站遭DDoS攻擊，部分服務中斷",
-        "link": "https://www.ithome.com.tw/news/179639",
-        "pubDate": "2026-10-13 15:28",
-        "description": "上週Ubuntu開發商Canonical揭露，旗下網路基礎設施與Ubuntu生態系統遭遇大規模的分散式阻斷服務（DDoS）攻擊，導致主要網站與服務停擺持續超過4個小時",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月13日，法國數百家超市冷凍冷藏系統遭駭，溫度飆升造成大量食品報廢",
-        "link": "https://www.ithome.com.tw/news/179637",
-        "pubDate": "2026-10-13 15:00",
-        "description": "法國數百家超市在10月11日晚間遭到網路攻擊，駭客鎖定丹麥冷凍空調設備製造商Danfoss的冷凍冷藏控制系統，遠端啟動除霜功能，導致部分設備溫度升至攝氏50度，大量食品因此報廢，可能造成全法國數千萬歐元損失",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本量販連鎖Mr Max、超商Lawson、卡拉OK業者資料外洩",
-        "link": "https://www.ithome.com.tw/news/179636",
-        "pubDate": "2026-10-13 14:47",
-        "description": "日本零售及娛樂業者接連傳出資安事件。折扣量販連鎖Mr Max、便利商店Lawson確認會員資料外洩；卡拉OK業者第一興商則因委外廠商員工電腦感染惡意程式，導致客戶及員工資料可能外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "勒索軟體Qilin、Settra積極利用Palo Alto Networks防火牆已知漏洞，建立初期入侵管道",
-        "link": "https://www.ithome.com.tw/news/179634",
-        "pubDate": "2026-10-13 14:35",
-        "description": "威脅情報公司ReliaQuest警告，利用Palo Alto Networks防火牆作業系統弱點CVE-2026-0257的活動持續出現，在勒索軟體Qilin用於實際攻擊後，另一組團體Settra也加入利用的行列",
-        "source": "iThome資安"
-      },
-      {
-        "title": "法國數百家超市冷凍/冷藏系統遭駭，溫度飆至50度",
-        "link": "https://www.ithome.com.tw/news/179633",
-        "pubDate": "2026-10-13 14:28",
-        "description": "攻擊涉及丹麥冷凍空調設備製造商Danfoss的控制系統，資安業者Claroty今年8月曾揭露相關控制器的3項安全漏洞，但目前尚無法確認這些漏洞是否遭本次攻擊利用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "因旗下模型擅自存取美政府網站，Anthropic暫停測試",
-        "link": "https://www.ithome.com.tw/news/179630",
-        "pubDate": "2026-10-13 13:24",
-        "description": "Anthropic揭露Claude在內部測試中出現多起非預期行為，包括利用網站漏洞執行指令、繞過存取限制取得資料，甚至向警方網站提交虛假線索。Anthropic已暫停所有內部評估連線至即時網際網路，待安全與監控措施確認有效後再恢復",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SQLite 3.54命令列新增磁碟空間分析指令，舊分析工具將退場",
-        "link": "https://www.ithome.com.tw/news/179647",
-        "pubDate": "2026-10-13  06:10:50",
-        "description": "資料庫SQLite開發團隊發布3.54.0版，將資料庫磁碟空間分析功能整合進命令列，開發者可直接查看資料表與索引占用多少磁碟空間，不必另外執行分析工具。新版也改善查詢效率，官方測試顯示效能約提升4%，並停止支援Windows XP及Windows CE等舊系統。",
-        "source": "iThome"
-      },
-      {
-        "title": "GovTech月報第57期：美國聯邦政府採用AI打造全新政府服務入口網，民眾用自然語言就能尋找政府服務；行政院將研議建立食品識別與資料交換機制",
-        "link": "https://www.ithome.com.tw/news/179645",
-        "pubDate": "2026-10-13  05:10:05",
-        "description": "重點新聞(9/12~10/12)\nAI 政府入口網",
-        "source": "iThome"
-      },
-      {
-        "title": "LINE官方帳號將內建AI代理平台，先提供3款店家AI代理角色，也將支援MCP協定",
-        "link": "https://www.ithome.com.tw/news/179642",
-        "pubDate": "2026-10-13  04:10:33",
-        "description": "LINE今天在年度記者會宣布，LINE官方帳號服務推出AI代理平台，可以讓店家打造自己的商家AI代理，先推出三款AI代理角色，包括預約、銷售和客服Agent，目前和品牌合作展開POC驗證，2027年第一季正式推出，目前還沒公布收費方案。AI代理先開放串接LINE技術合作夥伴，也計畫支援MCP協定。目前還沒公布收費模式。\nLINE官方帳號早期以行銷推廣為主，2019年全面開放API串接，2023年推出LINE MINI App，去年則推出了AI商務對話功能。目前，LINE官方帳號數量已經成長到36",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 投資熱潮暗藏風險：IMF 估若生產力落空，美股恐跌 20%、全球產出 2028 年少 1.1%",
+        "link": "https://techorange.com/2026/10/14/imf-world-bank-annual-meetings-bangkok-asia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 12:34:53 +0800",
+        "description": "國際貨幣基金（IMF）上修 2026 年全球經濟成長預測，AI 投資熱潮協助抵銷能源價格飆漲帶來的部分衝擊。不過，IMF 也警告，全球經濟韌性正逼近極限，下檔風險持續升高。 AI 投資抵銷能源衝擊，IMF 上修 2026 年全球成長預測 IMF 預測，2026 年全球經濟將成長 3.1%，高於 7 月預測的 3.0%，但低於 2025 年的 3.5%；2027 年全球經濟成長率預計為 3.4%，與 7 月預測持平。此次小幅上修主要受惠於 AI 基礎設施投資持續強勁，帶動建置 AI 平台的主要已開",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google 最強模型 Gemini 4 Argon 登場，連 Apollo 人形機器人的動作都能教？",
+        "link": "https://techorange.com/2026/10/14/gemini-4-argon-apollo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 11:46:33 +0800",
+        "description": "Google 在美國時間 10/13 擴大開放新一代旗艦 AI 模型 Gemini 4 Argon，主打複雜推理、程式開發、企業知識工作與 AI Agent（AI 代理）能力，並宣稱在部分專業任務評測中超越 OpenAI、Anthropic 等競爭對手。 但這次值得關注的不只有模型效能。Google DeepMind 還展示，如何利用 Gemini 4 Argon 分析人類動作影片、自動建立模擬環境，協助 Apptronik 旗下 Apollo 人形機器人學會投擲沙包，並在實機測試中連續命中 7",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【沒人負責就不准上線】專家建議員工自建 AI 工具「先指定負責人」，並在執行階段持續監控",
+        "link": "https://techorange.com/2026/10/14/govern-ai-and-low-code-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 10:32:45 +0800",
+        "description": "當員工能自行用 AI 打造工具，企業內部究竟有哪些系統在運作、由誰負責，就變得難以掌握。 AI、低程式碼（low-code）工具與自動化普及後，更多員工能自行開發應用程式與工作流程，實驗與解決問題的速度變快了，企業卻也累積出一層持續增加、難以追蹤、保護與維護的技術。 每個 AI 工具上線前，都要有人負責 事實上，這並不是企業第一次把建置權交給業務人員。開發代理人協作平台與治理工具的 OneReach.ai 在其發表的分析中指出，十年前的機器人流程自動化（RPA），也曾讓最了解流程的人自行打造自動",
+        "source": "TechOrange"
+      },
+      {
+        "title": "不再盲目投放：Kroger 研究發現，符合 AI 建議的廣告轉換率高出 3 倍",
+        "link": "https://techorange.com/2026/10/14/predictive-scoring-work-ai-kroger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 14 Oct 2026 09:56:17 +0800",
+        "description": "生成式 AI 與創作者經濟正在大幅降低廣告內容的製作門檻。當 Midjourney、ChatGPT 等工具讓品牌與創作者能快速產出更多素材，廣告資產數量也隨之快速膨脹。創意數據分析公司 Vidmob 創辦人暨執行董事長 Alex Collmer 形容，生成式 AI 與創作者媒體正在讓廣告素材數量增加 10 倍甚至 100 倍。 但素材變多，不代表業績會同步成長。對行銷團隊而言，真正棘手的問題逐漸變成如何在大量素材中判斷哪些內容值得投入媒體預算。過去常見的做法，是先製作廣告、投入媒體，再根據上線後",
+        "source": "TechOrange"
+      },
       {
         "title": "模型可換、資料可控：微軟卞志祥談 AI 時代企業如何守住核心競爭力",
         "link": "https://techorange.com/2026/10/13/microsoft-taiwan-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -206,37 +248,23 @@
         "pubDate": "Mon, 12 Oct 2026 15:29:04 +0800",
         "description": "有的企業怕出事，乾脆全面禁用 AI；有的企業積極導入，卻說不清內部到底有誰在用，當 AI Agent 開始在企業電腦上自主執行任務，看不見的使用狀況，就成了資安風險的起點。TechOrange 科技報橘與美國高通公司 Qualcomm 於日前舉辦「2026 AI 智慧大工廠論壇」，聚焦高科技製造業的 AI 落地與資安治理。於系列演講中，TeamT5 資深經理侯翔齡從三種利用 AI Agent 的攻擊談到端點上的權限盲區，提醒企業應該弄清楚內部到底有誰在用 AI、用得是否安全。 侯翔齡觀察到，企業",
         "source": "TechOrange"
-      },
-      {
-        "title": "楊立昆團隊推新世界模型 H-JEPA，為什麼能讓機器人走迷宮成功率提升 4 倍？",
-        "link": "https://techorange.com/2026/10/12/h-jepa-yann-lecun-world-model-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 12:55:32 +0800",
-        "description": "當 AI 產業持續投入大型語言模型（LLM），AI 學者楊立昆（Yann LeCun）卻認為，光靠語言模型不足以讓 AI 真正理解物理世界，或預測自身行動可能帶來的後果。因此，他押注能學習環境運作規律、支援推理與行動規劃的「世界模型（World Model）」。 2025 年底，LeCun 離開 Meta 創辦 AI 新創 AMI Labs，今年 3 月完成 10.3 億美元種子輪融資。如今，他與 AMI Labs、學界研究人員共同提出新架構 H-JEPA，在模擬機器人走迷宮的測試中，將任務成功",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 寫的程式碼愈來愈多，美國軟體開發職缺卻增近 15%：工程師沒被取代的原因是什麼？",
-        "link": "https://techorange.com/2026/10/12/ai-software-developer-jobs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 12:35:10 +0800",
-        "description": "自 Anthropic 於 2025 年 2 月推出 Claude Code 以來，美國軟體開發職缺刊登數量持續上升，即使整體職缺刊登數量正在下降。這讓「AI 將迅速消除開發者需求」的預測，變得更加難以判斷。 外界對軟體開發職涯未來的擔憂並非毫無根據。隨著企業採用 AI 程式設計工具，尤其是這些工具的能力持續提升，相關疑慮也日益加深。早在 2023 年，微軟旗下的軟體開發平台 GitHub 就指出，在能夠使用 AI 的專案中，AI 撰寫的程式碼已接近全部程式碼的一半。 AI 正在自動化程式碼撰寫",
-        "source": "TechOrange"
-      },
-      {
-        "title": "iKala 專訪：從零點擊到 Agentic Commerce，企業與品牌如何面對這場 AI 生存戰？",
-        "link": "https://techorange.com/2026/10/12/ikala-aimarketing-agentic-commerce-tmmlu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 11:00:00 +0800",
-        "description": "試著回想一下，你上一次在 Google 搜尋後，真的點進某個網站，是什麼時候的事？ 根據 iKala 共同創辦人暨集團董事長程世嘉引用的數據，目前 Google 搜尋的零點擊率已高達 70%，消費者不再需要點進網站，因為 AI 已經替他們整理好答案，當 ChatGPT、Gemini、Perplexity 這些生成式 AI 引擎成為人們獲取資訊的主要入口，品牌與消費者之間的關係正在發生轉變。 同時，Google 與 OpenAI 正積極布局 AI 購物功能，當 AI Agent 開始代替人類搜尋、",
-        "source": "TechOrange"
-      },
-      {
-        "title": "ElevenLabs 以「聲音授權市集」提供名人聲音的正式授權，這會留下什麼風險？",
-        "link": "https://techorange.com/2026/10/12/elevenlabs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 12 Oct 2026 10:35:28 +0800",
-        "description": "想讓馬克吐溫或愛迪生的聲音出現在品牌廣告裡，現在可以透過正式授權取得。提供這項服務的，是近期估值翻倍的語音 AI 新創 ElevenLabs。 總部位於倫敦、開發擬真語音生成軟體的 ElevenLabs，透過一次股權出售，估值從今年 2 月的 110 億美元翻倍至 220 億美元。新估值讓 ElevenLabs 躋身中國以外前 10 大最有價值的 AI 實驗室，與法國 AI 公司 Mistral 相當。 ElevenLabs 執行長 Mati Staniszewski 表示，這次交易引進高盛（G",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
+        "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
+        "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530",
+        "description": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 flaws in Windows, 134 in Office, 61 in Developer",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Employee Arrested for Allegedly Planting Hidden Recorder in Executive Conference Room",
+        "link": "https://thehackernews.com/2026/10/openai-employee-arrested-for-allegedly.html",
+        "pubDate": "Wed, 14 Oct 2026 07:29:25 +0530",
+        "description": "A Saudi National and employee of OpenAI has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to covertly record sensitive conversations.\n\nAbdulrahman Alfozan, 35, ha",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Anthropic Warns Small AI Models Could Soon Form Self-Propagating IoT Botnets",
         "link": "https://thehackernews.com/2026/10/anthropic-warns-small-ai-models-could.html",
@@ -362,28 +390,21 @@
         "pubDate": "Tue, 13 Oct 2026 14:14:01 +0530",
         "description": "Two of 31 newly disclosed flaws in Progress Software's MarkLogic Server database could let an account given only some management privileges take administrator control of the server, the company says.\n\nProgress published all 31 on October 12 and score",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "GitLab Patches CVSS 10.0 Flaw That Could Let Unauthenticated Users Run Server Code",
-        "link": "https://thehackernews.com/2026/10/gitlab-patches-cvss-100-flaw-that-could.html",
-        "pubDate": "Tue, 13 Oct 2026 14:13:37 +0530",
-        "description": "GitLab has released patches for a maximum-severity security flaw impacting its Community Edition (CE) and Enterprise Edition (EE) software that could result in arbitrary code execution.\n\n\"GitLab has remediated an issue that, under certain conditions,",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Windows 11 KB5127648 & KB5126653 cumulative updates released",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127648-and-kb5126653-cumulative-updates-released/",
-        "pubDate": "Tue, 13 Oct 2026 13:49:38 -0400",
-        "description": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
+        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+        "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+        "pubDate": "Wed, 14 Oct 2026 01:30:42 +0000",
+        "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
         "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
         "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
-        "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "description": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
         "source": "TechCrunch"
       },
       {
@@ -478,13 +499,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-        "link": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
-        "pubDate": "Tue, 13 Oct 2026 17:30:00 +0000",
-        "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Apple’s HomeView ad is confusing to everyone except parents",
         "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
         "pubDate": "2026-10-13T18:10:00-04:00",
@@ -522,24 +536,64 @@
     ],
     "cve": [
       {
-        "title": "Android Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261007",
-        "pubDate": "Wed, 07 Oct 2026 11:00:00 +0800",
+        "title": "Adobe Monthly Security Update (October 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
+        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Android"
+        "products": "Adobe Monthly Security Update (October 2026)"
+      },
+      {
+        "title": "Microsoft Monthly Security Update (October 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2026",
+        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Monthly Security Update (October 2026)"
+      },
+      {
+        "title": "MongoDB Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261014",
+        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "MongoDB"
       },
       {
         "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261007",
-        "pubDate": "Wed, 07 Oct 2026 10:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261014",
+        "pubDate": "Wed, 14 Oct 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
         "products": "Google Chrome"
+      },
+      {
+        "title": "Fortinet Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261014",
+        "pubDate": "Wed, 14 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Fortinet Products"
+      },
+      {
+        "title": "Ivanti Connect Secure Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-remote-code-execution-vulnerability_20261014",
+        "pubDate": "Wed, 14 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Ivanti Connect Secure Remote Code Execution Vulnerability"
       },
       {
         "title": "Samsung Products Multiple Vulnerabilities",
@@ -600,36 +654,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Mozilla Firefox Security Restriction Bypass Vulnerability"
-      },
-      {
-        "title": "SonicWall SMA1000 Series Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/sonicwall-sma1000-series-products-multiple-vulnerabilities_20261008",
-        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "SonicWall SMA1000 Series Products"
-      },
-      {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261005",
-        "pubDate": "Mon, 05 Oct 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
-        "title": "Citrix Products Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-products-denial-of-service-vulnerability_20261005",
-        "pubDate": "Mon, 05 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Citrix Products Denial of Service Vulnerability"
       },
       {
         "title": "Apache HTTP Server Multiple Vulnerabilities",
