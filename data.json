@@ -1,12 +1,19 @@
 {
-  "ts": "2026-10-14T11:46:57.810285Z",
+  "ts": "2026-10-14T17:05:52.548937Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Anthropic警告AI會自我複製，並藉IoT散布",
+        "link": "https://www.ithome.com.tw/news/179699",
+        "pubDate": "2026-10-14 20:25",
+        "description": "Anthropic研究發現，15臺低價Android機上盒已能共同執行大型AI模型，能力較強的AI也在模擬測試中，成功將模型複製到其他裝置並啟動",
+        "source": "iThome資安"
+      },
       {
         "title": "烏克蘭接連襲擊Yandex三座資料中心，俄羅斯多項網路服務中斷",
         "link": "https://www.ithome.com.tw/news/179698",
         "pubDate": "2026-10-14 18:49",
-        "description": "俄羅斯雲端、支付、叫車與外送與第三方企業服務受波及，俄政府與國防部研議強化資料中心防護",
+        "description": "俄羅斯龍頭網路服務商基礎設施連遭攻擊，雲端、支付、叫車與外送與第三方企業業務受波及，俄政府與國防部研議強化資料中心防護",
         "source": "iThome資安"
       },
       {
@@ -101,13 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Mozilla發布Firefox 158，修補77個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179668",
-        "pubDate": "2026-10-14 11:57",
-        "description": "Firefox瀏覽器修補DOM、Networking與JavaScript等元件漏洞，以邊界條件、記憶體安全與沙箱逃逸問題占多數",
-        "source": "iThome資安"
-      },
-      {
         "title": "Character.AI聲請破產保護，迪士尼出價2,000萬美元收購部分資產",
         "link": "https://www.ithome.com.tw/news/179689",
         "pubDate": "2026-10-14  04:10:57",
@@ -136,10 +136,10 @@
         "source": "iThome"
       },
       {
-        "title": "蘋果攜手LG、施耐德打造Apple Home Collection，擴大智慧家庭布局",
-        "link": "https://www.ithome.com.tw/news/179678",
-        "pubDate": "2026-10-14  01:10:47",
-        "description": "蘋果周二（10/13）宣布，與LG電子及法國施耐德電機（Schneider Electric）合作推出智慧家庭產品系列Apple Home Collection，涵蓋監視攝影機、智慧門鈴、電子門鎖、恆溫器及溫濕度感測器等產品，預計今年12月起陸續上市，藉此擴大Apple Home",
+        "title": "Mozilla推Firefox企業瀏覽器，支援自架主控臺管控AI使用與資料傳輸",
+        "link": "https://www.ithome.com.tw/news/179676",
+        "pubDate": "2026-10-14  01:10:42",
+        "description": "Mozilla推出企業瀏覽器Firefox Enterprise，搭配可由企業自行部署的管理主控臺，讓IT人員集中管理瀏覽器政策、員工存取權限，以及資料傳輸和AI工具的使用。該產品鎖定資安、管理及法規遵循要求較高的組織。",
         "source": "iThome"
       }
     ],
@@ -252,6 +252,34 @@
     ],
     "en_sec": [
       {
+        "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
+        "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
+        "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530",
+        "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a mix of U.S. citizens and Chin",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
+        "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
+        "pubDate": "Wed, 14 Oct 2026 18:00:42 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an acti",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
+        "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
+        "pubDate": "Wed, 14 Oct 2026 17:43:36 +0530",
+        "description": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.\n\nThe curl project fixed it on October 14 i",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
+        "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
+        "pubDate": "Wed, 14 Oct 2026 17:20:00 +0530",
+        "description": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.\n\nThe call comes in at 4:40 on a Fr",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
         "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
         "pubDate": "Wed, 14 Oct 2026 16:49:02 +0530",
@@ -287,11 +315,39 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Microsoft fixes VPN issues caused by September Windows updates",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
+        "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400",
+        "description": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
         "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
         "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530",
         "description": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 flaws in Windows, 134 in Office, 61 in Developer",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
+        "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
+        "pubDate": "Wed, 14 Oct 2026 10:00:10 -0400",
+        "description": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and bre",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Global takedown hits network behind 1 billion phishing messages",
+        "link": "https://www.bleepingcomputer.com/news/security/global-takedown-hits-network-behind-1-billion-phishing-messages/",
+        "pubDate": "Wed, 14 Oct 2026 09:12:52 -0400",
+        "description": "A massive cybercriminal ecosystem facilitating more than a billion malicious messages targeting over 75,000 organizations across 150 countries has been disrupted by law enforcement agencies and partners worldwide. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA warns admins to immediately fix Ivanti flaw exploited as zero-day",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-immediately-fix-ivanti-flaw-exploited-as-zero-day/",
+        "pubDate": "Wed, 14 Oct 2026 08:58:07 -0400",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hirudo Android malware replaces banking apps to evade security checks",
@@ -334,65 +390,72 @@
         "pubDate": "Tue, 13 Oct 2026 23:03:11 +0530",
         "description": "An attacker chained three zero-day flaws in Ivanti Connect Secure, a VPN appliance, to run commands as root without logging in, security firm Volexity said on October 13. Ivanti has released fixes for two of the flaws and told customers on affected v",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "SAP Discloses Critical CVSS 10 Flaw in Cloud SDK for Python Allowing OAuth2 Credential Theft",
-        "link": "https://thehackernews.com/2026/10/sap-discloses-critical-cvss-10-flaw-in.html",
-        "pubDate": "Tue, 13 Oct 2026 22:58:50 +0530",
-        "description": "A flaw in SAP's Cloud SDK for Python can send an application's OAuth2 client credentials to a server an attacker controls, SAP said in a security advisory on October 13. The flaw affects multi-tenant applications on SAP Business Technology Platform (",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "GitHub Tightens npm Publishing After Flaw Left 1,500+ Packages Vulnerable to Hijacking",
-        "link": "https://thehackernews.com/2026/10/github-tightens-npm-publishing-after.html",
-        "pubDate": "Tue, 13 Oct 2026 21:48:18 +0530",
-        "description": "GitHub has taken the step of expiring unvalidated npm trusted publishing configurations 48 hours after creation after researchers found that it was possible for an attacker to push new versions of a different user's package without having to steal th",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Xandr Fined a Record €8.6 Million for Relaying Grindr Data Revealing Sexual Orientation",
-        "link": "https://thehackernews.com/2026/10/xandr-fined-record-86-million-for.html",
-        "pubDate": "Tue, 13 Oct 2026 18:42:32 +0530",
-        "description": "The Norwegian Data Protection Authority (DPA) has fined Xandr, an advertising unit owned by Microsoft, €8.6 million ($9.62 million) for illegally relaying ​Grindr users' sensitive data to advertisers.\n\nThe administrative penalty is the largest issued",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-        "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
-        "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-        "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-        "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
-        "description": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "[Webinar] How to Stop AI-Driven Privilege Escalation With Runtime Identity Controls",
-        "link": "https://thehackernews.com/2026/10/webinar-how-to-stop-ai-driven-privilege.html",
-        "pubDate": "Tue, 13 Oct 2026 17:27:06 +0530",
-        "description": "The dangerous part of a stolen identity isn't always the initial login. It's what an attacker can do with that access next.\n\nWith AI accelerating reconnaissance, exploitation of vulnerabilities, and privilege escalation, attackers can move through sy",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Anthropic warns self-replicating AI could spread to your smart devices",
-        "link": "https://www.bleepingcomputer.com/news/security/anthropic-warns-self-replicating-ai-could-spread-to-your-smart-devices/",
-        "pubDate": "Tue, 13 Oct 2026 17:16:34 -0400",
-        "description": "Anthropic is warning that small AI models could soon be able to self-replicate across consumer IoT devices, from Android TV boxes to smart ovens, creating distributed botnets capable of running AI workloads without relying on data centers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "LG Smart TVs Vulnerable to Pre-Auth Root Takeover From Local Network",
-        "link": "https://thehackernews.com/2026/10/lg-smart-tvs-vulnerable-to-pre-auth.html",
-        "pubDate": "Tue, 13 Oct 2026 16:39:10 +0530",
-        "description": "Three vulnerabilities in LG's webOS can be chained to give an attacker on the same local network root access to certain smart TVs without a PIN or any interaction from the owner.\n\nLG has issued a fix, according to an advisory published by SSD Secure ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
+        "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
+        "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
+        "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Prismm helps banks keep inherited money in-house",
+        "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
+        "pubDate": "Wed, 14 Oct 2026 16:00:00 +0000",
+        "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Deezer will soon let you filter out AI-generated music",
+        "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+        "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
+        "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Save 50% on your TechCrunch Disrupt 2026 ticket and join the last 2 days in San Francisco’s Moscone West",
+        "link": "https://techcrunch.com/2026/10/14/save-50-on-your-techcrunch-disrupt-2026-ticket-and-join-the-last-two-days-in-san-francisco/",
+        "pubDate": "Wed, 14 Oct 2026 15:13:24 +0000",
+        "description": "Get a 50% discount on the last two days of TechCrunch Disrupt 2026, October 14-15, in San Francisco. Register now and join the rest of the startup ecosystem. Today, it's all about physical and software AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+        "link": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+        "pubDate": "Wed, 14 Oct 2026 15:08:00 +0000",
+        "description": "Zenzap is used by organizations including Starbucks and Taco Bell.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Floqer’s AI agents research sales prospects so teams don’t have to",
+        "link": "https://techcrunch.com/2026/10/14/floqers-ai-agents-help-b2b-revenue-teams-research-customers/",
+        "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+        "description": "The problem Floqer is trying to solve is familiar to anyone who has worked in sales or revenue operations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix to lay off 1,000 staff amid intensifying competition for user attention",
+        "link": "https://techcrunch.com/2026/10/14/netflix-to-lay-off-1000-staff-amid-intensifying-competition-for-user-attention/",
+        "pubDate": "Wed, 14 Oct 2026 14:55:47 +0000",
+        "description": "Netflix said most of the cuts would affect its product, tech, legal, and human resources departments.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026: Day 2",
+        "link": "https://techcrunch.com/2026/10/14/techcrunch-disrupt-2026-day-2/",
+        "pubDate": "Wed, 14 Oct 2026 14:30:00 +0000",
+        "description": "Day 2 at TechCrunch Disrupt 2026, full of all themes across AI, investor-only session, more roundtables, and more. Register to save 50% on your pass.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "NTangible bets it can predict how athletes will perform under pressure",
+        "link": "https://techcrunch.com/2026/10/14/ntangible-bets-it-can-predict-how-athletes-will-perform-under-pressure/",
+        "pubDate": "Wed, 14 Oct 2026 14:00:00 +0000",
+        "description": "NTangible is building an analytics platform for collegiate sports organizations and other clubs to measure an athlete's \"clutch\" factor.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
         "link": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/",
@@ -401,7 +464,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+        "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
         "link": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
         "pubDate": "Wed, 14 Oct 2026 01:30:42 +0000",
         "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
@@ -436,101 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
-        "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
-        "pubDate": "Tue, 13 Oct 2026 21:15:00 +0000",
-        "description": "The steel industry is a big polluter, but Helix Carbon can upcycle pollution from blast furnaces to drive down emissions and improve margins.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "FBI arrests OpenAI employee accused of planting hidden recording device in conference room",
-        "link": "https://techcrunch.com/2026/10/13/fbi-arrests-openai-employee-accused-of-planting-hidden-recording-device-in-conference-room/",
-        "pubDate": "Tue, 13 Oct 2026 20:59:11 +0000",
-        "description": "It's not clear exactly for what purpose the recording device was used, but FBI director Kash Patel said the scheme was to \"capture sensitive communications about the company’s super intelligence technology.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
-        "link": "https://techcrunch.com/2026/10/13/judge-orders-openai-to-turn-over-hiring-records-in-apple-trade-secrets-case/",
-        "pubDate": "Tue, 13 Oct 2026 20:36:44 +0000",
-        "description": "A federal judge ruled that Apple can access OpenAI's interview materials involving former Apple employees, as well as private messages and testimony from key figures in the case.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Cambridge Heavy Industries has been quietly building a desktop fusion device",
-        "link": "https://techcrunch.com/2026/10/13/cambridge-heavy-industries-has-been-quietly-building-a-desktop-fusion-device/",
-        "pubDate": "Tue, 13 Oct 2026 20:13:53 +0000",
-        "description": "Fusion power startup Cambridge Heavy Industries is building a small, laser-powered fusion device to fuel the coming wave of fusion power plants.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Licube wants to be the fuel provider to the fusion power industry — see how at TechCrunch Disrupt",
-        "link": "https://techcrunch.com/2026/10/13/licube-wants-to-be-the-fuel-provider-to-the-fusion-power-industry-see-how-at-techcrunch-disrupt/",
-        "pubDate": "Tue, 13 Oct 2026 20:00:00 +0000",
-        "description": "Fusion power plants will need a lot of lithium, and Licube is preparing to be a key supplier.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Niobia takes the guesswork out of some of tech’s most expensive mistakes",
-        "link": "https://techcrunch.com/2026/10/13/niobia-takes-the-guesswork-out-of-some-of-techs-most-expensive-mistakes/",
-        "pubDate": "Tue, 13 Oct 2026 19:00:00 +0000",
-        "description": "The San Francisco startup aims to help battery and chip manufacturers identify defects on production lines, reducing downtime and costly mistakes.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Rivian’s startup Mind Robotics hires former Ford EV chief Doug Field",
-        "link": "https://techcrunch.com/2026/10/13/rivians-startup-mind-robotics-hires-former-ford-ev-chief-doug-field/",
-        "pubDate": "Tue, 13 Oct 2026 18:30:03 +0000",
-        "description": "Field also worked on Apple's secretive car project and oversaw development of the Tesla Model 3.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Flox Intelligence is building AI to keep wildlife away from trains, airports, and roads",
-        "link": "https://techcrunch.com/2026/10/13/flox-intelligence-is-building-ai-to-keep-wildlife-away-from-trains-airports-and-roads/",
-        "pubDate": "Tue, 13 Oct 2026 18:30:00 +0000",
-        "description": "Flox's edge devices can identify animals and use species-specific sounds to drive them away from critical infrastructure.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Facebook is giving users more control over their algorithm",
-        "link": "https://techcrunch.com/2026/10/13/facebook-is-giving-users-more-control-over-their-algorithm/",
-        "pubDate": "Tue, 13 Oct 2026 18:05:24 +0000",
-        "description": "Meta announced the launch of its new AI-powered feature, “Your Algorithm,” a feature it first launched on Instagram.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The Tesla Roadster could have stayed vaporware",
-        "link": "https://www.theverge.com/transportation/1010694/tesla-roadster-reveal-vaporware-spacex-elon-musk",
-        "pubDate": "2026-10-14T07:00:00-04:00",
-        "description": "For a car that's supposed to be one of the fastest ever made, the new Tesla Roadster certainly took its sweet-ass time getting here. It's been nearly a decade since Elon Musk made the surprise announcement about plans to build a next-gen Roadster. No",
+        "title": "My AI doppelganger tells me what to eat",
+        "link": "https://www.theverge.com/column/1011264/digital-twin-metabolism-ai-twin-health",
+        "pubDate": "2026-10-14T13:00:00-04:00",
+        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. For the past 100 days or so, my mo",
         "source": "TheVerge"
       },
       {
-        "title": "Fairphone’s latest repairable earbuds are smaller, lighter, and longer-lasting",
-        "link": "https://www.theverge.com/tech/1010906/fairphone-fairbuds-2-price-release-audio-repairability",
-        "pubDate": "2026-10-14T07:00:00-04:00",
-        "description": "Repairable, ethical phone brand Fairphone has released its second pair of earbuds. The Fairbuds 2 are just as repairable as the first generation, but deliver improved audio and almost twice the battery life. The Fairbuds 2 are out now in the UK and E",
+        "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
+        "pubDate": "2026-10-14T12:43:24-04:00",
+        "description": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s HomeView ad is confusing to everyone except parents",
-        "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
-        "pubDate": "2026-10-13T18:10:00-04:00",
-        "description": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typi",
+        "title": "Repairing the iPhone Duo&#8217;s folding screen costs as much as a new iPhone",
+        "link": "https://www.theverge.com/tech/1011245/iphone-duo-repair-costs-applecare",
+        "pubDate": "2026-10-14T12:21:28-04:00",
+        "description": "If you don't get AppleCare Plus for the iPhone Duo, any repairs are going to be pretty expensive. Apple published the estimated repair costs for the iPhone Duo without AppleCare Plus today, as reported by MacRumors, and they can be high: Battery serv",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device",
-        "pubDate": "2026-10-13T16:45:25-04:00",
-        "description": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or e",
+        "title": "Honey, Xbox shrunk its controller",
+        "link": "https://www.theverge.com/news/1011216/xbox-nano-controller-release-date-pricing",
+        "pubDate": "2026-10-14T12:16:46-04:00",
+        "description": "Microsoft is officially announcing its Xbox Nano controller today, a smaller and cheaper controller that's designed to fit into your pocket. The more compact controller is also designed for \"younger players, smaller hands, or anyone seeking something",
         "source": "TheVerge"
       },
       {
-        "title": "It looks like Apple Music is getting a new icon",
-        "link": "https://www.theverge.com/tech/1010619/apple-music-new-icon-ios-27-beta",
-        "pubDate": "2026-10-13T16:05:02-04:00",
-        "description": "Apple Music's iconic red app icon has reportedly been replaced with a black-and-white version in the latest iOS 27.2 beta, 9to5Mac reports. The eighth note on the icon also appears to have a slightly sharper angle than the original. A new Apple Music",
+        "title": "Microsoft has a new machine learning tool to improve weather forecasts",
+        "link": "https://www.theverge.com/science/1011127/ai-weather-forecast-microsoft",
+        "pubDate": "2026-10-14T12:05:21-04:00",
+        "description": "Old-school physics-based weather forecasting and even new AI models typically become less reliable beyond two weeks, a problem Microsoft claims to have solved using machine learning. Researchers with the company say they've found a new, cost-effectiv",
         "source": "TheVerge"
       }
     ],
