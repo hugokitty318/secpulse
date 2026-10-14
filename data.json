@@ -1,7 +1,35 @@
 {
-  "ts": "2026-10-13T21:49:24.823898Z",
+  "ts": "2026-10-14T01:11:25.950522Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OWASP回顧第三季AI資安事件，AI代理越權成焦點",
+        "link": "https://www.ithome.com.tw/news/179582",
+        "pubDate": "2026-10-14 08:00",
+        "description": "OWASP回顧2026年第3季AI資安事件，其中多起事件反映過度代理授權（Excessive Agency）的安全問題，另有案例揭露提示詞注入、惡意MCP伺服器及敏感資料外洩等風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "IonQ擬以最高13億美元併購零信任資安業者Elisity",
+        "link": "https://www.ithome.com.tw/news/179631",
+        "pubDate": "2026-10-14 08:00",
+        "description": "量子運算業者IonQ計畫結合零信任資安業者Elisity的網路微分段及存取控制技術，並在後續產品發展中整合密碼學資產清冊及相關風險資訊，協助企業判斷哪些系統應優先導入後量子密碼學（PQC）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客濫用Power BI發動網釣，利用ScreenConnect維持遠端存取",
+        "link": "https://www.ithome.com.tw/news/179604",
+        "pubDate": "2026-10-14 08:00",
+        "description": "資安業者Huntress揭露駭客濫用微軟Power BI發動網釣攻擊，誘使受害者下載遠端監控與管理工具ScreenConnect。研究人員也發現，攻擊者在部分事件中部署兩套ScreenConnect用戶端，試圖維持對受害電腦的遠端存取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA提出零信任DNS授權架構，解析網域名稱前先驗證身分、確認權限",
+        "link": "https://www.ithome.com.tw/news/179519",
+        "pubDate": "2026-10-14 08:00",
+        "description": "雲端安全聯盟（CSA）提出Secure Multi-Step DoH零信任DNS授權架構，主張在解析網域名稱前先驗證使用者身分、檢查裝置安全狀態及確認存取權限，避免未經授權者取得企業內部服務的位址資訊",
+        "source": "iThome資安"
+      },
       {
         "title": "Ledger硬體加密貨幣錢包設備驚傳被植入隱藏晶片，遭竊資產超過一億美元",
         "link": "https://www.ithome.com.tw/news/179658",
@@ -80,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Twitch瀏覽器外掛洩露近3.1萬用戶OAuth權杖",
-        "link": "https://www.ithome.com.tw/news/179628",
-        "pubDate": "2026-10-13 13:01",
-        "description": "Socket揭露搭配Twitch影音平臺的瀏覽器外掛存在將用戶權杖轉送至代理伺服器機制，恐導致帳號與聊天紀錄外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "企業數位大小章搬上手機！行動工商憑證如何改變驗證、簽章與授權管理",
-        "link": "https://www.ithome.com.tw/news/179617",
-        "pubDate": "2026-10-13 12:30",
-        "description": "行動工商憑證讓企業日常辦公不再受限於晶片卡與讀卡機，除了支援手機簽章，更透過集中驗證與行動附卡授權，改善企業過去憑證保管、共用及權限管理的難題。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "逾1.6萬個Supabase資料庫暴露於公開網路，恐洩漏敏感資料",
-        "link": "https://www.ithome.com.tw/news/179616",
-        "pubDate": "2026-10-13 12:17",
-        "description": "UpGuard掃描約30萬個使用Supabase的網域，發現其中1.6萬個資料庫存取控制設定不當，可能洩露個資、明文密碼、驗證權杖等資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客組織CyberXero濫用Claude Code攻擊WordPress網站，竊取近63萬烏克蘭用戶資料",
-        "link": "https://www.ithome.com.tw/news/179612",
-        "pubDate": "2026-10-13 11:54",
-        "description": "資安公司SOCRadar揭露俄羅斯初始存取管道掮客（IAB）CyberXero，這些駭客借助Claude Code的力量，主要目標是烏克蘭的關鍵基礎設施，但也對多個國家的WordPress網站與電商平臺從事自動化攻擊",
-        "source": "iThome資安"
-      },
-      {
         "title": "SQLite 3.54命令列新增磁碟空間分析指令，舊分析工具將退場",
         "link": "https://www.ithome.com.tw/news/179647",
         "pubDate": "2026-10-13  06:10:50",
@@ -126,13 +126,6 @@
         "link": "https://www.ithome.com.tw/news/179642",
         "pubDate": "2026-10-13  04:10:33",
         "description": "LINE今天在年度記者會宣布，LINE官方帳號服務推出AI代理平台，可以讓店家打造自己的商家AI代理，先推出三款AI代理角色，包括預約、銷售和客服Agent，目前和品牌合作展開POC驗證，2027年第一季正式推出，目前還沒公布收費方案。AI代理先開放串接LINE技術合作夥伴，也計畫支援MCP協定。目前還沒公布收費模式。\nLINE官方帳號早期以行銷推廣為主，2019年全面開放API串接，2023年推出LINE MINI App，去年則推出了AI商務對話功能。目前，LINE官方帳號數量已經成長到36",
-        "source": "iThome"
-      },
-      {
-        "title": "AMD推Agentic AI機櫃架構Helion，以CPU、GPU彈性配置鎖定不同Agent工作負載",
-        "link": "https://www.ithome.com.tw/news/179632",
-        "pubDate": "2026-10-13  02:10:48",
-        "description": "過去生成式AI基礎架構主要圍繞大型語言模型（LLM）推論，GPU成為AI資料中心建置的重心。但是，隨著企業開始部署能夠自主規畫任務、呼叫工具及串接企業系統的AI Agent，資料中心需要處理的不再只有模型推論，而是增加了Agent執行、工作流程協調、程式執行及多Agent協作等工作，也使CPU重新成為Agent時代的重要運算資源。看準這方面的需求，AMD在周一發表Agentic AI機櫃參考架構（Rack Reference Design）Helion，透過可彈性配置CPU與GPU的開放式架構，",
         "source": "iThome"
       }
     ],
@@ -287,6 +280,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+        "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
+        "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
         "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
         "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
@@ -376,16 +376,37 @@
         "pubDate": "Tue, 13 Oct 2026 13:49:38 -0400",
         "description": "Microsoft has released the Patch Tuesday Windows 11 KB5127648 and KB5126653 cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "TFG London cyberattack disrupts systems at Hobbs and Whistles retailers",
-        "link": "https://www.bleepingcomputer.com/news/security/tfg-london-cyberattack-disrupts-systems-at-hobbs-and-whistles-retailers/",
-        "pubDate": "Tue, 13 Oct 2026 12:44:18 -0400",
-        "description": "TFG London detected a cybersecurity incident that impacted IT systems used by the Phase Eight, Hobbs, and Whistles premium fashion brands. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+        "link": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+        "pubDate": "Tue, 13 Oct 2026 23:13:31 +0000",
+        "description": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home",
+        "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/",
+        "pubDate": "Tue, 13 Oct 2026 23:05:34 +0000",
+        "description": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Industrial Next wants factory robots to switch tasks in minutes, not weeks",
+        "link": "https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/",
+        "pubDate": "Tue, 13 Oct 2026 23:00:00 +0000",
+        "description": "Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cerebras CEO pushes back on AI doomsday warnings",
+        "link": "https://techcrunch.com/2026/10/13/cerebras-ceo-pushes-back-on-ai-doomsday-warnings/",
+        "pubDate": "Tue, 13 Oct 2026 22:36:59 +0000",
+        "description": "Cerebras CEO Andrew Feldman has a message for AI leaders spreading doomsday warnings: Maybe stop talking? At TechCrunch Disrupt, he argued that the industry's focus on AI's risks is drowning out its potential benefits.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Helix Carbon says it can make iron cheaper by recycling blast furnace pollution",
         "link": "https://techcrunch.com/2026/10/13/helix-carbon-makes-iron-cheaper-by-upcycling-blast-furnace-pollution-see-how-at-techcrunch-disrupt/",
@@ -464,32 +485,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pluto Security raises $42M as AI gives enterprise security teams a new headache",
-        "link": "https://techcrunch.com/2026/10/13/pluto-security-raises-42m-as-ai-gives-enterprise-security-teams-a-new-headache/",
-        "pubDate": "Tue, 13 Oct 2026 17:18:25 +0000",
-        "description": "The problem with giving everyone in a company access to AI tools is that people will use them in unexpected ways. And that fact is steadily seeding fears that companies now have new, gaping security holes in their systems or, at least, will soon.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "MIT startup says it can turn diesel trucks into cheaper hydrogen haulers — see it at Disrupt",
-        "link": "https://techcrunch.com/2026/10/13/mit-startup-says-it-can-turn-diesel-trucks-into-cheaper-hydrogen-haulers-see-it-at-disrupt/",
-        "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-        "description": "Diesel is expensive and polluting, and LNK Energies says it has come up with a way to replace it with hydrogen, all while undercutting diesel on cost.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
-        "link": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/",
-        "pubDate": "Tue, 13 Oct 2026 17:00:00 +0000",
-        "description": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "SpaceX and Google both said no. Now his software is riding a SpaceX rocket next to Google’s",
-        "link": "https://techcrunch.com/2026/10/13/satlyt-founded-by-a-former-google-and-spacex-product-manager-raises-8m-to-run-ai-on-satellites/",
-        "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
-        "description": "Satlyt wants to be the Android of orbital computing, offering open software that works on many companies' satellites, versus SpaceX's closed, all-in-one iPhone-style approach.",
-        "source": "TechCrunch"
+        "title": "Apple’s HomeView ad is confusing to everyone except parents",
+        "link": "https://www.theverge.com/tech/1010561/apple-homeview-commercial-reaction",
+        "pubDate": "2026-10-13T18:10:00-04:00",
+        "description": "Apple's ad introducing its new HomeView smart display is a little unusual. It's fast-paced and unruly, depicting a family of five as they rush through the morning routine. There's yelling and mess, misplaced keys and discarded eggshells. Apple's typi",
+        "source": "TheVerge"
       },
       {
         "title": "OpenAI employee arrested for allegedly planting a bug in a conference room",
@@ -517,13 +517,6 @@
         "link": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration",
         "pubDate": "2026-10-13T15:00:48-04:00",
         "description": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnes",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The Nothing Headphone A are half off for the first time",
-        "link": "https://www.theverge.com/gadgets/1010384/nothing-headphone-a-charli-xcx-deal-sale",
-        "pubDate": "2026-10-13T14:33:14-04:00",
-        "description": "One of the best deals we’ve seen today bundles together a great pair of headphones with a solid album. When you add the Nothing Headphone A in black or white and the CD version of the Charli XCX album Music, Fashion, Film to your Amazon cart, you’ll ",
         "source": "TheVerge"
       }
     ],
