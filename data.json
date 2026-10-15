@@ -1,12 +1,75 @@
 {
-  "ts": "2026-10-15T01:49:19.719401Z",
+  "ts": "2026-10-15T07:22:15.900878Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "微軟啟動PQC TLS憑證試行，檢驗伺服器身分驗證相容性",
-        "link": "https://www.ithome.com.tw/news/179646",
-        "pubDate": "2026-10-15 08:00",
-        "description": "微軟推動PQC TLS憑證試行計畫，由7家憑證授權機構參與測試，Windows 11已可在指定條件下使用ML-DSA憑證進行伺服器身分驗證測試",
+        "title": "俄羅斯網路業者資料中心遭襲後，Cloudflare觀察相關惡意機器人活動未明顯減少",
+        "link": "https://www.ithome.com.tw/news/179718",
+        "pubDate": "2026-10-15 14:44",
+        "description": "搜尋爬蟲流量大幅下滑，但雲端惡意自動化活動轉移至其他業者，社群操縱活動也未見明顯變化",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA警告3款系統、4個資安漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179713",
+        "pubDate": "2026-10-15 13:20",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，近日揭露的Palo Alto Networks防火牆作業系統、思科郵件安全閘道Secure Email Gateway，以及備份管理平臺AhsayCBS漏洞皆遭到積極利用，聯邦機構需在3天內緊急完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "軟體公司Ahsay再度修補已遭串連及利用的備份管理平臺AhsayCBS零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/179712",
+        "pubDate": "2026-10-15 12:39",
+        "description": "本週軟體公司Ahsay發布緊急資安更新，修補備份管理平臺AhsayCBS遭到利用的漏洞CVE-2026-105133與CVE-2026-105134，呼籲用戶需立即採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科修補已遭利用的郵件安全閘道任意檔案寫入漏洞",
+        "link": "https://www.ithome.com.tw/news/179710",
+        "pubDate": "2026-10-15 12:33",
+        "description": "本週思科針對郵件安全閘道系統Secure Email Gateway（SEG）發布更新，修補重大等級的任意檔案寫入漏洞CVE-2026-76519，並警告該弱點已被利用，用戶需儘速採取行動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國司法部跨州打擊北韓遠端工作網路，起訴14人並破獲筆電農場",
+        "link": "https://www.ithome.com.tw/news/179709",
+        "pubDate": "2026-10-15 12:23",
+        "description": "俄亥俄州起訴涉及逾70家美國企業的假身分工作者，德州另搜索逾40處疑似筆電農場，切斷北韓人員遠端工作的設備據點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Palo Alto Networks修補遭利用的防火牆作業系統遠端程式碼執行漏洞",
+        "link": "https://www.ithome.com.tw/news/179705",
+        "pubDate": "2026-10-15 11:35",
+        "description": "資安公司Palo Alto Networks揭露防火牆作業系統PAN-OS資安漏洞CVE-2026-0322，並指出該弱點已被用於實際攻擊，用戶應儘速採取行動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Shadowserver警示仍有數百組Danfoss冷藏控制器暴露於公開網路",
+        "link": "https://www.ithome.com.tw/news/179703",
+        "pubDate": "2026-10-15 11:25",
+        "description": "法國超市冷藏系統遭駭後，仍有至少365組Danfoss AK-SM800A冷藏控制器可從網際網路存，業者應儘速移除公網暴露",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國政府疾呼Ivanti用戶儘速修補已遭利用的SSL VPN零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/179691",
+        "pubDate": "2026-10-15 10:28",
+        "description": "美國網路安全與基礎設施安全局（CISA）特別針對已遭利用的Ivanti Connect Secure（ICS）零時差漏洞CVE-2026-104935提出警告，並透露此弱點相當危險，攻擊者將能遠端執行任意指令、竊取憑證及資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "逾400名科學家要求建立國際AI監管機構",
+        "link": "https://www.ithome.com.tw/news/179702",
+        "pubDate": "2026-10-15 10:13",
+        "description": "AI模型突破沙箱隔離、入侵外部系統的資安事件已引起科學界關注。全球逾400名AI與資安領域科學家聯名警告，現有安全防護措施仍有不足，呼籲成立國際機構，制定AI安全與隔離標準",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Meta GitHub儲存庫遭駭，外洩產品程式碼及1,500名人員資料",
+        "link": "https://www.ithome.com.tw/news/179701",
+        "pubDate": "2026-10-15 10:08",
+        "description": "Meta證實旗下GitHub儲存庫遭駭，部分產品程式碼及約1,500人個資遭竊，駭客利用外洩員工憑證取得儲存庫存取權限",
         "source": "iThome資安"
       },
       {
@@ -24,6 +87,13 @@
         "source": "iThome資安"
       },
       {
+        "title": "微軟啟動PQC TLS憑證試行，檢驗伺服器身分驗證相容性",
+        "link": "https://www.ithome.com.tw/news/179646",
+        "pubDate": "2026-10-15 08:00",
+        "description": "微軟推動PQC TLS憑證試行計畫，由7家憑證授權機構參與測試，Windows 11已可在指定條件下使用ML-DSA憑證進行伺服器身分驗證測試",
+        "source": "iThome資安"
+      },
+      {
         "title": "Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
         "link": "https://www.ithome.com.tw/news/179666",
         "pubDate": "2026-10-15 08:00",
@@ -31,102 +101,18 @@
         "source": "iThome資安"
       },
       {
+        "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
+        "link": "https://www.ithome.com.tw/news/179704",
+        "pubDate": "2026-10-15  11:10:43",
+        "description": "SpaceX旗下AI部門SpaceXSI周三（10/14）推出新一代語音模型Grok Voice 3.0，在第三方評測機構Artificial Analysis的語音對語音綜合指數（Speech-to-Speech Index）中，以86.9分排名第一，超越OpenAI及Google的競爭模型。新模型主打快速語音回應與企業客服應用，SpaceXSI宣稱回應時間可低於1秒。",
+        "source": "iThome"
+      },
+      {
         "title": "Anthropic警告AI會自我複製，並藉IoT散布",
         "link": "https://www.ithome.com.tw/news/179699",
         "pubDate": "2026-10-14 20:25",
         "description": "Anthropic研究發現，15臺低價Android機上盒已能共同執行大型AI模型，能力較強的AI也在模擬測試中，成功將模型複製到其他裝置並啟動",
         "source": "iThome資安"
-      },
-      {
-        "title": "烏克蘭接連襲擊Yandex三座資料中心，俄羅斯多項網路服務中斷",
-        "link": "https://www.ithome.com.tw/news/179698",
-        "pubDate": "2026-10-14 18:49",
-        "description": "俄羅斯龍頭網路服務商基礎設施連遭攻擊，雲端、支付、叫車與外送與第三方企業業務受波及，俄政府與國防部研議強化資料中心防護",
-        "source": "iThome資安"
-      },
-      {
-        "title": "MITRE ATT&amp;CK第20版登場，新增提示注入、AI輔助資料外洩等攻擊技術",
-        "link": "https://www.ithome.com.tw/news/179697",
-        "pubDate": "2026-10-14 18:27",
-        "description": "資安界廣泛採用的攻擊手法框架MITRE ATT&CK，如今已更新至第20版，新增直接提示注入、AI輔助資料外洩及AI結果污染等攻擊技術，反映MITRE持續擴充AI相關攻擊行為的分類，從利用AI協助攻擊，進一步涵蓋操控AI系統及AI代理的攻擊手法",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Ledger加密錢包設備遭植入隱藏晶片，影響範圍已從亞洲擴及歐洲",
-        "link": "https://www.ithome.com.tw/news/179660",
-        "pubDate": "2026-10-14 17:22",
-        "description": "硬體加密貨幣錢包設備Ledger遭植入間諜元件震驚全球，Ledger定調有問題的裝置來自東南亞經銷商CryptoBillis，有人發現歐洲經銷商銷售的Ledger錢包也同樣被竄改，研判這起事故的影響範圍恐怕已蔓延到歐洲",
-        "source": "iThome資安"
-      },
-      {
-        "title": "金管會擬推出金融業代理AI安全指引，先公布諮詢文件徵詢意見，聚焦安全治理、風險分級與權限控管",
-        "link": "https://www.ithome.com.tw/news/179681",
-        "pubDate": "2026-10-14 16:53",
-        "description": "金融業導入代理AI有助於提升營運效率與推動服務創新，但也伴隨新興資安風險，金管會10月13日公布「金融業運用代理AI安全諮詢文件」，針對金融業導入代理AI提出安全治理、風險分級及安全控管三大方向，並公開徵詢各界意見30天",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Docker Hub修補重大漏洞GhostPat",
-        "link": "https://www.ithome.com.tw/news/179688",
-        "pubDate": "2026-10-14 16:10",
-        "description": "Docker開發團隊發布公告指出，他們近期為Docker Hub修補重大等級的資安漏洞CVE-2026-105445（GhostPat），並透過電子郵件通知部分受到影響的使用者",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitLab發布重大安全性更新，修補嚴重程度滿分的資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179685",
-        "pubDate": "2026-10-14 15:19",
-        "description": "本週GitLab修補一系列資安漏洞，其中最值得留意的部分，是危險程度達到滿分的CVE-2026-97229，用戶應儘速套用新版本緩解相關風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SAP公布Cloud SDK for Python滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/179684",
-        "pubDate": "2026-10-14 15:08",
-        "description": "本週SAP發布10月例行更新（Security Patch Day），公布及修補20個資安漏洞，其中存在於程式庫SAP Cloud SDK for Python的重大漏洞CVE-2026-89111特別危險，CVSS嚴重程度達到滿分10分",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月14日，微軟發布10月例行更新，修補1,413個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179682",
-        "pubDate": "2026-10-14 14:53",
-        "description": "本週微軟發布10月例行更新，修補超過1,400個資安漏洞，創下單月新高，其中近八成與Windows有關，用戶應儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國政府警告Windows、Ivanti SSL VPN零時差漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179680",
-        "pubDate": "2026-10-14 14:34",
-        "description": "針對微軟與Ivanti在10月例行更新公布與修補的零時差漏洞CVE-2026-96951、CVE-2026-104935，美國網路安全與基礎設施安全局（CISA）也確認已遭到積極利用，並要求聯邦機構緊急採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布ChromeOS與ChromeOS Flex穩定版更新，修補106個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/179675",
-        "pubDate": "2026-10-14 12:49",
-        "description": "ChromeOS穩定版修補V8、DevTools、Views與GPU等元件的漏洞，以記憶體安全與授權管理相關問題居多",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Character.AI聲請破產保護，迪士尼出價2,000萬美元收購部分資產",
-        "link": "https://www.ithome.com.tw/news/179689",
-        "pubDate": "2026-10-14  04:10:57",
-        "description": "美國AI角色聊天平臺Character.AI周一（10/12）宣布，已向德拉瓦州聯邦破產法院聲請《破產法》第11章破產保護，尋求出售全部或絕大部分資產。",
-        "source": "iThome"
-      },
-      {
-        "title": "AWS Lambda推出Web Functions，Node.js網頁服務可直接部署",
-        "link": "https://www.ithome.com.tw/news/179686",
-        "pubDate": "2026-10-14  04:10:00",
-        "description": "AWS Lambda新增Web Functions，開發者可直接將使用Express、Hono、Fastify及Next.js等框架開發的Node.js網頁服務部署至Lambda，不必改寫成事件處理函式，也無須額外使用轉接工具，新服務支援多請求並行以及跨區域（Region）部署。",
-        "source": "iThome"
-      },
-      {
-        "title": "英特爾推GPU D系列與Xeon新機櫃，瞄準代理AI推論市場",
-        "link": "https://www.ithome.com.tw/news/179683",
-        "pubDate": "2026-10-14  03:10:20",
-        "description": "英特爾在OCP2026全球大會上發表其代理式AI基礎架構最新進展，包括Intel GPU D系列（代號Crescent Island）技術細節，還展示搭載Xeon處理器的新一代機櫃設計，以及支援異質運算的開放式軟體與硬體標準，瞄準支援代理AI的新一代企業資料中心架構。\n相較於生成式AI以大型語言模型推論為主，該公司認為，代理式AI的工作流程更加複雜，不僅包含模型推論，還涉及資訊檢索、推理、工具呼叫、工作流程協調與任務執行等多個步驟，為此，資料中心不再只是追求GPU算力，而需要CPU、GPU與專用",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -187,38 +173,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "降低對 NVIDIA 依賴：亞馬遜傳以約 70 億美元洽購 Decart，助 Trainium 晶片爭取開發者",
-        "link": "https://techorange.com/2026/10/13/amazon-buy-ai-startup-decart-around-7-billion/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 17:00:50 +0800",
-        "description": "根據《The Wall Street Journal》引述知情人士報導，亞馬遜（Amazon）正與 AI 新創 Decart 洽談收購事宜，交易估值可能約 70 億美元。知情人士表示，除非談判破局或有其他買家出現，雙方可望很快達成協議。《GeekWire》則分析，這筆交易能讓亞馬遜有新的方式，吸引更多 AI 開發者改用自研晶片，而非 NVIDIA 的硬體。 Decart 成立於 2023 年，由 3 名以色列工程師共同創辦，總部位於美國舊金山，並在以色列特拉維夫設有研發中心。公司銷售的軟體能讓 ",
+        "title": "從自駕光達到機器人：禾賽推空間相機 Kosmo，把真實場域變成訓練數據",
+        "link": "https://techorange.com/2026/10/15/hesai-kosmo-spatial-camera-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 14:08:39 +0800",
+        "description": "機器人在展場迎賓、揮手、跳舞的畫面已經不少見，但要走進門市或工廠分擔實際工作，仍有一段距離。自駕車光達供應商禾賽（Hesai），10/14 在上海工廠發表空間相機 Kosmo。這台外形像葡萄酒瓶的裝置結合光達與攝影機，目標是協助開發者更有效率地收集真實世界的空間數據，用來訓練機器人。 據《Reuters》報導，禾賽共同創辦人暨執行長李一帆在發表會上表示，要訓練機器人理解真實世界、執行揮手跳舞以外的複雜任務，所需的高品質空間數據仍有很大缺口。如果數據是機器人走進真實場域的門檻之一，一台手持相機能幫",
         "source": "TechOrange"
       },
       {
-        "title": "微軟 Maia 300 拚 2027 數 GW 部署，新自研 AI 晶片如何突破推理瓶頸？",
-        "link": "https://techorange.com/2026/10/13/microsoft-maia-300-ai-chip/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 16:23:35 +0800",
-        "description": "微軟正準備讓自研 AI 晶片承擔更大規模的運算任務。其發表第三代 AI 晶片 Maia 300，宣布自 2027 年起將 Maia 系統擴展至數 GW（百萬瓩）規模，成為旗下產品與服務的主要 AI 推理平台。《Reuters》報導，潛在部署數量可能超過 100 萬顆。 當 AI 推理走向如此龐大的部署規模，如何讓新增算力真正轉化為服務能力？根據微軟官方公告，Maia 300 的機櫃級 token 吞吐量最高達前代 Maia 200 的 7 倍，每瓦效能提升超過 2.5 倍。這些數字背後不只是單顆",
+        "title": "台灣微軟、雲馥數位從 KPI、成本到 Agent 治理談企業 AI 主權實戰",
+        "link": "https://techorange.com/2026/10/15/cloudriches-microsoft-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 14:07:16 +0800",
+        "description": "TechOrange 科技報橘於 10 月 13 日舉辦「企業 AI 主權高峰論壇午宴」，邀集多位高科技製造業與金融業中高階主管蒞臨餐敘交流，共同探討企業如何讓 AI 從試點走向規模化生產力，分享第一線落地經驗 。科技報橘社長戴季全表示，「AI 不是將 20 人的團隊縮減為 2 人；而是讓 20 人都具備 AI 能力，使公司規模與產出發揮 20 倍以上的乘數效應。」 台灣微軟商用企業與新興市場事業部總經理李光耀致詞時表示，AI 導入已不再是長達半年的大型專案，可能 3 個星期就能完成一個專案並快",
         "source": "TechOrange"
       },
       {
-        "title": "懂技術還要會溝通：Anthropic 主管揭優秀 FDE 的 5 大特質，好奇心也是關鍵",
-        "link": "https://techorange.com/2026/10/13/anthropic-invests-100-million-into-frontier-deployed-engineer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 13:38:06 +0800",
-        "description": "AI 公司 Anthropic 正為其他企業培訓頂尖人才。Anthropic 本月稍早宣布投入 1 億美元成立 Claude Frontier Academy，目標在 2027 年底前，透過為期 12 週的實作計畫培訓 1 萬名前沿部署工程師（Frontier Deployed Engineer，FDE）。 採提名制、結合實體培訓與 12 週實作，Accenture、Deloitte 等企業已參與 《CRN》指出，目前參與計畫的包括 Accenture、Bain & Company、Capgem",
+        "title": "Anthropic 為何捨棄 Git？自研 Scion 揭 AI Agent 時代開發新瓶頸",
+        "link": "https://techorange.com/2026/10/15/anthropic-source-control-redesigning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 12:52:55 +0800",
+        "description": "AI Coding Agent（AI 程式開發代理）讓工程師寫程式的速度大幅提升，但如果程式碼產出快到連既有開發工具都難以負荷，會發生什麼事、又如何解決？AI 公司 Anthropic 就遇上了這個問題，稱甚至決定捨棄廣泛使用的 Git，自行打造新的版本控制系統 Scion。 類似的開發流程瓶頸，也開始出現在其他企業。哈佛大學研究人員 Fiona Chen 與 James Stratton 分析 718 家企業、約 3 億筆工程工作紀錄，發現導入 AI Coding Agent 後，程式碼產出增",
         "source": "TechOrange"
       },
       {
-        "title": "Meta 最強 AI 模型 Muse Wonder 登場，為何自認更適合個人與專業 Agent？",
-        "link": "https://techorange.com/2026/10/13/meta-muse-wonder-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 11:11:33 +0800",
-        "description": "Meta 在美國時間 10/12 推出新一代 AI 模型 Muse Wonder、Muse Wonder Full，宣稱這是公司至今最強大的模型，其中性能較強的 Wonder Full 在部分法律、企業工作流程及長時間程式開發測試中取得領先。執行長祖克柏更表示，Meta 已重返前沿 AI 模型競爭。 不過，Meta 這次強調的不只是模型整體性能，更宣稱新模型在個人與專業領域的 AI Agent（AI 代理）任務上達到頂尖水準。面對 OpenAI、Anthropic 等競爭對手，Muse Wond",
+        "title": "AI 需求延伸至 2030 年：客戶搶先洽談訂單，ASML 坦言擴產 30% 恐仍不夠",
+        "link": "https://techorange.com/2026/10/15/asml-ai-chip-demand-stretching-2030-expects-supply-shortages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 11:39:48 +0800",
+        "description": "荷蘭半導體設備製造商 ASML 表示，隨著 AI 相關投資持續推升晶片製造需求，部分客戶已開始洽談 2029 年與 2030 年的先進製程設備訂單。即使公司已計畫在 2027 年將部分設備產能提高 30%，預期 2027 年與 2028 年的供應量仍不足以滿足客戶需求，因此正評估進一步提高 2028 年的產能。 ASML 週三公布第三季財報，單季淨銷售額創下 116.6 億歐元的紀錄，淨利則從第二季的 29.2 億歐元增至 49.6 億歐元。公司也將全年銷售額預測從 430 億至 450 億歐元",
         "source": "TechOrange"
       },
       {
-        "title": "不蓋新廠，改造老廠：新創 Harmoni 用平板與 AI 改裝美國傳統工廠",
-        "link": "https://techorange.com/2026/10/13/americas-old-factories-with-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 09:50:51 +0800",
-        "description": "美國近年積極推動「再工業化」，要把外移多年的製造業帶回本土；不少矽谷新創的做法是從零開始，打造大量使用機器人的全自動工廠。 而 Harmoni 走的是另一條路，它不蓋新廠，而是幫美國現有的老工廠升級。 Harmoni 成立於 2023 年，專門為工廠現場打造客製化平板與 AI 軟體。公司近日完成 1,000 萬美元 A 輪募資，由美國創投 Bessemer Venture Partners 領投，未公開估值。目前約有 40 家客戶，本月預計再增加 10 家，最大客群是航太與國防業。 Hadria",
+        "title": "【監控的 AI 也會被騙】專家警告惡意代理人可能騙過監控者，建議另加不靠 AI 的日誌與網路分析",
+        "link": "https://techorange.com/2026/10/15/rogue-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 10:07:26 +0800",
+        "description": "企業把越來越多、越來越複雜的任務交給 AI 代理人（AI Agent），監督也隨之成為難題。代理人行動更快、運作時間更長、數量也更多，人類根本來不及審查。 今年 7 月的 Hugging Face 事件，把這個問題推到極致。OpenAI 一款尚未發布的前沿 AI 代理人，在進行極限網路安全評測時，自行突破隔離沙盒，入侵開源 AI 平台 Hugging Face。當時有將近 12,000 個代理人彼此協調行動，速度遠超過人類能追蹤的程度。 代理人規模太大，連調查都得靠 AI 非營利 AI 安全與對",
         "source": "TechOrange"
       },
       {
@@ -255,7 +241,7 @@
         "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
         "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
         "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a mix of U.S. citizens and Chin",
+        "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a mix of U.S. c",
         "source": "TheHackerNews"
       },
       {
@@ -450,10 +436,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube Music launches new labels as AI-generated music floods streaming platforms",
-        "link": "https://techcrunch.com/2026/10/14/youtube-music-launches-new-labels-as-ai-generated-music-floods-streaming-platforms/",
-        "pubDate": "Wed, 14 Oct 2026 18:23:46 +0000",
-        "description": "The label will appear on the player page and include songs entirely generated by AI or partially, such as AI involved in composition and vocals.",
+        "title": "Figma announces new features to define how agents work on its platform",
+        "link": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/",
+        "pubDate": "Thu, 15 Oct 2026 04:30:00 +0000",
+        "description": "Figma is also releasing its code layers feature in open beta.",
         "source": "TechCrunch"
       },
       {
@@ -602,29 +588,19 @@
         "products": "GitLab"
       },
       {
-        "title": "Cisco Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/cisco-products-multiple-vulnerabilities_20261008",
-        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
+        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Cisco Products"
-      },
-      {
-        "title": "GitHub Enterprise Server Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261008",
-        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "GitHub Enterprise Server"
+        "products": "Cisco Secure Email Gateway Remote Code Execution Vulnerability"
       },
       {
         "title": "IBM WebSphere Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261008",
-        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261015",
+        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
@@ -632,14 +608,34 @@
         "products": "IBM WebSphere Products"
       },
       {
-        "title": "Mozilla Firefox Security Restriction Bypass Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-security-restriction-bypass-vulnerability_20261008",
-        "pubDate": "Thu, 08 Oct 2026 11:00:00 +0800",
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
+        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Mozilla Firefox Security Restriction Bypass Vulnerability"
+        "products": "Mozilla Products"
+      },
+      {
+        "title": "Palo Alto Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015",
+        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Palo Alto Products"
+      },
+      {
+        "title": "Juniper Junos OS Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
+        "pubDate": "Thu, 15 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Juniper Junos OS"
       },
       {
         "title": "Apache HTTP Server Multiple Vulnerabilities",
@@ -660,16 +656,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "ONLYOFFICE Docs Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "Splunk Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261009",
-        "pubDate": "Fri, 09 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Splunk Products"
       }
     ]
   }
