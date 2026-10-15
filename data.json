@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-15T07:22:15.900878Z",
+  "ts": "2026-10-15T12:51:05.292373Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "iPhone Duo開放預購前夕當心假網站，部分網站可利用iOS已知漏洞攻擊",
+        "link": "https://www.ithome.com.tw/news/179731",
+        "pubDate": "2026-10-15 18:20",
+        "description": "資安公司趨勢科技發現多個搭上新款iPhone熱度的可疑網站，除了假預購頁面與廣告導流網站，部分網站還會辨識訪客使用的iOS版本，若系統存在已知漏洞，就可能進一步利用漏洞發動攻擊。使用者即使沒有輸入密碼或下載App，只要手機未即時更新，開啟惡意網站也可能面臨風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Next.js緊急修補兩項重大RCE漏洞，SVG影像處理與快取功能受影響",
+        "link": "https://www.ithome.com.tw/news/179723",
+        "pubDate": "2026-10-15 18:15",
+        "description": "Next.js修補兩項重大RCE漏洞，一項源自SVG影像處理函式庫librsvg的記憶體漏洞，另一項則是Next.js 16快取函式處理特定陣列資料的安全問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟10月修補RCE漏洞達315個再創新高，DHCP、DNS伺服器漏洞恐遭遠端利用須特別留意",
+        "link": "https://www.ithome.com.tw/news/179725",
+        "pubDate": "2026-10-15 17:54",
+        "description": "微軟10月例行安全更新不只修補漏洞總數創新高，遠端程式碼執行（RCE）漏洞達315個，CVSS評分達8.8分以上的漏洞也有262個，兩項數量均創近13個月新高。此外，微軟也特別介紹DHCP及DNS伺服器兩項CVSS評分高達9.8分的RCE漏洞，攻擊者無須通過身分驗證，也不需要使用者互動，就可能遠端執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客稱利用密碼123456登入丹麥人口統計局系統商的系統",
+        "link": "https://www.ithome.com.tw/news/179722",
+        "pubDate": "2026-10-15 15:46",
+        "description": "丹麥人口登記系統遭駭，約880萬人的個人資料遭竊，入侵手法竟可能與簡單密碼有關。自稱犯案的駭客向當地媒體透露，僅憑「123456」這組密碼，就成功登入具有系統存取權限的IT服務商帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月15日，Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
+        "link": "https://www.ithome.com.tw/news/179720",
+        "pubDate": "2026-10-15 15:15",
+        "description": "微軟提醒企業，Windows Update服務的部分憑證將於2027年5月及6月到期，即使裝置使用的Windows版本仍受支援，若未安裝包含替代憑證的必要安全更新，屆時也可能無法繼續透過Windows Update取得安全修補及其他更新",
+        "source": "iThome資安"
+      },
       {
         "title": "俄羅斯網路業者資料中心遭襲後，Cloudflare觀察相關惡意機器人活動未明顯減少",
         "link": "https://www.ithome.com.tw/news/179718",
@@ -73,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Vercel Sandbox遭揭VerCellBreak問題，AI代理恐繞過網域限制外洩資料",
-        "link": "https://www.ithome.com.tw/news/179669",
-        "pubDate": "2026-10-15 08:00",
-        "description": "AIR Security研究發現，Vercel提供的隔離式程式碼執行環境Vercel Sandbox存在安全問題。遭控制的AI代理可能利用特製TLS憑證，讓沙箱允許連線的外部伺服器代為傳送敏感資料，即使沙箱未直接連線至攻擊者控制的伺服器，仍可能造成資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CSA推AI資安成熟度模型，協助企業因應高速自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179571",
-        "pubDate": "2026-10-15 08:00",
-        "description": "雲端安全聯盟（CSA）發布Frontier Ready Assessment Framework資安成熟度評估框架，協助企業評估因應頂尖AI加速網路攻擊的防禦能力。框架涵蓋12類資安領域及5個成熟度等級，著重漏洞修補、AI代理權限控管及事件應變，並評估企業能否運用防禦AI與自動化機制提升應變速度，同時維持人工監督",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟啟動PQC TLS憑證試行，檢驗伺服器身分驗證相容性",
-        "link": "https://www.ithome.com.tw/news/179646",
-        "pubDate": "2026-10-15 08:00",
-        "description": "微軟推動PQC TLS憑證試行計畫，由7家憑證授權機構參與測試，Windows 11已可在指定條件下使用ML-DSA憑證進行伺服器身分驗證測試",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
-        "link": "https://www.ithome.com.tw/news/179666",
-        "pubDate": "2026-10-15 08:00",
-        "description": "微軟提醒企業，Windows Update服務的部分憑證將於2027年5月及6月到期，即使裝置使用的Windows版本仍受支援，若未安裝包含替代憑證的必要安全更新，屆時也可能無法繼續透過Windows Update取得安全修補及其他更新",
-        "source": "iThome資安"
-      },
-      {
         "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
         "link": "https://www.ithome.com.tw/news/179704",
         "pubDate": "2026-10-15  11:10:43",
@@ -108,11 +115,18 @@
         "source": "iThome"
       },
       {
-        "title": "Anthropic警告AI會自我複製，並藉IoT散布",
-        "link": "https://www.ithome.com.tw/news/179699",
-        "pubDate": "2026-10-14 20:25",
-        "description": "Anthropic研究發現，15臺低價Android機上盒已能共同執行大型AI模型，能力較強的AI也在模擬測試中，成功將模型複製到其他裝置並啟動",
-        "source": "iThome資安"
+        "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
+        "link": "https://www.ithome.com.tw/news/179721",
+        "pubDate": "2026-10-15  04:10:56",
+        "description": "AI運算需求快速成長，資料中心的選址邏輯也正在改變。過去資料中心多半靠近使用者端，以降低網路延遲與傳輸距離，但在AI時代，GPU叢集與大型AI資料中心（AIDC）的高密度用電需求，「電力從哪裡來」成為新考量。\n台電在這周舉行的「2026台灣國際智慧能源週」，以「積體電網」為主題參展，並提出「以光代電」策略，鼓勵AI資料中心靠近電源端設置，透過長距離光纖傳輸資料，取代長距離輸送大量電力的模式。\n值得注意的是，台電將AI時代的用電需求分為「製造AI」與「運行AI」兩類。其中「製造AI」方面，包括晶圓",
+        "source": "iThome"
+      },
+      {
+        "title": "Google Cloud、DeepMind將提供歐盟研究機構使用尖端模型",
+        "link": "https://www.ithome.com.tw/news/179719",
+        "pubDate": "2026-10-15  03:10:18",
+        "description": "Google Cloud及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖科學研究人員直接使用旗下先進AI模型，並提供總值300萬美元的運算點數，協助歐洲研究團隊加速科學研究。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -152,24 +166,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "【沒人負責就不准上線】專家建議員工自建 AI 工具「先指定負責人」，並在執行階段持續監控",
-        "link": "https://techorange.com/2026/10/14/govern-ai-and-low-code-tools/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 14 Oct 2026 10:32:45 +0800",
-        "description": "當員工能自行用 AI 打造工具，企業內部究竟有哪些系統在運作、由誰負責，就變得難以掌握。 AI、低程式碼（low-code）工具與自動化普及後，更多員工能自行開發應用程式與工作流程，實驗與解決問題的速度變快了，企業卻也累積出一層持續增加、難以追蹤、保護與維護的技術。 每個 AI 工具上線前，都要有人負責 事實上，這並不是企業第一次把建置權交給業務人員。開發代理人協作平台與治理工具的 OneReach.ai 在其發表的分析中指出，十年前的機器人流程自動化（RPA），也曾讓最了解流程的人自行打造自動",
+        "title": "AlphaGo 推手 David Silver 不走 LLM 路線，要讓 AI 在模擬「熔爐」裡從零自學",
+        "link": "https://techorange.com/2026/10/15/david-silver-ineffable-superlearner-without-llm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 17:56:27 +0800",
+        "description": "當多數 AI 實驗室都在大型語言模型（LLM）上加碼，曾主導 AlphaGo 的 David Silver 選了另一條路。他離開 Google DeepMind 後於倫敦創立 Ineffable Intelligence，今年 4 月宣布募得 11 億美元種子輪、估值 51 億美元。美國時間 10 月 13 日，Silver 與共同創辦人之一 Lasse Espeholt 在領投方之一 Sequoia Capital 的 Podcast 節目《Training Data》中，說明這家新創準備怎麼",
         "source": "TechOrange"
       },
       {
-        "title": "不再盲目投放：Kroger 研究發現，符合 AI 建議的廣告轉換率高出 3 倍",
-        "link": "https://techorange.com/2026/10/14/predictive-scoring-work-ai-kroger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 14 Oct 2026 09:56:17 +0800",
-        "description": "生成式 AI 與創作者經濟正在大幅降低廣告內容的製作門檻。當 Midjourney、ChatGPT 等工具讓品牌與創作者能快速產出更多素材，廣告資產數量也隨之快速膨脹。創意數據分析公司 Vidmob 創辦人暨執行董事長 Alex Collmer 形容，生成式 AI 與創作者媒體正在讓廣告素材數量增加 10 倍甚至 100 倍。 但素材變多，不代表業績會同步成長。對行銷團隊而言，真正棘手的問題逐漸變成如何在大量素材中判斷哪些內容值得投入媒體預算。過去常見的做法，是先製作廣告、投入媒體，再根據上線後",
+        "title": "「硬體是 AI 的牙齒」：Matter 募得 4.5 億美元，押注機器人與下一波硬科技",
+        "link": "https://techorange.com/2026/10/15/infinite-demand-robots-inside-matter-venture-partners-450-million-bet-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 17:00:36 +0800",
+        "description": "矽谷創投公司 Matter Venture Partners 上個月宣布完成第二期基金募資，規模達 4.5 億美元，較第一期基金的 3 億美元進一步擴大，將投資早期硬科技新創，涵蓋半導體、機器人、實體 AI、量子運算、先進製造與能源等領域。 AI 熱潮帶動硬體投資，今年深科技投資已達 900 億美元 《The New York Times》指出，2022 年 ChatGPT 問世後，多數創投業者紛紛搶進 AI 新創，希望搭上 OpenAI 的成功浪潮，但 Matter 共同創辦人 Wen Hsi",
         "source": "TechOrange"
       },
       {
-        "title": "模型可換、資料可控：微軟卞志祥談 AI 時代企業如何守住核心競爭力",
-        "link": "https://techorange.com/2026/10/13/microsoft-taiwan-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 13 Oct 2026 18:21:05 +0800",
-        "description": "訪談：戴季全撰稿：張哲瑋 隨著技術的突飛猛進，全球企業正加速邁入 AI Agent 時代，試圖將自動化普及至核心業務。然而當 AI Agent 獲得系統執行與存取權限時，矛盾隨之浮現：如何在提升營運效率的同時，精準把握權限與資料控管的邊界？企業組織與治理的轉型變革，是導入 AI 的企業決策者都必須面對的課題。 本集《全新一週》專訪台灣微軟總經理卞志祥，深入探討 AI 科技的最新趨勢與企業應用，分析在合乎安全與規範的框架下，AI 如何作為數位勞動力，來提升人類的工作生產力。節目中，他逐一拆解關於人",
+        "title": "鼎新數智 Agent Space 重新定義淨零永續工作新範式",
+        "link": "https://techorange.com/2026/10/15/datasys-agentspace/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 15 Oct 2026 14:59:22 +0800",
+        "description": "隨著全球供應鏈對碳排資訊的要求日益提高，企業面對的挑戰，已不只是交出產品碳足跡報告，更在於如何回應客戶減碳要求，同時兼顧產品成本與訂單獲利。鼎新數智發揮 ERP 企業營運數據優勢，以企業已在用的 ERP 為底，透過 Agent Space 跨職能 Agent 協作，串聯碳數據與 ERP 中的物料、採購、生產及訂單毛利資訊，協助企業辨識排放熱點、研擬減碳方案，並評估其對整體營運的影響，讓碳管理從資訊揭露進一步延伸至企業經營決策。 在 10 月 14 日至 16 日舉行的「2026 台灣國際淨零永續",
         "source": "TechOrange"
       },
       {
@@ -273,27 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-        "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-        "pubDate": "Wed, 14 Oct 2026 16:49:02 +0530",
-        "description": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said.\n\nIts researchers built the attack in six days by directing AI ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-        "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-        "pubDate": "Wed, 14 Oct 2026 16:38:22 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-        "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-        "pubDate": "Wed, 14 Oct 2026 16:30:00 +0530",
-        "description": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part.\n\nTL;DR\n\n\n  During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
         "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
         "pubDate": "Wed, 14 Oct 2026 15:41:43 -0400",
@@ -315,32 +308,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "AI-Found Linux Kernel Flaw Gives Local Users Root, and Can Break a Guest Out to the Host",
-        "link": "https://thehackernews.com/2026/10/ai-found-linux-kernel-flaw-gives-local.html",
-        "pubDate": "Wed, 14 Oct 2026 13:16:57 +0530",
-        "description": "A flaw in Linux's vhost subsystem lets a local user read and write kernel memory at will and become root across nearly a decade of kernel versions. In one virtualization setup, it lets an untrusted virtual machine write to the host's memory and hijac",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Four-Byte Write and Timing Bug Let Researchers Run Code in Windows SmartScreen Enclave",
-        "link": "https://thehackernews.com/2026/10/four-byte-write-and-timing-bug-let.html",
-        "pubDate": "Wed, 14 Oct 2026 11:22:28 +0530",
-        "description": "Security researchers ran their own code inside a protected part of Windows that is meant to stay sealed off even when the rest of the computer is taken over.\n\nThe protected area is a VBS enclave, an isolated slice of memory the operating system uses ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Microsoft fixes VPN issues caused by September Windows updates",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
         "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400",
         "description": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Patches Record 1,413 Flaws, Including Exploited Windows Shell Bug",
-        "link": "https://thehackernews.com/2026/10/microsoft-patches-record-1413-flaws.html",
-        "pubDate": "Wed, 14 Oct 2026 10:04:43 +0530",
-        "description": "Microsoft on Tuesday shattered its own Patch Tuesday record by shipping patches for a whopping 1,413 vulnerabilities, including one that it said has come under active exploitation.\n\nThese include 1,102 flaws in Windows, 134 in Office, 61 in Developer",
-        "source": "TheHackerNews"
       },
       {
         "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
@@ -362,6 +334,48 @@
         "pubDate": "Wed, 14 Oct 2026 08:58:07 -0400",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) urged security teams to immediately patch an Ivanti Connect Secure (ICS) flaw exploited in zero-day attacks since at least October 1st. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Hirudo Android malware replaces banking apps to evade security checks",
+        "link": "https://www.bleepingcomputer.com/news/security/hirudo-android-malware-replaces-banking-apps-to-evade-security-checks/",
+        "pubDate": "Wed, 14 Oct 2026 07:41:20 -0400",
+        "description": "A new Android malware called Hirudo steals bank account credentials by replacing legitimate banking apps with modified versions that disable security checks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
+        "pubDate": "Wed, 14 Oct 2026 06:48:09 -0400",
+        "description": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI engineer arrested for allegedly planting spy device in office",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
+        "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
+        "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
+        "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
+        "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
+        "description": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+        "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
+        "pubDate": "Thu, 15 Oct 2026 17:37:20 +0530",
+        "description": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attacker cannot reach the flaw through core alone, the ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
+        "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
+        "pubDate": "Thu, 15 Oct 2026 17:16:59 +0530",
+        "description": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. \n\nThe campaigns also",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -422,17 +436,17 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Ambrosia Energy will build a 10 GWh factory in Texas to make batteries for off-grid data centers",
-        "link": "https://techcrunch.com/2026/10/14/ambrosia-energy-will-build-a-10-gwh-factory-in-texas-to-make-batteries-for-off-grid-data-centers/",
-        "pubDate": "Wed, 14 Oct 2026 19:51:34 +0000",
-        "description": "Startup Ambrosia Energy will build a massive factory to crank out batteries to augment solar panels, creating a round-the-clock clean power plant.",
+        "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
+        "link": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/",
+        "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+        "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with",
         "source": "TechCrunch"
       },
       {
-        "title": "Hiyd is a health tracker that attaches to the watch you already wear",
-        "link": "https://techcrunch.com/2026/10/14/hiyd-is-a-health-tracker-that-attaches-to-the-watch-you-already-wear/",
-        "pubDate": "Wed, 14 Oct 2026 19:00:00 +0000",
-        "description": "Former Apple engineers figured out how to get a biometric sensor to attach to your watch without any magnets or adhesives.",
+        "title": "Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware",
+        "link": "https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/",
+        "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
+        "description": "The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.",
         "source": "TechCrunch"
       },
       {
@@ -471,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Ledger’s new hardware wallet is an Android phone without the phone",
+        "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
+        "pubDate": "2026-10-15T08:00:00-04:00",
+        "description": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
+        "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
+        "pubDate": "2026-10-15T08:00:00-04:00",
+        "description": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. Fir",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+        "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
+        "pubDate": "2026-10-15T07:00:00-04:00",
+        "description": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
+        "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
+        "pubDate": "2026-10-15T06:05:07-04:00",
+        "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided ",
+        "source": "TheVerge"
+      },
+      {
         "title": "McKinsey is making job applicants spar with a fake AI client",
         "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
         "pubDate": "2026-10-14T18:53:31-04:00",
         "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to refle",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The best feature of Apple’s HomeView might be its simplicity",
-        "link": "https://www.theverge.com/tech/1011431/apple-homeview-smart-display-best-feature",
-        "pubDate": "2026-10-14T18:00:02-04:00",
-        "description": "I'm just going to come right out and say it. I love the approach Apple has taken with the HomeView. I think it's the shared, always-available household interface that my family might finally use. Is Apple's first smart display my dream smart home das",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-        "pubDate": "2026-10-14T17:11:28-04:00",
-        "description": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, W",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft and Japan took down a cybercrime network behind over a billion scam messages",
-        "link": "https://www.theverge.com/tech/1011487/microsoft-scam-messages-marketplace-takedown",
-        "pubDate": "2026-10-14T16:03:43-04:00",
-        "description": "We've all gotten a scam text about a nonexistent parking ticket or a fake package delivery, but hopefully you'll start seeing fewer of them. Microsoft says it helped dismantle a marketplace for scammers sending phishing messages like those around the",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The AI race is back on",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-        "pubDate": "2026-10-14T15:06:03-04:00",
-        "description": "Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive i",
         "source": "TheVerge"
       }
     ],
