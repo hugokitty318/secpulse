@@ -1,9 +1,9 @@
 {
-  "ts": "2026-10-15T12:51:05.292373Z",
+  "ts": "2026-10-15T17:44:44.801037Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "iPhone Duo開放預購前夕當心假網站，部分網站可利用iOS已知漏洞攻擊",
+        "title": "iPhone Duo開放預購前夕當心假網站，部分惡意網站可利用iOS已知漏洞攻擊",
         "link": "https://www.ithome.com.tw/news/179731",
         "pubDate": "2026-10-15 18:20",
         "description": "資安公司趨勢科技發現多個搭上新款iPhone熱度的可疑網站，除了假預購頁面與廣告導流網站，部分網站還會辨識訪客使用的iOS版本，若系統存在已知漏洞，就可能進一步利用漏洞發動攻擊。使用者即使沒有輸入密碼或下載App，只要手機未即時更新，開啟惡意網站也可能面臨風險",
@@ -245,46 +245,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-        "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-        "pubDate": "Wed, 14 Oct 2026 22:39:15 +0530",
-        "description": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-        "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-        "pubDate": "Wed, 14 Oct 2026 22:04:31 +0530",
-        "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme.\n\nThe indictment charges a mix of U.S. c",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
         "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
         "pubDate": "Wed, 14 Oct 2026 18:56:47 -0400",
         "description": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-        "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-        "pubDate": "Wed, 14 Oct 2026 18:00:42 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an acti",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-        "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-        "pubDate": "Wed, 14 Oct 2026 17:43:36 +0530",
-        "description": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine.\n\nThe curl project fixed it on October 14 i",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-        "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-        "pubDate": "Wed, 14 Oct 2026 17:20:00 +0530",
-        "description": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake.\n\nThe call comes in at 4:40 on a Fr",
-        "source": "TheHackerNews"
       },
       {
         "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
@@ -343,28 +308,42 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft: Recent Windows updates may trigger Remote Desktop failures",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-recent-windows-updates-may-trigger-remote-desktop-failures/",
-        "pubDate": "Wed, 14 Oct 2026 06:48:09 -0400",
-        "description": "Microsoft has confirmed that non-admin users may be unable to connect to devices via Remote Desktop after installing recent Windows updates if the \"Administrator protection\" security feature is enabled. [...]",
-        "source": "BleepingComputer"
+        "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
+        "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
+        "pubDate": "Thu, 15 Oct 2026 21:31:57 +0530",
+        "description": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday.\n\nThe h",
+        "source": "TheHackerNews"
       },
       {
-        "title": "OpenAI engineer arrested for allegedly planting spy device in office",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-engineer-arrested-for-allegedly-planting-spy-device-in-office/",
-        "pubDate": "Tue, 13 Oct 2026 18:33:02 -0400",
-        "description": "A Saudi OpenAI engineer has been arrested for allegedly planting a hidden recording device in an executive conference room at the company's San Francisco offices to secretly record sensitive conversations. [...]",
-        "source": "BleepingComputer"
+        "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
+        "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
+        "pubDate": "Thu, 15 Oct 2026 21:30:26 +0530",
+        "description": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed from June 2025 through August 2026, involves four diff",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Ghostscript flaw lets hackers hijack servers via PDF uploads",
-        "link": "https://www.bleepingcomputer.com/news/security/ghostscript-flaw-lets-hackers-hijack-servers-via-pdf-uploads/",
-        "pubDate": "Tue, 13 Oct 2026 17:33:26 -0400",
-        "description": "A critical heap buffer overflow vulnerability (CVE-2026-39919) in the Ghostscript interpreter and rendering engine could allow remote code execution through specially crafted PDF files. [...]",
-        "source": "BleepingComputer"
+        "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
+        "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
+        "pubDate": "Thu, 15 Oct 2026 19:41:36 +0530",
+        "description": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.\n\nHelp TDS is assessed to be active since at le",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Drupal Patches Critical Core RCE Flaw with No-Login Path via Contributed Modules",
+        "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
+        "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
+        "pubDate": "Thu, 15 Oct 2026 18:28:05 +0530",
+        "description": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly le",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
+        "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
+        "pubDate": "Thu, 15 Oct 2026 17:58:13 +0530",
+        "description": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.\n\nOne code-execution flaw is in React Server Components, and",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Drupal Patches Critical Field UI Flaw With Unauthenticated RCE Path via Contributed Modules",
         "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
         "pubDate": "Thu, 15 Oct 2026 17:37:20 +0530",
         "description": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attacker cannot reach the flaw through core alone, the ",
@@ -375,6 +354,27 @@
         "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
         "pubDate": "Thu, 15 Oct 2026 17:16:59 +0530",
         "description": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. \n\nThe campaigns also",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
+        "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
+        "pubDate": "Thu, 15 Oct 2026 17:16:49 +0530",
+        "description": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the man",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Why AI Confidence Is Not Validation",
+        "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
+        "pubDate": "Thu, 15 Oct 2026 16:34:35 +0530",
+        "description": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
+        "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
+        "pubDate": "Thu, 15 Oct 2026 16:12:16 +0530",
+        "description": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from",
         "source": "TheHackerNews"
       }
     ],
@@ -394,45 +394,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Ambani’s Jio seeks to raise $3.2B in what could be India’s biggest IPO",
-        "link": "https://techcrunch.com/2026/10/14/ambanis-jio-seeks-to-raise-3-2b-in-what-could-be-indias-biggest-ipo/",
-        "pubDate": "Wed, 14 Oct 2026 21:48:20 +0000",
-        "description": "Jio plans to use most of its IPO proceeds to repay debt as it expands beyond telecom.",
+        "title": "Volvo makes a bigger bet on Nvidia",
+        "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
+        "pubDate": "Thu, 15 Oct 2026 17:34:40 +0000",
+        "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
         "source": "TechCrunch"
       },
       {
-        "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
-        "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
-        "pubDate": "Wed, 14 Oct 2026 21:30:33 +0000",
-        "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+        "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+        "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+        "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
+        "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
         "source": "TechCrunch"
       },
       {
-        "title": "Colossal Biosciences announces new AI platform to help accelerate de-extinction efforts",
-        "link": "https://techcrunch.com/2026/10/14/colossal-biosciences-announces-new-ai-platform-to-help-accelerate-de-extinction-efforts/",
-        "pubDate": "Wed, 14 Oct 2026 21:00:00 +0000",
-        "description": "Colossal announced a new AI platform to help accelerate its de-extinction efforts and Peter Diamandis has launched a new fund to back startups who use it.",
+        "title": "AI agents are coming to Rivian’s cars",
+        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+        "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
+        "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
         "source": "TechCrunch"
       },
       {
-        "title": "Flock CEO: We haven’t ‘fired’ any police departments as customers",
-        "link": "https://techcrunch.com/2026/10/14/flock-ceo-we-havent-fired-any-police-departments-as-customers/",
-        "pubDate": "Wed, 14 Oct 2026 20:26:25 +0000",
-        "description": "Flock CEO Garrett Langley said that the surveillance company has not canceled contracts of any police department or law enforcement agency, despite reports of abuse.",
+        "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
+        "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
+        "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
+        "description": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
         "source": "TechCrunch"
       },
       {
-        "title": "Electric vehicle sales in the US are showing signs of life",
-        "link": "https://techcrunch.com/2026/10/14/electric-vehicle-sales-in-the-u-s-are-showing-signs-of-life/",
-        "pubDate": "Wed, 14 Oct 2026 20:12:07 +0000",
-        "description": "The electric vehicle market in the U.S. has been growing for the last three consecutive quarters.",
+        "title": "Google’s Universal Cart shopping tool launches in the US",
+        "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+        "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
+        "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
         "source": "TechCrunch"
       },
       {
-        "title": "TimeTeller puts our internal clocks at the center of personalized medicine",
-        "link": "https://techcrunch.com/2026/10/14/timeteller-puts-our-internal-clocks-at-the-center-of-personalized-medicine/",
-        "pubDate": "Wed, 14 Oct 2026 20:00:00 +0000",
-        "description": "German startup TimeTeller has developed a saliva test kit to help anyone understand their circadian rhythm; it aims to reduce side effects from cancer treatments.",
+        "title": "TechCrunch Disrupt 2026: Last day",
+        "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
+        "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
+        "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
         "source": "TechCrunch"
       },
       {
@@ -481,42 +481,42 @@
         "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
         "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
         "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
-        "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controv",
+        "description": "Gudea, a company that tracks how stories and rumors spread online that describes itself as the “storm tracker for the internet,” is using AI to help organizations spot trouble brewing online before it turns into a crisis.",
         "source": "TechCrunch"
       },
       {
-        "title": "Ledger’s new hardware wallet is an Android phone without the phone",
-        "link": "https://www.theverge.com/tech/1011133/ledger-atom-hardware-wallet-crypto-security-android",
-        "pubDate": "2026-10-15T08:00:00-04:00",
-        "description": "Ledger has announced its latest crypto-centric hardware effort, the Android-based Atom, a device that resembles a phone but is instead designed to be used alongside one. It arrives at a tricky time for Ledger, which has been forced to cease sales of ",
+        "title": "Volvo will use Nvidia’s tech for hands-free, point-to-point driving",
+        "link": "https://www.theverge.com/transportation/1011653/volvo-nvidia-autonomous-driving-level-2-hands-free-urban",
+        "pubDate": "2026-10-15T13:30:00-04:00",
+        "description": "Volvo plans to launch hands-free, point-to-point driving by 2030, powered by Nvidia's latest AI technology. The Chinese-owned, Swedish-designed automaker said Thursday it would use Nvidia's autonomous driving stack to power a new partially automated ",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon’s always-listening Bee wearable can now help you buy stuff",
-        "link": "https://www.theverge.com/tech/1011475/amazon-bee-frontier-eclipse-price-specs",
-        "pubDate": "2026-10-15T08:00:00-04:00",
-        "description": "Last year, Amazon bought Bee, a relatively unknown startup with a $50 always-listening AI wearable that summarized every conversation you had. Today, the e-commerce giant is announcing two new Bee devices - and a new subscription to go with them. Fir",
+        "title": "Alienware’s latest 34-inch QD-OLED gaming monitor is $50 off",
+        "link": "https://www.theverge.com/gadgets/1012134/alienware-34-ultrawide-qd-oled-belkin-screen-skinz-deal-sale",
+        "pubDate": "2026-10-15T13:30:00-04:00",
+        "description": "The Alienware AW3426DW is discounted to $742.22 at Amazon, just over $50 off its usual price of $799.99. It’s not quite the lowest price we’ve seen on this well-equipped gaming monitor, but still a decent discount. The 34-inch screen just came out a ",
         "source": "TheVerge"
       },
       {
-        "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-        "link": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-        "pubDate": "2026-10-15T07:00:00-04:00",
-        "description": "There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally",
+        "title": "Google is making inline links more prominent in AI responses",
+        "link": "https://www.theverge.com/tech/1012206/google-ai-mode-overview-inline-links",
+        "pubDate": "2026-10-15T13:22:15-04:00",
+        "description": "Google is updating its AI search results to make inline links appear \"higher up in responses more frequently,\" according to a blog post. The company's search results from AI Overviews and AI Mode give you answers in a customized view instead of the t",
         "source": "TheVerge"
       },
       {
-        "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-        "link": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-        "pubDate": "2026-10-15T06:05:07-04:00",
-        "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided ",
+        "title": "Sony’s WH-1000XM6 headphones are $130 off today only",
+        "link": "https://www.theverge.com/gadgets/1012173/sony-wh-1000xm6-headphones-deal-sale",
+        "pubDate": "2026-10-15T13:10:58-04:00",
+        "description": "If you missed out on Prime Day’s headphones deals, you’re in luck. Sony’s latest flagship headphones are selling for even less than they did during Amazon’s big fall sale. As part of B&H Photo’s Deals of the Day, you can currently pick up Sony’s WH-1",
         "source": "TheVerge"
       },
       {
-        "title": "McKinsey is making job applicants spar with a fake AI client",
-        "link": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
-        "pubDate": "2026-10-14T18:53:31-04:00",
-        "description": "Consulting firm McKinsey & Company is going to ask some entry-level candidates to have a 10-minute conversation with an AI simulation of a client as part of the interview process, according to The Wall Street Journal. The AI simulation \"aims to refle",
+        "title": "Friends don&#8217;t let friends feed their data to AI agents",
+        "link": "https://www.theverge.com/tech/1011938/muse-ai-data-friends-consent",
+        "pubDate": "2026-10-15T12:21:45-04:00",
+        "description": "There's a growing trend in the consumer tech world: gadgets designed to spy on everything and everyone around you, regardless of whether or not anyone else actually consented to it. Now, with the advent of \"AI personal assistants\" like Meta's Muse, y",
         "source": "TheVerge"
       }
     ],
