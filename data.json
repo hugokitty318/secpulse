@@ -1,7 +1,35 @@
 {
-  "ts": "2026-10-14T23:26:47.560157Z",
+  "ts": "2026-10-15T01:49:19.719401Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "微軟啟動PQC TLS憑證試行，檢驗伺服器身分驗證相容性",
+        "link": "https://www.ithome.com.tw/news/179646",
+        "pubDate": "2026-10-15 08:00",
+        "description": "微軟推動PQC TLS憑證試行計畫，由7家憑證授權機構參與測試，Windows 11已可在指定條件下使用ML-DSA憑證進行伺服器身分驗證測試",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Vercel Sandbox遭揭VerCellBreak問題，AI代理恐繞過網域限制外洩資料",
+        "link": "https://www.ithome.com.tw/news/179669",
+        "pubDate": "2026-10-15 08:00",
+        "description": "AIR Security研究發現，Vercel提供的隔離式程式碼執行環境Vercel Sandbox存在安全問題。遭控制的AI代理可能利用特製TLS憑證，讓沙箱允許連線的外部伺服器代為傳送敏感資料，即使沙箱未直接連線至攻擊者控制的伺服器，仍可能造成資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA推AI資安成熟度模型，協助企業因應高速自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/179571",
+        "pubDate": "2026-10-15 08:00",
+        "description": "雲端安全聯盟（CSA）發布Frontier Ready Assessment Framework資安成熟度評估框架，協助企業評估因應頂尖AI加速網路攻擊的防禦能力。框架涵蓋12類資安領域及5個成熟度等級，著重漏洞修補、AI代理權限控管及事件應變，並評估企業能否運用防禦AI與自動化機制提升應變速度，同時維持人工監督",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
+        "link": "https://www.ithome.com.tw/news/179666",
+        "pubDate": "2026-10-15 08:00",
+        "description": "微軟提醒企業，Windows Update服務的部分憑證將於2027年5月及6月到期，即使裝置使用的Windows版本仍受支援，若未安裝包含替代憑證的必要安全更新，屆時也可能無法繼續透過Windows Update取得安全修補及其他更新",
+        "source": "iThome資安"
+      },
       {
         "title": "Anthropic警告AI會自我複製，並藉IoT散布",
         "link": "https://www.ithome.com.tw/news/179699",
@@ -80,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Ivanti發布10月例行更新，修補已遭利用的SSL VPN漏洞",
-        "link": "https://www.ithome.com.tw/news/179674",
-        "pubDate": "2026-10-14 12:38",
-        "description": "本週資安廠商Ivanti發布10月例行更新，其中最受到關注的部分，是已被用於實際攻擊的Ivanti Connect Secure（ICS）資安漏洞CVE-2026-104935",
-        "source": "iThome資安"
-      },
-      {
-        "title": "荷蘭連鎖超市Albert Heijn遭遇資安事件，網站、App及電子貨架標籤受影響",
-        "link": "https://www.ithome.com.tw/news/179671",
-        "pubDate": "2026-10-14 12:35",
-        "description": "荷蘭零售集團Ahold Delhaize旗下連鎖超市Albert Heijn受到資安事件影響，網站、App及客服服務暫時無法使用，部分物流系統也暫時關閉，部分門市的電子貨架標籤一度無法即時更新價格。這起事件也波及同集團的藥妝連鎖品牌Etos及酒類零售品牌Gall & Gall。目前業者正逐步恢復系統，事件原因及入侵途徑仍待釐清",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Rust型別檢查漏洞藏近11年，違反記憶體安全限制的程式仍可通過編譯",
-        "link": "https://www.ithome.com.tw/news/179665",
-        "pubDate": "2026-10-14 12:22",
-        "description": "Rust編譯器漏洞讓測試程式讀取到遭其他資料覆寫的記憶體，檢測工具也證實發生失效記憶體存取，同類問題可追溯至2015年的Rust 1.4版，開發團隊已列為高優先級，修補提案仍在審查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI工程師涉嫌安裝竊聽裝置遭FBI逮捕",
-        "link": "https://www.ithome.com.tw/news/179670",
-        "pubDate": "2026-10-14 12:17",
-        "description": "OpenAI一名沙烏地阿拉伯籍前工程師，涉嫌在舊金山辦公室的高階主管會議室安裝秘密錄音裝置，遭FBI逮捕",
-        "source": "iThome資安"
-      },
-      {
         "title": "Character.AI聲請破產保護，迪士尼出價2,000萬美元收購部分資產",
         "link": "https://www.ithome.com.tw/news/179689",
         "pubDate": "2026-10-14  04:10:57",
@@ -126,20 +126,6 @@
         "link": "https://www.ithome.com.tw/news/179683",
         "pubDate": "2026-10-14  03:10:20",
         "description": "英特爾在OCP2026全球大會上發表其代理式AI基礎架構最新進展，包括Intel GPU D系列（代號Crescent Island）技術細節，還展示搭載Xeon處理器的新一代機櫃設計，以及支援異質運算的開放式軟體與硬體標準，瞄準支援代理AI的新一代企業資料中心架構。\n相較於生成式AI以大型語言模型推論為主，該公司認為，代理式AI的工作流程更加複雜，不僅包含模型推論，還涉及資訊檢索、推理、工具呼叫、工作流程協調與任務執行等多個步驟，為此，資料中心不再只是追求GPU算力，而需要CPU、GPU與專用",
-        "source": "iThome"
-      },
-      {
-        "title": "蘋果推出首款智慧家庭顯示器HomeView，整合Siri AI與臉部辨識",
-        "link": "https://www.ithome.com.tw/news/179679",
-        "pubDate": "2026-10-14  02:10:52",
-        "description": "蘋果周二（10/13）發表首款智慧家庭顯示器Apple HomeView，配備7吋Liquid Retina觸控螢幕，整合新一代Siri AI、臉部辨識及智慧家庭控制功能，同時推出第二代HomePod mini與第四代Apple TV 4K，全面更新自家智慧家庭硬體陣容。HomeView提供桌上型與壁掛式兩種版本，售價皆為299美元，11月13日起在美國等市場上市，臺灣上市時間未定。",
-        "source": "iThome"
-      },
-      {
-        "title": "Mozilla推Firefox企業瀏覽器，支援自架主控臺管控AI使用與資料傳輸",
-        "link": "https://www.ithome.com.tw/news/179676",
-        "pubDate": "2026-10-14  01:10:42",
-        "description": "Mozilla推出企業瀏覽器Firefox Enterprise，搭配可由企業自行部署的管理主控臺，讓IT人員集中管理瀏覽器政策、員工存取權限，以及資料傳輸和AI工具的使用。該產品鎖定資安、管理及法規遵循要求較高的組織。",
         "source": "iThome"
       }
     ],
@@ -471,31 +457,31 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apate sends AI agents undercover to get scammed so they can gather fraud intelligence",
-        "link": "https://techcrunch.com/2026/10/14/apate-sends-ai-agents-undercover-to-get-scammed-so-they-can-gather-fraud-intelligence/",
-        "pubDate": "Wed, 14 Oct 2026 18:00:00 +0000",
-        "description": "Most companies use AI agents to ship products faster or speed up workflows. Apate.ai sends them undercover to get scammed.",
+        "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+        "link": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+        "pubDate": "Thu, 15 Oct 2026 01:01:32 +0000",
+        "description": "The founders detailed how their startup is developing AI that can design chips, learn from each iteration, and improve subsequent designs, all with the goal of automating and accelerating the chip design process.",
         "source": "TechCrunch"
       },
       {
-        "title": "Mosqitter is turning its mosquito traps into an AI-powered surveillance network",
-        "link": "https://techcrunch.com/2026/10/14/mosqitter-is-turning-its-mosquito-traps-into-an-ai-powered-surveillance-network/",
-        "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
-        "description": "Mosqitter is turning its mosquito-trapping hardware into an AI-powered surveillance network designed to identify species, monitor populations, and provide earlier warnings of mosquito-borne disease risks.",
+        "title": "Flock CEO defends surveillance technology amid national backlash: ‘We shouldn’t pause progress’",
+        "link": "https://techcrunch.com/2026/10/14/flock-ceo-defends-surveillance-technology-amid-national-backlash-we-shouldnt-pause-progress/",
+        "pubDate": "Thu, 15 Oct 2026 00:49:31 +0000",
+        "description": "At TechCrunch Disrupt, Flock CEO Garrett Langley defended his company's surveillance technology despite growing privacy concerns, arguing that its crime-fighting benefits outweigh the risks of abuse.",
         "source": "TechCrunch"
       },
       {
-        "title": "Prismm helps banks keep inherited money in-house",
-        "link": "https://techcrunch.com/2026/10/14/prismm-helps-banks-keep-inherited-money-in-house/",
-        "pubDate": "Wed, 14 Oct 2026 16:00:00 +0000",
-        "description": "With Prismm, account holders can give designated family members access to their accounts and documents ahead of time.",
+        "title": "Meet the five companies competing in the Startup Battlefield finals at Disrupt 2026",
+        "link": "https://techcrunch.com/2026/10/14/meet-the-five-companies-competing-in-the-startup-battlefield-finals-at-disrupt-2026/",
+        "pubDate": "Thu, 15 Oct 2026 00:30:00 +0000",
+        "description": "It’s time to unveil the five companies that will be competing in the Startup Battlefield finals.",
         "source": "TechCrunch"
       },
       {
-        "title": "Deezer will soon let you filter out AI-generated music",
-        "link": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
-        "pubDate": "Wed, 14 Oct 2026 15:16:04 +0000",
-        "description": "Deezer said that the new toggle will be rolled out by the end of the year.",
+        "title": "Gudea leverages AI to help organizations prevent social media crises before they erupt",
+        "link": "https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/",
+        "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000",
+        "description": "Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controv",
         "source": "TechCrunch"
       },
       {
