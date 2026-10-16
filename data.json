@@ -1,12 +1,26 @@
 {
-  "ts": "2026-10-16T09:16:46.462640Z",
+  "ts": "2026-10-16T14:13:59.603299Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "【資安週報】1012～1016，美國查封中國永信至誠的網路攻擊基礎設施，7國網路安全與執法機構亦針對其攻擊活動聯合示警",
+        "link": "https://www.ithome.com.tw/news/179748",
+        "pubDate": "2026-10-16 17:48",
+        "description": "國慶連假過後，本週資安焦點聚集於美國查封中國資安公司永信至誠科技的攻擊網域，揭露臺灣大學受害案例，7國資安與執法機構也聯合示警。法國超市冷藏系統遭駭、荷蘭零售服務中斷，Ledger硬體錢包更驚傳遭植入晶片；臺灣、日本及韓國企業資安事件頻傳，也持續引發關注",
+        "source": "iThome資安"
+      },
       {
         "title": "以色列廣告業者利用定向廣告發動零點擊攻擊，半島電視臺裝置遭間諜軟體入侵",
         "link": "https://www.ithome.com.tw/news/179747",
         "pubDate": "2026-10-16 16:49",
         "description": "以色列廣告業者Discover-Tech透過廣告識別碼鎖定裝置，僅對指定目標提供後續程式碼，藉此避開廣告掃描，半島電視臺已有裝置感染Candiru間諜軟體，Google也終止該公司的廣告交易權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月16日，Docker修補Docker Hub重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179746",
+        "pubDate": "2026-10-16 15:43",
+        "description": "本週Docker透露，他們修補Docker Hub重大等級的漏洞CVE-2026-105445，此弱點與身分驗證與存取管理機制有關，通報漏洞的研究人員將其命名為GhostPat",
         "source": "iThome資安"
       },
       {
@@ -101,6 +115,13 @@
         "source": "iThome"
       },
       {
+        "title": "Ubuntu 26.10全面改用Rust版核心工具，軟體更新驗證與企業登入也獲強化",
+        "link": "https://www.ithome.com.tw/news/179750",
+        "pubDate": "2026-10-16  06:10:16",
+        "description": "Canonical發布Linux作業系統Ubuntu 26.10，代號Stonking Stingray。新版完成Rust核心工具coreutils遷移，改用Sequoia PGP驗證軟體更新來源，並強化網路加密及Microsoft Entra ID企業帳號登入功能。Ubuntu 26.10並非長期支援版，提供9個月維護更新，支援期限至2027年7月。",
+        "source": "iThome"
+      },
+      {
         "title": "微軟MSVC 14.52開放C++23正式模式，編譯階段數學函式仍須手動啟用",
         "link": "https://www.ithome.com.tw/news/179743",
         "pubDate": "2026-10-16  02:10:11",
@@ -112,20 +133,6 @@
         "link": "https://www.ithome.com.tw/news/179731",
         "pubDate": "2026-10-15 18:20",
         "description": "資安公司趨勢科技發現多個搭上新款iPhone熱度的可疑網站，除了假預購頁面與廣告導流網站，部分網站還會辨識訪客使用的iOS版本，若系統存在已知漏洞，就可能進一步利用漏洞發動攻擊。使用者即使沒有輸入密碼或下載App，只要手機未即時更新，開啟惡意網站也可能面臨風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Next.js緊急修補兩項重大RCE漏洞，SVG影像處理與快取功能受影響",
-        "link": "https://www.ithome.com.tw/news/179723",
-        "pubDate": "2026-10-15 18:15",
-        "description": "Next.js修補兩項重大RCE漏洞，一項源自SVG影像處理函式庫librsvg的記憶體漏洞，另一項則是Next.js 16快取函式處理特定陣列資料的安全問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟10月修補RCE漏洞達315個再創新高，DHCP、DNS伺服器漏洞恐遭遠端利用須特別留意",
-        "link": "https://www.ithome.com.tw/news/179725",
-        "pubDate": "2026-10-15 17:54",
-        "description": "微軟10月例行安全更新不只修補漏洞總數創新高，遠端程式碼執行（RCE）漏洞達315個，CVSS評分達8.8分以上的漏洞也有262個，兩項數量均創近13個月新高。此外，微軟也特別介紹DHCP及DNS伺服器兩項CVSS評分高達9.8分的RCE漏洞，攻擊者無須通過身分驗證，也不需要使用者互動，就可能遠端執行程式碼",
         "source": "iThome資安"
       }
     ],
@@ -173,24 +180,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "AI 需求延伸至 2030 年：客戶搶先洽談訂單，ASML 坦言擴產 30% 恐仍不夠",
-        "link": "https://techorange.com/2026/10/15/asml-ai-chip-demand-stretching-2030-expects-supply-shortages/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 11:39:48 +0800",
-        "description": "荷蘭半導體設備製造商 ASML 表示，隨著 AI 相關投資持續推升晶片製造需求，部分客戶已開始洽談 2029 年與 2030 年的先進製程設備訂單。即使公司已計畫在 2027 年將部分設備產能提高 30%，預期 2027 年與 2028 年的供應量仍不足以滿足客戶需求，因此正評估進一步提高 2028 年的產能。 ASML 週三公布第三季財報，單季淨銷售額創下 116.6 億歐元的紀錄，淨利則從第二季的 29.2 億歐元增至 49.6 億歐元。公司也將全年銷售額預測從 430 億至 450 億歐元",
+        "title": "「AI Agent 也需要自己的身分證。」從持續驗證到責任歸屬，來毅數位攜手合作夥伴拆解信任治理關鍵",
+        "link": "https://techorange.com/2026/10/16/keypasco-ai-agent-summit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 18:12:34 +0800",
+        "description": "這個 Agent 是誰？能夠存取哪些資料、使用哪些系統？當它做出錯誤決策或執行越權行動時，企業能不能追蹤、稽核，並釐清責任？ 面對 AI Agent 帶來的新型態資安風險與治理挑戰，Keypasco 來毅數位與 TechOrange 科技報橘共同主辦「2026 AI 信任治理論壇」，以「突破試點斷層，讓AI真正進入營運：從Agent身分、設備信任到持續驗證」為題，深入剖析 AI 跨越 POC 進入核心營運的關鍵路徑。 來毅數位科技董事長林政毅在致詞中指出：「AI Agent 也需要自己的身分證，",
         "source": "TechOrange"
       },
       {
-        "title": "【監控的 AI 也會被騙】專家警告惡意代理人可能騙過監控者，建議另加不靠 AI 的日誌與網路分析",
-        "link": "https://techorange.com/2026/10/15/rogue-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 10:07:26 +0800",
-        "description": "企業把越來越多、越來越複雜的任務交給 AI 代理人（AI Agent），監督也隨之成為難題。代理人行動更快、運作時間更長、數量也更多，人類根本來不及審查。 今年 7 月的 Hugging Face 事件，把這個問題推到極致。OpenAI 一款尚未發布的前沿 AI 代理人，在進行極限網路安全評測時，自行突破隔離沙盒，入侵開源 AI 平台 Hugging Face。當時有將近 12,000 個代理人彼此協調行動，速度遠超過人類能追蹤的程度。 代理人規模太大，連調查都得靠 AI 非營利 AI 安全與對",
+        "title": "AI 揪出的漏洞誰來補？美國銀行加派 1,000 名承包商，少見公開修補人力規模",
+        "link": "https://techorange.com/2026/10/16/bank-of-america-contractors-patch-mythos-flaws/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 17:47:12 +0800",
+        "description": "美國銀行（Bank of America）執行長 Brian Moynihan，美國時間 10/14 公布第三季財報後接受《CNBC》專訪時透露，為了修補 Anthropic 的 Mythos 等先進 AI 模型揭露的軟體漏洞，銀行第二季加派了 1,000 名外部承包商，與原有的 3,000 名內部員工一起作業。《CNBC》指出，這是美國大型企業最早具體說明為防範 Mythos 投入多少人力與資金的案例之一。 AI 找出漏洞的速度愈來愈快，但找到之後，修補、測試與部署仍需要大量人力與流程配合。當",
         "source": "TechOrange"
       },
       {
-        "title": "GitHub 爆紅的 REA 真能逆向任何軟體？從 51 件實作看 AI Agent 的能力與限制",
-        "link": "https://techorange.com/2026/10/15/rea-ai-agent-reverse-engineer-github/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 06:33:00 +0800",
-        "description": "AI Coding Agent 不只能協助開發者寫程式，現在也開始挑戰沒有原始碼的軟體，甚至嘗試重新實作其中的功能。開源專案 REA（Reverse Engineer Anything）近期在 GitHub 爆紅，截至 10 月 14 日已累積約 22.6 萬顆 Stars。它讓 Claude Code、Codex、Cursor 等 AI Coding Agent 能操作專業逆向工程工具，分析已編譯的執行檔、封閉式應用程式及部分韌體映像。 REA 官方更展示了 AI Agent 協助重建遊戲函式",
+        "title": "科技巨頭想當礦商股東？英美資源證實洽談入股，尋求保障 AI 資料中心金屬供應",
+        "link": "https://techorange.com/2026/10/16/tech-firms-metals-supply-anglo-wanblad/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 17:24:45 +0800",
+        "description": "隨著 AI 資料中心建設持續推進，科技企業正積極尋找確保關鍵金屬供應的方式。倫敦上市礦業集團英美資源（Anglo American）執行長 Duncan Wanblad 透露，公司已與有意入股的科技企業展開討論。 確保金屬供應，科技企業評估長期承購與直接入股 Wanblad 於 10 月 15 日在《金融時報》舉辦的金屬與礦業峰會上表示，相關討論「確實正在進行」。他指出，這些企業的考量是：「我們能否直接取得長期承購（offtake），或是能否取得股權，以在未來的供應中占有一席之地。」長期承購是指",
         "source": "TechOrange"
       },
       {
@@ -242,20 +249,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
         "pubDate": "Wed, 14 Oct 2026 18:56:47 -0400",
         "description": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-        "pubDate": "Wed, 14 Oct 2026 15:41:43 -0400",
-        "description": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-        "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-        "pubDate": "Wed, 14 Oct 2026 13:46:50 -0400",
-        "description": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -329,13 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "India Mandates Registered Caller Name Display on 4G and Newer Networks From November 1",
-        "link": "https://thehackernews.com/2026/10/india-mandates-registered-caller-name.html",
-        "pubDate": "Thu, 15 Oct 2026 16:12:16 +0530",
-        "description": "The Indian government has directed telecom service providers (TSPs) in the country to mandatorily display callers' registered names along with their numbers for incoming calls starting November 1, 2026, in an effort to help people identify calls from",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Android gets AI defenses against messaging scams, fake calls",
         "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
         "pubDate": "Thu, 15 Oct 2026 15:48:43 -0400",
@@ -376,6 +362,27 @@
         "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
         "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
+        "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
+        "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
+        "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
+        "pubDate": "Thu, 15 Oct 2026 04:06:47 -0400",
+        "description": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+        "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+        "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530",
+        "description": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API a",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -457,17 +464,17 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AI agents are coming to Rivian’s cars",
-        "link": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
-        "pubDate": "Thu, 15 Oct 2026 15:02:36 +0000",
-        "description": "We'll likely learn more about how this will work at the company's upcoming \"AI & Autonomy Day\" event in December.",
+        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+        "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
+        "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
+        "description": "Counterfeits of luxury goods are a major problem for fashion houses. Counterfeiters are getting better at replicating brands’ marks and passing off dupes, known as “superfakes,” as genuine items. A startup called Veritas wants to tackle the problem w",
         "source": "TechCrunch"
       },
       {
-        "title": "Ramp reaches $60B valuation as it pushes deeper into AI",
-        "link": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/",
-        "pubDate": "Thu, 15 Oct 2026 14:47:09 +0000",
-        "description": "The funding comes as Ramp's annualized revenue crosses $2B, and its customer count reaches 85,000.",
+        "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
+        "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
+        "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
+        "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
         "source": "TechCrunch"
       },
       {
@@ -485,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
-        "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
-        "pubDate": "2026-10-15T21:28:27-04:00",
-        "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a sec",
+        "title": "Meta’s new terms may allow it to train AI on news sites for free",
+        "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
+        "pubDate": "2026-10-16T10:02:40-04:00",
+        "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30",
         "source": "TheVerge"
       },
       {
-        "title": "Steam can now show game achievements in separate ‘sets’",
-        "link": "https://www.theverge.com/games/1012541/valve-steam-achievement-sets",
-        "pubDate": "2026-10-15T19:18:28-04:00",
-        "description": "Valve is introducing a major new feature for Steam achievements called \"achievement sets\" that lets developers list different groups of achievements for a base game and DLCs. \"In games that support sets, you still unlock achievements by playing the g",
+        "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
+        "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
+        "pubDate": "2026-10-16T09:33:21-04:00",
+        "description": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pai",
         "source": "TheVerge"
       },
       {
-        "title": "ChatGPT can peek at your Chrome tabs now",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
-        "pubDate": "2026-10-15T18:43:23-04:00",
-        "description": "OpenAI's ChatGPT Atlas browser is gone, but now ChatGPT's Google Chrome extension is getting some upgrades that allow it to use the browser tabs you already have open. With the extension installed, OpenAI says ChatGPT can now view your browser tabs w",
+        "title": "iPhone Duo orders are already delayed into 2027",
+        "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
+        "pubDate": "2026-10-16T09:10:11-04:00",
+        "description": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. Th",
         "source": "TheVerge"
       },
       {
-        "title": "Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch",
-        "link": "https://www.theverge.com/games/1012512/sega-total-war-shogun-2-remaster-pulled",
-        "pubDate": "2026-10-15T18:35:55-04:00",
-        "description": "Sega is removing Total War: Shogun 2 - Complete Edition from storefronts following a disastrous launch where users complained about issues like bugs and upscaling that appears to have been done by AI. Complete Edition, a remaster of the 2011 strategy",
+        "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
+        "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
+        "pubDate": "2026-10-16T08:36:11-04:00",
+        "description": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a not",
         "source": "TheVerge"
       },
       {
-        "title": "The tech backlash is now in theaters",
-        "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
-        "pubDate": "2026-10-15T17:39:52-04:00",
-        "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg",
+        "title": "The first vibe-coded gun is here",
+        "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
+        "pubDate": "2026-10-16T08:30:00-04:00",
+        "description": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called ",
         "source": "TheVerge"
       }
     ],
