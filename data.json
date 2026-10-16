@@ -1,7 +1,84 @@
 {
-  "ts": "2026-10-15T23:50:17.336116Z",
+  "ts": "2026-10-16T04:24:36.657196Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179739",
+        "pubDate": "2026-10-16 11:33",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，Atlassian上週揭露及修補的重大漏洞CVE-2026-21589遭到積極利用，聯邦機構需在3天內緊急完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 155更新，修補重大等級的記憶體釋放後再存取使用漏洞",
+        "link": "https://www.ithome.com.tw/news/179737",
+        "pubDate": "2026-10-16 11:11",
+        "description": "本週Google二度發布Chrome 155安全性更新，修補10個漏洞，其中最危險的部分，是評為重大等級的記憶體釋放後再存取使用漏洞CVE-2026-110922",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國法律援助署資料外洩，最早可追溯到50年前",
+        "link": "https://www.ithome.com.tw/news/179736",
+        "pubDate": "2026-10-16 10:48",
+        "description": "英國法律援助署去年遭網路攻擊，大量個人資料外洩，最新調查發現，遭竊資料最早可追溯至1978年",
+        "source": "iThome資安"
+      },
+      {
+        "title": "服飾業者H&amp;M、TFG London傳資料外洩",
+        "link": "https://www.ithome.com.tw/news/179735",
+        "pubDate": "2026-10-16 10:40",
+        "description": "H&M遭駭客宣稱取得內部資料，疑似涉及第三方倉儲系統。TFG London則證實遭網路攻擊，旗下3個服飾品牌的IT系統受到影響，造成線上服務中斷、訂單交付可能延遲",
+        "source": "iThome資安"
+      },
+      {
+        "title": "curl修補HTTP/2高風險漏洞，可導致遠端程式碼執行",
+        "link": "https://www.ithome.com.tw/news/179711",
+        "pubDate": "2026-10-16 08:00",
+        "description": "開源網路資料傳輸工具curl修補HTTP/2高風險漏洞CVE-2026-92392。攻擊者若控制接收上傳資料的伺服器，在特定條件下可能遠端執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS示範整合雲端服務，將ML-DSA抗量子簽章導入軟體供應鏈",
+        "link": "https://www.ithome.com.tw/news/179700",
+        "pubDate": "2026-10-16 08:00",
+        "description": "AWS說明如何整合AWS KMS、AWS Private CA及IAM Roles Anywhere等雲端服務，將ML-DSA抗量子數位簽章導入軟體供應鏈，涵蓋軟體成品與SBOM簽章、外部建置代理程式身分驗證，以及容器部署前的簽章檢查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲通訊局新版資安框架重視各領域防護成效，取代單一成熟度評級",
+        "link": "https://www.ithome.com.tw/news/179715",
+        "pubDate": "2026-10-16 08:00",
+        "description": "澳洲通訊局（ASD）推出新版資安框架ASD Essentials，不再以單一成熟度等級呈現組織整體資安狀態，改為分別評估各安全領域的防護成效，並提供AI安全與高階主管資安治理指引",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國擴大AI資安防禦，已在政府系統發現1,352項漏洞",
+        "link": "https://www.ithome.com.tw/news/179687",
+        "pubDate": "2026-10-16 08:00",
+        "description": "英國擴大運用AI強化資安防禦，先前試行計畫已在18個政府部門的548個程式碼儲存庫中，找出並處理1,352項漏洞。除了持續處理高風險系統的安全弱點，英國也開始研擬AI代理重大事故的應變措施",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐洲網路安全組織提太空資安六大重點，涵蓋PQC與零信任",
+        "link": "https://www.ithome.com.tw/news/179724",
+        "pubDate": "2026-10-16 08:00",
+        "description": "歐洲網路安全組織（ECSO）提出太空資安六項優先工作，涵蓋衛星設計階段的安全測試、PQC轉型、安全軟體更新、地面系統零信任防護，以及供應鏈安全與威脅情報分享，並呼籲歐洲加強相關技術研發與產業合作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "TypeSafe擴充Jev決策模型，支援圖片判斷與物件定位",
+        "link": "https://www.ithome.com.tw/news/179738",
+        "pubDate": "2026-10-16  11:10:50",
+        "description": "美國AI新創公司TypeSafe AI發布決策型AI模型Jev 1.14.0，同步開放圖片輸入與長上下文等實驗性功能。新版新增Box物件定位功能，回傳位置座標與信心分數，讓應用程式直接使用判斷結果。不過，官方提醒影像相關功能尚未達到正式環境的可靠度要求。\nJev是TypeSafe開發的決策型AI模型，與逐字生成回答的聊天模型不同，開發者提供資料與問題後，Jev會直接回傳是非判斷、分類選項或評分，並提供機率資訊，供程式決定後續動作。圖片輸入功能則讓Jev能夠分析影像內容，執行分類與比對等工作。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic自建Scion取代Git，CI取出程式碼時間從數分鐘縮至數秒",
+        "link": "https://www.ithome.com.tw/news/179733",
+        "pubDate": "2026-10-16  08:10:59",
+        "description": "AI代理大量參與程式開發，讓Anthropic既有的Git版本控制架構面臨擴充瓶頸，因此花費5個月開發Scion版本控制系統，並將內部大型單一程式碼儲存庫完整遷移至新系統，改由伺服器處理程式碼提交、合併及歷史查詢，減輕開發環境與持續整合（CI）系統的負擔。",
+        "source": "iThome"
+      },
       {
         "title": "iPhone Duo開放預購前夕當心假網站，部分惡意網站可利用iOS已知漏洞攻擊",
         "link": "https://www.ithome.com.tw/news/179731",
@@ -45,87 +122,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國CISA警告3款系統、4個資安漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179713",
-        "pubDate": "2026-10-15 13:20",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，近日揭露的Palo Alto Networks防火牆作業系統、思科郵件安全閘道Secure Email Gateway，以及備份管理平臺AhsayCBS漏洞皆遭到積極利用，聯邦機構需在3天內緊急完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "軟體公司Ahsay再度修補已遭串連及利用的備份管理平臺AhsayCBS零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/179712",
-        "pubDate": "2026-10-15 12:39",
-        "description": "本週軟體公司Ahsay發布緊急資安更新，修補備份管理平臺AhsayCBS遭到利用的漏洞CVE-2026-105133與CVE-2026-105134，呼籲用戶需立即採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "思科修補已遭利用的郵件安全閘道任意檔案寫入漏洞",
-        "link": "https://www.ithome.com.tw/news/179710",
-        "pubDate": "2026-10-15 12:33",
-        "description": "本週思科針對郵件安全閘道系統Secure Email Gateway（SEG）發布更新，修補重大等級的任意檔案寫入漏洞CVE-2026-76519，並警告該弱點已被利用，用戶需儘速採取行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國司法部跨州打擊北韓遠端工作網路，起訴14人並破獲筆電農場",
-        "link": "https://www.ithome.com.tw/news/179709",
-        "pubDate": "2026-10-15 12:23",
-        "description": "俄亥俄州起訴涉及逾70家美國企業的假身分工作者，德州另搜索逾40處疑似筆電農場，切斷北韓人員遠端工作的設備據點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Palo Alto Networks修補遭利用的防火牆作業系統遠端程式碼執行漏洞",
-        "link": "https://www.ithome.com.tw/news/179705",
-        "pubDate": "2026-10-15 11:35",
-        "description": "資安公司Palo Alto Networks揭露防火牆作業系統PAN-OS資安漏洞CVE-2026-0322，並指出該弱點已被用於實際攻擊，用戶應儘速採取行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Shadowserver警示仍有數百組Danfoss冷藏控制器暴露於公開網路",
-        "link": "https://www.ithome.com.tw/news/179703",
-        "pubDate": "2026-10-15 11:25",
-        "description": "法國超市冷藏系統遭駭後，仍有至少365組Danfoss AK-SM800A冷藏控制器可從網際網路存，業者應儘速移除公網暴露",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國政府疾呼Ivanti用戶儘速修補已遭利用的SSL VPN零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/179691",
-        "pubDate": "2026-10-15 10:28",
-        "description": "美國網路安全與基礎設施安全局（CISA）特別針對已遭利用的Ivanti Connect Secure（ICS）零時差漏洞CVE-2026-104935提出警告，並透露此弱點相當危險，攻擊者將能遠端執行任意指令、竊取憑證及資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "逾400名科學家要求建立國際AI監管機構",
-        "link": "https://www.ithome.com.tw/news/179702",
-        "pubDate": "2026-10-15 10:13",
-        "description": "AI模型突破沙箱隔離、入侵外部系統的資安事件已引起科學界關注。全球逾400名AI與資安領域科學家聯名警告，現有安全防護措施仍有不足，呼籲成立國際機構，制定AI安全與隔離標準",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Meta GitHub儲存庫遭駭，外洩產品程式碼及1,500名人員資料",
-        "link": "https://www.ithome.com.tw/news/179701",
-        "pubDate": "2026-10-15 10:08",
-        "description": "Meta證實旗下GitHub儲存庫遭駭，部分產品程式碼及約1,500人個資遭竊，駭客利用外洩員工憑證取得儲存庫存取權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
-        "link": "https://www.ithome.com.tw/news/179704",
-        "pubDate": "2026-10-15  11:10:43",
-        "description": "SpaceX旗下AI部門SpaceXSI周三（10/14）推出新一代語音模型Grok Voice 3.0，在第三方評測機構Artificial Analysis的語音對語音綜合指數（Speech-to-Speech Index）中，以86.9分排名第一，超越OpenAI及Google的競爭模型。新模型主打快速語音回應與企業客服應用，SpaceXSI宣稱回應時間可低於1秒。",
-        "source": "iThome"
-      },
-      {
         "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
         "link": "https://www.ithome.com.tw/news/179721",
         "pubDate": "2026-10-15  04:10:56",
         "description": "AI運算需求快速成長，資料中心的選址邏輯也正在改變。過去資料中心多半靠近使用者端，以降低網路延遲與傳輸距離，但在AI時代，GPU叢集與大型AI資料中心（AIDC）的高密度用電需求，「電力從哪裡來」成為新考量。\n台電在這周舉行的「2026台灣國際智慧能源週」，以「積體電網」為主題參展，並提出「以光代電」策略，鼓勵AI資料中心靠近電源端設置，透過長距離光纖傳輸資料，取代長距離輸送大量電力的模式。\n值得注意的是，台電將AI時代的用電需求分為「製造AI」與「運行AI」兩類。其中「製造AI」方面，包括晶圓",
-        "source": "iThome"
-      },
-      {
-        "title": "Google Cloud、DeepMind將提供歐盟研究機構使用尖端模型",
-        "link": "https://www.ithome.com.tw/news/179719",
-        "pubDate": "2026-10-15  03:10:18",
-        "description": "Google Cloud及Google DeepMind周三宣佈，將提供最多200名歐洲頂尖科學研究人員直接使用旗下先進AI模型，並提供總值300萬美元的運算點數，協助歐洲研究團隊加速科學研究。",
         "source": "iThome"
       }
     ],
@@ -142,13 +142,6 @@
         "link": "https://techorange.com/2026/10/14/meta-introducing-your-algorithm-facebook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 14 Oct 2026 16:31:56 +0800",
         "description": "Facebook 成為最新一個讓使用者更能掌控推薦演算法的社群平台。Meta 近日宣布在 Facebook 推出 AI 功能「Your Algorithm」，讓使用者能以自然語言描述自己的內容偏好，進而影響動態消息與 Reels 短影音中出現的內容。 結合 AI 與三點選單，使用者可直接告訴演算法想看什麼 透過「Your Algorithm」，使用者能直接新增並管理自己想在動態消息與 Reels 中看到的主題。Meta 表示，這項功能的目的是讓內容推薦更貼近使用者的興趣。 Facebook 的排",
-        "source": "TechOrange"
-      },
-      {
-        "title": "繼宇樹之後再押機器人大腦，DeepSeek 傳領投前騰訊科學家新創 Winverse",
-        "link": "https://techorange.com/2026/10/14/deepseek-winverse-ai-robot-seed-round/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 14 Oct 2026 15:51:08 +0800",
-        "description": "中國 AI 新創 DeepSeek 正把觸角從語言模型伸向實體世界。據《Bloomberg》引述知情人士報導，DeepSeek 已同意領投機器人 AI 新創公司 Winverse AI 的種子輪，這輪募資規模達數千萬美元，交易完成後，Winverse AI 估值約 4 億美元。這家公司今年才成立，創辦人是前騰訊 AI 專家胡瀚。 這並非 DeepSeek 第一次出手機器人領域。今年 8 月它才以策略投資人身分，認購人形機器人大廠宇樹科技（Unitree）的 IPO 股份。一邊與機器人硬體廠建立合",
         "source": "TechOrange"
       },
       {
@@ -219,6 +212,13 @@
         "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 15 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊日本擬投最高 210 億美元在美建晶圓廠，格羅方德獲選營運 格羅方德（GlobalFoundries）10 月 14 日宣布，獲選為美日合作計畫中兩座新晶圓廠的技術提供者與營運商，廠址位於美國紐約州馬爾他，日本將提供最高 210 億美元資金。第一座廠預計以約 100 億美元加速建置，今年稍晚動工、2029 年投產；第二座廠則納入另一筆約 100 億美元的後續投資規劃。首座廠全面運作後，預計增加每年約 90 萬片 12 吋晶圓產能，主要服務汽車、",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美國上百家人形機器人公司，機器人投資基金執行長為何只看好特斯拉、Figure AI 與 Apptronik？",
+        "link": "https://techorange.com/2026/10/16/humanoid-ai-robot-companies-win/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 09:35:12 +0800",
+        "description": "封閉式基金 RoboStrategy 執行長 Andrew Kang 認為，真正值得投資的機器人公司，只有特斯拉（Tesla）、Figure AI 與 Apptronik，但 Optimus 業務還有待馬斯克回神。",
         "source": "TechOrange"
       },
       {
@@ -383,7 +383,7 @@
         "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
         "link": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
         "pubDate": "Thu, 15 Oct 2026 23:44:56 +0000",
-        "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.",
+        "description": "The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.",
         "source": "TechCrunch"
       },
       {
@@ -478,11 +478,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026: Last day",
-        "link": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/",
-        "pubDate": "Thu, 15 Oct 2026 14:00:00 +0000",
-        "description": "Last day to be part of TechCrunch Disrupt 2026. Join 10,000+ tech leaders for a day of connections and insights. Save 75% on your pass now.",
+        "title": "Tesla reveals SpaceX-powered Roadster that flies and falls with style",
+        "link": "https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/",
+        "pubDate": "Fri, 16 Oct 2026 01:17:43 +0000",
+        "description": "The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "The Tesla Roadster flew, drove upside down, and hit 60mph in under a second",
+        "link": "https://www.theverge.com/transportation/1012552/tesla-roadster-next-gen-reveal-elon-musk",
+        "pubDate": "2026-10-15T21:28:27-04:00",
+        "description": "Elon Musk promised a flying car. And the Tesla Roadster did exactly that. Tesla demonstrated its next-generation Roadster at an event in Waco, Texas, where the electric supercar drove upside down, briefly flew, and accelerated to 60mph in under a sec",
+        "source": "TheVerge"
       },
       {
         "title": "Steam can now show game achievements in separate ‘sets’",
@@ -510,13 +517,6 @@
         "link": "https://www.theverge.com/entertainment/1012438/hollywood-tech-backlash-you-can-see-everything-musk-the-social-reckoning-artificial",
         "pubDate": "2026-10-15T17:39:52-04:00",
         "description": "Though movies about disruptive tech founders are nothing new, 2026 has been unusually stacked with features that take a much more critical look at how Silicon Valley is reshaping our reality. Aaron Sorkin's The Social Reckoning frames Mark Zuckerberg",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Trump posts AI-edited photo to brag about White House restoration work",
-        "link": "https://www.theverge.com/policy/1012445/donald-trump-ai-photo-white-house-rennovation-column",
-        "pubDate": "2026-10-15T17:09:33-04:00",
-        "description": "President Donald Trump posted a series of photos on Truth Social showing off renovations to the White House - but one of them appears to be modified with AI. The picture, which compares an old White House column to a \"restored\" one, has several discr",
         "source": "TheVerge"
       }
     ],
@@ -660,16 +660,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Apache HTTP Server"
-      },
-      {
-        "title": "ONLYOFFICE Docs Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/onlyoffice-docs-remote-code-execution-vulnerability_20261009",
-        "pubDate": "Fri, 09 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "ONLYOFFICE Docs Remote Code Execution Vulnerability"
       }
     ]
   }
