@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T14:13:59.603299Z",
+  "ts": "2026-10-16T18:20:17.209289Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,13 +245,6 @@
     ],
     "en_sec": [
       {
-        "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-        "pubDate": "Wed, 14 Oct 2026 18:56:47 -0400",
-        "description": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
         "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
         "pubDate": "Thu, 15 Oct 2026 21:31:57 +0530",
@@ -291,27 +284,6 @@
         "link": "https://thehackernews.com/2026/10/drupal-patches-critical-core-rce-flaw.html",
         "pubDate": "Thu, 15 Oct 2026 17:37:20 +0530",
         "description": "Drupal core has a critical flaw in its Field UI module that could let an attacker run code on the site's server, and fixes were shipped on October 14 in Drupal 11.4.10, 11.3.19, and 10.6.19.\n\nAn attacker cannot reach the flaw through core alone, the ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fake AI Attacks Spread Across US Companies: How MSSPs Can Stop Incidents Early",
-        "link": "https://thehackernews.com/2026/10/fake-ai-attacks-spread-across-us.html",
-        "pubDate": "Thu, 15 Oct 2026 17:16:59 +0530",
-        "description": "Attackers are impersonating popular AI products to distribute malware, steal browser sessions, and compromise business accounts. ANY.RUN linked 1,258 public sandbox analyses to fake AI campaigns between April and October of 2026. \n\nThe campaigns also",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Palo Alto Networks Patches PAN-OS Authenticated RCE Flaw Amid Active Exploitation",
-        "link": "https://thehackernews.com/2026/10/palo-alto-networks-patches-pan-os.html",
-        "pubDate": "Thu, 15 Oct 2026 17:16:49 +0530",
-        "description": "Palo Alto Networks on Wednesday issued security updates for a high-severity flaw in PAN-OS software that has come under active exploitation.\n\nThe vulnerability, tracked as CVE-2026-0322 (CVSS score: 8.6), is a case of remote code execution in the man",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Why AI Confidence Is Not Validation",
-        "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
-        "pubDate": "Thu, 15 Oct 2026 16:34:35 +0530",
-        "description": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to",
         "source": "TheHackerNews"
       },
       {
@@ -378,11 +350,39 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+        "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+        "pubDate": "Fri, 16 Oct 2026 22:13:39 +0530",
+        "description": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+        "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+        "pubDate": "Fri, 16 Oct 2026 21:46:44 +0530",
+        "description": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishin",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+        "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+        "pubDate": "Fri, 16 Oct 2026 19:33:04 +0530",
+        "description": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "AI Decision Models and Their Impact on AI SOC Platforms",
         "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
         "pubDate": "Fri, 16 Oct 2026 17:00:00 +0530",
         "description": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API a",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+        "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+        "pubDate": "Fri, 16 Oct 2026 13:20:03 -0400",
+        "description": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -408,66 +408,66 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta launches an open-weight AI model that runs on Macs",
-        "link": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
-        "pubDate": "Thu, 15 Oct 2026 20:04:53 +0000",
-        "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "title": "India becomes the latest country to report rogue AI agent activity",
+        "link": "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/",
+        "pubDate": "Fri, 16 Oct 2026 17:52:24 +0000",
+        "description": "The agents got in through credentials and connection settings left exposed in app configurations, public code repositories, and overly permissive cloud roles.",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon devices chief Panos Panay sees a future where AI devices replace the need to use apps",
-        "link": "https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need-to-use-apps/",
-        "pubDate": "Thu, 15 Oct 2026 19:55:25 +0000",
-        "description": "Speaking at TechCrunch Disrupt, Amazon devices chief Panos Panay described a future where ambient AI devices work in the background, anticipating users' needs instead of waiting for commands.",
+        "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+        "link": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+        "pubDate": "Fri, 16 Oct 2026 16:30:00 +0000",
+        "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being",
         "source": "TechCrunch"
       },
       {
-        "title": "Bluesky wants to make it easier to buy, sell, and fundraise on the network",
-        "link": "https://techcrunch.com/2026/10/15/bluesky-wants-to-make-it-easier-to-buy-sell-and-fundraise-on-the-network/",
-        "pubDate": "Thu, 15 Oct 2026 19:29:05 +0000",
-        "description": "The executives argued that advertising isn’t the only path to monetization, and that there are alternative models that are feasible when it comes to monetization.",
+        "title": "Waymo’s robotaxis are headed to Canada",
+        "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
+        "pubDate": "Fri, 16 Oct 2026 16:06:38 +0000",
+        "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
-        "link": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
-        "pubDate": "Thu, 15 Oct 2026 19:14:26 +0000",
-        "description": "METR will publish its own assessments of Anthropic’s risks, incidents, and practices, and the frontier AI model maker has given up the right to block them.",
+        "title": "Elorian’s first AI model wants to reason with images, not just about them",
+        "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
+        "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
+        "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
         "source": "TechCrunch"
       },
       {
-        "title": "Bluesky expands its AI-powered Attie app to let anyone build websites, games, and more",
-        "link": "https://techcrunch.com/2026/10/15/bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and-more/",
-        "pubDate": "Thu, 15 Oct 2026 18:56:46 +0000",
-        "description": "Bluesky is bringing “social vibe coding” to its experimental Attie platform, allowing users to create interactive experiences like games, quizzes, and websites that can tap into the social network's audience.",
+        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
+        "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
+        "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+        "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
         "source": "TechCrunch"
       },
       {
-        "title": "Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16",
-        "link": "https://techcrunch.com/2026/10/15/last-chance-to-save-up-to-200-on-techcrunch-founder-summit-early-booking-ends-oct-16/",
-        "pubDate": "Thu, 15 Oct 2026 18:00:00 +0000",
-        "description": "Savings of up to $200 end October 16 for TechCrunch Founder Summit. These savings for Founder and Investor Passes vanish after Friday. Join 1,000 founders and investors on November 4 at Boston’s SoWa Power Station. Bring your toughest questions and m",
+        "title": "In ‘You Can See Everything,’ Elizabeth Holmes meets her equal in comedian Nathan Fielder",
+        "link": "https://techcrunch.com/2026/10/16/in-you-can-see-everything-elizabeth-holmes-meets-her-equal-in-comedian-nathan-fielder/",
+        "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
+        "description": "Nathan Fielder's documentary about disgraced Theranos CEO Elizabeth Holmes has created a constellation of colliding personas that interrogate the very nature of authenticity.",
         "source": "TechCrunch"
       },
       {
-        "title": "Volvo makes a bigger bet on Nvidia for hands-free automated driving",
-        "link": "https://techcrunch.com/2026/10/15/volvo-makes-a-bigger-bet-on-nvidia/",
-        "pubDate": "Thu, 15 Oct 2026 17:34:40 +0000",
-        "description": "Volvo is leveling up its automated driving system through an expansion of its nearly decade-long partnership with Nvidia that will extend beyond its battery electric vehicles.",
+        "title": "Jev is Vercel’s fastest-adopted AI model ever",
+        "link": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever/",
+        "pubDate": "Fri, 16 Oct 2026 15:33:49 +0000",
+        "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
         "source": "TechCrunch"
       },
       {
-        "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
-        "link": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
-        "pubDate": "Thu, 15 Oct 2026 16:45:37 +0000",
-        "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+        "title": "Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy",
+        "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
+        "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
+        "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
         "source": "TechCrunch"
       },
       {
         "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
         "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
         "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
-        "description": "Counterfeits of luxury goods are a major problem for fashion houses. Counterfeiters are getting better at replicating brands’ marks and passing off dupes, known as “superfakes,” as genuine items. A startup called Veritas wants to tackle the problem w",
+        "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s new terms may allow it to train AI on news sites for free",
-        "link": "https://www.theverge.com/tech/1012846/meta-business-terms-scrape-news-publishers",
-        "pubDate": "2026-10-16T10:02:40-04:00",
-        "description": "Meta's new terms appear to give it permission to crawl and scrape websites \"associated\" with the businesses that use its platforms - including online publishers, according to a report from Nieman Lab. The new terms, which go into effect on October 30",
+        "title": "The new Apple TV 4K just got its first (very small) discount",
+        "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
+        "pubDate": "2026-10-16T12:02:22-04:00",
+        "description": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discou",
         "source": "TheVerge"
       },
       {
-        "title": "This stretchy MagSafe storage pouch gives your phone a sizable trunk",
-        "link": "https://www.theverge.com/tech/1012828/ninja-labs-magsafe-flex-pouch-silicone-smartphone-storage",
-        "pubDate": "2026-10-16T09:33:21-04:00",
-        "description": "There's a new storage upgrade option for smartphones compatible with wireless chargers and other magnetic accessories, but it won't help if you've run out of room for apps, pics, and videos. The MagSafe Flex Pouch looks like a magnetic wallet for pai",
+        "title": "Apple&#8217;s HomeView has an app problem",
+        "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
+        "pubDate": "2026-10-16T11:38:17-04:00",
+        "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like ",
         "source": "TheVerge"
       },
       {
-        "title": "iPhone Duo orders are already delayed into 2027",
-        "link": "https://www.theverge.com/tech/1012805/apple-iphone-duo-preorder-delay",
-        "pubDate": "2026-10-16T09:10:11-04:00",
-        "description": "Delivery estimates for the iPhone Duo slipped into next year in less than an hour after Apple opened preorders for it at 8AM ET on Friday. At the time of writing we are seeing late January delivery dates for every configuration on Apple's website. Th",
+        "title": "Analogue is re-releasing its SNES and Genesis consoles with some nice upgrades",
+        "link": "https://www.theverge.com/tech/1012901/analogue-retro-console-supern-nt-plus-nintendo-sega-genesis-mega-plus",
+        "pubDate": "2026-10-16T11:08:38-04:00",
+        "description": "Analogue announced new versions of its Super Nt and Mega Sg retro consoles today with a \"reworked industrial design\" and built-in wireless connectivity for controllers and accessories. Like the original versions, the new Super Nt Plus and Mega Sg Plu",
         "source": "TheVerge"
       },
       {
-        "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-        "link": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-        "pubDate": "2026-10-16T08:36:11-04:00",
-        "description": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a not",
+        "title": "A fake WhatsApp clone is showing up before the real version on the Play Store",
+        "link": "https://www.theverge.com/tech/1012918/google-play-store-fake-whatsapp-android",
+        "pubDate": "2026-10-16T11:02:23-04:00",
+        "description": "After a Chrome clone was spotted on the Play Store earlier this week, a user on Reddit says they're seeing a fake version of WhatsApp in a \"sponsored\" slot above the real version. As reported earlier by Android Authority, the WhatsApp dupe has racked",
         "source": "TheVerge"
       },
       {
-        "title": "The first vibe-coded gun is here",
-        "link": "https://www.theverge.com/tech/1011950/vibe-coded-3d-printed-gun-ai-generated-cody-wilson",
-        "pubDate": "2026-10-16T08:30:00-04:00",
-        "description": "Since gun-rights activist and alt-right-friendly agitator Cody Wilson made the first 3D-printed firearm 13 years ago, he's helped usher in a chaotic era of untraceable ghost guns. Now he's claiming another first: \"the first AI-made gun.\" It's called ",
+        "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+        "link": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+        "pubDate": "2026-10-16T11:00:00-04:00",
+        "description": "Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop",
         "source": "TheVerge"
       }
     ],
