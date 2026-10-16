@@ -1,7 +1,28 @@
 {
-  "ts": "2026-10-16T04:24:36.657196Z",
+  "ts": "2026-10-16T09:16:46.462640Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "以色列廣告業者利用定向廣告發動零點擊攻擊，半島電視臺裝置遭間諜軟體入侵",
+        "link": "https://www.ithome.com.tw/news/179747",
+        "pubDate": "2026-10-16 16:49",
+        "description": "以色列廣告業者Discover-Tech透過廣告識別碼鎖定裝置，僅對指定目標提供後續程式碼，藉此避開廣告掃描，半島電視臺已有裝置感染Candiru間諜軟體，Google也終止該公司的廣告交易權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客組織UTA0576串連3個零時差漏洞入侵Ivanti Connect Secure",
+        "link": "https://www.ithome.com.tw/news/179714",
+        "pubDate": "2026-10-16 14:26",
+        "description": "針對Ivanti本週揭露及修補的Ivanti Connect Secure（ICS）零時差漏洞CVE-2026-104935，資安公司Volexity公布觀察到的攻擊行動，駭客組織UTA0576串連一系列的零時差漏洞，藉此在ICS取得root權限，並試圖進一步滲透內部網路環境",
+        "source": "iThome資安"
+      },
+      {
+        "title": "91APP雲端平臺資料庫Commerce Cloud遭自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/179741",
+        "pubDate": "2026-10-16 12:09",
+        "description": "電商技術服務公司91APP（6741）發布資安重訊，指出旗下Commerce Cloud資料庫遭受自動化攻擊，部分資訊遭到擷取，已向警方報案並委請第三方資安單位協助調查",
+        "source": "iThome資安"
+      },
       {
         "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
         "link": "https://www.ithome.com.tw/news/179739",
@@ -38,13 +59,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "AWS示範整合雲端服務，將ML-DSA抗量子簽章導入軟體供應鏈",
-        "link": "https://www.ithome.com.tw/news/179700",
-        "pubDate": "2026-10-16 08:00",
-        "description": "AWS說明如何整合AWS KMS、AWS Private CA及IAM Roles Anywhere等雲端服務，將ML-DSA抗量子數位簽章導入軟體供應鏈，涵蓋軟體成品與SBOM簽章、外部建置代理程式身分驗證，以及容器部署前的簽章檢查",
-        "source": "iThome資安"
-      },
-      {
         "title": "澳洲通訊局新版資安框架重視各領域防護成效，取代單一成熟度評級",
         "link": "https://www.ithome.com.tw/news/179715",
         "pubDate": "2026-10-16 08:00",
@@ -52,17 +66,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國擴大AI資安防禦，已在政府系統發現1,352項漏洞",
-        "link": "https://www.ithome.com.tw/news/179687",
-        "pubDate": "2026-10-16 08:00",
-        "description": "英國擴大運用AI強化資安防禦，先前試行計畫已在18個政府部門的548個程式碼儲存庫中，找出並處理1,352項漏洞。除了持續處理高風險系統的安全弱點，英國也開始研擬AI代理重大事故的應變措施",
-        "source": "iThome資安"
-      },
-      {
         "title": "歐洲網路安全組織提太空資安六大重點，涵蓋PQC與零信任",
         "link": "https://www.ithome.com.tw/news/179724",
         "pubDate": "2026-10-16 08:00",
         "description": "歐洲網路安全組織（ECSO）提出太空資安六項優先工作，涵蓋衛星設計階段的安全測試、PQC轉型、安全軟體更新、地面系統零信任防護，以及供應鏈安全與威脅情報分享，並呼籲歐洲加強相關技術研發與產業合作",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AWS示範整合雲端服務，將ML-DSA抗量子簽章導入軟體供應鏈",
+        "link": "https://www.ithome.com.tw/news/179700",
+        "pubDate": "2026-10-16 08:00",
+        "description": "AWS說明如何整合AWS KMS、AWS Private CA及IAM Roles Anywhere等雲端服務，將ML-DSA抗量子數位簽章導入軟體供應鏈，涵蓋軟體成品與SBOM簽章、外部建置代理程式身分驗證，以及容器部署前的簽章檢查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國擴大AI資安防禦，已在政府系統發現1,352項漏洞",
+        "link": "https://www.ithome.com.tw/news/179687",
+        "pubDate": "2026-10-16 08:00",
+        "description": "英國擴大運用AI強化資安防禦，先前試行計畫已在18個政府部門的548個程式碼儲存庫中，找出並處理1,352項漏洞。除了持續處理高風險系統的安全弱點，英國也開始研擬AI代理重大事故的應變措施",
         "source": "iThome資安"
       },
       {
@@ -77,6 +98,13 @@
         "link": "https://www.ithome.com.tw/news/179733",
         "pubDate": "2026-10-16  08:10:59",
         "description": "AI代理大量參與程式開發，讓Anthropic既有的Git版本控制架構面臨擴充瓶頸，因此花費5個月開發Scion版本控制系統，並將內部大型單一程式碼儲存庫完整遷移至新系統，改由伺服器處理程式碼提交、合併及歷史查詢，減輕開發環境與持續整合（CI）系統的負擔。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟MSVC 14.52開放C++23正式模式，編譯階段數學函式仍須手動啟用",
+        "link": "https://www.ithome.com.tw/news/179743",
+        "pubDate": "2026-10-16  02:10:11",
+        "description": "微軟發布MSVC Build Tools 14.52候選版，宣布C++23語言標準已可用於正式開發，開發者能透過/std:c++23編譯選項啟用。新版本也改善x64、Arm64的程式碼最佳化，以及C++模組處理與記憶體錯誤檢查功能，穩定版預計11月推出。",
         "source": "iThome"
       },
       {
@@ -99,51 +127,9 @@
         "pubDate": "2026-10-15 17:54",
         "description": "微軟10月例行安全更新不只修補漏洞總數創新高，遠端程式碼執行（RCE）漏洞達315個，CVSS評分達8.8分以上的漏洞也有262個，兩項數量均創近13個月新高。此外，微軟也特別介紹DHCP及DNS伺服器兩項CVSS評分高達9.8分的RCE漏洞，攻擊者無須通過身分驗證，也不需要使用者互動，就可能遠端執行程式碼",
         "source": "iThome資安"
-      },
-      {
-        "title": "駭客稱利用密碼123456登入丹麥人口統計局系統商的系統",
-        "link": "https://www.ithome.com.tw/news/179722",
-        "pubDate": "2026-10-15 15:46",
-        "description": "丹麥人口登記系統遭駭，約880萬人的個人資料遭竊，入侵手法竟可能與簡單密碼有關。自稱犯案的駭客向當地媒體透露，僅憑「123456」這組密碼，就成功登入具有系統存取權限的IT服務商帳號",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月15日，Windows Update憑證2027年到期，微軟提醒企業留意更新中斷風險",
-        "link": "https://www.ithome.com.tw/news/179720",
-        "pubDate": "2026-10-15 15:15",
-        "description": "微軟提醒企業，Windows Update服務的部分憑證將於2027年5月及6月到期，即使裝置使用的Windows版本仍受支援，若未安裝包含替代憑證的必要安全更新，屆時也可能無法繼續透過Windows Update取得安全修補及其他更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "俄羅斯網路業者資料中心遭襲後，Cloudflare觀察相關惡意機器人活動未明顯減少",
-        "link": "https://www.ithome.com.tw/news/179718",
-        "pubDate": "2026-10-15 14:44",
-        "description": "搜尋爬蟲流量大幅下滑，但雲端惡意自動化活動轉移至其他業者，社群操縱活動也未見明顯變化",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
-        "link": "https://www.ithome.com.tw/news/179721",
-        "pubDate": "2026-10-15  04:10:56",
-        "description": "AI運算需求快速成長，資料中心的選址邏輯也正在改變。過去資料中心多半靠近使用者端，以降低網路延遲與傳輸距離，但在AI時代，GPU叢集與大型AI資料中心（AIDC）的高密度用電需求，「電力從哪裡來」成為新考量。\n台電在這周舉行的「2026台灣國際智慧能源週」，以「積體電網」為主題參展，並提出「以光代電」策略，鼓勵AI資料中心靠近電源端設置，透過長距離光纖傳輸資料，取代長距離輸送大量電力的模式。\n值得注意的是，台電將AI時代的用電需求分為「製造AI」與「運行AI」兩類。其中「製造AI」方面，包括晶圓",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "AI 蠕蟲年底成形？Anthropic 示警小模型自我複製，外媒質疑實驗條件",
-        "link": "https://techorange.com/2026/10/14/anthropic-self-replicating-ai-iot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 14 Oct 2026 18:15:13 +0800",
-        "description": "AI 能不能像電腦蠕蟲一樣，自行找到下一台裝置、把自己複製過去，而且不需要龐大的資料中心？Anthropic 前沿紅隊（Frontier Red Team）在 10/12 發布研究，在模擬的 Android 裝置網路中測試開放權重模型的自我複製能力，其中 GLM-5.2 在 5 次試驗中有 4 次擴散到全部 8 個節點。Anthropic 推估，若小模型維持過往的進步速度，今年底就可能具備同等能力。 研究一發布，科技媒體《The Register》就質疑實驗環境是刻意留下漏洞的特製節點。雙方對威",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Facebook 推「可以對話的演算法」：用 LLM 讓使用者描述喜好，推薦內容即時調整",
-        "link": "https://techorange.com/2026/10/14/meta-introducing-your-algorithm-facebook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 14 Oct 2026 16:31:56 +0800",
-        "description": "Facebook 成為最新一個讓使用者更能掌控推薦演算法的社群平台。Meta 近日宣布在 Facebook 推出 AI 功能「Your Algorithm」，讓使用者能以自然語言描述自己的內容偏好，進而影響動態消息與 Reels 短影音中出現的內容。 結合 AI 與三點選單，使用者可直接告訴演算法想看什麼 透過「Your Algorithm」，使用者能直接新增並管理自己想在動態消息與 Reels 中看到的主題。Meta 表示，這項功能的目的是讓內容推薦更貼近使用者的興趣。 Facebook 的排",
-        "source": "TechOrange"
-      },
       {
         "title": "AlphaGo 推手 David Silver 不走 LLM 路線，要讓 AI 在模擬「熔爐」裡從零自學",
         "link": "https://techorange.com/2026/10/15/david-silver-ineffable-superlearner-without-llm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -208,10 +194,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】日本出資、美國持股！最高 210 億美元晶圓廠計畫出爐",
-        "link": "https://techorange.com/2026/10/15/japan-us-chip-fabs-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊日本擬投最高 210 億美元在美建晶圓廠，格羅方德獲選營運 格羅方德（GlobalFoundries）10 月 14 日宣布，獲選為美日合作計畫中兩座新晶圓廠的技術提供者與營運商，廠址位於美國紐約州馬爾他，日本將提供最高 210 億美元資金。第一座廠預計以約 100 億美元加速建置，今年稍晚動工、2029 年投產；第二座廠則納入另一筆約 100 億美元的後續投資規劃。首座廠全面運作後，預計增加每年約 90 萬片 12 吋晶圓產能，主要服務汽車、",
+        "title": "AI 黑盒子沒那麼黑？Goodfire 研究員：神經元「亂塞概念」可能是誤讀",
+        "link": "https://techorange.com/2026/10/16/neural-networks-already-clean-goodfire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 14:39:03 +0800",
+        "description": "想了解 AI 為什麼做出某個判斷，最直接的方式，是打開模型，看看裡面的「神經元」各自在做什麼。但長期以來，研究界普遍認為這條路並不好走：神經元裡似乎塞滿了互不相干的概念，就像一團打結的毛線。AI 新創 Goodfire 研究員 Nick Cammarata 日前發表長文挑戰這個看法，他聲稱，在語言模型 Qwen3-32B 中，多數神經元其實只負責一件主要工作。 Cammarata 曾在 OpenAI 發起自動化可解釋性專案，而他在文中推翻的經典案例之一，正是自己 2019 年參與提出的研究。這篇",
+        "source": "TechOrange"
+      },
+      {
+        "title": "日常聊天也能變購物提醒？亞馬遜推 Bee 新 AI 裝置，串接 Alexa+ 與電商平台",
+        "link": "https://techorange.com/2026/10/16/amazon-personal-ai-bee-frontier-bee-eclipse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 12:52:44 +0800",
+        "description": "亞馬遜（Amazon）近日推出兩款 AI 裝置，主打透過聆聽日常對話，協助使用者記住重要資訊、整理待辦事項，並根據過往互動提供個人化建議。新產品由亞馬遜旗下個人 AI 裝置品牌 Bee 開發，分別為穿戴式的 Frontier，以及可磁吸在手機背面的 Eclipse。 AI 裝置 Bee Frontier、Eclipse，可記錄對話、提供購物建議 兩款裝置是 Bee 前一代手環產品 Pioneer 的後繼機種，也是亞馬遜於 2025 年收購 AI 穿戴裝置新創 Bee 後推出的新品。Frontie",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Meta 推美最強開放模型 Muse Spark Open，8,160 億參數為何兩台 Mac 就能跑？",
+        "link": "https://techorange.com/2026/10/16/meta-muse-spark-open-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 16 Oct 2026 11:51:31 +0800",
+        "description": "Meta 本週動作頻頻，先是發表新一代閉源 AI 模型 Muse Wonder，又於美國時間 10/15 發布新一代 AI 模型 Muse Spark Open，並宣稱是迄今最強的美國開放權重模型，總參數高達 8,160 億，主攻程式開發與 AI Agent（AI 代理）任務。其中更引人關注的是，Meta 與 Apple 合作，讓這款超大型模型能在兩台 Mac Studio 上運行。 這不僅讓企業及開發者有機會自行下載、調整和部署高能力模型，也展示大型 AI 推理不必完全依賴傳統 GPU 伺服器",
         "source": "TechOrange"
       },
       {
@@ -256,27 +256,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
         "pubDate": "Wed, 14 Oct 2026 13:46:50 -0400",
         "description": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-        "pubDate": "Wed, 14 Oct 2026 13:29:14 -0400",
-        "description": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft fixes VPN issues caused by September Windows updates",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-        "pubDate": "Wed, 14 Oct 2026 10:27:01 -0400",
-        "description": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-        "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-        "pubDate": "Wed, 14 Oct 2026 10:00:10 -0400",
-        "description": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and bre",
         "source": "BleepingComputer"
       },
       {
@@ -371,11 +350,32 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
-        "link": "https://thehackernews.com/2026/10/ghostaction-compromises-about-1900.html",
-        "pubDate": "Thu, 15 Oct 2026 14:15:10 +0530",
-        "description": "The credential-theft campaign known as GhostAction has ramped up, targeting more than 30,000 repositories across 3,000 users and organizations.\n\nThe spike, according to GitGuardian, was observed on October 8 and 9, 2026.\n\n\"This resulted from compromi",
-        "source": "TheHackerNews"
+        "title": "Fake Arch Linux packages push malware with root privileges",
+        "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
+        "pubDate": "Thu, 15 Oct 2026 13:12:31 -0400",
+        "description": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Is AI pentesting as good as a human pentester?",
+        "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
+        "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
+        "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where A",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
+        "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
+        "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Police arrests 95 suspects in international CSAM crackdown action",
+        "link": "https://www.bleepingcomputer.com/news/security/police-arrests-95-suspects-in-child-sexual-abuse-material-crackdown/",
+        "pubDate": "Thu, 15 Oct 2026 07:55:38 -0400",
+        "description": "Law enforcement authorities from 17 countries in Latin America and Europe have arrested 95 suspects in an INTERPOL-coordinated operation targeting the distribution of child sexual abuse material (CSAM) through online messaging groups. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -471,10 +471,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s Universal Cart shopping tool launches in the US",
-        "link": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
-        "pubDate": "Thu, 15 Oct 2026 14:29:33 +0000",
-        "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
+        "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
+        "pubDate": "Fri, 16 Oct 2026 05:16:46 +0000",
+        "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
         "source": "TechCrunch"
       },
       {
