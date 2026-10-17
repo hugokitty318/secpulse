@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-16T21:42:09.549991Z",
+  "ts": "2026-10-17T00:25:24.077571Z",
   "tabs": {
     "cn_sec": [
       {
@@ -173,10 +173,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 為何捨棄 Git？自研 Scion 揭 AI Agent 時代開發新瓶頸",
-        "link": "https://techorange.com/2026/10/15/anthropic-source-control-redesigning/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 12:52:55 +0800",
-        "description": "AI Coding Agent（AI 程式開發代理）讓工程師寫程式的速度大幅提升，但如果程式碼產出快到連既有開發工具都難以負荷，會發生什麼事、又如何解決？AI 公司 Anthropic 就遇上了這個問題，稱甚至決定捨棄廣泛使用的 Git，自行打造新的版本控制系統 Scion。 類似的開發流程瓶頸，也開始出現在其他企業。哈佛大學研究人員 Fiona Chen 與 James Stratton 分析 718 家企業、約 3 億筆工程工作紀錄，發現導入 AI Coding Agent 後，程式碼產出增",
+        "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
+        "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 17 Oct 2026 06:29:00 +0800",
+        "description": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創新預算包容下的概念驗證，如今已轉變為龐大的維運費用，促使財務長與董事會開始嚴格審視 AI 的實際財務",
         "source": "TechOrange"
       },
       {
@@ -397,7 +397,7 @@
         "title": "Replit is no longer working with Anthropic, CEO says",
         "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
         "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
-        "description": "Replit CEO and co-founder Amjad Masad made the comments during TechCrunch Disrupt 2026.",
+        "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
         "source": "TechCrunch"
       },
       {
@@ -492,6 +492,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "All the news about the iPhone Duo",
+        "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
+        "pubDate": "2026-10-16T19:36:26-04:00",
+        "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses To",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
+        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
+        "pubDate": "2026-10-16T18:51:22-04:00",
+        "description": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year",
+        "source": "TheVerge"
+      },
+      {
         "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
         "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
         "pubDate": "2026-10-16T16:50:27-04:00",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
         "pubDate": "2026-10-16T14:30:27-04:00",
         "description": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The new Apple TV 4K just got its first (very small) discount",
-        "link": "https://www.theverge.com/gadgets/1012962/apple-tv-4k-fourth-generation-fanttik-s1-pro-deal-sale",
-        "pubDate": "2026-10-16T12:02:22-04:00",
-        "description": "Earlier this week, Apple announced its new Apple TV 4K, which costs nearly twice as much as the 2022 model did at launch. Amazon is now offering the first discount on the forthcoming streaming box (coming out on November 13th), just days after discou",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple&#8217;s HomeView has an app problem",
-        "link": "https://www.theverge.com/podcast/1012911/apple-homeview-apps-carplay-vergecast",
-        "pubDate": "2026-10-16T11:38:17-04:00",
-        "description": "It's been a couple of days since Apple's big smart home announcement, and we have some more information - and a bunch of new questions - about the Apple HomeView. The device has plenty of computing oomph, is always connected to power, and looks like ",
         "source": "TheVerge"
       }
     ],
