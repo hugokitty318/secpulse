@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T04:57:51.595159Z",
+  "ts": "2026-10-17T09:17:45.808467Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
-        "link": "https://thehackernews.com/2026/10/nextjs-ships-out-of-band-patch-for-two.html",
-        "pubDate": "Thu, 15 Oct 2026 17:58:13 +0530",
-        "description": "Next.js released an out-of-band security update on October 14 that fixes two critical flaws allowing unauthenticated remote code execution, along with a high-severity denial-of-service flaw.\n\nOne code-execution flaw is in React Server Components, and",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
         "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400",
@@ -334,6 +327,13 @@
         "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
         "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+        "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+        "pubDate": "Sat, 17 Oct 2026 11:46:46 +0530",
+        "description": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain unauthorized acce",
+        "source": "TheHackerNews"
       },
       {
         "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
