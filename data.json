@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T21:25:02.321501Z",
+  "ts": "2026-10-17T23:23:57.749798Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Meta removes language that raised scraping and AI training concerns",
+        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+        "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
+        "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
         "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
         "pubDate": "Sat, 17 Oct 2026 20:55:52 +0000",
@@ -482,13 +489,6 @@
         "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/",
         "pubDate": "Fri, 16 Oct 2026 14:26:51 +0000",
         "description": "Actor and angel investor Mark Wahlberg says he's OK with using AI in filmmaking, provided it's used \"to enhance what you're doing.\"",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-        "link": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
-        "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000",
-        "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
         "source": "TechCrunch"
       },
       {
