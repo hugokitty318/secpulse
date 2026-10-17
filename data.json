@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T16:24:13.655953Z",
+  "ts": "2026-10-17T18:48:12.639641Z",
   "tabs": {
     "cn_sec": [
       {
@@ -492,6 +492,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+        "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+        "pubDate": "2026-10-17T13:00:00-04:00",
+        "description": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+        "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+        "pubDate": "2026-10-17T12:39:44-04:00",
+        "description": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery",
+        "source": "TheVerge"
+      },
+      {
         "title": "Meta removes language that may have allowed it to scrape news sites",
         "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
         "pubDate": "2026-10-17T11:04:36-04:00",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
         "pubDate": "2026-10-17T10:30:00-04:00",
         "description": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important m",
-        "source": "TheVerge"
-      },
-      {
-        "title": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-        "link": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
-        "pubDate": "2026-10-17T10:00:00-04:00",
-        "description": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Websites are closing their doors to AI agents",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "pubDate": "2026-10-17T09:00:00-04:00",
-        "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. Bu",
         "source": "TheVerge"
       }
     ],
