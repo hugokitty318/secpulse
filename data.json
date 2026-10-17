@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T09:17:45.808467Z",
+  "ts": "2026-10-17T13:10:48.926537Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,13 +266,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
-        "link": "https://thehackernews.com/2026/10/nginx-fixes-5-flaws-including-possible.html",
-        "pubDate": "Thu, 15 Oct 2026 18:28:05 +0530",
-        "description": "NGINX released versions 1.30.6 and 1.31.7 on October 14 to fix five vulnerabilities, one of them present in every release since May 2005.\n\nThere are three memory bugs that F5, the company behind NGINX, says could crash a worker process or possibly le",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
         "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400",
@@ -327,6 +320,13 @@
         "pubDate": "Thu, 15 Oct 2026 05:10:20 -0400",
         "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
+        "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
+        "pubDate": "Sat, 17 Oct 2026 16:41:56 +0530",
+        "description": "Cybersecurity researchers have discovered a malicious npm package that's part of a recently disclosed software supply chain attack campaign dubbed MALFEX.\n\nThe package, named \"imgdecode,\" was uploaded to the package registry on September 30, 2026, by",
+        "source": "TheHackerNews"
       },
       {
         "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
@@ -492,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Websites are closing their doors to AI agents",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "pubDate": "2026-10-17T09:00:00-04:00",
+        "description": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. Bu",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Bose’s new earbuds make a strong case for wires",
+        "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+        "pubDate": "2026-10-17T09:00:00-04:00",
+        "description": "After Apple courageously removed the headphone jack from the iPhone in 2016, most people switched to Bluetooth earbuds and never looked back. But their wired counterparts have stuck around, and their sales even went up this year after five years of d",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Apple’s HomeView is just the latest threat to online recipe writers",
+        "link": "https://www.theverge.com/tech/1012820/apple-homeview-recipe-formatting",
+        "pubDate": "2026-10-17T08:00:00-04:00",
+        "description": "When Apple revealed the HomeView to the world, it did so with an unusual ad for the company: Instead of pristine, polished tech in immaculate rooms, it's a three-minute look at the messy, frantic morning routine of a family of five. Apple's new smart",
+        "source": "TheVerge"
+      },
+      {
+        "title": "It’s a dream week for tech docs",
+        "link": "https://www.theverge.com/tech/1013367/best-tech-documentaries-musk-holmes-installer",
+        "pubDate": "2026-10-17T08:00:00-04:00",
+        "description": "Hi, friends! Welcome to Installer No. 148, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope you're enjoying all your pumpkin-flavored everything, and also you can read all the old editions at the Installer ",
+        "source": "TheVerge"
+      },
+      {
         "title": "All the news about the iPhone Duo",
         "link": "https://www.theverge.com/tech/1010131/apple-iphone-duo-news-announcements",
         "pubDate": "2026-10-16T19:36:26-04:00",
         "description": "Apple has finally announced its long-rumored foldable: the iPhone Duo. The new phone has a 5.4-inch outer display and a 7.6-inch inner display, a “nano‑texture” finish on the inner screen, and barely any visible crease. Instead of Face ID, it uses To",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple&#8217;s updated App Store rules go after &#8216;nudify&#8217; AI apps",
-        "link": "https://www.theverge.com/tech/1013314/apple-app-store-nudify-ai-apps-harassment",
-        "pubDate": "2026-10-16T18:51:22-04:00",
-        "description": "Apple's App Store rules now more explicitly ban so-called \"nudify\" apps that generate intimate images of people without their consent using AI tools. The rule changes follow significant criticism toward Apple after X users used Grok earlier this year",
-        "source": "TheVerge"
-      },
-      {
-        "title": "We can finally hear some of Wu-Tang Clan&#8217;s Once Upon A Time in Shaolin album",
-        "link": "https://www.theverge.com/entertainment/1013277/wu-tang-once-upon-a-time-in-shaolin-pablo-torre-martin-shkreli",
-        "pubDate": "2026-10-16T16:50:27-04:00",
-        "description": "Wu-Tang's Once Upon A Time in Shaolin album has, for the most part, been extremely difficult to listen to, but you can now hear two snippets of the album thanks to the podcast Pablo Torre Finds Out, which just published an episode all about the exclu",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Tesla driver says he was asleep and using FSD when he crashed into highway patrol cars",
-        "link": "https://www.theverge.com/transportation/1013280/tesla-chp-fsd-crash",
-        "pubDate": "2026-10-16T16:49:04-04:00",
-        "description": "After this horrific crash involving a Tesla driver who said he was asleep and using the driver assist mode, the California Highway Patrol warns that \"Despite its name, full self-driving is not fully autonomous. Technology does not relieve drivers of ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Why Apple is finally making its own smart home devices",
-        "link": "https://www.theverge.com/tech/1013025/apple-home-collection-products-lg-schneider-smart-home",
-        "pubDate": "2026-10-16T14:30:27-04:00",
-        "description": "For more than a decade, Apple has told other companies to build smart home devices for its platform. This week, Apple launched its own. The Apple Home Collection is a lineup of cameras, thermostats, sensors, a smart door lock, and a video doorbell, a",
         "source": "TheVerge"
       }
     ],
