@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-17T18:48:12.639641Z",
+  "ts": "2026-10-17T21:25:02.321501Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,27 @@
     ],
     "en_tech": [
       {
+        "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+        "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
+        "pubDate": "Sat, 17 Oct 2026 20:55:52 +0000",
+        "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+        "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
+        "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+        "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+        "pubDate": "Sat, 17 Oct 2026 18:48:08 +0000",
+        "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Ember’s new temperature-controlled mug makes my nightly tea ritual even better",
         "link": "https://techcrunch.com/2026/10/17/embers-new-temperature-controlled-mug-makes-my-nightly-tea-ritual-even-better/",
         "pubDate": "Sat, 17 Oct 2026 15:30:00 +0000",
@@ -398,13 +419,6 @@
         "link": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
         "pubDate": "Sat, 17 Oct 2026 02:36:18 +0000",
         "description": "Mark Wahlberg, who once sank money into a gym chain that got kicked off the NYSE, is now building his own, and he promises you’ll get a cold plunge, a blood panel and a protein muffin without needing a trust fund.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Replit is no longer working with Anthropic, CEO says",
-        "link": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
-        "pubDate": "Fri, 16 Oct 2026 21:22:28 +0000",
-        "description": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
         "source": "TechCrunch"
       },
       {
@@ -478,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Replit’s CEO says the future of work is the ‘self-driving company’",
-        "link": "https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/",
-        "pubDate": "Fri, 16 Oct 2026 12:55:09 +0000",
-        "description": "Replit CEO Amjad Masad envisions a future of “self-driving companies,” where AI agents handle day-to-day tasks and people focus on higher-level decisions.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Even Benchmark thinks AI is eroding the venture pact against backing rivals",
-        "link": "https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/",
-        "pubDate": "Fri, 16 Oct 2026 05:16:46 +0000",
-        "description": "Benchmark says the Valley’s rule against backing rivals is getting harder to keep.",
-        "source": "TechCrunch"
+        "title": "TikTok bans Musk documentary account",
+        "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+        "pubDate": "2026-10-17T15:32:23-04:00",
+        "description": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distr",
+        "source": "TheVerge"
       },
       {
         "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
         "pubDate": "2026-10-17T11:00:00-04:00",
         "description": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Jad Abumrad loves a butterfly knife and a good springy pillow",
-        "link": "https://www.theverge.com/entertainment/1013381/jad-abumrad-radiolab-dolly-parton-fela-kuti-podcast-interview",
-        "pubDate": "2026-10-17T10:30:00-04:00",
-        "description": "It's hard to overstate Jad Abumrad's impact on the podcasting world. He created and hosted Dolly Parton's America and Fela Kuti: Fear No Man, two Peabody Award-winning shows that offered unprecedented looks at the lives of two of the most important m",
         "source": "TheVerge"
       }
     ],
