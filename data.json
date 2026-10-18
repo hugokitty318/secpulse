@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T06:34:15.857943Z",
+  "ts": "2026-10-18T11:41:05.272419Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,13 +259,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Help TDS Linked to Hotejka as 20,000+ Cloudflare Pages Domains Host Tech Support Scams",
-        "link": "https://thehackernews.com/2026/10/help-tds-linked-to-hotejka-as-20000.html",
-        "pubDate": "Thu, 15 Oct 2026 19:41:36 +0530",
-        "description": "A long-running Traffic Distribution System (TDS) known as Help TDS to a Russian-language affiliate program called Hotejka, which appears to be a rebrand of a traffic monetization operation dubbed ROI777.\n\nHelp TDS is assessed to be active since at le",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
         "pubDate": "Thu, 15 Oct 2026 16:25:04 -0400",
@@ -306,6 +299,13 @@
         "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
         "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
+        "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
+        "pubDate": "Sun, 18 Oct 2026 13:53:02 +0530",
+        "description": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microso",
+        "source": "TheHackerNews"
       },
       {
         "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
