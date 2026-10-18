@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T11:41:05.272419Z",
+  "ts": "2026-10-18T14:50:20.877004Z",
   "tabs": {
     "cn_sec": [
       {
@@ -294,18 +294,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-        "pubDate": "Thu, 15 Oct 2026 09:18:36 -0400",
-        "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
         "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
         "pubDate": "Sun, 18 Oct 2026 13:53:02 +0530",
         "description": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and compromised Microso",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers exploit SiteGuard WAF flaw to run commands as SYSTEM, root",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+        "pubDate": "Sun, 18 Oct 2026 10:23:16 -0400",
+        "description": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
@@ -492,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok bans Musk documentary account",
-        "link": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-        "pubDate": "2026-10-17T15:32:23-04:00",
-        "description": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distr",
+        "title": "J Mascis has nothing better to do",
+        "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
+        "pubDate": "2026-10-18T10:00:00-04:00",
+        "description": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar r",
         "source": "TheVerge"
       },
       {
-        "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-        "link": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-        "pubDate": "2026-10-17T13:00:00-04:00",
-        "description": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT ",
+        "title": "Trump says Google kisses his ass",
+        "link": "https://www.theverge.com/policy/1013485/trump-google-kiss-my-ass",
+        "pubDate": "2026-10-18T09:25:01-04:00",
+        "description": "During a rally on Saturday, October 17th, in Highland Heights, Kentucky, Donald Trump bragged about how much more powerful and influential he was during his second term. While listing off his accomplishments, he mentioned his decision to rename the G",
         "source": "TheVerge"
       },
       {
-        "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-        "link": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-        "pubDate": "2026-10-17T12:39:44-04:00",
-        "description": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery",
+        "title": "The best gadget I bought this year is a milk frother",
+        "link": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+        "pubDate": "2026-10-18T09:00:00-04:00",
+        "description": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly",
         "source": "TheVerge"
       },
       {
-        "title": "Meta removes language that may have allowed it to scrape news sites",
-        "link": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-        "pubDate": "2026-10-17T11:04:36-04:00",
-        "description": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta ",
+        "title": "How overhead projectors took over your classroom",
+        "link": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+        "pubDate": "2026-10-18T08:55:01-04:00",
+        "description": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It wo",
         "source": "TheVerge"
       },
       {
-        "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-        "link": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-        "pubDate": "2026-10-17T11:00:00-04:00",
-        "description": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 ",
+        "title": "Cities want to put the boot on robotaxis",
+        "link": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+        "pubDate": "2026-10-18T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for",
         "source": "TheVerge"
       }
     ],
