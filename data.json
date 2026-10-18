@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T20:36:00.810164Z",
+  "ts": "2026-10-18T22:35:14.942233Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,20 @@
     ],
     "en_tech": [
       {
+        "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
+        "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
+        "pubDate": "Sun, 18 Oct 2026 21:00:00 +0000",
+        "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+        "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
+        "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
         "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
         "pubDate": "Sun, 18 Oct 2026 19:03:38 +0000",
@@ -478,18 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elorian’s first AI model wants to reason with images, not just about them",
-        "link": "https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them/",
-        "pubDate": "Fri, 16 Oct 2026 16:01:37 +0000",
-        "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tressfecta wants to make hair braiding a less arduous task for hairstylists",
-        "link": "https://techcrunch.com/2026/10/16/tressfecta-wants-to-make-hair-braiding-a-less-arduous-task-for-hairstylists/",
-        "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000",
-        "description": "Tressfecta builds products for textured hair. Its first project is a tool called Plait Pilot that helps braiders with the initial process of separating hair from packs before braiding begins.",
-        "source": "TechCrunch"
+        "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
+        "link": "https://www.theverge.com/policy/1013573/spd-officer-fired-flock-ice-husband",
+        "pubDate": "2026-10-18T18:20:53-04:00",
+        "description": "Now, former Savannah police officer Amber Harpe was fired in August following a department investigation that found she had shared her Flock login information with her husband, Tyler Harpe, an ICE agent. SPD does not share its Flock data with ICE and",
+        "source": "TheVerge"
       },
       {
         "title": "Mister Organ is one of the most unsettling documentaries I’ve ever seen",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
         "pubDate": "2026-10-18T11:00:00-04:00",
         "description": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "J Mascis has nothing better to do",
-        "link": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-        "pubDate": "2026-10-18T10:00:00-04:00",
-        "description": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar r",
         "source": "TheVerge"
       }
     ],
