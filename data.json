@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-19T17:45:28.470016Z",
+  "ts": "2026-10-19T22:18:15.584453Z",
   "tabs": {
     "cn_sec": [
       {
@@ -294,6 +294,13 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+        "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+        "pubDate": "Mon, 19 Oct 2026 23:02:13 +0530",
+        "description": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public.\n\nAccording to a researcher who goes by the online alias ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
         "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
         "pubDate": "Mon, 19 Oct 2026 21:58:47 +0530",
@@ -315,6 +322,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+        "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+        "pubDate": "Mon, 19 Oct 2026 17:49:48 -0400",
+        "description": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+        "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+        "pubDate": "Mon, 19 Oct 2026 17:24:51 -0400",
+        "description": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
         "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
         "pubDate": "Mon, 19 Oct 2026 17:20:00 +0530",
@@ -322,11 +343,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+        "pubDate": "Mon, 19 Oct 2026 15:40:58 -0400",
+        "description": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
         "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
         "pubDate": "Mon, 19 Oct 2026 15:36:40 +0530",
         "description": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gem",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+        "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+        "pubDate": "Mon, 19 Oct 2026 14:51:13 -0400",
+        "description": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "OpenCode hack exposes API keys amid AI distillation attacks",
@@ -355,105 +390,63 @@
         "pubDate": "Mon, 19 Oct 2026 10:55:23 -0400",
         "description": "Microsoft has resolved a bug that caused games and apps using AC-3 (Dolby Digital) audio decoding to crash after installing the September 2026 Windows 11 preview update (KB5124010). [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Inside the Underground Market for Know Your Client Services",
-        "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-market-for-know-your-client-services/",
-        "pubDate": "Mon, 19 Oct 2026 10:00:10 -0400",
-        "description": "Cybercriminals are selling forged identity documents, deepfake videos, and live verification services to help buyers bypass Know Your Client (KYC) checks. Flare examines how these underground services operate and the techniques used to create and mai",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "F5 releases out-of-band patches for critical NGINX vulnerabilities",
-        "link": "https://www.bleepingcomputer.com/news/security/f5-releases-out-of-band-patches-for-critical-nginx-vulnerabilities/",
-        "pubDate": "Mon, 19 Oct 2026 09:49:24 -0400",
-        "description": "F5 has released out-of-band security patches to address multiple NGINX web server flaws, including three critical-severity vulnerabilities that can let attackers execute code on vulnerable systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-        "pubDate": "Mon, 19 Oct 2026 08:44:44 -0400",
-        "description": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-        "pubDate": "Mon, 19 Oct 2026 04:58:41 -0400",
-        "description": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-        "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-        "pubDate": "Fri, 16 Oct 2026 23:18:45 +0530",
-        "description": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protec",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "No agenda, no rush, no leaving San Francisco: Benchmark’s partners on investing in a frenzied market",
-        "link": "https://techcrunch.com/2026/10/18/no-agenda-no-rush-no-leaving-san-francisco-benchmarks-partners-on-investing-in-a-frenzied-market/",
-        "pubDate": "Sun, 18 Oct 2026 21:00:00 +0000",
-        "description": "Benchmark may have grown its funds and swapped out some partners, but onstage the five who are left sounded like friends who just happen to be running one of the Valley’s most storied firms",
+        "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+        "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+        "pubDate": "Mon, 19 Oct 2026 22:04:28 +0000",
+        "description": "Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
-        "pubDate": "Sun, 18 Oct 2026 20:37:40 +0000",
-        "description": "The company offered some broad-strokes ideas for how this money might actually be used, such as “large donations to traditional nonprofits or direct distributions to specific populations.”",
+        "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
+        "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
+        "pubDate": "Mon, 19 Oct 2026 20:09:24 +0000",
+        "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
         "source": "TechCrunch"
       },
       {
-        "title": "Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’",
-        "link": "https://techcrunch.com/2026/10/18/everyones-watching-the-elizabeth-holmes-documentary-you-can-see-everything/",
-        "pubDate": "Sun, 18 Oct 2026 19:03:38 +0000",
-        "description": "\"You Can See Everything\" is having the second biggest opening weekend ever for a documentary film.",
+        "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
+        "link": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts/",
+        "pubDate": "Mon, 19 Oct 2026 19:28:34 +0000",
+        "description": "OpenCode is an open-source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept refusing to look at",
         "source": "TechCrunch"
       },
       {
-        "title": "Disney agrees to hire the majority of Character AI’s workforce",
-        "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
-        "pubDate": "Sun, 18 Oct 2026 16:30:00 +0000",
-        "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
+        "title": "Tolan snags $30M for its AI companion that helps users navigate life",
+        "link": "https://techcrunch.com/2026/10/19/tolan-snags-30m-for-its-ai-companion-that-helps-users-navigate-life/",
+        "pubDate": "Mon, 19 Oct 2026 19:00:12 +0000",
+        "description": "AI companion app Tolan has raised another $30 million after attracting more than 250,000 active users.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: Rivian’s next act",
-        "link": "https://techcrunch.com/2026/10/18/techcrunch-mobility-rivians-next-act/",
-        "pubDate": "Sun, 18 Oct 2026 16:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Replika’s founder built the AI assistant she pitched at Disrupt 12 years ago",
+        "link": "https://techcrunch.com/2026/10/19/replikas-founder-built-the-ai-assistant-she-pitched-at-disrupt-12-years-ago/",
+        "pubDate": "Mon, 19 Oct 2026 18:49:04 +0000",
+        "description": "Eugenia Kuyda's newest startup Wabi is positioned to take advantage of an idea she had more than a decade ago. Wabi offers a personal AI assistant with a twist, free and downloadable to anyone today.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta removes language that raised scraping and AI training concerns",
-        "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-        "pubDate": "Sat, 17 Oct 2026 21:31:32 +0000",
-        "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+        "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
+        "link": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips/",
+        "pubDate": "Mon, 19 Oct 2026 18:37:27 +0000",
+        "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
-        "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
-        "pubDate": "Sat, 17 Oct 2026 20:55:52 +0000",
-        "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-        "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-        "pubDate": "Sat, 17 Oct 2026 20:21:19 +0000",
-        "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
+        "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+        "pubDate": "Mon, 19 Oct 2026 18:00:39 +0000",
+        "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
         "source": "TechCrunch"
       },
       {
         "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
         "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
         "pubDate": "Mon, 19 Oct 2026 17:39:51 +0000",
-        "description": "His vision will culminate with the R4 vehicle.",
+        "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
         "source": "TechCrunch"
       },
       {
@@ -467,7 +460,7 @@
         "title": "People are using AI to make their smart TVs dumb again",
         "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
         "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
-        "description": "Fed up with ads, tracking and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
         "source": "TechCrunch"
       },
       {
@@ -492,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+        "link": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world/",
+        "pubDate": "Mon, 19 Oct 2026 12:30:00 +0000",
+        "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch Disrupt, October",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
         "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
         "pubDate": "Mon, 19 Oct 2026 07:30:00 +0000",
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
+        "title": "The fossil fuel comeback is here",
+        "link": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+        "pubDate": "2026-10-19T17:48:01-04:00",
+        "description": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, a",
+        "source": "TheVerge"
+      },
+      {
+        "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+        "pubDate": "2026-10-19T17:28:20-04:00",
+        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya notic",
+        "source": "TheVerge"
+      },
+      {
+        "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
+        "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
+        "pubDate": "2026-10-19T17:00:17-04:00",
+        "description": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and ve",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Sony’s best noise-canceling earbuds are nearly $100 off today only",
+        "link": "https://www.theverge.com/gadgets/1013911/sonys-best-noise-canceling-earbuds-are-nearly-100-off-today-only",
+        "pubDate": "2026-10-19T14:52:41-04:00",
+        "description": "For a very limited time, Sony’s latest high-end noise-canceling earbuds are actually cheaper than their last-gen counterpart, the WF-1000XM5. B&H Photo is selling Sony’s latest WF-1000XM6 in black for an all-time low of $238 ($92 off) at checkout. Ot",
+        "source": "TheVerge"
+      },
+      {
         "title": "Apple teases MacBook Pro event next week",
         "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
         "pubDate": "2026-10-19T12:04:29-04:00",
         "description": "Apple has sent invites to a second product launch this month, and it's scheduled for October 28th at 1PM ET in Los Angeles. At the event, Apple is set to announce new Macs and a refreshed iPad Mini, according to Bloomberg. The big announcement is exp",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Amazon is funding a new nuclear plant in Indiana",
-        "link": "https://www.theverge.com/tech/1013735/amazon-x-energy-aep-nuclear-indiana",
-        "pubDate": "2026-10-19T11:44:20-04:00",
-        "description": "Amazon has signed an agreement with X-energy and American Electric Power (AEP) to fund the building of a new nuclear energy facility in Indiana. The proposed plant, which would replace the now defunct coal-fueled Breed Generating Station in Fairbanks",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-        "link": "https://www.theverge.com/gadgets/1013645/apple-mac-mini-m4-lg-c6-oled-deal-sale",
-        "pubDate": "2026-10-19T10:41:48-04:00",
-        "description": "Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
-        "link": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
-        "pubDate": "2026-10-19T10:30:00-04:00",
-        "description": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpect",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Major European mobile carriers are teaming up for a &#8216;direct&#8217; satellite program without Starlink",
-        "link": "https://www.theverge.com/policy/1013680/european-mobile-carriers-mobile-satellite-starlink",
-        "pubDate": "2026-10-19T10:24:42-04:00",
-        "description": "Deutsche Telekom, Orange, Telefónica, and Vodafone signed a letter of intent saying they're considering a joint bid for spectrum that would support European direct-to-device satellite competition for SpaceX's Starlink. The four telecom companies say ",
         "source": "TheVerge"
       }
     ],
