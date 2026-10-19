@@ -1,19 +1,75 @@
 {
-  "ts": "2026-10-19T05:17:38.920885Z",
+  "ts": "2026-10-19T11:14:17.660718Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Microchip擴充資料中心產品線，導入CNSA 2.0後量子密碼學支援",
-        "link": "https://www.ithome.com.tw/news/179774",
-        "pubDate": "2026-10-19 12:47",
-        "description": "涵蓋PCIe 6.0交換器、NVMe SSD控制器與RAID儲存加速器，強化硬體信任根、安全啟動、加密及資料保護能力",
+        "title": "Sucuri揭露可自我重建的WordPress惡意程式SC，移除後數秒便會重現",
+        "link": "https://www.ithome.com.tw/news/179785",
+        "pubDate": "2026-10-19 18:39",
+        "description": "後門程式元件分散儲存於檔案、資料庫及共享記憶體等多個位置，並透過以太坊區塊鏈基礎設施接收指令，還能隱藏管理員帳號並停用資安外掛",
         "source": "iThome資安"
       },
       {
-        "title": "ConnectWise備份API憑證遭濫用，173個M365租戶遭未授權存取",
+        "title": "Linux核心PwnEscape漏洞可突破虛擬機隔離，導致主機記憶體洩漏",
+        "link": "https://www.ithome.com.tw/news/179780",
+        "pubDate": "2026-10-19 18:23",
+        "description": "Linux核心PwnEscape漏洞來自網路封包檢查碼處理缺陷，攻擊者可能藉此從虛擬機器讀取主機記憶體，研究人員更在測試環境取得主機最高管理權限，Linux核心現已發布修補程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Arch Linux軟體市集出現惡意套件，攻擊者藉此散布惡意程式以取得root權限",
+        "link": "https://www.ithome.com.tw/news/179783",
+        "pubDate": "2026-10-19 17:21",
+        "description": "Arch Linux社群套件庫Arch User Repository（AUR）遭攻擊者植入偽冒套件，假冒熱門套件管理輔助工具yay與paru，並透過惡意安裝腳本，以root權限執行遠端Shell指令",
+        "source": "iThome資安"
+      },
+      {
+        "title": "雲端版辦公室軟體Collabora Online漏洞遭到利用，攻擊者試圖入侵Nextcloud伺服器",
+        "link": "https://www.ithome.com.tw/news/179782",
+        "pubDate": "2026-10-19 17:17",
+        "description": "上週末美國國家漏洞資料庫（NVD）針對雲端服務Nextcloud用戶，公布雲端版辦公室軟體Collabora Online Built-in CODE Server（richdocumentscode）重大漏洞CVE-2026-110447，值得留意的是，相關漏洞利用活動已出現至少一個月",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Drupal修補重大RCE漏洞，呼籲用戶儘速採取行動",
+        "link": "https://www.ithome.com.tw/news/179781",
+        "pubDate": "2026-10-19 16:30",
+        "description": "內容管理系統Drupal開發團隊近日發布安全性更新，修補Drupal Core與模組Entity List存在的遠端程式碼執行（RCE）漏洞CVE-2026-108097、CVE-2026-108099，用戶應儘速採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月19日，Google揭露中國相關駭客利用BeyondTrust零時差漏洞入侵企業內網",
+        "link": "https://www.ithome.com.tw/news/179777",
+        "pubDate": "2026-10-19 15:15",
+        "description": "Google揭露中國相關駭客組織ARMORY CASTLE利用BeyondTrust Remote Support零時差漏洞，入侵企業遠端支援設備並存取內部系統。BeyondTrust已完成SaaS服務平臺的修補，自行託管企業仍須確認更新狀態，並檢查是否曾遭入侵",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Microchip為NVMe SSD控制器導入CNSA 2.0後量子密碼學支援",
+        "link": "https://www.ithome.com.tw/news/179774",
+        "pubDate": "2026-10-19 12:47",
+        "description": "Microchip強化資料中心產品線硬體信任根、安全啟動、加密及資料保護能力，涵蓋PCIe 6.0交換器、NVMe SSD控制器與RAID儲存加速器",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Adobe Commerce重大漏洞BlockStrap恐讓攻擊者直接在伺服器執行任意程式碼",
+        "link": "https://www.ithome.com.tw/news/179773",
+        "pubDate": "2026-10-19 12:28",
+        "description": "資安公司Sansec警告，Adobe近日修補的Adobe Commerce（Magento Open Source）滿分漏洞CVE-2026-103849（BlockStrap）相當危險，該公司在一天內找出4種利用方法，用戶應儘速處理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Adobe於10月上半修補176個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/179772",
+        "pubDate": "2026-10-19 12:27",
+        "description": "上週Adobe發布10月上半的例行安全更新，針對旗下11種應用程式及系統元件進行修補，並呼籲用戶應優先套用Experience Manager、ColdFusion，以及Adobe Commerce（Magento Open Source）的更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "162個M365租戶遭未授權存取，ConnectWise備份API憑證遭濫用",
         "link": "https://www.ithome.com.tw/news/179771",
         "pubDate": "2026-10-19 12:20",
-        "description": "攻擊者利用已獲授權的雲端應用程式身分取得M365資料存取權限，波及電子郵件、雲端檔案與Teams，ConnectWise已停用受影響服務",
+        "description": "攻擊者利用已獲授權雲端備份應用程式憑證取得M365資料存取權限，波及電子郵件、雲端檔案與Teams等雲端資源，ConnectWise已停用受影響服務",
         "source": "iThome資安"
       },
       {
@@ -38,7 +94,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "OpenBSD修補源自37年前的記憶體漏洞，研究人員已公開取得root權限的攻擊程式",
+        "title": "OpenBSD修補源自37年前程式碼的記憶體漏洞，研究人員已公開取得root權限的攻擊程式",
         "link": "https://www.ithome.com.tw/news/179765",
         "pubDate": "2026-10-19 11:18",
         "description": "Calif研究人員串連兩項核心缺陷，繞過系統防護取得root權限，OpenBSD已於9月發布修補",
@@ -48,93 +104,79 @@
         "title": "CISA呼籲BeyondTrust用戶儘速修補遠端支援系統重大漏洞",
         "link": "https://www.ithome.com.tw/news/179762",
         "pubDate": "2026-10-19 10:50",
-        "description": "美國網路安全暨基礎設施安全局（CISA）發布警訊，BeyondTrust Remote Support存在重大身分驗證繞過漏洞CVE-2026-102764，且攻擊者已在實際環境中利用，用戶應立即安裝修補程式因應",
+        "description": "美國網路安全與基礎設施安全局（CISA）發布警訊，BeyondTrust Remote Support存在重大身分驗證繞過漏洞CVE-2026-102764，且攻擊者已在實際環境中利用，用戶應立即安裝修補程式因應",
         "source": "iThome資安"
       },
       {
-        "title": "BeyondTrust、Fortinet漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179761",
-        "pubDate": "2026-10-19 09:59",
-        "description": "上週末美國網路安全與基礎設施安全局（CISA）更新已遭利用漏洞名單（KEV），新增Fortinet應用系統漏洞CVE-2025-61624、BeyondTrust Remote Support漏洞CVE-2026-102764",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google揭露中國相關駭客利用BeyondTrust零時差漏洞入侵企業內網",
-        "link": "https://www.ithome.com.tw/news/179742",
-        "pubDate": "2026-10-19 08:00",
-        "description": "Google揭露中國相關駭客組織ARMORY CASTLE利用BeyondTrust Remote Support零時差漏洞，入侵企業遠端支援設備並存取內部系統。BeyondTrust已完成SaaS修補，自行託管企業仍須確認修補狀態，並檢查是否曾遭入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Proofpoint以63億美元併購Varonis，擴大資料與AI安全業務",
-        "link": "https://www.ithome.com.tw/news/179755",
-        "pubDate": "2026-10-19 08:00",
-        "description": "根據SecurityWeek報導，這是2026年截至目前宣布的最大規模資安併購案。Proofpoint計畫在交易完成後整合雙方技術，建立整合式資料與AI安全平臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Nginx修補5項漏洞，3項恐導致遠端程式碼執行",
-        "link": "https://www.ithome.com.tw/news/179759",
-        "pubDate": "2026-10-19 08:00",
-        "description": "網頁伺服器軟體Nginx修補5項資安漏洞，其中3項可能在特定條件下導致遠端程式碼執行，另有TLS漏洞可能讓攻擊者繞過用戶端憑證驗證。Nginx已發布1.30.6及1.31.7版修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "G7將舉行AI網路攻擊演練，檢驗金融業應變能力",
-        "link": "https://www.ithome.com.tw/news/179758",
-        "pubDate": "2026-10-19 08:00",
-        "description": "AI帶來新的網路攻擊風險，G7計畫舉行桌上演練，模擬金融體系遭到AI輔助的網路攻擊，檢驗各國財政部門與中央銀行的應變能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟打擊跨國網釣犯罪服務，涉及逾10億則惡意訊息",
-        "link": "https://www.ithome.com.tw/news/179734",
-        "pubDate": "2026-10-19 08:00",
-        "description": "跨國網釣犯罪服務YAM Store、CoGUI及Iron Man涉及大規模網釣活動。根據微軟統計，今年1月以來，犯罪者利用這些服務發送逾10億則網釣郵件與簡訊，鎖定全球150多個國家的消費者及組織",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
-        "link": "https://www.ithome.com.tw/news/179760",
-        "pubDate": "2026-10-19 00:12",
-        "description": "安全性必須跟上AI發展與普及速度，SailPoint執行長暨創辦人Mark McClain評論AI駭入Hugging Face事件，他以F1賽車比喻，要贏得比賽，駕駛必須不僅需要性能強大的引擎，也需要出色的煞車系統，才能跑得快，若不信任自己的煞車，就不會以每小時 200 英里的速度衝進彎道",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Meta、蘋果合作將Muse帶到Mac電腦上執行",
-        "link": "https://www.ithome.com.tw/news/179764",
-        "pubDate": "2026-10-19  11:10:47",
-        "description": "Meta上週推出Mac版Muse App，並開放多模態AI模型Muse Spark Open的權重，同時與蘋果合作，讓這款大型模型能在Mac Studio上執行。",
+        "title": "Vercel Labs推出tsc-ts，以TypeScript重寫Go版TypeScript 7編譯器",
+        "link": "https://www.ithome.com.tw/news/179784",
+        "pubDate": "2026-10-19  06:10:34",
+        "description": "Vercel旗下開發團隊Vercel Labs推出開放原始碼編譯器tsc-ts，將微軟以Go語言開發的TypeScript 7.0.2編譯器重新以TypeScript實作，再透過自家工具scriptc轉換成可直接執行的原生程式。新工具支援型別檢查、JavaScript程式碼輸出及增量建置，目前仍屬實驗性專案。",
         "source": "iThome"
       },
       {
-        "title": "微軟公布尖端模型MAI-Base-2，算力耗用是競爭模型的1/4",
-        "link": "https://www.ithome.com.tw/news/179763",
-        "pubDate": "2026-10-19  10:10:04",
-        "description": "微軟上周公布自行開發的尖端模型MAI-Base-2，號稱在多項核心效能與基準測試上超越OpenAI的主流模型，且在推論與訓練過程中所消耗的算力僅需對手的1/4。",
+        "title": "傳Accenture將公司員工的Claude AI補助額度降為29美元",
+        "link": "https://www.ithome.com.tw/news/179778",
+        "pubDate": "2026-10-19  03:10:13",
+        "description": "404Media報導，由於員工使用AI成本太高，IT委外服務大廠Accenture要求自2026年10月起，員工使用Claude企業版的支出，每人每月上限29美元，超過者必須從專案經費扣除。一名用量超過的員工因此被暫停存取。",
         "source": "iThome"
       },
       {
-        "title": "【資安週報】1012～1016，美國查封中國永信至誠的網路攻擊基礎設施，7國網路安全與執法機構亦針對其攻擊活動聯合示警",
-        "link": "https://www.ithome.com.tw/news/179748",
-        "pubDate": "2026-10-16 17:48",
-        "description": "國慶連假過後，本週資安焦點聚集於美國查封中國資安公司永信至誠科技的攻擊網域，揭露臺灣大學受害案例，7國資安與執法機構也聯合示警。法國超市冷藏系統遭駭、荷蘭零售服務中斷，Ledger硬體錢包更驚傳遭植入晶片；臺灣、日本及韓國企業資安事件頻傳，也持續引發關注",
-        "source": "iThome資安"
+        "title": "Rust 1.99.1修正跨語言函式回傳錯誤，並排除UEFI與macOS建置問題",
+        "link": "https://www.ithome.com.tw/news/179775",
+        "pubDate": "2026-10-19  02:10:47",
+        "description": "Rust開發團隊發布Rust 1.99.1，修正3項先前版本的問題，其中一項可能使C等其他語言呼叫Rust函式時，取得錯誤的回傳數值，影響程式判斷。新版還排除UEFI韌體程式建置失敗，以及macOS部分開發環境無法啟動連結工具的問題。\n跨語言函式回傳錯誤與外部函式介面（FFI）有關，FFI是讓不同程式語言互相呼叫函式的機制。Rust函式可以用布林值表示真或假，C程式取得結果時，通常應讀到1或0，但Rust 1.99.0在部分x86-64平臺未正確處理回傳資料，可能讓C程式收到其他數字。",
+        "source": "iThome"
+      },
+      {
+        "title": "Linux核心將取消AI輔助開發標註要求，開發者仍須對程式碼負責",
+        "link": "https://www.ithome.com.tw/news/179770",
+        "pubDate": "2026-10-19  01:10:11",
+        "description": "Linux核心準備取消AI輔助開發的標註要求，核心開發者Sasha Levin於10月13日提交修訂版，移除開發者使用AI協助撰寫程式碼時，必須在提交紀錄加入Assisted-by標註的規定。文件維護者Jonathan Corbet已於14日接受修改，後續仍須整合至Linux主線。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "AlphaGo 推手 David Silver 不走 LLM 路線，要讓 AI 在模擬「熔爐」裡從零自學",
-        "link": "https://techorange.com/2026/10/15/david-silver-ineffable-superlearner-without-llm/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 17:56:27 +0800",
-        "description": "當多數 AI 實驗室都在大型語言模型（LLM）上加碼，曾主導 AlphaGo 的 David Silver 選了另一條路。他離開 Google DeepMind 後於倫敦創立 Ineffable Intelligence，今年 4 月宣布募得 11 億美元種子輪、估值 51 億美元。美國時間 10 月 13 日，Silver 與共同創辦人之一 Lasse Espeholt 在領投方之一 Sequoia Capital 的 Podcast 節目《Training Data》中，說明這家新創準備怎麼",
-        "source": "TechOrange"
-      },
       {
         "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
         "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 17 Oct 2026 06:29:00 +0800",
         "description": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創新預算包容下的概念驗證，如今已轉變為龐大的維運費用，促使財務長與董事會開始嚴格審視 AI 的實際財務",
+        "source": "TechOrange"
+      },
+      {
+        "title": "量子電腦最多 95% 資源得用來「備料」：Google 降低魔態錯誤率 40 倍，比特幣早期錢包風險受關注",
+        "link": "https://techorange.com/2026/10/19/ai-models-quantum-magic-state-cultivation-computing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 17:00:17 +0800",
+        "description": "Google 表示，旗下 Willow 量子晶片透過「魔態培育」技術製備一種特殊量子態，相較未經培育的量子態，錯誤率降低約 40 倍。這種特殊量子態是執行進階量子運算所需的資源，這項成果也緩解了未來量子電腦破解比特幣錢包所面臨的其中一項硬體瓶頸。 這項研究於 10 月 15 日發表在《Science》期刊。《CoinDesk》指出，這項研究觸及比特幣量子安全討論中很少被提及的問題：過去的討論多聚焦於攻擊者需要多大規模的量子電腦，卻低估了這台量子電腦有多少硬體必須專門用來持續製備運算所需的特殊量子",
+        "source": "TechOrange"
+      },
+      {
+        "title": "QNAP《2026 台灣企業資安韌性大調查》：78% 企業已建立異地備份，但其中近七成仍處可被刪除的失守危機",
+        "link": "https://techorange.com/2026/10/19/qnap2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 14:52:31 +0800",
+        "description": "響應 10 月全球資安意識月（Cybersecurity Awareness Month），威聯通科技（QNAP）發布《2026 台灣企業資安韌性大調查》，對 241 家台灣企業進行自評調查。結果顯示，受訪的台灣企業多半「已開始投入資安」，但資源投入的位置並未能完全防堵攻擊者的路徑。在資安防衛戰場劇烈變化的當下，傳統「基礎備份」早已不足以確保營運不中斷；當備份本身成為駭客破壞的首要目標，具備防刪除、防竄改的不可變機制與快速自動復原能力，才是檢驗企業資安韌性的真正關鍵。 台灣企業資安成熟度全貌：大",
+        "source": "TechOrange"
+      },
+      {
+        "title": "8,000 台人形機器人計畫進上海工廠，西門子：沒有工廠想當 AI 試錯場",
+        "link": "https://techorange.com/2026/10/19/shanghai-humanoid-robots-factories/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 13:43:07 +0800",
+        "description": "10 月 12 日，第 26 屆中國國際工業博覽會（工博會）於上海開幕，機器人成為展場焦點。同一天的開幕式上，上海啟動「加快發展新一代智能製造行動」，目標在 2028 年推動 8,000 台人形機器人進入工廠。然而，西門子中國研究院院長朱驍洵直言：「沒有一家工廠願意把自己的產線變成一個讓 AI 去試錯的試驗場。」 政策端訂下明確數字，產業端則對落地保持務實。《IT 時報》觀察，比起誰的機器人更像人，廠商更在意誰的機器人能幹活，甚至有業者主張工廠不一定需要「人形」。人形機器人要從展示走進產線，還得",
+        "source": "TechOrange"
+      },
+      {
+        "title": "打造通用型機器人  ：高通攜手生態系解鎖 Physical AI「手腦合一」新世代",
+        "link": "https://techorange.com/2026/10/19/qualcomm-physical-ai-dragonwingiq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 11:59:52 +0800",
+        "description": "在製造與營運持續朝向高度自動化、數位化與彈性化發展的當下，AI 機器人正快速從前瞻性技術，轉變為支撐企業智慧製造與營運升級的關鍵能力。國際研調機構 IDC 於《全球供應鏈與產業生態系 2026 年預測》中指出，AI 正加速供應鏈與企業營運由傳統線性模式轉向更智慧、互聯且具協作能力的生態系模式。若要進一步發揮 AI 的應用價值，正有賴跨企業的系統互通性、完善的資料基礎，以及安全可信的數位環境加以支撐。 隨著技術成熟與平台化發展，企業導入 AI 機器人不一定意味著全面推翻既有系統。透過模組化、平台化",
+        "source": "TechOrange"
+      },
+      {
+        "title": "三星 HBM 一條龍模式鬆動？傳接受 NVIDIA 要求，基底晶粒首度交由台積電 3 奈米生產",
+        "link": "https://techorange.com/2026/10/19/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 11:57:27 +0800",
+        "description": "三星電子（Samsung Electronics）傳出將採用台積電的 3 奈米製程，為 NVIDIA 次世代客製化高頻寬記憶體（HBM）製造基底晶粒（Base Die）。《Reuters》引述韓國《首爾經濟新聞》的報導指出，三星已接受 NVIDIA 對 NVHBM 提出的製程要求。 NVIDIA 要求採用台積電製程，NVHBM 將記憶體控制器整合至基底晶粒 《首爾經濟新聞》引述業界消息人士指出，NVIDIA 已要求三星、SK 海力士（SK hynix）及美光科技（Micron Technolog",
         "source": "TechOrange"
       },
       {
@@ -199,51 +241,9 @@
         "pubDate": "Fri, 16 Oct 2026 12:52:44 +0800",
         "description": "亞馬遜（Amazon）近日推出兩款 AI 裝置，主打透過聆聽日常對話，協助使用者記住重要資訊、整理待辦事項，並根據過往互動提供個人化建議。新產品由亞馬遜旗下個人 AI 裝置品牌 Bee 開發，分別為穿戴式的 Frontier，以及可磁吸在手機背面的 Eclipse。 AI 裝置 Bee Frontier、Eclipse，可記錄對話、提供購物建議 兩款裝置是 Bee 前一代手環產品 Pioneer 的後繼機種，也是亞馬遜於 2025 年收購 AI 穿戴裝置新創 Bee 後推出的新品。Frontie",
         "source": "TechOrange"
-      },
-      {
-        "title": "Meta 推美最強開放模型 Muse Spark Open，8,160 億參數為何兩台 Mac 就能跑？",
-        "link": "https://techorange.com/2026/10/16/meta-muse-spark-open-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 16 Oct 2026 11:51:31 +0800",
-        "description": "Meta 本週動作頻頻，先是發表新一代閉源 AI 模型 Muse Wonder，又於美國時間 10/15 發布新一代 AI 模型 Muse Spark Open，並宣稱是迄今最強的美國開放權重模型，總參數高達 8,160 億，主攻程式開發與 AI Agent（AI 代理）任務。其中更引人關注的是，Meta 與 Apple 合作，讓這款超大型模型能在兩台 Mac Studio 上運行。 這不僅讓企業及開發者有機會自行下載、調整和部署高能力模型，也展示大型 AI 推理不必完全依賴傳統 GPU 伺服器",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美國上百家人形機器人公司，機器人投資基金執行長為何只看好特斯拉、Figure AI 與 Apptronik？",
-        "link": "https://techorange.com/2026/10/16/humanoid-ai-robot-companies-win/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 16 Oct 2026 09:35:12 +0800",
-        "description": "封閉式基金 RoboStrategy 執行長 Andrew Kang 認為，真正值得投資的機器人公司，只有特斯拉（Tesla）、Figure AI 與 Apptronik，但 Optimus 業務還有待馬斯克回神。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Grok Voice 3.0 超車 OpenAI、Google，星鏈、特斯拉已如何應用語音 Agent？",
-        "link": "https://techorange.com/2026/10/16/grok-voice-3-0-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 16 Oct 2026 06:30:00 +0800",
-        "description": "SpaceX 旗下 AI 業務 SpaceXSI（原 xAI）10/14 推出 Grok Voice 3.0，在第三方語音 AI 綜合評測中超越 OpenAI、Google。除了模型性能，SpaceXSI 也展示 Grok Voice 的商業化進展：衛星網路服務商 Starlink（星鏈）平日約有 2 萬通客服與銷售來電使用 Grok Voice 處理，其中約 70% 無須真人介入；Tesla（特斯拉）車輛每天也有數百萬次語音 AI 對話。 從 Starlink 客服到 Tesla 車內操作，G",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】台積電證實洽談馬斯克晶圓廠！魏哲家：必須由我們營運",
-        "link": "https://techorange.com/2026/10/16/tsmc-musk-terafab-talks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 16 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電證實洽談馬斯克 Terafab，魏哲家：晶圓廠必須由台積電營運 台積電（TSMC）10 月 15 日在法說會證實，正與馬斯克推動的 Terafab 晶圓廠計畫洽談合作，並已派團隊前往德州評估。董事長暨總裁魏哲家表示，美國主要客戶持續要求增加當地產能，公司因此評估亞利桑那州以外的擴產機會，德州是選項之一。他強調，合作方式仍在討論，若有具體結論將對外說明，但晶圓廠必須由台積電營運；目前尚未宣布投資協議或建廠時程。 第 3 季台積電合併營收為新",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
-      {
-        "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-        "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-        "pubDate": "Thu, 15 Oct 2026 21:31:57 +0530",
-        "description": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said Thursday.\n\nThe h",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-        "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-        "pubDate": "Thu, 15 Oct 2026 21:30:26 +0530",
-        "description": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS).\n\nThe activity, observed from June 2025 through August 2026, involves four diff",
-        "source": "TheHackerNews"
-      },
       {
         "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
@@ -270,13 +270,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
         "pubDate": "Thu, 15 Oct 2026 13:12:31 -0400",
         "description": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Is AI pentesting as good as a human pentester?",
-        "link": "https://www.bleepingcomputer.com/news/security/is-ai-pentesting-as-good-as-a-human-pentester/",
-        "pubDate": "Thu, 15 Oct 2026 10:01:11 -0400",
-        "description": "AI pentesting can uncover vulnerabilities missed by human testers, but it also has limitations in consistency, risk assessment, and understanding business context. Intruder compares the strengths and weaknesses of both approaches and explains where A",
         "source": "BleepingComputer"
       },
       {
@@ -319,6 +312,27 @@
         "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
         "pubDate": "Sat, 17 Oct 2026 10:32:48 -0400",
         "description": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+        "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+        "pubDate": "Mon, 19 Oct 2026 11:59:44 +0530",
+        "description": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16.\n\nHe showed the att",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+        "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+        "pubDate": "Mon, 19 Oct 2026 11:37:08 +0530",
+        "description": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said.\n\nConsole is OpenCode's optional hosted service: a workspace s",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+        "pubDate": "Mon, 19 Oct 2026 04:58:41 -0400",
+        "description": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -450,6 +464,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Khosla Ventures doubles down on Even Healthcare to challenge India’s hospital economics",
+        "link": "https://techcrunch.com/2026/10/19/khosla-ventures-doubles-down-on-even-healthcare-to-challenge-indias-hospital-economics/",
+        "pubDate": "Mon, 19 Oct 2026 07:30:00 +0000",
+        "description": "Even Healthcare reaches a $300 million valuation in a Khosla Ventures-led round as it plans to expand its hospital network in India.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Porsche’s electric Macan Turbo is an automotive existential crisis",
         "link": "https://techcrunch.com/2026/10/16/porsches-electric-macan-turbo-is-an-automotive-existential-crisis/",
         "pubDate": "Fri, 16 Oct 2026 19:40:00 +0000",
@@ -471,11 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Waymo’s robotaxis are headed to Canada",
-        "link": "https://techcrunch.com/2026/10/16/waymos-robotaxis-are-headed-to-canada/",
-        "pubDate": "Fri, 16 Oct 2026 16:06:38 +0000",
-        "description": "The company will start off by testing its self-driving vehicles on Toronto's streets.",
-        "source": "TechCrunch"
+        "title": "The Maeving RM2 is high-style electric riding with a few compromises",
+        "link": "https://www.theverge.com/transportation/1013049/maeving-rm2-electric-motorcycle-review-specs",
+        "pubDate": "2026-10-19T07:00:00-04:00",
+        "description": "There's a fast-growing category of two-wheeled electric vehicles splitting the difference between high-end scooters and entry-level motorcycles, fresh bikes with avant-garde style but approachable performance. I'm talking about offerings like the Inf",
+        "source": "TheVerge"
       },
       {
         "title": "A Savannah police officer gave her Flock login to her ICE agent husband",
@@ -503,13 +524,6 @@
         "link": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
         "pubDate": "2026-10-18T12:27:51-04:00",
         "description": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
-        "link": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
-        "pubDate": "2026-10-18T11:00:00-04:00",
-        "description": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck ",
         "source": "TheVerge"
       }
     ],
