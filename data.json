@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-18T22:35:14.942233Z",
+  "ts": "2026-10-19T00:27:57.927102Z",
   "tabs": {
     "cn_sec": [
       {
@@ -159,24 +159,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "從自駕光達到機器人：禾賽推空間相機 Kosmo，把真實場域變成訓練數據",
-        "link": "https://techorange.com/2026/10/15/hesai-kosmo-spatial-camera-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 14:08:39 +0800",
-        "description": "機器人在展場迎賓、揮手、跳舞的畫面已經不少見，但要走進門市或工廠分擔實際工作，仍有一段距離。自駕車光達供應商禾賽（Hesai），10/14 在上海工廠發表空間相機 Kosmo。這台外形像葡萄酒瓶的裝置結合光達與攝影機，目標是協助開發者更有效率地收集真實世界的空間數據，用來訓練機器人。 據《Reuters》報導，禾賽共同創辦人暨執行長李一帆在發表會上表示，要訓練機器人理解真實世界、執行揮手跳舞以外的複雜任務，所需的高品質空間數據仍有很大缺口。如果數據是機器人走進真實場域的門檻之一，一台手持相機能幫",
-        "source": "TechOrange"
-      },
-      {
-        "title": "台灣微軟、雲馥數位從 KPI、成本到 Agent 治理談企業 AI 主權實戰",
-        "link": "https://techorange.com/2026/10/15/cloudriches-microsoft-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 14:07:16 +0800",
-        "description": "TechOrange 科技報橘於 10 月 13 日舉辦「企業 AI 主權高峰論壇午宴」，邀集多位高科技製造業與金融業中高階主管蒞臨餐敘交流，共同探討企業如何讓 AI 從試點走向規模化生產力，分享第一線落地經驗 。科技報橘社長戴季全表示，「AI 不是將 20 人的團隊縮減為 2 人；而是讓 20 人都具備 AI 能力，使公司規模與產出發揮 20 倍以上的乘數效應。」 台灣微軟商用企業與新興市場事業部總經理李光耀致詞時表示，AI 導入已不再是長達半年的大型專案，可能 3 個星期就能完成一個專案並快",
-        "source": "TechOrange"
-      },
-      {
         "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
         "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 17 Oct 2026 06:29:00 +0800",
         "description": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創新預算包容下的概念驗證，如今已轉變為龐大的維運費用，促使財務長與董事會開始嚴格審視 AI 的實際財務",
+        "source": "TechOrange"
+      },
+      {
+        "title": "FedEx 用 AI 輔助關稅分類、DHL 整合全球貿易資訊，物流巨頭如何強化出貨前服務？",
+        "link": "https://techorange.com/2026/10/19/fedex-dhl-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 06:00:00 +0800",
+        "description": "隨著跨境電商加速全球佈局，企業面臨的供應鏈挑戰已不限於運輸時效，更卡在各國繁複的海關規範與關稅分類。對缺乏專業報關團隊的中小企業而言，填錯商品分類代碼或申報描述不精準，可能引發清關延誤、供應鏈停擺、額外營運成本甚至罰款。 FedEx 與 DHL 正將數位工具導入跨境貿易合規流程，協助企業在出貨前掌握商品分類、進出口規範與關稅資訊。 FedEx 嵌入寄件流程，以 AI 提升申報精準度 FedEx 的做法聚焦於 AI 輔助商品描述與關稅代碼查詢。該公司在 FedEx Ship Manager 中整合",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】AI 伺服器也將納管！台灣擬收緊對中出口，違規將可追究刑責",
+        "link": "https://techorange.com/2026/10/19/taiwan-ai-chip-export-controls-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊AI 伺服器也將納管！台灣擬收緊對中出口，違規將可追究刑責 台灣準備收緊 AI 硬體對中國的出口管制。經濟部長龔明鑫接受《彭博》專訪表示，政府計畫將 AI 伺服器與尖端半導體納入出口管制清單，讓部分措施與美國接軌；這也涉及台灣在台美對等貿易協定中的承諾。新措施上路後，未經許可向中國輸出受限制的 AI 硬體，將可依《貿易法》追究刑事責任。不過，這項政策目前仍在準備階段，政府尚未公布完整品項、技術門檻與實施日期。 《彭博》指出，台灣目前處理相關 A",
         "source": "TechOrange"
       },
       {
