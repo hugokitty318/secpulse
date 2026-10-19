@@ -1,13 +1,118 @@
 {
-  "ts": "2026-10-19T00:27:57.927102Z",
+  "ts": "2026-10-19T05:17:38.920885Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Microchip擴充資料中心產品線，導入CNSA 2.0後量子密碼學支援",
+        "link": "https://www.ithome.com.tw/news/179774",
+        "pubDate": "2026-10-19 12:47",
+        "description": "涵蓋PCIe 6.0交換器、NVMe SSD控制器與RAID儲存加速器，強化硬體信任根、安全啟動、加密及資料保護能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ConnectWise備份API憑證遭濫用，173個M365租戶遭未授權存取",
+        "link": "https://www.ithome.com.tw/news/179771",
+        "pubDate": "2026-10-19 12:20",
+        "description": "攻擊者利用已獲授權的雲端應用程式身分取得M365資料存取權限，波及電子郵件、雲端檔案與Teams，ConnectWise已停用受影響服務",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客UAT-11985利用Google服務從事AiTM網釣，鎖定臺灣研究機構",
+        "link": "https://www.ithome.com.tw/news/179769",
+        "pubDate": "2026-10-19 11:54",
+        "description": "思科揭露鎖定臺灣研究機構的魚叉式網釣攻擊，中國駭客UAT-11985冒用臺灣歐盟中心、政治大學國際關係研究中心，以及臺灣智庫等機構名義，利用公開活動資訊製作邀請郵件，藉此從事對手中間人攻擊（AiTM）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客組織UNC5820鎖定電信公司，利用Fortinet資安漏洞散布惡意軟體PeerStitch",
+        "link": "https://www.ithome.com.tw/news/179767",
+        "pubDate": "2026-10-19 11:46",
+        "description": "資安公司Palo Alto Networks揭露駭客組織UNC5820（CL-STA-0954）在一家電信公司的長期攻擊活動，駭客利用防火牆作業系統FortiOS漏洞CVE-2025-61624，藉此於受害組織植入惡意軟體PeerStitch",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本漢堡王CRM系統遭駭，外洩逾1,100萬會員個資",
+        "link": "https://www.ithome.com.tw/news/179766",
+        "pubDate": "2026-10-19 11:21",
+        "description": "日本漢堡王發生大規模個資外洩事件！官方App會員系統遭駭，約1,118萬筆會員資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenBSD修補源自37年前的記憶體漏洞，研究人員已公開取得root權限的攻擊程式",
+        "link": "https://www.ithome.com.tw/news/179765",
+        "pubDate": "2026-10-19 11:18",
+        "description": "Calif研究人員串連兩項核心缺陷，繞過系統防護取得root權限，OpenBSD已於9月發布修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA呼籲BeyondTrust用戶儘速修補遠端支援系統重大漏洞",
+        "link": "https://www.ithome.com.tw/news/179762",
+        "pubDate": "2026-10-19 10:50",
+        "description": "美國網路安全暨基礎設施安全局（CISA）發布警訊，BeyondTrust Remote Support存在重大身分驗證繞過漏洞CVE-2026-102764，且攻擊者已在實際環境中利用，用戶應立即安裝修補程式因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "BeyondTrust、Fortinet漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179761",
+        "pubDate": "2026-10-19 09:59",
+        "description": "上週末美國網路安全與基礎設施安全局（CISA）更新已遭利用漏洞名單（KEV），新增Fortinet應用系統漏洞CVE-2025-61624、BeyondTrust Remote Support漏洞CVE-2026-102764",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google揭露中國相關駭客利用BeyondTrust零時差漏洞入侵企業內網",
+        "link": "https://www.ithome.com.tw/news/179742",
+        "pubDate": "2026-10-19 08:00",
+        "description": "Google揭露中國相關駭客組織ARMORY CASTLE利用BeyondTrust Remote Support零時差漏洞，入侵企業遠端支援設備並存取內部系統。BeyondTrust已完成SaaS修補，自行託管企業仍須確認修補狀態，並檢查是否曾遭入侵",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Proofpoint以63億美元併購Varonis，擴大資料與AI安全業務",
+        "link": "https://www.ithome.com.tw/news/179755",
+        "pubDate": "2026-10-19 08:00",
+        "description": "根據SecurityWeek報導，這是2026年截至目前宣布的最大規模資安併購案。Proofpoint計畫在交易完成後整合雙方技術，建立整合式資料與AI安全平臺",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Nginx修補5項漏洞，3項恐導致遠端程式碼執行",
+        "link": "https://www.ithome.com.tw/news/179759",
+        "pubDate": "2026-10-19 08:00",
+        "description": "網頁伺服器軟體Nginx修補5項資安漏洞，其中3項可能在特定條件下導致遠端程式碼執行，另有TLS漏洞可能讓攻擊者繞過用戶端憑證驗證。Nginx已發布1.30.6及1.31.7版修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "G7將舉行AI網路攻擊演練，檢驗金融業應變能力",
+        "link": "https://www.ithome.com.tw/news/179758",
+        "pubDate": "2026-10-19 08:00",
+        "description": "AI帶來新的網路攻擊風險，G7計畫舉行桌上演練，模擬金融體系遭到AI輔助的網路攻擊，檢驗各國財政部門與中央銀行的應變能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟打擊跨國網釣犯罪服務，涉及逾10億則惡意訊息",
+        "link": "https://www.ithome.com.tw/news/179734",
+        "pubDate": "2026-10-19 08:00",
+        "description": "跨國網釣犯罪服務YAM Store、CoGUI及Iron Man涉及大規模網釣活動。根據微軟統計，今年1月以來，犯罪者利用這些服務發送逾10億則網釣郵件與簡訊，鎖定全球150多個國家的消費者及組織",
+        "source": "iThome資安"
+      },
       {
         "title": "AI發展與普及速度受制於安全性不足，SailPoint創辦人呼籲整個產業持續投入並付諸行動",
         "link": "https://www.ithome.com.tw/news/179760",
         "pubDate": "2026-10-19 00:12",
-        "description": "安全性必須跟上AI發展與普及速度，SailPoint 執行長暨創辦人Mark McClain評論AI駭入Hugging Face事件，他以F1賽車比喻，要贏得比賽，駕駛必須不僅需要性能強大的引擎，也需要出色的煞車系統，才能跑得快，若不信任自己的煞車，就不會以每小時 200 英里的速度衝進彎道",
+        "description": "安全性必須跟上AI發展與普及速度，SailPoint執行長暨創辦人Mark McClain評論AI駭入Hugging Face事件，他以F1賽車比喻，要贏得比賽，駕駛必須不僅需要性能強大的引擎，也需要出色的煞車系統，才能跑得快，若不信任自己的煞車，就不會以每小時 200 英里的速度衝進彎道",
         "source": "iThome資安"
+      },
+      {
+        "title": "Meta、蘋果合作將Muse帶到Mac電腦上執行",
+        "link": "https://www.ithome.com.tw/news/179764",
+        "pubDate": "2026-10-19  11:10:47",
+        "description": "Meta上週推出Mac版Muse App，並開放多模態AI模型Muse Spark Open的權重，同時與蘋果合作，讓這款大型模型能在Mac Studio上執行。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟公布尖端模型MAI-Base-2，算力耗用是競爭模型的1/4",
+        "link": "https://www.ithome.com.tw/news/179763",
+        "pubDate": "2026-10-19  10:10:04",
+        "description": "微軟上周公布自行開發的尖端模型MAI-Base-2，號稱在多項核心效能與基準測試上超越OpenAI的主流模型，且在推論與訓練過程中所消耗的算力僅需對手的1/4。",
+        "source": "iThome"
       },
       {
         "title": "【資安週報】1012～1016，美國查封中國永信至誠的網路攻擊基礎設施，7國網路安全與執法機構亦針對其攻擊活動聯合示警",
@@ -15,125 +120,6 @@
         "pubDate": "2026-10-16 17:48",
         "description": "國慶連假過後，本週資安焦點聚集於美國查封中國資安公司永信至誠科技的攻擊網域，揭露臺灣大學受害案例，7國資安與執法機構也聯合示警。法國超市冷藏系統遭駭、荷蘭零售服務中斷，Ledger硬體錢包更驚傳遭植入晶片；臺灣、日本及韓國企業資安事件頻傳，也持續引發關注",
         "source": "iThome資安"
-      },
-      {
-        "title": "以色列廣告業者利用定向廣告發動零點擊攻擊，半島電視臺裝置遭間諜軟體入侵",
-        "link": "https://www.ithome.com.tw/news/179747",
-        "pubDate": "2026-10-16 16:49",
-        "description": "以色列廣告業者Discover-Tech透過廣告識別碼鎖定裝置，僅對指定目標提供後續程式碼，藉此避開廣告掃描，半島電視臺已有裝置感染Candiru間諜軟體，Google也終止該公司的廣告交易權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月16日，Docker修補Docker Hub重大漏洞",
-        "link": "https://www.ithome.com.tw/news/179746",
-        "pubDate": "2026-10-16 15:43",
-        "description": "本週Docker透露，他們修補Docker Hub重大等級的漏洞CVE-2026-105445，此弱點與身分驗證與存取管理機制有關，通報漏洞的研究人員將其命名為GhostPat",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客組織UTA0576串連3個零時差漏洞入侵Ivanti Connect Secure",
-        "link": "https://www.ithome.com.tw/news/179714",
-        "pubDate": "2026-10-16 14:26",
-        "description": "針對Ivanti本週揭露及修補的Ivanti Connect Secure（ICS）零時差漏洞CVE-2026-104935，資安公司Volexity公布觀察到的攻擊行動，駭客組織UTA0576串連一系列的零時差漏洞，藉此在ICS取得root權限，並試圖進一步滲透內部網路環境",
-        "source": "iThome資安"
-      },
-      {
-        "title": "91APP雲端平臺資料庫Commerce Cloud遭自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179741",
-        "pubDate": "2026-10-16 12:09",
-        "description": "電商技術服務公司91APP（6741）發布資安重訊，指出旗下Commerce Cloud資料庫遭受自動化攻擊，部分資訊遭到擷取，已向警方報案並委請第三方資安單位協助調查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA警告影響Atlassian旗下多款系統的重大漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179739",
-        "pubDate": "2026-10-16 11:33",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，Atlassian上週揭露及修補的重大漏洞CVE-2026-21589遭到積極利用，聯邦機構需在3天內緊急完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布Chrome 155更新，修補重大等級的記憶體釋放後再存取使用漏洞",
-        "link": "https://www.ithome.com.tw/news/179737",
-        "pubDate": "2026-10-16 11:11",
-        "description": "本週Google二度發布Chrome 155安全性更新，修補10個漏洞，其中最危險的部分，是評為重大等級的記憶體釋放後再存取使用漏洞CVE-2026-110922",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國法律援助署資料外洩，最早可追溯到50年前",
-        "link": "https://www.ithome.com.tw/news/179736",
-        "pubDate": "2026-10-16 10:48",
-        "description": "英國法律援助署去年遭網路攻擊，大量個人資料外洩，最新調查發現，遭竊資料最早可追溯至1978年",
-        "source": "iThome資安"
-      },
-      {
-        "title": "服飾業者H&amp;M、TFG London傳資料外洩",
-        "link": "https://www.ithome.com.tw/news/179735",
-        "pubDate": "2026-10-16 10:40",
-        "description": "H&M遭駭客宣稱取得內部資料，疑似涉及第三方倉儲系統。TFG London則證實遭網路攻擊，旗下3個服飾品牌的IT系統受到影響，造成線上服務中斷、訂單交付可能延遲",
-        "source": "iThome資安"
-      },
-      {
-        "title": "curl修補HTTP/2高風險漏洞，可導致遠端程式碼執行",
-        "link": "https://www.ithome.com.tw/news/179711",
-        "pubDate": "2026-10-16 08:00",
-        "description": "開源網路資料傳輸工具curl修補HTTP/2高風險漏洞CVE-2026-92392。攻擊者若控制接收上傳資料的伺服器，在特定條件下可能遠端執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "澳洲通訊局新版資安框架重視各領域防護成效，取代單一成熟度評級",
-        "link": "https://www.ithome.com.tw/news/179715",
-        "pubDate": "2026-10-16 08:00",
-        "description": "澳洲通訊局（ASD）推出新版資安框架ASD Essentials，不再以單一成熟度等級呈現組織整體資安狀態，改為分別評估各安全領域的防護成效，並提供AI安全與高階主管資安治理指引",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐洲網路安全組織提太空資安六大重點，涵蓋PQC與零信任",
-        "link": "https://www.ithome.com.tw/news/179724",
-        "pubDate": "2026-10-16 08:00",
-        "description": "歐洲網路安全組織（ECSO）提出太空資安六項優先工作，涵蓋衛星設計階段的安全測試、PQC轉型、安全軟體更新、地面系統零信任防護，以及供應鏈安全與威脅情報分享，並呼籲歐洲加強相關技術研發與產業合作",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS示範整合雲端服務，將ML-DSA抗量子簽章導入軟體供應鏈",
-        "link": "https://www.ithome.com.tw/news/179700",
-        "pubDate": "2026-10-16 08:00",
-        "description": "AWS說明如何整合AWS KMS、AWS Private CA及IAM Roles Anywhere等雲端服務，將ML-DSA抗量子數位簽章導入軟體供應鏈，涵蓋軟體成品與SBOM簽章、外部建置代理程式身分驗證，以及容器部署前的簽章檢查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國擴大AI資安防禦，已在政府系統發現1,352項漏洞",
-        "link": "https://www.ithome.com.tw/news/179687",
-        "pubDate": "2026-10-16 08:00",
-        "description": "英國擴大運用AI強化資安防禦，先前試行計畫已在18個政府部門的548個程式碼儲存庫中，找出並處理1,352項漏洞。除了持續處理高風險系統的安全弱點，英國也開始研擬AI代理重大事故的應變措施",
-        "source": "iThome資安"
-      },
-      {
-        "title": "TypeSafe擴充Jev決策模型，支援圖片判斷與物件定位",
-        "link": "https://www.ithome.com.tw/news/179738",
-        "pubDate": "2026-10-16  11:10:50",
-        "description": "美國AI新創公司TypeSafe AI發布決策型AI模型Jev 1.14.0，同步開放圖片輸入與長上下文等實驗性功能。新版新增Box物件定位功能，回傳位置座標與信心分數，讓應用程式直接使用判斷結果。不過，官方提醒影像相關功能尚未達到正式環境的可靠度要求。\nJev是TypeSafe開發的決策型AI模型，與逐字生成回答的聊天模型不同，開發者提供資料與問題後，Jev會直接回傳是非判斷、分類選項或評分，並提供機率資訊，供程式決定後續動作。圖片輸入功能則讓Jev能夠分析影像內容，執行分類與比對等工作。",
-        "source": "iThome"
-      },
-      {
-        "title": "Anthropic自建Scion取代Git，CI取出程式碼時間從數分鐘縮至數秒",
-        "link": "https://www.ithome.com.tw/news/179733",
-        "pubDate": "2026-10-16  08:10:59",
-        "description": "AI代理大量參與程式開發，讓Anthropic既有的Git版本控制架構面臨擴充瓶頸，因此花費5個月開發Scion版本控制系統，並將內部大型單一程式碼儲存庫完整遷移至新系統，改由伺服器處理程式碼提交、合併及歷史查詢，減輕開發環境與持續整合（CI）系統的負擔。",
-        "source": "iThome"
-      },
-      {
-        "title": "Ubuntu 26.10全面改用Rust版核心工具，軟體更新驗證與企業登入也獲強化",
-        "link": "https://www.ithome.com.tw/news/179750",
-        "pubDate": "2026-10-16  06:10:16",
-        "description": "Canonical發布Linux作業系統Ubuntu 26.10，代號Stonking Stingray。新版完成Rust核心工具coreutils遷移，改用Sequoia PGP驗證軟體更新來源，並強化網路加密及Microsoft Entra ID企業帳號登入功能。Ubuntu 26.10並非長期支援版，提供9個月維護更新，支援期限至2027年7月。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟MSVC 14.52開放C++23正式模式，編譯階段數學函式仍須手動啟用",
-        "link": "https://www.ithome.com.tw/news/179743",
-        "pubDate": "2026-10-16  02:10:11",
-        "description": "微軟發布MSVC Build Tools 14.52候選版，宣布C++23語言標準已可用於正式開發，開發者能透過/std:c++23編譯選項啟用。新版本也改善x64、Arm64的程式碼最佳化，以及C++模組處理與記憶體錯誤檢查功能，穩定版預計11月推出。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -145,24 +131,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "「硬體是 AI 的牙齒」：Matter 募得 4.5 億美元，押注機器人與下一波硬科技",
-        "link": "https://techorange.com/2026/10/15/infinite-demand-robots-inside-matter-venture-partners-450-million-bet-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 17:00:36 +0800",
-        "description": "矽谷創投公司 Matter Venture Partners 上個月宣布完成第二期基金募資，規模達 4.5 億美元，較第一期基金的 3 億美元進一步擴大，將投資早期硬科技新創，涵蓋半導體、機器人、實體 AI、量子運算、先進製造與能源等領域。 AI 熱潮帶動硬體投資，今年深科技投資已達 900 億美元 《The New York Times》指出，2022 年 ChatGPT 問世後，多數創投業者紛紛搶進 AI 新創，希望搭上 OpenAI 的成功浪潮，但 Matter 共同創辦人 Wen Hsi",
-        "source": "TechOrange"
-      },
-      {
-        "title": "鼎新數智 Agent Space 重新定義淨零永續工作新範式",
-        "link": "https://techorange.com/2026/10/15/datasys-agentspace/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 15 Oct 2026 14:59:22 +0800",
-        "description": "隨著全球供應鏈對碳排資訊的要求日益提高，企業面對的挑戰，已不只是交出產品碳足跡報告，更在於如何回應客戶減碳要求，同時兼顧產品成本與訂單獲利。鼎新數智發揮 ERP 企業營運數據優勢，以企業已在用的 ERP 為底，透過 Agent Space 跨職能 Agent 協作，串聯碳數據與 ERP 中的物料、採購、生產及訂單毛利資訊，協助企業辨識排放熱點、研擬減碳方案，並評估其對整體營運的影響，讓碳管理從資訊揭露進一步延伸至企業經營決策。 在 10 月 14 日至 16 日舉行的「2026 台灣國際淨零永續",
-        "source": "TechOrange"
-      },
-      {
         "title": "【企業 AI 成本報告】代理型 AI 與 AI 開發工具成本衝擊商業決策，建立「主動式財務防線」防範失控帳單",
         "link": "https://techorange.com/2026/10/17/control-your-ai-costs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 17 Oct 2026 06:29:00 +0800",
         "description": "AI 自由實驗期結束，企業迎來「帳單震撼」 AI／雲端成本治理平台 Mavvrik 與 B2B SaaS 研究機構 Benchmarkit，聯合發表《2026 年 AI 成本治理現況報告》（State of AI Cost Governance 2026），內容調查全球 396 家企業的營運現況，評估企業擴大部署 AI 時的財務管控能力。 報告指出，企業 AI 的「自由實驗期」已正式終結，過去在創新預算包容下的概念驗證，如今已轉變為龐大的維運費用，促使財務長與董事會開始嚴格審視 AI 的實際財務",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 成本失控，企業轉向私有雲：HPE 靠智慧路由省下六成 token 成本",
+        "link": "https://techorange.com/2026/10/19/private-cloud-ai-spending/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 10:44:43 +0800",
+        "description": "法國財務自動化軟體商 Esker 的調查顯示，72% 的財務主管坦言，公司過去一年的 AI 支出超出預算。為了控制預算，越來越多企業把 AI 搬回「私有雲」，讓企業自己擁有、自己管理的運算環境；HPE 就是其中的代表，它不只用這套架構壓低成本，還順勢翻新了財務部門的工作方式。 AI 成本飆升正推動企業轉向私有雲 企業使用 AI 多半按 token 計費，而近一年科技業盛行「tokenmaxxing」，意思是盡可能大量消耗 token。不少公司把 token 用量當成員工擁抱 AI 的指標，鼓勵大",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「住宅代理」成駭客攻擊新趨勢：能偽造到受害者所在區，企業的地理位置登入規則近乎失效",
+        "link": "https://techorange.com/2026/10/19/fbi-residential-proxy-hacker-fraud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 19 Oct 2026 10:30:43 +0800",
+        "description": "FBI 警告，隱藏駭客真實 IP 位址的住宅代理（Residential Proxy）攻擊手法，近來開始跟不法行為出現掛鉤，它能讓惡意份子繞過地理位置和雙因素驗證（2FA）成為資安新興威脅。",
         "source": "TechOrange"
       },
       {
@@ -429,7 +415,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok permanently bans ‘Musk’ documentary advertising account",
+        "title": "TikTok says it’s restored ‘Musk’ documentary advertising account",
         "link": "https://techcrunch.com/2026/10/17/tiktok-permanently-bans-musk-documentary-advertising-account/",
         "pubDate": "Sat, 17 Oct 2026 20:55:52 +0000",
         "description": "A four-hour documentary about Elon Musk continues to meet resistance from social media platforms.",
