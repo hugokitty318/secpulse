@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T16:59:38.735927Z",
+  "ts": "2026-10-20T20:32:56.117012Z",
   "tabs": {
     "cn_sec": [
       {
@@ -238,6 +238,13 @@
     ],
     "en_sec": [
       {
+        "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
+        "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
+        "pubDate": "Tue, 20 Oct 2026 22:39:53 +0530",
+        "description": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20.\n\nAn intermediate CA signs the certificates that websites present, so anyone holdi",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
         "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
         "pubDate": "Tue, 20 Oct 2026 21:08:52 +0530",
@@ -301,6 +308,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Zeabur shutting down after second security breach in two months",
+        "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+        "pubDate": "Tue, 20 Oct 2026 15:33:02 -0400",
+        "description": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and infor",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
+        "pubDate": "Tue, 20 Oct 2026 14:11:03 -0400",
+        "description": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
         "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
         "pubDate": "Tue, 20 Oct 2026 13:51:29 +0530",
@@ -355,30 +376,51 @@
         "pubDate": "Tue, 20 Oct 2026 08:16:32 -0400",
         "description": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
-        "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
-        "pubDate": "Tue, 20 Oct 2026 07:31:22 -0400",
-        "description": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
-        "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
-        "pubDate": "Tue, 20 Oct 2026 07:18:35 -0400",
-        "description": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Revolut outage disrupts online banking operations worldwide",
-        "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
-        "pubDate": "Tue, 20 Oct 2026 05:46:44 -0400",
-        "description": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
+        "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
+        "pubDate": "Tue, 20 Oct 2026 20:00:00 +0000",
+        "description": "Google is bringing Gemini's Personal Intelligence feature to cars, allowing its AI assistant to draw on information from Gmail, Calendar, Maps, YouTube, and other Google services to deliver more personalized responses while driving.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM to close Detroit battery assembly plant, but not for reasons you might think",
+        "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
+        "pubDate": "Tue, 20 Oct 2026 19:32:43 +0000",
+        "description": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+        "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
+        "pubDate": "Tue, 20 Oct 2026 18:38:24 +0000",
+        "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "ChatGPT now lets you lock your chats",
+        "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
+        "pubDate": "Tue, 20 Oct 2026 18:36:53 +0000",
+        "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in an",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
+        "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
+        "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
+        "description": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps",
+        "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
+        "pubDate": "Tue, 20 Oct 2026 17:12:48 +0000",
+        "description": "Meta's AI companion Muse has surpassed 10 million U.S. downloads in its first 40 days, joining an exclusive group of apps that includes Threads. New data also shows Muse is retaining users at higher rates than its AI rivals.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in it’s LEGO era’",
         "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
@@ -411,7 +453,7 @@
         "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
         "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
         "pubDate": "Tue, 20 Oct 2026 14:13:32 +0000",
-        "description": "Figma said it plans to support as many standards as possible without exposing all of its data",
+        "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
         "source": "TechCrunch"
       },
       {
@@ -443,80 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
-        "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
-        "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-        "description": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Oura adds new fitness metrics to show how workouts impact your body",
-        "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
-        "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
-        "description": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to diff",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
-        "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
-        "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-        "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
-        "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
-        "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
-        "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. O",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
-        "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
-        "pubDate": "Tue, 20 Oct 2026 07:01:00 +0000",
-        "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
-        "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
-        "pubDate": "Tue, 20 Oct 2026 02:00:00 +0000",
-        "description": "Flipkart has expanded access to its food-delivery service to thousands of employees ahead of its public launch.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AMD is bringing FSR 4.1 to Xbox consoles and handhelds",
-        "link": "https://www.theverge.com/news/1014455/amd-fsr-4-1-xbox-consoles-handhelds-laptops",
-        "pubDate": "2026-10-20T12:21:18-04:00",
-        "description": "AMD has just revealed that it's bringing its latest upscaling technology, FSR 4.1, to the Xbox Series S and X consoles, as well as laptops, 6000-series GPUs, and handhelds like the Xbox Ally X devices. FSR 4.1 will start appearing for Radeon RX 6000-",
+        "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
+        "link": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
+        "pubDate": "2026-10-20T15:06:40-04:00",
+        "description": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the course of M",
         "source": "TheVerge"
       },
       {
-        "title": "Arturia’s MiniFreak 49 makes its Freak synths more professional",
-        "link": "https://www.theverge.com/gadgets/1014255/arturias-minifreak-49-synthesizer",
-        "pubDate": "2026-10-20T12:00:00-04:00",
-        "description": "Arturia is adding to its Freak line of proudly weird digital synths with the MiniFreak 49. Under the hood, it's almost identical to the current MiniFreak, but it adds a number of more professional features and some interface improvements. The most no",
+        "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
+        "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
+        "pubDate": "2026-10-20T15:00:00-04:00",
+        "description": "Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets. While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic deal on the ad-supp",
         "source": "TheVerge"
       },
       {
-        "title": "The Gospel according to Peter (Thiel)",
-        "link": "https://www.theverge.com/tech/1014252/peter-thiel-antichrist-lectures-analysis",
-        "pubDate": "2026-10-20T11:45:00-04:00",
-        "description": "It's a time of apocalyptic worldviews in Silicon Valley. The latest AI doom cycle is driven by effective altruism, a philosophy that has lurked around the fringes for years but recently burst into the mainstream because its adherents are embedded acr",
+        "title": "JustWatch now streams TV shows and movies, too",
+        "link": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
+        "pubDate": "2026-10-20T14:56:50-04:00",
+        "description": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today. The new streaming serv",
         "source": "TheVerge"
       },
       {
-        "title": "Over $963,000 worth of graded Pokémon and sports cards were stolen from FedEx",
-        "link": "https://www.theverge.com/entertainment/1014276/professional-sports-authenticator-psa-stolen-graded-sports-pokemon-cards-fedex",
-        "pubDate": "2026-10-20T10:48:55-04:00",
-        "description": "Last week over 200 packages of graded trading cards being shipped back to their owners were stolen from a FedEx truck parked outside the headquarters of Professional Sports Authenticator (PSA) in Santa Ana, California, according to a report by The At",
+        "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
+        "link": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
+        "pubDate": "2026-10-20T14:45:39-04:00",
+        "description": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report from Fortune.",
         "source": "TheVerge"
       },
       {
-        "title": "Spotify pulled 50 million AI slop and spam tracks from its recommendations",
-        "link": "https://www.theverge.com/entertainment/1014284/spotify-ai-slop-spam-songs-removed",
-        "pubDate": "2026-10-20T10:18:37-04:00",
-        "description": "Spotify says it has removed more than 50 million songs considered AI-generated slop or spam from user recommendations over the past year. That's according to an announcement on Tuesday that says Spotify has also made changes to its recommendation sys",
+        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
+        "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
+        "pubDate": "2026-10-20T14:07:34-04:00",
+        "description": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm ",
         "source": "TheVerge"
       }
     ],
