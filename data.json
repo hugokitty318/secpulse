@@ -1,7 +1,56 @@
 {
-  "ts": "2026-10-20T06:34:31.937976Z",
+  "ts": "2026-10-20T12:08:48.494433Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "SiteGuard WAF命令注入漏洞遭利用，駭客可取得伺服器最高權限",
+        "link": "https://www.ithome.com.tw/news/179839",
+        "pubDate": "2026-10-20 18:51",
+        "description": "漏洞影響預設啟用統計功能的伺服器版本，用戶更新系統前須先保存診斷資訊，以免攻擊痕跡資料消失",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ClickFix攻擊出現支援多種管道的惡意酬載傳遞管理平臺Romulus",
+        "link": "https://www.ithome.com.tw/news/179838",
+        "pubDate": "2026-10-20 18:11",
+        "description": "資安公司Forescout揭露專門用於ClickFix網釣活動的惡意酬載傳遞管理平臺Romulus，攻擊者利用該平臺，可藉由PowerShell指令碼散布遭竄改的MSI安裝檔，或是植入惡意程式載入工具LegionLoader",
+        "source": "iThome資安"
+      },
+      {
+        "title": "西門子軟體管理平臺漏洞遭利用，攻擊者試圖用於ClickFix網釣活動",
+        "link": "https://www.ithome.com.tw/news/179834",
+        "pubDate": "2026-10-20 17:24",
+        "description": "西門子警告，上週公布及修補的Siemens Software Center資安漏洞CVE-2026-110936遭積極利用，攻擊活動與Romulus跨平臺ClickFix網釣有關",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Citrix NetScaler漏洞遭到串連，攻擊者以此滲透企業內部網路環境",
+        "link": "https://www.ithome.com.tw/news/179823",
+        "pubDate": "2026-10-20 15:47",
+        "description": "資安公司Rapid7揭露近日調查的Citrix NetScaler ADC入侵事件，攻擊者串連利用CVE-2026-88771與CVE-2026-88779，取得Root權限，並植入PHP網頁Shell、建立持續性存取機制及內部網路通道",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress熱門SEO外掛Rank Math PRO遭遇供應鏈攻擊，網站恐被植入後門",
+        "link": "https://www.ithome.com.tw/news/179816",
+        "pubDate": "2026-10-20 15:16",
+        "description": "軟體開發商Rank Math警告，WordPress搜尋引擎最佳化（SEO）付費版外掛程式Rank Math PRO近日發生資安事故，影響於特定期間下載檔案的用戶，一旦安裝，將會導致網站被入惡意程式，該公司呼籲用戶應儘速清查、採取相關因應措施",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月20日，AI程式碼代理平臺OpenCode資料外洩，聯繫OpenAI、Anthropic、Google合作處理",
+        "link": "https://www.ithome.com.tw/news/179811",
+        "pubDate": "2026-10-20 14:57",
+        "description": "開源AI程式碼代理工具OpenCode的Console服務發生資安事件，攻擊者於10月16日晚間入侵一套準備除役的舊系統，導致使用者儲存在工作區的第三方AI服務API金鑰可能外洩，約1.4%的Console服務用戶受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "海康威視5年前漏洞再成目標，密集攻擊時間與俄軍空襲烏克蘭重疊",
+        "link": "https://www.ithome.com.tw/news/179810",
+        "pubDate": "2026-10-20 14:53",
+        "description": "海康威視5年前的重大漏洞再遭鎖定，4個IP位址在9天內密集嘗試利用，時間恰與俄軍對烏克蘭的空襲加劇重疊，烏克蘭過去也曾查獲俄羅斯情報機構入侵監視器，藉此觀察防空系統活動",
+        "source": "iThome資安"
+      },
       {
         "title": "內政部啟動5年雲原生轉型計畫，靠混合雲、微服務與IaC強化數位韌性",
         "link": "https://www.ithome.com.tw/news/179809",
@@ -10,17 +59,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "逾半數臺灣企業備份環境缺乏隔離架構，備份資料暴露於攻擊威脅",
-        "link": "https://www.ithome.com.tw/news/179808",
-        "pubDate": "2026-10-20 13:11",
-        "description": "QNAP調查241家臺灣企業顯示，超過5成企業的備份環境未採用隔離架構，4成企業的備份缺乏不可竄改機制，面臨備份資料遭感染與破壞的風險",
-        "source": "iThome資安"
-      },
-      {
         "title": "Zeabur再遭駭後公布調查結果，攻擊者讀取逾321萬筆環境變數",
         "link": "https://www.ithome.com.tw/news/179804",
         "pubDate": "2026-10-20 12:37",
-        "description": "臺灣雲端部署平臺Zeabur於10月再遭重大資安事故，該公司於10月19日公布初步調查結果，確認逾321萬筆環境變數及32萬筆帳號資料遭讀取，也揭露前次事故後部分憑證未完成輪替、已知安全缺失未及時修正等問題。該公司創辦人林沅霖已向全球用戶宣布平臺將於年底停止營運",
+        "description": "臺灣雲端部署平臺Zeabur於10月再發生重大資安事件，該公司於10月19日公布初步調查結果，確認逾321萬筆環境變數及32萬筆帳號資料遭讀取，也揭露8月資安事件後有部分憑證未完成輪替，並在這次攻擊中遭利用，以及已知安全缺失未及時修正等問題。該公司創辦人林沅霖已宣布平臺將於年底停止營運",
         "source": "iThome資安"
       },
       {
@@ -28,6 +70,13 @@
         "link": "https://www.ithome.com.tw/news/179807",
         "pubDate": "2026-10-20 12:34",
         "description": "研究人員已在多家電信業者家用閘道器成功驗證攻擊，該漏洞相關程式碼至少可追溯至2010年，目前未獲CVE編號，受影響設備也尚無修補程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "影音串流平臺Plex被鎖定，攻擊者利用漏洞攻擊鏈Plex2Shell植入挖礦軟體與後門",
+        "link": "https://www.ithome.com.tw/news/179806",
+        "pubDate": "2026-10-20 12:29",
+        "description": "在研究人員公布影音串流平臺Plex的漏洞利用鏈Plex2Shell（CVE-2026-96652、CVE-2026-96654、CVE-2026-96655、CVE-2026-96656）細節不久，有人將其用於實際攻擊，藉此在Plex Media Server植入挖礦軟體與後門程式",
         "source": "iThome資安"
       },
       {
@@ -59,70 +108,49 @@
         "source": "iThome資安"
       },
       {
-        "title": "日本經濟新聞、阪急阪神百貨相繼遭駭，皆外洩個資超過百萬筆",
-        "link": "https://www.ithome.com.tw/news/179795",
-        "pubDate": "2026-10-20 10:44",
-        "description": "阪急阪神百貨遭駭，約126萬筆會員資料中的部分個資外洩；日本經濟新聞則因雲端服務遭未經授權存取，導致約183萬筆資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "IETF發布RFC 10024，訂定TLS 1.3混合式PQC金鑰交換標準",
-        "link": "https://www.ithome.com.tw/news/179787",
-        "pubDate": "2026-10-20 08:00",
-        "description": "IETF發布RFC 10024，為TLS 1.3訂定混合式PQC金鑰交換標準，讓TLS連線能同時採用傳統與抗量子密碼演算法建立金鑰，因應未來量子電腦可能帶來的安全威脅",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI模型業者Cohere計畫併購資安新創AISLE",
-        "link": "https://www.ithome.com.tw/news/179745",
-        "pubDate": "2026-10-20 08:00",
-        "description": "AISLE開發利用AI自動尋找及驗證軟體漏洞、產生修補程式的技術。Cohere希望透過併購取得相關能力，並成立資安部門，強化旗下企業AI平臺的威脅偵測、AI代理治理與敏感資料保護",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟10月Windows Server更新引發Exchange異常，影響郵件收發",
-        "link": "https://www.ithome.com.tw/news/179792",
-        "pubDate": "2026-10-20 08:00",
-        "description": "10月Windows Server安全更新可能導致部分企業內部部署的Exchange Server運作不穩定。微軟已提供暫時緩解措施，但仍在調查問題原因，尚未發布正式修補更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟10月Windows更新強化NTLMv1限制，企業Wi-Fi與VPN登入恐受影響",
-        "link": "https://www.ithome.com.tw/news/179768",
-        "pubDate": "2026-10-20 08:00",
-        "description": "微軟10月Windows安全更新加強限制NTLMv1衍生憑證用於單一登入，部分企業Wi-Fi、有線網路及VPN連線可能受到影響。若企業仍依賴MS-CHAPv2驗證，可能出現登入失敗。微軟建議企業檢查驗證設定，逐步改用憑證式驗證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟、Nvidia提出開放權重AI模型風險管理指引",
-        "link": "https://www.ithome.com.tw/news/179757",
-        "pubDate": "2026-10-20 08:00",
-        "description": "企業部署開放權重AI模型，該注意哪些安全風險？微軟與Nvidia共同提出風險管理指引，盤點網路安全、資料保護等5大類、30種風險，涵蓋惡意程式碼生成、AI代理不當工具呼叫、資料外洩及模型遭竊等問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google開源Harness 2，不改模型權重AI代理人可自我演進提升",
-        "link": "https://www.ithome.com.tw/news/179802",
-        "pubDate": "2026-10-20  11:10:07",
-        "description": "Google研究團隊以Apache 2.0授權條款開源Harness²，強調AI代理人（Agent）能在不修改模型底層權重情況下，依經驗動態調整學習、自我演進。\nHarness²為一種即插即用（plug-and-play）的自動化最佳化與調整的遞歸式代理人Harness（Recursive Agent Harnessing for an Open World）開源框架，可運用在Harness設計階段代理人遭遇全新任務時來提升其能力。",
+        "title": "OpenAI釋出AI基準測試MultiLangBench，評測20種程式語言開發能力",
+        "link": "https://www.ithome.com.tw/news/179840",
+        "pubDate": "2026-10-20  07:10:10",
+        "description": "OpenAI公開程式開發基準測試MultiLangBench，檢驗AI能否使用20種程式語言，從頭建立與SQLite相容的資料庫引擎。基準測試涵蓋COBOL、Fortran、Visual Basic等可供AI學習的程式碼與文件較少的語言，也包括Python、Java及Rust，讓開發者比較模型使用不同語言開發軟體的能力。",
         "source": "iThome"
       },
       {
-        "title": "JetBrains將IntelliJ IDEA的Java、Kotlin分析功能帶進Cursor與VS Code",
-        "link": "https://www.ithome.com.tw/news/179794",
-        "pubDate": "2026-10-20  09:10:48",
-        "description": "JetBrains發布Java、Kotlin開發擴充套件1.0穩定版，將IntelliJ IDEA的程式碼分析、自動完成、重構及除錯功能帶進Cursor與VS Code。JetBrains也與Cursor合作，讓AI代理能運用部分程式碼檢查結果，協助開發者處理Java與Kotlin專案。",
+        "title": "Cloudflare公開低延遲AI模型Clairic，可直接擷取與估算數值",
+        "link": "https://www.ithome.com.tw/news/179836",
+        "pubDate": "2026-10-20  06:10:40",
+        "description": "Cloudflare推出AI模型Clairic，擴展低延遲System One模型的應用範圍。Clairic可從電子郵件、收據照片等格式不固定的資料中，依開發者指定的欄位直接回傳金額、日期等資訊，也能計算資料未直接列出的數值，或根據既有紀錄進行估算與預測。目前已在Workers AI提供預覽版。",
         "source": "iThome"
       },
       {
-        "title": "Sucuri揭露可自我重建的WordPress惡意程式SC，移除後數秒便會重現",
-        "link": "https://www.ithome.com.tw/news/179785",
-        "pubDate": "2026-10-19 18:39",
-        "description": "後門程式元件分散儲存於檔案、資料庫及共享記憶體等多個位置，並透過以太坊區塊鏈基礎設施接收指令，還能隱藏管理員帳號並停用資安外掛",
-        "source": "iThome資安"
+        "title": "AWS推出PyTorch擴充套件TorchNeuron，降低AI模型轉用Trainium晶片門檻",
+        "link": "https://www.ithome.com.tw/news/179828",
+        "pubDate": "2026-10-20  05:10:20",
+        "description": "AWS釋出AI開發框架PyTorch的擴充套件TorchNeuron，讓開發者更容易改用AWS自家AI加速晶片Trainium執行既有模型。開發者在使用受支援的模型與功能時，通常只須調整程式指定的運算裝置，就能維持原有的訓練與推論流程，減少更換晶片時的修改工作。",
+        "source": "iThome"
+      },
+      {
+        "title": "是方砸33億元打造虎尾AI資料中心，串聯臺北與日本石狩布局跨區域AI基礎設施",
+        "link": "https://www.ithome.com.tw/news/179817",
+        "pubDate": "2026-10-20  03:10:31",
+        "description": "隨著生成式AI帶動GPU運算需求增加，資料中心競爭焦點已從單純的機房容量，轉向高密度運算能力、能源效率、網路連接與跨區域韌性。是方電訊今天(10/20)宣布，中科虎尾AI資料中心正式動土，總投資金額約33億元，預計於2028下半年正式營運。\n今天動土的是方虎尾AI資料中心基地面積約1.56公頃，總樓板面積約6,500坪，規劃為地上4層建築，規畫將以Tier 4等級建置。該資料中心全棟總電力規劃16MW，強調可支援氣冷式及水冷式散熱方案，預估PUE 1.4，並配置柴油發電機，強調滿載下可運轉超過2",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "美國資安職缺年減 8.4 萬筆，AI 資安工程師卻逆勢增 268%，人才需求如何轉變？",
+        "link": "https://techorange.com/2026/10/20/cybersecurity-jobs-report-ciso/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 20 Oct 2026 17:30:30 +0800",
+        "description": "資安人才服務公司 CyberSN 近日發布《資安職缺報告》（Cybersecurity Jobs Report），呈現美國資安就業市場的最新變化，《SecurityWeek》形容整體結果喜憂參半。報告統計，2026 年 1 月至 9 月，美國資安職缺刊登數量為 235,786 個，創下四年來同期新低，較 2025 年同期的 320,210 個減少 26.4%。 整體職缺下滑之際，部分 AI 與資料相關職位卻大幅成長。其中，AI 資安工程師（AI Security Engineer）職缺年增 26",
+        "source": "TechOrange"
+      },
+      {
+        "title": "台廠也能打造自己的「CUDA 護城河」？開源基金會董事長蔡祈岩：開源如何提高硬體競爭力",
+        "link": "https://techorange.com/2026/10/20/rock-tsai-open-source-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 20 Oct 2026 16:19:42 +0800",
+        "description": "專訪：沈貝怡撰稿：張哲瑋 台灣在全球 AI 硬體供應鏈居於核心位置，但在軟體、開發者生態與標準的參與仍有落差。本集《全新一週》邀請台灣大哥大資訊長、今年 7 月成立的開源基金會（TAIONE）董事長蔡祈岩，談台灣如何從製造 AI 硬體，走向參與定義 AI。 本集專訪從開源與主權 AI、人才培育，談到他與台灣大哥大總經理林之晨合著、天下雜誌出版的新書《逆分工》，蔡祈岩也以甲午戰爭作為例證，提醒企業只買 AI 工具、不改動組織，生產力終將難以提升。當全世界的 AI 被軟體帶著跑，台灣的硬體優勢要怎麼",
+        "source": "TechOrange"
+      },
       {
         "title": "一名駭客靠 AI 代理攻破 100 多家企業網站，研究員估每次成功入侵約 50 美元",
         "link": "https://techorange.com/2026/10/20/hacker-ai-agents-cairn-breaches/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,23 +241,23 @@
         "pubDate": "Mon, 19 Oct 2026 13:43:07 +0800",
         "description": "10 月 12 日，第 26 屆中國國際工業博覽會（工博會）於上海開幕，機器人成為展場焦點。同一天的開幕式上，上海啟動「加快發展新一代智能製造行動」，目標在 2028 年推動 8,000 台人形機器人進入工廠。然而，西門子中國研究院院長朱驍洵直言：「沒有一家工廠願意把自己的產線變成一個讓 AI 去試錯的試驗場。」 政策端訂下明確數字，產業端則對落地保持務實。《IT 時報》觀察，比起誰的機器人更像人，廠商更在意誰的機器人能幹活，甚至有業者主張工廠不一定需要「人形」。人形機器人要從展示走進產線，還得",
         "source": "TechOrange"
-      },
-      {
-        "title": "打造通用型機器人  ：高通攜手生態系解鎖 Physical AI「手腦合一」新世代",
-        "link": "https://techorange.com/2026/10/19/qualcomm-physical-ai-dragonwingiq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 19 Oct 2026 11:59:52 +0800",
-        "description": "在製造與營運持續朝向高度自動化、數位化與彈性化發展的當下，AI 機器人正快速從前瞻性技術，轉變為支撐企業智慧製造與營運升級的關鍵能力。國際研調機構 IDC 於《全球供應鏈與產業生態系 2026 年預測》中指出，AI 正加速供應鏈與企業營運由傳統線性模式轉向更智慧、互聯且具協作能力的生態系模式。若要進一步發揮 AI 的應用價值，正有賴跨企業的系統互通性、完善的資料基礎，以及安全可信的數位環境加以支撐。 隨著技術成熟與平台化發展，企業導入 AI 機器人不一定意味著全面推翻既有系統。透過模組化、平台化",
-        "source": "TechOrange"
-      },
-      {
-        "title": "三星 HBM 一條龍模式鬆動？傳接受 NVIDIA 要求，基底晶粒首度交由台積電 3 奈米生產",
-        "link": "https://techorange.com/2026/10/19/samsung-use-tsmc-technology-nvidias-next-generation-memory-chips-seoul/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 19 Oct 2026 11:57:27 +0800",
-        "description": "三星電子（Samsung Electronics）傳出將採用台積電的 3 奈米製程，為 NVIDIA 次世代客製化高頻寬記憶體（HBM）製造基底晶粒（Base Die）。《Reuters》引述韓國《首爾經濟新聞》的報導指出，三星已接受 NVIDIA 對 NVHBM 提出的製程要求。 NVIDIA 要求採用台積電製程，NVHBM 將記憶體控制器整合至基底晶粒 《首爾經濟新聞》引述業界消息人士指出，NVIDIA 已要求三星、SK 海力士（SK hynix）及美光科技（Micron Technolog",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
+        "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
+        "pubDate": "Tue, 20 Oct 2026 13:51:29 +0530",
+        "description": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
+        "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
+        "pubDate": "Tue, 20 Oct 2026 12:41:45 +0530",
+        "description": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
         "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
@@ -243,6 +271,27 @@
         "pubDate": "Tue, 20 Oct 2026 09:35:58 +0530",
         "description": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery servi",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OVHcloud CLI releases backdoored on GitHub to steal developer secrets",
+        "link": "https://www.bleepingcomputer.com/news/security/ovhcloud-cli-releases-backdoored-on-github-to-steal-developer-secrets/",
+        "pubDate": "Tue, 20 Oct 2026 07:31:22 -0400",
+        "description": "French cloud and hosting provider OVHcloud is warning users that attackers compromised its open-source command-line interface (CLI) tool to distribute information-stealing malware. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ahold Delhaize: Cyberattack affects services across US and Europe",
+        "link": "https://www.bleepingcomputer.com/news/security/ahold-delhaize-cyberattack-affects-services-across-us-and-europe/",
+        "pubDate": "Tue, 20 Oct 2026 07:18:35 -0400",
+        "description": "Ahold Delhaize, one of the world's largest food retail chains, confirmed that last week's cyberattack disrupted services at stores across Europe and the United States. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Revolut outage disrupts online banking operations worldwide",
+        "link": "https://www.bleepingcomputer.com/news/security/revolut-outage-disrupts-online-banking-operations-worldwide/",
+        "pubDate": "Tue, 20 Oct 2026 05:46:44 -0400",
+        "description": "Fintech company Revolut is working to resolve a massive outage that disrupted most of its services worldwide earlier today. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
@@ -277,13 +326,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
         "pubDate": "Sat, 17 Oct 2026 11:18:51 -0400",
         "description": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
-        "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
-        "pubDate": "Sat, 17 Oct 2026 10:32:48 -0400",
-        "description": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -341,37 +383,44 @@
         "pubDate": "Mon, 19 Oct 2026 15:40:58 -0400",
         "description": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the attacks.a [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-        "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-        "pubDate": "Mon, 19 Oct 2026 15:36:40 +0530",
-        "description": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and Google Gem",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Bullhorn takes staffing platform offline to contain cyberattack",
-        "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
-        "pubDate": "Mon, 19 Oct 2026 14:51:13 -0400",
-        "description": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenCode hack exposes API keys amid AI distillation attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
-        "pubDate": "Mon, 19 Oct 2026 13:27:15 -0400",
-        "description": "The open-source AI coding project OpenCode has notified a small number of users that API keys they used with external providers were exposed in a security breach. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-        "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-        "pubDate": "Mon, 19 Oct 2026 11:59:44 +0530",
-        "description": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16.\n\nHe showed the att",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Spotify launches paid podcast memberships with perks beyond bonus content",
+        "link": "https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/",
+        "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "description": "Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oura adds new fitness metrics to show how workouts impact your body",
+        "link": "https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/",
+        "pubDate": "Tue, 20 Oct 2026 12:00:00 +0000",
+        "description": "While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to diff",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Yelp can now call on your behalf to check wait times at a restaurant",
+        "link": "https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/",
+        "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "description": "Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Otter.ai raises $320 million from General Catalyst’s growth fund for its meeting tool",
+        "link": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/",
+        "pubDate": "Tue, 20 Oct 2026 11:00:00 +0000",
+        "description": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst’s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. O",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Blackwall quadruples valuation to $2.2B as websites wrangle an increasingly crowded internet",
+        "link": "https://techcrunch.com/2026/10/20/blackwall-quadruples-valuation-to-2-2b-as-websites-wrangle-an-increasingly-crowded-internet/",
+        "pubDate": "Tue, 20 Oct 2026 07:01:00 +0000",
+        "description": "Blackwall has raised $100M at a $2.2B valuation to continue building security and filtering tools that help websites grapple with growing bot and AI traffic.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Walmart’s Flipkart is quietly building a food delivery challenger in India",
         "link": "https://techcrunch.com/2026/10/19/walmarts-flipkart-is-quietly-building-a-food-delivery-challenger-in-india/",
@@ -443,39 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "AI assistant startup Town nabs unicorn valuation 4 months after launch",
-        "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
-        "pubDate": "Mon, 19 Oct 2026 18:00:39 +0000",
-        "description": "AI assistant startup Town nabbed a unicorn valuation on Monday, announcing a $108 million Series B round co-led by Forerunner Ventures and Menlo Ventures.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Rivian’s CEO says autonomy will enable ‘dramatically different’ vehicle designs",
-        "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
-        "pubDate": "Mon, 19 Oct 2026 17:39:51 +0000",
-        "description": "Founder and CEO RJ Scaringe said he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon to fund 12 small nuclear reactors at former Indiana coal plant",
-        "link": "https://techcrunch.com/2026/10/19/amazon-to-fund-12-small-nuclear-reactors-at-former-indiana-coal-plant/",
-        "pubDate": "Mon, 19 Oct 2026 16:55:56 +0000",
-        "description": "Amazon and X-energy have inked another deal to deploy nuclear power to the grid. This one will generate nearly 1 gigawatt of electricity.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "People are using AI to make their smart TVs dumb again",
-        "link": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/",
-        "pubDate": "Mon, 19 Oct 2026 16:13:22 +0000",
-        "description": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-        "link": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs/",
-        "pubDate": "Mon, 19 Oct 2026 15:37:09 +0000",
-        "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-        "source": "TechCrunch"
+        "title": "Some Google Home Speakers caught downloading hundreds of gigs of data",
+        "link": "https://www.theverge.com/tech/1014209/google-home-speaker-bug-continuous-download",
+        "pubDate": "2026-10-20T06:16:47-04:00",
+        "description": "Some Google Home Speaker owners are currently experiencing an issue in which hundreds of gigabytes of data are being continuously downloaded to their device in the background. The bug, reported by 9to5Google and several Reddit users over the last wee",
+        "source": "TheVerge"
       },
       {
         "title": "Baseus’ new security camera has a spotlight that tracks and follows moving targets",
@@ -502,14 +523,7 @@
         "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
         "pubDate": "2026-10-19T17:28:20-04:00",
-        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesady Chamath \"SPAC King\" Palihapitiya notic",
-        "source": "TheVerge"
-      },
-      {
-        "title": "I tried a $99 plug that promises to track your car and send help when needed — without selling your data",
-        "link": "https://www.theverge.com/tech/1013918/miles-plug-vehicle-tracking-data-privacy-specs-price-launch-date",
-        "pubDate": "2026-10-19T17:00:17-04:00",
-        "description": "My 15-year-old daughter just got her learner's permit, so when I was pitched a new gadget tailored to teen drivers, I was intrigued. The Miles Plug is a small device that plugs into your car's OBD-II port and monitors location, driving habits, and ve",
+        "description": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya notic",
         "source": "TheVerge"
       }
     ],
