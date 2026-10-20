@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-20T20:32:56.117012Z",
+  "ts": "2026-10-20T23:23:14.836229Z",
   "tabs": {
     "cn_sec": [
       {
@@ -131,6 +131,13 @@
     ],
     "cn_tech": [
       {
+        "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
+        "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 21 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊德國攜 NVIDIA 推工業 AI，西門子工廠展示新應用 德國政府 10 月 19 日與 NVIDIA 簽署合作意向聲明，擬結合德國製造業的工程知識與資料，推進實體 AI 模型，擴大工業 AI 應用並建立歐洲產業生態系。NVIDIA 執行長黃仁勳在柏林投資峰會表示，下一波 AI 是實體 AI，相關技術能增強德國既有的工業專長。總理梅爾茨則呼籲中型企業讓 AI 運用累積資料，將製造經驗轉化為競爭優勢。目前合作仍屬意向聲明，政府合作案的具體投資金額",
+        "source": "TechOrange"
+      },
+      {
         "title": "QNAP 推出「HDP for Business」，NAS 升級為零信任勒索防禦備份中心",
         "link": "https://techorange.com/2026/10/20/qnap-hdp-for-businessnas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 20 Oct 2026 18:18:36 +0800",
@@ -227,13 +234,6 @@
         "pubDate": "Mon, 19 Oct 2026 17:00:17 +0800",
         "description": "Google 表示，旗下 Willow 量子晶片透過「魔態培育」技術製備一種特殊量子態，相較未經培育的量子態，錯誤率降低約 40 倍。這種特殊量子態是執行進階量子運算所需的資源，這項成果也緩解了未來量子電腦破解比特幣錢包所面臨的其中一項硬體瓶頸。 這項研究於 10 月 15 日發表在《Science》期刊。《CoinDesk》指出，這項研究觸及比特幣量子安全討論中很少被提及的問題：過去的討論多聚焦於攻擊者需要多大規模的量子電腦，卻低估了這台量子電腦有多少硬體必須專門用來持續製備運算所需的特殊量子",
         "source": "TechOrange"
-      },
-      {
-        "title": "QNAP《2026 台灣企業資安韌性大調查》：78% 企業已建立異地備份，但其中近七成仍處可被刪除的失守危機",
-        "link": "https://techorange.com/2026/10/19/qnap2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 19 Oct 2026 14:52:31 +0800",
-        "description": "響應 10 月全球資安意識月（Cybersecurity Awareness Month），威聯通科技（QNAP）發布《2026 台灣企業資安韌性大調查》，對 241 家台灣企業進行自評調查。結果顯示，受訪的台灣企業多半「已開始投入資安」，但資源投入的位置並未能完全防堵攻擊者的路徑。在資安防衛戰場劇烈變化的當下，傳統「基礎備份」早已不足以確保營運不中斷；當備份本身成為駭客破壞的首要目標，具備防刪除、防竄改的不可變機制與快速自動復原能力，才是檢驗企業資安韌性的真正關鍵。 台灣企業資安成熟度全貌：大",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -292,6 +292,13 @@
         "pubDate": "Tue, 20 Oct 2026 17:02:59 +0530",
         "description": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys.\n\nPrograms built on the new release will refuse connections to site",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+        "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+        "pubDate": "Tue, 20 Oct 2026 16:56:43 -0400",
+        "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
@@ -369,16 +376,51 @@
         "pubDate": "Tue, 20 Oct 2026 09:18:36 -0400",
         "description": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Windows Server 2025 gets support for quick machine recovery",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-        "pubDate": "Tue, 20 Oct 2026 08:16:32 -0400",
-        "description": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+        "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+        "pubDate": "Tue, 20 Oct 2026 23:01:23 +0000",
+        "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX and Tesla boards form special committees to review merger",
+        "link": "https://techcrunch.com/2026/10/20/spacex-and-tesla-boards-form-special-committees-to-review-merger/",
+        "pubDate": "Tue, 20 Oct 2026 22:57:57 +0000",
+        "description": "Elon Musk likes the idea but says he is not on either committee, which is made up of independent directors.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+        "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+        "pubDate": "Tue, 20 Oct 2026 22:24:02 +0000",
+        "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s cloud partnerships are getting messy",
+        "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+        "pubDate": "Tue, 20 Oct 2026 21:25:22 +0000",
+        "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SpaceX’s AI business is beating expectations",
+        "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+        "pubDate": "Tue, 20 Oct 2026 20:40:41 +0000",
+        "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+        "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+        "pubDate": "Tue, 20 Oct 2026 20:35:10 +0000",
+        "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Google is bringing a more personal version of its Gemini AI assistant to your car",
         "link": "https://techcrunch.com/2026/10/20/google-is-bringing-a-more-personal-version-of-its-gemini-ai-assistant-to-your-car/",
@@ -443,80 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok staff raised child safety concerns, but executives reportedly failed to act",
-        "link": "https://techcrunch.com/2026/10/20/tiktok-staff-raised-child-safety-concerns-but-executives-reportedly-failed-to-act/",
-        "pubDate": "Tue, 20 Oct 2026 15:03:41 +0000",
-        "description": "Court documents show TikTok employees were frustrated with how executives responded to their concerns about risks to children.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Figma co-founder Dylan Field thinks MCP is not a perfect protocol",
-        "link": "https://techcrunch.com/2026/10/20/figma-co-founder-dylan-field-thinks-mcp-is-not-a-perfect-protocol/",
-        "pubDate": "Tue, 20 Oct 2026 14:13:32 +0000",
-        "description": "Figma said it plans to support as many standards as possible without exposing all of its data.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "SpaceX alum’s aviation startup, Reliable Robotics, lands $115M, topping $1B valuation",
-        "link": "https://techcrunch.com/2026/10/20/spacex-alums-aviation-startup-reliable-robotics-lands-115m-topping-1b-valuation/",
-        "pubDate": "Tue, 20 Oct 2026 13:17:36 +0000",
-        "description": "Reliable Robotics extended its Series D round with $115 million in equity and $25 million in debt.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-        "link": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-        "pubDate": "Tue, 20 Oct 2026 13:07:24 +0000",
-        "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
-        "link": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
-        "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
-        "description": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Inspired Capital closes $450M fourth fund as New York pushes back on Silicon Valley’s gravitational pull",
-        "link": "https://techcrunch.com/2026/10/20/inspired-capital-closes-450m-fourth-fund-as-new-york-pushes-back-on-silicon-valleys-gravitational-pull/",
-        "pubDate": "Tue, 20 Oct 2026 13:00:00 +0000",
-        "description": "The raise comes as venture dollars pile up on the West Coast.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Xbox CEO is reportedly planning three more rounds of layoffs",
-        "link": "https://www.theverge.com/games/1014700/xbox-ceo-asha-sharma-layoffs",
-        "pubDate": "2026-10-20T15:06:40-04:00",
-        "description": "Xbox CEO Asha Sharma is planning new rounds of layoffs for sometime this month, November, and January, according to Fortune. In July, as part of an organizational \"reset,\" Sharma announced planned layoffs affecting 3,200 staffers over the course of M",
+        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+        "pubDate": "2026-10-20T19:04:19-04:00",
+        "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote ",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon is phasing out Fire HD tablets, but not without some big discounts first",
-        "link": "https://www.theverge.com/gadgets/1014565/amazon-fire-hd-10-tablet-deal-sale",
-        "pubDate": "2026-10-20T15:00:00-04:00",
-        "description": "Amazon recently announced it’s phasing out its Fire HD tablets in favor of much pricier Alexa Tablets. While the days of getting an affordable, but good tablet from Amazon seem to be coming to an end, you can still get a fantastic deal on the ad-supp",
+        "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
+        "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
+        "pubDate": "2026-10-20T18:20:11-04:00",
+        "description": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley",
         "source": "TheVerge"
       },
       {
-        "title": "JustWatch now streams TV shows and movies, too",
-        "link": "https://www.theverge.com/entertainment/1014640/justwatch-tv-plus-free-store-streaming-service-movie-rental",
-        "pubDate": "2026-10-20T14:56:50-04:00",
-        "description": "After announcing plans to introduce its own streaming service last month, JustWatch, a popular guide and search engine for finding things to watch on existing platforms like Disney Plus and Netflix, launched JustWatch TV today. The new streaming serv",
+        "title": "Google’s more personalized Gemini AI is heading to your car",
+        "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+        "pubDate": "2026-10-20T18:11:34-04:00",
+        "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. ",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft reportedly plans Xbox handheld in 2027, next-gen console in 2028",
-        "link": "https://www.theverge.com/news/1014666/xbox-project-helix-launch-2028-rumor",
-        "pubDate": "2026-10-20T14:45:39-04:00",
-        "description": "Microsoft is reportedly planning to launch an Xbox \"next-generation handheld device\" for the holiday season of 2027. The Xbox next-gen console, codename Project Helix, would then launch in the holidays of 2028, according to a new report from Fortune.",
+        "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
+        "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
+        "pubDate": "2026-10-20T17:30:24-04:00",
+        "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of",
         "source": "TheVerge"
       },
       {
-        "title": "Meta pauses Muse sharing after researchers find AI chats on the web",
-        "link": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats",
-        "pubDate": "2026-10-20T14:07:34-04:00",
-        "description": "Meta says it paused a Muse feature that lets you share conversations with the AI assistant after researchers found the URLs publicly available on the web, as reported by Ars Technica. In a report published this week, researchers at the security firm ",
+        "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
+        "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
+        "pubDate": "2026-10-20T17:02:53-04:00",
+        "description": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in hist",
         "source": "TheVerge"
       }
     ],
