@@ -1,7 +1,35 @@
 {
-  "ts": "2026-10-20T23:23:14.836229Z",
+  "ts": "2026-10-21T01:59:43.208292Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "AWS測試AI代理自主尋找及利用漏洞，37項CVE有33項成功",
+        "link": "https://www.ithome.com.tw/news/179744",
+        "pubDate": "2026-10-21 08:00",
+        "description": "AWS以37項CVE測試旗下AI代理自主尋找及利用漏洞的能力，其中33項成功利用，成功率達89.2%。不過，另有2項測試因AI代理後續操作造成系統停止運作，顯示自主滲透測試也可能帶來服務中斷風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AOMEI備份軟體遭供應鏈攻擊，駭客短暫劫持更新機制散布後門",
+        "link": "https://www.ithome.com.tw/news/179805",
+        "pubDate": "2026-10-21 08:00",
+        "description": "駭客利用AOMEI備份軟體更新機制散布後門程式，企業電腦可能在使用者不知情的情況下遭感染。攻擊者曾多次短暫竄改更新設定檔，隨後恢復原狀，增加追查難度",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI代理安全新創Pluto Security獲4,200萬美元投資",
+        "link": "https://www.ithome.com.tw/news/179756",
+        "pubDate": "2026-10-21 08:00",
+        "description": "企業導入AI工具與代理，也面臨新的安全管理需求。以色列資安新創Pluto Security鎖定這類安全風險，推出可監控AI代理活動、限制高風險操作的企業AI安全管理產品，該公司近期結束隱身階段",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多個組織的MCP專案存在SSRF漏洞，研究人員示警AI代理信任問題",
+        "link": "https://www.ithome.com.tw/news/179776",
+        "pubDate": "2026-10-21 08:00",
+        "description": "研究人員發現，Google、摩根大通等組織的MCP專案均存在類似的SSRF漏洞，攻擊者可能利用漏洞，誘使MCP伺服器向內部系統發出網路請求",
+        "source": "iThome資安"
+      },
       {
         "title": "AI網攻兵臨城下：從臺灣受駭事件看AI自主攻擊掀起的典範轉移",
         "link": "https://www.ithome.com.tw/news/179843",
@@ -70,34 +98,6 @@
         "link": "https://www.ithome.com.tw/news/179804",
         "pubDate": "2026-10-20 12:37",
         "description": "臺灣雲端部署平臺Zeabur於10月再發生重大資安事件，該公司於10月19日公布初步調查結果，確認逾321萬筆環境變數及32萬筆帳號資料遭讀取，也揭露8月資安事件後有部分憑證未完成輪替，並在這次攻擊中遭利用，以及已知安全缺失未及時修正等問題。該公司創辦人林沅霖已宣布平臺將於年底停止營運",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Broadcom Wi-Fi晶片存在未修補的WPSplinter漏洞，攻擊者無須密碼即可取得路由器root權限",
-        "link": "https://www.ithome.com.tw/news/179807",
-        "pubDate": "2026-10-20 12:34",
-        "description": "研究人員已在多家電信業者家用閘道器成功驗證攻擊，該漏洞相關程式碼至少可追溯至2010年，目前未獲CVE編號，受影響設備也尚無修補程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "影音串流平臺Plex被鎖定，攻擊者利用漏洞攻擊鏈Plex2Shell植入挖礦軟體與後門",
-        "link": "https://www.ithome.com.tw/news/179806",
-        "pubDate": "2026-10-20 12:29",
-        "description": "在研究人員公布影音串流平臺Plex的漏洞利用鏈Plex2Shell（CVE-2026-96652、CVE-2026-96654、CVE-2026-96655、CVE-2026-96656）細節不久，有人將其用於實際攻擊，藉此在Plex Media Server植入挖礦軟體與後門程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "服飾公司滿心接獲消費者反映個資疑似外洩，茅頭指向委外平臺資料庫遭自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179803",
-        "pubDate": "2026-10-20 12:01",
-        "description": "服飾公司滿心（2916）發布資安重訊，表示因委外服務平臺廠商提供的資料庫遭遇自動化攻擊，部分資訊遭非法擷取，導致消費者疑似出現個資外洩的情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國藥品監管網站存取管制不足，透過ChatGPT可下載2000多筆臨床試驗資料，並外洩上千人個資",
-        "link": "https://www.ithome.com.tw/news/179801",
-        "pubDate": "2026-10-20 11:35",
-        "description": "韓國藥品安全入口網站存取管制不足，議員透過ChatGPT，在不需登入或輸入密碼的情況下，取得2,672份非公開臨床試驗資料",
         "source": "iThome資安"
       },
       {
@@ -259,6 +259,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+        "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400",
+        "description": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+        "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+        "pubDate": "Tue, 20 Oct 2026 20:46:42 -0400",
+        "description": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websit",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
         "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
         "pubDate": "Tue, 20 Oct 2026 19:37:17 +0530",
@@ -361,20 +375,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
         "pubDate": "Tue, 20 Oct 2026 09:51:00 -0400",
         "description": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging, and audit rea",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Use New ROMULUS ClickFix Platform to Deliver LegionLoader and Other Malware",
-        "link": "https://thehackernews.com/2026/10/romulus-clickfix-platform-tricks-users.html",
-        "pubDate": "Tue, 20 Oct 2026 09:35:58 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a ClickFix delivery platform called ROMULUS that's being used to distribute malware such as Legion Loader.\n\nAccording to Forescout Research - Vedere Labs, ROMULUS is akin to a malware delivery servi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-        "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-        "pubDate": "Tue, 20 Oct 2026 09:18:36 -0400",
-        "description": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -485,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "YouTube might be testing hiding the dislike button",
+        "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
+        "pubDate": "2026-10-20T20:00:56-04:00",
+        "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared ",
+        "source": "TheVerge"
+      },
+      {
         "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
         "pubDate": "2026-10-20T19:04:19-04:00",
@@ -510,13 +517,6 @@
         "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
         "pubDate": "2026-10-20T17:30:24-04:00",
         "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of",
-        "source": "TheVerge"
-      },
-      {
-        "title": "SpaceX will try catching Starship and its booster for first time, Musk says",
-        "link": "https://www.theverge.com/science/1014913/spacex-will-try-catching-starship-and-its-booster-for-first-time-musk-says",
-        "pubDate": "2026-10-20T17:02:53-04:00",
-        "description": "SpaceX CEO Elon Musk said the company would attempt to catch Starship and its booster next month, with the goal of recovering the entire orbital launch system for the first time. If successful, Musk said, the attempt would mark the first time in hist",
         "source": "TheVerge"
       }
     ],
