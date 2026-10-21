@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-21T13:12:35.569775Z",
+  "ts": "2026-10-21T18:15:15.237520Z",
   "tabs": {
     "cn_sec": [
       {
@@ -73,10 +73,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列KEV",
+        "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列入KEV",
         "link": "https://www.ithome.com.tw/news/179855",
         "pubDate": "2026-10-21 12:00",
-        "description": "美國網路安全暨基礎設施安全局（CISA）於10月20日，將6個已遭利用的漏洞新增至已遭利用漏洞（KEV）名單，涵蓋Plex Media Server、EG Secure Solutions SiteGuard Server Edition，以及Siemens Software Center近日公布的資安弱點",
+        "description": "美國網路安全與基礎設施安全局（CISA）於10月20日，將6個已遭利用的漏洞新增至已遭利用漏洞（KEV）名單，涵蓋Plex Media Server、EG Secure Solutions SiteGuard Server Edition，以及Siemens Software Center近日公布的資安弱點",
         "source": "iThome資安"
       },
       {
@@ -231,6 +231,34 @@
     ],
     "en_sec": [
       {
+        "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
+        "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
+        "pubDate": "Wed, 21 Oct 2026 23:31:57 +0530",
+        "description": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.\n\nThe compromise affects LiteLLM",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
+        "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
+        "pubDate": "Wed, 21 Oct 2026 22:03:47 +0530",
+        "description": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+        "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+        "pubDate": "Wed, 21 Oct 2026 19:30:00 +0530",
+        "description": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+        "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+        "pubDate": "Wed, 21 Oct 2026 18:45:09 +0530",
+        "description": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineering technique in which bad actors trick users into c",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
         "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
         "pubDate": "Wed, 21 Oct 2026 17:35:00 +0530",
@@ -301,11 +329,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "OpenAI agents disabled safety monitoring, one lied about it",
+        "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
+        "pubDate": "Wed, 21 Oct 2026 12:26:53 -0400",
+        "description": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
         "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
         "pubDate": "Wed, 21 Oct 2026 11:35:15 +0530",
         "description": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.\n\nAccording to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Parti",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP ships emergency patches for critical PHP2Shell flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
+        "pubDate": "Wed, 21 Oct 2026 10:07:05 -0400",
+        "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+        "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+        "pubDate": "Wed, 21 Oct 2026 10:00:10 -0400",
+        "description": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools",
+        "source": "BleepingComputer"
       },
       {
         "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
@@ -320,58 +369,58 @@
         "pubDate": "Wed, 21 Oct 2026 06:14:53 -0400",
         "description": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-        "pubDate": "Wed, 21 Oct 2026 04:36:24 -0400",
-        "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
-        "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
-        "pubDate": "Tue, 20 Oct 2026 22:39:53 +0530",
-        "description": "The private keys of eight eMudhra intermediate certificate authority (CA) certificates are compromised, Mozilla and Google's Chrome Root Program confirms on October 20.\n\nAn intermediate CA signs the certificates that websites present, so anyone holdi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
-        "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
-        "pubDate": "Tue, 20 Oct 2026 21:08:52 +0530",
-        "description": "Cybersecurity researchers have released a proof-of-concept (PoC) exploit for a recently patched critical security flaw impacting Fortinet FortiSIEM that could result in arbitrary code execution.\n\nThe vulnerability, tracked as CVE-2026-106173 (CVSS sc",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-        "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-        "pubDate": "Tue, 20 Oct 2026 21:02:27 +0530",
-        "description": "Palo Alto Networks has disclosed that it's continuing to observe exploitation of a now-patched security flaw impacting  PAN-OS and Prisma Access by ransomware actors.\n\nThe activity relates to CVE-2026-0257 (CVSS score: 7.8), an authentication bypass ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-        "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-        "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400",
-        "description": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
-        "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
-        "pubDate": "Tue, 20 Oct 2026 20:46:42 -0400",
-        "description": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for legitimate websit",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-        "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-        "pubDate": "Tue, 20 Oct 2026 19:37:17 +0530",
-        "description": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.\n\nThe agents trie",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "GM is giving OnStar an AI makeover",
+        "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
+        "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+        "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
+        "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+        "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
+        "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+        "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+        "pubDate": "Wed, 21 Oct 2026 17:18:27 +0000",
+        "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo starts offering rides at the Las Vegas airport",
+        "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
+        "pubDate": "Wed, 21 Oct 2026 16:59:44 +0000",
+        "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Foursquare co-founder says equity holders saw no returns from the company’s acquisition",
+        "link": "https://techcrunch.com/2026/10/21/foursquare-co-founder-says-equity-holders-saw-no-returns-from-the-companys-acquisition/",
+        "pubDate": "Wed, 21 Oct 2026 14:03:11 +0000",
+        "description": "Foursquare raised $411 million in funding according to PitchBook data, but its equity holders saw no returns from its final acquisition.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+        "link": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+        "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+        "description": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Heat pump tech is 170 years old — Pascal thinks it’s time for an update",
+        "link": "https://techcrunch.com/2026/10/21/heat-pump-tech-is-170-years-old-pascal-thinks-its-time-for-an-update/",
+        "pubDate": "Wed, 21 Oct 2026 13:30:00 +0000",
+        "description": "Refrigerants startup Pascal has a new take on heat pump and cooling tech using a sponge-like material that promises to be 20% more efficient.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Mach9 raises $34M after pivoting to AI CAD software",
         "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
@@ -429,87 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "GM to close Detroit battery-assembly plant, but not for reasons you might think",
-        "link": "https://techcrunch.com/2026/10/20/gm-to-close-detroit-battery-assembly-plant-but-not-for-reasons-you-might-think/",
-        "pubDate": "Tue, 20 Oct 2026 19:32:43 +0000",
-        "description": "GM is shuttering the Brownstown Battery Assembly Plant, though the closure has nothing to do with the automaker's electrification strategy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
-        "link": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/",
-        "pubDate": "Tue, 20 Oct 2026 18:38:24 +0000",
-        "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "ChatGPT now lets you lock your chats",
-        "link": "https://techcrunch.com/2026/10/20/chatgpt-now-lets-you-lock-your-chats/",
-        "pubDate": "Tue, 20 Oct 2026 18:36:53 +0000",
-        "description": "The company says the feature is designed for situations where users might be discussing something personal or planning a surprise and want to keep those conversations private when handing their device to friends or family to show them something in an",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-        "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-        "pubDate": "Tue, 20 Oct 2026 17:55:12 +0000",
-        "description": "Eric Schmidt’s fortune is about to get even bigger.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-        "link": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps/",
-        "pubDate": "Tue, 20 Oct 2026 17:12:48 +0000",
-        "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ex-Nvidia-turned-VC Amulya Vishwanath: ‘Physical AI is in its LEGO era’",
-        "link": "https://techcrunch.com/2026/10/20/ex-nvidia-turned-vc-amulya-vishwanath-physical-ai-is-in-its-lego-era/",
-        "pubDate": "Tue, 20 Oct 2026 16:20:06 +0000",
-        "description": "It’s the moment everyone is waiting for — the ChatGPT moment for robotics, Amulya Vishwanath explained to TechCrunch’s Equity.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Streaming guide JustWatch becomes a streamer itself",
-        "link": "https://techcrunch.com/2026/10/20/streaming-guide-justwatch-becomes-a-streamer-itself/",
-        "pubDate": "Tue, 20 Oct 2026 16:01:24 +0000",
-        "description": "JustWatch, the popular streaming search guide used by 50 million people, is launching its own streaming service, offering free, ad-supported movies and shows alongside a $3.99-per-month ad-free tier and movie rentals.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
-        "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
-        "pubDate": "2026-10-21T09:09:26-04:00",
-        "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spik",
+        "title": "Will TP-Link really make routers in the US? Here’s what it told us",
+        "link": "https://www.theverge.com/policy/1013807/tp-link-router-us-onshoring-manufacturing-assembly-interview",
+        "pubDate": "2026-10-21T14:00:00-04:00",
+        "description": "TP-Link, one of the world's leading manufacturers of consumer Wi-Fi routers, is in a precarious position in the US. The company just launched its first Wi-Fi 8 routers, but can't bring them here because of President Donald Trump's foreign router ban.",
         "source": "TheVerge"
       },
       {
-        "title": "I reviewed the iPhone Duo, ask me anything",
-        "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
-        "pubDate": "2026-10-21T08:15:00-04:00",
-        "description": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, a",
+        "title": "GM promises smarter cars, faster updates, and autonomous dry-cleaning runs",
+        "link": "https://www.theverge.com/transportation/1014322/gm-onward-ai-ev-battery-compute-av",
+        "pubDate": "2026-10-21T14:00:00-04:00",
+        "description": "General Motors is still very much in the business of selling gas-guzzling trucks and massive SUVs. But if you listen to its leadership, the Detroit giant is rapidly transforming into a nimble, software-defined tech player with a tightened grip on AI.",
         "source": "TheVerge"
       },
       {
-        "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
-        "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
-        "pubDate": "2026-10-21T08:00:00-04:00",
-        "description": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's",
+        "title": "Xbox Cloud Gaming’s pay-as-you-go option starts at $3.99 for 10 hours",
+        "link": "https://www.theverge.com/news/1015321/xbox-cloud-gaming-pay-as-you-go-cloud-hours-pricing",
+        "pubDate": "2026-10-21T14:00:00-04:00",
+        "description": "Microsoft announced last month that it will let anyone access Xbox Cloud Gaming in November, without the need to subscribe to Xbox Game Pass. The new pay-as-you-go model will require players to purchase bundles of cloud hours, and now Microsoft is re",
         "source": "TheVerge"
       },
       {
-        "title": "I can’t get enough of the iPhone Duo’s matte inner display",
-        "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
-        "pubDate": "2026-10-21T08:00:00-04:00",
-        "description": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch ",
+        "title": "Samsung’s latest 55-inch Frame TV is down to its lowest price yet",
+        "link": "https://www.theverge.com/gadgets/1015568/samsung-the-frame-tv-2026-deal-sale",
+        "pubDate": "2026-10-21T13:35:40-04:00",
+        "description": "If you want a TV but prefer something that won’t clash with your room’s decor, Samsung’s The Frame is a standout option that’s designed to look like a piece of framed art instead of a black, monolithic rectangle mounted to your wall. You can buy the ",
         "source": "TheVerge"
       },
       {
-        "title": "The iPhone Duo is a messy, expensive, good time",
-        "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
-        "pubDate": "2026-10-21T08:00:00-04:00",
-        "description": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone Duo is als",
+        "title": "EA is shutting down BioWare",
+        "link": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+        "pubDate": "2026-10-21T13:19:07-04:00",
+        "description": "BioWare, the legendary studio behind RPGs like Mass Effect, Dragon Age, and Star Wars: Knights of the Old Republic, is shutting down, the company confirmed in a statement. Alongside the closure, Electronic Arts has chosen not to continue development ",
         "source": "TheVerge"
       }
     ],
