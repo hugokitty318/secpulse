@@ -1,12 +1,54 @@
 {
-  "ts": "2026-10-21T07:32:16.486173Z",
+  "ts": "2026-10-21T13:12:35.569775Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "俄羅斯APT28入侵北約成員國造船企業，竊取認證資料並建立內網通道",
+        "link": "https://www.ithome.com.tw/news/179864",
+        "pubDate": "2026-10-21 19:36",
+        "description": "俄羅斯APT28攻擊北約兩國執法及國防相關組織的手法，造船企業遭植入HookEdge後門，駭客還利用Windows內建工具建立SSH反向通道，擷取帳號認證資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署示警AI攻擊進入新階段，資安院：AI攻擊來襲，企業應先守住個資資料庫",
+        "link": "https://www.ithome.com.tw/news/179865",
+        "pubDate": "2026-10-21 18:29",
+        "description": "數發部資安署指出，AI正快速改變駭客攻擊模式，利用大型語言模型、Agent及自動化工具，讓漏洞探查、滲透與攻擊速度大幅提升，代表資安攻防已進入新的典範。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "趨勢科技宣布提供最高100億日圓資安服務，協助日本企業強化網路韌性",
+        "link": "https://www.ithome.com.tw/news/179866",
+        "pubDate": "2026-10-21 18:02",
+        "description": "趨勢科技推出日本網路韌性計畫，提供資安軟體授權額度、專業技術支援及威脅偵測應變服務，協助企業因應AI時代的資安威脅",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Bullhorn人力招募系統遭網攻一度停機，要求客戶重設API密碼",
+        "link": "https://www.ithome.com.tw/news/179862",
+        "pubDate": "2026-10-21 16:37",
+        "description": "美國人力招募軟體商Bullhorn遭網路攻擊，一度關閉招募管理平臺，並要求部分客戶重設API帳號密碼，現在服務已陸續恢復，但亞太地區仍有用戶無法登入",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多家資安公司警告PHP零時差漏洞風暴即將來襲，預告修補的重大漏洞已經曝光",
+        "link": "https://www.ithome.com.tw/news/179861",
+        "pubDate": "2026-10-21 15:40",
+        "description": "PHP開發團隊即將修補的2個重大漏洞，傳出在公布之前就已經曝光！此事引起多家資安公司關注並提出警告，指出這些漏洞就是CVE-2026-109618、CVE-2026-109619，並將它們稱為PHP2Shell",
+        "source": "iThome資安"
+      },
       {
         "title": "GitHub開放NPM套件防火牆，可在安裝前攔截高風險版本",
         "link": "https://www.ithome.com.tw/news/179859",
         "pubDate": "2026-10-21 15:18",
         "description": "GitHub套件防火牆除了比對已知惡意套件與漏洞公告，也會檢查NPM新版本是否新增安裝指令碼、失去原有來源證明，企業還能設定版本冷卻期，在下載前攔截尚未被通報的可疑版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月21日，Google Cloud倫敦區域服務中斷近8小時，波及多家英國銀行與公共服務",
+        "link": "https://www.ithome.com.tw/news/179860",
+        "pubDate": "2026-10-21 14:58",
+        "description": "Google倫敦europe-west2服務區域發生電力問題，造成多項雲端服務錯誤率升高，並出現網路連線間歇性異常，多項英國金融與公共服務受影響",
         "source": "iThome資安"
       },
       {
@@ -66,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "AI代理安全新創Pluto Security獲4,200萬美元投資",
-        "link": "https://www.ithome.com.tw/news/179756",
-        "pubDate": "2026-10-21 08:00",
-        "description": "企業導入AI工具與代理，也面臨新的安全管理需求。以色列資安新創Pluto Security鎖定這類安全風險，推出可監控AI代理活動、限制高風險操作的企業AI安全管理產品，該公司近期結束隱身階段",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AOMEI備份軟體遭供應鏈攻擊，駭客短暫劫持更新機制散布後門",
-        "link": "https://www.ithome.com.tw/news/179805",
-        "pubDate": "2026-10-21 08:00",
-        "description": "駭客利用AOMEI備份軟體更新機制散布後門程式，企業電腦可能在使用者不知情的情況下遭感染。攻擊者曾多次短暫竄改更新設定檔，隨後恢復原狀，增加追查難度",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AWS測試AI代理自主尋找及利用漏洞，37項CVE有33項成功",
-        "link": "https://www.ithome.com.tw/news/179744",
-        "pubDate": "2026-10-21 08:00",
-        "description": "AWS以37項CVE測試旗下AI代理自主尋找及利用漏洞的能力，其中33項成功利用，成功率達89.2%。不過，另有2項測試因AI代理後續操作造成系統停止運作，顯示自主滲透測試也可能帶來服務中斷風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多個組織的MCP專案存在SSRF漏洞，研究人員示警AI代理信任問題",
-        "link": "https://www.ithome.com.tw/news/179776",
-        "pubDate": "2026-10-21 08:00",
-        "description": "研究人員發現，Google、摩根大通等組織的MCP專案均存在類似的SSRF漏洞，攻擊者可能利用漏洞，誘使MCP伺服器向內部系統發出網路請求",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI收購Orchestra Bio強化生物技術能力",
         "link": "https://www.ithome.com.tw/news/179853",
         "pubDate": "2026-10-21  11:10:02",
@@ -101,35 +115,35 @@
         "source": "iThome"
       },
       {
-        "title": "Anthropic上半年營收暴增近15倍，淨損807億美元",
-        "link": "https://www.ithome.com.tw/news/179845",
-        "pubDate": "2026-10-21  10:10:47",
-        "description": "AI公司Anthropic的上市文件草案曝光。華爾街日報（The Wall Street Journal，WSJ）周二（10/20）報導，Anthropic今年上半年營收達163億美元，為去年同期的近15倍，但淨損也高達807億美元，其中720億美元來自融資工具價值變動的會計費用。",
+        "title": "Cloudflare以Rust移植TypeScript編譯器，型別檢查速度最高達Go版8倍",
+        "link": "https://www.ithome.com.tw/news/179867",
+        "pubDate": "2026-10-21  07:10:53",
+        "description": "Cloudflare旗下VoidZero團隊，正與Owner.com工程師合作開發Rust版TypeScript編譯器tsrs。初步測試顯示，與微軟Go版TypeScript 7.0使用相同數量的型別檢查工作執行緒時，tsrs最高快8倍，記憶體用量約減少70%。目前已對外提供實驗版本，也能透過WebAssembly（Wasm）在瀏覽器執行型別檢查。",
         "source": "iThome"
-      },
-      {
-        "title": "SpaceX第三季轉虧為盈，AI業務營收暴增830%",
-        "link": "https://www.ithome.com.tw/news/179849",
-        "pubDate": "2026-10-21  10:10:21",
-        "description": "SpaceX周二（10/20）公布2026年第三季財報，營收達145.8億美元，年增161%，淨利（Net Income）44億美元，較去年同期淨損10.5億美元轉虧為盈。其中，超級智慧（Super Intelligence，SI）業務營收年增830%，達75.6億美元，首次超越Starlink等衛星通訊業務，成為SpaceX最大營收來源。當天SpaceX盤後股價上揚超過9%，漲至161.8美元。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google、Meta合作提供開源TorchTPU，以打破Nvidia獨霸地位",
-        "link": "https://www.ithome.com.tw/news/179847",
-        "pubDate": "2026-10-21  10:10:02",
-        "description": "Google和Meta旗下的PyTorch團隊周二公布開源AI開發軟體堆疊（stack）TorchTPU等產品，可讓PyTorch更容易在Google TPU上執行，而吸引應用程式開發社群，藉此挑戰Nvidia長年獨霸地位。",
-        "source": "iThome"
-      },
-      {
-        "title": "AI網攻兵臨城下：從臺灣受駭事件看AI自主攻擊掀起的典範轉移",
-        "link": "https://www.ithome.com.tw/news/179843",
-        "pubDate": "2026-10-20 22:34",
-        "description": "如果駭客攻擊可以同時派出多個AI Agent分頭行動，進行目標偵察、攻擊路徑分析，還能研究新的攻擊方法、自動修正錯誤判斷，並且持續動態調整攻擊策略，這樣的駭客攻擊行動，還能只稱為自動化攻擊嗎？",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 訓練使用正版書就合法？NCC 前主委詹婷怡解析 Anthropic 15 億美元著作權爭議",
+        "link": "https://techorange.com/2026/10/21/copyright-ai-anthropic-nicole-chan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 21 Oct 2026 18:35:57 +0800",
+        "description": "【TO 編輯部導讀】AI 公司 Anthropic 的著作權爭議延燒至台灣，近日外媒揭露，台灣圖書經銷商曾向 Anthropic 合作採購商運送約 563 公噸書籍。而在美國著作權訴訟中，Anthropic 大量購買正版紙本書、拆書掃描成數位檔並銷毀原件的做法，獲法院認定符合合理使用。為何這種看似極端的做法，反而成為 AI 業者的法律防禦策略？NCC 前主委詹婷怡從該判決切入，解析 AI 訓練的著作權界線，並預測集體授權、合成資料等制度與技術趨勢將如何發展。 作者：NCC 前主委、人工智慧科技基",
+        "source": "TechOrange"
+      },
+      {
+        "title": "萬事達卡示範 AI 代理自己買數位服務：企業核准一筆預算，付款 9 次免開帳戶",
+        "link": "https://techorange.com/2026/10/21/mastercard-agent-pay-for-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 21 Oct 2026 17:48:43 +0800",
+        "description": "萬事達卡（Mastercard）美國時間 10 月 20 日宣布開放「機器代理支付」（Agent Pay for Machines，AP4M）早期存取，並在 Cloudflare Connect 大會上示範：AI 代理在企業核准的一筆預算內，自行向多家服務商購買數位服務。 AI 代理是能自主完成任務的軟體，執行任務時，可能要向一家業者購買資料、使用另一家的 AI 模型，再向第三家購買運算資源。萬事達卡形容，AI 代理正在成為「經濟行為者」。當代理開始替企業花錢，誰來授權、額度上限多少，錢又該怎麼",
+        "source": "TechOrange"
+      },
+      {
+        "title": "亞馬遜明年在德國投資逾 160 億歐元，48 億擴建 AWS、柏林再設機器人 AI 實驗室",
+        "link": "https://techorange.com/2026/10/21/amazon-announces-16-billion-euro-investment-germany-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 21 Oct 2026 16:39:31 +0800",
+        "description": "亞馬遜（Amazon）近日在德國聯邦政府於柏林舉辦的「投資德國峰會」（Invest in Germany Summit）宣布，2027 年將在德國投資超過 160 億歐元，約合 180 億美元，用於擴大雲端運算與 AI 基礎設施、衛星網路、物流及 Prime Video 影視內容等業務。 《Reuters》指出，在 AI 服務需求激增、科技業者競爭加劇之際，亞馬遜正加速在歐洲各地擴建雲端基礎設施，這項投資是其擴大歐洲業務的最新動作。亞馬遜全球事務與法務長 David Zapolsky 表示：「德",
+        "source": "TechOrange"
+      },
       {
         "title": "美軍要讓 AI 代理自主駭入敵方網路，專家憂水務、小企業落入「爆炸半徑」",
         "link": "https://techorange.com/2026/10/21/army-autonomous-ai-agents-arcyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,36 +227,106 @@
         "pubDate": "Tue, 20 Oct 2026 12:18:42 +0800",
         "description": "從 Google、微軟到亞馬遜，科技巨頭紛紛投入自研 AI 晶片，試圖提供 NVIDIA GPU 以外的算力選擇。然而，NVIDIA 的競爭優勢不只有硬體效能，還包括難以複製的 CUDA 軟體生態系。開發者長期累積的程式碼、運算工具與最佳化技術，讓企業即使想改用其他晶片，也面臨不小的轉換成本。如今，亞馬遜宣稱推出「無須重寫程式碼」的新工具，準備從軟體切入，挑戰這道護城河。 亞馬遜旗下雲端服務事業 AWS 在美國時間 10/19 宣布，將開發工具 TorchNeuron 從私人測試擴大至公開測試，",
         "source": "TechOrange"
-      },
-      {
-        "title": "「沒有任何一家公司能單打獨鬥。」高通攜手研華、磐石、偲倢生態系夥伴加速工業邊緣 AI 規模化部署與落地",
-        "link": "https://techorange.com/2026/10/20/qualcomm-edge-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 10:07:10 +0800",
-        "description": "隨著 AI 逐步從雲端走進產線、機器人、AI Gateway 與各式邊緣設備，智慧製造現場對即時運算、低功耗與AI推論的需求也日益升高。TechOrange 科技報橘日前與美國高通公司（Qualcomm）共同主辦「2026 AI 智慧大工廠」新竹場論壇，邀集業界專家從晶片平台、工業電腦到設備與 AI 應用現場，探討工業邊緣 AI 如何跨越 POC 鴻溝，走向規模化部署。 高通行銷行政經理朱俊翰以「工業 AI 的變革：從雲端走向智慧邊緣」為題指出，對企業而言，AI 化的下一階段，關鍵不只是模型效能",
-        "source": "TechOrange"
-      },
-      {
-        "title": "新創 PrismML 把 AI 模型壓縮近 10 倍，個人電腦就能執行，測試分數達原版 98%",
-        "link": "https://techorange.com/2026/10/20/prismml-6gb-ai-model-bonsai-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 09:33:25 +0800",
-        "description": "PrismML 發表基於 Qwen3.8 27B 的第二代壓縮模型 Bonsai 2 27B，並將整體容量壓縮到 5.9GB，足以讓使用者於個人電腦或高階智慧型手機中直接執行。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【新海底軍備競賽展開】各國投入無人載具巡邏海纜，這些機器能做到什麼？",
-        "link": "https://techorange.com/2026/10/20/new-arms-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 09:33:14 +0800",
-        "description": "說到無人機改變戰爭，多數人想到烏俄戰爭。但各國政府與國防企業，正把目光轉向更隱密的戰場：海底。 各國為何砸錢發展海底無人載具？這些機器又真的能做到什麼？ 根據電信研究機構 TeleGeography 統計，截至 2026 年初，全球在役海纜總長超過 150 萬公里；衛星只占美國國際通訊容量的 0.37%，其餘幾乎都靠海纜。除了海纜，海底還有油氣管線，以及把離岸風電送上岸的電力電纜。英國智庫 Chatham House 資深研究員 Katja Bego 直言：「我們整個經濟都建立在這上面。」 問題",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
       {
+        "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+        "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+        "pubDate": "Wed, 21 Oct 2026 17:35:00 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.\n\n\"The most distinctive technical m",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+        "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+        "pubDate": "Wed, 21 Oct 2026 17:23:34 +0530",
+        "description": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral sign",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+        "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+        "pubDate": "Wed, 21 Oct 2026 16:06:53 +0530",
+        "description": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.\n\nPHP will release the fix at 14:00 ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The Harness Is the Hard Part of Agentic Pentesting",
+        "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+        "pubDate": "Wed, 21 Oct 2026 16:02:40 +0530",
+        "description": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward li",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+        "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+        "pubDate": "Wed, 21 Oct 2026 16:00:27 +0530",
+        "description": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last hop in a Tor circuit, where traffic leaves the net",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
         "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-        "pubDate": "Wed, 21 Oct 2026 10:27:50 +0530",
-        "description": "PHP will ship an out-of-cycle security release at 14:00 UTC today, October 21, for two critical vulnerabilities that its security team has rated 9.2 on the CVSS v4.0 scale but has not described.\n\nSecurity researchers at watchTowr say the two flaws al",
+        "pubDate": "Wed, 21 Oct 2026 14:35:17 +0530",
+        "description": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n\nPHP will ship an out-of-cycle security release at",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
+        "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
+        "pubDate": "Wed, 21 Oct 2026 14:31:12 +0530",
+        "description": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites.\n\nTeamUpdraft is the developer be",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
+        "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
+        "pubDate": "Wed, 21 Oct 2026 13:34:17 +0530",
+        "description": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order.\n\nThey m",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+        "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+        "pubDate": "Wed, 21 Oct 2026 13:14:22 +0530",
+        "description": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from.\n\nThe state-owned bank, India's largest, said in ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+        "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+        "pubDate": "Wed, 21 Oct 2026 12:56:49 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Sh",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+        "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+        "pubDate": "Wed, 21 Oct 2026 11:35:15 +0530",
+        "description": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization.\n\nAccording to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster dubbed Parti",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+        "pubDate": "Wed, 21 Oct 2026 08:20:34 -0400",
+        "description": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft says October updates didn’t actually fix VPN issues",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+        "pubDate": "Wed, 21 Oct 2026 06:14:53 -0400",
+        "description": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+        "pubDate": "Wed, 21 Oct 2026 04:36:24 -0400",
+        "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
@@ -285,100 +369,16 @@
         "pubDate": "Tue, 20 Oct 2026 19:37:17 +0530",
         "description": "A Chinese-speaking criminal pointed autonomous AI agents at company websites and let them break in with almost no help, and a security researcher watched it happen because the operators left their control panels open on the internet.\n\nThe agents trie",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-        "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-        "pubDate": "Tue, 20 Oct 2026 18:29:44 +0530",
-        "description": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19.\n\nThe finding came six days bef",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-        "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-        "pubDate": "Tue, 20 Oct 2026 17:11:06 +0530",
-        "description": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy for Europe ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "What Security Teams Can Do To Tame Wild Code",
-        "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-        "pubDate": "Tue, 20 Oct 2026 17:03:04 +0530",
-        "description": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the team’s dail",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-        "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-        "pubDate": "Tue, 20 Oct 2026 17:02:59 +0530",
-        "description": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys.\n\nPrograms built on the new release will refuse connections to site",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-        "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-        "pubDate": "Tue, 20 Oct 2026 16:56:43 -0400",
-        "description": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Russian APT28 Breaches NATO Naval Shipbuilder in NATO Country, Deploys New Reflective Loader",
-        "link": "https://thehackernews.com/2026/10/russian-apt28-breaches-nato-naval.html",
-        "pubDate": "Tue, 20 Oct 2026 16:36:25 +0530",
-        "description": "The Russia-linked state-sponsored threat actor tracked as APT28 (aka BlueDelta, Fancy Bear, and Forest Blizzard) has been attributed to attacks targeting two member states of the North Atlantic Treaty Organization (NATO).\n\nThe Symantec Threat Hunter ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ConnectWise Resets Credentials as Cloud Backup Remains Offline After Security Incident",
-        "link": "https://thehackernews.com/2026/10/connectwise-resets-credentials-as-cloud.html",
-        "pubDate": "Tue, 20 Oct 2026 16:26:08 +0530",
-        "description": "ConnectWise on Monday said it has taken remediation measures, including strengthening administrative-access protections and resetting accounts and replacing application credentials, as it continues to respond to a security incident that led to unauth",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Zeabur shutting down after second security breach in two months",
-        "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
-        "pubDate": "Tue, 20 Oct 2026 15:33:02 -0400",
-        "description": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable records and infor",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
-        "pubDate": "Tue, 20 Oct 2026 14:11:03 -0400",
-        "description": "OpenAI confirmed that its newer models are much better at writing and migrating software in older programming languages. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Hijack Five OVHcloud CLI Releases to Distribute Secret-Stealing Malware",
-        "link": "https://thehackernews.com/2026/10/hackers-hijack-five-ovhcloud-cli.html",
-        "pubDate": "Tue, 20 Oct 2026 13:51:29 +0530",
-        "description": "An attacker used a contributor's GitHub account to replace the download archives on five existing releases of OVHcloud's command-line tool on Monday, October 19. The account had been hijacked, and the new files were a build designed to steal secrets ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ClickFix Attackers Exploit Siemens Software Center Flaw to Deploy Remote Access Trojan",
-        "link": "https://thehackernews.com/2026/10/clickfix-attackers-exploit-siemens.html",
-        "pubDate": "Tue, 20 Oct 2026 12:41:45 +0530",
-        "description": "Siemens has addressed a DLL sideloading vulnerability impacting Siemens Software Center that it said has been exploited in ClickFix attacks.\n\nThe high-severity vulnerability, tracked as CVE-2026-110936 (CVSS v4 score: 8.4), could allow an attacker to",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Ex-OpenAI Engineer Detained in Spy Device Case as Saudi Royal Contacts Emerge",
-        "link": "https://thehackernews.com/2026/10/ex-openai-engineer-detained-in-spy.html",
-        "pubDate": "Tue, 20 Oct 2026 11:23:16 +0530",
-        "description": "A U.S. court on Monday granted the U.S. government's request to detain a former OpenAI engineer accused of planting a recording device in an executive conference room at the company's San Francisco office to allegedly steal sensitive secrets.\n\nIn a n",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "DHS bans DeepSeek products across US federal civilian agencies",
-        "link": "https://www.bleepingcomputer.com/news/security/dhs-bans-deepseek-products-across-us-federal-civilian-agencies/",
-        "pubDate": "Tue, 20 Oct 2026 10:19:05 -0400",
-        "description": "The U.S. Department of Homeland Security (DHS) is ordering federal civilian agencies to stop using DeepSeek products and remove them from government systems. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Mach9 raises $34M after pivoting to AI CAD software",
+        "link": "https://techcrunch.com/2026/10/21/mach9-raises-34m-after-pivoting-to-ai-cad-software/",
+        "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
+        "description": "The startup initially set out to build better, faster, and cheaper surveying hardware in 2021.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
         "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
@@ -478,45 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Plants can speak using electricity, so this startup built an AI model to decipher their language",
-        "link": "https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language/",
-        "pubDate": "Tue, 20 Oct 2026 16:00:00 +0000",
-        "description": "Electric Plant has built an AI-powered translator to help humans listen to what plants are saying with the subtle electricity coursing through their stems.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "YouTube might be testing hiding the dislike button",
-        "link": "https://www.theverge.com/streaming/1015099/youtube-dislike-button-hide-menu",
-        "pubDate": "2026-10-20T20:00:56-04:00",
-        "description": "YouTube appears to be testing hiding the dislike button on videos, as reported by 9to5Google. At least two users on X have recently shared screenshots of the dislike button now being placed in the three-dots submenu, and a user on Reddit also shared ",
+        "title": "Nvidia’s latest GPU driver brings a new way to speed up PC games",
+        "link": "https://www.theverge.com/news/1015299/nvidia-driver-microsoft-advanced-shader-delivery-support",
+        "pubDate": "2026-10-21T09:09:26-04:00",
+        "description": "Nvidia is rolling out a new GPU driver today (621.01) that enables Microsoft's new Advanced Shader Delivery technology to speed up game launches. The technology also removes mid-game \"just-in-time\" shader compilation, reducing stuttering and CPU spik",
         "source": "TheVerge"
       },
       {
-        "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
-        "pubDate": "2026-10-20T19:04:19-04:00",
-        "description": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood. As reported earlier by The Guardian, the judge wrote ",
+        "title": "I reviewed the iPhone Duo, ask me anything",
+        "link": "https://www.theverge.com/tech/1014316/iphone-duo-review-ama",
+        "pubDate": "2026-10-21T08:15:00-04:00",
+        "description": "I'm The Verge's senior smartphone reviewer and I've been using the iPhone Duo for the past week. I've unfolded it, flipped it, and folded it more times than I could count as I've been working on the review alongside our editor-in-chief Nilay Patel, a",
         "source": "TheVerge"
       },
       {
-        "title": "Trump is giving Nick Shirley $10,000 and launching a $25 million fraud bounty program",
-        "link": "https://www.theverge.com/news/1014989/trump-fraud-tips-program-nick-shirley-influencers",
-        "pubDate": "2026-10-20T18:20:11-04:00",
-        "description": "Donald Trump and Vice President JD Vance said on Tuesday that the Trump administration was giving right-wing YouTuber Nick Shirley $10,000 and launching a $25 million bounty program for members of the public to report fraud. In December 2025, Shirley",
+        "title": "Spotify is busting free of CarPlay with the launch of its first native car app",
+        "link": "https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay",
+        "pubDate": "2026-10-21T08:00:00-04:00",
+        "description": "Spotify announced Wednesday the launch of its next-generation, fully native in-car app, built directly on Google's Android Automotive operating system. The standalone app, which is launching today in select Audi models, runs directly on the vehicle's",
         "source": "TheVerge"
       },
       {
-        "title": "Google’s more personalized Gemini AI is heading to your car",
-        "link": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
-        "pubDate": "2026-10-20T18:11:34-04:00",
-        "description": "Google is bringing Personal Intelligence to Gemini AI in your car. With this update, Gemini in Android Auto and cars with Google built-in can tap into your information across Google apps, including Gmail, Calendar, Maps, Photos, YouTube, and Search. ",
+        "title": "I can’t get enough of the iPhone Duo’s matte inner display",
+        "link": "https://www.theverge.com/tech/1014709/iphone-duo-inner-screen-nano-texture-matte",
+        "pubDate": "2026-10-21T08:00:00-04:00",
+        "description": "The iPhone Duo has all the messiness of a first-gen product. And while I'm not sure I love all of the decisions Apple made around its design, it got one thing right: the matte finish on the inner screen. I've been using it for the past week to watch ",
         "source": "TheVerge"
       },
       {
-        "title": "Tesla and SpaceX are discussing a possible merger, Musk says",
-        "link": "https://www.theverge.com/science/1014984/spacex-tesla-merger-elon-musk-special-committees",
-        "pubDate": "2026-10-20T17:30:24-04:00",
-        "description": "Tesla and SpaceX have formed special committees to discuss a possible merger, Elon Musk said during the latter's third quarter earnings call Tuesday. Musk, who serves as CEO of both companies, said the special committees were formed at the request of",
+        "title": "The iPhone Duo is a messy, expensive, good time",
+        "link": "https://www.theverge.com/tech/1015028/iphone-duo-review",
+        "pubDate": "2026-10-21T08:00:00-04:00",
+        "description": "The iPhone Duo is the riskiest Apple product in years. It's a huge rethink of what an iPhone is and could be, and it contains the seeds of many fascinating ideas that might be great in the future. But that future is yet to come. The iPhone Duo is als",
         "source": "TheVerge"
       }
     ],
