@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-22T15:38:22.988169Z",
+  "ts": "2026-10-22T19:29:09.964495Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
+        "link": "https://www.ithome.com.tw/news/179905",
+        "pubDate": "2026-10-23 01:46",
+        "description": "甲骨文本週剛發布揭露與修補1,209個漏洞的2026年第四季度的關鍵修補更新，10月21日甲骨文馬上發布CVE-2026-91403的資安公告，事發突然，為何如此緊急？",
+        "source": "iThome資安"
+      },
       {
         "title": "美食達人部分資訊系統遭駭客攻擊，美食-KY代子公司發布資安重訊",
         "link": "https://www.ithome.com.tw/news/179898",
@@ -98,13 +105,6 @@
         "link": "https://www.ithome.com.tw/news/179874",
         "pubDate": "2026-10-22 13:15",
         "description": "受污染的LiteLLM套件即使未被直接使用，也可能在Python啟動時竊取雲端憑證與AI服務金鑰，並透過後門下載、執行其他程式碼，攻擊還波及Docker最新版映像檔，官方已下架惡意版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "91APP資安事件持續延燒，多家合作品牌示警，消費者接獲疑似詐騙郵件",
-        "link": "https://www.ithome.com.tw/news/179872",
-        "pubDate": "2026-10-22 13:02",
-        "description": "91APP揭露自家Commerce Cloud資料庫遭攻擊後，合作品牌陸續發布疑似個資外洩與防詐警示，並有消費者反映收到冒用商家名義且涉及真實訂單的可疑郵件，供應鏈資安風險與影響範圍逐漸浮現，數發部已介入調查，要求釐清影響範圍",
         "source": "iThome資安"
       },
       {
@@ -245,27 +245,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-        "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-        "pubDate": "Wed, 21 Oct 2026 22:03:47 +0530",
-        "description": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident took ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
-        "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
-        "pubDate": "Wed, 21 Oct 2026 19:30:00 +0530",
-        "description": "PHP has released emergency updates that fix two critical flaws in the language itself, letting an attacker without an account run code on a web server. The fixes are in PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35, and the PHP team says only updating fully ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-        "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-        "pubDate": "Wed, 21 Oct 2026 18:45:09 +0530",
-        "description": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineering technique in which bad actors trick users into c",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
         "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
         "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
@@ -278,13 +257,6 @@
         "pubDate": "Wed, 21 Oct 2026 17:43:27 -0400",
         "description": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-        "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-        "pubDate": "Wed, 21 Oct 2026 17:35:00 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025.\n\n\"The most distinctive technical m",
-        "source": "TheHackerNews"
       },
       {
         "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
@@ -329,25 +301,32 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft says October updates didn’t actually fix VPN issues",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
-        "pubDate": "Wed, 21 Oct 2026 06:14:53 -0400",
-        "description": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
-        "source": "BleepingComputer"
+        "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
+        "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
+        "pubDate": "Thu, 22 Oct 2026 23:42:43 +0530",
+        "description": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate",
+        "source": "TheHackerNews"
       },
       {
-        "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
-        "pubDate": "Wed, 21 Oct 2026 04:36:24 -0400",
-        "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
-        "source": "BleepingComputer"
+        "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
+        "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
+        "pubDate": "Thu, 22 Oct 2026 23:15:44 +0530",
+        "description": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to d",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
-        "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
-        "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400",
-        "description": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
-        "source": "BleepingComputer"
+        "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
+        "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
+        "pubDate": "Thu, 22 Oct 2026 22:31:53 +0530",
+        "description": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.\n\nOne of them, ZDI-CAN-33774, can b",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
+        "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
+        "pubDate": "Thu, 22 Oct 2026 21:42:31 +0530",
+        "description": "Social media giant Meta was ordered to pay 25 billion in penalties by a New Mexico court on Wednesday as part of a data privacy lawsuit that sprang from the company's Cambridge Analytica data scandal, which came to light in 2018.\n\nAccording to multip",
+        "source": "TheHackerNews"
       },
       {
         "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
@@ -376,56 +355,105 @@
         "pubDate": "Thu, 22 Oct 2026 16:14:05 +0530",
         "description": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and su",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+        "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+        "pubDate": "Thu, 22 Oct 2026 15:12:51 -0400",
+        "description": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+        "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+        "pubDate": "Thu, 22 Oct 2026 13:58:48 +0530",
+        "description": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.\n\nOn October 21, 2026, LiteLLM's release pipeline ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+        "pubDate": "Thu, 22 Oct 2026 13:18:22 -0400",
+        "description": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
-        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
-        "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
-        "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+        "pubDate": "Thu, 22 Oct 2026 19:07:09 +0000",
+        "description": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
-        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
-        "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
-        "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+        "title": "Canva releases its first image generation model",
+        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+        "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
         "source": "TechCrunch"
       },
       {
-        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
-        "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
-        "pubDate": "Wed, 21 Oct 2026 22:16:05 +0000",
-        "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+        "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
+        "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Founder Summit 2026: Everything you need to know",
-        "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
-        "pubDate": "Wed, 21 Oct 2026 21:16:20 +0000",
-        "description": "TechCrunch Founder Summit is a full-day gathering in Boston on November 4 where founders across all stages connect with top VCs and experienced entrepreneurs to gain tactical insights on building and scaling their companies.",
+        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+        "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
+        "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta says Muse has over 10M users, with shopping a top activity",
-        "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-        "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-        "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
+        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+        "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+        "pubDate": "Thu, 22 Oct 2026 18:38:47 +0000",
+        "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
         "source": "TechCrunch"
       },
       {
-        "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
-        "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
-        "pubDate": "Wed, 21 Oct 2026 20:57:40 +0000",
-        "description": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+        "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+        "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+        "pubDate": "Thu, 22 Oct 2026 17:36:38 +0000",
+        "description": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+        "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+        "pubDate": "Thu, 22 Oct 2026 16:47:17 +0000",
+        "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+        "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+        "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
+        "description": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber puts all 30,000 employees on ChatGPT Work",
+        "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
+        "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
+        "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla is prepping a Cybercab onslaught",
+        "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
+        "pubDate": "Thu, 22 Oct 2026 15:44:39 +0000",
+        "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
         "source": "TechCrunch"
       },
       {
         "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
         "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
         "pubDate": "Thu, 22 Oct 2026 15:24:32 +0000",
-        "description": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
+        "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
         "source": "TechCrunch"
       },
       {
@@ -457,66 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Claude Duet app is Anthropic’s bet on agents",
-        "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-        "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
-        "description": "Claude Duet is available through waitlist for Pro and Max plan users",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nirva raises $33M for a pendant that only listens to you",
-        "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
-        "pubDate": "Thu, 22 Oct 2026 13:26:52 +0000",
-        "description": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "DeepSeek reportedly raises $15B days after US restrictions",
-        "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-        "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
-        "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tesla says it will start selling Cybercabs by end of year",
-        "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
-        "pubDate": "Thu, 22 Oct 2026 00:17:54 +0000",
-        "description": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and ot",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
-        "link": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
-        "pubDate": "2026-10-22T11:14:20-04:00",
-        "description": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’",
+        "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
+        "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
+        "pubDate": "2026-10-22T15:15:00-04:00",
+        "description": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, l",
         "source": "TheVerge"
       },
       {
-        "title": "PHP: The three little letters wreaking havoc across the web",
-        "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
-        "pubDate": "2026-10-22T11:12:27-04:00",
-        "description": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular site",
+        "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
+        "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
+        "pubDate": "2026-10-22T15:13:42-04:00",
+        "description": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following ",
         "source": "TheVerge"
       },
       {
-        "title": "You could just get a refurbished Samsung phone on Amazon",
-        "link": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
-        "pubDate": "2026-10-22T10:55:29-04:00",
-        "description": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warrant",
+        "title": "Discord now formats Markdown previews right",
+        "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
+        "pubDate": "2026-10-22T14:58:19-04:00",
+        "description": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and ",
         "source": "TheVerge"
       },
       {
-        "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
-        "link": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
-        "pubDate": "2026-10-22T10:41:02-04:00",
-        "description": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting their camera-equipped bird feeder",
+        "title": "The new Fire TV Stick 4K is already half off",
+        "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
+        "pubDate": "2026-10-22T14:43:57-04:00",
+        "description": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stic",
         "source": "TheVerge"
       },
       {
-        "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
-        "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
-        "pubDate": "2026-10-22T10:24:49-04:00",
-        "description": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpa",
+        "title": "Refurbished PS5 consoles include second controller for an extra $18",
+        "link": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
+        "pubDate": "2026-10-22T14:38:50-04:00",
+        "description": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warra",
         "source": "TheVerge"
       }
     ],
