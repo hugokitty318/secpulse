@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-22T19:29:09.964495Z",
+  "ts": "2026-10-22T22:44:39.806454Z",
   "tabs": {
     "cn_sec": [
       {
@@ -238,13 +238,6 @@
     ],
     "en_sec": [
       {
-        "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-        "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-        "pubDate": "Wed, 21 Oct 2026 23:31:57 +0530",
-        "description": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind.\n\nThe compromise affects LiteLLM",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
         "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
         "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
@@ -287,20 +280,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-        "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-        "pubDate": "Wed, 21 Oct 2026 10:00:10 -0400",
-        "description": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-        "pubDate": "Wed, 21 Oct 2026 08:20:34 -0400",
-        "description": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
         "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
         "pubDate": "Thu, 22 Oct 2026 23:42:43 +0530",
@@ -336,11 +315,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-        "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-        "pubDate": "Thu, 22 Oct 2026 17:15:00 +0530",
-        "description": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf a",
-        "source": "TheHackerNews"
+        "title": "Railway warns devs to rotate secrets after potential breach",
+        "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+        "pubDate": "Thu, 22 Oct 2026 17:25:31 -0400",
+        "description": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
@@ -348,6 +327,13 @@
         "pubDate": "Thu, 22 Oct 2026 16:45:42 +0530",
         "description": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found that an unauthorized third party may have gained ac",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Capcom confirms data breach affecting 11.7 million accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+        "pubDate": "Thu, 22 Oct 2026 16:22:45 -0400",
+        "description": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
@@ -376,9 +362,58 @@
         "pubDate": "Thu, 22 Oct 2026 13:18:22 -0400",
         "description": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+        "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+        "pubDate": "Thu, 22 Oct 2026 13:17:22 +0530",
+        "description": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+        "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+        "pubDate": "Thu, 22 Oct 2026 12:08:31 +0530",
+        "description": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code.\n\nBy sending a small batch of compressed HTTP headers that expands in memory to",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+        "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+        "pubDate": "Thu, 22 Oct 2026 22:34:54 +0000",
+        "description": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "link": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+        "pubDate": "Thu, 22 Oct 2026 22:08:24 +0000",
+        "description": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+        "link": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+        "pubDate": "Thu, 22 Oct 2026 21:05:05 +0000",
+        "description": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+        "link": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+        "pubDate": "Thu, 22 Oct 2026 20:01:51 +0000",
+        "description": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+        "link": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+        "pubDate": "Thu, 22 Oct 2026 20:00:00 +0000",
+        "description": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+        "source": "TechCrunch"
+      },
       {
         "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
         "link": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
@@ -415,10 +450,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk made a $1 billion investment in Skydance, report says",
+        "title": "Elon Musk made a $1B investment in Skydance, report says",
         "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
         "pubDate": "Thu, 22 Oct 2026 17:36:38 +0000",
-        "description": "The investment will provide a much needed financial boost as the company seeks to cut costs and lift its stock price.",
+        "description": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
         "source": "TechCrunch"
       },
       {
@@ -450,73 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
-        "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
-        "pubDate": "Thu, 22 Oct 2026 15:24:32 +0000",
-        "description": "Spotify told investors its rollout of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Investors break down how founders can raise a Series A today",
-        "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
-        "pubDate": "Thu, 22 Oct 2026 15:15:00 +0000",
-        "description": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Spotify’s current AI bet is about being the music service that agents choose",
-        "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
-        "pubDate": "Thu, 22 Oct 2026 15:03:58 +0000",
-        "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
-        "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
-        "pubDate": "Thu, 22 Oct 2026 14:59:28 +0000",
-        "description": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
-        "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
-        "pubDate": "Thu, 22 Oct 2026 14:03:00 +0000",
-        "description": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Republican politicians have embraced anti-Indian racism — and it’s costing them votes",
-        "link": "https://www.theverge.com/report/1017003/indian-americans-republican-racism-vivek-ramaswamy-texas",
-        "pubDate": "2026-10-22T15:15:00-04:00",
-        "description": "Two years ago, University of Houston student Vasant Bhatt was doing everything he could to help Republicans regain power. He knocked doors for Sen. Ted Cruz's reelection campaign and helped organize his community for Donald Trump, two victories he, l",
+        "title": "Canva’s first AI image model plans designs before generating them",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+        "pubDate": "2026-10-22T17:51:25-04:00",
+        "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before",
         "source": "TheVerge"
       },
       {
-        "title": "Google tells Android users to update as parts of Canada adopt permanent daylight saving time",
-        "link": "https://www.theverge.com/tech/1016977/google-android-incorrect-time-daylight-saving-permanent-canada",
-        "pubDate": "2026-10-22T15:13:42-04:00",
-        "description": "As the US gets closer to permanently adopting daylight saving time following the House advancing the Sunshine Protection Act in July, there could be some unforeseen consequences to getting an extra hour of sun in the evening all year long. Following ",
+        "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+        "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+        "pubDate": "2026-10-22T17:30:39-04:00",
+        "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that sa",
         "source": "TheVerge"
       },
       {
-        "title": "Discord now formats Markdown previews right",
-        "link": "https://www.theverge.com/news/1017012/discord-markdown-previews-organize-servers-channels",
-        "pubDate": "2026-10-22T14:58:19-04:00",
-        "description": "Discord's latest update released today has a big improvement for Markdown previews: they should now render correctly instead of with \"a bunch of symbols,\" according to the company. LLMs and AI agents often rely on Markdown files for instructions and ",
+        "title": "Fall 2026 earnings watch",
+        "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+        "pubDate": "2026-10-22T17:15:16-04:00",
+        "description": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech",
         "source": "TheVerge"
       },
       {
-        "title": "The new Fire TV Stick 4K is already half off",
-        "link": "https://www.theverge.com/gadgets/1016792/amazon-fire-tv-stick-4k-2026-deal-sale",
-        "pubDate": "2026-10-22T14:43:57-04:00",
-        "description": "Despite being announced just a few weeks ago, both Amazon and Best Buy are now offering the latest Amazon Fire TV Stick 4K for 50 percent off, bringing the price down to an all-time low of $29.99. The most notable new feature is that the Fire TV Stic",
+        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+        "pubDate": "2026-10-22T16:32:05-04:00",
+        "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the",
         "source": "TheVerge"
       },
       {
-        "title": "Refurbished PS5 consoles include second controller for an extra $18",
-        "link": "https://www.theverge.com/gadgets/1016959/refurbished-playstation-5-ps5-console-dualsense-deal-sale-bundle",
-        "pubDate": "2026-10-22T14:38:50-04:00",
-        "description": "A lot of people are snagging a PlayStation 5 ahead of Grand Theft Auto VI’s November 19th launch. You could pay full price at one of many retailers, but why do that when you can save $100 on a Sony-refurbished console that has the same one-year warra",
+        "title": "Meta turns Muse sharing back on",
+        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+        "pubDate": "2026-10-22T16:24:04-04:00",
+        "description": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small b",
         "source": "TheVerge"
       }
     ],
