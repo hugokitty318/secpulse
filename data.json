@@ -1,12 +1,103 @@
 {
-  "ts": "2026-10-22T00:39:41.372288Z",
+  "ts": "2026-10-22T05:22:00.387653Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "LiteLLM工程師GitHub憑證遭竊，官方發布流程成惡意程式散布管道",
+        "link": "https://www.ithome.com.tw/news/179874",
+        "pubDate": "2026-10-22 13:15",
+        "description": "受污染的LiteLLM套件即使未被直接使用，也可能在Python啟動時竊取雲端憑證與AI服務金鑰，並透過後門下載、執行其他程式碼，攻擊還波及Docker最新版映像檔，官方已下架惡意版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "91APP資安事件持續延燒，多家合作品牌示警，消費者接獲疑似詐騙郵件",
+        "link": "https://www.ithome.com.tw/news/179872",
+        "pubDate": "2026-10-22 13:02",
+        "description": "91APP揭露自家Commerce Cloud資料庫遭攻擊後，合作品牌陸續發布疑似個資外洩與防詐警示，並有消費者反映收到冒用商家名義且涉及真實訂單的可疑郵件，供應鏈資安風險與影響範圍逐漸浮現，數發部已介入調查，要求釐清影響範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
+        "link": "https://www.ithome.com.tw/news/179881",
+        "pubDate": "2026-10-22 12:38",
+        "description": "FBI逮捕加拿大資安公司主管，另有美國顧問公司主管遭疑參與經營勒索網站，調查仍在持續",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
+        "link": "https://www.ithome.com.tw/news/179878",
+        "pubDate": "2026-10-22 11:54",
+        "description": "針對PHP、Node.js、Go語言同一天發布資安更新的情況，數位發展部資通安全署發布警訊，呼籲所有企業組織、政府機關，以及關鍵基礎設施儘速清查與修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "加州學校測驗委外商遭駭，數百萬學生個資外洩",
+        "link": "https://www.ithome.com.tw/news/179877",
+        "pubDate": "2026-10-22 11:47",
+        "description": "美國加州爆發大規模學生個資外洩事件！公立學校測驗委外商ETS遭駭，攻擊者利用遭入侵的登入憑證，近4個月內多次存取伺服器並複製學生資料，直到9月25日才被發現",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Fortinet同步修補多款產品漏洞，涵蓋5大產品系列及多個版本分支",
+        "link": "https://www.ithome.com.tw/news/179876",
+        "pubDate": "2026-10-22 11:41",
+        "description": "包含多個重大與高風險漏洞的修補，FortiMail及FortiAuthenticator更新版本已先行發布，FortiOS、FortiManager與FortiAnalyzer也即將推出修補版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Langflow重大遠端程式碼執行漏洞，已觀測逾3,400次攻擊嘗試",
+        "link": "https://www.ithome.com.tw/news/179875",
+        "pubDate": "2026-10-22 11:36",
+        "description": "開源AI開發平臺Langflow的重大漏洞已成為攻擊目標，資安業者Previdian觀測到逾3千次攻擊嘗試",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
+        "link": "https://www.ithome.com.tw/news/179870",
+        "pubDate": "2026-10-22 09:53",
+        "description": "在預告即將修補重大漏洞後，PHP開發團隊發布8.5.12、8.4.27、8.3.36，以及8.2.35版更新，修補統稱為PHP2Shell的遠端程式碼執行（RCE）漏洞CVE-2026-109618、CVE-2026-109619，呼籲用戶立即套用更新因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic取得Opaque機密AI技術與人才",
+        "link": "https://www.ithome.com.tw/news/179844",
+        "pubDate": "2026-10-22 08:00",
+        "description": "Anthropic取得機密AI業者Opaque Systems的技術授權，並延攬部分員工，Opaque也將結束營運。Opaque除了利用機密運算保護AI處理中的敏感資料，也發展可驗證AI技術，讓企業確認AI系統是否遵循既定安全政策",
+        "source": "iThome資安"
+      },
+      {
+        "title": "印度數位憑證業者eMudhra中繼CA私密金鑰可被還原，瀏覽器緊急封鎖相關憑證",
+        "link": "https://www.ithome.com.tw/news/179851",
+        "pubDate": "2026-10-22 08:00",
+        "description": "數位憑證業者eMudhra有8把中繼CA私密金鑰可從公開憑證還原，攻擊者可能藉此偽造HTTPS憑證。Google已封鎖受影響憑證，並計畫移除相關根CA憑證，使用該根CA憑證鏈的企業網站可能需要更換TLS憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Perplexity開源AI代理沙箱SPACE，強化程式碼執行隔離",
+        "link": "https://www.ithome.com.tw/news/179740",
+        "pubDate": "2026-10-22 08:00",
+        "description": "Perplexity開源AI代理沙箱平臺SPACE，讓開發者能為AI代理建立獨立的程式碼執行環境，降低執行不受信任程式碼時影響其他系統的風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "防範AI代理越界行為，NIST提出事件應變指引",
+        "link": "https://www.ithome.com.tw/news/179841",
+        "pubDate": "2026-10-22 08:00",
+        "description": "AI代理若違反安全限制，或嘗試執行未經允許的操作，企業該如何因應？美國NIST聯合NSA、CISA提出10項事件應變建議",
+        "source": "iThome資安"
+      },
       {
         "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
         "link": "https://www.ithome.com.tw/news/179868",
         "pubDate": "2026-10-22  08:10:41",
         "description": "微軟開源評測平臺Scope，可讓GitHub Copilot、Claude Code等AI程式開發代理執行指定任務，檢查是否按照文件正確使用軟體開發套件（SDK）、應用程式介面（API）及相關工具。平臺也會記錄操作過程與測試結果，協助開發團隊找出代理執行任務時遇到的問題。",
+        "source": "iThome"
+      },
+      {
+        "title": "Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署",
+        "link": "https://www.ithome.com.tw/news/179882",
+        "pubDate": "2026-10-22  01:10:29",
+        "description": "Nvidia周三在GTC Berlin 2026大會公布基於Vera Rubin平臺的參考設計，以協助基礎架構業者或企業加速建構AI資料中心，號稱部署時間最短可壓縮到14天。",
         "source": "iThome"
       },
       {
@@ -29,97 +120,6 @@
         "pubDate": "2026-10-21 18:02",
         "description": "趨勢科技推出日本網路韌性計畫，提供資安軟體授權額度、專業技術支援及威脅偵測應變服務，協助企業因應AI時代的資安威脅",
         "source": "iThome資安"
-      },
-      {
-        "title": "Bullhorn人力招募系統遭網攻一度停機，要求客戶重設API密碼",
-        "link": "https://www.ithome.com.tw/news/179862",
-        "pubDate": "2026-10-21 16:37",
-        "description": "美國人力招募軟體商Bullhorn遭網路攻擊，一度關閉招募管理平臺，並要求部分客戶重設API帳號密碼，現在服務已陸續恢復，但亞太地區仍有用戶無法登入",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多家資安公司警告PHP零時差漏洞風暴即將來襲，預告修補的重大漏洞已經曝光",
-        "link": "https://www.ithome.com.tw/news/179861",
-        "pubDate": "2026-10-21 15:40",
-        "description": "PHP開發團隊即將修補的2個重大漏洞，傳出在公布之前就已經曝光！此事引起多家資安公司關注並提出警告，指出這些漏洞就是CVE-2026-109618、CVE-2026-109619，並將它們稱為PHP2Shell",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitHub開放NPM套件防火牆，可在安裝前攔截高風險版本",
-        "link": "https://www.ithome.com.tw/news/179859",
-        "pubDate": "2026-10-21 15:18",
-        "description": "GitHub套件防火牆除了比對已知惡意套件與漏洞公告，也會檢查NPM新版本是否新增安裝指令碼、失去原有來源證明，企業還能設定版本冷卻期，在下載前攔截尚未被通報的可疑版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月21日，Google Cloud倫敦區域服務中斷近8小時，波及多家英國銀行與公共服務",
-        "link": "https://www.ithome.com.tw/news/179860",
-        "pubDate": "2026-10-21 14:58",
-        "description": "Google倫敦europe-west2服務區域發生電力問題，造成多項雲端服務錯誤率升高，並出現網路連線間歇性異常，多項英國金融與公共服務受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ChatGPT提供對話上鎖功能",
-        "link": "https://www.ithome.com.tw/news/179858",
-        "pubDate": "2026-10-21 13:31",
-        "description": "使用者可將特定對話從一般聊天紀錄及搜尋結果中隱藏，避免與他人共用螢幕或裝置時曝光。開啟已上鎖的對話須輸入4位數PIN碼，支援的行動裝置也可透過生物辨識等方式解鎖",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Broadcom Wi-Fi晶片WPSplinter漏洞波及臺灣網通廠商產品",
-        "link": "https://www.ithome.com.tw/news/179857",
-        "pubDate": "2026-10-21 13:01",
-        "description": "合勤正聯繫Broadcom協助處理並同步調查其他產品，Netgear稱受影響舊款產品未在臺販售，Cisco尚待原廠確認",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI漏洞通報湧入，curl改在GitHub公開處理中低風險漏洞",
-        "link": "https://www.ithome.com.tw/news/179854",
-        "pubDate": "2026-10-21 12:16",
-        "description": "curl過去幾年收到的漏洞通報，逾九成可迅速判定未達高風險，部分AI找出的異常也缺乏實際危害，團隊希望在GitHub公開讓社群協助檢查與修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA將Plex、SiteGuard、西門子產品6個漏洞列入KEV",
-        "link": "https://www.ithome.com.tw/news/179855",
-        "pubDate": "2026-10-21 12:00",
-        "description": "美國網路安全與基礎設施安全局（CISA）於10月20日，將6個已遭利用的漏洞新增至已遭利用漏洞（KEV）名單，涵蓋Plex Media Server、EG Secure Solutions SiteGuard Server Edition，以及Siemens Software Center近日公布的資安弱點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google Cloud倫敦區域服務中斷近8小時，波及多家英國銀行與公共服務",
-        "link": "https://www.ithome.com.tw/news/179852",
-        "pubDate": "2026-10-21 11:29",
-        "description": "Google倫敦europe-west2服務區域發生電力問題，造成多項雲端服務錯誤率升高、網路連線間歇性異常，多家銀行及英國公共服務等均受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本企業接連遭駭，GMO確認攻擊者使用AI滲透測試工具ARTEX",
-        "link": "https://www.ithome.com.tw/news/179850",
-        "pubDate": "2026-10-21 11:20",
-        "description": "日本資安公司GMO Cybersecurity by Ierae調查發現，一組使用ARTEX的攻擊基礎設施鎖定約20家日本企業，循線調查更發現6臺使用AI技術的攻擊主機，分別鎖定日本不同產業，顯示攻擊者可能依國家及產業部署不同攻擊行動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Chrome 156修補353個漏洞，Firefox也推出安全性更新158.0.1",
-        "link": "https://www.ithome.com.tw/news/179848",
-        "pubDate": "2026-10-21 10:46",
-        "description": "本週Google正式推出Chrome 156版，修補逾350個資安漏洞，其中包括Skia、Accessibility、CSS、Paint及WebRTC等元件的重大記憶體安全弱點，同日Mozilla也發布Firefox與Thunderbird更新，Windows、macOS、Linux、Android用戶應儘速升級修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "立康接獲消費者反映疑似個資外洩，委外購物平臺遭第三方不當存取",
-        "link": "https://www.ithome.com.tw/news/179846",
-        "pubDate": "2026-10-21 10:16",
-        "description": "生技醫療公司立康（6242）於10月21日發布資安重訊，該公司接獲消費者反映，委外廠商管理的購物平臺疑似遭第三方不當取得資料，並透過電子郵件聯繫消費者",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI收購Orchestra Bio強化生物技術能力",
-        "link": "https://www.ithome.com.tw/news/179853",
-        "pubDate": "2026-10-21  11:10:02",
-        "description": "OpenAI宣布收購代理式AI藥物開發平臺業者Orchestra Bio並整合原有Rosalind產品線，強化OpenAI在生技產業的技術實力。\nOrchestra Bio平臺以AI代理人協助管理製藥業者完成藥物開發的複雜流程。藥物開發過程中，藥廠必須協調內外組織，但這些組織通常使用分散且異質系統。Orchestra Bio可讓AI代理人和科學家、專案管理人員共同作業。人類可委派代理人監控和追蹤研究進度或其他活動，而將心力放在引導、決策等核心事物上，防止專案延遲。",
-        "source": "iThome"
       },
       {
         "title": "Cloudflare以Rust移植TypeScript編譯器，型別檢查速度最高達Go版8倍",
@@ -222,10 +222,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "號稱首個公開機器人基礎模型 API：NVIDIA 前研究員創 Dream Labs，獲 9,000 萬美元種子輪",
-        "link": "https://techorange.com/2026/10/20/dream-labs-seed-build-brain-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 13:15:07 +0800",
-        "description": "機器人 AI 新創 Dream Labs 於 10 月 19 日宣布完成 9,000 萬美元種子輪融資，由創投業者 B Capital 與 Kindred Ventures 共同領投，A.Capital、Unusual Ventures、SV Angel、Wing VC、Scribble VC 及 Adrian Aoun 等投資人參與。Dream Labs 於 2026 年成立，總部位於舊金山，創辦團隊曾帶領 NVIDIA 人形機器人基礎模型 GR00T 的研究，並開發 DreamZero 與世",
+        "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
+        "link": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 10:05:20 +0800",
+        "description": "一通聽起來和工作夥伴聲音一模一樣的電話、要求立刻匯款，對中小企業來說，這可能就是一場代價高昂的詐騙。AI 讓詐騙者更容易冒充企業原本信任的人，從老闆到長期合作的廠商都可能被假冒，而資安資源有限的中小企業，一旦受騙，損失往往特別大。 不過，加強防護不一定需要昂貴的技術或專職資安團隊。由 CIO、CTO 等科技高階主管組成的 Forbes Technology Council，邀集專家提出中小企業現在就能採取的低成本做法。 涉及匯款與帳密的要求，先換個管道確認 多數 AI 詐騙之所以得逞，是因為訊息",
         "source": "TechOrange"
       },
       {
@@ -357,13 +357,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-        "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-        "pubDate": "Wed, 21 Oct 2026 12:56:49 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively called Plex2Sh",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenAI agents disabled safety monitoring, one lied about it",
         "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
         "pubDate": "Wed, 21 Oct 2026 12:26:53 -0400",
@@ -375,6 +368,13 @@
         "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
         "pubDate": "Wed, 21 Oct 2026 10:07:05 -0400",
         "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
+        "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
+        "pubDate": "Wed, 21 Oct 2026 10:00:10 -0400",
+        "description": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools",
         "source": "BleepingComputer"
       }
     ],
@@ -418,7 +418,7 @@
         "title": "Year-old AI lab Flapping Airplanes raises $1B at a $6B valuation",
         "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
         "pubDate": "Wed, 21 Oct 2026 20:57:40 +0000",
-        "description": "Just 9 months after raising an $180 million seed round, Flapping Airplanes has landed $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
+        "description": "Just 9 months after raising a $180 million seed round, Flapping Airplanes has landed a $1 billion Series A for its mission to build AI models \"without ingesting half the internet.\"",
         "source": "TechCrunch"
       },
       {
@@ -439,7 +439,7 @@
         "title": "Automattic begins layoffs following board upheaval and executive departures",
         "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
         "pubDate": "Wed, 21 Oct 2026 20:15:00 +0000",
-        "description": "Automattic has begun laying off employees across multiple teams, including WordPress.com and its enterprise business, following a board shakeup and a series of executive departures. Sources say more cuts could follow as the company looks to improve i",
+        "description": "Sources say more cuts could follow as the company looks to improve its finances.",
         "source": "TechCrunch"
       },
       {
@@ -552,36 +552,6 @@
         "products": "Oracle Products"
       },
       {
-        "title": "Adobe Monthly Security Update (October 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
-        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Adobe Monthly Security Update (October 2026)"
-      },
-      {
-        "title": "Microsoft Monthly Security Update (October 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-october-2026",
-        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Monthly Security Update (October 2026)"
-      },
-      {
-        "title": "MongoDB Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261014",
-        "pubDate": "Wed, 14 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "MongoDB"
-      },
-      {
         "title": "Fortinet Products Elevation of Privilege Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/fortinet-products-elevation-of-privilege-vulnerability_20261020",
         "pubDate": "Tue, 20 Oct 2026 11:00:00 +0800",
@@ -612,6 +582,56 @@
         "products": "Microsoft Edge"
       },
       {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Products"
+      },
+      {
+        "title": "Node.js Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Node.js"
+      },
+      {
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "GitLab"
+      },
+      {
+        "title": "PHP Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "PHP"
+      },
+      {
+        "title": "Splunk Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Splunk Products"
+      },
+      {
         "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
         "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
@@ -630,36 +650,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "IBM WebSphere Products"
-      },
-      {
-        "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
-        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Products"
-      },
-      {
-        "title": "Palo Alto Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261015",
-        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Palo Alto Products"
-      },
-      {
-        "title": "Juniper Junos OS Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
-        "pubDate": "Thu, 15 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Juniper Junos OS"
       }
     ]
   }
