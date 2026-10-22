@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-21T21:58:15.861528Z",
+  "ts": "2026-10-22T00:39:41.372288Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
+        "link": "https://www.ithome.com.tw/news/179868",
+        "pubDate": "2026-10-22  08:10:41",
+        "description": "微軟開源評測平臺Scope，可讓GitHub Copilot、Claude Code等AI程式開發代理執行指定任務，檢查是否按照文件正確使用軟體開發套件（SDK）、應用程式介面（API）及相關工具。平臺也會記錄操作過程與測試結果，協助開發團隊找出代理執行任務時遇到的問題。",
+        "source": "iThome"
+      },
       {
         "title": "俄羅斯APT28入侵北約成員國造船企業，竊取認證資料並建立內網通道",
         "link": "https://www.ithome.com.tw/news/179864",
@@ -222,10 +229,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "AI 模型換晶片免重寫程式碼？亞馬遜推 TorchNeuron，挑戰 NVIDIA CUDA 優勢",
-        "link": "https://techorange.com/2026/10/20/aws-amazon-torchneuron-nvidia-cuda/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 12:18:42 +0800",
-        "description": "從 Google、微軟到亞馬遜，科技巨頭紛紛投入自研 AI 晶片，試圖提供 NVIDIA GPU 以外的算力選擇。然而，NVIDIA 的競爭優勢不只有硬體效能，還包括難以複製的 CUDA 軟體生態系。開發者長期累積的程式碼、運算工具與最佳化技術，讓企業即使想改用其他晶片，也面臨不小的轉換成本。如今，亞馬遜宣稱推出「無須重寫程式碼」的新工具，準備從軟體切入，挑戰這道護城河。 亞馬遜旗下雲端服務事業 AWS 在美國時間 10/19 宣布，將開發工具 TorchNeuron 從私人測試擴大至公開測試，",
+        "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
+        "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX、特斯拉評估合併，潛在市值逾 3 兆美元 太空探索科技公司（SpaceX）執行長馬斯克在美國時間 10 月 20 日法說會證實，SpaceX 與特斯拉（Tesla）已各自成立由獨立董事組成的特別委員會，評估潛在合併。由於他同時涉及兩家公司利益，不能參與委員會討論。雙方尚未談妥交易條件，也不保證會達成協議，後續仍須取得股東支持。《Financial Times》估算，若合併成真，按兩家公司當時市值加總，新集團規模可能超過 3 兆美元，",
         "source": "TechOrange"
       }
     ],
@@ -257,6 +264,13 @@
         "pubDate": "Wed, 21 Oct 2026 18:45:09 +0530",
         "description": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled.\n\nClickFix is a popular social engineering technique in which bad actors trick users into c",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+        "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+        "pubDate": "Wed, 21 Oct 2026 18:16:26 -0400",
+        "description": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -362,16 +376,30 @@
         "pubDate": "Wed, 21 Oct 2026 10:07:05 -0400",
         "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-        "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-        "pubDate": "Wed, 21 Oct 2026 10:00:10 -0400",
-        "description": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+        "link": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+        "pubDate": "Wed, 21 Oct 2026 22:51:22 +0000",
+        "description": "Blackstone’s AI head on why the PE giant isn't panicked by market jitters.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta wants to pay for its broad AI buildout with a newly created class of stock",
+        "link": "https://techcrunch.com/2026/10/21/meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock/",
+        "pubDate": "Wed, 21 Oct 2026 22:45:34 +0000",
+        "description": "The social media giant is planning a new stock strategy to help power its broad investments in AI models and services.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Airbnb limits chores for guests, sparking backlash from hosts",
+        "link": "https://techcrunch.com/2026/10/21/airbnb-limits-chores-for-guests-sparking-backlash-from-hosts/",
+        "pubDate": "Wed, 21 Oct 2026 22:16:05 +0000",
+        "description": "Hosts are threatening to leave the platform after Airbnb says that they can no longer require guests to strip beds or do other time-consuming cleaning chores.",
+        "source": "TechCrunch"
+      },
       {
         "title": "TechCrunch Founder Summit 2026: Everything you need to know",
         "link": "https://techcrunch.com/2026/10/21/techcrunch-founder-summit-2026-everything-you-need-to-know/",
@@ -422,7 +450,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta ordered to pay $25 billion in case related to Cambridge Analytica scandal",
+        "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
         "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
         "pubDate": "Wed, 21 Oct 2026 19:42:32 +0000",
         "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
@@ -450,32 +478,32 @@
         "source": "TechCrunch"
       },
       {
-        "title": "GM is giving OnStar an AI makeover",
-        "link": "https://techcrunch.com/2026/10/21/gm-is-giving-onstar-an-ai-makeover/",
-        "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
-        "description": "It's one of the biggest overhauls ever to the 30-year-old connected car product.",
+        "title": "Tesla says it will start selling Cybercabs by end of year",
+        "link": "https://techcrunch.com/2026/10/21/tesla-says-it-will-start-selling-cybercabs-by-end-of-year/",
+        "pubDate": "Thu, 22 Oct 2026 00:17:54 +0000",
+        "description": "Tesla said Wednesday it will start selling its Cybercab to customers by the end of the year, even as federal regulators investigate whether the vehicle meets vehicle safety standards. The gold-hued, autonomous two-seater lacks a steering wheel and ot",
         "source": "TechCrunch"
       },
       {
-        "title": "PHP armageddon: OpenAI, Google’s Wiz find ancient holes, panicking the internet",
-        "link": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
-        "pubDate": "Wed, 21 Oct 2026 17:59:12 +0000",
-        "description": "This is the kind of security issue that was found and prevented by AI, but is also a high risk because of AI.",
-        "source": "TechCrunch"
+        "title": "YouTube says it isn’t testing hiding the dislike button",
+        "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
+        "pubDate": "2026-10-21T19:46:45-04:00",
+        "description": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wedne",
+        "source": "TheVerge"
       },
       {
-        "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
-        "link": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
-        "pubDate": "Wed, 21 Oct 2026 17:18:27 +0000",
-        "description": "Blacksmith, a platform that lets companies build and test AI code more effectively, just announced a $66 million Series C round led by Sequoia that values the company at $1 billion.",
-        "source": "TechCrunch"
+        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
+        "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
+        "pubDate": "2026-10-21T19:36:31-04:00",
+        "description": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave it",
+        "source": "TheVerge"
       },
       {
-        "title": "Waymo starts offering rides at the Las Vegas airport",
-        "link": "https://techcrunch.com/2026/10/21/waymo-starts-offering-rides-at-the-las-vegas-airport/",
-        "pubDate": "Wed, 21 Oct 2026 16:59:44 +0000",
-        "description": "Pickups and dropoffs will happen at dedicated \"autonomous vehicle zones\" at Terminal 1 and Terminal 3.",
-        "source": "TechCrunch"
+        "title": "Data centers could erase decades of air quality gains",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+        "pubDate": "2026-10-21T18:33:44-04:00",
+        "description": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous",
+        "source": "TheVerge"
       },
       {
         "title": "Meta to create a new class of shares to fund AI push",
@@ -489,27 +517,6 @@
         "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
         "pubDate": "2026-10-21T16:49:07-04:00",
         "description": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Found",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta says it would’ve made over $22 billion if it didn’t have to pay a child safety settlement",
-        "link": "https://www.theverge.com/tech/1015877/meta-q3-2026-earnings-child-safety-settlement",
-        "pubDate": "2026-10-21T16:46:56-04:00",
-        "description": "Meta had to shell out $9.89 billion to pay for a chunk of the child safety settlement it reached with US attorneys general. That's according to the company's third-quarter earnings report released on Wednesday, which says Meta's income from operation",
-        "source": "TheVerge"
-      },
-      {
-        "title": "PHP: The three letters that shut down sites all over the internet today",
-        "link": "https://www.theverge.com/tech/1015906/php2shell-vulnerability-october-2026",
-        "pubDate": "2026-10-21T16:36:56-04:00",
-        "description": "Two bugs found with AI are behind major issues today for 4chan, DeviantArt, Wikipedia, and the blog where the bar around the corner posts pictures of people's dogs. The \"critical vulnerabilities\" were discovered in the PHP programming language, which",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Flying Roadsters can’t lift Tesla’s flat Q3 revenues",
-        "link": "https://www.theverge.com/transportation/1015790/tesla-q3-2026-earnings-revenue-profit-roadster-spacex-merger",
-        "pubDate": "2026-10-21T16:22:31-04:00",
-        "description": "As the smoke clears from its outrageous Roadster demo, Tesla reported Q3 earnings on Wednesday - and the cold reality is that revenue has flatlined. Tesla said it earned $1.7 billion in net income on $28.0 billion in revenue in the quarter that ended",
         "source": "TheVerge"
       }
     ],
