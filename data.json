@@ -1,7 +1,77 @@
 {
-  "ts": "2026-10-22T05:22:00.387653Z",
+  "ts": "2026-10-22T10:37:25.899037Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "科懋生技商城會員個資遭擷取，指出是委外服務商系統遭自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/179900",
+        "pubDate": "2026-10-22 18:27",
+        "description": "10月22日科懋於公開資訊觀測站發布資安重訊，指出接獲線上會員通知有個資外洩情形，經確認，起因為線上銷售平臺的委外服務商伺服器遭自動化網攻，公司已主動聯繫委外服務商並展開調查，目前查知影響包括線上訂單資料庫外流，其中部分涉及科懋商城會員的個資",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Oracle發布2026年10月關鍵修補更新，共修補1,209個漏洞",
+        "link": "https://www.ithome.com.tw/news/179899",
+        "pubDate": "2026-10-22 18:14",
+        "description": "Oracle修補中介軟體、企業管理應用、客戶關係管理、電信與通訊業務軟體等產品線安全問題，多個漏洞CVSS嚴重性達10.0分，用戶需儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "數發部：PHP重大漏洞影響約2.8萬個國內網站，約200個政府機關網站受影響，要求優先修補、必要時暫停服務",
+        "link": "https://www.ithome.com.tw/news/179891",
+        "pubDate": "2026-10-22 15:24",
+        "description": "資安署已在收到PHP官方修補程式通知後立即啟動應變機制，要求政府與企業優先更新版本，若無法立即修補，應採取網站應用程式防火牆（WAF）等緩解措施，必要時暫停網站服務，避免漏洞遭駭客利用。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員借助AI力量找出存在超過10年的資安漏洞PHP2Shell",
+        "link": "https://www.ithome.com.tw/news/179892",
+        "pubDate": "2026-10-22 15:23",
+        "description": "PHP開發團隊本週修補震驚全球的重大漏洞PHPShell（CVE-2026-109618、CVE-2026-109619），找出漏洞的資安公司Wiz表示，他們借助頂尖AI的力量，成功找出可被利用的弱點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA呼籲儘速修補PHP2Shell",
+        "link": "https://www.ithome.com.tw/news/179890",
+        "pubDate": "2026-10-22 15:02",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，企業組織應立即修補統稱為PHP2Shell的重大漏洞CVE-2026-109618、CVE-2026-109619，若無法立即更新，或使用已終止支援的版本，應暫時關閉系統因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月22日，PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
+        "link": "https://www.ithome.com.tw/news/179889",
+        "pubDate": "2026-10-22 14:53",
+        "description": "PHP開發團隊發布8.5.12、8.4.27、8.3.36，以及8.2.35版更新，修補兩個統稱為PHP2Shell的遠端程式碼執行（RCE）漏洞CVE-2026-109618、CVE-2026-109619，呼籲用戶立即更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Amazon證實重大漏洞PHP2Shell在揭露前已遭駭客利用",
+        "link": "https://www.ithome.com.tw/news/179888",
+        "pubDate": "2026-10-22 14:24",
+        "description": "Amazon威脅情報團隊指出，他們PHP正式修補漏洞重大漏洞CVE-2026-109618、CVE-2026-109619（PHP2Shell）的數天前，在蜜罐陷阱偵測到駭客利用的活動，呼籲PHP用戶要加速修補的腳步",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Node.js修補4項高風險漏洞，Brotli解壓縮錯誤恐讓駭客遠端執行程式碼",
+        "link": "https://www.ithome.com.tw/news/179887",
+        "pubDate": "2026-10-22 14:16",
+        "description": "Node.js針對22.x、24.x及26.x版本發布安全更新，解決Brotli解壓縮可能造成記憶體損壞的漏洞，其他修補還包括TLS憑證驗證、DNS網域名稱解析，以及特定情況下亂數重複產生的問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "針對91APP資料庫遭非法存取事件，數產署已啟動行政檢查，釐清個資影響範圍",
+        "link": "https://www.ithome.com.tw/news/179873",
+        "pubDate": "2026-10-22 14:10",
+        "description": "電商技術服務商91APP遭網路攻擊後，事件影響逐漸浮現，數產署10月20日表示，已會同資安院及外部專家展開行政檢查，釐清攻擊者取得資料的途徑，並檢視資料庫權限管理及異常偵測機制是否妥適，若查有違反個資法等相關規定，將依法處理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本虛擬私有主機業者Onamae遭駭，逾2.6萬臺客戶伺服器恐受影響",
+        "link": "https://www.ithome.com.tw/news/179883",
+        "pubDate": "2026-10-22 13:31",
+        "description": "日本網域註冊及主機代管業者Onamae客戶伺服器被植入未授權程式，可能受影響的伺服器達2.6萬臺",
+        "source": "iThome資安"
+      },
       {
         "title": "LiteLLM工程師GitHub憑證遭竊，官方發布流程成惡意程式散布管道",
         "link": "https://www.ithome.com.tw/news/179874",
@@ -24,6 +94,13 @@
         "source": "iThome資安"
       },
       {
+        "title": "PHP2Shell漏洞已遭大規模攻擊嘗試，逾2,260萬個實例可能曝險",
+        "link": "https://www.ithome.com.tw/news/179884",
+        "pubDate": "2026-10-22 12:00",
+        "description": "PHP2Shell包含CVE-2026-109618及CVE-2026-109619兩項重大記憶體漏洞。資安業者Palo Alto Networks估計，全球逾2,260萬個對外曝露的實例可能受影響，企業應儘速更新PHP",
+        "source": "iThome資安"
+      },
+      {
         "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
         "link": "https://www.ithome.com.tw/news/179878",
         "pubDate": "2026-10-22 11:54",
@@ -31,101 +108,38 @@
         "source": "iThome資安"
       },
       {
-        "title": "加州學校測驗委外商遭駭，數百萬學生個資外洩",
-        "link": "https://www.ithome.com.tw/news/179877",
-        "pubDate": "2026-10-22 11:47",
-        "description": "美國加州爆發大規模學生個資外洩事件！公立學校測驗委外商ETS遭駭，攻擊者利用遭入侵的登入憑證，近4個月內多次存取伺服器並複製學生資料，直到9月25日才被發現",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Fortinet同步修補多款產品漏洞，涵蓋5大產品系列及多個版本分支",
-        "link": "https://www.ithome.com.tw/news/179876",
-        "pubDate": "2026-10-22 11:41",
-        "description": "包含多個重大與高風險漏洞的修補，FortiMail及FortiAuthenticator更新版本已先行發布，FortiOS、FortiManager與FortiAnalyzer也即將推出修補版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Langflow重大遠端程式碼執行漏洞，已觀測逾3,400次攻擊嘗試",
-        "link": "https://www.ithome.com.tw/news/179875",
-        "pubDate": "2026-10-22 11:36",
-        "description": "開源AI開發平臺Langflow的重大漏洞已成為攻擊目標，資安業者Previdian觀測到逾3千次攻擊嘗試",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
-        "link": "https://www.ithome.com.tw/news/179870",
-        "pubDate": "2026-10-22 09:53",
-        "description": "在預告即將修補重大漏洞後，PHP開發團隊發布8.5.12、8.4.27、8.3.36，以及8.2.35版更新，修補統稱為PHP2Shell的遠端程式碼執行（RCE）漏洞CVE-2026-109618、CVE-2026-109619，呼籲用戶立即套用更新因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic取得Opaque機密AI技術與人才",
-        "link": "https://www.ithome.com.tw/news/179844",
-        "pubDate": "2026-10-22 08:00",
-        "description": "Anthropic取得機密AI業者Opaque Systems的技術授權，並延攬部分員工，Opaque也將結束營運。Opaque除了利用機密運算保護AI處理中的敏感資料，也發展可驗證AI技術，讓企業確認AI系統是否遵循既定安全政策",
-        "source": "iThome資安"
-      },
-      {
-        "title": "印度數位憑證業者eMudhra中繼CA私密金鑰可被還原，瀏覽器緊急封鎖相關憑證",
-        "link": "https://www.ithome.com.tw/news/179851",
-        "pubDate": "2026-10-22 08:00",
-        "description": "數位憑證業者eMudhra有8把中繼CA私密金鑰可從公開憑證還原，攻擊者可能藉此偽造HTTPS憑證。Google已封鎖受影響憑證，並計畫移除相關根CA憑證，使用該根CA憑證鏈的企業網站可能需要更換TLS憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Perplexity開源AI代理沙箱SPACE，強化程式碼執行隔離",
-        "link": "https://www.ithome.com.tw/news/179740",
-        "pubDate": "2026-10-22 08:00",
-        "description": "Perplexity開源AI代理沙箱平臺SPACE，讓開發者能為AI代理建立獨立的程式碼執行環境，降低執行不受信任程式碼時影響其他系統的風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "防範AI代理越界行為，NIST提出事件應變指引",
-        "link": "https://www.ithome.com.tw/news/179841",
-        "pubDate": "2026-10-22 08:00",
-        "description": "AI代理若違反安全限制，或嘗試執行未經允許的操作，企業該如何因應？美國NIST聯合NSA、CISA提出10項事件應變建議",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟開源Scope評測平臺，追蹤AI程式開發代理的任務表現",
-        "link": "https://www.ithome.com.tw/news/179868",
-        "pubDate": "2026-10-22  08:10:41",
-        "description": "微軟開源評測平臺Scope，可讓GitHub Copilot、Claude Code等AI程式開發代理執行指定任務，檢查是否按照文件正確使用軟體開發套件（SDK）、應用程式介面（API）及相關工具。平臺也會記錄操作過程與測試結果，協助開發團隊找出代理執行任務時遇到的問題。",
+        "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
+        "link": "https://www.ithome.com.tw/news/179897",
+        "pubDate": "2026-10-22  06:10:36",
+        "description": "Anthropic發表主動式AI代理應用Claude Duet，鎖定專業工作者與小型企業經營者，能定期檢查使用者連接的應用程式，主動整理重要事項並發出提醒，也能在使用者離線時繼續處理交辦任務。目前先開放美國Claude Pro與Max訂閱用戶登記研究預覽版候補。",
         "source": "iThome"
       },
       {
-        "title": "Nvidia公布Vera Rubin資料中心參考設計DSX POD，號稱最快2周可完成部署",
-        "link": "https://www.ithome.com.tw/news/179882",
-        "pubDate": "2026-10-22  01:10:29",
-        "description": "Nvidia周三在GTC Berlin 2026大會公布基於Vera Rubin平臺的參考設計，以協助基礎架構業者或企業加速建構AI資料中心，號稱部署時間最短可壓縮到14天。",
+        "title": "Salesforce臺灣將邁入第二年，觀察：AI Agent導入從試點走向企業流程，軟體使用入口正隨AI轉變",
+        "link": "https://www.ithome.com.tw/news/179895",
+        "pubDate": "2026-10-22  04:10:29",
+        "description": "Salesforce臺灣辦公室成立即將滿一年，Salesforce臺灣總經理徐嘉聲對外分享過去一年的發展，他表示，Salesforce全球策略的核心，是協助企業走向更具Agentic特性的企業。\n他指出，Salesforce臺灣今年客戶與營收皆有明顯成長，臺灣的營收及新增客戶數皆達雙位數成長，團隊規模較初期成長5倍。目前企業最關注的方向，就是Agent與資料基礎建設，包括如何讓Agent理解企業資料，以及如何整合Salesforce內外部資料來源。 \n目前Agentforce與Data 360相",
         "source": "iThome"
       },
       {
-        "title": "俄羅斯APT28入侵北約成員國造船企業，竊取認證資料並建立內網通道",
-        "link": "https://www.ithome.com.tw/news/179864",
-        "pubDate": "2026-10-21 19:36",
-        "description": "俄羅斯APT28攻擊北約兩國執法及國防相關組織的手法，造船企業遭植入HookEdge後門，駭客還利用Windows內建工具建立SSH反向通道，擷取帳號認證資料",
-        "source": "iThome資安"
+        "title": "微軟開放Pylance切換型別檢查器，VS Code支援Meta Pyrefly",
+        "link": "https://www.ithome.com.tw/news/179894",
+        "pubDate": "2026-10-22  04:10:20",
+        "description": "微軟與Meta合作開發型別伺服器協定（Type Server Protocol，TSP），讓VS Code的Python語言支援套件Pylance，可以改用Meta的Pyrefly進行型別檢查。開發者切換後，仍能使用Pylance原有的程式碼自動完成、提示及GitHub Copilot整合功能，目前已開放所有VS Code使用者使用。",
+        "source": "iThome"
       },
       {
-        "title": "資安署示警AI攻擊進入新階段，資安院：AI攻擊來襲，企業應先守住個資資料庫",
-        "link": "https://www.ithome.com.tw/news/179865",
-        "pubDate": "2026-10-21 18:29",
-        "description": "數發部資安署指出，AI正快速改變駭客攻擊模式，利用大型語言模型、Agent及自動化工具，讓漏洞探查、滲透與攻擊速度大幅提升，代表資安攻防已進入新的典範。",
-        "source": "iThome資安"
+        "title": "Meta將發行無投票權新股票，為AI投資籌資並維持祖克柏控制權",
+        "link": "https://www.ithome.com.tw/news/179886",
+        "pubDate": "2026-10-22  01:10:50",
+        "description": "Meta周三（10/21）宣布，將於2027年1月設立沒有投票權的Class C普通股，提供未來AI基礎設施投資、企業收購及員工薪酬所需的籌資工具，同時維持執行長祖克柏（Mark Zuckerberg）對公司的控制權。Meta並計畫向現有股東配發新股，效果相當於股票1拆2。",
+        "source": "iThome"
       },
       {
-        "title": "趨勢科技宣布提供最高100億日圓資安服務，協助日本企業強化網路韌性",
-        "link": "https://www.ithome.com.tw/news/179866",
-        "pubDate": "2026-10-21 18:02",
-        "description": "趨勢科技推出日本網路韌性計畫，提供資安軟體授權額度、專業技術支援及威脅偵測應變服務，協助企業因應AI時代的資安威脅",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cloudflare以Rust移植TypeScript編譯器，型別檢查速度最高達Go版8倍",
-        "link": "https://www.ithome.com.tw/news/179867",
-        "pubDate": "2026-10-21  07:10:53",
-        "description": "Cloudflare旗下VoidZero團隊，正與Owner.com工程師合作開發Rust版TypeScript編譯器tsrs。初步測試顯示，與微軟Go版TypeScript 7.0使用相同數量的型別檢查工作執行緒時，tsrs最高快8倍，記憶體用量約減少70%。目前已對外提供實驗版本，也能透過WebAssembly（Wasm）在瀏覽器執行型別檢查。",
+        "title": "Meta第三季營收成長26%，AI資本支出上看1,450億美元",
+        "link": "https://www.ithome.com.tw/news/179885",
+        "pubDate": "2026-10-22  01:10:22",
+        "description": "Meta周三（10/21）公布2026年第三季財報，單季營收達646.01億美元，較去年同期成長26%，淨利（Net Income）為98.6億美元，年增264%，每股盈餘3.83美元。Meta並預估今年全年資本支出介於1,350億至1,450億美元，持續擴大AI基礎設施投資。",
         "source": "iThome"
       }
     ],
@@ -187,38 +201,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】德國攜 NVIDIA 推工業 AI，黃仁勳：下一波是實體 AI",
-        "link": "https://techorange.com/2026/10/21/nvidia-germany-industrial-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊德國攜 NVIDIA 推工業 AI，西門子工廠展示新應用 德國政府 10 月 19 日與 NVIDIA 簽署合作意向聲明，擬結合德國製造業的工程知識與資料，推進實體 AI 模型，擴大工業 AI 應用並建立歐洲產業生態系。NVIDIA 執行長黃仁勳在柏林投資峰會表示，下一波 AI 是實體 AI，相關技術能增強德國既有的工業專長。總理梅爾茨則呼籲中型企業讓 AI 運用累積資料，將製造經驗轉化為競爭優勢。目前合作仍屬意向聲明，政府合作案的具體投資金額",
+        "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
+        "link": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 16:50:17 +0800",
+        "description": "美國企業財務部門正快速導入生成式 AI，但對於讓 AI 自主執行任務，態度則保守許多。支付產業媒體《PYMNTS》近日報導，其研究單位 PYMNTS Intelligence 與摩根大通（JPMorgan）合作發布的研究《Time to Cash: What Two Years of Data Say About Faster Cash and Rising Risk》顯示，2026 年有 80% 的財務團隊使用生成式 AI 管理現金流，較 2025 年的 16% 大幅成長；相較之下，使用代理式",
         "source": "TechOrange"
       },
       {
-        "title": "QNAP 推出「HDP for Business」，NAS 升級為零信任勒索防禦備份中心",
-        "link": "https://techorange.com/2026/10/20/qnap-hdp-for-businessnas/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 18:18:36 +0800",
-        "description": "面對日益猖獗的勒索軟體攻擊與日趨複雜的混合 IT 架構，企業營運韌性正面臨前所未有的考驗。運算、網通及儲存解決方案領導者威聯通®科技 (QNAP® Systems, Inc.) 今日宣布推出全新企業級備份解決方案 [HDP for Business] Beta 版。其打破傳統備份軟體需額外添購昂貴專用機，讓企業能直接將現有的 QNAP NAS 轉化為強大的集中備份與復原驗證中心，以極具競爭力的總體擁有成本 (TCO) 實現跨國、跨站點的資料保護網。 威聯通產品經理王靖傑表示：「企業備份最大的盲點",
+        "title": "Amazon 擋 Muse、Walmart 卻為 AI 代理「開窗」：可設定消費上限、卡號不交給代理",
+        "link": "https://techorange.com/2026/10/22/walmart-agent-gateway-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 15:20:17 +0800",
+        "description": "Walmart 於美國時間 10 月 21 日宣布推出「代理閘道」（Walmart Agent Gateway），讓消費者用自己選擇的 AI 代理，在 Walmart 與旗下倉儲量販店 Sam’s Club 購物，並由顧客控制每個代理能做什麼。就在上個月，最大競爭對手 Amazon 才把 Meta 的 AI 代理 Muse 擋在網站之外。 AI 代理（AI agent）是能替使用者執行任務的 AI 系統。當它開始替消費者逛網站、下單付款，零售平台也面臨選擇：要把代理擋在門外，還是開門讓它進來？如",
         "source": "TechOrange"
       },
       {
-        "title": "美國資安職缺年減 8.4 萬筆，AI 資安工程師卻逆勢增 268%，人才需求如何轉變？",
-        "link": "https://techorange.com/2026/10/20/cybersecurity-jobs-report-ciso/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 17:30:30 +0800",
-        "description": "資安人才服務公司 CyberSN 近日發布《資安職缺報告》（Cybersecurity Jobs Report），呈現美國資安就業市場的最新變化，《SecurityWeek》形容整體結果喜憂參半。報告統計，2026 年 1 月至 9 月，美國資安職缺刊登數量為 235,786 個，創下四年來同期新低，較 2025 年同期的 320,210 個減少 26.4%。 整體職缺下滑之際，部分 AI 與資料相關職位卻大幅成長。其中，AI 資安工程師（AI Security Engineer）職缺年增 26",
+        "title": "AI 熱潮能回本嗎？Gartner 警告：逾 3.5 兆美元基礎設施投資 2030 年前恐面臨減損",
+        "link": "https://techorange.com/2026/10/22/gartner-ai-industry-facing-trillion-shortfall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 13:52:53 +0800",
+        "description": "研究顧問機構 Gartner 於 10 月 14 日發布預測指出，AI 產業正面臨龐大的投資回收壓力。Gartner 以 12% 的投入資本報酬率（ROIC）作為投資的門檻報酬率，估算截至 2030 年，AI 資料中心業者需要累計創造 8.5 兆美元營收，才能支付已宣布的資本支出、融資成本，並達到這項報酬率；然而，同期可歸因於 AI 資料中心的企業與消費者 AI 收入，預估最多只有 3.6 兆美元，兩者相差 4.9 兆美元。 Gartner 資深總監分析師 Will Sommer 表示：「202",
         "source": "TechOrange"
       },
       {
-        "title": "台廠也能打造自己的「CUDA 護城河」？開源基金會董事長蔡祈岩：開源如何提高硬體競爭力",
-        "link": "https://techorange.com/2026/10/20/rock-tsai-open-source-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 16:19:42 +0800",
-        "description": "專訪：沈貝怡撰稿：張哲瑋 台灣在全球 AI 硬體供應鏈居於核心位置，但在軟體、開發者生態與標準的參與仍有落差。本集《全新一週》邀請台灣大哥大資訊長、今年 7 月成立的開源基金會（TAIONE）董事長蔡祈岩，談台灣如何從製造 AI 硬體，走向參與定義 AI。 本集專訪從開源與主權 AI、人才培育，談到他與台灣大哥大總經理林之晨合著、天下雜誌出版的新書《逆分工》，蔡祈岩也以甲午戰爭作為例證，提醒企業只買 AI 工具、不改動組織，生產力終將難以提升。當全世界的 AI 被軟體帶著跑，台灣的硬體優勢要怎麼",
+        "title": "PHP 多年未解的漏洞為何現在才緊急修補？歐洲政府、醫院預防性停站，台灣資安署示警",
+        "link": "https://techorange.com/2026/10/22/php-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 12:45:37 +0800",
+        "description": "廣泛用於 WordPress、Drupal、Joomla 等網站系統的程式語言 PHP，10 月 21 日緊急修補兩項重大漏洞，嚴重程度評分（CVSS v4.0）均達 9.2 分，可能讓未經身分驗證的攻擊者遠端執行程式碼。根據《Reuters》報導，荷蘭鹿特丹港、政府入口網站，以及德國、法國等國政府機關，都因此預防性暫停部分網站服務；台灣資安署也於 22 日發布警訊，呼籲企業儘速修補。 然而，這場緊急修補背後，還有一段曲折的事件經過。兩項漏洞原訂 10 月 22 日才公開，卻因資訊提前外洩，迫使",
         "source": "TechOrange"
       },
       {
-        "title": "一名駭客靠 AI 代理攻破 100 多家企業網站，研究員估每次成功入侵約 50 美元",
-        "link": "https://techorange.com/2026/10/20/hacker-ai-agents-cairn-breaches/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 20 Oct 2026 13:36:27 +0800",
-        "description": "過去幾週，資安公司 NorForge 首席威脅研究員 Snorre Fagerland 從旁看著一名使用中文的駭客，攻破 100 多家企業的網站，包括農機製造商 Deere、家電公司 SharkNinja 與引擎製造商 Cummins。然而，這名駭客幾乎沒有親自動手，而是把這波攻擊近乎全數交給 AI 代理（AI Agent），讓代理花上數小時自主探測、入侵目標網站。 這是《Reuters》美國時間 10 月 19 日的獨家報導，素材來自 NorForge 同日公布的研究報告。Fagerland ",
+        "title": "Anthropic 推主動式 AI 代理 Claude Duet：查發票、備薪資，付款簽約先問你",
+        "link": "https://techorange.com/2026/10/22/anthropic-claude-duet-proactive-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 22 Oct 2026 12:12:17 +0800",
+        "description": "Anthropic 於美國時間 10 月 21 日公布 Claude Duet 研究預覽版，讓 Claude 以「主動式代理」（proactive agent）的方式運作：它不等使用者提問，而是主動檢查已連結的信箱、會計與薪資等應用程式，找出需要處理的事。不過，Anthropic 也替它劃下界線，傳送訊息、付款、簽署文件或刪除資料前，都要先經使用者核准。 AI 代理（AI agent）是能替使用者執行任務的 AI 系統。當它從「問了才答」走向主動找事做，甚至替小型企業動用公司的資金，比起它有多聰",
         "source": "TechOrange"
       },
       {
@@ -248,7 +262,7 @@
         "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
         "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
         "pubDate": "Wed, 21 Oct 2026 22:03:47 +0530",
-        "description": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and one GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident t",
+        "description": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks.\n\nThe AI company said the incident took ",
         "source": "TheHackerNews"
       },
       {
@@ -322,39 +336,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-        "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-        "pubDate": "Wed, 21 Oct 2026 14:35:17 +0530",
-        "description": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory.\n\nPHP will ship an out-of-cycle security release at",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
         "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
         "pubDate": "Wed, 21 Oct 2026 14:34:42 -0400",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-        "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-        "pubDate": "Wed, 21 Oct 2026 14:31:12 +0530",
-        "description": "Unknown threat actors breached TeamUpdraft's website and potentially gained unauthorized access to customers' connection keys for UpdraftCentral, UpdraftVault, and UpdraftClone, using them to backdoor WordPress sites.\n\nTeamUpdraft is the developer be",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-        "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-        "pubDate": "Wed, 21 Oct 2026 13:34:17 +0530",
-        "description": "U.S. federal civilian agencies must remove DeepSeek products from their information technology systems, along with any third-party products or services \"developed using DeepSeek implementations,\" under a Department of Homeland Security order.\n\nThey m",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-        "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-        "pubDate": "Wed, 21 Oct 2026 13:14:22 +0530",
-        "description": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from.\n\nThe state-owned bank, India's largest, said in ",
-        "source": "TheHackerNews"
       },
       {
         "title": "OpenAI agents disabled safety monitoring, one lied about it",
@@ -375,6 +361,34 @@
         "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
         "pubDate": "Wed, 21 Oct 2026 10:00:10 -0400",
         "description": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and why AI tools",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
+        "pubDate": "Wed, 21 Oct 2026 08:20:34 -0400",
+        "description": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft says October updates didn’t actually fix VPN issues",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-didnt-actually-fix-vpn-issues-caused-by-windows-updates/",
+        "pubDate": "Wed, 21 Oct 2026 06:14:53 -0400",
+        "description": "Microsoft says it mistakenly flagged a bug causing Always On VPN connection issues as fixed in the October 2026 Windows 11 cumulative updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA: SafePay ransomware hit over 600 critical infrastructure orgs",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-and-fbi-safepay-ransomware-has-hit-over-600-critical-infrastructure-organizations/",
+        "pubDate": "Wed, 21 Oct 2026 04:36:24 -0400",
+        "description": "The Cybersecurity and Infrastructure Security Agency (CISA) says the SafePay ransomware gang has breached over 600 critical infrastructure organizations worldwide since 2024. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
+        "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+        "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400",
+        "description": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -411,7 +425,7 @@
         "title": "Meta says Muse has over 10M users, with shopping a top activity",
         "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
         "pubDate": "Wed, 21 Oct 2026 21:14:19 +0000",
-        "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+        "description": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
         "source": "TechCrunch"
       },
       {
@@ -592,6 +606,16 @@
         "products": "Mozilla Products"
       },
       {
+        "title": "Oracle Java Security Restriction Bypass Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/oracle-java-security-restriction-bypass-vulnerability_20261022",
+        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Oracle Java Security Restriction Bypass Vulnerability"
+      },
+      {
         "title": "Node.js Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261022",
         "pubDate": "Thu, 22 Oct 2026 10:00:00 +0800",
@@ -632,6 +656,16 @@
         "products": "Splunk Products"
       },
       {
+        "title": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation",
+        "link": "https://www.hkcert.org/blog/hkcert-warns-of-critical-php2shell-vulnerabilities-businesses-must-immediately-review-and-patch-php-systems-ai-accelerates-cyber-attacks-and-defence-further-shortening-the-response-window-between-vulnerability-disclosure-and-exploitation",
+        "pubDate": "Thu, 22 Oct 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation"
+      },
+      {
         "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
         "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
         "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
@@ -640,16 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Cisco Secure Email Gateway Remote Code Execution Vulnerability"
-      },
-      {
-        "title": "IBM WebSphere Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261015",
-        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "IBM WebSphere Products"
       }
     ]
   }
