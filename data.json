@@ -1,12 +1,33 @@
 {
-  "ts": "2026-10-22T10:37:25.899037Z",
+  "ts": "2026-10-22T15:38:22.988169Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "美食達人部分資訊系統遭駭客攻擊，美食-KY代子公司發布資安重訊",
+        "link": "https://www.ithome.com.tw/news/179898",
+        "pubDate": "2026-10-22 19:03",
+        "description": "上市觀光餐旅業美食-KY（2723）代子公司發布資安重訊，指出臺灣子公司美食達人部分資訊系統遭到駭客網路攻擊，已啟動資安事件應變機制與備援作業，並委請資安專業人員協助調查、修復及盤點影響範圍。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "清淨海生技接獲消費者反映疑似個資外洩，將與委外廠商共同釐清事件影響",
+        "link": "https://www.ithome.com.tw/news/179901",
+        "pubDate": "2026-10-22 19:02",
+        "description": "興櫃環保清潔用品業者清淨海生技（7516）於10月22日在公開資訊觀測站發布資安重訊，指出近期接獲消費者反映，公司委外廠商管理的平臺疑似遭第三方不當取得資料，並透過電子郵件聯繫消費者，目前已啟動資安事件應變機制，並將持續與委外廠商共同釐清事件原因及影響範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "俄羅斯社群媒體巨頭VK資料中心遭無人機襲擊，大量使用者通報服務異常",
+        "link": "https://www.ithome.com.tw/news/179902",
+        "pubDate": "2026-10-22 18:50",
+        "description": "VK聖彼得堡附近設施遭攻擊後，社群與音樂串流服務出現大量故障通報，外部監測發現連線水準較正常狀態降低近一半，但VK稱服務仍能正常提供",
+        "source": "iThome資安"
+      },
       {
         "title": "科懋生技商城會員個資遭擷取，指出是委外服務商系統遭自動化攻擊",
         "link": "https://www.ithome.com.tw/news/179900",
         "pubDate": "2026-10-22 18:27",
-        "description": "10月22日科懋於公開資訊觀測站發布資安重訊，指出接獲線上會員通知有個資外洩情形，經確認，起因為線上銷售平臺的委外服務商伺服器遭自動化網攻，公司已主動聯繫委外服務商並展開調查，目前查知影響包括線上訂單資料庫外流，其中部分涉及科懋商城會員的個資",
+        "description": "10月22日科懋生物科技（6496）於公開資訊觀測站發布資安重訊，指出接獲線上會員通知有個資外洩情形，經確認，起因為線上銷售平臺的委外服務商伺服器遭自動化網攻，公司已主動聯繫委外服務商並展開調查，目前查知影響包括線上訂單資料庫外流，其中部分涉及科懋商城會員的個資",
         "source": "iThome資安"
       },
       {
@@ -87,27 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "勒索談判業者疑與駭客組織ShinyHunters勾結，協助經營勒索網站",
-        "link": "https://www.ithome.com.tw/news/179881",
-        "pubDate": "2026-10-22 12:38",
-        "description": "FBI逮捕加拿大資安公司主管，另有美國顧問公司主管遭疑參與經營勒索網站，調查仍在持續",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PHP2Shell漏洞已遭大規模攻擊嘗試，逾2,260萬個實例可能曝險",
-        "link": "https://www.ithome.com.tw/news/179884",
-        "pubDate": "2026-10-22 12:00",
-        "description": "PHP2Shell包含CVE-2026-109618及CVE-2026-109619兩項重大記憶體漏洞。資安業者Palo Alto Networks估計，全球逾2,260萬個對外曝露的實例可能受影響，企業應儘速更新PHP",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安署針對PHP、Node.js、Go緊急更新提出警告，呼籲用戶儘速採取行動",
-        "link": "https://www.ithome.com.tw/news/179878",
-        "pubDate": "2026-10-22 11:54",
-        "description": "針對PHP、Node.js、Go語言同一天發布資安更新的情況，數位發展部資通安全署發布警訊，呼籲所有企業組織、政府機關，以及關鍵基礎設施儘速清查與修補",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
         "link": "https://www.ithome.com.tw/news/179897",
         "pubDate": "2026-10-22  06:10:36",
@@ -126,20 +126,6 @@
         "link": "https://www.ithome.com.tw/news/179894",
         "pubDate": "2026-10-22  04:10:20",
         "description": "微軟與Meta合作開發型別伺服器協定（Type Server Protocol，TSP），讓VS Code的Python語言支援套件Pylance，可以改用Meta的Pyrefly進行型別檢查。開發者切換後，仍能使用Pylance原有的程式碼自動完成、提示及GitHub Copilot整合功能，目前已開放所有VS Code使用者使用。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta將發行無投票權新股票，為AI投資籌資並維持祖克柏控制權",
-        "link": "https://www.ithome.com.tw/news/179886",
-        "pubDate": "2026-10-22  01:10:50",
-        "description": "Meta周三（10/21）宣布，將於2027年1月設立沒有投票權的Class C普通股，提供未來AI基礎設施投資、企業收購及員工薪酬所需的籌資工具，同時維持執行長祖克柏（Mark Zuckerberg）對公司的控制權。Meta並計畫向現有股東配發新股，效果相當於股票1拆2。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta第三季營收成長26%，AI資本支出上看1,450億美元",
-        "link": "https://www.ithome.com.tw/news/179885",
-        "pubDate": "2026-10-22  01:10:22",
-        "description": "Meta周三（10/21）公布2026年第三季財報，單季營收達646.01億美元，較去年同期成長26%，淨利（Net Income）為98.6億美元，年增264%，每股盈餘3.83美元。Meta並預估今年全年資本支出介於1,350億至1,450億美元，持續擴大AI基礎設施投資。",
         "source": "iThome"
       }
     ],
@@ -301,39 +287,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-        "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-        "pubDate": "Wed, 21 Oct 2026 17:23:34 +0530",
-        "description": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the behavioral sign",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
         "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
         "pubDate": "Wed, 21 Oct 2026 16:31:48 -0400",
         "description": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
-        "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
-        "pubDate": "Wed, 21 Oct 2026 16:06:53 +0530",
-        "description": "You cannot fully block the two critical PHP flaws called PHP2Shell before today's fix, and the one setting being passed around as a workaround is not enough on its own, the security firm that suggested it now says.\n\nPHP will release the fix at 14:00 ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "The Harness Is the Hard Part of Agentic Pentesting",
-        "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
-        "pubDate": "Wed, 21 Oct 2026 16:02:40 +0530",
-        "description": "An AppSec team can point an AI agent running on a general-purpose model at its own web apps with little setup. Sure, the model writes the attacks. But everything that makes those attacks safe to run against production and worth acting on afterward li",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-        "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-        "pubDate": "Wed, 21 Oct 2026 16:00:27 +0530",
-        "description": "Attackers took control of more than 300 Tor exit relays in early October and used them to redirect SSH connections to servers that stole login passwords, a researcher found.\n\nExit relays are the last hop in a Tor circuit, where traffic leaves the net",
-        "source": "TheHackerNews"
       },
       {
         "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
@@ -390,6 +348,34 @@
         "pubDate": "Tue, 20 Oct 2026 21:01:50 -0400",
         "description": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+        "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+        "pubDate": "Thu, 22 Oct 2026 19:08:22 +0530",
+        "description": "INTERPOL on Thursday announced that a coordinated law enforcement action has disrupted 10,909 malicious networks and recovered more than $105 million in illicit funds.\n\nIn tandem, the effort saw law enforcement agencies from 21 countries arrest 1,462",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+        "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+        "pubDate": "Thu, 22 Oct 2026 17:15:00 +0530",
+        "description": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching.\n\nNobody reviewed its access. Nobody owns it.\n\nIf a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+        "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+        "pubDate": "Thu, 22 Oct 2026 16:45:42 +0530",
+        "description": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables.\n\nUpon further investigation, the company found that an unauthorized third party may have gained ac",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+        "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+        "pubDate": "Thu, 22 Oct 2026 16:14:05 +0530",
+        "description": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and su",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -436,59 +422,59 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Tesla starts Optimus robot production in California as profit falls 43%",
-        "link": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-        "pubDate": "Wed, 21 Oct 2026 20:33:09 +0000",
-        "description": "Tesla's revenue was flat and its expenses skyrocketed as it pressed the accelerator on its Optimus robots, AI, and autonomous driving.",
+        "title": "Spotify confirms Family Plan crackdown, but calls it a ‘routine improvement’",
+        "link": "https://techcrunch.com/2026/10/22/spotify-confirms-family-plan-crackdown-but-calls-it-a-routine-improvement/",
+        "pubDate": "Thu, 22 Oct 2026 15:24:32 +0000",
+        "description": "Spotify told investors its roll out of QR code verification to ensure Family Plan members live in the same household is not a \"crackdown,\" just a routine improvement.",
         "source": "TechCrunch"
       },
       {
-        "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
-        "link": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/",
-        "pubDate": "Wed, 21 Oct 2026 20:27:41 +0000",
-        "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "title": "Investors break down how founders can raise a Series A today",
+        "link": "https://techcrunch.com/2026/10/22/investors-break-down-how-founders-can-raise-a-series-a-today/",
+        "pubDate": "Thu, 22 Oct 2026 15:15:00 +0000",
+        "description": "Raising a Series A these days isn't so simple — top investors break down what founders need to know now.",
         "source": "TechCrunch"
       },
       {
-        "title": "Automattic begins layoffs following board upheaval and executive departures",
-        "link": "https://techcrunch.com/2026/10/21/automattic-begins-layoffs-following-board-upheaval-and-executive-departures/",
-        "pubDate": "Wed, 21 Oct 2026 20:15:00 +0000",
-        "description": "Sources say more cuts could follow as the company looks to improve its finances.",
+        "title": "Spotify’s current AI bet is about being the music service that agents choose",
+        "link": "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/",
+        "pubDate": "Thu, 22 Oct 2026 15:03:58 +0000",
+        "description": "Spotify co-CEO Gustav Söderström explains why the rise of AI agents could be good news for the music service.",
         "source": "TechCrunch"
       },
       {
-        "title": "GM is betting compute and AI will help it compete with Chinese automakers",
-        "link": "https://techcrunch.com/2026/10/21/gm-is-betting-compute-and-ai-will-help-it-compete-with-chinese-automakers/",
-        "pubDate": "Wed, 21 Oct 2026 19:52:20 +0000",
-        "description": "To compete with Tesla, Rivian, and a host of Chinese automakers, GM’s fourth-gen EV platform will roll out a new central computer and electrical architecture that will debut in 2028 in the Cadillac Escalade IQ.",
+        "title": "Fusion startup Helion is developing new semiconductors that could double output of its power plants",
+        "link": "https://techcrunch.com/2026/10/22/fusion-startup-helion-is-developing-new-semiconductors-that-could-double-output-of-its-power-plants/",
+        "pubDate": "Thu, 22 Oct 2026 14:59:28 +0000",
+        "description": "Helion now has another $225 million to help speed development of its first fusion power plant, due to provide Microsoft with electricity in 2028.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta ordered to pay $25B in case related to Cambridge Analytica scandal",
-        "link": "https://techcrunch.com/2026/10/21/meta-ordered-to-pay-25-billion-in-case-related-to-cambridge-analytica-scandal/",
-        "pubDate": "Wed, 21 Oct 2026 19:42:32 +0000",
-        "description": "The payout is related to a recent trial involving the social media giant that revolved around its data privacy practices.",
+        "title": "Developer platform Railway urges ‘all users’ to revoke secret keys after cyberattack",
+        "link": "https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/",
+        "pubDate": "Thu, 22 Oct 2026 14:03:00 +0000",
+        "description": "The vibe-coding platform said all of its customers should revoke and rotate their private keys, after hackers were able to decrypt some customer secrets.",
         "source": "TechCrunch"
       },
       {
-        "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-        "link": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-        "pubDate": "Wed, 21 Oct 2026 19:30:00 +0000",
-        "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+        "title": "Claude Duet app is Anthropic’s bet on agents",
+        "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+        "pubDate": "Thu, 22 Oct 2026 13:53:26 +0000",
+        "description": "Claude Duet is available through waitlist for Pro and Max plan users",
         "source": "TechCrunch"
       },
       {
-        "title": "The internet is having a very bad cybersecurity day",
-        "link": "https://techcrunch.com/2026/10/21/the-internet-is-having-a-very-bad-cybersecurity-day/",
-        "pubDate": "Wed, 21 Oct 2026 19:03:28 +0000",
-        "description": "From AI-discovered PHP vulnerabilities to flaws in Node.js and popular AI tool LiteLLM, cybersecurity teams have plenty to worry about this week.",
+        "title": "Nirva raises $33M for a pendant that only listens to you",
+        "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+        "pubDate": "Thu, 22 Oct 2026 13:26:52 +0000",
+        "description": "Nirva will ship its $249 ambient AI pendant by the end of the year.",
         "source": "TechCrunch"
       },
       {
-        "title": "Legal AI startup Legora raises $550M Series E at $8.8B valuation",
-        "link": "https://techcrunch.com/2026/10/21/legal-ai-startup-legora-raises-550m-series-e-at-8-8b-valuation/",
-        "pubDate": "Wed, 21 Oct 2026 18:51:56 +0000",
-        "description": "Legal AI startup Legora announced Wednesday that it raised a $550 million Series E round, valuing it at $8.8 billion.",
+        "title": "DeepSeek reportedly raises $15B days after US restrictions",
+        "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+        "pubDate": "Thu, 22 Oct 2026 13:11:13 +0000",
+        "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube says it isn’t testing hiding the dislike button",
-        "link": "https://www.theverge.com/streaming/1016206/youtube-dislike-button-videos",
-        "pubDate": "2026-10-21T19:46:45-04:00",
-        "description": "On Tuesday, I published a story about how YouTube appeared to be testing hiding the dislike button on videos, with at least two users on X sharing screenshots of the dislike button moved into the three-dot menu. But a YouTube spokesperson, in a Wedne",
+        "title": "Apple’s Magic Keyboards for iPad are about half off, with a small catch",
+        "link": "https://www.theverge.com/gadgets/1016640/apple-magic-keyboards-ipad-air-pro-deal-sale",
+        "pubDate": "2026-10-22T11:14:20-04:00",
+        "description": "You can outfit your iPad Air or iPad Pro with one of Apple’s slick Magic Keyboards for considerably less than the accessory usually costs at Woot. I won’t bury the catch I teased in the headline; These cases have a 90-day warranty via Woot, and aren’",
         "source": "TheVerge"
       },
       {
-        "title": "Tesla says customers can add their own vehicles to the robotaxi fleet next year — will it happen?",
-        "link": "https://www.theverge.com/transportation/1016118/tesla-robotaxi-customer-owned-vehicle-fleet-network-q3-2026-earnings",
-        "pubDate": "2026-10-21T19:36:31-04:00",
-        "description": "For years, Elon Musk has been making big promises to Tesla owners about unsupervised autonomous driving and the ability to add their own vehicles to the company's robotaxi fleet. During today's third-quarter earnings call, the company finally gave it",
+        "title": "PHP: The three little letters wreaking havoc across the web",
+        "link": "https://www.theverge.com/tech/1016574/php2shell-security-vulnerability-websites-down",
+        "pubDate": "2026-10-22T11:12:27-04:00",
+        "description": "Two vulnerabilities found in the programming language PHP put enormous swaths of the internet in danger. By some accounts, up to 70 percent of websites use PHP in some capacity. It powers Wikipedia, WordPress, Drupal, and a host of other popular site",
         "source": "TheVerge"
       },
       {
-        "title": "Data centers could erase decades of air quality gains",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
-        "pubDate": "2026-10-21T18:33:44-04:00",
-        "description": "A rush of new data centers could bring air pollution roaring back to levels not seen since the 2000s in Texas, which has become ground zero for the physical infrastructure behind generative AI. New and proposed data centers are demanding a tremendous",
+        "title": "You could just get a refurbished Samsung phone on Amazon",
+        "link": "https://www.theverge.com/gadgets/1016626/samsung-galaxy-used-amazon",
+        "pubDate": "2026-10-22T10:55:29-04:00",
+        "description": "I recently bought a used Galaxy phone, and now Samsung is leaning into that market on Amazon after raising prices on its newest phones. Its certified renewed phones are available on Amazon for the first time, with a new battery and a one-year warrant",
         "source": "TheVerge"
       },
       {
-        "title": "Meta to create a new class of shares to fund AI push",
-        "link": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
-        "pubDate": "2026-10-21T17:30:02-04:00",
-        "description": "Meta says it's issuing a new class of shares to fund its AI initiatives. As part of its third-quarter earnings report released on Wednesday, the company says the non-voting stock will also go toward potential acquisitions and employee compensation, w",
+        "title": "Coolfly’s solar-powered Aura Smart Bird Feeder is nearly 50 percent off",
+        "link": "https://www.theverge.com/gadgets/1015984/aura-smart-bird-feeder-jbl-charge-6-speaker-deal-sale",
+        "pubDate": "2026-10-22T10:41:02-04:00",
+        "description": "I’m not sure when birdwatching became so popular, but it seems everybody’s getting into it these days. If you want to see what all the fuss is about without leaving your couch, both Coolfly and Birdfy are discounting their camera-equipped bird feeder",
         "source": "TheVerge"
       },
       {
-        "title": "New York’s first microdrama film festival searches for its audience",
-        "link": "https://www.theverge.com/entertainment/1014494/alza-vertical-film-festival-bill-block-salvador-paskowitz-microdramas-verticals",
-        "pubDate": "2026-10-21T16:49:07-04:00",
-        "description": "It remains to be seen if people really want to watch vertical content on horizontal TV screens, but many filmmakers and creators were confident that their latest projects would play well at Alza - New York City's first microdrama film festival. Found",
+        "title": "Coolpad’s new $150 Android phone has a wider screen like the iPhone Duo, but doesn’t fold",
+        "link": "https://www.theverge.com/tech/1016544/coolpad-cool-x-wide-widescreen-android-16-smartphone-china",
+        "pubDate": "2026-10-22T10:24:49-04:00",
+        "description": "The design of widescreen folding phones like the Samsung Galaxy Z Fold 8, Huawei Pura X View, and now the iPhone Duo, is starting to influence traditional slab phones. Similar to the Huawei Pura X View that launched in China in August, the new Coolpa",
         "source": "TheVerge"
       }
     ],
