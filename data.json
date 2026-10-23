@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-23T12:04:33.945824Z",
+  "ts": "2026-10-23T17:01:04.914578Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "1Password擴大AI代理登入支援，Muse、Grok Bot率先整合",
+        "link": "https://www.ithome.com.tw/news/179942",
+        "pubDate": "2026-10-23 20:26",
+        "description": "AI代理需要登入網站時，可向1Password提出請求，經使用者核准後，由密碼庫代為填入密碼及驗證碼，避免代理接觸登入資料，Muse、Grok Bot將率先整合，ChatGPT Work等服務後續支援",
+        "source": "iThome資安"
+      },
       {
         "title": "91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
         "link": "https://www.ithome.com.tw/news/179923",
@@ -98,13 +105,6 @@
         "link": "https://www.ithome.com.tw/news/179910",
         "pubDate": "2026-10-23 11:07",
         "description": "受到全球矚目的PHP重大漏洞PHP2Shell（CVE-2026-109618、CVE-2026-109619），21日晚間日本首相高市早苗特別發布推文提出呼籲，要網站管理員做好準備，在修補程式一推出就儘速套用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitLab修補存在12年的滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/179906",
-        "pubDate": "2026-10-23 10:18",
-        "description": "本週GitLab發布資安更新，修補嚴重程度滿分的資安漏洞CVE-2026-110264，罕見的是，這次他們一口氣為7個分支版本進行修補",
         "source": "iThome資安"
       },
       {
@@ -266,34 +266,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
-        "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
-        "pubDate": "Wed, 21 Oct 2026 16:31:48 -0400",
-        "description": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-        "pubDate": "Wed, 21 Oct 2026 14:34:42 -0400",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenAI agents disabled safety monitoring, one lied about it",
-        "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-        "pubDate": "Wed, 21 Oct 2026 12:26:53 -0400",
-        "description": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-        "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-        "pubDate": "Wed, 21 Oct 2026 10:07:05 -0400",
-        "description": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
         "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
         "pubDate": "Thu, 22 Oct 2026 23:42:43 +0530",
@@ -350,13 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-        "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-        "pubDate": "Thu, 22 Oct 2026 16:14:05 +0530",
-        "description": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside tools, and su",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
         "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
         "pubDate": "Thu, 22 Oct 2026 15:12:51 -0400",
@@ -390,6 +355,41 @@
         "pubDate": "Thu, 22 Oct 2026 09:09:12 -0400",
         "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "GitLab warns of new max severity code execution vulnerability",
+        "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+        "pubDate": "Thu, 22 Oct 2026 07:41:48 -0400",
+        "description": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+        "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+        "pubDate": "Thu, 22 Oct 2026 04:27:11 -0400",
+        "description": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+        "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+        "pubDate": "Fri, 23 Oct 2026 19:20:56 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this investigation also indicate tha",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
+        "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+        "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530",
+        "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+        "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+        "pubDate": "Fri, 23 Oct 2026 16:41:23 +0530",
+        "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) ob",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -450,45 +450,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Canva releases its first image generation model",
-        "link": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
-        "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-        "description": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
+        "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
+        "pubDate": "Fri, 23 Oct 2026 16:26:29 +0000",
+        "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
-        "link": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
-        "pubDate": "Thu, 22 Oct 2026 19:00:00 +0000",
-        "description": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+        "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
+        "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
+        "pubDate": "Fri, 23 Oct 2026 16:20:28 +0000",
+        "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
-        "link": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
-        "pubDate": "Thu, 22 Oct 2026 18:43:53 +0000",
-        "description": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+        "title": "What some of Anthropic’s backers are reportedly worth before its IPO",
+        "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
+        "pubDate": "Fri, 23 Oct 2026 16:02:43 +0000",
+        "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
         "source": "TechCrunch"
       },
       {
-        "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
-        "link": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
-        "pubDate": "Thu, 22 Oct 2026 18:38:47 +0000",
-        "description": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
+        "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
+        "pubDate": "Fri, 23 Oct 2026 15:00:09 +0000",
+        "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
         "source": "TechCrunch"
       },
       {
-        "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+        "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
         "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
         "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
         "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
         "source": "TechCrunch"
       },
       {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
         "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
         "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
-        "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+        "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Retro gaming is being overrun with AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
-        "pubDate": "2026-10-23T08:00:00-04:00",
-        "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have g",
+        "title": "The first broken iPhone Duos are here",
+        "link": "https://www.theverge.com/tech/1017623/iphone-duo-broken-cracked-screen",
+        "pubDate": "2026-10-23T12:37:03-04:00",
+        "description": "The iPhone Duo officially goes on sale today, but a few units already have broken screens. Based on posts about the affected units on Reddit, the issue appears to be happening at a similar spot on all of them: Some kind of problem shows up on the inn",
         "source": "TheVerge"
       },
       {
-        "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
-        "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
-        "pubDate": "2026-10-23T06:58:03-04:00",
-        "description": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, c",
+        "title": "Feds want robotaxis to signal ‘I’m driving’ with cyan-colored lights",
+        "link": "https://www.theverge.com/transportation/1017435/nhtsa-autonomous-vehicle-cyan-lighting-fmvss",
+        "pubDate": "2026-10-23T11:24:45-04:00",
+        "description": "After years of debating how driverless cars should tell the world no one is at the wheel - flashing text, audio alerts, custom lights - the feds just stepped in with a single answer: cyan. The National Highway Traffic Safety Administration released p",
         "source": "TheVerge"
       },
       {
-        "title": "No, the iPhone Duo isn’t a small phone",
-        "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
-        "pubDate": "2026-10-23T06:00:00-04:00",
-        "description": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be t",
+        "title": "SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites",
+        "link": "https://www.theverge.com/science/1017477/spacex-cell-sites-major-us-carrier",
+        "pubDate": "2026-10-23T11:16:24-04:00",
+        "description": "SpaceX is planning to access at least 80,000 cell sites as part of efforts to compete directly with Verizon, T-Mobile, and AT&T, according to a report from Bloomberg. Sources tell the publication that SpaceX is in talks with Crown Castle Inc., one of",
         "source": "TheVerge"
       },
       {
-        "title": "Etsy is cracking down on AI slop listings",
-        "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
-        "pubDate": "2026-10-22T20:09:58-04:00",
-        "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that seller",
+        "title": "Meta delays new business terms after publisher pushback on AI scraping",
+        "link": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+        "pubDate": "2026-10-23T10:47:41-04:00",
+        "description": "Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earlier by Fast Company. In a statement to The Verge, Meta spokesperson Da",
         "source": "TheVerge"
       },
       {
-        "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
-        "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
-        "pubDate": "2026-10-22T19:02:43-04:00",
-        "description": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone.",
+        "title": "The Sigma FP2 brings significant upgrades to the ‘world’s smallest’ full-frame camera",
+        "link": "https://www.theverge.com/tech/1017410/sigma-fp2-mirrorless-full-frame-modular-camera-upgrade",
+        "pubDate": "2026-10-23T10:42:46-04:00",
+        "description": "Seven years after Sigma claimed its original fp was the world's smallest and lightest full-frame mirrorless camera, the company has announced a similarly compact follow-up with several welcome upgrades, including an improved sensor, an articulating L",
         "source": "TheVerge"
       }
     ],
