@@ -1,7 +1,77 @@
 {
-  "ts": "2026-10-23T01:27:02.206952Z",
+  "ts": "2026-10-23T06:27:42.759013Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改",
+        "link": "https://www.ithome.com.tw/news/179912",
+        "pubDate": "2026-10-23 12:39",
+        "description": "日本遊戲大廠卡普空的CAPCOM ID遭入侵，外洩資料包括會員電子郵件、登入紀錄及IP位址，影響全球逾1,177萬筆資料，另有196個帳號的密碼遭竄改，官方已完成重設，目前未公開具體入侵方式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
+        "link": "https://www.ithome.com.tw/news/179913",
+        "pubDate": "2026-10-23 11:50",
+        "description": "AI資安公司Calif指出，PHP近日修補的重大漏洞CVE-2026-109618、CVE-2026-109619（統稱PHP2Shell），源自PHP資安專家Stefan Esser在2004年發現的第一個PHP記憶體限制漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "私鑰安全事故延燒，印度eMudhra宣布退出SSL/TLS憑證市場",
+        "link": "https://www.ithome.com.tw/news/179911",
+        "pubDate": "2026-10-23 11:38",
+        "description": "印度數位憑證業者eMudhra爆出私鑰安全事故，8張中繼CA憑證使用安全性極低的私鑰，面對信任危機，eMudhra宣布退出全球SSL/TLS憑證市場，並協助客戶免費更換憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "戶外用品業者歐都納接獲消費者反映疑似個資外洩，重訊指出委外平臺業者資料庫遭自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/179909",
+        "pubDate": "2026-10-23 11:30",
+        "description": "主打戶外休閒用品的興櫃公司歐都納（2940）發布資安重訊，指出委外服務平臺業者的資料庫遭到自動化攻擊，部分資訊遭非法擷取，並說明公司已在22日接獲消費者反映疑似個資外洩，目前已啟動資安事件應變機制，並與委外業者共同調查事件原因及影響範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP2Shell漏洞影響全球10%的組織，Check Point警示歐洲首當其衝",
+        "link": "https://www.ithome.com.tw/news/179908",
+        "pubDate": "2026-10-23 11:08",
+        "description": "Check Point揭露PHP2Shell全球衝擊最新進展，高達十分之一的組織受到影響，縱觀全球五大地區，北美、拉丁美洲和亞太地區受影響程度均為6%，歐洲卻是14%",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本首相針對PHP2Shell漏洞提出警告，呼籲網站管理員準備修補及採取相關因應措施",
+        "link": "https://www.ithome.com.tw/news/179910",
+        "pubDate": "2026-10-23 11:07",
+        "description": "受到全球矚目的PHP重大漏洞PHP2Shell（CVE-2026-109618、CVE-2026-109619），21日晚間日本首相高市早苗特別發布推文提出呼籲，要網站管理員做好準備，在修補程式一推出就儘速套用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitLab修補存在12年的滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/179906",
+        "pubDate": "2026-10-23 10:18",
+        "description": "本週GitLab發布資安更新，修補嚴重程度滿分的資安漏洞CVE-2026-110264，罕見的是，這次他們一口氣為7個分支版本進行修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Gartner揭2027科技趨勢，AI代理身分管理與自主曝險修補成資安焦點",
+        "link": "https://www.ithome.com.tw/news/179893",
+        "pubDate": "2026-10-23 09:56",
+        "description": "Gartner公布2027年十大策略科技趨勢，其中與資安相關的重點包括AI代理身分管理、AI程式開發代理管理機制及自主曝險修補。Gartner預測，到了2028年，25%的企業資安侵害事件將可追溯至AI代理遭到濫用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
+        "link": "https://www.ithome.com.tw/news/179880",
+        "pubDate": "2026-10-23 08:00",
+        "description": "歐盟執委會依據《數位服務法》對線上訂房平臺Booking.com展開正式調查，關注詐騙者接管住宿業者帳號、冒名要求旅客付款，以及刊登虛假房源等問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
+        "link": "https://www.ithome.com.tw/news/179871",
+        "pubDate": "2026-10-23 08:00",
+        "description": "資安人才招聘業者CyberSN統計顯示，2026年前9個月美國企業刊登的資安職缺明顯減少，AI安全工程師職缺卻逆勢成長",
+        "source": "iThome資安"
+      },
       {
         "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
         "link": "https://www.ithome.com.tw/news/179863",
@@ -17,25 +87,32 @@
         "source": "iThome資安"
       },
       {
-        "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
-        "link": "https://www.ithome.com.tw/news/179871",
-        "pubDate": "2026-10-23 08:00",
-        "description": "資安人才招聘業者CyberSN統計顯示，2026年前9個月美國企業刊登的資安職缺明顯減少，AI安全工程師職缺卻逆勢成長",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
-        "link": "https://www.ithome.com.tw/news/179880",
-        "pubDate": "2026-10-23 08:00",
-        "description": "歐盟執委會依據《數位服務法》對線上訂房平臺Booking.com展開正式調查，關注詐騙者接管住宿業者帳號、冒名要求旅客付款，以及刊登虛假房源等問題",
-        "source": "iThome資安"
-      },
-      {
         "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
         "link": "https://www.ithome.com.tw/news/179905",
         "pubDate": "2026-10-23 01:46",
         "description": "甲骨文本週剛發布揭露與修補1,209個漏洞的2026年第四季度的關鍵修補更新，10月21日甲骨文馬上發布CVE-2026-91403的資安公告，事發突然，為何如此緊急？",
         "source": "iThome資安"
+      },
+      {
+        "title": "微軟擴大遊戲著色器預先編譯支援，Steam與Epic商店也將加入",
+        "link": "https://www.ithome.com.tw/news/179903",
+        "pubDate": "2026-10-23  10:10:20",
+        "description": "微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、Nvidia及Qualcomm的顯示硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI前產品長創辦Warp Sciences，募資2.15億美元打造AI藥物實驗室",
+        "link": "https://www.ithome.com.tw/news/179916",
+        "pubDate": "2026-10-23  01:10:44",
+        "description": "在半年前離開OpenAI的Kevin Weil，周四（10/22）正式宣布成立結合AI與機器人技術的醫藥新創Warp Sciences，並完成由Lightspeed領投的2.15億美元A輪募資。根據彭博社（Bloomberg）報導，其投後估值達8.65億美元。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI模型再擴展雲端平臺合作，在Google Cloud上架",
+        "link": "https://www.ithome.com.tw/news/179915",
+        "pubDate": "2026-10-23  01:10:03",
+        "description": "Google Cloud與OpenAI本周稍早宣布，將在雲端市集提供OpenAI GPT-6最新三款模型，包括Astra、Sol和Luna。目前先開放有意者申請購買由API存取，之後逐步在Gemini for Business及Google Antigravity上架。",
+        "source": "iThome"
       },
       {
         "title": "美食達人部分資訊系統遭駭客攻擊，美食-KY代子公司發布資安重訊",
@@ -50,83 +127,6 @@
         "pubDate": "2026-10-22 19:02",
         "description": "興櫃環保清潔用品業者清淨海生技（7516）於10月22日在公開資訊觀測站發布資安重訊，指出近期接獲消費者反映，公司委外廠商管理的平臺疑似遭第三方不當取得資料，並透過電子郵件聯繫消費者，目前已啟動資安事件應變機制，並將持續與委外廠商共同釐清事件原因及影響範圍",
         "source": "iThome資安"
-      },
-      {
-        "title": "俄羅斯社群媒體巨頭VK資料中心遭無人機襲擊，大量使用者通報服務異常",
-        "link": "https://www.ithome.com.tw/news/179902",
-        "pubDate": "2026-10-22 18:50",
-        "description": "VK聖彼得堡附近設施遭攻擊後，社群與音樂串流服務出現大量故障通報，外部監測發現連線水準較正常狀態降低近一半，但VK稱服務仍能正常提供",
-        "source": "iThome資安"
-      },
-      {
-        "title": "科懋生技商城會員個資遭擷取，指出是委外服務商系統遭自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179900",
-        "pubDate": "2026-10-22 18:27",
-        "description": "10月22日科懋生物科技（6496）於公開資訊觀測站發布資安重訊，指出接獲線上會員通知有個資外洩情形，經確認，起因為線上銷售平臺的委外服務商伺服器遭自動化網攻，公司已主動聯繫委外服務商並展開調查，目前查知影響包括線上訂單資料庫外流，其中部分涉及科懋商城會員的個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Oracle發布2026年10月關鍵修補更新，共修補1,209個漏洞",
-        "link": "https://www.ithome.com.tw/news/179899",
-        "pubDate": "2026-10-22 18:14",
-        "description": "Oracle修補中介軟體、企業管理應用、客戶關係管理、電信與通訊業務軟體等產品線安全問題，多個漏洞CVSS嚴重性達10.0分，用戶需儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "數發部：PHP重大漏洞影響約2.8萬個國內網站，約200個政府機關網站受影響，要求優先修補、必要時暫停服務",
-        "link": "https://www.ithome.com.tw/news/179891",
-        "pubDate": "2026-10-22 15:24",
-        "description": "資安署已在收到PHP官方修補程式通知後立即啟動應變機制，要求政府與企業優先更新版本，若無法立即修補，應採取網站應用程式防火牆（WAF）等緩解措施，必要時暫停網站服務，避免漏洞遭駭客利用。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員借助AI力量找出存在超過10年的資安漏洞PHP2Shell",
-        "link": "https://www.ithome.com.tw/news/179892",
-        "pubDate": "2026-10-22 15:23",
-        "description": "PHP開發團隊本週修補震驚全球的重大漏洞PHPShell（CVE-2026-109618、CVE-2026-109619），找出漏洞的資安公司Wiz表示，他們借助頂尖AI的力量，成功找出可被利用的弱點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA呼籲儘速修補PHP2Shell",
-        "link": "https://www.ithome.com.tw/news/179890",
-        "pubDate": "2026-10-22 15:02",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，企業組織應立即修補統稱為PHP2Shell的重大漏洞CVE-2026-109618、CVE-2026-109619，若無法立即更新，或使用已終止支援的版本，應暫時關閉系統因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月22日，PHP發布緊急安全更新，修補震驚全球的重大漏洞PHP2Shell",
-        "link": "https://www.ithome.com.tw/news/179889",
-        "pubDate": "2026-10-22 14:53",
-        "description": "PHP開發團隊發布8.5.12、8.4.27、8.3.36，以及8.2.35版更新，修補兩個統稱為PHP2Shell的遠端程式碼執行（RCE）漏洞CVE-2026-109618、CVE-2026-109619，呼籲用戶立即更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Amazon證實重大漏洞PHP2Shell在揭露前已遭駭客利用",
-        "link": "https://www.ithome.com.tw/news/179888",
-        "pubDate": "2026-10-22 14:24",
-        "description": "Amazon威脅情報團隊指出，他們PHP正式修補漏洞重大漏洞CVE-2026-109618、CVE-2026-109619（PHP2Shell）的數天前，在蜜罐陷阱偵測到駭客利用的活動，呼籲PHP用戶要加速修補的腳步",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
-        "link": "https://www.ithome.com.tw/news/179897",
-        "pubDate": "2026-10-22  06:10:36",
-        "description": "Anthropic發表主動式AI代理應用Claude Duet，鎖定專業工作者與小型企業經營者，能定期檢查使用者連接的應用程式，主動整理重要事項並發出提醒，也能在使用者離線時繼續處理交辦任務。目前先開放美國Claude Pro與Max訂閱用戶登記研究預覽版候補。",
-        "source": "iThome"
-      },
-      {
-        "title": "Salesforce臺灣將邁入第二年，觀察：AI Agent導入從試點走向企業流程，軟體使用入口正隨AI轉變",
-        "link": "https://www.ithome.com.tw/news/179895",
-        "pubDate": "2026-10-22  04:10:29",
-        "description": "Salesforce臺灣辦公室成立即將滿一年，Salesforce臺灣總經理徐嘉聲對外分享過去一年的發展，他表示，Salesforce全球策略的核心，是協助企業走向更具Agentic特性的企業。\n他指出，Salesforce臺灣今年客戶與營收皆有明顯成長，臺灣的營收及新增客戶數皆達雙位數成長，團隊規模較初期成長5倍。目前企業最關注的方向，就是Agent與資料基礎建設，包括如何讓Agent理解企業資料，以及如何整合Salesforce內外部資料來源。 \n目前Agentforce與Data 360相",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟開放Pylance切換型別檢查器，VS Code支援Meta Pyrefly",
-        "link": "https://www.ithome.com.tw/news/179894",
-        "pubDate": "2026-10-22  04:10:20",
-        "description": "微軟與Meta合作開發型別伺服器協定（Type Server Protocol，TSP），讓VS Code的Python語言支援套件Pylance，可以改用Meta的Pyrefly進行型別檢查。開發者切換後，仍能使用Pylance原有的程式碼自動完成、提示及GitHub Copilot整合功能，目前已開放所有VS Code使用者使用。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -142,34 +142,6 @@
         "link": "https://techorange.com/2026/10/21/mastercard-agent-pay-for-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 21 Oct 2026 17:48:43 +0800",
         "description": "萬事達卡（Mastercard）美國時間 10 月 20 日宣布開放「機器代理支付」（Agent Pay for Machines，AP4M）早期存取，並在 Cloudflare Connect 大會上示範：AI 代理在企業核准的一筆預算內，自行向多家服務商購買數位服務。 AI 代理是能自主完成任務的軟體，執行任務時，可能要向一家業者購買資料、使用另一家的 AI 模型，再向第三家購買運算資源。萬事達卡形容，AI 代理正在成為「經濟行為者」。當代理開始替企業花錢，誰來授權、額度上限多少，錢又該怎麼",
-        "source": "TechOrange"
-      },
-      {
-        "title": "亞馬遜明年在德國投資逾 160 億歐元，48 億擴建 AWS、柏林再設機器人 AI 實驗室",
-        "link": "https://techorange.com/2026/10/21/amazon-announces-16-billion-euro-investment-germany-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 16:39:31 +0800",
-        "description": "亞馬遜（Amazon）近日在德國聯邦政府於柏林舉辦的「投資德國峰會」（Invest in Germany Summit）宣布，2027 年將在德國投資超過 160 億歐元，約合 180 億美元，用於擴大雲端運算與 AI 基礎設施、衛星網路、物流及 Prime Video 影視內容等業務。 《Reuters》指出，在 AI 服務需求激增、科技業者競爭加劇之際，亞馬遜正加速在歐洲各地擴建雲端基礎設施，這項投資是其擴大歐洲業務的最新動作。亞馬遜全球事務與法務長 David Zapolsky 表示：「德",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美軍要讓 AI 代理自主駭入敵方網路，專家憂水務、小企業落入「爆炸半徑」",
-        "link": "https://techorange.com/2026/10/21/army-autonomous-ai-agents-arcyber/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 13:58:05 +0800",
-        "description": "根據《The Intercept》美國時間 10 月 19 日的報導，該報取得的文件顯示，美國陸軍網路司令部（ARCYBER）正在推動代號 ECHOTRIBBLE 的計畫，希望借助業界之力，開發能在最少人工監督下執行網路作戰任務的 AI 代理。 專家擔心的不只是軍方怎麼用。AI 資安公司 Abundant 共同創辦人暨執行長 Hyrum Anderson 指出，許多公私組織連一名資安人員都沒有，可能在過程中遭到波及。當 AI 代理被交付具破壞性的任務，誰來確保它不會傷及民間？ 「最少人工監督」的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "金屬加工大廠明昌國際攜手台達加速數位轉型，導入設備管理系統 DIAEMS",
-        "link": "https://techorange.com/2026/10/21/delta-diaems/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 12:48:01 +0800",
-        "description": "在數位轉型的浪潮中，智能設備已邁向整線自動化，甚至是智能工廠。然而，在轉型過程中，許多傳統工廠面臨設備故障、停機待料、零件庫存失控，乃至資深技師經驗無法傳承等問題，成為侵蝕企業利潤的隱憂。 深耕金屬機櫃生產技術的製造大廠明昌國際，產品精準對接工具車、醫療推車及存儲機櫃等三大關鍵領域，近年來也積極佈局研發 AI 伺服器機櫃與半導體設備的機構件，以台灣製造、高度靈活的客製化能力享譽國際，兼具 ODM 與 OEM 雙軌實力。然而，隨著接單量與生產規模的擴大，傳統作業模式難以滿足需求，讓明昌國際尋求產線",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Google 免授權費 Coral NPU 擴大商用：新思國際推最高 400 GOPS 晶片瞄準智慧眼鏡",
-        "link": "https://techorange.com/2026/10/21/unifying-edge-ai-coral-npus-open-standard-brings-portable-energy-viable-intelligence-model-silicon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 12:41:00 +0800",
-        "description": "Google 持續將 AI 運算從資料中心推向日常裝置，並與半導體業者新思國際（Synaptics）合作，提供開源的 Coral 神經網路處理器（NPU）技術。新思國際於 10 月 20 日發表 Astra SR200 系列處理器，專為智慧眼鏡、攝影機、工業感測器等連網裝置設計，結合 Coral NPU 與記憶體、音訊、影像及運算功能，讓裝置能直接執行 AI 模型，不必依賴昂貴的處理器、持續的網路連線，或耗電的硬體。雙方也宣布擴大共同開發的 Coralboard 平台供應，讓工程師在將技術導入商",
         "source": "TechOrange"
       },
       {
@@ -219,6 +191,34 @@
         "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 22 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX、特斯拉評估合併，潛在市值逾 3 兆美元 太空探索科技公司（SpaceX）執行長馬斯克在美國時間 10 月 20 日法說會證實，SpaceX 與特斯拉（Tesla）已各自成立由獨立董事組成的特別委員會，評估潛在合併。由於他同時涉及兩家公司利益，不能參與委員會討論。雙方尚未談妥交易條件，也不保證會達成協議，後續仍須取得股東支持。《Financial Times》估算，若合併成真，按兩家公司當時市值加總，新集團規模可能超過 3 兆美元，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
+        "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 12:36:15 +0800",
+        "description": "AI 模型分享與開發平台 Hugging Face 近日推出開源 AI 模型 Carbon-X，讓研究人員能貼上 DNA 序列，以自然語言提出問題，並取得模型的解讀、預測或說明。Hugging Face 資深研究科學家 Lewis Tunstall 接受《Business Insider》採訪時表示，Carbon-X 是「首創」的模型，結合 DNA 分析與自然語言，讓研究人員基本上可以「與 DNA 對話」。 Carbon-X 由 Hugging Face、中國中關村學院（Zhongguancun",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 代理上工前，為何需要「工作地圖」？UiPath、SAP、Celonis 搶補關鍵缺口",
+        "link": "https://techorange.com/2026/10/23/ai-agents-process-map-uipath-sap-celonis/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 12:24:21 +0800",
+        "description": "SAP 於美國時間 9 月 22 日在亞特蘭大宣布擴充 Signavio 等工具，協助企業部署、治理與監控 AI 代理（AI agent，能替人執行任務的 AI 系統）；隔天，自動化軟體商 UiPath 在拉斯維加斯的年度大會 FUSION 2026 推出 Cartographer，把散落各處的流程知識整理成一份「工作地圖」（Map of Work）。更早在 5 月，流程智慧（process intelligence）業者 Celonis 也推出 Context Model，定位為企業 AI 的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「主權不等於自建，握有掌控權才是。」微軟、鴻海、資誠、iKala 等專家共同拆解 AI 主權防線與邊界",
+        "link": "https://techorange.com/2026/10/23/sovereign-ai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 11:19:48 +0800",
+        "description": "TechOrange 科技報橘於日前舉辦「2026 企業 AI 主權高峰論壇」，以「重塑企業核心競爭力：從 AI 成長引擎到營運韌性」為主軸，集結多位產業專家解析如何在使用 AI 的同時守住主導權，並同時掌握資料、權限與責任的邊界，企業才有底氣放手追求 AI 帶來的成長。科技報橘社長戴季全點出，一方面企業預算正從支付人力轉向支付數位勞動力，另一方面，台灣產業能夠長年贏得客戶信任，靠的正是在使用 AI 時格外謹慎，能夠安全守住客戶交付的資料。 iKala 共同創辦人暨集團董事長程世嘉指出，當 AI",
+        "source": "TechOrange"
+      },
+      {
+        "title": "資安公司 Bitdefender 推出新型 VPN：保護的不是你，而是你的 AI 代理",
+        "link": "https://techorange.com/2026/10/23/bitdefender-ai-agent-vpn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 09:39:19 +0800",
+        "description": "資安業者 Bitdefender 推出專門為 AI 代理打造的 VPN 軟體，強調主動隔離每一次連線，使 AI 代理無法被網站或服務追蹤，並能將連線路由到特定國家或地區，繞過地理與區域封鎖。",
         "source": "TechOrange"
       },
       {
@@ -464,17 +464,17 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk made a $1B investment in Skydance, report says",
-        "link": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
-        "pubDate": "Thu, 22 Oct 2026 17:36:38 +0000",
-        "description": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
+        "title": "Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback",
+        "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+        "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
+        "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
         "source": "TechCrunch"
       },
       {
-        "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-        "link": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-        "pubDate": "Thu, 22 Oct 2026 16:47:17 +0000",
-        "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
+        "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
+        "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
         "source": "TechCrunch"
       },
       {
@@ -652,14 +652,24 @@
         "products": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation"
       },
       {
-        "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
-        "pubDate": "Thu, 15 Oct 2026 11:00:00 +0800",
+        "title": "Fortinet Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261023",
+        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Cisco Secure Email Gateway Remote Code Execution Vulnerability"
+        "products": "Fortinet Products"
+      },
+      {
+        "title": "ISC BIND Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20261023",
+        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "ISC BIND"
       }
     ]
   }
