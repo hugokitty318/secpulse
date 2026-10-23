@@ -1,7 +1,35 @@
 {
-  "ts": "2026-10-22T22:44:39.806454Z",
+  "ts": "2026-10-23T01:27:02.206952Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
+        "link": "https://www.ithome.com.tw/news/179863",
+        "pubDate": "2026-10-23 08:00",
+        "description": "OpenSSF發布AI漏洞處理指引，提醒開發團隊應驗證AI發現的疑似漏洞，並透過自動化測試及人工審查確認修補成效，避免AI產生的修補程式碼未能根本解決漏洞，甚至影響既有功能或引入新的安全問題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Chrome預設啟用HTTP連線前警告，降低資料暴露風險",
+        "link": "https://www.ithome.com.tw/news/179869",
+        "pubDate": "2026-10-23 08:00",
+        "description": "過去使用者連上HTTP網站後才會看到警告，如今Chrome改為連線前先提醒，讓使用者先了解資料遭攔截或竄改的風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
+        "link": "https://www.ithome.com.tw/news/179871",
+        "pubDate": "2026-10-23 08:00",
+        "description": "資安人才招聘業者CyberSN統計顯示，2026年前9個月美國企業刊登的資安職缺明顯減少，AI安全工程師職缺卻逆勢成長",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
+        "link": "https://www.ithome.com.tw/news/179880",
+        "pubDate": "2026-10-23 08:00",
+        "description": "歐盟執委會依據《數位服務法》對線上訂房平臺Booking.com展開正式調查，關注詐騙者接管住宿業者帳號、冒名要求旅客付款，以及刊登虛假房源等問題",
+        "source": "iThome資安"
+      },
       {
         "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
         "link": "https://www.ithome.com.tw/news/179905",
@@ -80,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Node.js修補4項高風險漏洞，Brotli解壓縮錯誤恐讓駭客遠端執行程式碼",
-        "link": "https://www.ithome.com.tw/news/179887",
-        "pubDate": "2026-10-22 14:16",
-        "description": "Node.js針對22.x、24.x及26.x版本發布安全更新，解決Brotli解壓縮可能造成記憶體損壞的漏洞，其他修補還包括TLS憑證驗證、DNS網域名稱解析，以及特定情況下亂數重複產生的問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "針對91APP資料庫遭非法存取事件，數產署已啟動行政檢查，釐清個資影響範圍",
-        "link": "https://www.ithome.com.tw/news/179873",
-        "pubDate": "2026-10-22 14:10",
-        "description": "電商技術服務商91APP遭網路攻擊後，事件影響逐漸浮現，數產署10月20日表示，已會同資安院及外部專家展開行政檢查，釐清攻擊者取得資料的途徑，並檢視資料庫權限管理及異常偵測機制是否妥適，若查有違反個資法等相關規定，將依法處理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本虛擬私有主機業者Onamae遭駭，逾2.6萬臺客戶伺服器恐受影響",
-        "link": "https://www.ithome.com.tw/news/179883",
-        "pubDate": "2026-10-22 13:31",
-        "description": "日本網域註冊及主機代管業者Onamae客戶伺服器被植入未授權程式，可能受影響的伺服器達2.6萬臺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "LiteLLM工程師GitHub憑證遭竊，官方發布流程成惡意程式散布管道",
-        "link": "https://www.ithome.com.tw/news/179874",
-        "pubDate": "2026-10-22 13:15",
-        "description": "受污染的LiteLLM套件即使未被直接使用，也可能在Python啟動時竊取雲端憑證與AI服務金鑰，並透過後門下載、執行其他程式碼，攻擊還波及Docker最新版映像檔，官方已下架惡意版本",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI、Meta之後，Anthropic也推出主動式AI代理Claude Duet",
         "link": "https://www.ithome.com.tw/news/179897",
         "pubDate": "2026-10-22  06:10:36",
@@ -173,20 +173,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "DeepSeek 把 AI 推論框架開源了！揭露單一叢集日處理 155 兆 Tokens 的系統設計",
-        "link": "https://techorange.com/2026/10/21/deepseek-deepinfer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 11:40:40 +0800",
-        "description": "單一叢集每天處理 155 兆 Tokens，DeepSeek 如何配置 GPU 與快取，支撐如此龐大的 AI 服務？中國 AI 新創 DeepSeek 10 月 20 日開源推論框架 DeepInfer，同步揭露自家 V4.1 Flash 大規模推論系統的部署細節。 《Bloomberg》分析，這套軟體有助加快 AI 模型執行、提高運算資源效率，DeepSeek 也表示希望藉此降低業界的運算與能源成本。更值得注意的是，這次開放的不只是模型權重或個別加速工具，而是整合式推論引擎。DeepSeek ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "新加坡政府如何因應 AI 代理風險：沿用現行法規、讓政府機關先試驗",
-        "link": "https://techorange.com/2026/10/21/how-to-implement-ai-agents-singapore/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 10:34:36 +0800",
-        "description": "當 AI 代理人接連發生違規事件，各國政府也開始重新檢視既有的監管框架。新加坡數位發展及新聞部高級政務部長 Tan Kiat How 10 月初在國會表示，政府正透過試驗與實驗，了解如何負責任地導入代理式 AI 系統。 所謂代理式 AI，是指能執行動作、與外部系統互動，並能調整自身行為、降低人類介入程度的 AI 系統。Tan Kiat How 指出，這類系統同時帶來機會與風險。 新加坡以試驗摸索代理式 AI 的導入方式 Tan Kiat How 表示，政府正在檢視並強化現有框架，以因應自主性越來",
-        "source": "TechOrange"
-      },
-      {
         "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
         "link": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 22 Oct 2026 16:50:17 +0800",
@@ -233,6 +219,20 @@
         "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 22 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX、特斯拉評估合併，潛在市值逾 3 兆美元 太空探索科技公司（SpaceX）執行長馬斯克在美國時間 10 月 20 日法說會證實，SpaceX 與特斯拉（Tesla）已各自成立由獨立董事組成的特別委員會，評估潛在合併。由於他同時涉及兩家公司利益，不能參與委員會討論。雙方尚未談妥交易條件，也不保證會達成協議，後續仍須取得股東支持。《Financial Times》估算，若合併成真，按兩家公司當時市值加總，新集團規模可能超過 3 兆美元，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "台灣軟體業如何擺脫接案模式？政府採購破百億，產品化還缺什麼？",
+        "link": "https://techorange.com/2026/10/23/taiwan-digital-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 06:00:00 +0800",
+        "description": "從專案接案走向可規模化的產品經營，是台灣軟體產業長期面臨的轉型課題。數發部近年推動軟體業從專案開發（Project）走向產品經營（Product），希望透過政府採購擴大標準化軟體的市場，今年更公布 2025 年政府電腦軟體共同供應契約採購總額達 107 億元，年增 25%，其中國產產品訂單數量占比達 58%。然而，政府採購能創造市場，不代表業者取得訂單後，就能順利發展出可重複銷售的產品。 10 月 22 日，台灣數位科技與政策協進會舉辦「創造台灣數位與 AI 競爭力大環境座談會」，從公私協力壯大",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Google Cloud 引進 OpenAI GPT-6，兩大 AI 對手跨陣營合作",
+        "link": "https://techorange.com/2026/10/23/google-cloud-openai-gpt6-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Cloud 引進 OpenAI GPT-6 模型，兩大 AI 對手跨陣營合作 Google Cloud 於 10 月 21 日宣布，將 OpenAI 最新的 GPT-6 Astra、GPT-6.1 Sol 與 GPT-6 Luna 模型納入旗下 Model Garden 平台，涵蓋程式開發、專業工作、AI 代理及大量日常應用。目前先向部分企業客戶提供私人預覽，預計未來幾週全面開放。這項合作格外受到關注，因為 Google 本身擁有",
         "source": "TechOrange"
       }
     ],
@@ -380,6 +380,20 @@
     ],
     "en_tech": [
       {
+        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+        "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+        "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
+        "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+        "link": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+        "pubDate": "Thu, 22 Oct 2026 23:15:00 +0000",
+        "description": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
         "link": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
         "pubDate": "Thu, 22 Oct 2026 22:34:54 +0000",
@@ -464,25 +478,32 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
-        "link": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
-        "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
-        "description": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+        "title": "Left alone with nothing to do, AI agents started playing",
+        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+        "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
+        "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
         "source": "TechCrunch"
       },
       {
-        "title": "Uber puts all 30,000 employees on ChatGPT Work",
-        "link": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/",
-        "pubDate": "Thu, 22 Oct 2026 16:00:00 +0000",
-        "description": "The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide.",
-        "source": "TechCrunch"
+        "title": "Etsy is cracking down on AI slop listings",
+        "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+        "pubDate": "2026-10-22T20:09:58-04:00",
+        "description": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that seller",
+        "source": "TheVerge"
       },
       {
-        "title": "Tesla is prepping a Cybercab onslaught",
-        "link": "https://techcrunch.com/2026/10/22/tesla-is-prepping-a-cybercab-onslaught/",
-        "pubDate": "Thu, 22 Oct 2026 15:44:39 +0000",
-        "description": "The company is looking to roll out the gold two-seater robotaxis to other U.S. cities this year, even as it goes mum on the number of paid rides.",
-        "source": "TechCrunch"
+        "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+        "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+        "pubDate": "2026-10-22T19:02:43-04:00",
+        "description": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone.",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+        "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+        "pubDate": "2026-10-22T19:00:00-04:00",
+        "description": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on",
+        "source": "TheVerge"
       },
       {
         "title": "Canva’s first AI image model plans designs before generating them",
@@ -496,27 +517,6 @@
         "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
         "pubDate": "2026-10-22T17:30:39-04:00",
         "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that sa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Fall 2026 earnings watch",
-        "link": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
-        "pubDate": "2026-10-22T17:15:16-04:00",
-        "description": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
-        "link": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
-        "pubDate": "2026-10-22T16:32:05-04:00",
-        "description": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta turns Muse sharing back on",
-        "link": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
-        "pubDate": "2026-10-22T16:24:04-04:00",
-        "description": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small b",
         "source": "TheVerge"
       }
     ],
