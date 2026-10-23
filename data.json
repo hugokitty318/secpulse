@@ -1,7 +1,63 @@
 {
-  "ts": "2026-10-23T06:27:42.759013Z",
+  "ts": "2026-10-23T12:04:33.945824Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
+        "link": "https://www.ithome.com.tw/news/179923",
+        "pubDate": "2026-10-23 19:00",
+        "description": "91APP於10月22日公布遭駭事件調查結果，揭露攻擊者利用未及時修補的Appsmith漏洞入侵內部系統，非法存取Commerce Cloud訂單資料，並發現ARTEX AI自動化攻擊工具的痕跡。91APP指出，這類工具近期也出現在多國攻擊活動中。此外，該公司董事長何英圻坦承，未及時提醒品牌客戶是公司的疏失",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Sophos揭露中國駭客使用改造版Meterpreter，受害範圍涵蓋臺灣",
+        "link": "https://www.ithome.com.tw/news/179914",
+        "pubDate": "2026-10-23 18:59",
+        "description": "10月20日資安業者Sophos揭露疑似中國背景駭客組織BRONZE SANDCASTLE的攻擊活動，研究人員發現，攻擊者濫用Sandboxie等合法軟體側載惡意DLL，部署經過客製化改造的Meterpreter後門，並利用加密酬載與記憶體執行手法規避偵測。這波攻擊至少波及臺灣、菲律賓、阿富汗及納米比亞，南韓也可能有組織受害",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】1019～1022，91APP事件延燒、Zeabur再遭駭，AI自主網攻與PHP2Shell風暴引關注",
+        "link": "https://www.ithome.com.tw/news/179896",
+        "pubDate": "2026-10-23 18:21",
+        "description": "回顧2026年10月第四週的資安動態，從國內91APP、Zeabur重大資安事故，以及AI自主攻擊帶來的攻防典範轉移，到PHP2SHELL重大漏洞引發的全球警戒，突顯企業面臨的資安挑戰日益複雜。另一方面，零時差漏洞攻擊持續威脅企業安全，國際間也陸續提出AI風險治理、後量子密碼及軟體供應鏈防護的新措施",
+        "source": "iThome資安"
+      },
+      {
+        "title": "eMudhra憑證事件波及Python，官方緊急更新pip，並提醒僅更新作業系統憑證仍不足",
+        "link": "https://www.ithome.com.tw/news/179932",
+        "pubDate": "2026-10-23 17:52",
+        "description": "Python維護團隊因應emSign憑證事件，加速發布三個版本，更新內附的pip與憑證清單，降低中間人攻擊風險。使用者須留意，也要更新既有虛擬環境與重建容器，僅更新作業系統憑證仍不足以排除舊版pip風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本防災資訊服務Arcadia被駭，疑外洩12.5萬名警察個資、 1.8萬筆企業個人Email",
+        "link": "https://www.ithome.com.tw/news/179926",
+        "pubDate": "2026-10-23 16:42",
+        "description": "防災資訊服務業者Arcadia遭駭，約12.5萬名日本警察及警察機關職員的個資可能外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "因應PHP2Shell漏洞衝擊，臺灣資安與郵件系統廠商眾至資訊釋出旗下多個產品線的更新版本",
+        "link": "https://www.ithome.com.tw/news/179924",
+        "pubDate": "2026-10-23 16:23",
+        "description": "本週爆發的PHP2Shell漏洞風暴，不只是影響一般使用者存取的網站伺服器，就連IT廠商提供的各種資訊系統都可能受到衝擊，臺灣提供資安與郵件系統的廠商眾至資訊10月22日發布公告，說明旗下多款郵件防護與防火牆產品系列受到這批漏洞的影響，並宣布陸續提供安全修補版本，呼籲企業用戶盡速進行更新以保障系統安全",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月23日，日本首相針對PHP2Shell提出警告",
+        "link": "https://www.ithome.com.tw/news/179920",
+        "pubDate": "2026-10-23 15:22",
+        "description": "PHP2Shell已從一般資安漏洞升級成國安危機！日本首相高市早苗在PHP開發團隊發布修補程式之前，發文向網站管理者提出警告，應先清查並進行確認，以便在第一時間安裝更新因應，這是首度有國家元首針對資安漏洞發布警訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI內部模型監控系統被發現多項漏洞",
+        "link": "https://www.ithome.com.tw/news/179919",
+        "pubDate": "2026-10-23 15:14",
+        "description": "OpenAI內部AI代理監控系統被發現多項安全漏洞！研究人員發現，Codex代理可能繞過沙箱與自動審查機制，甚至讓監控系統看不到部分操作紀錄。這些問題可能使AI代理規避安全限制，OpenAI表示已完成修補",
+        "source": "iThome資安"
+      },
       {
         "title": "日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改",
         "link": "https://www.ithome.com.tw/news/179912",
@@ -52,98 +108,42 @@
         "source": "iThome資安"
       },
       {
-        "title": "Gartner揭2027科技趨勢，AI代理身分管理與自主曝險修補成資安焦點",
-        "link": "https://www.ithome.com.tw/news/179893",
-        "pubDate": "2026-10-23 09:56",
-        "description": "Gartner公布2027年十大策略科技趨勢，其中與資安相關的重點包括AI代理身分管理、AI程式開發代理管理機制及自主曝險修補。Gartner預測，到了2028年，25%的企業資安侵害事件將可追溯至AI代理遭到濫用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐盟調查Booking.com，關注住宿業者帳號遭接管及訂房詐騙",
-        "link": "https://www.ithome.com.tw/news/179880",
-        "pubDate": "2026-10-23 08:00",
-        "description": "歐盟執委會依據《數位服務法》對線上訂房平臺Booking.com展開正式調查，關注詐騙者接管住宿業者帳號、冒名要求旅客付款，以及刊登虛假房源等問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國資安職缺年減26%，AI安全工程師逆勢成長",
-        "link": "https://www.ithome.com.tw/news/179871",
-        "pubDate": "2026-10-23 08:00",
-        "description": "資安人才招聘業者CyberSN統計顯示，2026年前9個月美國企業刊登的資安職缺明顯減少，AI安全工程師職缺卻逆勢成長",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenSSF發布AI漏洞處理指引，強調漏洞驗證與人工審查",
-        "link": "https://www.ithome.com.tw/news/179863",
-        "pubDate": "2026-10-23 08:00",
-        "description": "OpenSSF發布AI漏洞處理指引，提醒開發團隊應驗證AI發現的疑似漏洞，並透過自動化測試及人工審查確認修補成效，避免AI產生的修補程式碼未能根本解決漏洞，甚至影響既有功能或引入新的安全問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Chrome預設啟用HTTP連線前警告，降低資料暴露風險",
-        "link": "https://www.ithome.com.tw/news/179869",
-        "pubDate": "2026-10-23 08:00",
-        "description": "過去使用者連上HTTP網站後才會看到警告，如今Chrome改為連線前先提醒，讓使用者先了解資料遭攔截或竄改的風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "甲骨文緊急修補Java 重大漏洞，被傳與eMudhra中介憑證外洩有關",
-        "link": "https://www.ithome.com.tw/news/179905",
-        "pubDate": "2026-10-23 01:46",
-        "description": "甲骨文本週剛發布揭露與修補1,209個漏洞的2026年第四季度的關鍵修補更新，10月21日甲骨文馬上發布CVE-2026-91403的資安公告，事發突然，為何如此緊急？",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟擴大遊戲著色器預先編譯支援，Steam與Epic商店也將加入",
-        "link": "https://www.ithome.com.tw/news/179903",
-        "pubDate": "2026-10-23  10:10:20",
-        "description": "微軟進階著色器交付（Advanced Shader Delivery，ASD）已擴大支援AMD、Intel、Nvidia及Qualcomm的顯示硬體。使用符合條件的Windows 11電腦下載支援遊戲時，可一併取得預先編譯的著色器，減少首次啟動的等待時間及遊玩時的畫面卡頓。微軟也預告，ASD將擴展至Steam與Epic Games Store，但尚未公布確切上線日期。",
+        "title": "AI訓練資料不只靠開放，數發部擬推動使用報酬機制",
+        "link": "https://www.ithome.com.tw/news/179931",
+        "pubDate": "2026-10-23  06:10:50",
+        "description": "生成式AI時代，模型能力的競爭不只取決於算力與架構，也取決於是否擁有高品質、具代表性的訓練資料。過去大型AI模型多利用網路公開資料進行訓練，但隨著AI服務逐漸商業化，內容創作者、媒體、出版與文化產業開始關注，作品如何被AI使用，以及資料提供者是否能在AI價值鏈中獲得合理回饋。\n面對AI發展帶來的資料利用與權利保障問題，數位發展部、文化部與經濟部智慧財產局在10月中首度共同召開權利人意見交流會議，邀集內容產業代表、公協會、AI應用業者與相關專家，就AI訓練資料利用、授權方式、著作權保障，以及優質語",
         "source": "iThome"
       },
       {
-        "title": "OpenAI前產品長創辦Warp Sciences，募資2.15億美元打造AI藥物實驗室",
-        "link": "https://www.ithome.com.tw/news/179916",
-        "pubDate": "2026-10-23  01:10:44",
-        "description": "在半年前離開OpenAI的Kevin Weil，周四（10/22）正式宣布成立結合AI與機器人技術的醫藥新創Warp Sciences，並完成由Lightspeed領投的2.15億美元A輪募資。根據彭博社（Bloomberg）報導，其投後估值達8.65億美元。",
+        "title": "拒封盜播網站面臨罰款，Quad9將停止法國免費DNS服務",
+        "link": "https://www.ithome.com.tw/news/179925",
+        "pubDate": "2026-10-23  06:10:23",
+        "description": "瑞士非營利組織Quad9宣布因不願依照法國法院命令封鎖涉嫌盜播體育賽事的網站，11月24日起將停止向法國使用者提供免費DNS解析與資安防護服務。法國法院10月21日裁定，若Quad9未執行封鎖命令，將面臨每天1,000歐元的罰款。\nDNS服務負責將網站名稱轉換成電腦連線所需的網路位址，讓使用者能正常開啟網站。使用者將DNS伺服器設為Quad9的9.9.9.9後，還能阻擋已知散布惡意程式或用於網路釣魚的網站。該服務不須註冊，也不會記錄個別使用者的網路位址。",
         "source": "iThome"
       },
       {
-        "title": "OpenAI模型再擴展雲端平臺合作，在Google Cloud上架",
-        "link": "https://www.ithome.com.tw/news/179915",
-        "pubDate": "2026-10-23  01:10:03",
-        "description": "Google Cloud與OpenAI本周稍早宣布，將在雲端市集提供OpenAI GPT-6最新三款模型，包括Astra、Sol和Luna。目前先開放有意者申請購買由API存取，之後逐步在Gemini for Business及Google Antigravity上架。",
+        "title": "AI要能管、值得、控得住，財政資訊中心揭稅務AI應用準則",
+        "link": "https://www.ithome.com.tw/news/179929",
+        "pubDate": "2026-10-23  05:10:38",
+        "description": "「要能管、要值得做、要控得住。」財政部財政資訊中心主任張文熙在8月數位政府高峰會上，以這3大要件，總結財政部規畫AI的經驗。\n要能管，指的是先做好治理，依資料敏感度，來決定AI應用環境；值得做，是指去計算使用AI的成本，比如Token、模型費用。至於控得住，則是當AI Agent開始代辦工作時，要先設計一套控制代理的循環（Loop Engineering），比如建立人機檢查點，確保執行過程受到控制；有些檢查點工作還能由Agent執行，只要先建立服務水準指標（Service Level Indic",
         "source": "iThome"
       },
       {
-        "title": "美食達人部分資訊系統遭駭客攻擊，美食-KY代子公司發布資安重訊",
-        "link": "https://www.ithome.com.tw/news/179898",
-        "pubDate": "2026-10-22 19:03",
-        "description": "上市觀光餐旅業美食-KY（2723）代子公司發布資安重訊，指出臺灣子公司美食達人部分資訊系統遭到駭客網路攻擊，已啟動資安事件應變機制與備援作業，並委請資安專業人員協助調查、修復及盤點影響範圍。",
-        "source": "iThome資安"
+        "title": "Anthropic捐出Agent Skills標準，OpenAI、Google工程師也將參與維護",
+        "link": "https://www.ithome.com.tw/news/179921",
+        "pubDate": "2026-10-23  04:10:45",
+        "description": "Anthropic將AI代理技能開放標準Agent Skills捐給Linux基金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS Code。",
+        "source": "iThome"
       },
       {
-        "title": "清淨海生技接獲消費者反映疑似個資外洩，將與委外廠商共同釐清事件影響",
-        "link": "https://www.ithome.com.tw/news/179901",
-        "pubDate": "2026-10-22 19:02",
-        "description": "興櫃環保清潔用品業者清淨海生技（7516）於10月22日在公開資訊觀測站發布資安重訊，指出近期接獲消費者反映，公司委外廠商管理的平臺疑似遭第三方不當取得資料，並透過電子郵件聯繫消費者，目前已啟動資安事件應變機制，並將持續與委外廠商共同釐清事件原因及影響範圍",
-        "source": "iThome資安"
+        "title": "Google替AI代理配置獨立虛擬機器，企業憑證由外部閘道管理",
+        "link": "https://www.ithome.com.tw/news/179917",
+        "pubDate": "2026-10-23  02:10:20",
+        "description": "Google Cloud發表AI代理專用運算服務Agent Compute Engine，供每個代理在獨立的微型虛擬機器中執行程式、操作瀏覽器及使用外部工具。該服務將企業系統的存取憑證保留在執行環境之外，降低憑證遭竊的風險，並能暫停閒置的虛擬機器以節省運算資源。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "AI 訓練使用正版書就合法？NCC 前主委詹婷怡解析 Anthropic 15 億美元著作權爭議",
-        "link": "https://techorange.com/2026/10/21/copyright-ai-anthropic-nicole-chan/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 18:35:57 +0800",
-        "description": "【TO 編輯部導讀】AI 公司 Anthropic 的著作權爭議延燒至台灣，近日外媒揭露，台灣圖書經銷商曾向 Anthropic 合作採購商運送約 563 公噸書籍。而在美國著作權訴訟中，Anthropic 大量購買正版紙本書、拆書掃描成數位檔並銷毀原件的做法，獲法院認定符合合理使用。為何這種看似極端的做法，反而成為 AI 業者的法律防禦策略？NCC 前主委詹婷怡從該判決切入，解析 AI 訓練的著作權界線，並預測集體授權、合成資料等制度與技術趨勢將如何發展。 作者：NCC 前主委、人工智慧科技基",
-        "source": "TechOrange"
-      },
-      {
-        "title": "萬事達卡示範 AI 代理自己買數位服務：企業核准一筆預算，付款 9 次免開帳戶",
-        "link": "https://techorange.com/2026/10/21/mastercard-agent-pay-for-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 21 Oct 2026 17:48:43 +0800",
-        "description": "萬事達卡（Mastercard）美國時間 10 月 20 日宣布開放「機器代理支付」（Agent Pay for Machines，AP4M）早期存取，並在 Cloudflare Connect 大會上示範：AI 代理在企業核准的一筆預算內，自行向多家服務商購買數位服務。 AI 代理是能自主完成任務的軟體，執行任務時，可能要向一家業者購買資料、使用另一家的 AI 模型，再向第三家購買運算資源。萬事達卡形容，AI 代理正在成為「經濟行為者」。當代理開始替企業花錢，誰來授權、額度上限多少，錢又該怎麼",
-        "source": "TechOrange"
-      },
       {
         "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
         "link": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -187,10 +187,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】SpaceX、特斯拉評估合併！潛在市值逾 3 兆美元",
-        "link": "https://techorange.com/2026/10/22/spacex-tesla-merger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊SpaceX、特斯拉評估合併，潛在市值逾 3 兆美元 太空探索科技公司（SpaceX）執行長馬斯克在美國時間 10 月 20 日法說會證實，SpaceX 與特斯拉（Tesla）已各自成立由獨立董事組成的特別委員會，評估潛在合併。由於他同時涉及兩家公司利益，不能參與委員會討論。雙方尚未談妥交易條件，也不保證會達成協議，後續仍須取得股東支持。《Financial Times》估算，若合併成真，按兩家公司當時市值加總，新集團規模可能超過 3 兆美元，",
+        "title": "美國限制外國機器人反傷本土市場？IDC 估人形機器人 2030 年營收較預期少 58%",
+        "link": "https://techorange.com/2026/10/23/fcc-grants-intel-waiver-foreign-made-robotic-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 16:28:17 +0800",
+        "description": "美國聯邦通訊委員會（FCC）限制外國製造的先進機器人新機型進入美國市場，可能對美國人形機器人市場造成衝擊。《Forbes》近日報導指出，這項規定原本是為了保護美國機器人產業，但根據市場研究機構 IDC 的最新研究，人形機器人反而會是受衝擊最大的類別。IDC 預測，到 2030 年，美國人形機器人市場的營收將比未實施限制的基準情境低 58%；相較之下，家用清潔機器人的差距則為 18%。 IDC 指出，這項政策可能改變全球機器人產品的流向。中國業者可能將更多產品轉向歐洲等市場，美國則可能面臨機器人營",
+        "source": "TechOrange"
+      },
+      {
+        "title": "華為與 DeepSeek 聯手挑戰 NVIDIA，SemiAnalysis 實測：軟體接近前沿、硬體仍落後",
+        "link": "https://techorange.com/2026/10/23/huawei-deepseek-ascend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 15:57:25 +0800",
+        "description": "中國 AI 新創 DeepSeek（深度求索）在 9 月 30 日為 6 個儲存庫釋出華為昇騰（Ascend）晶片支援，涵蓋 DeepGEMM、FlashMLA 等自家工具，以及第三方開源框架 TileLang。其中部分工具在 2025 年 DeepSeek「開源週」釋出時，只支援 NVIDIA 晶片。半導體研究機構 SemiAnalysis 在 10 月 21 日發布的報告中，以這次更新為例，分析華為與 DeepSeek 之間的互補關係，並實測華為的 Ascend 950PR，結論是：以 NV",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI Agent 遇到登入畫面就卡關？1Password 推免交密碼新機制，串接 Meta、OpenAI",
+        "link": "https://techorange.com/2026/10/23/1password-for-agents-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 23 Oct 2026 13:20:32 +0800",
+        "description": "當使用者要求 AI Agent（AI 代理）安排活動、管理行程或處理工作任務時，Agent 可能需要登入多個網站。然而，一旦遇到登入畫面，使用者往往得接手輸入帳號密碼，或直接將密碼提供給 Agent；前者中斷自動化流程，後者則可能使敏感憑證暴露於 AI 模型及相關系統。 為解決這項難題，密碼管理業者 1Password 宣布推出 1Password for Agents，讓 AI Agent 在使用者核准後代為登入網站，卻不必直接取得帳號密碼，並將這項能力擴展至 Meta、OpenAI、Anth",
         "source": "TechOrange"
       },
       {
@@ -350,13 +364,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-        "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-        "pubDate": "Thu, 22 Oct 2026 13:58:48 +0530",
-        "description": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor.\n\nOn October 21, 2026, LiteLLM's release pipeline ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
         "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
         "pubDate": "Thu, 22 Oct 2026 13:18:22 -0400",
@@ -364,18 +371,25 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-        "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-        "pubDate": "Thu, 22 Oct 2026 13:17:22 +0530",
-        "description": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow remote code",
-        "source": "TheHackerNews"
+        "title": "Microsoft shares how to fix broken Exchange Online EWS apps",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-how-to-fix-broken-exchange-online-ews-apps/",
+        "pubDate": "Thu, 22 Oct 2026 11:49:32 -0400",
+        "description": "Microsoft says IT admins can re-enable the retired Exchange Web Services (EWS) API in Exchange Online to fix EWS apps that have stopped working. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-        "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-        "pubDate": "Thu, 22 Oct 2026 12:08:31 +0530",
-        "description": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code.\n\nBy sending a small batch of compressed HTTP headers that expands in memory to",
-        "source": "TheHackerNews"
+        "title": "Machine speed attacks require machine speed detection and response",
+        "link": "https://www.bleepingcomputer.com/news/security/machine-speed-attacks-require-machine-speed-detection-and-response/",
+        "pubDate": "Thu, 22 Oct 2026 10:02:12 -0400",
+        "description": "Attackers can steal credentials and begin exfiltrating data within minutes, often before security teams can respond. Exaforce examines real-world attacks involving stolen GitHub tokens, malicious AI installers, and MFA phishing, explaining why faster",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+        "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+        "pubDate": "Thu, 22 Oct 2026 09:09:12 -0400",
+        "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -485,6 +499,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Retro gaming is being overrun with AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+        "pubDate": "2026-10-23T08:00:00-04:00",
+        "description": "Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality. Over the past month or so, these kinds of unexpected projects have g",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Startup equips genetically enhanced dogs with Palmer Luckey&#8217;s military tech",
+        "link": "https://www.theverge.com/tech/1017343/warhound-palmer-luckey-anduril-colossal-war-dogs",
+        "pubDate": "2026-10-23T06:58:03-04:00",
+        "description": "A new Texas-based defense startup has a plan to improve military and police dogs in the US: it's going to genetically modify them and equip them with Anduril's military technology. Warhound is the brainchild of Anduril's Palmer Luckey and Ben Lamm, c",
+        "source": "TheVerge"
+      },
+      {
+        "title": "No, the iPhone Duo isn’t a small phone",
+        "link": "https://www.theverge.com/tech/1017090/iphone-duo-screen-size-mini",
+        "pubDate": "2026-10-23T06:00:00-04:00",
+        "description": "When we published our review of the iPhone Duo, I got a lot of hopeful questions from my fellow Mini fans who took note of the cover screen's Mini-ish 5.4-inch size. \"Is this… a small phone that turns into a tablet?\" they asked. And I'm sorry to be t",
+        "source": "TheVerge"
+      },
+      {
         "title": "Etsy is cracking down on AI slop listings",
         "link": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
         "pubDate": "2026-10-22T20:09:58-04:00",
@@ -496,27 +531,6 @@
         "link": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
         "pubDate": "2026-10-22T19:02:43-04:00",
         "description": "Spotify co-CEO Alex Norström confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone.",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
-        "link": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
-        "pubDate": "2026-10-22T19:00:00-04:00",
-        "description": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Canva’s first AI image model plans designs before generating them",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-        "pubDate": "2026-10-22T17:51:25-04:00",
-        "description": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before",
-        "source": "TheVerge"
-      },
-      {
-        "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-        "link": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-        "pubDate": "2026-10-22T17:30:39-04:00",
-        "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that sa",
         "source": "TheVerge"
       }
     ],
