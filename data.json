@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-24T01:57:00.205744Z",
+  "ts": "2026-10-24T07:14:40.162749Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式碼執行漏洞",
+        "link": "https://www.ithome.com.tw/news/179943",
+        "pubDate": "2026-10-24 13:46",
+        "description": "10月23日PHP基金會公告PHP還有一個漏洞尚待修補，由於這個問題發生機率極低，也能沿用CVE-2026-109619的緩解措施，因此將於常規版本發布週期處理此問題，隨下個版本發布針對 CVE-2026-115560 的完整安全公告",
+        "source": "iThome資安"
+      },
       {
         "title": "1Password擴大AI代理登入支援，Muse、Grok Bot率先整合",
         "link": "https://www.ithome.com.tw/news/179942",
@@ -34,7 +41,7 @@
         "title": "eMudhra憑證事件波及Python，官方緊急更新pip，並提醒僅更新作業系統憑證仍不足",
         "link": "https://www.ithome.com.tw/news/179932",
         "pubDate": "2026-10-23 17:52",
-        "description": "Python維護團隊因應emSign憑證事件，加速發布三個版本，更新內附的pip與憑證清單，降低中間人攻擊風險。使用者須留意，也要更新既有虛擬環境與重建容器，僅更新作業系統憑證仍不足以排除舊版pip風險",
+        "description": "Python維護團隊因應emSign憑證事件，加速發布三個版本，更新內附的pip與憑證清單，降低中間人攻擊風險。使用者須留意，也要更新既有虛擬環境與重建容器，僅更新作業系統憑證仍不足以排除舊版pip風險。此外， Go、Node.js、Rust語言生態系亦同步採取行動",
         "source": "iThome資安"
       },
       {
@@ -98,13 +105,6 @@
         "link": "https://www.ithome.com.tw/news/179908",
         "pubDate": "2026-10-23 11:08",
         "description": "Check Point揭露PHP2Shell全球衝擊最新進展，高達十分之一的組織受到影響，縱觀全球五大地區，北美、拉丁美洲和亞太地區受影響程度均為6%，歐洲卻是14%",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本首相針對PHP2Shell漏洞提出警告，呼籲網站管理員準備修補及採取相關因應措施",
-        "link": "https://www.ithome.com.tw/news/179910",
-        "pubDate": "2026-10-23 11:07",
-        "description": "受到全球矚目的PHP重大漏洞PHP2Shell（CVE-2026-109618、CVE-2026-109619），21日晚間日本首相高市早苗特別發布推文提出呼籲，要網站管理員做好準備，在修補程式一推出就儘速套用",
         "source": "iThome資安"
       },
       {
