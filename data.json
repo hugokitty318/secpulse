@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T21:34:55.678452Z",
+  "ts": "2026-10-24T23:41:11.400344Z",
   "tabs": {
     "cn_sec": [
       {
@@ -173,10 +173,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 推主動式 AI 代理 Claude Duet：查發票、備薪資，付款簽約先問你",
-        "link": "https://techorange.com/2026/10/22/anthropic-claude-duet-proactive-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 12:12:17 +0800",
-        "description": "Anthropic 於美國時間 10 月 21 日公布 Claude Duet 研究預覽版，讓 Claude 以「主動式代理」（proactive agent）的方式運作：它不等使用者提問，而是主動檢查已連結的信箱、會計與薪資等應用程式，找出需要處理的事。不過，Anthropic 也替它劃下界線，傳送訊息、付款、簽署文件或刪除資料前，都要先經使用者核准。 AI 代理（AI agent）是能替使用者執行任務的 AI 系統。當它從「問了才答」走向主動找事做，甚至替小型企業動用公司的資金，比起它有多聰",
+        "title": "【戴季全專欄】市長要考慮的不只是 AI 園區，城市需要的是迎接 AI 時代的治理能力",
+        "link": "https://techorange.com/2026/10/25/taipei-taiwan-ai-city/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sun, 25 Oct 2026 06:00:00 +0800",
+        "description": "台北市長選舉最近討論松山機場遷建打造 AI 園區的政策，首先要肯定實質政策的討論。這是一個值得討論的重大城市發展構想，但這個議題可能要把「松山機場遷移」與「台北發展 AI」分開成兩件事來討論與處理。無論有沒有 AI，松山機場存廢和遷移仍然可以討論。但即使松山機場不遷移，台北也不能因此停止發展 AI。 蓋 AI 園區之前，先釐清城市要發展哪幾層 AI 我們要更進一步思考的是：AI 發展真正稀缺的可能不只是土地，而是 AI 人才與各種生產要素的有效組合。從竹科到南科，台灣過去的產業發展，確實透過科學",
         "source": "TechOrange"
       },
       {
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Blue Planet III is keeping the rough edges in the age of AI",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+        "pubDate": "2026-10-24T17:29:12-04:00",
+        "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dea",
+        "source": "TheVerge"
+      },
+      {
         "title": "Pennsylvania will require labels on AI-generated ads",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
         "pubDate": "2026-10-24T14:32:21-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
         "pubDate": "2026-10-24T10:15:00-04:00",
         "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" eve",
-        "source": "TheVerge"
-      },
-      {
-        "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-        "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-        "pubDate": "2026-10-24T10:00:00-04:00",
-        "description": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook.",
         "source": "TheVerge"
       }
     ],
