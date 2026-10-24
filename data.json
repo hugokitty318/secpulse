@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T16:13:56.295451Z",
+  "ts": "2026-10-24T18:59:09.641254Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+        "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+        "pubDate": "Sat, 24 Oct 2026 16:30:00 +0000",
+        "description": "Instacart might sell itself to a larger competitor.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Block’s new voice model sounds eerily human",
         "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
         "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
@@ -489,13 +496,6 @@
         "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
         "pubDate": "Fri, 23 Oct 2026 16:26:29 +0000",
         "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Commonwealth Fusion Systems gets $85M to build better fusion-ready semiconductors",
-        "link": "https://techcrunch.com/2026/10/23/commonwealth-fusion-systems-gets-85m-to-build-better-fusion-ready-semiconductors/",
-        "pubDate": "Fri, 23 Oct 2026 16:20:28 +0000",
-        "description": "Top-funded fusion startup Commonwealth Fusion Systems received an $85 million award from the federal government to advance conductors for fusion power plants.",
         "source": "TechCrunch"
       },
       {
