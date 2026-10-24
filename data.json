@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T12:12:42.231378Z",
+  "ts": "2026-10-24T16:13:56.295451Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,13 +301,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "GitLab warns of new max severity code execution vulnerability",
-        "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-        "pubDate": "Thu, 22 Oct 2026 07:41:48 -0400",
-        "description": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
         "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
         "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
@@ -341,6 +334,13 @@
         "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
+        "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
+        "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
+        "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [..",
+        "source": "BleepingComputer"
       },
       {
         "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
@@ -394,10 +394,45 @@
     ],
     "en_tech": [
       {
-        "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
-        "link": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
-        "pubDate": "Thu, 22 Oct 2026 23:50:41 +0000",
-        "description": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+        "title": "Block’s new voice model sounds eerily human",
+        "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+        "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+        "description": "Block said that the voice model can run locally on a MacBook M4 Max",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+        "link": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+        "pubDate": "Sat, 24 Oct 2026 15:30:00 +0000",
+        "description": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "These clever apps show off the iPhone Duo’s potential",
+        "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+        "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+        "description": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+        "link": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+        "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+        "description": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+        "link": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+        "pubDate": "Sat, 24 Oct 2026 14:15:00 +0000",
+        "description": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Here are the top AI agents that can live in your text messages",
+        "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+        "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
+        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
         "source": "TechCrunch"
       },
       {
@@ -464,73 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "What some of Anthropic’s backers are worth before its IPO",
-        "link": "https://techcrunch.com/2026/10/23/what-some-of-anthropics-backers-are-reportedly-worth-before-its-ipo/",
-        "pubDate": "Fri, 23 Oct 2026 16:02:43 +0000",
-        "description": "Early-stage and follow-on investors in the AI lab are already sitting on major paper returns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Lab testing giant Quest Diagnostics confirms patients’ personal and health data was compromised during breach",
-        "link": "https://techcrunch.com/2026/10/23/lab-testing-giant-quest-diagnostics-confirms-patients-personal-and-health-data-was-compromised-during-breach/",
-        "pubDate": "Fri, 23 Oct 2026 15:00:09 +0000",
-        "description": "Quest is the latest in a series of healthcare technology companies that have been hacked in recent months.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Oura sues rival Ultrahuman again, threatening its US smart ring comeback",
-        "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
-        "pubDate": "Fri, 23 Oct 2026 04:22:57 +0000",
-        "description": "Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia",
-        "link": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-        "pubDate": "Fri, 23 Oct 2026 04:00:00 +0000",
-        "description": "The company plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Left alone with nothing to do, AI agents started playing",
-        "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-        "pubDate": "Fri, 23 Oct 2026 00:45:37 +0000",
-        "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Laika has spent 20 years building up to Wildwood",
-        "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
-        "pubDate": "2026-10-24T08:00:00-04:00",
-        "description": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Ev",
+        "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+        "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+        "pubDate": "2026-10-24T11:00:00-04:00",
+        "description": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something ",
         "source": "TheVerge"
       },
       {
-        "title": "It’s time to find a new browser",
-        "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
-        "pubDate": "2026-10-24T08:00:00-04:00",
-        "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the I",
+        "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+        "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+        "pubDate": "2026-10-24T11:00:00-04:00",
+        "description": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. ",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox’s first chief operating officer is out after just a few months",
-        "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-        "pubDate": "2026-10-23T17:39:26-04:00",
-        "description": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serv",
+        "title": "What to expect from Apple’s ‘Pro and tell’ event",
+        "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+        "pubDate": "2026-10-24T10:15:00-04:00",
+        "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" eve",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI now trains its frontier AI models with no internet access",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
-        "pubDate": "2026-10-23T17:11:07-04:00",
-        "description": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cach",
+        "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+        "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+        "pubDate": "2026-10-24T10:00:00-04:00",
+        "description": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook.",
         "source": "TheVerge"
       },
       {
-        "title": "Abandoned Popcorn Time apps had to be disabled to prevent a zombie army",
-        "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
-        "pubDate": "2026-10-23T15:35:15-04:00",
-        "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is stil",
+        "title": "Lee Chang Dong ponders the ethics of the camera",
+        "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+        "pubDate": "2026-10-24T08:30:00-04:00",
+        "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee ",
         "source": "TheVerge"
       }
     ],
