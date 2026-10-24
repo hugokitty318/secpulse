@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T07:14:40.162749Z",
+  "ts": "2026-10-24T12:12:42.231378Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,27 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-        "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-        "pubDate": "Thu, 22 Oct 2026 23:42:43 +0530",
-        "description": "eMudhra, an Indian certificate authority (CA), will withdraw from its global SSL/TLS certificate business, its board decided on Thursday. The decision came five days after a researcher reported recovering the private keys of eight of its intermediate",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-        "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-        "pubDate": "Thu, 22 Oct 2026 23:15:44 +0530",
-        "description": "This week has already been rough for cybersecurity. Critical PHP and GitLab RCE flaws, serious Linux security bugs, compromised eMudhra certificates, a Node.js RCE flaw, a hacked LiteLLM release, and hundreds of hijacked Tor relays. That's a lot to d",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Two CVSS 9.0 Linux KSMBD RCE Flaws Disclosed on Public Mailing Lists Before Kernel Fixes",
-        "link": "https://thehackernews.com/2026/10/two-cvss-90-linux-ksmbd-rce-flaws.html",
-        "pubDate": "Thu, 22 Oct 2026 22:31:53 +0530",
-        "description": "Linux servers running KSMBD, the kernel's built-in SMB server, are exposed to two publicly reported remote code execution flaws rated 9.0 by Trend Micro's Zero Day Initiative, with no fix yet in the mainline kernel.\n\nOne of them, ZDI-CAN-33774, can b",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Railway warns devs to rotate secrets after potential breach",
         "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
         "pubDate": "Thu, 22 Oct 2026 17:25:31 -0400",
@@ -329,6 +308,41 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+        "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+        "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
+        "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-2026-111497, the f",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
+        "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
+        "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530",
+        "description": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a con",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
+        "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
+        "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530",
+        "description": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+        "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+        "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530",
+        "description": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe up",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+        "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+        "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
         "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
         "pubDate": "Sat, 24 Oct 2026 00:20:13 +0530",
@@ -376,20 +390,6 @@
         "pubDate": "Fri, 23 Oct 2026 16:41:23 +0530",
         "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) ob",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-        "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-        "pubDate": "Fri, 23 Oct 2026 15:06:00 +0530",
-        "description": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open.\n\nThe flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which it opens b",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
-        "pubDate": "Fri, 23 Oct 2026 14:54:41 -0400",
-        "description": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -499,6 +499,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Laika has spent 20 years building up to Wildwood",
+        "link": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+        "pubDate": "2026-10-24T08:00:00-04:00",
+        "description": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Ev",
+        "source": "TheVerge"
+      },
+      {
+        "title": "It’s time to find a new browser",
+        "link": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+        "pubDate": "2026-10-24T08:00:00-04:00",
+        "description": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the I",
+        "source": "TheVerge"
+      },
+      {
         "title": "Xbox’s first chief operating officer is out after just a few months",
         "link": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
         "pubDate": "2026-10-23T17:39:26-04:00",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1017914/popcorn-time-piracy-botnet-avoided",
         "pubDate": "2026-10-23T15:35:15-04:00",
         "description": "Remember Popcorn Time, the app that served as an easy-to-use front end for streaming torrents of movies and TV shows? Development of the MPAA's least-favorite app of the 2010s has been abandoned for years, but the \"Netflix of Piracy\" software is stil",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-        "pubDate": "2026-10-23T15:32:39-04:00",
-        "description": "Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had with humans that can occasionally be a little awkward and uncanny. Take t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-        "link": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-        "pubDate": "2026-10-23T14:43:30-04:00",
-        "description": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increas",
         "source": "TheVerge"
       }
     ],
