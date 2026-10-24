@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-24T18:59:09.641254Z",
+  "ts": "2026-10-24T21:34:55.678452Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,27 @@
     ],
     "en_tech": [
       {
+        "title": "Starlink seems to be working normally again in Ukraine",
+        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+        "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
+        "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Will AI expose the rickety infrastructure of the internet?",
+        "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+        "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
+        "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+        "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+        "pubDate": "Sat, 24 Oct 2026 19:00:00 +0000",
+        "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
         "link": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
         "pubDate": "Sat, 24 Oct 2026 16:30:00 +0000",
@@ -478,25 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Carta and NewView partner, hoping to entice more startups to let employees sell shares early",
-        "link": "https://techcrunch.com/2026/10/23/carta-and-newview-partner-hoping-to-entice-more-startups-to-let-employees-sell-shares-early/",
-        "pubDate": "Fri, 23 Oct 2026 19:25:13 +0000",
-        "description": "A new program wants to encourage more startups to allow workers to cash out early by making it easier to transact tender offers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-        "link": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-        "pubDate": "Fri, 23 Oct 2026 19:06:23 +0000",
-        "description": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companie",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Agent cloud startup Daytona hits $1B valuation backed by FirstMark and a who’s who of angels",
-        "link": "https://techcrunch.com/2026/10/23/agent-cloud-startup-daytona-hits-1b-valuation-backed-by-firstmark-and-a-whos-who-of-angels/",
-        "pubDate": "Fri, 23 Oct 2026 16:26:29 +0000",
-        "description": "Daytona is building a cloud for agents that's like giving every agent its own computer. It has attracted founders of Stripe, Perplextity, Datadog, Mercor, and others as angels, it says.",
-        "source": "TechCrunch"
+        "title": "Pennsylvania will require labels on AI-generated ads",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+        "pubDate": "2026-10-24T14:32:21-04:00",
+        "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has ",
+        "source": "TheVerge"
       },
       {
         "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
         "pubDate": "2026-10-24T10:00:00-04:00",
         "description": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook.",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Lee Chang Dong ponders the ethics of the camera",
-        "link": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
-        "pubDate": "2026-10-24T08:30:00-04:00",
-        "description": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee ",
         "source": "TheVerge"
       }
     ],
