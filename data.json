@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-23T23:29:03.744301Z",
+  "ts": "2026-10-24T01:57:00.205744Z",
   "tabs": {
     "cn_sec": [
       {
@@ -180,10 +180,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "不必專職資安團隊，專家列出中小企業現在就能做的低成本防詐做法",
-        "link": "https://techorange.com/2026/10/22/fight-ai-scams/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 10:05:20 +0800",
-        "description": "一通聽起來和工作夥伴聲音一模一樣的電話、要求立刻匯款，對中小企業來說，這可能就是一場代價高昂的詐騙。AI 讓詐騙者更容易冒充企業原本信任的人，從老闆到長期合作的廠商都可能被假冒，而資安資源有限的中小企業，一旦受騙，損失往往特別大。 不過，加強防護不一定需要昂貴的技術或專職資安團隊。由 CIO、CTO 等科技高階主管組成的 Forbes Technology Council，邀集專家提出中小企業現在就能採取的低成本做法。 涉及匯款與帳密的要求，先換個管道確認 多數 AI 詐騙之所以得逞，是因為訊息",
+        "title": "【英特爾「機器人準備度差距」報告】邊緣 AI 算力是自動化規模的後盾，專用型 AMR 與工業手臂是產出翻倍主力",
+        "link": "https://techorange.com/2026/10/24/robotics-readiness-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 24 Oct 2026 06:29:00 +0800",
+        "description": "英特爾（Intel）發布《機器人準備度差距報告》（The Robotics Readiness Gap Report），研究深入調查全球 800 位來自美國、中國、德國、日本、英國與韓國的企業高管、資訊科技（IT）主管，以及機器人專家；涵蓋製造業、零售業、醫療保健、國防與智慧城市等五大重要產業。 報告指出，過去大家印象中的機器人，大多是固定在工廠某個位置、只能重複做同一種動作的傳統自動化機械；但現在結合了生成式 AI 與感測技術後，機器人正快速演變為具備現場感測、獨立思考與隨機應變能力的「實體 ",
         "source": "TechOrange"
       },
       {
