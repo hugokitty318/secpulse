@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T16:48:09.004901Z",
+  "ts": "2026-10-25T19:34:31.785478Z",
   "tabs": {
     "cn_sec": [
       {
@@ -294,6 +294,20 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+        "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+        "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530",
+        "description": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+        "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+        "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530",
+        "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"In one case, the attackers tar",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
         "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
         "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530",
@@ -376,23 +390,16 @@
         "pubDate": "Fri, 23 Oct 2026 19:20:56 +0530",
         "description": "Cybersecurity researchers have disclosed details of a large-scale campaign that has targeted exposed network edge devices such as Fortinet FortiGate and Palo Alto Networks GlobalProtect firewalls.\n\n\"Artifacts from this investigation also indicate tha",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-        "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-        "pubDate": "Fri, 23 Oct 2026 16:55:43 +0530",
-        "description": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws.\n\nThe new issue, assigned CVE-2026-115560, affects only web applications configured in an unusual way",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
-        "pubDate": "Fri, 23 Oct 2026 16:55:05 -0400",
-        "description": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millio",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+        "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+        "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
+        "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+        "source": "TechCrunch"
+      },
       {
         "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
         "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
@@ -492,11 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
-        "link": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-        "pubDate": "Fri, 23 Oct 2026 21:59:19 +0000",
-        "description": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
-        "source": "TechCrunch"
+        "title": "Zen Browser is the Arc replacement I was looking for",
+        "link": "https://www.theverge.com/tech/1018275/zen-browser-arc-replacement",
+        "pubDate": "2026-10-25T15:24:50-04:00",
+        "description": "I know many of you are mourning the loss of the Arc browser, and I get it. It felt like the first app in a long time to really offer a new approach to browser design. Atlassian bought the company last year and shifted its focus to developing Dia, its",
+        "source": "TheVerge"
+      },
+      {
+        "title": "This Switch 2 sequel accessory was a few millimeters away from being good",
+        "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
+        "pubDate": "2026-10-25T13:00:00-04:00",
+        "description": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both th",
+        "source": "TheVerge"
       },
       {
         "title": "Now you can watch Instagram Reels on your Apple TV",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
         "pubDate": "2026-10-25T08:00:00-04:00",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback he",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Blue Planet III is keeping the rough edges in the age of AI",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-        "pubDate": "2026-10-24T17:29:12-04:00",
-        "description": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dea",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Pennsylvania will require labels on AI-generated ads",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-        "pubDate": "2026-10-24T14:32:21-04:00",
-        "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has ",
         "source": "TheVerge"
       }
     ],
