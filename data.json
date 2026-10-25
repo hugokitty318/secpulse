@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T12:32:26.991062Z",
+  "ts": "2026-10-25T16:48:09.004901Z",
   "tabs": {
     "cn_sec": [
       {
@@ -294,18 +294,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
-        "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
-        "pubDate": "Thu, 22 Oct 2026 09:09:12 -0400",
-        "description": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
         "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
         "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530",
         "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+        "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+        "pubDate": "Sun, 25 Oct 2026 11:49:38 -0400",
+        "description": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
@@ -393,6 +393,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
+        "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
+        "pubDate": "Sun, 25 Oct 2026 16:05:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The hottest AI wearables and gadgets you should know about",
+        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+        "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
+        "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Starlink seems to be working normally again in Ukraine",
         "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
@@ -485,18 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
-        "link": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
-        "pubDate": "Fri, 23 Oct 2026 20:57:13 +0000",
-        "description": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
-        "source": "TechCrunch"
+        "title": "Now you can watch Instagram Reels on your Apple TV",
+        "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
+        "pubDate": "2026-10-25T12:20:17-04:00",
+        "description": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December",
+        "source": "TheVerge"
       },
       {
-        "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
-        "link": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
-        "pubDate": "Fri, 23 Oct 2026 20:03:14 +0000",
-        "description": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtable",
-        "source": "TechCrunch"
+        "title": "r/opensource just banned AI, non-English speakers, and more",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+        "pubDate": "2026-10-25T09:25:32-04:00",
+        "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensour",
+        "source": "TheVerge"
       },
       {
         "title": "Google’s AI search changes upended online publishing",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
         "pubDate": "2026-10-24T14:32:21-04:00",
         "description": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
-        "link": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
-        "pubDate": "2026-10-24T11:00:00-04:00",
-        "description": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
-        "pubDate": "2026-10-24T11:00:00-04:00",
-        "description": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. ",
         "source": "TheVerge"
       }
     ],
