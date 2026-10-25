@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T19:34:31.785478Z",
+  "ts": "2026-10-25T22:01:28.640743Z",
   "tabs": {
     "cn_sec": [
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+        "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
+        "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "‘Cyberselfish’ author takes aim at techno-libertarianism as her book returns from the dead",
+        "link": "https://techcrunch.com/2026/10/25/cyberselfish-author-takes-aim-at-techno-libertarianism-as-her-book-returns-from-the-dead/",
+        "pubDate": "Sun, 25 Oct 2026 20:20:08 +0000",
+        "description": "\"That's a 12-year-old view of the world.\"",
+        "source": "TechCrunch"
+      },
+      {
         "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
         "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
         "pubDate": "Sun, 25 Oct 2026 16:57:32 +0000",
@@ -485,18 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Startups don’t need to go viral to win customers",
-        "link": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
-        "pubDate": "Fri, 23 Oct 2026 23:07:45 +0000",
-        "description": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
-        "source": "TechCrunch"
+        "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+        "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+        "pubDate": "2026-10-25T17:40:27-04:00",
+        "description": "As is tradition, iFixit has torn open the latest iPhone and laid its parts bare on a table. It found some interesting details about how Apple might be hiding the crease on the Duo's folding screen and gave it a 5/10 repairability score. That might no",
+        "source": "TheVerge"
       },
       {
-        "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-        "link": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-        "pubDate": "Fri, 23 Oct 2026 23:05:49 +0000",
-        "description": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
-        "source": "TechCrunch"
+        "title": "Scott Walker’s The Drift will get under your skin",
+        "link": "https://www.theverge.com/entertainment/1018300/scott-walker-the-drift-music-album-review",
+        "pubDate": "2026-10-25T17:08:09-04:00",
+        "description": "In my mind, Spooky Season music comes in two distinct flavors. There are the fun, occasionally goofy songs like \"The Monster Mash\" and John Carpenter's \"Halloween Theme.\" Then there is the genuinely terrifying: Throbbing Gristle, The Body, or Scott W",
+        "source": "TheVerge"
+      },
+      {
+        "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+        "link": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+        "pubDate": "2026-10-25T16:16:19-04:00",
+        "description": "Social media and the iPhone Duo subreddit are filled with reports of Apple's foldable failing quickly and in spectacular fashion. Some users report having the phone for only a few hours before the hinge seems to catch on something, then audibly crack",
+        "source": "TheVerge"
       },
       {
         "title": "Zen Browser is the Arc replacement I was looking for",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/tech/1017508/crkd-nitro-deck-2-nintendo-switch-2-controller-case-hands-on",
         "pubDate": "2026-10-25T13:00:00-04:00",
         "description": "The Crkd Nitro Deck was a saving grace for the original Nintendo Switch. The slide-on $59.99 accessory brought Hall effect sticks to drift-plagued consoles - no need to open up your Joy-Con for a complicated repair. The Nitro Deck 2, made for both th",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Now you can watch Instagram Reels on your Apple TV",
-        "link": "https://www.theverge.com/tech/1018253/now-you-can-watch-instagram-reels-on-your-apple-tv",
-        "pubDate": "2026-10-25T12:20:17-04:00",
-        "description": "Instagram is continuing its expansion into living rooms with Instagram for TV, for Apple TV. The company first started testing a version of the platform focused on Reels, live streams, and other video content, blown up for a bigger screen in December",
-        "source": "TheVerge"
-      },
-      {
-        "title": "r/opensource just banned AI, non-English speakers, and more",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
-        "pubDate": "2026-10-25T09:25:32-04:00",
-        "description": "The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI, is made by AI, or is intended for AI, it's not welcome on r/opensour",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google’s AI search changes upended online publishing",
-        "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
-        "pubDate": "2026-10-25T08:00:00-04:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback he",
         "source": "TheVerge"
       }
     ],
