@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-25T06:52:52.016912Z",
+  "ts": "2026-10-25T12:32:26.991062Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,6 +301,13 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+        "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+        "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530",
+        "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
         "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
         "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
@@ -383,13 +390,6 @@
         "pubDate": "Fri, 23 Oct 2026 16:55:05 -0400",
         "description": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated privileges on millio",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-        "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-        "pubDate": "Fri, 23 Oct 2026 16:41:23 +0530",
-        "description": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year.\n\nAccording to ESET, the attack involved UAC-0099 (aka Earth Sirrush) ob",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Google’s AI search changes upended online publishing",
+        "link": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+        "pubDate": "2026-10-25T08:00:00-04:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback he",
+        "source": "TheVerge"
+      },
+      {
         "title": "Blue Planet III is keeping the rough edges in the age of AI",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
         "pubDate": "2026-10-24T17:29:12-04:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
         "pubDate": "2026-10-24T11:00:00-04:00",
         "description": "Black Friday is still over a month away, but if you’re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "What to expect from Apple’s ‘Pro and tell’ event",
-        "link": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-        "pubDate": "2026-10-24T10:15:00-04:00",
-        "description": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" eve",
         "source": "TheVerge"
       }
     ],
