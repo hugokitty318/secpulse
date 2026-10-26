@@ -1,7 +1,49 @@
 {
-  "ts": "2026-10-26T00:17:35.838724Z",
+  "ts": "2026-10-26T05:15:56.721425Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "駭客打造Skynet自主攻擊代理人，劫持AI模型可執行10萬步攻擊",
+        "link": "https://www.ithome.com.tw/news/179951",
+        "pubDate": "2026-10-26 12:18",
+        "description": "資安業者賽門鐵克揭露駭客打造的Skynet自主攻擊AI代理人，企圖劫持暴露於網際網路的AI模型，利用其推論能力規畫攻擊，再透過外部工具執行",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI將不再在連網環境下訓練頂尖AI模型",
+        "link": "https://www.ithome.com.tw/news/179949",
+        "pubDate": "2026-10-26 10:38",
+        "description": "OpenAI決定讓頂尖AI模型改採離線方式進行強化學習訓練，並加強紅隊演練及多層防護，防止AI代理再次突破安全隔離機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
+        "link": "https://www.ithome.com.tw/news/179948",
+        "pubDate": "2026-10-26 10:26",
+        "description": "日本物流業者接連發生個資外洩事件。佐川急便包裹查詢服務遭駭，逾5千萬筆個資恐外洩。另一家大型物流業者大和運輸本月也證實遭網路攻擊，約500萬筆客戶資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Amadeus訂票系統帳號憑證外流，洩露大韓、韓亞航空客戶資訊",
+        "link": "https://www.ithome.com.tw/news/179947",
+        "pubDate": "2026-10-26 10:06",
+        "description": "大韓航空與韓亞航空雙雙傳出客戶資料外洩，事件源於航空訂位系統業者Amadeus遭未授權第三方利用帳號憑證存取，導致部分乘客訂位資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
+        "link": "https://www.ithome.com.tw/news/179946",
+        "pubDate": "2026-10-26 09:54",
+        "description": "希臘正式通過15歲以下兒童社群媒體禁令，2027年元旦上路。Facebook、Instagram、TikTok等平臺未來必須驗證使用者年齡，違規業者可能依歐盟《數位服務法》面臨最高全球年營收6%的罰款",
+        "source": "iThome資安"
+      },
+      {
+        "title": "製藥巨頭BMS領投Pathos AI，攜手推動阿茲海默症藥物研發",
+        "link": "https://www.ithome.com.tw/news/179950",
+        "pubDate": "2026-10-26  10:10:42",
+        "description": "美國AI製藥新創Pathos AI上周五（10/23）宣布，完成2.37億美元的E輪募資，投資後估值達30億美元，由製藥巨頭必治妥施貴寶（Bristol Myers Squibb，BMS）領投。",
+        "source": "iThome"
+      },
       {
         "title": "PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式碼執行漏洞",
         "link": "https://www.ithome.com.tw/news/179943",
@@ -73,41 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "日本遊戲大廠卡普空會員資料外洩逾1,177萬筆，近200個帳號的密碼遭改",
-        "link": "https://www.ithome.com.tw/news/179912",
-        "pubDate": "2026-10-23 12:39",
-        "description": "日本遊戲大廠卡普空的CAPCOM ID遭入侵，外洩資料包括會員電子郵件、登入紀錄及IP位址，影響全球逾1,177萬筆資料，另有196個帳號的密碼遭竄改，官方已完成重設，目前未公開具體入侵方式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PHP2Shell恐源自20年前的嚴重記憶體錯誤",
-        "link": "https://www.ithome.com.tw/news/179913",
-        "pubDate": "2026-10-23 11:50",
-        "description": "AI資安公司Calif指出，PHP近日修補的重大漏洞CVE-2026-109618、CVE-2026-109619（統稱PHP2Shell），源自PHP資安專家Stefan Esser在2004年發現的第一個PHP記憶體限制漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "私鑰安全事故延燒，印度eMudhra宣布退出SSL/TLS憑證市場",
-        "link": "https://www.ithome.com.tw/news/179911",
-        "pubDate": "2026-10-23 11:38",
-        "description": "印度數位憑證業者eMudhra爆出私鑰安全事故，8張中繼CA憑證使用安全性極低的私鑰，面對信任危機，eMudhra宣布退出全球SSL/TLS憑證市場，並協助客戶免費更換憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "戶外用品業者歐都納接獲消費者反映疑似個資外洩，重訊指出委外平臺業者資料庫遭自動化攻擊",
-        "link": "https://www.ithome.com.tw/news/179909",
-        "pubDate": "2026-10-23 11:30",
-        "description": "主打戶外休閒用品的興櫃公司歐都納（2940）發布資安重訊，指出委外服務平臺業者的資料庫遭到自動化攻擊，部分資訊遭非法擷取，並說明公司已在22日接獲消費者反映疑似個資外洩，目前已啟動資安事件應變機制，並與委外業者共同調查事件原因及影響範圍",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PHP2Shell漏洞影響全球10%的組織，Check Point警示歐洲首當其衝",
-        "link": "https://www.ithome.com.tw/news/179908",
-        "pubDate": "2026-10-23 11:08",
-        "description": "Check Point揭露PHP2Shell全球衝擊最新進展，高達十分之一的組織受到影響，縱觀全球五大地區，北美、拉丁美洲和亞太地區受影響程度均為6%，歐洲卻是14%",
-        "source": "iThome資安"
-      },
-      {
         "title": "AI訓練資料不只靠開放，數發部擬推動使用報酬機制",
         "link": "https://www.ithome.com.tw/news/179931",
         "pubDate": "2026-10-23  06:10:50",
@@ -126,20 +133,6 @@
         "link": "https://www.ithome.com.tw/news/179929",
         "pubDate": "2026-10-23  05:10:38",
         "description": "「要能管、要值得做、要控得住。」財政部財政資訊中心主任張文熙在8月數位政府高峰會上，以這3大要件，總結財政部規畫AI的經驗。\n要能管，指的是先做好治理，依資料敏感度，來決定AI應用環境；值得做，是指去計算使用AI的成本，比如Token、模型費用。至於控得住，則是當AI Agent開始代辦工作時，要先設計一套控制代理的循環（Loop Engineering），比如建立人機檢查點，確保執行過程受到控制；有些檢查點工作還能由Agent執行，只要先建立服務水準指標（Service Level Indic",
-        "source": "iThome"
-      },
-      {
-        "title": "Anthropic捐出Agent Skills標準，OpenAI、Google工程師也將參與維護",
-        "link": "https://www.ithome.com.tw/news/179921",
-        "pubDate": "2026-10-23  04:10:45",
-        "description": "Anthropic將AI代理技能開放標準Agent Skills捐給Linux基金會旗下的代理式AI基金會（AAIF），後續改由基金會管理，並由不同公司的工程師參與維護。Anthropic表示，目前已有超過70個AI代理平臺採用該標準，包括ChatGPT、Cursor、GitHub Copilot及VS Code。",
-        "source": "iThome"
-      },
-      {
-        "title": "Google替AI代理配置獨立虛擬機器，企業憑證由外部閘道管理",
-        "link": "https://www.ithome.com.tw/news/179917",
-        "pubDate": "2026-10-23  02:10:20",
-        "description": "Google Cloud發表AI代理專用運算服務Agent Compute Engine，供每個代理在獨立的微型虛擬機器中執行程式、操作瀏覽器及使用外部工具。該服務將企業系統的存取憑證保留在執行環境之外，降低憑證遭竊的風險，並能暫停閒置的虛擬機器以節省運算資源。",
         "source": "iThome"
       }
     ],
@@ -301,10 +294,10 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+        "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
         "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
         "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530",
-        "description": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619.\n\n\"In one case, the attackers tar",
+        "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.\n\n\"What researchers saw was an attack aga",
         "source": "TheHackerNews"
       },
       {
@@ -492,10 +485,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "pubDate": "Sat, 24 Oct 2026 14:00:00 +0000",
-        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "title": "The best apps for tracking your reading and discovering new books",
+        "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
+        "pubDate": "Mon, 26 Oct 2026 01:10:00 +0000",
+        "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
         "source": "TechCrunch"
       },
       {
@@ -586,16 +579,6 @@
         "products": "BeyondTrust Remote Support Security Restriction Bypass Vulnerability"
       },
       {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261020",
-        "pubDate": "Tue, 20 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
         "title": "Mozilla Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261022",
         "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
@@ -664,6 +647,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation"
+      },
+      {
+        "title": "Aruba Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20261026",
+        "pubDate": "Mon, 26 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Aruba Products"
       },
       {
         "title": "Fortinet Products Multiple Vulnerabilities",
