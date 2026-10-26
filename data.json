@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-26T17:38:17.410886Z",
+  "ts": "2026-10-26T21:51:17.437711Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,32 +273,32 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-        "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-        "pubDate": "Sat, 24 Oct 2026 16:06:33 +0530",
-        "description": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google services.\n\n\"",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
-        "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
-        "pubDate": "Sat, 24 Oct 2026 14:34:24 +0530",
-        "description": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the machine.\n\nThe up",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
-        "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
-        "pubDate": "Sat, 24 Oct 2026 11:55:57 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV), citing reports ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
         "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
         "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
         "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [..",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+        "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+        "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530",
+        "description": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025.\n\nAccording to Dutch e-commerce security company Sansec, the activity is designed to add a small piece of ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+        "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+        "pubDate": "Mon, 26 Oct 2026 23:15:57 +0530",
+        "description": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code.\n\nPHP says the flaw",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+        "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+        "pubDate": "Mon, 26 Oct 2026 21:22:40 +0530",
+        "description": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deli",
+        "source": "TheHackerNews"
       },
       {
         "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
@@ -315,11 +315,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+        "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+        "pubDate": "Mon, 26 Oct 2026 17:08:28 -0400",
+        "description": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
         "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
         "pubDate": "Mon, 26 Oct 2026 16:53:56 +0530",
         "description": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+        "pubDate": "Mon, 26 Oct 2026 16:46:49 -0400",
+        "description": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "DreamHost forces password resets in ongoing \"incident\"",
+        "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+        "pubDate": "Mon, 26 Oct 2026 15:26:20 -0400",
+        "description": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
@@ -348,27 +369,6 @@
         "pubDate": "Mon, 26 Oct 2026 12:27:57 -0400",
         "description": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
-        "pubDate": "Mon, 26 Oct 2026 11:38:24 -0400",
-        "description": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-        "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-        "pubDate": "Mon, 26 Oct 2026 11:33:48 +0530",
-        "description": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week.\n\nThe company caught the attempt on ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-        "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-        "pubDate": "Mon, 26 Oct 2026 10:00:10 -0400",
-        "description": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -394,31 +394,31 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: Blue-green is the color of autonomy",
-        "link": "https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/",
-        "pubDate": "Sun, 25 Oct 2026 16:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
+        "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
+        "pubDate": "Mon, 26 Oct 2026 21:05:11 +0000",
+        "description": "As Instagram rolls out long form videos of up to 90 minutes, the platform has an opportunity to challenge YouTube if it plays its cards right.",
         "source": "TechCrunch"
       },
       {
-        "title": "The hottest AI wearables and gadgets you should know about",
-        "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-        "pubDate": "Sun, 25 Oct 2026 14:10:00 +0000",
-        "description": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
+        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
+        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+        "pubDate": "Mon, 26 Oct 2026 19:22:40 +0000",
+        "description": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
         "source": "TechCrunch"
       },
       {
-        "title": "Starlink seems to be working normally again in Ukraine",
-        "link": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
-        "pubDate": "Sat, 24 Oct 2026 20:46:34 +0000",
-        "description": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
+        "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
+        "pubDate": "Mon, 26 Oct 2026 18:59:52 +0000",
+        "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
         "source": "TechCrunch"
       },
       {
-        "title": "Will AI expose the rickety infrastructure of the internet?",
-        "link": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
-        "pubDate": "Sat, 24 Oct 2026 20:15:33 +0000",
-        "description": "The moment you realize the internet is \"held together by glue and dreams.\"",
+        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
+        "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
+        "pubDate": "Mon, 26 Oct 2026 17:45:00 +0000",
+        "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
         "source": "TechCrunch"
       },
       {
@@ -432,11 +432,11 @@
         "title": "SpaceX locks in $40B GPU financing deal with Apollo",
         "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
         "pubDate": "Mon, 26 Oct 2026 16:46:36 +0000",
-        "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest committed GPU fin",
+        "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft offers buyouts to around 60,000 employees, reports say",
+        "title": "Microsoft offers buyouts to around 60,000 employees",
         "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
         "pubDate": "Mon, 26 Oct 2026 15:58:25 +0000",
         "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
@@ -478,6 +478,27 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Anthropic is burning gas to feed the AI boom",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
+        "pubDate": "2026-10-26T17:45:31-04:00",
+        "description": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed wi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+        "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+        "pubDate": "2026-10-26T14:51:06-04:00",
+        "description": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPho",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
+        "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
+        "pubDate": "2026-10-26T14:22:06-04:00",
+        "description": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has ",
+        "source": "TheVerge"
+      },
+      {
         "title": "The RealReal won’t let AI agents hog designer clothing",
         "link": "https://www.theverge.com/news/1018713/meta-muse-agentic-shopping-ai-the-realreal",
         "pubDate": "2026-10-26T13:30:55-04:00",
@@ -489,27 +510,6 @@
         "link": "https://www.theverge.com/tech/1018760/iphone-duo-crackgate-inside-screen-hinge-crack",
         "pubDate": "2026-10-26T13:28:07-04:00",
         "description": "Following reports of iPhone Duos with cracked and broken inside screens, often showing a bright line running from the center to the right side, Apple says in a statement to Bloomberg and 9to5Mac that it's aware of \"an issue impacting the inner displa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-        "link": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-        "pubDate": "2026-10-26T13:25:34-04:00",
-        "description": "If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Five weird details from Anthropic’s IPO filing",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018738/anthropic-ipo-s1-filing-weird-details",
-        "pubDate": "2026-10-26T13:10:23-04:00",
-        "description": "Anthropic has finally filed its S-1 prospectus with the SEC, a document designed to give investors a look under the hood of its business, from how much its executives are making and plans for spending its IPO billions to the risks that could derail i",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Everything old is new again with the Fitbit Edge",
-        "link": "https://www.theverge.com/tech/1018621/fitbit-edge-review-fitness-tracker-wearables-health",
-        "pubDate": "2026-10-26T13:00:00-04:00",
-        "description": "Last week, I sank into my living room couch and watched a bedraggled, nihilistic Matthew McConaughey take a drag of a cigarette in season 1 of True Detective. \"You know, someone once told me time is a flat circle. Everything we've done, or will do, w",
         "source": "TheVerge"
       }
     ],
