@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-27T13:09:13.794455Z",
+  "ts": "2026-10-27T18:40:53.780578Z",
   "tabs": {
     "cn_sec": [
       {
@@ -20,7 +20,7 @@
         "title": "日本GMO旗下Onamae雲端桌面日前遭駭，證券及外匯交易帳戶傳異常，最新公告緊急要求用戶斷網關機",
         "link": "https://www.ithome.com.tw/news/179994",
         "pubDate": "2026-10-27 18:03",
-        "description": "日本GMO Internet旗下雲端桌面服務遭駭，不僅多名用戶的證券與外匯帳戶遭到不明操作，更傳出資料外洩與勒索威脅，最新消息更是指出，為防堵駭客發動勒索軟體攻擊，該公司於今日（10月27日）罕見要求客戶全面斷網關機，並緊急清查客戶終端是否遭植入惡意程式",
+        "description": "日本GMO Internet旗下雲端桌面服務遭駭，不僅多名用戶的證券與外匯帳戶遭到不明操作，更傳出資料外洩與勒索威脅，最新消息更是指出，為防堵駭客發動勒索軟體攻擊，該公司於今日（10月27日）罕見要求客戶全面斷網關機，並調查曾連接雲端桌面服務的客戶電腦是否遭植入惡意程式",
         "source": "iThome資安"
       },
       {
@@ -231,6 +231,20 @@
     ],
     "en_sec": [
       {
+        "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+        "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+        "pubDate": "Tue, 27 Oct 2026 19:29:48 +0530",
+        "description": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups.\n\nThe flaw is in builds that use the ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+        "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+        "pubDate": "Tue, 27 Oct 2026 19:29:09 +0530",
+        "description": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices.\n\nThe vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting CoreGraphics that",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
         "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
         "pubDate": "Tue, 27 Oct 2026 17:39:50 +0530",
@@ -266,11 +280,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+        "pubDate": "Tue, 27 Oct 2026 14:20:28 -0400",
+        "description": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
         "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
         "pubDate": "Tue, 27 Oct 2026 13:52:43 +0530",
         "description": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.\n\nOpenAI's reasoning models work through a problem before answ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+        "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+        "pubDate": "Tue, 27 Oct 2026 12:15:39 -0400",
+        "description": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
@@ -280,11 +308,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+        "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+        "pubDate": "Tue, 27 Oct 2026 10:09:46 -0400",
+        "description": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
         "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
         "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+        "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+        "pubDate": "Tue, 27 Oct 2026 10:01:11 -0400",
+        "description": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which",
+        "source": "BleepingComputer"
       },
       {
         "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
@@ -308,20 +350,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-        "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-        "pubDate": "Sun, 25 Oct 2026 11:49:38 -0400",
-        "description": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-        "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-        "pubDate": "Sat, 24 Oct 2026 10:17:32 -0400",
-        "description": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and Avast. [..",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
         "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
         "pubDate": "Mon, 26 Oct 2026 23:42:22 +0530",
@@ -341,37 +369,65 @@
         "pubDate": "Mon, 26 Oct 2026 21:22:40 +0530",
         "description": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams or to deli",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
-        "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
-        "pubDate": "Mon, 26 Oct 2026 19:36:13 +0530",
-        "description": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in attacks, and sec",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "University of Copenhagen data breach exposes data of 525,000 people",
-        "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-        "pubDate": "Mon, 26 Oct 2026 18:20:36 -0400",
-        "description": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-        "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-        "pubDate": "Mon, 26 Oct 2026 17:22:41 +0530",
-        "description": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say.\n\nAn attacker would first need a vulne",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-        "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-        "pubDate": "Mon, 26 Oct 2026 17:08:28 -0400",
-        "description": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+        "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+        "pubDate": "Tue, 27 Oct 2026 17:08:08 +0000",
+        "description": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+        "pubDate": "Tue, 27 Oct 2026 16:30:57 +0000",
+        "description": "Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
+        "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+        "pubDate": "Tue, 27 Oct 2026 14:59:09 +0000",
+        "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
+        "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
+        "pubDate": "Tue, 27 Oct 2026 14:51:33 +0000",
+        "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US government says hackers are now exploiting critical PHP web bugs",
+        "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
+        "pubDate": "Tue, 27 Oct 2026 14:40:39 +0000",
+        "description": "The U.S. government cyber agency warns that hackers have figured out a way to exploit the popular PHP software, used in 70% of the web's software.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
+        "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
+        "pubDate": "Tue, 27 Oct 2026 14:25:11 +0000",
+        "description": "The new MacBook Pro comes with 24 hours of battery life, and now features support for Wi-Fi 7 and Bluetooth 6 connectivity.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
+        "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
+        "pubDate": "Tue, 27 Oct 2026 13:54:51 +0000",
+        "description": "The latest Apple software update for iPhones and iPads includes new features and important security updates.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Japan internet giant GMO says hackers posted stolen customer data",
+        "link": "https://techcrunch.com/2026/10/27/japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data/",
+        "pubDate": "Tue, 27 Oct 2026 13:32:57 +0000",
+        "description": "Japan's GMO Internet is verifying alleged customer data posted by suspected hackers following a cloud service breach.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
         "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
@@ -383,7 +439,7 @@
         "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
         "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
         "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
-        "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+        "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
         "source": "TechCrunch"
       },
       {
@@ -422,94 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
-        "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
-        "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
-        "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Databricks co-founder shares his secrets for winning big enterprise customers",
-        "link": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/",
-        "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000",
-        "description": "Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Watch out, YouTube — Instagram goes from short-form to 90-minute videos",
-        "link": "https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/",
-        "pubDate": "Mon, 26 Oct 2026 21:05:11 +0000",
-        "description": "After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it",
-        "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
-        "pubDate": "Mon, 26 Oct 2026 19:22:40 +0000",
-        "description": "A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Fusion startups are giving the government shares in exchange for awards. Is it worth it?",
-        "link": "https://techcrunch.com/2026/10/26/fusion-startups-are-giving-the-government-shares-in-exchange-for-awards-is-it-worth-it/",
-        "pubDate": "Mon, 26 Oct 2026 18:59:52 +0000",
-        "description": "Fusion startups face a new challenge, one unrelated to plasma physics: Give the government shares in exchange for funding awards or go it alone?",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "This startup’s self-driving excavators help dig up $600M in new funding",
-        "link": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/",
-        "pubDate": "Mon, 26 Oct 2026 17:45:00 +0000",
-        "description": "Bedrock Robotics, which is now valued at $4.1 billion, is particularly focused on autonomous excavators, in part because of a growing shortage of skilled operators.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
-        "link": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
-        "pubDate": "Mon, 26 Oct 2026 16:49:42 +0000",
-        "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-        "link": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
-        "pubDate": "Mon, 26 Oct 2026 16:46:36 +0000",
-        "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
-        "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
-        "pubDate": "2026-10-27T08:31:33-04:00",
-        "description": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a b",
+        "title": "VisionQuest is what happens when AI really goes rogue",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1017064/visionquest-marvel-rogue-ai",
+        "pubDate": "2026-10-27T13:30:00-04:00",
+        "description": "In Marvel's VisionQuest, a superpowered robot tries to better understand humanity by getting lost in elaborate, digital daydreams in which he and other artificial intelligence-powered beings live together in a home. The series is deeply fantastical, ",
         "source": "TheVerge"
       },
       {
-        "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
-        "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
-        "pubDate": "2026-10-27T07:00:00-04:00",
-        "description": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already kn",
+        "title": "The Super Mouse puts a touchscreen macro pad under your hand",
+        "link": "https://www.theverge.com/tech/1019484/super-mouse-touchscreen-shortcuts-macros-kickstarter",
+        "pubDate": "2026-10-27T13:00:00-04:00",
+        "description": "A company called Arctic Fox Technologies has announced a new multifunction mouse that forgoes a myriad of customizable shortcut buttons peppered across its surface for a compact touchscreen sitting beneath your hand. The Super Mouse may not prioritiz",
         "source": "TheVerge"
       },
       {
-        "title": "Data center backlash is uniting America",
-        "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
-        "pubDate": "2026-10-27T06:00:00-04:00",
-        "description": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local oppos",
+        "title": "Anthropic’s elaborate plan to keep Wall Street at bay",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
+        "pubDate": "2026-10-27T12:51:22-04:00",
+        "description": "Anthropic wants to have it both ways. With its impending IPO, it wants to tap the vast riches of the public markets and insists it doesn't want to compromise its core mission of developing AI safely and for the benefit of humanity. But greater model ",
         "source": "TheVerge"
       },
       {
-        "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
-        "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
-        "pubDate": "2026-10-27T05:54:22-04:00",
-        "description": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - ",
+        "title": "Meta’s $25 billion legal loss just put blood in the water",
+        "link": "https://www.theverge.com/policy/1019604/new-mexico-meta-cambridge-analytica-kids-safety-settlement",
+        "pubDate": "2026-10-27T12:44:40-04:00",
+        "description": "When attorneys general from across the US announced a $17 billion settlement with Meta this summer, the sum was unprecedented. But a ruling last week by a New Mexico judge blew that number out of the water. The judge ordered Meta to pay $25 billion t",
         "source": "TheVerge"
       },
       {
-        "title": "OpenAI announces three big science discoveries and a new way to work with academics",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
-        "pubDate": "2026-10-26T19:34:58-04:00",
-        "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different t",
+        "title": "Firefox’s Smart Window adds AI form filling and webpage monitoring",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1019551/firefox-smart-window-ai-fill-forms",
+        "pubDate": "2026-10-27T12:14:18-04:00",
+        "description": "Mozilla is updating Smart Window - Firefox's AI-powered browsing experience - with a new feature that can help you fill out online forms based on your open tabs. As an example, Mozilla says Smart Window can pull information from your online portfolio",
         "source": "TheVerge"
       }
     ],
