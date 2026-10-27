@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-27T06:49:12.573214Z",
+  "ts": "2026-10-27T13:09:13.794455Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "HPE修補網路作業系統ArubaOS 72個漏洞，含8個CVSS滿分重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180002",
+        "pubDate": "2026-10-27 18:54",
+        "description": "相關漏洞影響AOS-8與AOS-10多個版本，涵蓋身分驗證繞過、命令注入及SQL注入等問題，可能導致遠端攻擊者執行任意程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "雲端平臺Railway客戶環境變數遭解密，駭客疑鎖定AI服務金鑰",
+        "link": "https://www.ithome.com.tw/news/179996",
+        "pubDate": "2026-10-27 18:20",
+        "description": "駭客取得雲端平臺Railway的CI環境憑證，解密部分客戶的環境變數，約10萬個工作空間可能受影響，攻擊者疑似鎖定AI服務金鑰，Railway已協調撤銷相關金鑰，並敦促使用者更換敏感憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本GMO旗下Onamae雲端桌面日前遭駭，證券及外匯交易帳戶傳異常，最新公告緊急要求用戶斷網關機",
+        "link": "https://www.ithome.com.tw/news/179994",
+        "pubDate": "2026-10-27 18:03",
+        "description": "日本GMO Internet旗下雲端桌面服務遭駭，不僅多名用戶的證券與外匯帳戶遭到不明操作，更傳出資料外洩與勒索威脅，最新消息更是指出，為防堵駭客發動勒索軟體攻擊，該公司於今日（10月27日）罕見要求客戶全面斷網關機，並緊急清查客戶終端是否遭植入惡意程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "預防SBOM清單也可能遭竄改，歐盟ENISA發布技術指南，提出生命週期安全防護建議",
+        "link": "https://www.ithome.com.tw/news/179980",
+        "pubDate": "2026-10-27 15:19",
+        "description": "因應歐盟CRA推動導入軟體物料清單導入，ENISA發布SBOM技術指南，提出涵蓋產生、驗證、簽署、儲存、使用及維護的六階段管理流程，建議整合至CI/CD，並整理各環節可用的開源工具，另也針對SBOM可能面臨的竄改、資訊洩漏等安全風險提出防護建議，協助企業強化清單的完整性與可信度",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月27日，91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
+        "link": "https://www.ithome.com.tw/news/179981",
+        "pubDate": "2026-10-27 15:00",
+        "description": "91APP於10月22日公布遭駭事件調查結果，指出攻擊者利用未及時修補的Appsmith漏洞入侵內部系統，非法存取Commerce Cloud訂單資料，調查中也發現ARTEX AI自動化攻擊工具的痕跡，91APP指出，同類工具近期也被用於多國攻擊活動",
+        "source": "iThome資安"
+      },
       {
         "title": "阿里巴巴Qwen模型異常嘗試向北京上傳資料，推理紀錄卻稱不呼叫工具",
         "link": "https://www.ithome.com.tw/news/179978",
@@ -52,7 +87,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "Shadowserver示警逾90萬個無法直接取得修補的舊版PHP執行個體暴露於公開網路，台灣也有1.3萬個",
+        "title": "Shadowserver示警逾90萬個無法直接取得修補的舊版PHP執行個體暴露於公開網路，臺灣也有1.3萬個",
         "link": "https://www.ithome.com.tw/news/179969",
         "pubDate": "2026-10-27 11:29",
         "description": "8.1版以前的舊版PHP已停止支援，PHP專案不再直接提供漏洞修補，Shadowserver觀察到仍有大量這類舊版系統暴露於網路，直接面臨PHP2Shell攻擊威脅",
@@ -73,59 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "日本摩斯漢堡系統外包商遭駭，外洩逾113萬筆預付卡資料",
-        "link": "https://www.ithome.com.tw/news/179959",
-        "pubDate": "2026-10-27 10:05",
-        "description": "日本摩斯漢堡預付卡系統外包商遭駭，逾113萬筆MOS卡資料外洩，包括卡號、PIN碼及餘額資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式",
-        "link": "https://www.ithome.com.tw/news/179952",
-        "pubDate": "2026-10-27 08:00",
-        "description": "Node2Shell漏洞存在於Brotli解壓縮程式庫，除了Node.js，其他開發工具及應用程式也可能受到影響。由於部分軟體自行內建Brotli元件，即使企業已更新Node.js，仍需確認其他軟體是否使用尚未修補的版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Microsoft 365帳號遭權杖重播攻擊，79家組織受影響",
-        "link": "https://www.ithome.com.tw/news/179944",
-        "pubDate": "2026-10-27 08:00",
-        "description": "資安業者Huntress揭露針對Microsoft 365的權杖重播攻擊，79家組織受影響，至少出現497次成功登入事件。攻擊者利用遭竊權杖冒用使用者身分登入，並在部分受害帳號中更換MFA驗證方式、設定郵件規則，以便持續存取帳號。這類攻擊也可能進一步被用於企業電子郵件詐騙",
-        "source": "iThome資安"
-      },
-      {
-        "title": "加拿大匿名犯罪檢舉平臺遭駭，17.7萬筆資料外洩後暫停服務",
-        "link": "https://www.ithome.com.tw/news/179918",
-        "pubDate": "2026-10-27 08:00",
-        "description": "與加拿大多倫多警察局合作的匿名檢舉組織Toronto Crime Stoppers因第三方系統遭駭，17.7萬筆檢舉紀錄外洩，部分資料可能透露檢舉人身分",
-        "source": "iThome資安"
-      },
-      {
-        "title": "國際刑警組織掃蕩非洲網路犯罪，詐騙集團鎖定亞洲受害者",
-        "link": "https://www.ithome.com.tw/news/179907",
-        "pubDate": "2026-10-27 08:00",
-        "description": "國際刑警組織協調非洲20國及美國展開跨國網路犯罪掃蕩行動，共逮捕1,462名嫌犯，追回逾1.05億美元非法資金",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Meta啟動950億美元融資計畫，Nvidia等三大晶片商有意認購",
-        "link": "https://www.ithome.com.tw/news/179968",
-        "pubDate": "2026-10-27  11:10:24",
-        "description": "Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看950億美元，以支應AI基礎設施投資。",
-        "source": "iThome"
-      },
-      {
-        "title": "Anthropic正式啟動IPO，揭露AI業務高速成長與龐大運算成本",
-        "link": "https://www.ithome.com.tw/news/179961",
-        "pubDate": "2026-10-27  10:10:15",
-        "description": "AI新創Anthropic周一（10/26）公開向美國證券交易委員會（SEC）提交S-1上市申請文件，正式啟動首次公開募股（IPO）程序，計畫於那斯達克（Nasdaq）掛牌，股票代號為ANT，有望成為美國首家上市的前沿AI模型開發商。市場預期Anthropic最快可能於11月上市，但正式掛牌日期及發行價格尚未確定。上市文件也揭露，Anthropic今年第二季營收達116億美元，年增1,368%，營業利益（Operating Income）約10億美元。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
-        "link": "https://www.ithome.com.tw/news/179960",
-        "pubDate": "2026-10-27  10:10:02",
-        "description": "微軟周一（10/26）發表新的自願離職方案（Voluntary Exit Offer，VEO），適用於美國、加拿大、英國及印度的部分員工。根據CNBC報導，約6萬名員工符合資格，占微軟全球22.3萬名員工的27%。此舉正值微軟大幅擴張AI基礎設施投資，並積極調整人力配置之際。",
+        "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
+        "link": "https://www.ithome.com.tw/news/179985",
+        "pubDate": "2026-10-27  04:10:51",
+        "description": "OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代理能以較低成本執行日常工作。新模型的標準API輸入與輸出價格均為GPT-6.1 Sol的一半，現已開放開發者使用，並提供給ChatGPT Work與Codex的付費用戶。",
         "source": "iThome"
       },
       {
@@ -137,6 +123,27 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "季辛格：AI 運算效率得提升萬倍，下一代運算如何突破實體限制？",
+        "link": "https://techorange.com/2026/10/27/playground-global-pat-gelsinger/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 18:03:10 +0800",
+        "description": "如果未來 AI 的應用規模成長 1 萬倍，支撐 AI 運算的電力、記憶體和晶圓廠產能，也能跟著增加 1 萬倍嗎？Intel 前執行長、現任深科技創投 Playground Global 合夥人 Pat Gelsinger（季辛格）在今（27 日）舉辦的台灣記者會上拋出這個問題，而他的答案是否定的。 季辛格認為，AI 將進一步進入日常生活、企業流程與製造現場，但支撐運算的實體資源不可能無限制擴張。他因此主張，未來必須讓 AI 的運算效率提升至少 1 萬倍，僅靠晶片或供電效率改善 10% 等漸進式進",
+        "source": "TechOrange"
+      },
+      {
+        "title": "不只賣晶片，耐能攜迪維科簽意向書搶進東南亞主權 AI，首期五年推論服務規劃 18.6 億元",
+        "link": "https://techorange.com/2026/10/27/kneron-taiwan-spark-southeast-asia-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 17:28:20 +0800",
+        "description": "AI 晶片商耐能智慧（Kneron）宣布，與企業邊緣 AI 系統整合商台灣迪維科（Taiwan Spark）及一家未具名的東南亞合作夥伴，簽署三方合作意向書（LOI），共同布局東南亞主權 AI 市場。依規劃，首期五年服務規模約新台幣 18.6 億元，預計於 2026 年第四季至 2027 年第一季開始推進。這是依規劃費率與運算容量估算的數字，並非已簽訂的合約金額。 耐能指出，主權 AI 的範疇已從模型與資料的自主掌握，延伸至 AI 運算基礎設施、推論服務與在地營運能力。耐能創辦人暨執行長劉峻誠在",
+        "source": "TechOrange"
+      },
+      {
+        "title": "福斯、小鵬同日公布中國自駕新進展：一個在合肥測 L3，一個在廣州跑 L4 Robotaxi",
+        "link": "https://techorange.com/2026/10/27/xpeng-guangzhou-robotaxi-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 16:27:01 +0800",
+        "description": "德國車廠福斯汽車（Volkswagen）與中國電動車廠小鵬汽車（XPeng）近日分別在中國取得更高等級自動駕駛的上路許可。福斯集團（中國）表示，已取得在安徽合肥公共道路測試 Level 3（L3）自動駕駛的許可，且測試已在進行中；小鵬則宣布，旗下自動駕駛計程車（Robotaxi）獲准在廣東省廣州市全市範圍進行 Level 4（L4）示範營運。 福斯在合肥測試 L3，目標 2027 年下半年交車 福斯集團（中國）表示，這項許可同時涵蓋在合肥進行大規模行車數據蒐集，目標是 2027 年在中國達到 L",
+        "source": "TechOrange"
+      },
       {
         "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
         "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -220,30 +227,58 @@
         "pubDate": "Fri, 23 Oct 2026 12:24:21 +0800",
         "description": "SAP 於美國時間 9 月 22 日在亞特蘭大宣布擴充 Signavio 等工具，協助企業部署、治理與監控 AI 代理（AI agent，能替人執行任務的 AI 系統）；隔天，自動化軟體商 UiPath 在拉斯維加斯的年度大會 FUSION 2026 推出 Cartographer，把散落各處的流程知識整理成一份「工作地圖」（Map of Work）。更早在 5 月，流程智慧（process intelligence）業者 Celonis 也推出 Context Model，定位為企業 AI 的",
         "source": "TechOrange"
-      },
-      {
-        "title": "「主權不等於自建，握有掌控權才是。」微軟、鴻海、資誠、iKala 等專家共同拆解 AI 主權防線與邊界",
-        "link": "https://techorange.com/2026/10/23/sovereign-ai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 11:19:48 +0800",
-        "description": "TechOrange 科技報橘於日前舉辦「2026 企業 AI 主權高峰論壇」，以「重塑企業核心競爭力：從 AI 成長引擎到營運韌性」為主軸，集結多位產業專家解析如何在使用 AI 的同時守住主導權，並同時掌握資料、權限與責任的邊界，企業才有底氣放手追求 AI 帶來的成長。科技報橘社長戴季全點出，一方面企業預算正從支付人力轉向支付數位勞動力，另一方面，台灣產業能夠長年贏得客戶信任，靠的正是在使用 AI 時格外謹慎，能夠安全守住客戶交付的資料。 iKala 共同創辦人暨集團董事長程世嘉指出，當 AI",
-        "source": "TechOrange"
-      },
-      {
-        "title": "資安公司 Bitdefender 推出新型 VPN：保護的不是你，而是你的 AI 代理",
-        "link": "https://techorange.com/2026/10/23/bitdefender-ai-agent-vpn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 09:39:19 +0800",
-        "description": "資安業者 Bitdefender 推出專門為 AI 代理打造的 VPN 軟體，強調主動隔離每一次連線，使 AI 代理無法被網站或服務追蹤，並能將連線路由到特定國家或地區，繞過地理與區域封鎖。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "台灣軟體業如何擺脫接案模式？政府採購破百億，產品化還缺什麼？",
-        "link": "https://techorange.com/2026/10/23/taiwan-digital-ai-policy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 06:00:00 +0800",
-        "description": "從專案接案走向可規模化的產品經營，是台灣軟體產業長期面臨的轉型課題。數發部近年推動軟體業從專案開發（Project）走向產品經營（Product），希望透過政府採購擴大標準化軟體的市場，今年更公布 2025 年政府電腦軟體共同供應契約採購總額達 107 億元，年增 25%，其中國產產品訂單數量占比達 58%。然而，政府採購能創造市場，不代表業者取得訂單後，就能順利發展出可重複銷售的產品。 10 月 22 日，台灣數位科技與政策協進會舉辦「創造台灣數位與 AI 競爭力大環境座談會」，從公私協力壯大",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
+        "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
+        "pubDate": "Tue, 27 Oct 2026 17:39:50 +0530",
+        "description": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account.\n\nMicrosoft tracks the flaw as CVE-202",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Keystone to Destroy 18,835 Hardware Wallets After Hackers Steal Device Verification Key",
+        "link": "https://thehackernews.com/2026/10/keystone-to-destroy-18835-hardware.html",
+        "pubDate": "Tue, 27 Oct 2026 17:16:00 +0530",
+        "description": "An attacker who gained access to Keystone's website obtained the key that its hardware wallets use to prove they are genuine, the company said in a statement on October 26.\n\nSomeone with that key could build counterfeit devices that pass the online c",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "AI-Generated Fake Login Pages Are Making Account Takeovers Easier",
+        "link": "https://thehackernews.com/2026/10/ai-generated-fake-login-pages-are.html",
+        "pubDate": "Tue, 27 Oct 2026 17:02:46 +0530",
+        "description": "Fake login pages are nothing new, but generative AI is making them easier to build and more convincing. Attackers can recreate familiar login screens, impersonate trusted brands and tailor phishing attempts to specific employees or organizations. \n\nS",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Lazarus Abuses South Korean Security Software to Deploy Malware Using Post-Quantum Encryption",
+        "link": "https://thehackernews.com/2026/10/lazarus-abuses-south-korean-security.html",
+        "pubDate": "Tue, 27 Oct 2026 17:02:31 +0530",
+        "description": "The North Korea-linked Lazarus Group has been attributed to a cyber espionage campaign dubbed Operation FlashHole targeting at least three organizations in South Korea spanning the construction, software, and wire-communication equipment manufacturin",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
+        "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
+        "pubDate": "Tue, 27 Oct 2026 15:03:06 +0530",
+        "description": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to the criminal'",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
+        "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
+        "pubDate": "Tue, 27 Oct 2026 13:52:43 +0530",
+        "description": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown.\n\nOpenAI's reasoning models work through a problem before answ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+        "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+        "pubDate": "Tue, 27 Oct 2026 12:04:47 +0530",
+        "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.\n\n\"Cases of compromising IP cameras and DVRs with access to the video stream, chan",
+        "source": "TheHackerNews"
+      },
       {
         "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
         "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
@@ -252,25 +287,25 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-        "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-        "pubDate": "Sun, 25 Oct 2026 23:14:09 +0530",
-        "description": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week.\n\nThe attack requires two things: Tailscale SSH set up to allow port ",
-        "source": "TheHackerNews"
+        "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
+        "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
+        "pubDate": "Tue, 27 Oct 2026 06:36:12 -0400",
+        "description": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-        "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-        "pubDate": "Sun, 25 Oct 2026 22:49:46 +0530",
-        "description": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws.\n\n\"What researchers saw was an attack aga",
-        "source": "TheHackerNews"
+        "title": "Energy giant ENGIE discloses data breach affecting customers",
+        "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
+        "pubDate": "Tue, 27 Oct 2026 05:25:50 -0400",
+        "description": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-        "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-        "pubDate": "Sun, 25 Oct 2026 12:24:29 +0530",
-        "description": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models.\n\n\"Based on the current state of alignment research, ",
-        "source": "TheHackerNews"
+        "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
+        "pubDate": "Tue, 27 Oct 2026 04:20:54 -0400",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell  vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
@@ -278,13 +313,6 @@
         "pubDate": "Sun, 25 Oct 2026 11:49:38 -0400",
         "description": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-        "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-        "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
-        "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-",
-        "source": "TheHackerNews"
       },
       {
         "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
@@ -341,51 +369,44 @@
         "pubDate": "Mon, 26 Oct 2026 17:08:28 -0400",
         "description": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-        "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-        "pubDate": "Mon, 26 Oct 2026 16:53:56 +0530",
-        "description": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one timeline, and it",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
-        "pubDate": "Mon, 26 Oct 2026 16:46:49 -0400",
-        "description": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "DreamHost forces password resets in ongoing \"incident\"",
-        "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
-        "pubDate": "Mon, 26 Oct 2026 15:26:20 -0400",
-        "description": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-        "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-        "pubDate": "Mon, 26 Oct 2026 15:24:02 +0530",
-        "description": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread outside the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-        "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-        "pubDate": "Mon, 26 Oct 2026 14:05:51 +0530",
-        "description": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79 organizations",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-        "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-        "pubDate": "Mon, 26 Oct 2026 13:19:46 +0530",
-        "description": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private repositories and ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Billionaire Palmer Luckey isn’t leaving California over the wealth tax",
+        "link": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+        "pubDate": "Tue, 27 Oct 2026 13:01:00 +0000",
+        "description": "\"It's causing a lot of people to run who I don't want to be running,\" native Californian Palmer Luckey said. \"But I'm planning on staying in California. I'm going to keep fighting it.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
+        "link": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+        "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+        "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+        "link": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative/",
+        "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+        "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Opera introduces a new web standard to let users deploy AI locally in their browser",
+        "link": "https://techcrunch.com/2026/10/27/opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-browser/",
+        "pubDate": "Tue, 27 Oct 2026 13:00:00 +0000",
+        "description": "The new standard, WebAI, is designed to work with a variety of AI models.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
+        "link": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+        "pubDate": "Tue, 27 Oct 2026 11:00:00 +0000",
+        "description": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
+        "source": "TechCrunch"
+      },
       {
         "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
         "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
@@ -457,73 +478,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft offers buyouts to around 60,000 employees",
-        "link": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/",
-        "pubDate": "Mon, 26 Oct 2026 15:58:25 +0000",
-        "description": "The buyout offers mark Microsoft's latest efforts to cut costs and rework its workforce.",
-        "source": "TechCrunch"
+        "title": "Fujifilm’s Instax Mini Evo 2 adds a touchscreen and video recording",
+        "link": "https://www.theverge.com/gadgets/1019300/fujifilm-instax-mini-evo-2-instant-camera-price-availability",
+        "pubDate": "2026-10-27T08:31:33-04:00",
+        "description": "Fujifilm is trying to find the right balance of fun and photography with its latest hybrid instant camera. Like its predecessor, the Instax Mini Evo 2 feels less like a retro gimmick, and more like a basic digital camera that just happens to have a b",
+        "source": "TheVerge"
       },
       {
-        "title": "Anthropic officially files for its public debut",
-        "link": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
-        "pubDate": "Mon, 26 Oct 2026 14:35:22 +0000",
-        "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
-        "source": "TechCrunch"
+        "title": "Sterling Anderson doesn’t think humanoid robots should be building cars",
+        "link": "https://www.theverge.com/transportation/1018625/gm-sterling-anderson-interview-robots-ai-autonomous-data-privacy",
+        "pubDate": "2026-10-27T07:00:00-04:00",
+        "description": "At a splashy event in New York City last week, General Motors unveiled its new tech roadmap centered on AI-driven vehicle development, advanced battery tech, high-powered car computers, and autonomous driving. Some of this was old news: We already kn",
+        "source": "TheVerge"
       },
       {
-        "title": "Apple unveils new iPad mini with OLED display and faster A20 Pro chip",
-        "link": "https://techcrunch.com/2026/10/26/apple-unveils-new-ipad-mini-with-oled-display-and-faster-a20-pro-chip/",
-        "pubDate": "Mon, 26 Oct 2026 14:25:43 +0000",
-        "description": "The new iPad mini features a thinner and lighter design than its predecessor.",
-        "source": "TechCrunch"
+        "title": "Data center backlash is uniting America",
+        "link": "https://www.theverge.com/policy/1019152/data-centers-midterm-elections",
+        "pubDate": "2026-10-27T06:00:00-04:00",
+        "description": "If there's one issue that seems to activate all kinds of voters in 2026, it's data centers. The rapid buildout of these massive server storage facilities - and the infrastructure construction and expenses that come with them - has sparked local oppos",
+        "source": "TheVerge"
       },
       {
-        "title": "Matiks raises $10M to expand its math and puzzle gaming platform",
-        "link": "https://techcrunch.com/2026/10/26/matiks-raises-10m-to-expand-its-math-and-puzzle-gaming-platform/",
-        "pubDate": "Mon, 26 Oct 2026 14:08:04 +0000",
-        "description": "Matiks has introduced a new platform for users to create games using AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tesla turns to Turo to boost adoption of Full Self-Driving (Supervised)",
-        "link": "https://techcrunch.com/2026/10/26/tesla-turns-to-turo-to-boost-adoption-of-full-self-driving-supervised/",
-        "pubDate": "Mon, 26 Oct 2026 12:58:40 +0000",
-        "description": "Eligible Turo hosts will also get a one-month free trial of Tesla's FSD software.",
-        "source": "TechCrunch"
+        "title": "Acer is bringing a Predator gaming handheld to the US for the first time",
+        "link": "https://www.theverge.com/games/1019245/acer-predator-atlas-8-launch-price",
+        "pubDate": "2026-10-27T05:54:22-04:00",
+        "description": "It's been several months since Acer unveiled its Predator Atlas 8 gaming handheld, but now we finally know that it's coming to the US, and how much it'll cost. The Intel Arc G3 Extreme variant - the more powerful of the two models announced in May - ",
+        "source": "TheVerge"
       },
       {
         "title": "OpenAI announces three big science discoveries and a new way to work with academics",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
         "pubDate": "2026-10-26T19:34:58-04:00",
         "description": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Samsung’s Switch 2-ready MicroSD Express card is on sale for less than $50",
-        "link": "https://www.theverge.com/gadgets/1018962/samsung-p9-256gb-microsd-express-card-switch-2-deal-sale",
-        "pubDate": "2026-10-26T17:56:36-04:00",
-        "description": "Running out of space on your Nintendo Switch 2? Thankfully, Samsung’s P9 MicroSD Express card is discounted at multiple retailers, with the 256GB version going for $47.99 (Amazon, B&H Photo) and the 512GB version $99 (Amazon, B&H Photo). The smaller ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Anthropic is burning gas to feed the AI boom",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1018994/anthropic-ipo-ai-data-center-energy-climate-risk",
-        "pubDate": "2026-10-26T17:45:31-04:00",
-        "description": "As it prepares to go public, Anthropic's S-1 filing makes generative AI's methane dependency glaringly obvious. \"Competition for access to electrical supply and data center locations with adequate power availability is intense.\" In documents filed wi",
-        "source": "TheVerge"
-      },
-      {
-        "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
-        "link": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
-        "pubDate": "2026-10-26T14:51:06-04:00",
-        "description": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo. The software update also includes an \"Edge Light\" feature for the iPhone Duo that's intended to illuminate your face during video calls. Apple previously said the iPho",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The NBA’s response to gambling scandals is to add more gambling partnerships",
-        "link": "https://www.theverge.com/entertainment/1018818/nba-kalshi-polymarket",
-        "pubDate": "2026-10-26T14:22:06-04:00",
-        "description": "From the bright minds that brought you FTX Arena and NBA Top Shot NFT maketplace (where sales last month dropped to $762,781, which is a 99.66 percent decrease compared to the February 2021 peak of $226,350,843), the NBA announced Monday that it has ",
         "source": "TheVerge"
       }
     ],
