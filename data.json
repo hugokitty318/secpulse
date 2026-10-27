@@ -1,7 +1,91 @@
 {
-  "ts": "2026-10-27T01:27:32.759423Z",
+  "ts": "2026-10-27T06:49:12.573214Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "阿里巴巴Qwen模型異常嘗試向北京上傳資料，推理紀錄卻稱不呼叫工具",
+        "link": "https://www.ithome.com.tw/news/179978",
+        "pubDate": "2026-10-27 14:30",
+        "description": "阿里巴巴Qwen模型在資安測試中，自行檢查系統並試圖向北京的阿里雲儲存空間上傳資料，推理紀錄卻聲稱不會呼叫工具，雖然連線最後遭沙箱阻擋，卻也凸顯企業不能只依賴推理紀錄監控AI代理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "韓國警方偵破利用ARTEX發動攻擊的嫌犯，涉及入侵逾90家機構、竊取820萬筆個資",
+        "link": "https://www.ithome.com.tw/news/179973",
+        "pubDate": "2026-10-27 12:39",
+        "description": "首爾警方宣布破獲一起利用ARTEX的大規模網路攻擊案件，經查嫌犯自今年8月底導入這套開源AI滲透測試框架加速攻擊，短短44天內便入侵60家企業；當地警方警告，此案突顯AI已顯著降低網路攻擊的技術門檻，讓單一攻擊者也能具備對大量企業發動大規模連鎖侵害的能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料",
+        "link": "https://www.ithome.com.tw/news/179976",
+        "pubDate": "2026-10-27 12:38",
+        "description": "PwC證實三方廠商資安事件涉及其員工學習紀錄，強調未影響自身網路與營運，駭客聲稱竊得資料仍未獲證實",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Brotli解壓縮漏洞也影響.NET，微軟緊急發布臨時更新修補",
+        "link": "https://www.ithome.com.tw/news/179970",
+        "pubDate": "2026-10-27 12:33",
+        "description": "微軟發布.NET臨時更新，修補可能在解壓縮惡意Brotli資料時造成記憶體損壞的漏洞，同時修補10月13日安全更新未完整處理的另兩項漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA警告PHP2Shell遭到積極利用",
+        "link": "https://www.ithome.com.tw/news/179975",
+        "pubDate": "2026-10-27 12:31",
+        "description": "本週美國網路安全與基礎設施安全局（CISA）警告，震驚全球的PHP重大漏洞PHP2Shell（CVE-2026-109618、CVE-2026-109619），已被積極利用，聯邦機構需緊急修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Arista旗下SD-WAN集中管理平臺VCO零時差漏洞已遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179972",
+        "pubDate": "2026-10-27 11:55",
+        "description": "上週Arista針對SD-WAN集中管理平臺VeloCloud Orchestrator（VCO）重大漏洞CVE-2026-114625提出警告，並指出已遭積極利用，後續美國網路安全與基礎設施安全局（CISA）也掌握相關證據，要求聯邦機構緊急採取行動因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA警告雲端版辦公室軟體Collabora Online漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/179971",
+        "pubDate": "2026-10-27 11:44",
+        "description": "近日傳出被用於實際攻擊的雲端辦公室軟體Collabora Online漏洞CVE-2026-110447，美國網路安全與基礎設施安全局（CISA）表示已遭到積極利用，並要求聯邦機構緊急修補因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Shadowserver示警逾90萬個無法直接取得修補的舊版PHP執行個體暴露於公開網路，台灣也有1.3萬個",
+        "link": "https://www.ithome.com.tw/news/179969",
+        "pubDate": "2026-10-27 11:29",
+        "description": "8.1版以前的舊版PHP已停止支援，PHP專案不再直接提供漏洞修補，Shadowserver觀察到仍有大量這類舊版系統暴露於網路，直接面臨PHP2Shell攻擊威脅",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客Storm-0940利用自主AI框架ARTEX發動大規模攻擊，並藉ConnectWise憑證滲透企業雲端",
+        "link": "https://www.ithome.com.tw/news/179964",
+        "pubDate": "2026-10-27 11:18",
+        "description": "微軟揭露中國背景駭客Storm-0940利用ARTEX攻擊全球數百家組織，多數攻擊未得逞，但部分案例不到3小時便取得雲端高權限。微軟也將ConnectWise Cloud Backup供應鏈入侵事件歸因於該組織，指出駭客利用遭竊的應用程式憑證及ARTEX，藉由既有授權關係，快速嘗試存取大量Microsoft 365租戶",
+        "source": "iThome資安"
+      },
+      {
+        "title": "健身服務公司柏文電子商城委外廠商遭駭，會員訂單資料疑似外洩",
+        "link": "https://www.ithome.com.tw/news/179962",
+        "pubDate": "2026-10-27 10:25",
+        "description": "健身服務公司柏文（8462）於10月23日發布資安重訊，電子商城委外服務廠商的Commerce Cloud資料庫遭到攻擊，部分資料遭未經授權存取。柏文陸續接獲會員反映，有第三方疑似取得訂單資料，並透過電子郵件聯繫消費者",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本摩斯漢堡系統外包商遭駭，外洩逾113萬筆預付卡資料",
+        "link": "https://www.ithome.com.tw/news/179959",
+        "pubDate": "2026-10-27 10:05",
+        "description": "日本摩斯漢堡預付卡系統外包商遭駭，逾113萬筆MOS卡資料外洩，包括卡號、PIN碼及餘額資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式",
+        "link": "https://www.ithome.com.tw/news/179952",
+        "pubDate": "2026-10-27 08:00",
+        "description": "Node2Shell漏洞存在於Brotli解壓縮程式庫，除了Node.js，其他開發工具及應用程式也可能受到影響。由於部分軟體自行內建Brotli元件，即使企業已更新Node.js，仍需確認其他軟體是否使用尚未修補的版本",
+        "source": "iThome資安"
+      },
       {
         "title": "Microsoft 365帳號遭權杖重播攻擊，79家組織受影響",
         "link": "https://www.ithome.com.tw/news/179944",
@@ -24,131 +108,68 @@
         "source": "iThome資安"
       },
       {
-        "title": "不只影響Node.js，Node2Shell漏洞恐波及其他開發工具及應用程式",
-        "link": "https://www.ithome.com.tw/news/179952",
-        "pubDate": "2026-10-27 08:00",
-        "description": "Node2Shell漏洞存在於Brotli解壓縮程式庫，除了Node.js，其他開發工具及應用程式也可能受到影響。由於部分軟體自行內建Brotli元件，即使企業已更新Node.js，仍需確認其他軟體是否使用尚未修補的版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Ollama加入串流文字轉語音功能，並整合d3決策模型",
-        "link": "https://www.ithome.com.tw/news/179956",
-        "pubDate": "2026-10-27  09:10:05",
-        "description": "本機AI模型執行工具Ollama發布v0.40.11，加入文字轉語音功能，讓搭載Apple晶片的Mac電腦可以將文字或AI聊天模型的回答轉成語音，並在生成過程中同步播放，不必等整段語音完成。",
+        "title": "Meta啟動950億美元融資計畫，Nvidia等三大晶片商有意認購",
+        "link": "https://www.ithome.com.tw/news/179968",
+        "pubDate": "2026-10-27  11:10:24",
+        "description": "Meta周一（10/26）宣布啟動大規模股權融資計畫，總規模上看950億美元，以支應AI基礎設施投資。",
         "source": "iThome"
       },
       {
-        "title": "LiteLLM公布供應鏈攻擊後續調查，5月外洩金鑰讓駭客操控官方發布流程",
-        "link": "https://www.ithome.com.tw/news/179955",
-        "pubDate": "2026-10-26 18:01",
-        "description": "LiteLLM後續調查確認，駭客利用5月外洩後未撤銷的AI代理平臺金鑰，取得GitHub組織擁有者權杖，進而操控官方發布流程，讓含有惡意程式的版本經官方簽署並上架",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitLab四項RCE漏洞源頭，指向Ruby正規表示式引擎缺陷",
-        "link": "https://www.ithome.com.tw/news/179954",
-        "pubDate": "2026-10-26 15:36",
-        "description": "GitLab四項遠端執行漏洞與程式語言Ruby正規表示式引擎的記憶體錯誤有關，其他直接編譯外部輸入的應用程式可能也受影響，Ruby已發布修補版本，並提醒逾時及輸入長度限制都無法可靠防止該錯誤",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Tailscale SSH轉送功能遭揭權限提升漏洞，一般帳號恐取得伺服器最高權限",
-        "link": "https://www.ithome.com.tw/news/179953",
-        "pubDate": "2026-10-26 14:40",
-        "description": "Tailscale SSH的部分轉送操作可能繞過登入帳號的權限限制，讓攻擊者存取受保護的系統服務，官方仍在調查影響範圍，建議管理員限制可登入的裝置，並停用不必要的SSH轉送功能",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客打造Skynet自主攻擊代理人，劫持AI模型可執行10萬步攻擊",
-        "link": "https://www.ithome.com.tw/news/179951",
-        "pubDate": "2026-10-26 12:18",
-        "description": "資安業者賽門鐵克揭露駭客打造的Skynet自主攻擊AI代理人，企圖劫持暴露於網際網路的AI模型，利用其推論能力規畫攻擊，再透過外部工具執行",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI將不再在連網環境下訓練頂尖AI模型",
-        "link": "https://www.ithome.com.tw/news/179949",
-        "pubDate": "2026-10-26 10:38",
-        "description": "OpenAI決定讓頂尖AI模型改採離線方式進行強化學習訓練，並加強紅隊演練及多層防護，防止AI代理再次突破安全隔離機制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本快遞業者佐川急便網站服務被駭，外洩個人、企業及會員個資逾5,300萬筆",
-        "link": "https://www.ithome.com.tw/news/179948",
-        "pubDate": "2026-10-26 10:26",
-        "description": "日本物流業者接連發生個資外洩事件。佐川急便包裹查詢服務遭駭，逾5千萬筆個資恐外洩。另一家大型物流業者大和運輸本月也證實遭網路攻擊，約500萬筆客戶資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Amadeus訂票系統帳號憑證外流，洩露大韓、韓亞航空客戶資訊",
-        "link": "https://www.ithome.com.tw/news/179947",
-        "pubDate": "2026-10-26 10:06",
-        "description": "大韓航空與韓亞航空雙雙傳出客戶資料外洩，事件源於航空訂位系統業者Amadeus遭未授權第三方利用帳號憑證存取，導致部分乘客訂位資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "希臘通過15歲以下社群媒體禁令，違規平臺最高罰全球營收6%",
-        "link": "https://www.ithome.com.tw/news/179946",
-        "pubDate": "2026-10-26 09:54",
-        "description": "希臘正式通過15歲以下兒童社群媒體禁令，2027年元旦上路。Facebook、Instagram、TikTok等平臺未來必須驗證使用者年齡，違規業者可能依歐盟《數位服務法》面臨最高全球年營收6%的罰款",
-        "source": "iThome資安"
-      },
-      {
-        "title": "製藥巨頭BMS領投Pathos AI，攜手推動阿茲海默症藥物研發",
-        "link": "https://www.ithome.com.tw/news/179950",
-        "pubDate": "2026-10-26  10:10:42",
-        "description": "美國AI製藥新創Pathos AI上周五（10/23）宣布，完成2.37億美元的E輪募資，投資後估值達30億美元，由製藥巨頭必治妥施貴寶（Bristol Myers Squibb，BMS）領投。",
+        "title": "Anthropic正式啟動IPO，揭露AI業務高速成長與龐大運算成本",
+        "link": "https://www.ithome.com.tw/news/179961",
+        "pubDate": "2026-10-27  10:10:15",
+        "description": "AI新創Anthropic周一（10/26）公開向美國證券交易委員會（SEC）提交S-1上市申請文件，正式啟動首次公開募股（IPO）程序，計畫於那斯達克（Nasdaq）掛牌，股票代號為ANT，有望成為美國首家上市的前沿AI模型開發商。市場預期Anthropic最快可能於11月上市，但正式掛牌日期及發行價格尚未確定。上市文件也揭露，Anthropic今年第二季營收達116億美元，年增1,368%，營業利益（Operating Income）約10億美元。",
         "source": "iThome"
       },
       {
-        "title": "PHP2Shell漏洞修補釋出兩天後，PHP基金會警告還有一個待修補的遠端程式碼執行漏洞",
-        "link": "https://www.ithome.com.tw/news/179943",
-        "pubDate": "2026-10-24 13:46",
-        "description": "10月23日PHP基金會公告PHP還有一個漏洞尚待修補，由於這個問題發生機率極低，也能沿用CVE-2026-109619的緩解措施，因此將於常規版本發布週期處理此問題，隨下個版本發布針對 CVE-2026-115560 的完整安全公告",
-        "source": "iThome資安"
+        "title": "微軟向6萬名員工提出自願離職方案，涵蓋全球27%人力",
+        "link": "https://www.ithome.com.tw/news/179960",
+        "pubDate": "2026-10-27  10:10:02",
+        "description": "微軟周一（10/26）發表新的自願離職方案（Voluntary Exit Offer，VEO），適用於美國、加拿大、英國及印度的部分員工。根據CNBC報導，約6萬名員工符合資格，占微軟全球22.3萬名員工的27%。此舉正值微軟大幅擴張AI基礎設施投資，並積極調整人力配置之際。",
+        "source": "iThome"
       },
       {
-        "title": "1Password擴大AI代理登入支援，Muse、Grok Bot率先整合",
-        "link": "https://www.ithome.com.tw/news/179942",
-        "pubDate": "2026-10-23 20:26",
-        "description": "AI代理需要登入網站時，可向1Password提出請求，經使用者核准後，由密碼庫代為填入密碼及驗證碼，避免代理接觸登入資料，Muse、Grok Bot將率先整合，ChatGPT Work等服務後續支援",
-        "source": "iThome資安"
-      },
-      {
-        "title": "91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
-        "link": "https://www.ithome.com.tw/news/179923",
-        "pubDate": "2026-10-23 19:00",
-        "description": "91APP於10月22日公布遭駭事件調查結果，揭露攻擊者利用未及時修補的Appsmith漏洞入侵內部系統，非法存取Commerce Cloud訂單資料，並發現ARTEX AI自動化攻擊工具的痕跡。91APP指出，這類工具近期也出現在多國攻擊活動中。此外，該公司董事長何英圻坦承，未及時提醒品牌客戶是公司的疏失",
-        "source": "iThome資安"
+        "title": "四大金融機構聯手博通，提供630億美元融資助Anthropic擴充AI算力",
+        "link": "https://www.ithome.com.tw/news/179979",
+        "pubDate": "2026-10-27  02:10:35",
+        "description": "美國銀行（Bank of America）、黑石集團（Blackstone）、花旗集團（Citi）及摩根士丹利（Morgan Stanley）周一（10/26）聯合宣布，將與晶片大廠博通（Broadcom）合作，推出總額630億美元的融資方案，協助AI新創Anthropic擴充運算容量。這項交易將透過特殊目的公司購買博通AI晶片及網路設備，再出租給Anthropic使用，預計2027年開始交付。",
+        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
+        "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 13:02:34 +0800",
+        "description": "微軟（Microsoft）近日宣布，向約 6 萬名員工提供自願離職方案，占全球員工約 27%。《Reuters》指出，微軟希望藉此控制成本，並支應龐大的 AI 投資。這項方案適用於美國、加拿大、印度與英國參與團隊中，內部職級 70 以下的員工。 微軟人資長 Amy Coleman 在給員工的備忘錄中表示：「這項方案讓正在考慮離開公司的符合資格員工，有了新的選擇，可以在獲得支援的情況下，現在就完成轉換。它也讓參與的部門多了一種方式，讓人力配置能因應不斷變化的需求。」她在部落格文章中也寫道：「自願離",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
+        "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 12:58:02 +0800",
+        "description": "Anthropic 在美國時間 10 月 26 日向美國證券交易委員會（SEC）遞交上市申請文件 S-1，申請以代號「ANT」在 Nasdaq 掛牌。招股書顯示，第二季營收 115.6 億美元，去年同期為 7.87 億美元；在連續五季營業虧損後，第二季轉為營業獲利 9.74 億美元，據報導，這是 Anthropic 首度單季營業獲利。不過，Anthropic 也在招股書中先提醒投資人：以長期利益為重的決策，可能與股東的財務利益衝突。 對已經或正在導入 Claude 的企業而言，這是 Anthro",
+        "source": "TechOrange"
+      },
+      {
+        "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
+        "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 09:24:15 +0800",
+        "description": "專家指出 AI 代理所能夠調用的技能（Skills）其實是比起代理本身，企業更應事先準備好的關鍵，只要將設計良好的技能加以組合，理論上就能創造出具有 AI 代理特性的工作流程。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【鋼鐵之城轉攻物理 AI】匹茲堡把研究接上工業現場，客戶就在附近讓產品能快速修正",
+        "link": "https://techorange.com/2026/10/27/steel-to-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 27 Oct 2026 09:24:05 +0800",
+        "description": "AI 正走出螢幕，開始駕駛卡車、檢查設備，在真實世界裡工作。這類能感知環境並採取行動的技術，被稱為「物理 AI」。根據 Crunchbase 統計，2026 年上半年，物理 AI 領域共完成 521 筆融資，募得 474 億美元，超過 2022 至 2024 年 3 年的總和。 競爭重心從生成文字轉向操控機器後，產業需要的條件也跟著改變。除了模型與算力，還得有人製造設備、提供測試場地，也要有客戶願意付錢使用。曾以鋼鐵聞名的美國匹茲堡，正憑著這些條件，在新一輪 AI 競賽中占有一席之地。 匹茲堡的",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】AI 算力大戰進入資金淘汰賽？OpenAI 下修估值目標、SpaceX 稱融資 400 億美元",
         "link": "https://techorange.com/2026/10/27/ai-compute-funding-openai-spacex-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 27 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 估值目標降至 1.25 兆美元，SpaceX 稱完成 400 億美元融資 OpenAI 新一輪募資傳出估值調整。《Bloomberg》引述知情人士報導，公司正洽談募資約 300 億美元，目標估值從 1.4 兆美元降至 1.25 兆美元，減少 1,500 億美元。《Financial Times》指出，部分投資人質疑原先報價，投資意願也不如前幾輪熱絡。OpenAI 今年 3 月曾以約 8,520 億美元估值完成募資，這次談判仍未定案",
-        "source": "TechOrange"
-      },
-      {
-        "title": "8 成美國企業財務團隊用生成式 AI 管現金流，採用代理式 AI 卻只有 5%",
-        "link": "https://techorange.com/2026/10/22/artificial-intelligence-finance-embraces-gen-ai-autonomous-cash-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 16:50:17 +0800",
-        "description": "美國企業財務部門正快速導入生成式 AI，但對於讓 AI 自主執行任務，態度則保守許多。支付產業媒體《PYMNTS》近日報導，其研究單位 PYMNTS Intelligence 與摩根大通（JPMorgan）合作發布的研究《Time to Cash: What Two Years of Data Say About Faster Cash and Rising Risk》顯示，2026 年有 80% 的財務團隊使用生成式 AI 管理現金流，較 2025 年的 16% 大幅成長；相較之下，使用代理式",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Amazon 擋 Muse、Walmart 卻為 AI 代理「開窗」：可設定消費上限、卡號不交給代理",
-        "link": "https://techorange.com/2026/10/22/walmart-agent-gateway-ai-shopping-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 15:20:17 +0800",
-        "description": "Walmart 於美國時間 10 月 21 日宣布推出「代理閘道」（Walmart Agent Gateway），讓消費者用自己選擇的 AI 代理，在 Walmart 與旗下倉儲量販店 Sam’s Club 購物，並由顧客控制每個代理能做什麼。就在上個月，最大競爭對手 Amazon 才把 Meta 的 AI 代理 Muse 擋在網站之外。 AI 代理（AI agent）是能替使用者執行任務的 AI 系統。當它開始替消費者逛網站、下單付款，零售平台也面臨選擇：要把代理擋在門外，還是開門讓它進來？如",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 熱潮能回本嗎？Gartner 警告：逾 3.5 兆美元基礎設施投資 2030 年前恐面臨減損",
-        "link": "https://techorange.com/2026/10/22/gartner-ai-industry-facing-trillion-shortfall/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 22 Oct 2026 13:52:53 +0800",
-        "description": "研究顧問機構 Gartner 於 10 月 14 日發布預測指出，AI 產業正面臨龐大的投資回收壓力。Gartner 以 12% 的投入資本報酬率（ROIC）作為投資的門檻報酬率，估算截至 2030 年，AI 資料中心業者需要累計創造 8.5 兆美元營收，才能支付已宣布的資本支出、融資成本，並達到這項報酬率；然而，同期可歸因於 AI 資料中心的企業與消費者 AI 收入，預估最多只有 3.6 兆美元，兩者相差 4.9 兆美元。 Gartner 資深總監分析師 Will Sommer 表示：「202",
         "source": "TechOrange"
       },
       {
@@ -220,16 +241,16 @@
         "pubDate": "Fri, 23 Oct 2026 06:00:00 +0800",
         "description": "從專案接案走向可規模化的產品經營，是台灣軟體產業長期面臨的轉型課題。數發部近年推動軟體業從專案開發（Project）走向產品經營（Product），希望透過政府採購擴大標準化軟體的市場，今年更公布 2025 年政府電腦軟體共同供應契約採購總額達 107 億元，年增 25%，其中國產產品訂單數量占比達 58%。然而，政府採購能創造市場，不代表業者取得訂單後，就能順利發展出可重複銷售的產品。 10 月 22 日，台灣數位科技與政策協進會舉辦「創造台灣數位與 AI 競爭力大環境座談會」，從公私協力壯大",
         "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】Google Cloud 引進 OpenAI GPT-6，兩大 AI 對手跨陣營合作",
-        "link": "https://techorange.com/2026/10/23/google-cloud-openai-gpt6-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Google Cloud 引進 OpenAI GPT-6 模型，兩大 AI 對手跨陣營合作 Google Cloud 於 10 月 21 日宣布，將 OpenAI 最新的 GPT-6 Astra、GPT-6.1 Sol 與 GPT-6 Luna 模型納入旗下 Model Garden 平台，涵蓋程式開發、專業工作、AI 代理及大量日常應用。目前先向部分企業客戶提供私人預覽，預計未來幾週全面開放。這項合作格外受到關注，因為 Google 本身擁有",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+        "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+        "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
         "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
@@ -263,13 +284,6 @@
         "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
         "pubDate": "Sat, 24 Oct 2026 16:39:29 +0530",
         "description": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, Microsoft's .NET, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli.\n\nTracked as CVE-",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-        "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-        "pubDate": "Sat, 24 Oct 2026 16:33:33 +0530",
-        "description": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package.\n\n\"On May 27, 2026, a con",
         "source": "TheHackerNews"
       },
       {
@@ -373,17 +387,24 @@
     ],
     "en_tech": [
       {
+        "title": "X is nudging users to promote their posts with a pointing hand, and people are confused",
+        "link": "https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/",
+        "pubDate": "Tue, 27 Oct 2026 06:34:44 +0000",
+        "description": "Whose hand is behind this travesty?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
+        "link": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+        "pubDate": "Tue, 27 Oct 2026 02:00:00 +0000",
+        "description": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing",
         "link": "https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing/",
         "pubDate": "Tue, 27 Oct 2026 01:12:21 +0000",
         "description": "An AI model said it wouldn’t use any tools, then tried to send something to a server in Beijing anyway, and while researchers say it’s probably a training quirk and not espionage, the whole thing has people asking how much to trust free Chinese AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-        "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-        "pubDate": "Sun, 25 Oct 2026 21:31:16 +0000",
-        "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
         "source": "TechCrunch"
       },
       {
@@ -471,13 +492,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The best apps for tracking your reading and discovering new books",
-        "link": "https://techcrunch.com/2026/10/25/5-best-apps-track-reading-discover-new-books/",
-        "pubDate": "Mon, 26 Oct 2026 01:10:00 +0000",
-        "description": "There are numerous apps on the market that promise to do just that, so we’ve compiled a list of some of the best ones to help you pick the right one for you.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "OpenAI announces three big science discoveries and a new way to work with academics",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics",
         "pubDate": "2026-10-26T19:34:58-04:00",
@@ -513,6 +527,157 @@
         "source": "TheVerge"
       }
     ],
-    "cve": []
+    "cve": [
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261021",
+        "pubDate": "Wed, 21 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome"
+      },
+      {
+        "title": "Nginx Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261021",
+        "pubDate": "Wed, 21 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Nginx"
+      },
+      {
+        "title": "Apple Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20261027",
+        "pubDate": "Tue, 27 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Apple Products"
+      },
+      {
+        "title": "Python Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/python-multiple-vulnerabilities_20261027",
+        "pubDate": "Tue, 27 Oct 2026 09:35:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Python"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261027",
+        "pubDate": "Tue, 27 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
+      },
+      {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Products"
+      },
+      {
+        "title": "Oracle Java Security Restriction Bypass Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/oracle-java-security-restriction-bypass-vulnerability_20261022",
+        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Oracle Java Security Restriction Bypass Vulnerability"
+      },
+      {
+        "title": "Node.js Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Node.js"
+      },
+      {
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "GitLab"
+      },
+      {
+        "title": "PHP Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "PHP"
+      },
+      {
+        "title": "Splunk Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261022",
+        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Splunk Products"
+      },
+      {
+        "title": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation",
+        "link": "https://www.hkcert.org/blog/hkcert-warns-of-critical-php2shell-vulnerabilities-businesses-must-immediately-review-and-patch-php-systems-ai-accelerates-cyber-attacks-and-defence-further-shortening-the-response-window-between-vulnerability-disclosure-and-exploitation",
+        "pubDate": "Thu, 22 Oct 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation"
+      },
+      {
+        "title": "Aruba Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20261026",
+        "pubDate": "Mon, 26 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Aruba Products"
+      },
+      {
+        "title": "Fortinet Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261023",
+        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Fortinet Products"
+      },
+      {
+        "title": "ISC BIND Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20261023",
+        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "ISC BIND"
+      }
+    ]
   }
 }
