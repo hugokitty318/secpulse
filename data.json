@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-28T19:51:18.449331Z",
+  "ts": "2026-10-28T23:59:09.735396Z",
   "tabs": {
     "cn_sec": [
       {
@@ -229,10 +229,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "如何建構能擴展成代理的 AI 技能：先做可獨立測試的專項能力，再交給協調層串接",
-        "link": "https://techorange.com/2026/10/27/ai-skills-to-ai-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 27 Oct 2026 09:24:15 +0800",
-        "description": "專家指出 AI 代理所能夠調用的技能（Skills）其實是比起代理本身，企業更應事先準備好的關鍵，只要將設計良好的技能加以組合，理論上就能創造出具有 AI 代理特性的工作流程。",
+        "title": "【科技早餐】Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力",
+        "link": "https://techorange.com/2026/10/29/google-tpu-oracle-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 29 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力 Oracle 與 Google 在 10 月 27 日宣布，將 Google 自研的張量處理器（TPU）引進 Oracle Cloud Infrastructure（OCI），預計 2027 年開始提供服務。這是 Google TPU 首次進入 Google 以外的超大型雲端平台。Google 第八代 TPU 分為針對模型訓練設計的 TPU 8t，以及著",
         "source": "TechOrange"
       }
     ],
@@ -285,6 +285,13 @@
         "pubDate": "Wed, 28 Oct 2026 17:00:00 +0530",
         "description": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden within large d",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+        "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+        "pubDate": "Wed, 28 Oct 2026 16:47:22 -0400",
+        "description": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
@@ -369,16 +376,58 @@
         "pubDate": "Wed, 28 Oct 2026 10:48:32 -0400",
         "description": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-        "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-        "pubDate": "Wed, 28 Oct 2026 10:00:00 -0400",
-        "description": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
+        "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+        "pubDate": "Wed, 28 Oct 2026 23:15:00 +0000",
+        "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
+        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
+        "pubDate": "Wed, 28 Oct 2026 22:47:50 +0000",
+        "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+        "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
+        "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google expands AI Search ads globally as core ad growth slows",
+        "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+        "pubDate": "Wed, 28 Oct 2026 21:48:37 +0000",
+        "description": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft recorded $10 billion in revenue from OpenAI",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+        "pubDate": "Wed, 28 Oct 2026 21:34:30 +0000",
+        "description": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft hits 10 quarters of record-breaking revenue in a row",
+        "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+        "pubDate": "Wed, 28 Oct 2026 21:25:30 +0000",
+        "description": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hacker stole personnel data about thousands of Homeland Security employees, including CBP and ICE agents",
+        "link": "https://techcrunch.com/2026/10/28/hacker-stole-personnel-data-about-thousands-of-homeland-security-employees-including-cbp-and-ice-agents/",
+        "pubDate": "Wed, 28 Oct 2026 20:01:00 +0000",
+        "description": "A hacker obtained personally identifiable information about more than 40,000 Homeland Security staffers, which has since been published online.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic just launched tools to show companies what their AI spending is buying",
         "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
@@ -436,87 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Trump DOE loans $5B to nuclear plants that will power data centers",
-        "link": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
-        "pubDate": "Wed, 28 Oct 2026 15:53:21 +0000",
-        "description": "Constellation Energy will get $5 billion in government loans to modernize nuclear reactors. Most of the new capacity is already committed to Google, Amazon, and Meta.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
-        "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
-        "pubDate": "Wed, 28 Oct 2026 15:41:18 +0000",
-        "description": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-        "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
-        "pubDate": "Wed, 28 Oct 2026 15:00:00 +0000",
-        "description": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
-        "link": "https://techcrunch.com/2026/10/28/amazon-debuts-the-alexa-photo-frame-and-echo-time-smart-clock-plus-other-upgraded-devices/",
-        "pubDate": "Wed, 28 Oct 2026 14:34:25 +0000",
-        "description": "Amazon's other new devices include an upgraded Echo Dot, an Echo Studio with visual intelligence features, and the Echo Show 16.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TikTok expands into restaurant guides with ‘Must Eat’ feature",
-        "link": "https://techcrunch.com/2026/10/28/tiktok-expands-into-restaurant-guides-with-must-eat-feature/",
-        "pubDate": "Wed, 28 Oct 2026 14:26:36 +0000",
-        "description": "The move puts TikTok in more direct competition with platforms like Yelp and Google.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta has a new AI pet app called Waddle World",
-        "link": "https://techcrunch.com/2026/10/28/meta-has-a-new-ai-pet-app-called-waddle-world/",
-        "pubDate": "Wed, 28 Oct 2026 13:53:31 +0000",
-        "description": "Meta launched a new app called Waddle World, which essentially looks like a Tamagotchi clone, but with AI.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Free Fire returns to India as Garena launches localized version four years after ban",
-        "link": "https://techcrunch.com/2026/10/28/free-fire-returns-to-india-as-garena-launches-localized-version-four-years-after-ban/",
-        "pubDate": "Wed, 28 Oct 2026 13:39:18 +0000",
-        "description": "Free Fire India was originally set to launch in September 2023, but Garena postponed its release.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
-        "link": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
-        "pubDate": "2026-10-28T15:37:31-04:00",
-        "description": "What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — an",
+        "title": "A hacker stole more than 40,000 DHS employee records",
+        "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
+        "pubDate": "2026-10-28T17:57:45-04:00",
+        "description": "A hacker stole a trove of personal information from the Department of Homeland Security (DHS). The breach exposes the names, job titles, phone numbers, email addresses, and office locations of more than 41,000 employees, including those in US Immigra",
         "source": "TheVerge"
       },
       {
-        "title": "Hands-on with the new OLED iPad Mini",
-        "link": "https://www.theverge.com/tech/1017932/hands-on-ipad-mini-8th-generation-pro-and-tell",
-        "pubDate": "2026-10-28T15:18:58-04:00",
-        "description": "Apple announced a new iPad Mini with a larger OLED display this week, and we've just gotten to try it out at Apple's \"Pro and tell\" event. It's an iPad for sure, but the new OLED on the Mini looks exceptional, and the optional nano-texture matte fini",
+        "title": "Akai is embracing vibe-coded mods with an open-source MPC",
+        "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+        "pubDate": "2026-10-28T17:34:04-04:00",
+        "description": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them ear",
         "source": "TheVerge"
       },
       {
-        "title": "Brendan Carr plans to let prisons jam cellphone signals",
-        "link": "https://www.theverge.com/policy/1021165/fcc-brendan-carr-prison-phone-jamming",
-        "pubDate": "2026-10-28T14:57:02-04:00",
-        "description": "FCC Chairman Brendan Carr announced the agency will vote on November 19th on rules that would allow prisons to use signal jamming. Radiofrequency jammers are generally banned under Section 333 and the Communications Act of 1934, with few exceptions, ",
+        "title": "Readwise is taking on Kindle and Kobo for ebook supremacy",
+        "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
+        "pubDate": "2026-10-28T17:16:18-04:00",
+        "description": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for re",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft is ending Copilot support on smart TVs",
-        "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
-        "pubDate": "2026-10-28T14:36:26-04:00",
-        "description": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Win",
+        "title": "Google says its investments in AI are driving more searches",
+        "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
+        "pubDate": "2026-10-28T16:22:26-04:00",
+        "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CE",
         "source": "TheVerge"
       },
       {
-        "title": "Surprise: The Google Xreal glasses debut at a Meta-beating $1,099",
-        "link": "https://www.theverge.com/tech/1020960/google-xreal-glasses-debut-meta-vr-glasses-price-release-date",
-        "pubDate": "2026-10-28T14:14:11-04:00",
-        "description": "In this economy, how often does a product get less expensive before its debut? That just happened with the Google / Xreal Aura, the lightweight 95-gram glasses with a tethered Android XR compute puck and multiple virtual screens that just went on sal",
+        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
+        "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
+        "pubDate": "2026-10-28T16:20:00-04:00",
+        "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a n",
         "source": "TheVerge"
       }
     ],
