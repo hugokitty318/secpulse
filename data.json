@@ -1,12 +1,96 @@
 {
-  "ts": "2026-10-28T01:41:38.597579Z",
+  "ts": "2026-10-28T07:27:37.643504Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Cloudflare推出後量子地理金鑰管理，限定私密金鑰使用地區",
-        "link": "https://www.ithome.com.tw/news/179963",
-        "pubDate": "2026-10-28 08:00",
-        "description": "Cloudflare推出PQ GeoKey Manager，讓企業指定哪些地區可以解密及使用私密金鑰，降低金鑰在非指定地區被使用的風險",
+        "title": "漏洞懸賞計畫ZDI傳出將尚未修補的Linux核心漏洞公開",
+        "link": "https://www.ithome.com.tw/news/180034",
+        "pubDate": "2026-10-28 15:01",
+        "description": "漏洞懸賞計畫Zero Day Initiative（ZDI）近日傳出不慎將6個Linux核心漏洞通報資料，發送到公開的Linux核心郵件列表（Linux Kernel Mailing List，LKML）而提前曝光，引起Linux用戶的關注",
+        "source": "iThome資安"
+      },
+      {
+        "title": "接近1千個電商網站被滲透，攻擊者利用Magento資安漏洞植入後門",
+        "link": "https://www.ithome.com.tw/news/180031",
+        "pubDate": "2026-10-28 14:38",
+        "description": "資安公司Sansec揭露鎖定電商平臺Magento（Adobe Commerce）長期攻擊活動，駭客在953個電商網站植入JavaScript惡意程式載入工具，曾經利用資安漏洞PolyShell（CVE-2026-48356）、SessionReaper（CVE-2025-54236）作為入侵管道",
+        "source": "iThome資安"
+      },
+      {
+        "title": "韓國SMB最大ERP業者Douzone Bizon兩週內接連傳出資安事件，當局展開調查",
+        "link": "https://www.ithome.com.tw/news/180030",
+        "pubDate": "2026-10-28 13:42",
+        "description": "韓國企業軟體業者Douzone Bizon傳出兩起資安事件，部分客戶資料可能外洩。韓國政府已將事件認定為重大事故，成立公私聯合調查團隊，釐清外洩範圍及影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "2026年資安技能金盾獎初賽登場，224隊爭奪決賽資格",
+        "link": "https://www.ithome.com.tw/news/180027",
+        "pubDate": "2026-10-28 12:45",
+        "description": "資安署與國家資安研究院共同主辦，競賽涵蓋逆向工程、網站安全及數位鑑識，培養學生資安實戰能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Magento、Brotli漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180026",
+        "pubDate": "2026-10-28 12:33",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，他們已掌握Adobe Commerce（Magento）漏洞CVE-2026-48356（PolyShell）、Google Brotli漏洞CVE-2026-111497（Node2Shell、HTTP2Shell、Python2Shell、Brotli2Shell、Broccoli2Shell）遭積極利用的證據",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國NIST發布PQC遷移路線圖，RSA、ECDSA等傳統公鑰演算法2030年後逐步退場，2035年後禁用",
+        "link": "https://www.ithome.com.tw/news/180022",
+        "pubDate": "2026-10-28 12:26",
+        "description": "美國NIST正式發布NIST IR 8547《轉換至後量子密碼學標準》，明確提出RSA、ECDSA等傳統公鑰演算法的退場時程，規畫2030年後將其列為不建議使用，2035年後則在NIST標準與指引中列為禁止使用，並說明TLS、PKI等技術及不同應用場景的遷移需求、挑戰與可考慮的過渡方案。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞",
+        "link": "https://www.ithome.com.tw/news/180024",
+        "pubDate": "2026-10-28 12:16",
+        "description": "Apple為macOS修補263個漏洞，為iOS與iPadOS修補163個漏洞，兩份公告包含同時影響多套作業系統的140個共通漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Mozilla發布Firefox大改版159，修補逾100個高風險漏洞",
+        "link": "https://www.ithome.com.tw/news/180018",
+        "pubDate": "2026-10-28 11:24",
+        "description": "本週Mozilla基金會推出Firefox 159大改版，總共修補167個資安漏洞，其中有108個為高風險等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome 156更新，修補逾50個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180016",
+        "pubDate": "2026-10-28 11:16",
+        "description": "本週Google針對Chrome 156修補超過50個資安漏洞，有4個為重大等級、其餘大部分為高風險等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Veeam修補Backup &amp; Replication、Backup for Microsoft 365與Veeam One重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180014",
+        "pubDate": "2026-10-28 11:12",
+        "description": "Veeam修補旗下3款產品一共9個漏洞，包含兩個可能導致繞過授權與遠端執行程式碼的重大漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "新光三越疑遭外部入侵，約2萬名顧客個資受影響，已通報主管機關",
+        "link": "https://www.ithome.com.tw/news/180011",
+        "pubDate": "2026-10-28 10:53",
+        "description": "新光三越近日揭露發生資安事件，該公司先前透過內部資安監測機制發現資訊系統異常，疑似遭外部不法入侵。經初步清查，部分宅配訂單顧客的姓名、地址及聯絡電話受到影響，目前已通知受影響顧客、通報主管機關，並配合警方展開調查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "天良接獲消費者反映個資疑似外洩，委外平臺資料庫遭自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/180010",
+        "pubDate": "2026-10-28 10:40",
+        "description": "生技公司天良（4127）近日接獲消費者反映疑似個資外洩，原因可能與委外服務平臺業者的資料庫遭自動化攻擊有關，部分資訊遭非法擷取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "高林購物網站委由91APP建置的系統遭自動化攻擊，會員訂單資料恐被擷取",
+        "link": "https://www.ithome.com.tw/news/180007",
+        "pubDate": "2026-10-28 10:23",
+        "description": "服飾與紡織相關產品代理商高林（2906）發布資安重訊，其購物網站的訂單系統資料庫遭自動化攻擊，部分資訊遭非法擷取。高林表示，近期陸續接獲會員反映收到冒用公司名義的詐騙郵件，部分會員訂單相關資料可能受到影響",
         "source": "iThome資安"
       },
       {
@@ -17,13 +101,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "AI代理為完成任務卻外洩企業資料，逾1.3萬個內部檔案遭公開至GitHub",
-        "link": "https://www.ithome.com.tw/news/179997",
-        "pubDate": "2026-10-28 08:00",
-        "description": "Glow Labs發現，AI程式開發代理為完成GitHub拉取請求的圖片附加工作，自行將企業內部截圖上傳至公開儲存庫，導致企業內部資料外洩。研究人員找到來自逾300個組織的1.3萬多個檔案，分布於900多個GitHub公開儲存庫，其中不少存放於員工個人帳號，使企業更難察覺",
-        "source": "iThome資安"
-      },
-      {
         "title": "Linux基金會調查揭資料基礎架構風險，資安漏洞居首",
         "link": "https://www.ithome.com.tw/news/179922",
         "pubDate": "2026-10-28 08:00",
@@ -31,98 +108,70 @@
         "source": "iThome資安"
       },
       {
-        "title": "HPE修補網路作業系統ArubaOS 72個漏洞，含8個CVSS滿分重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180002",
-        "pubDate": "2026-10-27 18:54",
-        "description": "相關漏洞影響AOS-8與AOS-10多個版本，涵蓋身分驗證繞過、命令注入及SQL注入等問題，可能導致遠端攻擊者執行任意程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "雲端平臺Railway客戶環境變數遭解密，駭客疑鎖定AI服務金鑰",
-        "link": "https://www.ithome.com.tw/news/179996",
-        "pubDate": "2026-10-27 18:20",
-        "description": "駭客取得雲端平臺Railway的CI環境憑證，解密部分客戶的環境變數，約10萬個工作空間可能受影響，攻擊者疑似鎖定AI服務金鑰，Railway已協調撤銷相關金鑰，並敦促使用者更換敏感憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本GMO旗下Onamae雲端桌面日前遭駭，證券及外匯交易帳戶傳異常，最新公告緊急要求用戶斷網關機",
-        "link": "https://www.ithome.com.tw/news/179994",
-        "pubDate": "2026-10-27 18:03",
-        "description": "日本GMO Internet旗下雲端桌面服務遭駭，不僅多名用戶的證券與外匯帳戶遭到不明操作，更傳出資料外洩與勒索威脅，最新消息更是指出，為防堵駭客發動勒索軟體攻擊，該公司於今日（10月27日）罕見要求客戶全面斷網關機，並調查曾連接雲端桌面服務的客戶電腦是否遭植入惡意程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "預防SBOM清單也可能遭竄改，歐盟ENISA發布技術指南，提出生命週期安全防護建議",
-        "link": "https://www.ithome.com.tw/news/179980",
-        "pubDate": "2026-10-27 15:19",
-        "description": "因應歐盟CRA推動導入軟體物料清單導入，ENISA發布SBOM技術指南，提出涵蓋產生、驗證、簽署、儲存、使用及維護的六階段管理流程，建議整合至CI/CD，並整理各環節可用的開源工具，另也針對SBOM可能面臨的竄改、資訊洩漏等安全風險提出防護建議，協助企業強化清單的完整性與可信度",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月27日，91APP遭駭事件查出ARTEX攻擊痕跡，顯示不只日韓，臺灣也出現相關攻擊案例",
-        "link": "https://www.ithome.com.tw/news/179981",
-        "pubDate": "2026-10-27 15:00",
-        "description": "91APP於10月22日公布遭駭事件調查結果，指出攻擊者利用未及時修補的Appsmith漏洞入侵內部系統，非法存取Commerce Cloud訂單資料，調查中也發現ARTEX AI自動化攻擊工具的痕跡，91APP指出，同類工具近期也被用於多國攻擊活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "阿里巴巴Qwen模型異常嘗試向北京上傳資料，推理紀錄卻稱不呼叫工具",
-        "link": "https://www.ithome.com.tw/news/179978",
-        "pubDate": "2026-10-27 14:30",
-        "description": "阿里巴巴Qwen模型在資安測試中，自行檢查系統並試圖向北京的阿里雲儲存空間上傳資料，推理紀錄卻聲稱不會呼叫工具，雖然連線最後遭沙箱阻擋，卻也凸顯企業不能只依賴推理紀錄監控AI代理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國警方偵破利用ARTEX發動攻擊的嫌犯，涉及入侵逾90家機構、竊取820萬筆個資",
-        "link": "https://www.ithome.com.tw/news/179973",
-        "pubDate": "2026-10-27 12:39",
-        "description": "首爾警方宣布破獲一起利用ARTEX的大規模網路攻擊案件，經查嫌犯自今年8月底導入這套開源AI滲透測試框架加速攻擊，短短44天內便入侵60家企業；當地警方警告，此案突顯AI已顯著降低網路攻擊的技術門檻，讓單一攻擊者也能具備對大量企業發動大規模連鎖侵害的能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全球四大會計師事務所之一的PwC證實遭駭，Everest聲稱竊得590GB資料",
-        "link": "https://www.ithome.com.tw/news/179976",
-        "pubDate": "2026-10-27 12:38",
-        "description": "PwC證實三方廠商資安事件涉及其員工學習紀錄，強調未影響自身網路與營運，駭客聲稱竊得資料仍未獲證實",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Brotli解壓縮漏洞也影響.NET，微軟緊急發布臨時更新修補",
-        "link": "https://www.ithome.com.tw/news/179970",
-        "pubDate": "2026-10-27 12:33",
-        "description": "微軟發布.NET臨時更新，修補可能在解壓縮惡意Brotli資料時造成記憶體損壞的漏洞，同時修補10月13日安全更新未完整處理的另兩項漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國CISA警告PHP2Shell遭到積極利用",
-        "link": "https://www.ithome.com.tw/news/179975",
-        "pubDate": "2026-10-27 12:31",
-        "description": "本週美國網路安全與基礎設施安全局（CISA）警告，震驚全球的PHP重大漏洞PHP2Shell（CVE-2026-109618、CVE-2026-109619），已被積極利用，聯邦機構需緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Arista旗下SD-WAN集中管理平臺VCO零時差漏洞已遭積極利用",
-        "link": "https://www.ithome.com.tw/news/179972",
-        "pubDate": "2026-10-27 11:55",
-        "description": "上週Arista針對SD-WAN集中管理平臺VeloCloud Orchestrator（VCO）重大漏洞CVE-2026-114625提出警告，並指出已遭積極利用，後續美國網路安全與基礎設施安全局（CISA）也掌握相關證據，要求聯邦機構緊急採取行動因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI新模型GPT-6.1 Terra強化視覺與電腦操作，API價格僅Sol一半",
-        "link": "https://www.ithome.com.tw/news/179985",
-        "pubDate": "2026-10-27  04:10:51",
-        "description": "OpenAI推出GPT-6.1 Terra，強化視覺判讀與電腦操作能力，讓AI代理能以較低成本執行日常工作。新模型的標準API輸入與輸出價格均為GPT-6.1 Sol的一半，現已開放開發者使用，並提供給ChatGPT Work與Codex的付費用戶。",
+        "title": "Cloudflare AI服務快取出錯，155次GLM-5.3回答混入他人資料",
+        "link": "https://www.ithome.com.tw/news/180015",
+        "pubDate": "2026-10-28  12:10:26",
+        "description": "Cloudflare公布旗下AI服務Workers AI的資料外洩調查結果，指出8月27日至9月9日期間，GLM-5.3模型共有155次回應混入其他客戶的資料。問題發生在處理特別長的輸入內容時，Cloudflare已於9月9日完成修復，確認其他Workers AI模型未受影響，也沒有發現有人蓄意利用漏洞的證據。",
         "source": "iThome"
       },
       {
-        "title": "四大金融機構聯手博通，提供630億美元融資助Anthropic擴充AI算力",
-        "link": "https://www.ithome.com.tw/news/179979",
-        "pubDate": "2026-10-27  02:10:35",
-        "description": "美國銀行（Bank of America）、黑石集團（Blackstone）、花旗集團（Citi）及摩根士丹利（Morgan Stanley）周一（10/26）聯合宣布，將與晶片大廠博通（Broadcom）合作，推出總額630億美元的融資方案，協助AI新創Anthropic擴充運算容量。這項交易將透過特殊目的公司購買博通AI晶片及網路設備，再出租給Anthropic使用，預計2027年開始交付。",
+        "title": "Amazon修訂軟體工程師職務指引，強調AI時代應重成果而非Token用量",
+        "link": "https://www.ithome.com.tw/news/180025",
+        "pubDate": "2026-10-28  12:10:24",
+        "description": "Amazon周二（10/27）公布新版軟體開發工程師（SDE）職務指引，重新界定AI時代工程師的角色與工作要求。Amazon強調，儘管AI正快速改變軟體開發方式，衡量工程師表現仍應以實際工作成果為主，而非AI工具採用率、Token用量或程式碼數量。",
+        "source": "iThome"
+      },
+      {
+        "title": "蘋果擴大M6產品線，推出新款MacBook Pro與iMac",
+        "link": "https://www.ithome.com.tw/news/180013",
+        "pubDate": "2026-10-28  11:10:26",
+        "description": "蘋果（Apple）周二（10/27）宣布推出搭載M6晶片的14吋MacBook Pro及24吋iMac，主要升級運算效能、AI處理能力及連線規格，外觀設計則延續上一代。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google變更用戶條款，可能使用Gmail、Drive內容發送個人化廣告",
+        "link": "https://www.ithome.com.tw/news/180012",
+        "pubDate": "2026-10-28  10:10:52",
+        "description": "Google上周更新服務條款，以便利用用戶Gmail、Drive和相片內容發送個人化廣告。",
+        "source": "iThome"
+      },
+      {
+        "title": "Anthropic揭露收購Mithril Medicine，公布自有藥物研發進展",
+        "link": "https://www.ithome.com.tw/news/180028",
+        "pubDate": "2026-10-28  02:10:15",
+        "description": "Anthropic公布自有藥物研發進展，揭露已在7月收購生技新創Mithril Medicine，將兩項針對罕見兒童肌肉失養症的藥物研發計畫納入內部。除了與藥廠合作，提供Claude協助新藥設計，Anthropic也開始自行投入新藥研發。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "Anthropic 主管停考程式面試、Snowflake 新聘七至八成是初階工程師：AI 時代新人反而更搶手？",
+        "link": "https://techorange.com/2026/10/28/anthropic-hunger-beats-tenure-advice-junior-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 28 Oct 2026 13:05:53 +0800",
+        "description": "近日，AI 公司 Anthropic 工程經理 Felix Rieseberg 發表文章表示，他已不再於招募時使用傳統程式面試，並認為在 AI 時代，相對新進的工程師同樣有機會做出成果、超越年資更久的同事。資料與 AI 平台 Snowflake 工程資深副總裁 Vivek Raghunathan 先前也在《Fast Company》撰文指出，Snowflake 目前的招募名額中，初階工程師占 70% 至 80%，因為若淘汰初階工程師，未來將不會有兼具判斷力、直覺，並扎實理解 AI 原生開發方式的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Anduril 聯手高通推「美國造」筆電 BlueChip，晶片擬交台積電亞利桑那廠，面板等零件仍是缺口",
+        "link": "https://techorange.com/2026/10/28/anduril-qualcomm-bluechip-us-made-laptop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 28 Oct 2026 12:48:26 +0800",
+        "description": "以軍用無人機與 AI 軟體聞名的美國國防科技公司 Anduril，在美國時間 10 月 27 日與高通（Qualcomm）宣布推出電腦產品線 BlueChip，首款產品是在美國設計、組裝的強固型筆電，鎖定政府、國防、第一線救難與公共安全單位，預計 2027 年開始接單。Anduril 稱，以零組件採購成本計算，原型機約 32% 來自美國本土，加上盟國供應商則超過 90%；Anduril 創辦人 Palmer Luckey 也坦言：「我認為，我們出貨的產品很可能不會是 100% 美國製。」 And",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google 推 Genie 4 邁向「混合式世界模型」，為何生成虛擬世界還要加入 Gemini？",
+        "link": "https://techorange.com/2026/10/28/google-deepmind-genie-4-world-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 28 Oct 2026 11:20:43 +0800",
+        "description": "AI 不只能生成圖片、影片，還能創造一個可以走進去探索、即時改變場景的虛擬世界。Google DeepMind 在美國時間 10/27 發表新一代世界模型（World Model）Genie 4，不只提升虛擬環境的真實感，還能同步生成聲音、模擬人物行動，讓使用者在探索過程中持續改變場景。 更值得注意的是，Google 這次讓 Gemini 參與世界模擬，利用大型語言模型的推理能力，協助規劃、追蹤複雜事件的發展。這也是 Google 朝「混合式世界模型」（Hybrid World Models）邁",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【token 變便宜，AI 帳單反而更貴】代理成本 2028 年前增逾 5 倍，Gartner 建議企業為推論分級",
+        "link": "https://techorange.com/2026/10/28/agent-costs-will-rise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 28 Oct 2026 10:33:20 +0800",
+        "description": "token 越來越便宜，企業的 AI 帳單卻可能越來越貴。市場研究機構 Gartner 預測，token 成本到 2030 年將下降 95%，但代理式工作流程的推論成本，到 2028 年卻將成長超過 5 倍。 Gartner 把這個現象稱為「推論悖論」（Inference Paradox）。不少企業以為 token 單價下降，AI 成本也會跟著降低，但 AI 代理人正在打破這個假設。 token 變便宜，代理人卻讓成本變高 推論悖論的第一個成因，在於模型實驗室。Gartner 分析師 Will ",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】Meta AI 投資有多燒錢？擬籌 950 億美元，4 座超大型算力園區同步興建",
         "link": "https://techorange.com/2026/10/28/meta-ai-funding-data-centers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -199,37 +248,37 @@
         "pubDate": "Sat, 24 Oct 2026 06:29:00 +0800",
         "description": "英特爾（Intel）發布《機器人準備度差距報告》（The Robotics Readiness Gap Report），研究深入調查全球 800 位來自美國、中國、德國、日本、英國與韓國的企業高管、資訊科技（IT）主管，以及機器人專家；涵蓋製造業、零售業、醫療保健、國防與智慧城市等五大重要產業。 報告指出，過去大家印象中的機器人，大多是固定在工廠某個位置、只能重複做同一種動作的傳統自動化機械；但現在結合了生成式 AI 與感測技術後，機器人正快速演變為具備現場感測、獨立思考與隨機應變能力的「實體 ",
         "source": "TechOrange"
-      },
-      {
-        "title": "美國限制外國機器人反傷本土市場？IDC 估人形機器人 2030 年營收較預期少 58%",
-        "link": "https://techorange.com/2026/10/23/fcc-grants-intel-waiver-foreign-made-robotic-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 16:28:17 +0800",
-        "description": "美國聯邦通訊委員會（FCC）限制外國製造的先進機器人新機型進入美國市場，可能對美國人形機器人市場造成衝擊。《Forbes》近日報導指出，這項規定原本是為了保護美國機器人產業，但根據市場研究機構 IDC 的最新研究，人形機器人反而會是受衝擊最大的類別。IDC 預測，到 2030 年，美國人形機器人市場的營收將比未實施限制的基準情境低 58%；相較之下，家用清潔機器人的差距則為 18%。 IDC 指出，這項政策可能改變全球機器人產品的流向。中國業者可能將更多產品轉向歐洲等市場，美國則可能面臨機器人營",
-        "source": "TechOrange"
-      },
-      {
-        "title": "華為與 DeepSeek 聯手挑戰 NVIDIA，SemiAnalysis 實測：軟體接近前沿、硬體仍落後",
-        "link": "https://techorange.com/2026/10/23/huawei-deepseek-ascend/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 15:57:25 +0800",
-        "description": "中國 AI 新創 DeepSeek（深度求索）在 9 月 30 日為 6 個儲存庫釋出華為昇騰（Ascend）晶片支援，涵蓋 DeepGEMM、FlashMLA 等自家工具，以及第三方開源框架 TileLang。其中部分工具在 2025 年 DeepSeek「開源週」釋出時，只支援 NVIDIA 晶片。半導體研究機構 SemiAnalysis 在 10 月 21 日發布的報告中，以這次更新為例，分析華為與 DeepSeek 之間的互補關係，並實測華為的 Ascend 950PR，結論是：以 NV",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI Agent 遇到登入畫面就卡關？1Password 推免交密碼新機制，串接 Meta、OpenAI",
-        "link": "https://techorange.com/2026/10/23/1password-for-agents-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 13:20:32 +0800",
-        "description": "當使用者要求 AI Agent（AI 代理）安排活動、管理行程或處理工作任務時，Agent 可能需要登入多個網站。然而，一旦遇到登入畫面，使用者往往得接手輸入帳號密碼，或直接將密碼提供給 Agent；前者中斷自動化流程，後者則可能使敏感憑證暴露於 AI 模型及相關系統。 為解決這項難題，密碼管理業者 1Password 宣布推出 1Password for Agents，讓 AI Agent 在使用者核准後代為登入網站，卻不必直接取得帳號密碼，並將這項能力擴展至 Meta、OpenAI、Anth",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Hugging Face 推出開源模型 Carbon-X：DNA 基準測試逼近 GPT-6.1 Sol、成本估僅 1/1,800",
-        "link": "https://techorange.com/2026/10/23/hugging-face-bio-carbon-x-dna/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 23 Oct 2026 12:36:15 +0800",
-        "description": "AI 模型分享與開發平台 Hugging Face 近日推出開源 AI 模型 Carbon-X，讓研究人員能貼上 DNA 序列，以自然語言提出問題，並取得模型的解讀、預測或說明。Hugging Face 資深研究科學家 Lewis Tunstall 接受《Business Insider》採訪時表示，Carbon-X 是「首創」的模型，結合 DNA 分析與自然語言，讓研究人員基本上可以「與 DNA 對話」。 Carbon-X 由 Hugging Face、中國中關村學院（Zhongguancun",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+        "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+        "pubDate": "Wed, 28 Oct 2026 12:43:21 +0530",
+        "description": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand.\n\nThe reward program opened on October 28 and pays on",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+        "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+        "pubDate": "Wed, 28 Oct 2026 11:50:37 +0530",
+        "description": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch.\n\nThe flaws are in how Tailscale SSH forwards network ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+        "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+        "pubDate": "Wed, 28 Oct 2026 11:34:58 +0530",
+        "description": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week.\n\nOracle patched all three under a single identifier, CVE-2026-35273, in June. Its",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+        "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+        "pubDate": "Wed, 28 Oct 2026 11:12:26 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of a",
+        "source": "TheHackerNews"
+      },
       {
         "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
         "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
@@ -341,37 +390,16 @@
         "pubDate": "Tue, 27 Oct 2026 12:04:47 +0530",
         "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua.\n\n\"Cases of compromising IP cameras and DVRs with access to the video stream, chan",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-        "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-        "pubDate": "Tue, 27 Oct 2026 10:09:46 -0400",
-        "description": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-        "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-        "pubDate": "Tue, 27 Oct 2026 10:07:59 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog.\n\nThe PHP vulnerabilities, both rated",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-        "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-        "pubDate": "Tue, 27 Oct 2026 10:01:11 -0400",
-        "description": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest, highlighting which",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-        "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-        "pubDate": "Tue, 27 Oct 2026 06:36:12 -0400",
-        "description": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Jio shares surge 21% in market debut after blockbuster India IPO",
+        "link": "https://techcrunch.com/2026/10/27/jio-shares-surge-21-in-market-debut-after-blockbuster-india-ipo/",
+        "pubDate": "Wed, 28 Oct 2026 05:20:32 +0000",
+        "description": "Jio has debuted as India's second-most valuable listed company, behind its parent, Reliance Industries.",
+        "source": "TechCrunch"
+      },
       {
         "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
         "link": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
@@ -471,13 +499,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-        "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-        "pubDate": "Tue, 27 Oct 2026 14:51:33 +0000",
-        "description": "Ford is rolling out two new chargers capable of powering a home or the grid — so-called V2X capability.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Here’s why the iPhone Duo’s hinge could be cracking the screen",
         "link": "https://www.theverge.com/tech/1020145/iphone-duo-crackgate-broken-screen-hinge",
         "pubDate": "2026-10-27T18:55:05-04:00",
@@ -515,9 +536,29 @@
     ],
     "cve": [
       {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261028",
+        "pubDate": "Wed, 28 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Products"
+      },
+      {
+        "title": "Veeam Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/veeam-products-multiple-vulnerabilities_20261028",
+        "pubDate": "Wed, 28 Oct 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Veeam Products"
+      },
+      {
         "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261021",
-        "pubDate": "Wed, 21 Oct 2026 11:00:00 +0800",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261028",
+        "pubDate": "Wed, 28 Oct 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
@@ -525,14 +566,14 @@
         "products": "Google Chrome"
       },
       {
-        "title": "Nginx Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261021",
-        "pubDate": "Wed, 21 Oct 2026 09:00:00 +0800",
+        "title": "Google Brotli Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/google-brotli-remote-code-execution-vulnerability_20261028",
+        "pubDate": "Wed, 28 Oct 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Nginx"
+        "products": "Google Brotli Remote Code Execution Vulnerability"
       },
       {
         "title": "Apple Products Multiple Vulnerabilities",
@@ -563,16 +604,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Microsoft Edge"
-      },
-      {
-        "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261022",
-        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Products"
       },
       {
         "title": "Oracle Java Security Restriction Bypass Vulnerability",
@@ -613,26 +644,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "PHP"
-      },
-      {
-        "title": "Splunk Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261022",
-        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Splunk Products"
-      },
-      {
-        "title": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation",
-        "link": "https://www.hkcert.org/blog/hkcert-warns-of-critical-php2shell-vulnerabilities-businesses-must-immediately-review-and-patch-php-systems-ai-accelerates-cyber-attacks-and-defence-further-shortening-the-response-window-between-vulnerability-disclosure-and-exploitation",
-        "pubDate": "Thu, 22 Oct 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation"
       },
       {
         "title": "Aruba Products Multiple Vulnerabilities",
