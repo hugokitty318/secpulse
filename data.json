@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-29T18:25:29.742484Z",
+  "ts": "2026-10-29T22:57:38.172712Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,13 +259,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-        "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-        "pubDate": "Wed, 28 Oct 2026 22:38:09 +0530",
-        "description": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background.\n\nTo qualify, a store must pass identity checks and send Google its",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
         "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
         "pubDate": "Wed, 28 Oct 2026 16:47:22 -0400",
@@ -284,48 +277,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
         "pubDate": "Wed, 28 Oct 2026 12:45:47 -0400",
         "description": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-        "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-        "pubDate": "Wed, 28 Oct 2026 12:00:00 -0400",
-        "description": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
-        "pubDate": "Wed, 28 Oct 2026 10:48:32 -0400",
-        "description": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
-        "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
-        "pubDate": "Wed, 28 Oct 2026 10:00:00 -0400",
-        "description": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at risk. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
-        "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
-        "pubDate": "Wed, 28 Oct 2026 09:50:59 -0400",
-        "description": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as fixing vul",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-        "pubDate": "Wed, 28 Oct 2026 08:19:57 -0400",
-        "description": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-        "pubDate": "Wed, 28 Oct 2026 06:46:23 -0400",
-        "description": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -350,6 +301,34 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Binance probes potential $5.8 billion crypto-theft hack",
+        "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+        "pubDate": "Thu, 29 Oct 2026 18:45:23 -0400",
+        "description": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+        "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+        "pubDate": "Thu, 29 Oct 2026 18:09:24 -0400",
+        "description": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI co",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+        "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+        "pubDate": "Thu, 29 Oct 2026 18:08:04 -0400",
+        "description": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+        "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+        "pubDate": "Thu, 29 Oct 2026 17:47:25 -0400",
+        "description": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
         "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
         "pubDate": "Thu, 29 Oct 2026 17:09:41 +0530",
@@ -360,7 +339,7 @@
         "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
         "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
         "pubDate": "Thu, 29 Oct 2026 17:09:18 +0530",
-        "description": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account. Telegram fixed the flaw in ve",
+        "description": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account",
         "source": "TheHackerNews"
       },
       {
@@ -390,28 +369,105 @@
         "pubDate": "Thu, 29 Oct 2026 15:56:33 +0530",
         "description": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.\n\n\"The firewall inspects both metadata requests and package downloads for signs of malicious acti",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+        "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+        "pubDate": "Thu, 29 Oct 2026 15:23:41 -0400",
+        "description": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+        "pubDate": "Thu, 29 Oct 2026 14:38:26 -0400",
+        "description": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
+        "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
+        "pubDate": "Thu, 29 Oct 2026 14:35:39 +0530",
+        "description": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.\n\nThe flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run co",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Upwind raises $400M after walking away from Datadog acquisition offer",
-        "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
-        "pubDate": "Wed, 28 Oct 2026 23:15:00 +0000",
-        "description": "The cloud security startup raised a Series C at a $3.8B valuation, instead of selling itself for the same price.",
+        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
+        "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
+        "pubDate": "Thu, 29 Oct 2026 22:27:23 +0000",
+        "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple’s touchscreen MacBook Pro pushes laptop pricing to a new extreme",
-        "link": "https://techcrunch.com/2026/10/28/apples-touchscreen-macbook-pro-pushes-laptop-pricing-to-a-new-extreme/",
-        "pubDate": "Wed, 28 Oct 2026 22:47:50 +0000",
-        "description": "Prepare to cough up around $14,549 if you want the new touchscreen MacBook Pro to have every upgrade.",
+        "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
+        "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
+        "pubDate": "Thu, 29 Oct 2026 21:51:29 +0000",
+        "description": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
-        "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
-        "pubDate": "Wed, 28 Oct 2026 21:58:32 +0000",
-        "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
+        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
+        "pubDate": "Thu, 29 Oct 2026 21:20:47 +0000",
+        "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "GM reaches $220M settlement over selling drivers’ private data",
+        "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
+        "pubDate": "Thu, 29 Oct 2026 21:01:04 +0000",
+        "description": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+        "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
+        "pubDate": "Thu, 29 Oct 2026 20:43:56 +0000",
+        "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
+        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
+        "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
+        "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian expands joint venture with VW to include AI assistant",
+        "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
+        "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
+        "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The R2 SUV is already Rivian’s best-selling vehicle",
+        "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
+        "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
+        "description": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI-backed Thrive Holdings acquires ADT",
+        "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
+        "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
+        "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
+        "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
+        "pubDate": "Thu, 29 Oct 2026 19:17:49 +0000",
+        "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta quietly launches an AI fashion app called Style Sketch",
+        "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
+        "pubDate": "Thu, 29 Oct 2026 19:14:36 +0000",
+        "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
         "source": "TechCrunch"
       },
       {
@@ -443,94 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "SuperMe raises $20M for its network of AI expert profiles",
-        "link": "https://techcrunch.com/2026/10/29/superme-raises-20m-for-its-network-of-ai-expert-profiles/",
-        "pubDate": "Thu, 29 Oct 2026 16:19:43 +0000",
-        "description": "SuperMe is a network of AI profiles built from the knowledge of real-life experts. When you ask a question, the platform determines which experts are best suited to answer and creates a group chat with their AI profiles.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Agent identity startup Mintive lands Cowboy Ventures, Coatue, angels Jeff Dean, Andrej Karpathy",
-        "link": "https://techcrunch.com/2026/10/29/agent-identity-startup-mintive-lands-cowboy-ventures-coatue-angels-jeff-dean-andrej-karpathy/",
-        "pubDate": "Thu, 29 Oct 2026 15:00:00 +0000",
-        "description": "Mintive was founded by two engineers who have been working on AI for decades through Google Brain and Coursera. It's platform promises to help IT easily control enterprise agents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
-        "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
-        "pubDate": "Thu, 29 Oct 2026 14:35:26 +0000",
-        "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Bluesky blocks links to leaked DHS employee data as government seeks takedowns",
-        "link": "https://techcrunch.com/2026/10/29/bluesky-blocks-links-to-leaked-dhs-employee-data-as-government-seeks-takedowns/",
-        "pubDate": "Thu, 29 Oct 2026 13:43:53 +0000",
-        "description": "The social networking site is facing criticism for blocking access to the site, which identifies thousands of ICE agents and other employees working for Homeland Security.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "DoorDash to acquire Instacart for $17B",
-        "link": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
-        "pubDate": "Thu, 29 Oct 2026 13:40:57 +0000",
-        "description": "The acquisition would bring two major players in on-demand delivery under one roof, combining DoorDash’s dominance in restaurant takeout with Instacart’s reach in grocery delivery.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
-        "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
-        "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-        "description": "With Pipecat, Deepgram will likely gain a deeper understanding of real-time voice and video infrastructure.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon updates Alexa to help you manage shopping lists and subscriptions and update delivery instructions",
-        "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-update-delivery-instructions/",
-        "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-        "description": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Who will you learn from in 6 days at TechCrunch Founder Summit? Meet the founders and investors taking the stages",
-        "link": "https://techcrunch.com/2026/10/29/who-will-you-learn-from-in-6-days-at-techcrunch-founder-summit-meet-the-founders-and-investors-taking-the-stage/",
-        "pubDate": "Thu, 29 Oct 2026 13:00:00 +0000",
-        "description": "Six days from now, on November 4, TechCrunch Founder Summit brings experienced founders, investors, and operators to Boston to share the decisions, mistakes, pivots, and lessons that shaped their companies. Register before it starts for ticket saving",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-        "link": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-        "pubDate": "2026-10-29T14:18:36-04:00",
-        "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sal",
+        "title": "Patrick Stewart has died at age 86",
+        "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
+        "pubDate": "2026-10-29T16:10:02-04:00",
+        "description": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Di",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s new laptop supports one of the coolest features for color pros",
-        "link": "https://www.theverge.com/1022347/apple-macbook-supports-new-cmf",
-        "pubDate": "2026-10-29T13:48:09-04:00",
-        "description": "The new MacBook Pro brings with it a bunch of firsts for Apple laptops, the two flashiest being an OLED display and touchscreen functionality. But as an image-accuracy enthusiast, trained calibrator, and resident display expert, what excites me most ",
+        "title": "Reddit will force everyone to log in",
+        "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
+        "pubDate": "2026-10-29T16:07:00-04:00",
+        "description": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I",
         "source": "TheVerge"
       },
       {
-        "title": "Utah charges Kalshi and its CEO with illegally promoting online gambling",
-        "link": "https://www.theverge.com/policy/1022400/utah-kalshi-criminal-charges",
-        "pubDate": "2026-10-29T13:40:23-04:00",
-        "description": "Utah has filed criminal charges against Kalshi and its executives, accusing the prediction market of breaking anti-gambling laws, as reported by The Salt Lake Tribune and the Associated Press. The state has filed 14 charges against Kalshi, as well as",
+        "title": "Rivian’s R2 is officially its best-selling vehicle",
+        "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
+        "pubDate": "2026-10-29T16:02:00-04:00",
+        "description": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other E",
         "source": "TheVerge"
       },
       {
-        "title": "Data centers could send US climate pollution skyrocketing",
-        "link": "https://www.theverge.com/science/1022258/data-centers-climate-change-carbon-dioxide-pollution-gas",
-        "pubDate": "2026-10-29T13:10:46-04:00",
-        "description": "The US power sector could release 42 percent more planet-heating carbon dioxide pollution by 2030 than it did in 2025 as it builds out more fossil fuel infrastructure to meet data center electricity demand, according to a new analysis by the Sierra C",
+        "title": "GM to pay $220 million to resolve claims it sold driving habits data",
+        "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
+        "pubDate": "2026-10-29T15:19:28-04:00",
+        "description": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys gener",
         "source": "TheVerge"
       },
       {
-        "title": "This open-source project lets you sync Withings data to other apps without a subscription",
-        "link": "https://www.theverge.com/tech/1022214/yourownweigh-sync-withings-smart-scale-data-wireless-web-app-free",
-        "pubDate": "2026-10-29T12:14:06-04:00",
-        "description": "When it was revealed earlier this month that Withings would require new users to subscribe to a Withings Plus subscription to sync heath data from the company's devices to third-party apps, Tom Anthony, who was already fed up with the Withings mobile",
+        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+        "pubDate": "2026-10-29T14:45:31-04:00",
+        "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while P",
         "source": "TheVerge"
       }
     ],
