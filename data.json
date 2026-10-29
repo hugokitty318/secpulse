@@ -1,132 +1,146 @@
 {
-  "ts": "2026-10-28T23:59:09.735396Z",
+  "ts": "2026-10-29T05:40:23.102416Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "macOS 27.2未修補eMudhra憑證風險，Git與curl仍可能遭中間人攻擊",
+        "link": "https://www.ithome.com.tw/news/180061",
+        "pubDate": "2026-10-29 12:39",
+        "description": "Apple雖已在Safari封鎖eMudhra問題憑證，但macOS 27.2的Git與curl等工具仍可能誤信冒名網站，導致程式碼下載遭竄改，系統更新還可能使手動修正失效",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP2Shell漏洞影響多家IT與OT廠商的產品，相關公告陸續出爐",
+        "link": "https://www.ithome.com.tw/news/180047",
+        "pubDate": "2026-10-29 12:38",
+        "description": "10月下半爆發的PHP2Shell漏洞，由於全球有高達7成網站伺服器暴露在此批重大漏洞的風險中，而備受關注，然而，許多市售的IT與OT系統也採用存在PHP2Shell漏洞的PHP版本，目前已知影響範圍到底有多廣？我們可以從廠商近期的公告得知",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客Volt Typhoon綁架連網設備打造攻擊框架Silent Train，用於攻擊美國關鍵基礎設施",
+        "link": "https://www.ithome.com.tw/news/180063",
+        "pubDate": "2026-10-29 12:24",
+        "description": "電信公司Lumen揭露可隱匿攻擊活動的框架Silent Train，中國駭客組織Volt Typhoon透過遭入侵的SOHO裝置、物聯網裝置，以及企業基礎設施建立多層架構的系統，用來轉送攻擊流量，藉此攻擊多種美國關鍵基礎設施，其中包含至少4次零時差漏洞攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國制裁北韓遠端IT工作詐騙網絡，鎖定俄羅斯洗錢中間人",
+        "link": "https://www.ithome.com.tw/news/180060",
+        "pubDate": "2026-10-29 12:04",
+        "description": "美國財政部宣布制裁10名個人及1個實體，指控涉及北韓政府海外IT工作詐騙活動，並透過加密貨幣轉移數百萬美元所得",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Adobe發布10月下半更新，修補8個Campaign Classic重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180059",
+        "pubDate": "2026-10-29 11:49",
+        "description": "本週Adobe針對Campaign Classic、Adobe Connect、Creative Cloud等4種應用系統提供更新，其中Campaign Classic修補8個重大漏洞最受到關注，有4個CVSS評分更達到了9.9",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA提供兩款免費工具，協助檢測M365與Google Workspace的安全設定錯誤",
+        "link": "https://www.ithome.com.tw/news/180058",
+        "pubDate": "2026-10-29 11:12",
+        "description": "ScubaGear與ScubaGoggles可基於CISA安全基準，比對用戶雲端環境設定並產出評估報告，協助管理者找出防護缺口",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Sony日本ISP、保險業務系統被駭，外洩258萬會員、38.5萬保戶個資",
+        "link": "https://www.ithome.com.tw/news/180057",
+        "pubDate": "2026-10-29 11:04",
+        "description": "Sony旗下日本網路服務與保險業務接連傳出資安事件，So-net及plala遭駭，超過258萬筆會員資料外洩，Sony生命保險也傳出約38.5萬筆保險契約相關個資外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Linux核心、VMware ESX漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180055",
+        "pubDate": "2026-10-29 10:51",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，他們掌握Linux核心漏洞CVE-2026-46300（Fragnesia）、VMware ESX漏洞CVE-2026-41709遭積極利用，將它們加入已遭利用漏洞名單（KEV）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客宣稱竊走美國土安全部員工資料超過4萬筆",
+        "link": "https://www.ithome.com.tw/news/180054",
+        "pubDate": "2026-10-29 10:42",
+        "description": "美國國土安全部傳出大規模人員資料外洩，駭客宣稱竊得超過4萬筆資料，除了員工個資，還包含內部系統與應用程式的存取資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "汽車零配件製造商橙的遭勒索軟體攻擊",
+        "link": "https://www.ithome.com.tw/news/180053",
+        "pubDate": "2026-10-29 10:23",
+        "description": "汽車零配件製造商橙的（4554）部分區域網路儲存設備遭受勒索病毒攻擊，該公司已啟動防禦機制因應，初步評估事件不致對整體營運造成重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Harmonic Security募資5,000萬美元，擴大AI代理安全治理",
+        "link": "https://www.ithome.com.tw/news/179945",
+        "pubDate": "2026-10-29 08:00",
+        "description": "企業使用AI的方式，正從員工操作AI工具，逐步擴展至AI代理自主執行任務，資安管控也面臨新挑戰。Harmonic Security完成B輪融資，累計募資達7,600萬美元，並將原本針對員工使用AI的敏感資料防護，延伸至AI代理的系統存取與操作權限管理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA公布2030戰略，轉向積極防禦並優先保護關鍵基礎設施",
+        "link": "https://www.ithome.com.tw/news/179974",
+        "pubDate": "2026-10-29 08:00",
+        "description": "美國CISA公布2030年資安戰略，將從被動防禦轉向更積極的威脅偵測與排除，並根據風險及事故可能造成的後果，優先保護關鍵基礎設施。新戰略也將著重OT安全、軟體供應鏈防護及重大事故期間的通訊韌性",
+        "source": "iThome資安"
+      },
+      {
+        "title": "法國超市遭駭引發關注，研究人員發現全球99國近1.3萬筆冷藏管理服務暴露於公開網路",
+        "link": "https://www.ithome.com.tw/news/180019",
+        "pubDate": "2026-10-29 08:00",
+        "description": "法國超市冷藏設備遭駭後，一項全球調查發現，99個國家與地區有近1.3萬筆冷藏管理服務暴露於公開網路的紀錄，部分設備還使用存在已知漏洞的舊版韌體，可能增加冷藏設備遭到未經授權存取的風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "逾850個GitHub帳號遭入侵，駭客發動Gheist攻擊植入惡意工作流程企圖竊密",
+        "link": "https://www.ithome.com.tw/news/179977",
+        "pubDate": "2026-10-29 08:00",
+        "description": "資安業者Wiz揭露Gheist攻擊活動，駭客濫用遭竊的GitHub權杖，在儲存庫植入惡意GitHub Actions工作流程，企圖竊取機密資料。GitHub針對公開儲存庫的新防護機制已阻止研究人員檢查的惡意工作流程執行，但部分企業環境仍發現成功執行的紀錄",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitHub發表能在單一任務內跨模型協同的Copilot Fusion",
+        "link": "https://www.ithome.com.tw/news/180064",
+        "pubDate": "2026-10-29  12:10:54",
+        "description": "微軟GitHub本周宣布Copilot Fusion協調系統已提供給開發人員，可讓Copilot自行依任務協調多個模型以完成工作。測試顯示比只用Claude Opus 5.5省一半成本。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟季度營收成長19%，Azure大增48%，Windows裝置下滑22%",
+        "link": "https://www.ithome.com.tw/news/180062",
+        "pubDate": "2026-10-29  12:10:27",
+        "description": "微軟（Microsoft）周三（10/28）公布截至9月30日的2027財年第一季財報，該季營收達922.8億美元，年增19%，淨利（Net Income）366.3億美元，年增32%。微軟本季首度於季度財報中單獨揭露Azure營收，達331.7億美元，比去年同期成長48%。當天微軟盤後股價一度上揚3.48%，漲至549.44美元。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google Cloud營收翻倍，搜尋業務成長放緩",
+        "link": "https://www.ithome.com.tw/news/180051",
+        "pubDate": "2026-10-29  10:10:40",
+        "description": "Google母公司Alphabet周三（10/28）公布2026年第三季財報，營收年增25%至1,275.77億美元，營業利益（Operating Income）成長30%至405.76億美元。其中，Google Cloud營收年增103%，突破300億美元大關，成為推動成長的主要動力。不過，Google搜尋業務營收成長放緩，加上AI基礎設施投資持續擴大，使市場對其獲利前景產生疑慮。",
+        "source": "iThome"
+      },
+      {
+        "title": "蘋果推出首款觸控MacBook Pro，售價2,899美元起",
+        "link": "https://www.ithome.com.tw/news/180050",
+        "pubDate": "2026-10-29  10:10:23",
+        "description": "蘋果（Apple）周三（10/28）發表首款支援觸控操作的MacBook Pro，搭載全新PROLED XDR雙層OLED顯示器，並將iPhone的動態島（Dynamic Island）設計引進Mac。另一項引人注意的變化，是睽違多年的發光蘋果標誌重新出現在筆電機蓋上。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+        "link": "https://www.ithome.com.tw/news/180049",
+        "pubDate": "2026-10-29  09:10:48",
+        "description": "Google周三（10/28）發表新一代AI模型Gemini 4 Carbon，在第三方評測機構Artificial Analysis最新的綜合能力指數中，以59分排名第一，並在漏洞發現、利用驗證及修補等3項資安基準測試中創下最佳成績。",
+        "source": "iThome"
+      },
       {
         "title": "中選會候選人財產申報網站出包，背景查詢資料竟含1,573名候選人身分證字號，初判委外廠商疏失",
         "link": "https://www.ithome.com.tw/news/180037",
         "pubDate": "2026-10-28 18:59",
         "description": "中選會公職候選人財產申報網站爆出資安問題，原本不應對外公開的身分證字號，竟出現在網站提供給瀏覽器的背景資料中，涉及1,573名候選人，中選會初判是委外廠商產製公告資料時發生疏失，27日已完成修正，並展開後續調查。但中選會提出查詢檔案以亂碼方式呈現的說法遭質疑",
         "source": "iThome資安"
-      },
-      {
-        "title": "微軟推出AI代理防護新機制，依風險動態調整權限",
-        "link": "https://www.ithome.com.tw/news/180048",
-        "pubDate": "2026-10-28 18:44",
-        "description": "新增動態權限、風險評估與條件式存取控制，並透過Project Perception的Guardian Agents持續監督AI代理行為",
-        "source": "iThome資安"
-      },
-      {
-        "title": "北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
-        "link": "https://www.ithome.com.tw/news/180045",
-        "pubDate": "2026-10-28 17:29",
-        "description": "資安公司Cyfirma揭露北韓駭客鎖定PHP2Shell漏洞的活動，他們篩選出216臺可能尚未修補的主機，並透過21個遭入侵的節點，以低頻率方式進行漏洞掃描，目標涵蓋政府、金融、物流及製造業等領域。值得留意的是，臺灣也是這些駭客的主要目標",
-        "source": "iThome資安"
-      },
-      {
-        "title": "重大漏洞PHP2Shell傳出駭客成功利用，於伺服器執行Shell指令",
-        "link": "https://www.ithome.com.tw/news/180042",
-        "pubDate": "2026-10-28 17:10",
-        "description": "Perplexity研究員Adel Karimi指出，他在蜜罐陷阱首度看到成功利用PHP重大漏洞PHP2Shell（CVE-2026-109618與CVE-2026-109619）的活動，攻擊者以此執行Shell命令",
-        "source": "iThome資安"
-      },
-      {
-        "title": "蘋果為iOS及iPadOS 18用戶修補已遭利用的圖形處理框架CoreGraphics漏洞",
-        "link": "https://www.ithome.com.tw/news/180035",
-        "pubDate": "2026-10-28 15:29",
-        "description": "本週蘋果發布旗下裝置最新的27.2版作業系統更新，同時也為執行iOS及iPadOS 18用戶修補3個資安漏洞，其中一個是9月底公布、疑似已遭利用的圖形處理框架CoreGraphics漏洞CVE-2026-86950",
-        "source": "iThome資安"
-      },
-      {
-        "title": "漏洞懸賞計畫ZDI成員不慎公開尚未修補的Linux核心漏洞",
-        "link": "https://www.ithome.com.tw/news/180034",
-        "pubDate": "2026-10-28 15:01",
-        "description": "漏洞懸賞計畫Zero Day Initiative（ZDI）近日傳出不慎將6個Linux核心漏洞通報資料，發送到公開的Linux核心郵件列表（Linux Kernel Mailing List，LKML）而提前曝光，引起Linux用戶的關注",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月28日，Google Brotli漏洞恐造成資訊洩漏及阻斷服務，.NET、PHP與Linux陸續修補",
-        "link": "https://www.ithome.com.tw/news/180032",
-        "pubDate": "2026-10-28 14:55",
-        "description": "Brotli解壓縮漏洞CVE-2026-111497的影響範圍已擴及Node.js、.NET、PHP及多個Linux發行版，但各平臺修補進度不一。研究人員也證實，該漏洞也可透過圖片解碼等非HTTP資料處理功能觸發",
-        "source": "iThome資安"
-      },
-      {
-        "title": "接近1千個電商網站被滲透，攻擊者利用Magento資安漏洞植入後門",
-        "link": "https://www.ithome.com.tw/news/180031",
-        "pubDate": "2026-10-28 14:38",
-        "description": "資安公司Sansec揭露鎖定電商平臺Magento（Adobe Commerce）長期攻擊活動，駭客在953個電商網站植入JavaScript惡意程式載入工具，曾經利用資安漏洞PolyShell（CVE-2026-48356）、SessionReaper（CVE-2025-54236）作為入侵管道",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國中小企業最大ERP業者兩週內接連傳出資安事件，當局展開調查",
-        "link": "https://www.ithome.com.tw/news/180030",
-        "pubDate": "2026-10-28 13:42",
-        "description": "韓國企業軟體業者Douzone Bizon傳出兩起資安事件，部分客戶資料可能外洩。韓國政府已將事件認定為重大事故，成立公私聯合調查團隊，釐清外洩範圍及影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "2026年資安技能金盾獎初賽登場，224隊爭奪決賽資格",
-        "link": "https://www.ithome.com.tw/news/180027",
-        "pubDate": "2026-10-28 12:45",
-        "description": "資安署與國家資安研究院共同主辦，競賽涵蓋逆向工程、網站安全及數位鑑識，培養學生資安實戰能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Magento、Brotli漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180026",
-        "pubDate": "2026-10-28 12:33",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，他們已掌握Adobe Commerce（Magento）漏洞CVE-2026-48356（PolyShell）、Google Brotli漏洞CVE-2026-111497（Node2Shell、HTTP2Shell、Python2Shell、Brotli2Shell、Broccoli2Shell）遭積極利用的證據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "NIST發布PQC遷移路線圖，自2031年起RSA等傳統公鑰演算法逐步退場，2036年起禁用",
-        "link": "https://www.ithome.com.tw/news/180022",
-        "pubDate": "2026-10-28 12:26",
-        "description": "美國NIST正式發布NIST IR 8547《轉換至後量子密碼學標準》，明確提出RSA、ECDSA等傳統公鑰演算法的退場時程，規畫過了2030年後將其列為不建議使用，2035年後則在NIST標準與指引中列為禁止使用，並說明TLS、PKI等技術及不同應用場景的遷移需求、挑戰與可考慮的過渡方案。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apple同步推出macOS與iOS/iPadOS 27.2版，修補286個漏洞",
-        "link": "https://www.ithome.com.tw/news/180024",
-        "pubDate": "2026-10-28 12:16",
-        "description": "Apple為macOS修補263個漏洞，為iOS與iPadOS修補163個漏洞，兩份公告包含同時影響多套作業系統的140個共通漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla發布Firefox大改版159，修補逾100個高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/180018",
-        "pubDate": "2026-10-28 11:24",
-        "description": "本週Mozilla基金會推出Firefox 159大改版，總共修補167個資安漏洞，其中有108個為高風險等級",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google發布Chrome 156更新，修補逾50個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180016",
-        "pubDate": "2026-10-28 11:16",
-        "description": "本週Google針對Chrome 156修補超過50個資安漏洞，有4個為重大等級、其餘大部分為高風險等級",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google TPU將進駐甲骨文OCI，2027年起與GPU並列AI運算選項",
-        "link": "https://www.ithome.com.tw/news/180043",
-        "pubDate": "2026-10-28  05:10:49",
-        "description": "Google與甲骨文宣布合作，計畫2027年起在甲骨文雲端基礎架構（OCI）提供Google自行設計的AI加速晶片TPU",
-        "source": "iThome"
-      },
-      {
-        "title": "JetBrains IDE終端機改採libghostty，改善AI代理與TUI工具操作相容性",
-        "link": "https://www.ithome.com.tw/news/180036",
-        "pubDate": "2026-10-28  04:10:45",
-        "description": "JetBrains旗下整合開發環境（IDE）從2026.3版起，將在重新設計的終端機中改用Ghostty的終端機模擬函式庫libghostty，取代多年使用的JediTerm。此次更新主要改善Claude Code、Codex等命令列AI程式代理，以及Neovim、tmux等工具在IDE內的操作相容性，包括鍵盤快捷鍵及畫面顯示問題。",
-        "source": "iThome"
-      },
-      {
-        "title": "Anthropic揭露收購Mithril Medicine，公布自有藥物研發進展",
-        "link": "https://www.ithome.com.tw/news/180028",
-        "pubDate": "2026-10-28  02:10:15",
-        "description": "Anthropic公布自有藥物研發進展，揭露已在7月收購生技新創Mithril Medicine，將兩項針對罕見兒童肌肉失養症的藥物研發計畫納入內部。除了與藥廠合作，提供Claude協助新藥設計，Anthropic也開始自行投入新藥研發。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -201,31 +215,31 @@
         "source": "TechOrange"
       },
       {
-        "title": "不只賣晶片，耐能攜迪維科簽意向書搶進東南亞主權 AI，首期五年推論服務規劃 18.6 億元",
-        "link": "https://techorange.com/2026/10/27/kneron-taiwan-spark-southeast-asia-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 27 Oct 2026 17:28:20 +0800",
-        "description": "AI 晶片商耐能智慧（Kneron）宣布，與企業邊緣 AI 系統整合商台灣迪維科（Taiwan Spark）及一家未具名的東南亞合作夥伴，簽署三方合作意向書（LOI），共同布局東南亞主權 AI 市場。依規劃，首期五年服務規模約新台幣 18.6 億元，預計於 2026 年第四季至 2027 年第一季開始推進。這是依規劃費率與運算容量估算的數字，並非已簽訂的合約金額。 耐能指出，主權 AI 的範疇已從模型與資料的自主掌握，延伸至 AI 運算基礎設施、推論服務與在地營運能力。耐能創辦人暨執行長劉峻誠在",
+        "title": "Apple 做小、Amazon 做大：Echo Show 16 與 HomeView 智慧螢幕走完全相反路線",
+        "link": "https://techorange.com/2026/10/29/amazon-echo-apple-homeview-smart-home-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 29 Oct 2026 13:11:25 +0800",
+        "description": "電商巨頭 Amazon 近日發表 5 款搭載語音助理 Alexa 的新裝置，包括重新設計的智慧顯示器 Echo Show 16，以及智慧音箱、床頭鬧鐘與數位相框，藉此將最新版 Alexa 推進消費者家中。《Reuters》指出，Amazon 正面臨來自 Apple，以及 OpenAI 等具硬體野心的 AI 公司日益激烈的競爭。 Apple 本月稍早才推出首款智慧顯示器 HomeView，以及備受期待的智慧音箱 HomePod mini 2。《CNET》分析，Apple 的首款智慧顯示器螢幕小，A",
         "source": "TechOrange"
       },
       {
-        "title": "福斯、小鵬同日公布中國自駕新進展：一個在合肥測 L3，一個在廣州跑 L4 Robotaxi",
-        "link": "https://techorange.com/2026/10/27/xpeng-guangzhou-robotaxi-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 27 Oct 2026 16:27:01 +0800",
-        "description": "德國車廠福斯汽車（Volkswagen）與中國電動車廠小鵬汽車（XPeng）近日分別在中國取得更高等級自動駕駛的上路許可。福斯集團（中國）表示，已取得在安徽合肥公共道路測試 Level 3（L3）自動駕駛的許可，且測試已在進行中；小鵬則宣布，旗下自動駕駛計程車（Robotaxi）獲准在廣東省廣州市全市範圍進行 Level 4（L4）示範營運。 福斯在合肥測試 L3，目標 2027 年下半年交車 福斯集團（中國）表示，這項許可同時涵蓋在合肥進行大規模行車數據蒐集，目標是 2027 年在中國達到 L",
+        "title": "找漏洞、寫修補的 AI 先給誰用？Gemini 4 Carbon 和 Anthropic、OpenAI 一樣採相似策略",
+        "link": "https://techorange.com/2026/10/29/google-gemini-4-carbon-cyber-defenders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 29 Oct 2026 12:49:04 +0800",
+        "description": "Google 在美國時間 10/28 發布新一代前沿模型（frontier model）Gemini 4 Carbon，主打資安能力。Google 表示，Carbon 在漏洞發掘、漏洞利用與軟體修補等資安任務上，都達到最先進水準；不過，這款模型沒有直接開放給一般開發者與企業，而是先交給一部分資安防守方使用。 讓經過審核的防守方先用上新模型，並非 Google 所獨有的做法：Anthropic、OpenAI 今年 4 月也都以審核、分級的方式，限制特定模型的使用對象。至於 Carbon 的資安成績",
         "source": "TechOrange"
       },
       {
-        "title": "微軟向 6 萬名員工提出自願離職方案：一邊控制成本、一邊加碼 AI 資料中心",
-        "link": "https://techorange.com/2026/10/27/microsoft-buyout-ai-layoff-xbox/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 27 Oct 2026 13:02:34 +0800",
-        "description": "微軟（Microsoft）近日宣布，向約 6 萬名員工提供自願離職方案，占全球員工約 27%。《Reuters》指出，微軟希望藉此控制成本，並支應龐大的 AI 投資。這項方案適用於美國、加拿大、印度與英國參與團隊中，內部職級 70 以下的員工。 微軟人資長 Amy Coleman 在給員工的備忘錄中表示：「這項方案讓正在考慮離開公司的符合資格員工，有了新的選擇，可以在獲得支援的情況下，現在就完成轉換。它也讓參與的部門多了一種方式，讓人力配置能因應不斷變化的需求。」她在部落格文章中也寫道：「自願離",
+        "title": "【温宏駿專欄】穩定幣與 AI Agent 會是銀行存款的殺手還是助力？",
+        "link": "https://techorange.com/2026/10/29/stablecoin-ai-agent-bank-deposit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 29 Oct 2026 12:02:14 +0800",
+        "description": "文／海耶克科技共同創辦人温宏駿（aka 金融派大星） 先講結論：穩定幣和 AI Agent 都不會「殺死」銀行存款，但它們會聯手殺死一種商業模式——靠存款人「懶得比較」賺錢的模式。 從 9 月到 10 月，三件值得關注的事接連發生。第一，Meta 的個人 AI Agent Muse 透過 Plaid 串接銀行帳戶，上線後迅速登上下載榜首，隨後美股銀行股也出現明顯跌幅。第二，摩根大通、嘉信、花旗、美國銀行接連表態，限制外部 Agent 動用客戶資金。第三，國際清算銀行（BIS）發布工作論文第 13",
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 送件上市、第二季首度營業獲利，長期算力合約與模型競爭仍是考驗",
-        "link": "https://techorange.com/2026/10/27/anthropic-ipo-s1/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 27 Oct 2026 12:58:02 +0800",
-        "description": "Anthropic 在美國時間 10 月 26 日向美國證券交易委員會（SEC）遞交上市申請文件 S-1，申請以代號「ANT」在 Nasdaq 掛牌。招股書顯示，第二季營收 115.6 億美元，去年同期為 7.87 億美元；在連續五季營業虧損後，第二季轉為營業獲利 9.74 億美元，據報導，這是 Anthropic 首度單季營業獲利。不過，Anthropic 也在招股書中先提醒投資人：以長期利益為重的決策，可能與股東的財務利益衝突。 對已經或正在導入 Claude 的企業而言，這是 Anthro",
+        "title": "【從一台到一千台機器人】Hexagon 用「機隊思維」，改寫人形機器人的工廠劇本",
+        "link": "https://techorange.com/2026/10/29/hexagon-is-putting-1000-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 29 Oct 2026 10:50:54 +0800",
+        "description": "讓一台人形機器人進工廠，叫做試點；但是讓一千台同時上工，是完全不同的工程。 今年 4 月，德國機械與汽車零件製造商舍弗勒（Schaeffler）宣布，2032 年前要在全球工廠部署至少 1,000 台 Hexagon Robotics 的人形機器人 Aeon。 從產業面來看，需求與資金都已到位。全球大型人力資源公司 ManpowerGroup 調查顯示，75% 的受訪雇主找不到所需的技術人才；2025 年流入人形機器人新創的資金達 26.5 億美元，超過前 7 年的總和。接下來真正的挑戰，是人形",
         "source": "TechOrange"
       },
       {
@@ -485,6 +499,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "link": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "pubDate": "2026-10-28T22:22:46-04:00",
+        "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to cre",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+        "pubDate": "2026-10-28T19:05:39-04:00",
+        "description": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on",
+        "source": "TheVerge"
+      },
+      {
         "title": "A hacker stole more than 40,000 DHS employee records",
         "link": "https://www.theverge.com/tech/1021528/ice-cbp-data-leak",
         "pubDate": "2026-10-28T17:57:45-04:00",
@@ -503,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1020264/readwise-books-launch-ebook-store",
         "pubDate": "2026-10-28T17:16:18-04:00",
         "description": "For the last several years, Readwise has been building tools for power readers. There's the eponymous product, Readwise, which stores and categorizes your Kindle highlights to help you remember what you've read. There's Readwise Reader, an app for re",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google says its investments in AI are driving more searches",
-        "link": "https://www.theverge.com/tech/1020811/alphabet-google-earnings-q3-2026",
-        "pubDate": "2026-10-28T16:22:26-04:00",
-        "description": "Google parent company Alphabet says that its AI investments are leading to a big growth in searches year-over-year, as noted in its Q3 2026 earnings today. \"Our AI investments are driving overall Search query growth, including commercial queries,\" CE",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Microsoft reveals strong cloud growth amid financial reporting overhaul",
-        "link": "https://www.theverge.com/tech/1020785/microsoft-earnings-revenue-q1-2027",
-        "pubDate": "2026-10-28T16:20:00-04:00",
-        "description": "Microsoft just posted the first quarter of its 2027 fiscal financial results. The software maker made $92.3 billion in revenue and a net income of $33.6 billion during Q1. Revenue is up 19 percent, and net income has increased by 32 percent. It's a n",
         "source": "TheVerge"
       }
     ],
@@ -602,34 +616,34 @@
         "products": "Microsoft Edge"
       },
       {
-        "title": "Oracle Java Security Restriction Bypass Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/oracle-java-security-restriction-bypass-vulnerability_20261022",
-        "pubDate": "Thu, 22 Oct 2026 11:00:00 +0800",
+        "title": "ChromeOS Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261029",
+        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Oracle Java Security Restriction Bypass Vulnerability"
+        "products": "ChromeOS"
       },
       {
-        "title": "Node.js Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261022",
-        "pubDate": "Thu, 22 Oct 2026 10:00:00 +0800",
+        "title": "Cisco Products Denial of Service Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/cisco-products-denial-of-service-vulnerability_20261029",
+        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Node.js"
+        "products": "Cisco Products Denial of Service Vulnerability"
       },
       {
-        "title": "GitLab Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261022",
-        "pubDate": "Thu, 22 Oct 2026 09:00:00 +0800",
+        "title": "Jenkins Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20261029",
+        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "GitLab"
+        "products": "Jenkins"
       },
       {
         "title": "Aruba Products Multiple Vulnerabilities",
