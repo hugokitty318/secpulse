@@ -1,12 +1,47 @@
 {
-  "ts": "2026-10-30T08:58:15.144984Z",
+  "ts": "2026-10-30T15:51:54.641174Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "群暉NAS遭C3RB3R勒索軟體攻擊，原廠呼籲用戶盡速更新DSM系統",
+        "link": "https://www.ithome.com.tw/news/180115",
+        "pubDate": "2026-10-30 18:44",
+        "description": "攻擊者利用2024年12月已修補的漏洞，鎖定仍執行舊版DSM系統的NAS設備，企圖加密資料並勒索贖金",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】1027～1030，PHP2Shell、Brotli2Shell衝擊擴大，91APP與Amadeus遭駭影響持續浮現",
+        "link": "https://www.ithome.com.tw/news/180112",
+        "pubDate": "2026-10-30 18:34",
+        "description": "PHP2Shell與Brotli2Shell（Node2Shell）兩項重大漏洞的影響，持續成為全球資安焦點，從跨平臺修補、下游產品應變到實際攻擊，牽動廣泛的軟體生態系；eMudhra重大金鑰安全事故也引發連鎖衝擊。另一方面，臺灣91APP與西班牙Amadeus遭駭事件的影響持續浮現，突顯第三方資訊服務業者遭駭可能帶來的廣泛風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "GitLab、思科防火牆漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180113",
+        "pubDate": "2026-10-30 17:34",
+        "description": "美國網路安全與基礎設施安全局（CISA）將GitLab重大漏洞CVE-2026-97229、思科防火牆高風險漏洞CVE-2026-76418加入已遭利用的漏洞名單（KEV），並要求聯邦機構3天內完成修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP2Shell與Linux核心漏洞被串連利用，中國駭客藉此取得25臺防火牆root權限",
+        "link": "https://www.ithome.com.tw/news/180111",
+        "pubDate": "2026-10-30 16:17",
+        "description": "資安公司Dream Security揭露鎖定Palo Alto Networks防火牆的攻擊活動，中國駭客借助AI的力量，串連PHP重大漏洞PHP2Shell、Linux核心本機權限提升（LPE）漏洞Fragnesia，企圖得到防火牆的root權限，攻擊範圍涵蓋臺灣、日本、韓國、美國",
+        "source": "iThome資安"
+      },
       {
         "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
         "link": "https://www.ithome.com.tw/news/180105",
         "pubDate": "2026-10-30 15:21",
         "description": "全家便利商店（5903）近日表示接獲委外服務廠商91APP通知，因資料庫遭受自動化攻擊，導致全家線上平臺「行動購」部分會員資料遭非法擷取。該公司已啟動資安事件應變機制、通報主管機關，並通知會員",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】10月30日，DEVCORE研究員公布在Pwn2Own競賽揭露的Edge攻擊鏈，串連5個弱點突破瀏覽器防護機制",
+        "link": "https://www.ithome.com.tw/news/180104",
+        "pubDate": "2026-10-30 15:02",
+        "description": "臺灣資安公司DEVCORE首席資安研究員Orange Tsai（蔡政達）近日公開瀏覽器Edge完整攻擊鏈，他在沒有借助AI的情況下，藉由5個邏輯運算弱點，並搭配Windows功能，最終成功在作業系統執行任意程式碼",
         "source": "iThome資安"
       },
       {
@@ -66,13 +101,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "AI加快漏洞發現，CSA提出VulnOps模式改善企業漏洞管理",
-        "link": "https://www.ithome.com.tw/news/180046",
-        "pubDate": "2026-10-30 08:00",
-        "description": "AI加快漏洞發現速度，企業既有修補流程可能難以跟上。雲端安全聯盟（CSA）提出VulnOps漏洞管理模式，整合不同來源的漏洞資訊，依據實際風險安排處理順序，並以Absorption Rate指標衡量企業能否有效控制待處理漏洞的累積",
-        "source": "iThome資安"
-      },
-      {
         "title": "惡意Markdown指引檔企圖誘使Codex安裝惡意套件，AI程式開發代理面臨攻擊風險",
         "link": "https://www.ithome.com.tw/news/180033",
         "pubDate": "2026-10-30 08:00",
@@ -80,24 +108,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "微軟發布Windows緊急更新，移除eMudhra問題憑證的預設信任",
-        "link": "https://www.ithome.com.tw/news/180066",
-        "pubDate": "2026-10-30 08:00",
-        "description": "因應eMudhra中繼CA私密金鑰可從公開憑證還原的安全問題，微軟發布Windows緊急更新，移除7張憑證的預設信任。企業應確認系統更新情況，並檢查既有服務的憑證信任鏈",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國擬修法強化海底電纜安全，要求業者管理安全風險並通報事故",
-        "link": "https://www.ithome.com.tw/news/180038",
-        "pubDate": "2026-10-30 08:00",
-        "description": "英國政府提出海底關鍵基礎設施安全修法方案，蓄意破壞海底電纜及能源管線者，最高可判14年徒刑，海底電信基礎設施業者也將面臨更嚴格的安全要求",
-        "source": "iThome資安"
-      },
-      {
-        "title": "DoorDash砸170億美元收購Instacart，整合餐飲與生鮮外送市場",
-        "link": "https://www.ithome.com.tw/news/180094",
-        "pubDate": "2026-10-30  11:10:30",
-        "description": "美國外送平臺龍頭DoorDash周四（10/29）宣布，將以約170億美元收購生鮮雜貨配送平臺Instacart，整合雙方的餐飲、生鮮及零售配送業務，並結合電商、廣告及AI技術，擴大在美國零售配送市場的影響力。有鑑於DoorDash與Instacart原本在美國生鮮配送市場就是競爭對手，此一交易可能引發反壟斷審查。",
+        "title": "GMI Cloud展示在臺AI Factory設計，AI資料中心的新瓶頸不是機櫃，而是電力",
+        "link": "https://www.ithome.com.tw/news/180116",
+        "pubDate": "2026-10-30  07:10:02",
+        "description": "走進GMI Cloud位於桃園的AI Factory，第一個感受到的不是傳統資料中心常見的「密集」。\n過去參觀資料中心時，傳統的機房設計通常追求空間利用率，機櫃排列緊密，盡可能在有限樓地板面積中放入更多伺服器, 各種設備、管線布置，充分展現將空間利用最大化的設計原則。但是GMI Cloud今天(10/30)對外展示的這座AI Factory第一期區域卻留下不少空間，並沒有被設備填滿。\n原因並不是算力需求不足，而是AI資料中心正在面臨一個與過去不同的限制。現在限制AI Factory擴充的，不是空",
         "source": "iThome"
       },
       {
@@ -113,20 +127,6 @@
         "pubDate": "2026-10-30  01:10:32",
         "description": "Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元，年增12%，營業利益280.8億美元，年增61%，營業利益率達13.9%，創下歷史新高。其中，雲端業務Amazon Web Services（AWS）營收比去年同期成長39%，創近5年最快增速，成為推動Amazon獲利成長的主要動力。",
         "source": "iThome"
-      },
-      {
-        "title": "行動App安全規範與技術持續更新，執行環境防護與白箱加密成焦點",
-        "link": "https://www.ithome.com.tw/news/180072",
-        "pubDate": "2026-10-29 19:20",
-        "description": "行動應用安全的政策與標準出現新變化，越南自2026年3月要求行動銀行App針對Bootloader解鎖等風險採取處置， OWASP也發布新版MASTG與MASWE，讓安全要求、常見弱點及對應的測試方法更容易查找與對照。與此同時，App安全防護產品也持續更新偵測與加密保護能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI降低App逆向分析門檻帶來資安挑戰，企業App安全策略須兼顧發布後防護",
-        "link": "https://www.ithome.com.tw/news/180070",
-        "pubDate": "2026-10-29 18:41",
-        "description": "面對AI與自動化工具加速行動應用逆向分析的挑戰，Digital.ai亞太資安銷售工程師Pil Park以實證指出，傳統加殼與局部加密仍可能遭到突破，企業應進一步強化類別加密與深度混淆，提高分析難度。同時指出，App偵測威脅後的防護反應可能暴露線索，若動作過於固定，也容易讓攻擊者掌握觸發條件",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -180,24 +180,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "【温宏駿專欄】穩定幣與 AI Agent 會是銀行存款的殺手還是助力？",
-        "link": "https://techorange.com/2026/10/29/stablecoin-ai-agent-bank-deposit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 29 Oct 2026 12:02:14 +0800",
-        "description": "文／海耶克科技共同創辦人温宏駿（aka 金融派大星） 先講結論：穩定幣和 AI Agent 都不會「殺死」銀行存款，但它們會聯手殺死一種商業模式——靠存款人「懶得比較」賺錢的模式。 從 9 月到 10 月，三件值得關注的事接連發生。第一，Meta 的個人 AI Agent Muse 透過 Plaid 串接銀行帳戶，上線後迅速登上下載榜首，隨後美股銀行股也出現明顯跌幅。第二，摩根大通、嘉信、花旗、美國銀行接連表態，限制外部 Agent 動用客戶資金。第三，國際清算銀行（BIS）發布工作論文第 13",
+        "title": "鴻海科技日揭製造效率：部分產品開發只需 3 週、AI 運算托盤組裝縮至 20 分鐘，怎麼做到？",
+        "link": "https://techorange.com/2026/10/30/hhtd-honhai-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 19:06:36 +0800",
+        "description": "部分產品開發專案，其他業者可能需要 3 個月，鴻海只需 3 週；AI 伺服器運算托盤的組裝時間，也從兩個多小時縮短至 20 分鐘。今（30）日登場的 2026 鴻海科技日，鴻海董事長劉揚偉與輪值 CEO 蔣集恆揭露多項製造效率數字，並說明背後的技術與做法。 劉揚偉在開幕演講中表示，外界過去常將鴻海視為「box mover」，認為鴻海只是負責系統組裝的代工廠。因此，今年科技日特別聚焦過去較少對外介紹的兩項能力：一是精密加工技術，另一項則是整合產品設計、製造、組裝與全球供應鏈的垂直整合能力。 部分產",
         "source": "TechOrange"
       },
       {
-        "title": "【從一台到一千台機器人】Hexagon 用「機隊思維」，改寫人形機器人的工廠劇本",
-        "link": "https://techorange.com/2026/10/29/hexagon-is-putting-1000-humanoid-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 29 Oct 2026 10:50:54 +0800",
-        "description": "讓一台人形機器人進工廠，叫做試點；但是讓一千台同時上工，是完全不同的工程。 今年 4 月，德國機械與汽車零件製造商舍弗勒（Schaeffler）宣布，2032 年前要在全球工廠部署至少 1,000 台 Hexagon Robotics 的人形機器人 Aeon。 從產業面來看，需求與資金都已到位。全球大型人力資源公司 ManpowerGroup 調查顯示，75% 的受訪雇主找不到所需的技術人才；2025 年流入人形機器人新創的資金達 26.5 億美元，超過前 7 年的總和。接下來真正的挑戰，是人形",
+        "title": "聯合利華 AI 代理連紙本表單照片都能讀：訂單處理快 8 倍、試行市場 95% 免人工",
+        "link": "https://techorange.com/2026/10/30/unilevers-multi-agent-creating-customer-value-global-scale/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 18:15:01 +0800",
+        "description": "消費品公司聯合利華（Unilever）每年約 2,000 萬筆訂單中，仍有約 200 萬筆以電子郵件、PDF、試算表，甚至紙本表單照片等形式送來，過去每筆都要由人工花 15 至 20 分鐘輸入。微軟（Microsoft）近日發布的案例指出，聯合利華與微軟合作開發的 AI 多代理（Multi-Agent AI）系統 NOVA，已在 11 個試行市場中，把訂單到收款（Order-to-Cash）流程第一階段的處理時間，縮短到約 90 秒。 聯合利華客戶營運技術主管 Francis Castro 表示",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力",
-        "link": "https://techorange.com/2026/10/29/google-tpu-oracle-ai-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 29 Oct 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力 Oracle 與 Google 在 10 月 27 日宣布，將 Google 自研的張量處理器（TPU）引進 Oracle Cloud Infrastructure（OCI），預計 2027 年開始提供服務。這是 Google TPU 首次進入 Google 以外的超大型雲端平台。Google 第八代 TPU 分為針對模型訓練設計的 TPU 8t，以及著",
+        "title": "【DEAT 專欄】從家門到捷運站，TPASS 還缺哪一塊？共享運具正在補上最後一哩",
+        "link": "https://techorange.com/2026/10/30/deat-tpass/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 16:34:00 +0800",
+        "description": "文／台灣數位平台經濟協會（DEAT） 每天早上出門，如果住家離捷運站只有五分鐘，走路或騎 YouBike 都很方便；但如果距離拉長到兩、三公里，途中又有坡度，或者碰上炎熱、下雨、趕時間，選擇就會開始改變。這時候，很多人可能直接騎私人機車出門，原本預計搭乘的捷運或公車，也就從這趟旅程中消失了。 這正是公共運輸「最後一哩」真正需要處理的問題。 TPASS 上路後，逐步把捷運、公車、臺鐵與 YouBike 等不同交通工具整合進同一套通勤方案，讓民眾可以用更簡單的方式安排每天的移動。YouBike 的加",
         "source": "TechOrange"
       },
       {
@@ -237,20 +237,6 @@
       }
     ],
     "en_sec": [
-      {
-        "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
-        "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
-        "pubDate": "Wed, 28 Oct 2026 16:47:22 -0400",
-        "description": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Discord to let search engines index public server messages",
-        "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
-        "pubDate": "Wed, 28 Oct 2026 14:44:16 -0400",
-        "description": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
-        "source": "BleepingComputer"
-      },
       {
         "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
         "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
@@ -336,20 +322,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-        "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-        "pubDate": "Thu, 29 Oct 2026 16:14:46 +0530",
-        "description": "Cisco has released patches to address a high-severity security flaw in Secure Firewall Adaptive Security Appliance (ASA) Software and Secure Firewall Threat Defense (FTD) Software that it said has been exploited in the wild.\n\nThe vulnerability, track",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-        "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-        "pubDate": "Thu, 29 Oct 2026 15:56:33 +0530",
-        "description": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time.\n\n\"The firewall inspects both metadata requests and package downloads for signs of malicious acti",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
         "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
         "pubDate": "Thu, 29 Oct 2026 15:23:41 -0400",
@@ -364,17 +336,45 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Attacker Tried to Exploit Alpine Linux’s GitLab via CVSS 10.0 Flaw Its Ruby Left Open",
-        "link": "https://thehackernews.com/2026/10/attacker-tried-to-exploit-alpine-linuxs.html",
-        "pubDate": "Thu, 29 Oct 2026 14:35:39 +0530",
-        "description": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.\n\nThe flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run co",
+        "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
+        "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
+        "pubDate": "Thu, 29 Oct 2026 12:10:31 -0400",
+        "description": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
+        "pubDate": "Thu, 29 Oct 2026 10:35:40 -0400",
+        "description": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+        "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+        "pubDate": "Fri, 30 Oct 2026 17:51:56 +0530",
+        "description": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet examined the device. It is telling everyone who bou",
         "source": "TheHackerNews"
       },
       {
-        "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-        "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-        "pubDate": "Thu, 29 Oct 2026 13:54:22 +0530",
-        "description": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.\n\nThe malware, called KeyDrift, is designed to copy the keys that encrypt traffic bet",
+        "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+        "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+        "pubDate": "Fri, 30 Oct 2026 17:28:53 +0530",
+        "description": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. \n\nTheir concerns are practical. An I",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+        "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+        "pubDate": "Fri, 30 Oct 2026 16:10:45 +0530",
+        "description": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets.\n\nThe conspiracy was organized and le",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+        "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+        "pubDate": "Fri, 30 Oct 2026 14:25:47 +0530",
+        "description": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected system",
         "source": "TheHackerNews"
       }
     ],
@@ -436,38 +436,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Rivian expands joint venture with VW to include AI assistant",
-        "link": "https://techcrunch.com/2026/10/29/rivian-expands-joint-venture-with-vw-to-include-ai-assistant/",
-        "pubDate": "Thu, 29 Oct 2026 20:05:47 +0000",
-        "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
+        "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
+        "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
+        "pubDate": "Fri, 30 Oct 2026 14:00:25 +0000",
+        "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
         "source": "TechCrunch"
       },
       {
-        "title": "The R2 SUV is already Rivian’s best-selling vehicle",
-        "link": "https://techcrunch.com/2026/10/29/the-r2-suv-is-already-rivians-best-selling-vehicle/",
-        "pubDate": "Thu, 29 Oct 2026 20:02:03 +0000",
-        "description": "Rivian is seeing strong enough sales of the new EV that it improved its guidance to Wall Street for the second time this year.",
+        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+        "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
+        "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
+        "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before ",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI-backed Thrive Holdings acquires ADT",
-        "link": "https://techcrunch.com/2026/10/29/openai-backed-thrive-holdings-acquires-adt/",
-        "pubDate": "Thu, 29 Oct 2026 19:56:19 +0000",
-        "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
+        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+        "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
+        "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
+        "description": "DoorDash said that it is open to working with third-party agent makers",
         "source": "TechCrunch"
       },
       {
-        "title": "Where was my invite to the — wait, what? Airbnb had a gala?",
-        "link": "https://techcrunch.com/2026/10/29/where-was-my-invite-to-the-wait-what-airbnb-had-a-gala/",
-        "pubDate": "Thu, 29 Oct 2026 19:17:49 +0000",
-        "description": "Airbnb’s nonprofit held its inaugural gala on Wednesday in Los Angeles, and the internet had one reaction — the *what* gala?",
+        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+        "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+        "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+        "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta quietly launches an AI fashion app called Style Sketch",
-        "link": "https://techcrunch.com/2026/10/29/meta-quietly-launches-an-ai-fashion-app-called-style-sketch/",
-        "pubDate": "Thu, 29 Oct 2026 19:14:36 +0000",
-        "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
+        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+        "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
+        "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
+        "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
         "source": "TechCrunch"
       },
       {
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The director of Obsession put a new horror short on YouTube",
-        "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
-        "pubDate": "2026-10-29T19:57:18-04:00",
-        "description": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, ",
+        "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+        "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+        "pubDate": "2026-10-30T11:29:02-04:00",
+        "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depo",
         "source": "TheVerge"
       },
       {
-        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
-        "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
-        "pubDate": "2026-10-29T19:42:21-04:00",
-        "description": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wi",
+        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
+        "pubDate": "2026-10-30T10:58:06-04:00",
+        "description": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concre",
         "source": "TheVerge"
       },
       {
-        "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
-        "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
-        "pubDate": "2026-10-29T18:19:32-04:00",
-        "description": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that searc",
+        "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
+        "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
+        "pubDate": "2026-10-30T10:23:26-04:00",
+        "description": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact",
         "source": "TheVerge"
       },
       {
-        "title": "Patrick Stewart has died at age 86",
-        "link": "https://www.theverge.com/news/1022626/patrick-stewart-star-trek-death",
-        "pubDate": "2026-10-29T16:10:02-04:00",
-        "description": "Patrick Stewart, best known for his roles in Star Trek and X-Men, has died at age 86. A message posted to Stewart's Instagram account says the actor died in his Los Angeles home on Wednesday \"following a brief and poignant journey with Alzheimer's Di",
+        "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
+        "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
+        "pubDate": "2026-10-30T09:52:14-04:00",
+        "description": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in",
         "source": "TheVerge"
       },
       {
-        "title": "Reddit will force everyone to log in",
-        "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
-        "pubDate": "2026-10-29T16:07:00-04:00",
-        "description": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I",
+        "title": "Silicon Valley wants you to invest in miracles",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
+        "pubDate": "2026-10-30T09:11:05-04:00",
+        "description": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to human",
         "source": "TheVerge"
       }
     ],
@@ -642,6 +642,16 @@
         "products": "Aruba Products"
       },
       {
+        "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
+        "link": "https://www.hkcert.org/blog/data-leakage-and-third-party-risk-when-real-customer-information-becomes-a-tool-for-scammers",
+        "pubDate": "Fri, 30 Oct 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers"
+      },
+      {
         "title": "Fortinet Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261023",
         "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
@@ -650,16 +660,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Fortinet Products"
-      },
-      {
-        "title": "ISC BIND Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20261023",
-        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "ISC BIND"
       }
     ]
   }
