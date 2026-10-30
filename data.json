@@ -1,7 +1,42 @@
 {
-  "ts": "2026-10-29T22:57:38.172712Z",
+  "ts": "2026-10-30T02:34:01.217022Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "日本樂天兩個旅遊網站遭駭外洩用戶個資354萬，臺灣網站不受影響",
+        "link": "https://www.ithome.com.tw/news/180087",
+        "pubDate": "2026-10-30 10:05",
+        "description": "樂天集團證實，旗下兩個旅遊網站遭非授權存取，最多約354萬筆客戶及旅宿業者資料受影響，包括姓名、電子郵件地址及部分信用卡資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "惡意Markdown指引檔企圖誘使Codex安裝惡意套件，AI程式開發代理面臨攻擊風險",
+        "link": "https://www.ithome.com.tw/news/180033",
+        "pubDate": "2026-10-30 08:00",
+        "description": "Forever Security在客戶電腦發現惡意AGENTS.md檔案，企圖誘使Codex修改設定並安裝惡意NPM套件。研究人員也透過測試確認，類似手法可能使Claude Code洩漏OAuth權杖",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國擬修法強化海底電纜安全，要求業者管理安全風險並通報事故",
+        "link": "https://www.ithome.com.tw/news/180038",
+        "pubDate": "2026-10-30 08:00",
+        "description": "英國政府提出海底關鍵基礎設施安全修法方案，蓄意破壞海底電纜及能源管線者，最高可判14年徒刑，海底電信基礎設施業者也將面臨更嚴格的安全要求",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟發布Windows緊急更新，移除eMudhra問題憑證的預設信任",
+        "link": "https://www.ithome.com.tw/news/180066",
+        "pubDate": "2026-10-30 08:00",
+        "description": "因應eMudhra中繼CA私密金鑰可從公開憑證還原的安全問題，微軟發布Windows緊急更新，移除7張憑證的預設信任。企業應確認系統更新情況，並檢查既有服務的憑證信任鏈",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI加快漏洞發現，CSA提出VulnOps模式改善企業漏洞管理",
+        "link": "https://www.ithome.com.tw/news/180046",
+        "pubDate": "2026-10-30 08:00",
+        "description": "AI加快漏洞發現速度，企業既有修補流程可能難以跟上。雲端安全聯盟（CSA）提出VulnOps漏洞管理模式，整合不同來源的漏洞資訊，依據實際風險安排處理順序，並以Absorption Rate指標衡量企業能否有效控制待處理漏洞的累積",
+        "source": "iThome資安"
+      },
       {
         "title": "行動App安全規範與技術持續更新，執行環境防護與白箱加密成焦點",
         "link": "https://www.ithome.com.tw/news/180072",
@@ -73,55 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "CISA提供兩款免費工具，協助檢測M365與Google Workspace的安全設定錯誤",
-        "link": "https://www.ithome.com.tw/news/180058",
-        "pubDate": "2026-10-29 11:12",
-        "description": "ScubaGear與ScubaGoggles可基於CISA安全基準，比對用戶雲端環境設定並產出評估報告，協助管理者找出防護缺口",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Sony日本ISP、保險業務系統被駭，外洩258萬會員、38.5萬保戶個資",
-        "link": "https://www.ithome.com.tw/news/180057",
-        "pubDate": "2026-10-29 11:04",
-        "description": "Sony旗下日本網路服務與保險業務接連傳出資安事件，So-net及plala遭駭，超過258萬筆會員資料外洩，Sony生命保險也傳出約38.5萬筆保險契約相關個資外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Linux核心、VMware ESX漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180055",
-        "pubDate": "2026-10-29 10:51",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，他們掌握Linux核心漏洞CVE-2026-46300（Fragnesia）、VMware ESX漏洞CVE-2026-41709遭積極利用，將它們加入已遭利用漏洞名單（KEV）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客宣稱竊走美國土安全部員工資料超過4萬筆",
-        "link": "https://www.ithome.com.tw/news/180054",
-        "pubDate": "2026-10-29 10:42",
-        "description": "美國國土安全部傳出大規模人員資料外洩，駭客宣稱竊得超過4萬筆資料，除了員工個資，還包含內部系統與應用程式的存取資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "汽車零配件製造商橙的遭勒索軟體攻擊",
-        "link": "https://www.ithome.com.tw/news/180053",
-        "pubDate": "2026-10-29 10:23",
-        "description": "汽車零配件製造商橙的（4554）部分區域網路儲存設備遭受勒索病毒攻擊，該公司已啟動防禦機制因應，初步評估事件不致對整體營運造成重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "GitHub發表能在單一任務內跨模型協同的Copilot Fusion",
-        "link": "https://www.ithome.com.tw/news/180064",
-        "pubDate": "2026-10-29  12:10:54",
-        "description": "微軟GitHub本周宣布Copilot Fusion協調系統已提供給開發人員，可讓Copilot自行依任務協調多個模型以完成工作。測試顯示比只用Claude Opus 5.5省一半成本。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟季度營收成長19%，Azure大增48%，Windows裝置下滑22%",
-        "link": "https://www.ithome.com.tw/news/180062",
-        "pubDate": "2026-10-29  12:10:27",
-        "description": "微軟（Microsoft）周三（10/28）公布截至9月30日的2027財年第一季財報，該季營收達922.8億美元，年增19%，淨利（Net Income）366.3億美元，年增32%。微軟本季首度於季度財報中單獨揭露Azure營收，達331.7億美元，比去年同期成長48%。當天微軟盤後股價一度上揚3.48%，漲至549.44美元。",
-        "source": "iThome"
-      },
-      {
         "title": "千家臺灣中小企業採用，老牌印度協作軟體業者主打企業級AI、擴大在臺布局",
         "link": "https://www.ithome.com.tw/news/180077",
         "pubDate": "2026-10-29  08:10:28",
@@ -140,6 +126,20 @@
         "link": "https://www.ithome.com.tw/news/180075",
         "pubDate": "2026-10-29  06:10:46",
         "description": "傳統的城市治理高度仰賴人力，從「有人發現問題」開始，例如當道路出現坑洞，除非道路巡查人員自己發現，否則要等民眾撥打1999陳情；另外當道路發生大量積水，市府可能要等民眾通報才會處理。\n高雄市希望改變這種傳統的城市治理模式。2024年高雄市政府和Nvidia、中華電信、鴻海、Linker Vision、資拓宏宇等業者合作，共同啟動「高雄AI燈塔」計畫，目的是打造一套城市級AI治理架構，讓AI扮演大腦的角色，從城市中的攝影機、感測設備與各類資料中主動發現異常事件，再將相關的分析結果通知相關權責單位處",
+        "source": "iThome"
+      },
+      {
+        "title": "Google推出Connected Apps平臺，第三方應用可一次串接Gemini與搜尋",
+        "link": "https://www.ithome.com.tw/news/180073",
+        "pubDate": "2026-10-29  06:10:11",
+        "description": "Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將自家服務功能提供給Gemini與Google搜尋使用。開發者可在Connected Apps開發平臺註冊、測試及提交審查，雲端MCP伺服器可讓服務在Gemini、Google搜尋或兩者提供，Android MCP則僅支援Android版Gemini。目前採分階段開放，開發者須申請參與。",
+        "source": "iThome"
+      },
+      {
+        "title": "Nvidia釋出Nemotron 3.5語音模型，整合轉錄、翻譯與講者辨識",
+        "link": "https://www.ithome.com.tw/news/180065",
+        "pubDate": "2026-10-29  02:10:19",
+        "description": "Nvidia推出開放權重語音模型Nemotron 3.5 Transcribe，將語音轉文字、翻譯、講者區分及錄音問答整合在同一模型。新模型可轉錄40種語言，其中31種支援與英語互譯，13種可標記不同講者的發言，目前已在Hugging Face及ModelScope開放下載。",
         "source": "iThome"
       }
     ],
@@ -170,13 +170,6 @@
         "link": "https://techorange.com/2026/10/28/isabel-hou-sovereign-ai-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 28 Oct 2026 14:06:07 +0800",
         "description": "專訪：戴季全撰稿：張哲瑋 談到主權 AI，不少人的第一印象是台灣要訓練一個自己的大模型。數位發展部政務次長侯宜秀在《全新一週》提出不同看法：從主權的概念來看，主權 AI「一定不是只有硬體，或甚至不是一定只有模型」，資料、治理與安全同樣關鍵。 侯宜秀是律師出身，2025 年 9 月加入政府前，曾任財團法人台灣人工智慧學校基金會秘書長，也是 g0v 零時政府揪松團決策委員。本集節目中，她從主權 AI 的架構，談到企業導入 AI 代理（AI Agent）後的資料治理、風險管理與商機。當 AI 代理開始",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Anthropic 主管停考程式面試、Snowflake 新聘七至八成是初階工程師：AI 時代新人反而更搶手？",
-        "link": "https://techorange.com/2026/10/28/anthropic-hunger-beats-tenure-advice-junior-engineers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 28 Oct 2026 13:05:53 +0800",
-        "description": "近日，AI 公司 Anthropic 工程經理 Felix Rieseberg 發表文章表示，他已不再於招募時使用傳統程式面試，並認為在 AI 時代，相對新進的工程師同樣有機會做出成果、超越年資更久的同事。資料與 AI 平台 Snowflake 工程資深副總裁 Vivek Raghunathan 先前也在《Fast Company》撰文指出，Snowflake 目前的招募名額中，初階工程師占 70% 至 80%，因為若淘汰初階工程師，未來將不會有兼具判斷力、直覺，並扎實理解 AI 原生開發方式的",
         "source": "TechOrange"
       },
       {
@@ -248,6 +241,13 @@
         "pubDate": "Thu, 29 Oct 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google TPU 首度跨雲進駐 Oracle！NVIDIA 擬擴張多 GW AI 算力 Oracle 與 Google 在 10 月 27 日宣布，將 Google 自研的張量處理器（TPU）引進 Oracle Cloud Infrastructure（OCI），預計 2027 年開始提供服務。這是 Google TPU 首次進入 Google 以外的超大型雲端平台。Google 第八代 TPU 分為針對模型訓練設計的 TPU 8t，以及著",
         "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Google Cloud 營收暴增 103%！Microsoft Azure 成長 48%，AI 投資成本攀升",
+        "link": "https://techorange.com/2026/10/30/google-cloud-microsoft-azure-ai-revenue-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊Google Cloud 營收暴增 103%，Microsoft Azure 成長 48% Google 母公司字母控股（Alphabet）與微軟（Microsoft）在 10 月 28 日公布最新季度財報，兩家公司的雲端業務均受惠於企業 AI 需求。Alphabet 第三季營收達 1,275.8 億美元，年增 25%，其中 Google Cloud 營收達 307.1 億美元，年增 103%，創下新高。公司指出，成長動能來自企業 AI 基礎設",
+        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -273,13 +273,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
-        "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
-        "pubDate": "Wed, 28 Oct 2026 12:45:47 -0400",
-        "description": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
         "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
         "pubDate": "Thu, 29 Oct 2026 21:27:05 +0530",
@@ -292,6 +285,13 @@
         "pubDate": "Thu, 29 Oct 2026 20:50:29 +0530",
         "description": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.\n\nThe activity involves creating f",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+        "pubDate": "Thu, 29 Oct 2026 19:35:52 -0400",
+        "description": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
+        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
+        "pubDate": "Thu, 29 Oct 2026 23:44:56 +0000",
+        "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+        "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
+        "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
         "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
         "pubDate": "Thu, 29 Oct 2026 22:27:23 +0000",
@@ -422,7 +436,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Fan-fiction site Archive of Our Own could be offline for up to 4 weeks",
+        "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
         "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
         "pubDate": "Thu, 29 Oct 2026 20:43:56 +0000",
         "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
@@ -478,25 +492,32 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
-        "link": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/",
-        "pubDate": "Thu, 29 Oct 2026 17:00:00 +0000",
-        "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+        "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
+        "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
         "source": "TechCrunch"
       },
       {
-        "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
-        "link": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/",
-        "pubDate": "Thu, 29 Oct 2026 16:42:32 +0000",
-        "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-        "source": "TechCrunch"
+        "title": "The director of Obsession put a new horror short on YouTube",
+        "link": "https://www.theverge.com/streaming/1022934/curry-barker-obsession-horror-short-youtube-mama-bear",
+        "pubDate": "2026-10-29T19:57:18-04:00",
+        "description": "Curry Barker, the director behind the hit horror film Obsession, just published a new horror short on YouTube. The short, titled \"Mama Bear,\" is nearly five minutes long. The video is pretty unnerving, and fair warning that it gets a little graphic, ",
+        "source": "TheVerge"
       },
       {
-        "title": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
-        "link": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/",
-        "pubDate": "Thu, 29 Oct 2026 16:21:00 +0000",
-        "description": "Dream is grounded in real physics and construction standards. Just as LLMs learn from text, Dream's world model is trained on more than 100 million square feet of building data gathered from permit archives across the United States.",
-        "source": "TechCrunch"
+        "title": "Intel says it&#8217;s selling every affordable laptop chip it can make",
+        "link": "https://www.theverge.com/tech/1022911/intel-wildcat-lake-sold-out-ram-shortage",
+        "pubDate": "2026-10-29T19:42:21-04:00",
+        "description": "During Intel's latest earnings call, CEO Lip-Bu Tan said that demand for its budget-focused Wildcat Lake chips \"is outstripping supply.\" According to CFO David Zinsner, the chips are now sold out. Zinsner said Intel has \"seen significant growth in Wi",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Reddit’s CEO says Google’s AI Mode ‘does not drive traffic’",
+        "link": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+        "pubDate": "2026-10-29T18:19:32-04:00",
+        "description": "Reddit CEO Steve Huffman said in an earnings call today that Google's AI-powered search modes do not help with traffic to the platform, echoing problems facing other websites and publishers. As part of its Q3 2026 earnings, Reddit revealed that searc",
+        "source": "TheVerge"
       },
       {
         "title": "Patrick Stewart has died at age 86",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/tech/1022571/reddit-login-requirement-q3-2026-earnings",
         "pubDate": "2026-10-29T16:07:00-04:00",
         "description": "Reddit is announcing a huge shift: It's going to start requiring users to log in. Right now, you can browse Reddit without having an account, and the site is generally a great resource for crowdsourced information on a whole range of topics. I know I",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Rivian’s R2 is officially its best-selling vehicle",
-        "link": "https://www.theverge.com/transportation/1022420/rivian-q3-earnings-r2-sales-volkswagen-software",
-        "pubDate": "2026-10-29T16:02:00-04:00",
-        "description": "Rivian reported its third quarter earnings of 2026, providing us a closer look at the company's financial health as it ramps up production of its all-important R2 electric vehicle - which is now, for the first time, outselling all of Rivian's other E",
-        "source": "TheVerge"
-      },
-      {
-        "title": "GM to pay $220 million to resolve claims it sold driving habits data",
-        "link": "https://www.theverge.com/transportation/1022555/gm-data-privacy-attorneys-general-lawsuit",
-        "pubDate": "2026-10-29T15:19:28-04:00",
-        "description": "General Motors has agreed to pay $220 million to settle claims that it illegally sold driver and location information to data brokers, as reported earlier by Reuters. The agreement, which resolves a complaint from a coalition of 36 US attorneys gener",
-        "source": "TheVerge"
-      },
-      {
-        "title": "You can generate and edit Google Docs files directly in Gemini chats now",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
-        "pubDate": "2026-10-29T14:45:31-04:00",
-        "description": "Now you can generate, preview, and edit PDFs, Google Docs, Google Sheets, slide decks, Markdown files, TXT files, and code directly within Google Gemini. The new file editing capabilities are available starting today for all Gemini users, and while P",
         "source": "TheVerge"
       }
     ],
