@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-30T15:51:54.641174Z",
+  "ts": "2026-10-30T20:43:26.720915Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,27 +301,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-        "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-        "pubDate": "Thu, 29 Oct 2026 17:09:18 +0530",
-        "description": "A flaw in Telegram for Android could be chained with two other bugs to take full control of a victim's phone through a voice call, once the victim answered, according to security startup NebuSec.\n\nThe attacker needed only an ordinary Telegram account",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-        "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-        "pubDate": "Thu, 29 Oct 2026 17:03:41 +0530",
-        "description": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that AI systems c",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-        "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-        "pubDate": "Thu, 29 Oct 2026 17:03:15 +0530",
-        "description": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it.\n\nIndependent researcher Ben Zimmermann found them by",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
         "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
         "pubDate": "Thu, 29 Oct 2026 15:23:41 -0400",
@@ -343,11 +322,25 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-        "pubDate": "Thu, 29 Oct 2026 10:35:40 -0400",
-        "description": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-        "source": "BleepingComputer"
+        "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+        "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+        "pubDate": "Fri, 30 Oct 2026 22:28:44 +0530",
+        "description": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by Crow",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+        "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+        "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
+        "description": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+        "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+        "pubDate": "Fri, 30 Oct 2026 19:38:14 +0530",
+        "description": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released.\n\nThe vulnerability, which does not have a CVE identifier, relates to a case of remote code execution impacting",
+        "source": "TheHackerNews"
       },
       {
         "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
@@ -376,6 +369,13 @@
         "pubDate": "Fri, 30 Oct 2026 14:25:47 +0530",
         "description": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on affected system",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+        "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+        "pubDate": "Fri, 30 Oct 2026 13:15:30 +0530",
+        "description": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component.\n\nThe vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce Core version",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -401,38 +401,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk is ‘truly a genius,’ says Vladimir Putin",
-        "link": "https://techcrunch.com/2026/10/29/elon-musk-is-truly-a-genius-says-vladimir-putin/",
-        "pubDate": "Thu, 29 Oct 2026 21:51:29 +0000",
-        "description": "Putin said that he and Musk are in \"close contact\" about Rassvet, Russia's Starlink-like satellite connectivity project.",
+        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
+        "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
+        "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
+        "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon reported booming cloud revenue but otherwise missed expectations",
-        "link": "https://techcrunch.com/2026/10/29/amazon-reported-booming-cloud-revenue-but-otherwise-missed-expectations/",
-        "pubDate": "Thu, 29 Oct 2026 21:20:47 +0000",
-        "description": "The biggest ouch of the report was its negative free cash flow of $2.4 billion.",
+        "title": "Satlyt takes another step toward turning satellites into space data centers",
+        "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
+        "pubDate": "Fri, 30 Oct 2026 18:01:24 +0000",
+        "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
         "source": "TechCrunch"
       },
       {
-        "title": "GM reaches $220M settlement over selling drivers’ private data",
-        "link": "https://techcrunch.com/2026/10/29/gm-reaches-220m-settlement-over-selling-drivers-private-data/",
-        "pubDate": "Thu, 29 Oct 2026 21:01:04 +0000",
-        "description": "As part of the settlement, GM must get drivers’ express consent before it collects or shares their driving and location data.",
+        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+        "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+        "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
+        "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
         "source": "TechCrunch"
       },
       {
-        "title": "Fan-fiction site Archive of Our Own (AO3) could be offline for up to 4 weeks after security incident",
-        "link": "https://techcrunch.com/2026/10/29/fan-fiction-site-archive-of-our-own-could-be-offline-for-up-to-4-weeks/",
-        "pubDate": "Thu, 29 Oct 2026 20:43:56 +0000",
-        "description": "The site has such a passionate user base that, within two hours of the announcement, its status page's posts had garnered millions of views (and much panicked commentary) across social media.",
+        "title": "Google’s first data center satellite is online and writing poetry",
+        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+        "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
+        "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
         "source": "TechCrunch"
       },
       {
-        "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
-        "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
-        "pubDate": "Thu, 29 Oct 2026 20:08:31 +0000",
-        "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
+        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+        "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+        "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
+        "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
         "source": "TechCrunch"
       },
       {
@@ -453,7 +453,7 @@
         "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
         "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
         "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
-        "description": "DoorDash said that it is open to working with third-party agent makers",
+        "description": "DoorDash said that it is open to working with third-party agent makers.",
         "source": "TechCrunch"
       },
       {
@@ -471,7 +471,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+        "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
         "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
         "pubDate": "Fri, 30 Oct 2026 07:01:00 +0000",
         "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
-        "link": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
-        "pubDate": "2026-10-30T11:29:02-04:00",
-        "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depo",
+        "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+        "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+        "pubDate": "2026-10-30T14:21:38-04:00",
+        "description": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on ",
         "source": "TheVerge"
       },
       {
-        "title": "Pope Leo calls for the disarmament of AI: ‘Machines are tools, not persons’",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023188/pope-leo-disarm-ai",
-        "pubDate": "2026-10-30T10:58:06-04:00",
-        "description": "Pope Leo XIV says AI systems should be \"disarmed,\" adding that humans \"have the responsibility to guide, change and, when necessary, reject its applications.\" In Friday's Papal Address, Pope Leo encourages United Nations member states to \"take concre",
+        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
+        "pubDate": "2026-10-30T13:38:04-04:00",
+        "description": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating custome",
         "source": "TheVerge"
       },
       {
-        "title": "This electric screwdriver uses a camera and AI to figure out what bit you need",
-        "link": "https://www.theverge.com/tech/1023057/arrowmax-arrowspace-s1-electric-screwdriver-ai-camera-kickstarter",
-        "pubDate": "2026-10-30T10:23:26-04:00",
-        "description": "Companies like Hoto and Fanttik have elevated the design and functionality of tools like electric screwdrivers, but Arrowmax wants to make them smarter by adding a camera and AI that work together to eliminate the trial and error of finding the exact",
+        "title": "The delightfully messy state of Apple gadgets",
+        "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+        "pubDate": "2026-10-30T13:25:20-04:00",
+        "description": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to wa",
         "source": "TheVerge"
       },
       {
-        "title": "Waymo’s next robotaxi is a purpose-built Toyota bZ4X",
-        "link": "https://www.theverge.com/transportation/1023112/waymos-next-robotaxi-is-a-purpose-built-toyota-bz4x",
-        "pubDate": "2026-10-30T09:52:14-04:00",
-        "description": "Waymo announced today that when it launches a robotaxi service in Tokyo in 2027, it will use Toyota bZ4X electric vehicles that are assembled in Japan. The news builds on the strategic partnership between Waymo and Toyota which was first announced in",
+        "title": "Rivian’s autonomy gamble faces its first real test",
+        "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
+        "pubDate": "2026-10-30T13:16:09-04:00",
+        "description": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a cr",
         "source": "TheVerge"
       },
       {
-        "title": "Silicon Valley wants you to invest in miracles",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023070/anthropic-ipo-risk-factors-filing-miracles",
-        "pubDate": "2026-10-30T09:11:05-04:00",
-        "description": "Investing in any stock is kind of like gambling in the sense that you're betting your money on a company's future performance. But how do you bet on a technology that could, in the worst-case scenario, \"pose catastrophic or existential risks to human",
+        "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
+        "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
+        "pubDate": "2026-10-30T13:01:07-04:00",
+        "description": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to",
         "source": "TheVerge"
       }
     ],
