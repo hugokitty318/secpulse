@@ -1,12 +1,75 @@
 {
-  "ts": "2026-10-30T02:34:01.217022Z",
+  "ts": "2026-10-30T08:58:15.144984Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "全家行動購部分會員資料遭非法擷取，起因是委外廠商91APP資料庫遭自動化攻擊",
+        "link": "https://www.ithome.com.tw/news/180105",
+        "pubDate": "2026-10-30 15:21",
+        "description": "全家便利商店（5903）近日表示接獲委外服務廠商91APP通知，因資料庫遭受自動化攻擊，導致全家線上平臺「行動購」部分會員資料遭非法擷取。該公司已啟動資安事件應變機制、通報主管機關，並通知會員",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Linux TCP漏洞可被用來遠端取得root權限，部分發行版尚未修補",
+        "link": "https://www.ithome.com.tw/news/180101",
+        "pubDate": "2026-10-30 14:43",
+        "description": "駭客可能利用Linux核心TCP漏洞，對具備MPTCP監聽服務的伺服器發動攻擊，無須登入就能取得root權限，Anthropic已完成攻擊驗證，部分Linux發行版仍待修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科修補防火牆已遭積極利用的阻斷服務漏洞",
+        "link": "https://www.ithome.com.tw/news/180102",
+        "pubDate": "2026-10-30 14:38",
+        "description": "思科揭露Secure Firewall ASA與FTD防火牆阻斷服務漏洞CVE-2026-76418，並警告已遭積極利用，強烈建議用戶儘速套用更新因應",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Hive與Nefilim勒索軟體集團成員遭美國判刑，將入獄70個月",
+        "link": "https://www.ithome.com.tw/news/180099",
+        "pubDate": "2026-10-30 12:59",
+        "description": "烏克蘭籍男子曾參與兩個勒索軟體集團，攻擊全球企業與醫療機構，美國司法部持續懸賞追捕其共犯",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google修補Chrome 156，公布21個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180097",
+        "pubDate": "2026-10-30 12:16",
+        "description": "本週Google二度發布Chrome更新，這次該公司一共修補21個資安漏洞，其中1個為重大等級、19個為高風險等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本航空第三方訂位系統遭入侵，約9.2萬名旅客資料受影響",
+        "link": "https://www.ithome.com.tw/news/180096",
+        "pubDate": "2026-10-30 11:39",
+        "description": "日本航空與日本越洋航空使用的第三方旅客服務系統遭未授權存取，約9.2萬名旅客的訂位資料受影響，部分資料包括護照號碼等個資",
+        "source": "iThome資安"
+      },
+      {
+        "title": "年末購物旺季將至，Palo Alto Networks示警零售業面臨多重網路威脅",
+        "link": "https://www.ithome.com.tw/news/180095",
+        "pubDate": "2026-10-30 11:12",
+        "description": "勒索軟體、資料竊取、DDoS及數位側錄風險升高，駭客也開始利用AI大幅縮短入侵所需時間",
+        "source": "iThome資安"
+      },
+      {
+        "title": "DEVCORE研究員公布在Pwn2Own競賽揭露的Edge攻擊鏈，串連5個弱點突破瀏覽器防護機制",
+        "link": "https://www.ithome.com.tw/news/180088",
+        "pubDate": "2026-10-30 10:13",
+        "description": "臺灣資安公司DEVCORE首席資安研究員Orange Tsai（蔡政達）近日公開瀏覽器Edge完整攻擊鏈，他在沒有借助AI的情況下，藉由5個邏輯運算弱點，並搭配Windows功能，最終成功在作業系統執行任意程式碼",
+        "source": "iThome資安"
+      },
       {
         "title": "日本樂天兩個旅遊網站遭駭外洩用戶個資354萬，臺灣網站不受影響",
         "link": "https://www.ithome.com.tw/news/180087",
         "pubDate": "2026-10-30 10:05",
         "description": "樂天集團證實，旗下兩個旅遊網站遭非授權存取，最多約354萬筆客戶及旅宿業者資料受影響，包括姓名、電子郵件地址及部分信用卡資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI加快漏洞發現，CSA提出VulnOps模式改善企業漏洞管理",
+        "link": "https://www.ithome.com.tw/news/180046",
+        "pubDate": "2026-10-30 08:00",
+        "description": "AI加快漏洞發現速度，企業既有修補流程可能難以跟上。雲端安全聯盟（CSA）提出VulnOps漏洞管理模式，整合不同來源的漏洞資訊，依據實際風險安排處理順序，並以Absorption Rate指標衡量企業能否有效控制待處理漏洞的累積",
         "source": "iThome資安"
       },
       {
@@ -17,13 +80,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國擬修法強化海底電纜安全，要求業者管理安全風險並通報事故",
-        "link": "https://www.ithome.com.tw/news/180038",
-        "pubDate": "2026-10-30 08:00",
-        "description": "英國政府提出海底關鍵基礎設施安全修法方案，蓄意破壞海底電纜及能源管線者，最高可判14年徒刑，海底電信基礎設施業者也將面臨更嚴格的安全要求",
-        "source": "iThome資安"
-      },
-      {
         "title": "微軟發布Windows緊急更新，移除eMudhra問題憑證的預設信任",
         "link": "https://www.ithome.com.tw/news/180066",
         "pubDate": "2026-10-30 08:00",
@@ -31,11 +87,32 @@
         "source": "iThome資安"
       },
       {
-        "title": "AI加快漏洞發現，CSA提出VulnOps模式改善企業漏洞管理",
-        "link": "https://www.ithome.com.tw/news/180046",
+        "title": "英國擬修法強化海底電纜安全，要求業者管理安全風險並通報事故",
+        "link": "https://www.ithome.com.tw/news/180038",
         "pubDate": "2026-10-30 08:00",
-        "description": "AI加快漏洞發現速度，企業既有修補流程可能難以跟上。雲端安全聯盟（CSA）提出VulnOps漏洞管理模式，整合不同來源的漏洞資訊，依據實際風險安排處理順序，並以Absorption Rate指標衡量企業能否有效控制待處理漏洞的累積",
+        "description": "英國政府提出海底關鍵基礎設施安全修法方案，蓄意破壞海底電纜及能源管線者，最高可判14年徒刑，海底電信基礎設施業者也將面臨更嚴格的安全要求",
         "source": "iThome資安"
+      },
+      {
+        "title": "DoorDash砸170億美元收購Instacart，整合餐飲與生鮮外送市場",
+        "link": "https://www.ithome.com.tw/news/180094",
+        "pubDate": "2026-10-30  11:10:30",
+        "description": "美國外送平臺龍頭DoorDash周四（10/29）宣布，將以約170億美元收購生鮮雜貨配送平臺Instacart，整合雙方的餐飲、生鮮及零售配送業務，並結合電商、廣告及AI技術，擴大在美國零售配送市場的影響力。有鑑於DoorDash與Instacart原本在美國生鮮配送市場就是競爭對手，此一交易可能引發反壟斷審查。",
+        "source": "iThome"
+      },
+      {
+        "title": "從AI伴行到AI優先，奇美醫院揭AI發展4階段布局",
+        "link": "https://www.ithome.com.tw/news/180107",
+        "pubDate": "2026-10-30  03:10:58",
+        "description": "奇美醫院院長林宏榮日前在臺灣醫院資訊主管會議上，揭露奇美醫院AI發展路徑，從2005年的基礎數位化開始累積分析能力，到了2019年成立AI中心、從BI過渡到AI，2023年開始投入生成式AI應用、進入AI Together（AI伴行）階段，2025年至今則瞄準代理型AI（Agentic AI）應用。\n在AI伴行階段，奇美醫院將AI視為醫護人員的工作助手，因此打造A+巡房大聯盟和A+ HIS Copilot助手，比如A+藥安師，來輔助醫護整理病歷資料、提醒注意事項、跨職類同步病人資訊。目前，奇美準",
+        "source": "iThome"
+      },
+      {
+        "title": "Amazon AWS營收成長39%，營業利益率創歷史新高",
+        "link": "https://www.ithome.com.tw/news/180100",
+        "pubDate": "2026-10-30  01:10:32",
+        "description": "Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元，年增12%，營業利益280.8億美元，年增61%，營業利益率達13.9%，創下歷史新高。其中，雲端業務Amazon Web Services（AWS）營收比去年同期成長39%，創近5年最快增速，成為推動Amazon獲利成長的主要動力。",
+        "source": "iThome"
       },
       {
         "title": "行動App安全規範與技術持續更新，執行環境防護與白箱加密成焦點",
@@ -50,128 +127,9 @@
         "pubDate": "2026-10-29 18:41",
         "description": "面對AI與自動化工具加速行動應用逆向分析的挑戰，Digital.ai亞太資安銷售工程師Pil Park以實證指出，傳統加殼與局部加密仍可能遭到突破，企業應進一步強化類別加密與深度混淆，提高分析難度。同時指出，App偵測威脅後的防護反應可能暴露線索，若動作過於固定，也容易讓攻擊者掌握觸發條件",
         "source": "iThome資安"
-      },
-      {
-        "title": "Tailscale釋出1.104.4安全更新，修補SSH與Serve功能共4項漏洞",
-        "link": "https://www.ithome.com.tw/news/180071",
-        "pubDate": "2026-10-29 16:46",
-        "description": "Tailscale 1.104.4修補SSH與Serve共4項安全漏洞，除了防止一般帳號越權存取管理介面，也修正可能造成主機遭接管、連線中斷及錯誤授權的缺陷",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】10月29日，北韓駭客鎖定216臺PHP主機掃描PHP2Shell漏洞，臺灣列入目標範圍",
-        "link": "https://www.ithome.com.tw/news/180068",
-        "pubDate": "2026-10-29 14:50",
-        "description": "資安公司Cyfirma揭露北韓駭客鎖定PHP2Shell漏洞的活動，攻擊者篩選出216臺疑似尚未修補的主機，並透過21個遭入侵的節點，以低頻率方式進行漏洞掃描，目標涵蓋政府、金融、物流及製造業等領域。值得留意的是，臺灣也是這些駭客的主要目標",
-        "source": "iThome資安"
-      },
-      {
-        "title": "甫修補的Oracle E-Business Suite重大漏洞遭到利用",
-        "link": "https://www.ithome.com.tw/news/180067",
-        "pubDate": "2026-10-29 14:25",
-        "description": "威脅情報公司Defused Cyber警告，一週前Oracle修補ERP系統E-Business Suite的重大漏洞CVE-2026-101767，已出現利用活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "macOS 27.2未修補eMudhra憑證風險，Git與curl仍可能遭中間人攻擊",
-        "link": "https://www.ithome.com.tw/news/180061",
-        "pubDate": "2026-10-29 12:39",
-        "description": "Apple雖已在Safari封鎖eMudhra問題憑證，但macOS 27.2的Git與curl等工具仍可能誤信冒名網站，導致程式碼下載遭竄改，系統更新還可能使手動修正失效",
-        "source": "iThome資安"
-      },
-      {
-        "title": "PHP2Shell漏洞影響多家IT與OT廠商的產品，相關公告陸續出爐",
-        "link": "https://www.ithome.com.tw/news/180047",
-        "pubDate": "2026-10-29 12:38",
-        "description": "10月下半爆發的PHP2Shell漏洞，由於全球有高達7成網站伺服器暴露在此批重大漏洞的風險中，而備受關注，然而，許多市售的IT與OT系統也採用存在PHP2Shell漏洞的PHP版本，目前已知影響範圍到底有多廣？我們可以從廠商近期的公告得知",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客Volt Typhoon綁架連網設備打造攻擊框架Silent Train，用於攻擊美國關鍵基礎設施",
-        "link": "https://www.ithome.com.tw/news/180063",
-        "pubDate": "2026-10-29 12:24",
-        "description": "電信公司Lumen揭露可隱匿攻擊活動的框架Silent Train，中國駭客組織Volt Typhoon透過遭入侵的SOHO裝置、物聯網裝置，以及企業基礎設施建立多層架構的系統，用來轉送攻擊流量，藉此攻擊多種美國關鍵基礎設施，其中包含至少4次零時差漏洞攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國制裁北韓遠端IT工作詐騙網絡，鎖定俄羅斯洗錢中間人",
-        "link": "https://www.ithome.com.tw/news/180060",
-        "pubDate": "2026-10-29 12:04",
-        "description": "美國財政部宣布制裁10名個人及1個實體，指控涉及北韓政府海外IT工作詐騙活動，並透過加密貨幣轉移數百萬美元所得",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Adobe發布10月下半更新，修補8個Campaign Classic重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180059",
-        "pubDate": "2026-10-29 11:49",
-        "description": "本週Adobe針對Campaign Classic、Adobe Connect、Creative Cloud等4種應用系統提供更新，其中Campaign Classic修補8個重大漏洞最受到關注，有4個CVSS評分更達到了9.9",
-        "source": "iThome資安"
-      },
-      {
-        "title": "千家臺灣中小企業採用，老牌印度協作軟體業者主打企業級AI、擴大在臺布局",
-        "link": "https://www.ithome.com.tw/news/180077",
-        "pubDate": "2026-10-29  08:10:28",
-        "description": "老牌印度協作軟體公司Zoho今日來臺舉辦首次媒體說明會，要擴大在臺的產品推廣規模，主打企業級AI生產力與營運工具產品線，包括由大型語言模型（LLM）驅動的Zia Chat、可融入工作流程執行任務的Zia Agents，以及提供50多支應用程式的Zoho One一站式平臺。\nZoho亞太區董事總經理Gibu Mathew透露，臺灣市場營收在過去一年成長了54%，目前已有1千多家臺灣中小企業導入Zoho服務。他也強調，Zoho旗下60多支應用程式皆自行開發、維運，比起企業選用不同廠牌軟體、來回切換登",
-        "source": "iThome"
-      },
-      {
-        "title": "GitHub開源AI原型工具Replica，可參考企業設計規範製作互動介面",
-        "link": "https://www.ithome.com.tw/news/180076",
-        "pubDate": "2026-10-29  08:10:27",
-        "description": "GitHub開源AI原型工具Replica，讓設計師、產品經理及工程師透過GitHub Copilot應用程式，以自然語言製作可操作的介面原型。Replica能參考團隊既有的設計元件、介面規範與文件產生畫面，並能搭配自行架設的Replica Hub協作平臺，分享原型及收集同事意見。",
-        "source": "iThome"
-      },
-      {
-        "title": "高雄打造城市AI大腦，讓AI從看懂影像到推理事件原因，早一步發現淹水、塞車與道路異常",
-        "link": "https://www.ithome.com.tw/news/180075",
-        "pubDate": "2026-10-29  06:10:46",
-        "description": "傳統的城市治理高度仰賴人力，從「有人發現問題」開始，例如當道路出現坑洞，除非道路巡查人員自己發現，否則要等民眾撥打1999陳情；另外當道路發生大量積水，市府可能要等民眾通報才會處理。\n高雄市希望改變這種傳統的城市治理模式。2024年高雄市政府和Nvidia、中華電信、鴻海、Linker Vision、資拓宏宇等業者合作，共同啟動「高雄AI燈塔」計畫，目的是打造一套城市級AI治理架構，讓AI扮演大腦的角色，從城市中的攝影機、感測設備與各類資料中主動發現異常事件，再將相關的分析結果通知相關權責單位處",
-        "source": "iThome"
-      },
-      {
-        "title": "Google推出Connected Apps平臺，第三方應用可一次串接Gemini與搜尋",
-        "link": "https://www.ithome.com.tw/news/180073",
-        "pubDate": "2026-10-29  06:10:11",
-        "description": "Google推出Connected Apps Platform預覽版，讓第三方開發者透過MCP將自家服務功能提供給Gemini與Google搜尋使用。開發者可在Connected Apps開發平臺註冊、測試及提交審查，雲端MCP伺服器可讓服務在Gemini、Google搜尋或兩者提供，Android MCP則僅支援Android版Gemini。目前採分階段開放，開發者須申請參與。",
-        "source": "iThome"
-      },
-      {
-        "title": "Nvidia釋出Nemotron 3.5語音模型，整合轉錄、翻譯與講者辨識",
-        "link": "https://www.ithome.com.tw/news/180065",
-        "pubDate": "2026-10-29  02:10:19",
-        "description": "Nvidia推出開放權重語音模型Nemotron 3.5 Transcribe，將語音轉文字、翻譯、講者區分及錄音問答整合在同一模型。新模型可轉錄40種語言，其中31種支援與英語互譯，13種可標記不同講者的發言，目前已在Hugging Face及ModelScope開放下載。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "荷蘭擬 10 年縮減 2.5 萬個公職，AI 真能讓政府瘦身？專家警告申訴量可能增加",
-        "link": "https://techorange.com/2026/10/28/dutch-plan-cut-25-000-jobs-will-show-whether-ai-shrink-government/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 28 Oct 2026 18:03:10 +0800",
-        "description": "荷蘭政府近日宣布，計畫在未來 10 年減少約 2.5 萬個全職政府職位，目標從 2035 年起每年節省 35 億歐元（約 39 億美元），並將在 2027 年第一季前提出如何運用 AI 協助達成目標的詳細計畫。 《Bloomberg》形容，這項以 AI 為主軸的效率計畫，可能是目前為止政府運用科技縮減人力最具野心的計畫；但要讓計畫奏效，並在其他國家推行類似方案，可能並不容易。 荷蘭擬削減 2.5 萬個職位，部分機關人力最多恐砍 60% 荷蘭政府打算透過這項計畫，減少約 15% 的中央政府人力。警",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Qwen3.8 試圖連往阿里雲，是後門還是訓練殘留？企業部署 AI 代理先管住對外連線",
-        "link": "https://techorange.com/2026/10/28/cohere-qwen38-alibaba-cloud-upload/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 28 Oct 2026 17:23:24 +0800",
-        "description": "加拿大企業 AI 模型公司 Cohere 在美國時間 10 月 26 日發布報告指出，阿里巴巴的開放權重（open-weight，公開模型權重供外界下載部署）模型 Qwen3.8-Flash-Next 在一次資安基準測試中，沒有完成指派的任務，反而探查所在環境，並試圖把一段測試字串上傳到阿里雲北京區的雲端儲存空間。這個請求被測試用的沙盒（sandbox，與外部網路隔離的測試環境）擋下，但模型的推理紀錄（reasoning trace，模型行動前寫下的思考過程）中，卻寫著它不會呼叫任何工具。 Co",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「導入 AI 是競爭力，還是入場券？」鴻海集團亞灣超算蘇介安：差異化才是關鍵",
-        "link": "https://techorange.com/2026/10/28/foxconn-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 28 Oct 2026 15:02:13 +0800",
-        "description": "當百工百業開始使用 AI，搶先導入 AI 到工作流的企業就能脫穎而出嗎？鴻海集團亞灣超算產品總監蘇介安於 TechOrange 科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」，分享企業需要先辨識哪些 AI 應用值得投入與深化為強項，並在推動 AI 發展的同時，掌握資料治理與 AI 控制權。 「你必須在企業端去辨識，AI 到底應用在哪一個階層，」蘇介安引用 Gartner 的架構，依企業競爭力，將 AI 應用分成三層來說明 AI 的商業價值。最底層是維持市場生存的「基本門檻」，如同數位結",
-        "source": "TechOrange"
-      },
-      {
-        "title": "主權 AI 不只是自己練大模型，數發部次長侯宜秀：企業導入 AI 代理，先把資料與 Know-how 留在自己手上",
-        "link": "https://techorange.com/2026/10/28/isabel-hou-sovereign-ai-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 28 Oct 2026 14:06:07 +0800",
-        "description": "專訪：戴季全撰稿：張哲瑋 談到主權 AI，不少人的第一印象是台灣要訓練一個自己的大模型。數位發展部政務次長侯宜秀在《全新一週》提出不同看法：從主權的概念來看，主權 AI「一定不是只有硬體，或甚至不是一定只有模型」，資料、治理與安全同樣關鍵。 侯宜秀是律師出身，2025 年 9 月加入政府前，曾任財團法人台灣人工智慧學校基金會秘書長，也是 g0v 零時政府揪松團決策委員。本集節目中，她從主權 AI 的架構，談到企業導入 AI 代理（AI Agent）後的資料治理、風險管理與商機。當 AI 代理開始",
-        "source": "TechOrange"
-      },
       {
         "title": "91APP 遭駭為何花了 11 天才查出破口？駭客是如何突破防線",
         "link": "https://techorange.com/2026/10/29/91app-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -243,6 +201,34 @@
         "source": "TechOrange"
       },
       {
+        "title": "不怕 AI 被斷供？Mistral 公開兆參數 Large 4 權重，金融、製造業可自建資安防禦",
+        "link": "https://techorange.com/2026/10/30/mistral-large-4-open-weights-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 14:35:32 +0800",
+        "description": "法國 AI 新創 Mistral AI 在 10/29 公開旗艦模型 Mistral Large 4（暱稱 Le Chonk）的權重，企業與政府可以自行下載，部署在自家系統上。公司表示，這款 1 兆參數的模型是為了幫助組織找出並修補資安漏洞而設計；和 Google Gemini 這類主要透過線上服務使用的 AI 系統不同，任何人都能下載、獨立執行 Large 4。 Mistral 科學副總裁 Pierre Stock 指出，正因為 Large 4 是開放權重（open-weight，公開模型參數",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
+        "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 12:01:46 +0800",
+        "description": "邊緣人工智慧（Edge AI）如今幾乎已和電腦視覺畫上等號，透過攝影機在裝置端辨識人物、物體與人臉。但嵌入式 AI 解決方案公司 embedUR systems 創辦人暨執行長 Rajesh Subramaniam 近日在《Forbes》撰文指出，視覺只是最早導入邊緣運算的感知方式，在許多場景中其實並不適合；他認為，無線感測（Wireless Sensing）是 Edge AI 的下一步。 Subramaniam 指出，攝影機在黑暗環境中的表現較差，耗電量也可能超出電池供電裝置所能負荷；無線感測",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AWS 創近五年最快成長、Google Cloud 營收翻倍，股價卻下跌：華爾街為何擔心 AI 燒錢？",
+        "link": "https://techorange.com/2026/10/30/amazon-alphabet-ai-capex-cloud-cash-flow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 11:51:11 +0800",
+        "description": "Google 母公司 Alphabet 與亞馬遜分別在美國時間 10/28、10/29 公布第三季財報，雲端業務都交出亮眼成績：Google Cloud 營收年增 103%，亞馬遜的雲端服務 AWS（Amazon Web Services）營收年增 39%，是近五年來最快。但市場反應冷淡，Alphabet 股價在 10/29 重挫 12.6%，是史上最大單日跌幅（以百分比計），亞馬遜股價也在財報公布後走低。 現金是市場關注的焦點之一：亞馬遜過去 12 個月的自由現金流出持續擴大，Alphabet",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【模型疲勞，中國更明顯】每次升級都重設價格底線，AI 業者積極開拓利基市場",
+        "link": "https://techorange.com/2026/10/30/ai-model-fatigue-in-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 30 Oct 2026 10:02:30 +0800",
+        "description": "當新款 AI 模型推出且不斷更新、升級，雖然反映人工智慧高速進步，但卻也同時引發開發者與科技從業者的模型疲勞，中國科技界尤其明顯，廠商更得因此打起價格戰。",
+        "source": "TechOrange"
+      },
+      {
         "title": "【科技早餐】Google Cloud 營收暴增 103%！Microsoft Azure 成長 48%，AI 投資成本攀升",
         "link": "https://techorange.com/2026/10/30/google-cloud-microsoft-azure-ai-revenue-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 30 Oct 2026 05:30:00 +0800",
@@ -251,13 +237,6 @@
       }
     ],
     "en_sec": [
-      {
-        "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-        "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-        "pubDate": "Wed, 28 Oct 2026 23:38:33 +0530",
-        "description": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access.\n\n\"First identified in late 2023, Sil",
-        "source": "TheHackerNews"
-      },
       {
         "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
         "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
@@ -390,6 +369,13 @@
         "pubDate": "Thu, 29 Oct 2026 14:35:39 +0530",
         "description": "An attacker tried to exploit a critical GitLab vulnerability on the Alpine Linux project's own GitLab server a week after GitLab released a fix, Alpine Linux said on 28 October.\n\nThe flaw, CVE-2026-97229 (CVSS score: 10.0), can let an attacker run co",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+        "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+        "pubDate": "Thu, 29 Oct 2026 13:54:22 +0530",
+        "description": "Hackers exploited a critical Cisco Catalyst SD-WAN flaw, fixed in February, to plant custom malware inside the systems that control an organization's SD-WAN network.\n\nThe malware, called KeyDrift, is designed to copy the keys that encrypt traffic bet",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -397,11 +383,11 @@
         "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
         "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
         "pubDate": "Thu, 29 Oct 2026 23:44:56 +0000",
-        "description": "The success of blockbuster hits like Project Hail Mary and Verity is only part of the story, Amazon's CEO says.",
+        "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
         "source": "TechCrunch"
       },
       {
-        "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
         "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
         "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
         "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
@@ -485,10 +471,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Granola crunches up a dictation feature to compete with Wispr",
-        "link": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr/",
-        "pubDate": "Thu, 29 Oct 2026 17:54:38 +0000",
-        "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
+        "title": "Waymo taps Toyota to supply robotaxis for Japan and the U.K.",
+        "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
+        "pubDate": "Fri, 30 Oct 2026 07:01:00 +0000",
+        "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
         "source": "TechCrunch"
       },
       {
