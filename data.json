@@ -1,7 +1,14 @@
 {
-  "ts": "2026-10-31T06:56:45.028563Z",
+  "ts": "2026-10-31T13:36:37.280350Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Qt推出Clate嵌入式介面設計工具，支援AI生成與QML匯出",
+        "link": "https://www.ithome.com.tw/news/180114",
+        "pubDate": "2026-10-31  03:10:36",
+        "description": "Qt推出嵌入式裝置介面設計工具Clate，並對外開放第一個Beta版本0.6。設計師不必編寫程式碼，就能透過視覺化編輯器或AI生成操作畫面，再將成果匯出為QML程式碼，交由工程師整合至Qt應用程式。目前Beta版可免費下載使用。",
+        "source": "iThome"
+      },
       {
         "title": "群暉NAS遭C3RB3R勒索軟體攻擊，原廠呼籲用戶盡速更新DSM系統",
         "link": "https://www.ithome.com.tw/news/180115",
@@ -238,20 +245,6 @@
     ],
     "en_sec": [
       {
-        "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-        "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-        "pubDate": "Thu, 29 Oct 2026 21:27:05 +0530",
-        "description": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale.\n\nAnthropic said on October 27 that i",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-        "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-        "pubDate": "Thu, 29 Oct 2026 20:50:29 +0530",
-        "description": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba.\n\nThe activity involves creating f",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
         "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
         "pubDate": "Thu, 29 Oct 2026 19:35:52 -0400",
@@ -287,18 +280,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-        "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-        "pubDate": "Thu, 29 Oct 2026 15:23:41 -0400",
-        "description": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-        "source": "BleepingComputer"
+        "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+        "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+        "pubDate": "Sat, 31 Oct 2026 17:31:56 +0530",
+        "description": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result in unauthorized access to its",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-        "pubDate": "Thu, 29 Oct 2026 14:38:26 -0400",
-        "description": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
-        "source": "BleepingComputer"
+        "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+        "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+        "pubDate": "Sat, 31 Oct 2026 13:57:43 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\nThe vulnerabil",
+        "source": "TheHackerNews"
       },
       {
         "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
@@ -313,6 +306,20 @@
         "pubDate": "Sat, 31 Oct 2026 10:26:12 +0530",
         "description": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDo",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+        "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+        "pubDate": "Sat, 31 Oct 2026 09:10:19 -0400",
+        "description": "[...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+        "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+        "pubDate": "Sat, 31 Oct 2026 08:50:09 -0400",
+        "description": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
@@ -485,6 +492,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Touchscreens everywhere!",
+        "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+        "pubDate": "2026-10-31T08:00:00-04:00",
+        "description": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky M",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Here’s why you can&#8217;t shake those unhinged political texts",
+        "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
+        "pubDate": "2026-10-31T08:00:00-04:00",
+        "description": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst an",
+        "source": "TheVerge"
+      },
+      {
         "title": "Apple Intelligence is finally coming to China with iOS 27.3",
         "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
         "pubDate": "2026-10-30T18:32:53-04:00",
@@ -503,20 +524,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
         "pubDate": "2026-10-30T16:48:43-04:00",
         "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also co",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The biggest names in AI are backing a new way to opt out of scraping",
-        "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
-        "pubDate": "2026-10-30T16:26:10-04:00",
-        "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferen",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
-        "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
-        "pubDate": "2026-10-30T14:21:38-04:00",
-        "description": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on ",
         "source": "TheVerge"
       }
     ],
