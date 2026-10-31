@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T00:43:16.759380Z",
+  "ts": "2026-10-31T06:56:45.028563Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,13 +259,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-        "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-        "pubDate": "Thu, 29 Oct 2026 19:12:40 +0530",
-        "description": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities.\n\n\"It shows significant gains across coding and agentic tasks as well as across key capabilities criti",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Binance probes potential $5.8 billion crypto-theft hack",
         "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
         "pubDate": "Thu, 29 Oct 2026 18:45:23 -0400",
@@ -294,13 +287,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-        "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-        "pubDate": "Thu, 29 Oct 2026 17:09:41 +0530",
-        "description": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act.\n\nAdvanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move through we",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
         "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
         "pubDate": "Thu, 29 Oct 2026 15:23:41 -0400",
@@ -313,6 +299,20 @@
         "pubDate": "Thu, 29 Oct 2026 14:38:26 -0400",
         "description": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called KeyDrift. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+        "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+        "pubDate": "Sat, 31 Oct 2026 11:03:41 +0530",
+        "description": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed.\n\nThe researchers reported the flaw thr",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+        "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+        "pubDate": "Sat, 31 Oct 2026 10:26:12 +0530",
+        "description": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDo",
+        "source": "TheHackerNews"
       },
       {
         "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
@@ -379,6 +379,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
+        "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
+        "pubDate": "Sat, 31 Oct 2026 04:16:50 +0000",
+        "description": "The money behind the money is thrilled, mostly.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+        "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+        "pubDate": "Sat, 31 Oct 2026 01:20:05 +0000",
+        "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
         "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
@@ -468,20 +482,6 @@
         "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
         "pubDate": "Fri, 30 Oct 2026 14:00:25 +0000",
         "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
-        "link": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate/",
-        "pubDate": "Fri, 30 Oct 2026 14:00:00 +0000",
-        "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings. Register before ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-        "link": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-        "pubDate": "Fri, 30 Oct 2026 13:54:25 +0000",
-        "description": "DoorDash said that it is open to working with third-party agent makers.",
         "source": "TechCrunch"
       },
       {
