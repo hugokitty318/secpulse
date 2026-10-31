@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T17:55:19.177074Z",
+  "ts": "2026-10-31T21:27:58.818704Z",
   "tabs": {
     "cn_sec": [
       {
@@ -259,18 +259,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-        "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-        "pubDate": "Thu, 29 Oct 2026 18:09:24 -0400",
-        "description": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to trick AI co",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
         "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
         "pubDate": "Sat, 31 Oct 2026 17:31:56 +0530",
         "description": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data.\n\nHowever, the company noted that the breach did not result in unauthorized access to its",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Northflank security breach leads to abuse of customers' AI API keys",
+        "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+        "pubDate": "Sat, 31 Oct 2026 14:01:12 -0400",
+        "description": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+        "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
+        "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "OpenAI reportedly lowers funding target for new round",
         "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
         "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
@@ -485,11 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Zest’s new AI agent finds restaurants and books reservations over text",
-        "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-        "pubDate": "Fri, 30 Oct 2026 17:47:12 +0000",
-        "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
-        "source": "TechCrunch"
+        "title": "Get in the spirit with these horrors from YouTube",
+        "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
+        "pubDate": "2026-10-31T17:06:58-04:00",
+        "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for ev",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Keyboards of The Verge",
+        "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
+        "pubDate": "2026-10-31T15:30:00-04:00",
+        "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Binance CEO says 90 percent of stolen assets have been ‘replenished’",
+        "link": "https://www.theverge.com/tech/1024091/binance-ceo-90-percent-stolen-crypto",
+        "pubDate": "2026-10-31T14:40:32-04:00",
+        "description": "After hackers stole a shocking $6.3 billion from Binance customers in a record-breaking crypto heist, the company's CEO says that 90 percent of the funds have been replaced, and the company plans to cover the remaining 10 percent as well. Binance is ",
+        "source": "TheVerge"
       },
       {
         "title": "Happy Pikmin Day Eve",
@@ -503,27 +524,6 @@
         "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
         "pubDate": "2026-10-31T12:05:00-04:00",
         "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
-        "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
-        "pubDate": "2026-10-31T11:12:19-04:00",
-        "description": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improv",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-        "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-        "pubDate": "2026-10-31T11:00:00-04:00",
-        "description": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Vic Mensa can’t live without the Voice Memos app",
-        "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-        "pubDate": "2026-10-31T11:00:00-04:00",
-        "description": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or ma",
         "source": "TheVerge"
       }
     ],
