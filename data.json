@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-30T20:43:26.720915Z",
+  "ts": "2026-10-31T00:43:16.759380Z",
   "tabs": {
     "cn_sec": [
       {
@@ -173,10 +173,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "找漏洞、寫修補的 AI 先給誰用？Gemini 4 Carbon 和 Anthropic、OpenAI 一樣採相似策略",
-        "link": "https://techorange.com/2026/10/29/google-gemini-4-carbon-cyber-defenders/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 29 Oct 2026 12:49:04 +0800",
-        "description": "Google 在美國時間 10/28 發布新一代前沿模型（frontier model）Gemini 4 Carbon，主打資安能力。Google 表示，Carbon 在漏洞發掘、漏洞利用與軟體修補等資安任務上，都達到最先進水準；不過，這款模型沒有直接開放給一般開發者與企業，而是先交給一部分資安防守方使用。 讓經過審核的防守方先用上新模型，並非 Google 所獨有的做法：Anthropic、OpenAI 今年 4 月也都以審核、分級的方式，限制特定模型的使用對象。至於 Carbon 的資安成績",
+        "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
+        "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 31 Oct 2026 06:29:00 +0800",
+        "description": "博通（Broadcom）與市場調查機構 Radius Tech 合作，發布研究報告《2026 年私有雲展望：人工智慧轉折點》（Private Cloud Outlook 2026: The AI Tipping Point）。這份報告基於全球 1,800 位高階 IT 決策者的實證調查（其中 69% 來自員工人數 5,000 人以上的大型企業），揭示企業在人工智慧從概念驗證正式跨入日常生產環境時，如何因應公有雲成本失控與地緣政治監管風險，進而重塑雲端基礎設施策略。 報告指出，隨著生產級 AI（正",
         "source": "TechOrange"
       },
       {
@@ -315,13 +315,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-        "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-        "pubDate": "Thu, 29 Oct 2026 12:10:31 -0400",
-        "description": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
         "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
         "pubDate": "Fri, 30 Oct 2026 22:28:44 +0530",
@@ -357,6 +350,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+        "pubDate": "Fri, 30 Oct 2026 17:09:46 -0400",
+        "description": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
         "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
         "pubDate": "Fri, 30 Oct 2026 16:10:45 +0530",
@@ -380,24 +380,52 @@
     ],
     "en_tech": [
       {
-        "title": "Andy Jassy says Prime Video is on track to earn ‘tens of billions of dollars’",
-        "link": "https://techcrunch.com/2026/10/29/andy-jassy-says-prime-video-is-on-track-to-earn-tens-of-billions-of-dollars/",
-        "pubDate": "Thu, 29 Oct 2026 23:44:56 +0000",
-        "description": "The success of blockbuster hits like \"Project Hail Mary\" and \"Verity\" is only part of the story, Amazon's CEO says.",
+        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
+        "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
+        "pubDate": "Fri, 30 Oct 2026 23:21:23 +0000",
+        "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
         "source": "TechCrunch"
       },
       {
-        "title": "AWS will be a $1T business, Jassy says — but first, it will spend big",
-        "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
-        "pubDate": "Thu, 29 Oct 2026 23:42:22 +0000",
-        "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
+        "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
+        "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
+        "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
         "source": "TechCrunch"
       },
       {
-        "title": "Binance pauses withdrawals as hackers suspected of stealing billions in crypto",
-        "link": "https://techcrunch.com/2026/10/29/binance-pauses-withdrawals-as-hackers-suspected-of-stealing-billions-in-crypto/",
-        "pubDate": "Thu, 29 Oct 2026 22:27:23 +0000",
-        "description": "Some estimates say hackers stole billions in crypto from Binance, the world's largest cryptocurrency exchange, during a cyberattack on Thursday.",
+        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
+        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
+        "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000",
+        "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+        "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
+        "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
+        "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
+        "pubDate": "Fri, 30 Oct 2026 21:48:53 +0000",
+        "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Last-minute Halloween costumes for tech nerds",
+        "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+        "pubDate": "Fri, 30 Oct 2026 21:26:59 +0000",
+        "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Cracks are emerging in the AI spending boom",
+        "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+        "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
+        "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
         "source": "TechCrunch"
       },
       {
@@ -457,66 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-        "link": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-        "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
-        "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-        "source": "TechCrunch"
+        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+        "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+        "pubDate": "2026-10-30T18:32:53-04:00",
+        "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November",
+        "source": "TheVerge"
       },
       {
-        "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
-        "link": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026/",
-        "pubDate": "Fri, 30 Oct 2026 13:00:00 +0000",
-        "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
-        "source": "TechCrunch"
+        "title": "Exclusive details about Akai’s MPC Sample Key",
+        "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
+        "pubDate": "2026-10-30T17:01:32-04:00",
+        "description": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it wi",
+        "source": "TheVerge"
       },
       {
-        "title": "Waymo taps Toyota to supply robotaxis for Japan and the UK",
-        "link": "https://techcrunch.com/2026/10/30/waymos-next-robotaxi-will-be-a-toyota-bz4x-destined-for-japan-and-the-uk/",
-        "pubDate": "Fri, 30 Oct 2026 07:01:00 +0000",
-        "description": "Waymo will begin testing self-driving versions of Toyota's electric bZ4X vehicles in Japan next year as part of a broader partnership with the automaker.",
-        "source": "TechCrunch"
+        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+        "pubDate": "2026-10-30T16:48:43-04:00",
+        "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also co",
+        "source": "TheVerge"
       },
       {
-        "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
-        "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
-        "pubDate": "Fri, 30 Oct 2026 01:20:48 +0000",
-        "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
-        "source": "TechCrunch"
+        "title": "The biggest names in AI are backing a new way to opt out of scraping",
+        "link": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+        "pubDate": "2026-10-30T16:26:10-04:00",
+        "description": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI, as reported earlier by Search Engine Roundtable. With this control, publishers can apply their AI training preferen",
+        "source": "TheVerge"
       },
       {
         "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
         "link": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
         "pubDate": "2026-10-30T14:21:38-04:00",
         "description": "Google's AI chip-equipped satellite has generated its first response from space. In a blog post on Friday, Google says it successfully booted up the satellite's Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Starbucks wants to use AI to show you a ‘personalized digital menu’ at the drive-thru",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023440/starbucks-ai-personalized-menu-drive-thru",
-        "pubDate": "2026-10-30T13:38:04-04:00",
-        "description": "Starbucks could eventually show you a personalized digital menu when you pull up to the drive-thru. During an earnings call on Thursday, Starbucks CEO Brian Niccol said the company is going to explore \"experiences that recognize participating custome",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The delightfully messy state of Apple gadgets",
-        "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
-        "pubDate": "2026-10-30T13:25:20-04:00",
-        "description": "The iPhone has more screens! The MacBook has a touchscreen! The HomeView does CarPlay apps! For the first time in a long time, Apple is in a period of unabashed gadget experimentation, and while the final results aren't always perfect, it's fun to wa",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Rivian’s autonomy gamble faces its first real test",
-        "link": "https://www.theverge.com/transportation/1023143/rivian-autonomy-point-to-point-robotaxi-q3-2026",
-        "pubDate": "2026-10-30T13:16:09-04:00",
-        "description": "During an hourlong earnings call last night, Rivian CEO RJ Scaringe spent less time talking about the production ramp of the all-important R2 SUV than he did hyping the company's still-unproven autonomous vehicle ambitions. But the company faces a cr",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Vizio’s discounted Mini LED TV lets you skip the sign-ups and smarts",
-        "link": "https://www.theverge.com/gadgets/1022794/vizio-mini-led-quantum-tv-65-inch-walmart-deal-sale",
-        "pubDate": "2026-10-30T13:01:07-04:00",
-        "description": "Modern smart TVs let you skip the streaming device, which is convenient, but they also come with their own issues, including privacy concerns and frequent updates. The Vizio Mini LED Quantum TV lets you cut out the rigamarole and just get straight to",
         "source": "TheVerge"
       }
     ],
