@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T13:36:37.280350Z",
+  "ts": "2026-10-31T17:55:19.177074Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,20 +266,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-        "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-        "pubDate": "Thu, 29 Oct 2026 18:08:04 -0400",
-        "description": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-        "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-        "pubDate": "Thu, 29 Oct 2026 17:47:25 -0400",
-        "description": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a suspected attacker",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
         "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
         "pubDate": "Sat, 31 Oct 2026 17:31:56 +0530",
@@ -292,6 +278,13 @@
         "pubDate": "Sat, 31 Oct 2026 13:57:43 +0530",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild.\n\nThe vulnerabil",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+        "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+        "pubDate": "Sat, 31 Oct 2026 11:35:11 -0400",
+        "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specia",
+        "source": "BleepingComputer"
       },
       {
         "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
@@ -308,10 +301,17 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Reddit to lock content behind logins to fight scrapers",
+        "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+        "pubDate": "Sat, 31 Oct 2026 10:05:15 -0400",
+        "description": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
         "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
         "pubDate": "Sat, 31 Oct 2026 09:10:19 -0400",
-        "description": "[...]",
+        "description": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, an",
         "source": "BleepingComputer"
       },
       {
@@ -386,6 +386,27 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "OpenAI reportedly lowers funding target for new round",
+        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+        "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
+        "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+        "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+        "pubDate": "Sat, 31 Oct 2026 15:41:57 +0000",
+        "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "I took two iPhones on vacation. The Duo won me over.",
+        "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
+        "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
+        "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
         "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
@@ -471,59 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s first data center satellite is online and writing poetry",
-        "link": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-        "pubDate": "Fri, 30 Oct 2026 17:00:00 +0000",
-        "description": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-        "link": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-        "pubDate": "Fri, 30 Oct 2026 16:03:45 +0000",
-        "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "North Korean hackers blamed for stealing record $6.3B in Binance breach",
-        "link": "https://techcrunch.com/2026/10/30/north-korean-hackers-blamed-for-stealing-record-6-3b-in-binance-breach/",
-        "pubDate": "Fri, 30 Oct 2026 14:00:25 +0000",
-        "description": "Hackers working for North Korea are suspected of hacking a Binance employee's laptop, which allowed the theft of billions in crypto.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Touchscreens everywhere!",
-        "link": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
-        "pubDate": "2026-10-31T08:00:00-04:00",
-        "description": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky M",
+        "title": "Happy Pikmin Day Eve",
+        "link": "https://www.theverge.com/games/1024085/happy-pikmin-day-eve",
+        "pubDate": "2026-10-31T13:50:12-04:00",
+        "description": "This morning, Nintendo announced that tomorrow, November 1st, would be the first annual Pikmin Day. As part of the short Pikmin Day Direct, Shigeru Miyamoto shared new info about Pikmin 4 for the Switch 2, as well as an update for the mobile app Pikm",
         "source": "TheVerge"
       },
       {
-        "title": "Here’s why you can&#8217;t shake those unhinged political texts",
-        "link": "https://www.theverge.com/policy/1023899/political-texts-midterm-elections",
-        "pubDate": "2026-10-31T08:00:00-04:00",
-        "description": "\"Its James Talarico. Can you please please please please pretty pretty please rush in even just $1?\" \"Who's working to elect James Talarico? Marxists.\" \"Wow! Wow! Wow! Mark Kelly just made a HUGE announcement!\" \"We asked Ben Verlander, MLB analyst an",
+        "title": "I built an AI Tamagotchi before Meta could",
+        "link": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+        "pubDate": "2026-10-31T12:05:00-04:00",
+        "description": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we",
         "source": "TheVerge"
       },
       {
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "link": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "pubDate": "2026-10-30T18:32:53-04:00",
-        "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November",
+        "title": "Windows 11 tries new shortcuts for Xbox gaming mode and search",
+        "link": "https://www.theverge.com/tech/1024058/windows-11-search-improvements-xbox-quick-settings",
+        "pubDate": "2026-10-31T11:12:19-04:00",
+        "description": "The latest Windows 11 Insider build adds some powerful new search features and quick settings while in Xbox mode. The Xbox shortcuts let you control things like Bluetooth, WiFi, and power settings without having to exit gaming mode. The search improv",
         "source": "TheVerge"
       },
       {
-        "title": "Exclusive details about Akai’s MPC Sample Key",
-        "link": "https://www.theverge.com/gadgets/1023649/akai-mpc-sample-key-exclusive",
-        "pubDate": "2026-10-30T17:01:32-04:00",
-        "description": "Akai teased its new MPC Sample Key on Instagram earlier this week, and said it plans to open-source its software so the modding community can hack it to their hearts' delight. While there's no word yet on when the device will launch or how much it wi",
+        "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
+        "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+        "pubDate": "2026-10-31T11:00:00-04:00",
+        "description": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you ",
         "source": "TheVerge"
       },
       {
-        "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
-        "pubDate": "2026-10-30T16:48:43-04:00",
-        "description": "Asked about supply chain shortages, like the ongoing RAM shortage, OpenAI CEO Sam Altman said in an interview that it's \"terrible\" to have RAM in personal PCs instead of data centers. During his appearance on the Cheeky Pint podcast, where he also co",
+        "title": "Vic Mensa can’t live without the Voice Memos app",
+        "link": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
+        "pubDate": "2026-10-31T11:00:00-04:00",
+        "description": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or ma",
         "source": "TheVerge"
       }
     ],
