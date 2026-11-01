@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-01T00:25:09.235811Z",
+  "ts": "2026-11-01T06:49:46.842584Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Data centers are now a midterm issue, even in Brooklyn",
+        "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+        "pubDate": "Sun, 01 Nov 2026 02:22:10 +0000",
+        "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
         "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
         "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
@@ -482,13 +489,6 @@
         "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
         "pubDate": "Fri, 30 Oct 2026 21:26:59 +0000",
         "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Cracks are emerging in the AI spending boom",
-        "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
-        "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
-        "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
         "source": "TechCrunch"
       },
       {
