@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-01T19:11:04.755216Z",
+  "ts": "2026-11-01T22:49:25.410762Z",
   "tabs": {
     "cn_sec": [
       {
@@ -173,17 +173,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "Apple 做小、Amazon 做大：Echo Show 16 與 HomeView 智慧螢幕走完全相反路線",
-        "link": "https://techorange.com/2026/10/29/amazon-echo-apple-homeview-smart-home-devices/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 29 Oct 2026 13:11:25 +0800",
-        "description": "電商巨頭 Amazon 近日發表 5 款搭載語音助理 Alexa 的新裝置，包括重新設計的智慧顯示器 Echo Show 16，以及智慧音箱、床頭鬧鐘與數位相框，藉此將最新版 Alexa 推進消費者家中。《Reuters》指出，Amazon 正面臨來自 Apple，以及 OpenAI 等具硬體野心的 AI 公司日益激烈的競爭。 Apple 本月稍早才推出首款智慧顯示器 HomeView，以及備受期待的智慧音箱 HomePod mini 2。《CNET》分析，Apple 的首款智慧顯示器螢幕小，A",
-        "source": "TechOrange"
-      },
-      {
         "title": "【博通私有雲展望報告】97% IT 決策者坦言公有雲支出遭浪費，布局「私有 AI」翻轉昂貴算力架構",
         "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 31 Oct 2026 06:29:00 +0800",
         "description": "博通（Broadcom）與市場調查機構 Radius Tech 合作，發布研究報告《2026 年私有雲展望：人工智慧轉折點》（Private Cloud Outlook 2026: The AI Tipping Point）。這份報告基於全球 1,800 位高階 IT 決策者的實證調查（其中 69% 來自員工人數 5,000 人以上的大型企業），揭示企業在人工智慧從概念驗證正式跨入日常生產環境時，如何因應公有雲成本失控與地緣政治監管風險，進而重塑雲端基礎設施策略。 報告指出，隨著生產級 AI（正",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】聯發科 AI 晶片開始出貨！Google 攜鴻海挑戰半年部署 TPU",
+        "link": "https://techorange.com/2026/11/02/mediatek-ai-asic-google-foxconn-tpu/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 02 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊聯發科 AI ASIC 開始出貨，2027 年營收目標上看 160 億美元 聯發科（MediaTek）10 月 30 日法說會宣布，首款資料中心客製化 AI 加速器（ASIC）已在 9 月開始出貨初期訂單。執行長蔡力行（Rick Tsai）表示，受客戶需求帶動，第 4 季雲端 ASIC 營收預估上修至 25 億美元；2027 年則有機會達到原訂目標區間高標的 160 億美元，約占全球 AI ASIC 市場 20%。公司也確認取得第 2 家雲端 ",
         "source": "TechOrange"
       },
       {
@@ -244,6 +244,13 @@
       }
     ],
     "en_sec": [
+      {
+        "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+        "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+        "pubDate": "Sun, 01 Nov 2026 14:57:53 -0500",
+        "description": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
         "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
@@ -376,16 +383,23 @@
         "pubDate": "Fri, 30 Oct 2026 17:51:56 +0530",
         "description": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported.\n\nTrezor has not yet examined the device. It is telling everyone who bou",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-        "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-        "pubDate": "Fri, 30 Oct 2026 17:28:53 +0530",
-        "description": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. \n\nTheir concerns are practical. An I",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+        "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
+        "description": "Data centers are deeply unpopular. But what if we called them something else?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+        "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+        "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
+        "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "source": "TechCrunch"
+      },
       {
         "title": "TechCrunch Mobility: A new, bigger AV boom is here",
         "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
@@ -478,18 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-        "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-        "pubDate": "Fri, 30 Oct 2026 23:21:23 +0000",
-        "description": "The AI logistics startup will bolster the CRM giant's Missionforce defense platform.",
-        "source": "TechCrunch"
+        "title": "NASA hopes the commercial space industry can help save Hubble",
+        "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
+        "pubDate": "2026-11-01T16:09:21-05:00",
+        "description": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless i",
+        "source": "TheVerge"
       },
       {
-        "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-        "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-        "pubDate": "Fri, 30 Oct 2026 22:56:13 +0000",
-        "description": "As an increasing number of AI assistants flood the market, the founder of Ollie, an assistant that respected its users' privacy, says it will be shutting down in a week.",
-        "source": "TechCrunch"
+        "title": "Flock keeps ignoring requests to cancel its contracts",
+        "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
+        "pubDate": "2026-11-01T14:58:02-05:00",
+        "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to res",
+        "source": "TheVerge"
       },
       {
         "title": "Apple’s HomeView could add security camera features",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
         "pubDate": "2026-11-01T09:33:11-05:00",
         "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum a",
-        "source": "TheVerge"
-      },
-      {
-        "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
-        "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
-        "pubDate": "2026-11-01T09:00:00-05:00",
-        "description": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color gl",
-        "source": "TheVerge"
-      },
-      {
-        "title": "New Zelda and GTA represent a games industry that no longer exists",
-        "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
-        "pubDate": "2026-11-01T08:00:00-05:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in fo",
         "source": "TheVerge"
       }
     ],
