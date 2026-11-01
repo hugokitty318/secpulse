@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-01T14:14:34.363654Z",
+  "ts": "2026-11-01T19:11:04.755216Z",
   "tabs": {
     "cn_sec": [
       {
@@ -245,13 +245,6 @@
     ],
     "en_sec": [
       {
-        "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-        "pubDate": "Thu, 29 Oct 2026 19:35:52 -0400",
-        "description": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
         "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
         "pubDate": "Sun, 01 Nov 2026 14:21:31 +0530",
@@ -278,6 +271,13 @@
         "pubDate": "Sun, 01 Nov 2026 12:32:58 +0530",
         "description": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia.\n\nThe activity, detailed by Kaspersky this week, targeted a custom Windows 10 build use",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+        "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+        "pubDate": "Sun, 01 Nov 2026 10:11:21 -0500",
+        "description": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise.",
+        "source": "BleepingComputer"
       },
       {
         "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
@@ -387,6 +387,27 @@
     ],
     "en_tech": [
       {
+        "title": "TechCrunch Mobility: A new, bigger AV boom is here",
+        "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+        "pubDate": "Sun, 01 Nov 2026 17:04:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Binance resumes withdrawals following $6.3 billion breach",
+        "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+        "pubDate": "Sun, 01 Nov 2026 16:20:10 +0000",
+        "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
+        "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+        "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
+        "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
         "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
         "pubDate": "Sun, 01 Nov 2026 14:00:00 +0000",
@@ -471,25 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-        "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-        "pubDate": "Fri, 30 Oct 2026 21:54:34 +0000",
-        "description": "Intel is being hurt by PC sales as the AI industry gobbles memory and other components causing PC prices to rise.",
-        "source": "TechCrunch"
+        "title": "Apple’s HomeView could add security camera features",
+        "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
+        "pubDate": "2026-11-01T12:16:07-05:00",
+        "description": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well",
+        "source": "TheVerge"
       },
       {
-        "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-        "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-        "pubDate": "Fri, 30 Oct 2026 21:52:03 +0000",
-        "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-        "source": "TechCrunch"
+        "title": "A fully playable version of Portal prequel F-Stop leaked",
+        "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+        "pubDate": "2026-11-01T11:19:21-05:00",
+        "description": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces ",
+        "source": "TheVerge"
       },
       {
-        "title": "Applebee’s exposed customers’ personal data after leaving database password in app",
-        "link": "https://techcrunch.com/2026/10/30/applebees-exposed-customers-personal-data-after-leaving-database-password-in-app/",
-        "pubDate": "Fri, 30 Oct 2026 21:48:53 +0000",
-        "description": "EXCLUSIVE: A security researcher discovered the hardcoded credential in Applebee's app, allowing unrestricted access to customers' personal data.",
-        "source": "TechCrunch"
+        "title": "North Korea linked to massive Binance crypto heist",
+        "link": "https://www.theverge.com/tech/1024176/north-korea-binance-crypto-heist",
+        "pubDate": "2026-11-01T09:33:11-05:00",
+        "description": "The FBI says North Korea was behind the massive $6.3 billion crypto heist that hit Binance on October 29th. The FBI labeled the activity \"TraderTraitor\" and said that it had observed actors it has connected to hack converting the tokens to Ethereum a",
+        "source": "TheVerge"
       },
       {
         "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
@@ -503,27 +524,6 @@
         "link": "https://www.theverge.com/column/1022402/new-zelda-and-gta-represent-a-games-industry-that-no-longer-exists",
         "pubDate": "2026-11-01T08:00:00-05:00",
         "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the biggest game releases of the year, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in fo",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Prop 45 in California could be hiding a loophole for data centers",
-        "link": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
-        "pubDate": "2026-11-01T08:00:00-05:00",
-        "description": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for s",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Get in the spooky spirit with these horrors from YouTube",
-        "link": "https://www.theverge.com/entertainment/1024096/halloween-spirit-youtube-horror",
-        "pubDate": "2026-10-31T17:06:58-04:00",
-        "description": "Rather than recommend a single horror film or an unsettling album for our final installment of spooky season recs, I present you with a small selection of creepy, disturbing, and just plain weird videos from YouTube. There's a little something for ev",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Keyboards of The Verge",
-        "link": "https://www.theverge.com/gadgets/1017979/keyboards-of-the-verge-staff-picks",
-        "pubDate": "2026-10-31T15:30:00-04:00",
-        "description": "What is a keyboard if not the original brain-computer interface? You can tap on a touchscreen or talk to the computer, but if your work involves getting information out of your head and into the computer, you're probably spending a lot of time using ",
         "source": "TheVerge"
       }
     ],
