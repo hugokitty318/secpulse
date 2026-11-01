@@ -1,5 +1,5 @@
 {
-  "ts": "2026-10-31T21:27:58.818704Z",
+  "ts": "2026-11-01T00:25:09.235811Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,20 @@
     ],
     "en_tech": [
       {
+        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+        "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
+        "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+        "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+        "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000",
+        "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up a",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
         "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
         "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
@@ -475,20 +489,6 @@
         "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
         "pubDate": "Fri, 30 Oct 2026 21:17:40 +0000",
         "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI law firm Crosby bids on disintegrating, famed firm Weil Gotshal",
-        "link": "https://techcrunch.com/2026/10/30/ai-law-firm-crosby-bids-on-disintegrating-famed-firm-weil-gotshal/",
-        "pubDate": "Fri, 30 Oct 2026 19:55:13 +0000",
-        "description": "Like a real-life episode of \"Suits,\" the demise of famed white-shoe Wall Street law firm Weil, Gotshal & Manges has been the talk of the legal industry. And now an AI firm has entered the picture.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Satlyt takes another step toward turning satellites into space data centers",
-        "link": "https://techcrunch.com/2026/10/30/satlyt-takes-another-step-toward-turning-satellites-into-space-data-centers/",
-        "pubDate": "Fri, 30 Oct 2026 18:01:24 +0000",
-        "description": "Satlyt ran a successful test this month bringing it closer to turning spacecraft, starting with satellites,  into virtual data centers.",
         "source": "TechCrunch"
       },
       {
