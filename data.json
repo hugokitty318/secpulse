@@ -1,7 +1,63 @@
 {
-  "ts": "2026-11-01T22:49:25.410762Z",
+  "ts": "2026-11-02T02:26:43.748824Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "無印良品、松屋系統被駭，分別外洩2,726萬、238萬筆會員個資",
+        "link": "https://www.ithome.com.tw/news/180125",
+        "pubDate": "2026-11-02 10:23",
+        "description": "日本兩大連鎖品牌接連傳出個資安全事件！無印良品與松屋10月30日分別公告系統遭未授權存取。無印良品最多約2,726萬筆會員資料可能外洩，松屋則確認約238萬筆客戶資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "繼日航後，Amadeus事件讓全日空外洩3.8萬名客戶個資",
+        "link": "https://www.ithome.com.tw/news/180123",
+        "pubDate": "2026-11-02 10:11",
+        "description": "繼日本航空後，全日空（ANA）也受到票務系統業者Amadeus遭駭事件波及，約3.8萬名旅客資料恐外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Infisical募資4,000萬美元，擴展AI代理憑證保護與存取管理",
+        "link": "https://www.ithome.com.tw/news/180098",
+        "pubDate": "2026-11-02 08:00",
+        "description": "資安業者Infisical完成4,000萬美元B輪募資，公司估值達6億美元。除了持續發展機密資訊、數位憑證及特權存取管理業務，也將加碼AI代理安全產品Agent Vault，透過代理伺服器管理AI代理存取外部服務時使用的身分驗證憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "數發部訂定通訊傳播控制系統資安防護基準，2027年元旦生效",
+        "link": "https://www.ithome.com.tw/news/180069",
+        "pubDate": "2026-11-02 08:00",
+        "description": "數位發展部訂定通訊及傳播領域控制系統資安防護基準，2027年1月1日生效。受納管的關鍵基礎設施提供者須依控制系統防護需求，落實遠端存取、身分驗證、網路隔離、漏洞管理及營運持續等資安措施",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Linux基金會旗下AAIF新增4項AI代理開源專案，涵蓋沙箱隔離與技能共享",
+        "link": "https://www.ithome.com.tw/news/180080",
+        "pubDate": "2026-11-02 08:00",
+        "description": "代理型AI基金會（Agentic AI Foundation，AAIF）新增4項開源專案，其中阿里巴巴貢獻的OpenSandbox提供程式碼執行的隔離環境及網路存取控管機制，Anthropic貢獻的Agent Skills則讓不同AI代理共用技能",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cursor市集出現惡意Claude Code擴充套件，攻擊者企圖建立SSH後門",
+        "link": "https://www.ithome.com.tw/news/180119",
+        "pubDate": "2026-11-02 08:00",
+        "description": "Cursor擴充套件市集出現遭植入惡意程式碼的Claude Code擴充套件，可能有多達5,000名使用者受影響。攻擊者企圖建立SSH後門，即使移除擴充套件，電腦仍可能留下攻擊者的SSH公鑰及其他惡意元件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "利用美國建築資料訓練世界模型的Dream獲得1,700萬美元的種子輪資金",
+        "link": "https://www.ithome.com.tw/news/180122",
+        "pubDate": "2026-11-02  09:11:02",
+        "description": "美國AI新創Dream上周四（10/29）宣布已完成1,700萬美元種子輪募資，投資者包括Andreessen Horowitz（a16z）、SV Angel、XYZ及Zigg Capital等。Dream利用超過1億平方英尺的美國真實建築資料訓練AI世界模型，希望讓AI理解建築物的空間結構、材料及工程限制，自動產生可供實際施工的建築設計圖面。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google首度在太空衛星上運行AI模型，朝太空資料中心邁進",
+        "link": "https://www.ithome.com.tw/news/180120",
+        "pubDate": "2026-11-02  08:11:17",
+        "description": "Google上周五（10/30）宣布，旗下「太陽捕手」（Project Suncatcher）太空運算研究計畫取得重要進展，成功利用部署於地球軌道上的原型衛星，執行Gemma 4 AI模型並產生文字回應。這是Google首次利用太空衛星上的資料中心等級TPU執行AI推論，為未來在太空建立AI資料中心跨出重要一步。",
+        "source": "iThome"
+      },
       {
         "title": "持續推動網路自主營運、資安強化與AI原生支援，HPE揭示旗下三大雲端網路管理平臺最新整合時程",
         "link": "https://www.ithome.com.tw/news/180118",
@@ -73,66 +129,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "Hive與Nefilim勒索軟體集團成員遭美國判刑，將入獄70個月",
-        "link": "https://www.ithome.com.tw/news/180099",
-        "pubDate": "2026-10-30 12:59",
-        "description": "烏克蘭籍男子曾參與兩個勒索軟體集團，攻擊全球企業與醫療機構，美國司法部持續懸賞追捕其共犯",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google修補Chrome 156，公布21個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180097",
-        "pubDate": "2026-10-30 12:16",
-        "description": "本週Google二度發布Chrome更新，這次該公司一共修補21個資安漏洞，其中1個為重大等級、19個為高風險等級",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本航空第三方訂位系統遭入侵，約9.2萬名旅客資料受影響",
-        "link": "https://www.ithome.com.tw/news/180096",
-        "pubDate": "2026-10-30 11:39",
-        "description": "日本航空與日本越洋航空使用的第三方旅客服務系統遭未授權存取，約9.2萬名旅客的訂位資料受影響，部分資料包括護照號碼等個資",
-        "source": "iThome資安"
-      },
-      {
-        "title": "年末購物旺季將至，Palo Alto Networks示警零售業面臨多重網路威脅",
-        "link": "https://www.ithome.com.tw/news/180095",
-        "pubDate": "2026-10-30 11:12",
-        "description": "勒索軟體、資料竊取、DDoS及數位側錄風險升高，駭客也開始利用AI大幅縮短入侵所需時間",
-        "source": "iThome資安"
-      },
-      {
-        "title": "DEVCORE研究員公布在Pwn2Own競賽揭露的Edge攻擊鏈，串連5個弱點突破瀏覽器防護機制",
-        "link": "https://www.ithome.com.tw/news/180088",
-        "pubDate": "2026-10-30 10:13",
-        "description": "臺灣資安公司DEVCORE首席資安研究員Orange Tsai（蔡政達）近日公開瀏覽器Edge完整攻擊鏈，他在沒有借助AI的情況下，藉由5個邏輯運算弱點，並搭配Windows功能，最終成功在作業系統執行任意程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本樂天兩個旅遊網站遭駭外洩用戶個資354萬，臺灣網站不受影響",
-        "link": "https://www.ithome.com.tw/news/180087",
-        "pubDate": "2026-10-30 10:05",
-        "description": "樂天集團證實，旗下兩個旅遊網站遭非授權存取，最多約354萬筆客戶及旅宿業者資料受影響，包括姓名、電子郵件地址及部分信用卡資訊",
-        "source": "iThome資安"
-      },
-      {
         "title": "GMI Cloud展示在臺AI Factory設計，AI資料中心的新瓶頸不是機櫃，而是電力",
         "link": "https://www.ithome.com.tw/news/180116",
         "pubDate": "2026-10-30  07:10:02",
         "description": "走進GMI Cloud位於桃園的AI Factory，第一個感受到的不是傳統資料中心常見的「密集」。\n過去參觀資料中心時，傳統的機房設計通常追求空間利用率，機櫃排列緊密，盡可能在有限樓地板面積中放入更多伺服器, 各種設備、管線布置，充分展現將空間利用最大化的設計原則。但是GMI Cloud今天(10/30)對外展示的這座AI Factory第一期區域卻留下不少空間，並沒有被設備填滿。\n原因並不是算力需求不足，而是AI資料中心正在面臨一個與過去不同的限制。現在限制AI Factory擴充的，不是空",
-        "source": "iThome"
-      },
-      {
-        "title": "從AI伴行到AI優先，奇美醫院揭AI發展4階段布局",
-        "link": "https://www.ithome.com.tw/news/180107",
-        "pubDate": "2026-10-30  03:10:58",
-        "description": "奇美醫院院長林宏榮日前在臺灣醫院資訊主管會議上，揭露奇美醫院AI發展路徑，從2005年的基礎數位化開始累積分析能力，到了2019年成立AI中心、從BI過渡到AI，2023年開始投入生成式AI應用、進入AI Together（AI伴行）階段，2025年至今則瞄準代理型AI（Agentic AI）應用。\n在AI伴行階段，奇美醫院將AI視為醫護人員的工作助手，因此打造A+巡房大聯盟和A+ HIS Copilot助手，比如A+藥安師，來輔助醫護整理病歷資料、提醒注意事項、跨職類同步病人資訊。目前，奇美準",
-        "source": "iThome"
-      },
-      {
-        "title": "Amazon AWS營收成長39%，營業利益率創歷史新高",
-        "link": "https://www.ithome.com.tw/news/180100",
-        "pubDate": "2026-10-30  01:10:32",
-        "description": "Amazon周四（10/29）公布2026年第三季財報，營收達2,019.4億美元，年增12%，營業利益280.8億美元，年增61%，營業利益率達13.9%，創下歷史新高。其中，雲端業務Amazon Web Services（AWS）營收比去年同期成長39%，創近5年最快增速，成為推動Amazon獲利成長的主要動力。",
         "source": "iThome"
       }
     ],
@@ -649,6 +649,16 @@
         "products": "Aruba Products"
       },
       {
+        "title": "Synology Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20261102",
+        "pubDate": "Mon, 02 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Synology Products"
+      },
+      {
         "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
         "link": "https://www.hkcert.org/blog/data-leakage-and-third-party-risk-when-real-customer-information-becomes-a-tool-for-scammers",
         "pubDate": "Fri, 30 Oct 2026 00:00:00 +0800",
@@ -657,16 +667,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers"
-      },
-      {
-        "title": "Fortinet Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261023",
-        "pubDate": "Fri, 23 Oct 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Fortinet Products"
       }
     ]
   }
