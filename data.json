@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-02T09:56:08.014120Z",
+  "ts": "2026-11-02T20:19:21.945037Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "全球仍有逾萬臺GitLab執行個體暴露於兩個滿分漏洞威脅，臺灣也有46臺",
+        "link": "https://www.ithome.com.tw/news/180145",
+        "pubDate": "2026-11-02 18:05",
+        "description": "Shadowserver示警全球每日約有3.9萬個GitLab執行個體可直接從網際網路觀測，其中逾1.1萬個仍受兩個CVSS 10.0漏洞影響，恐遭未經身分驗證的攻擊者遠端執行程式碼",
+        "source": "iThome資安"
+      },
       {
         "title": "日本防衛研究所分析AI網攻新威脅，從鎖定特定目標到跨系統、多手法攻擊，傳統政府資安應變通報面臨挑戰",
         "link": "https://www.ithome.com.tw/news/180143",
@@ -101,13 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "數發部訂定通訊傳播控制系統資安防護基準，2027年元旦生效",
-        "link": "https://www.ithome.com.tw/news/180069",
-        "pubDate": "2026-11-02 08:00",
-        "description": "數位發展部訂定通訊及傳播領域控制系統資安防護基準，2027年1月1日生效。受納管的關鍵基礎設施提供者須依控制系統防護需求，落實遠端存取、身分驗證、網路隔離、漏洞管理及營運持續等資安措施",
-        "source": "iThome資安"
-      },
-      {
         "title": "Salesforce收購軍事後勤AI新創Rune，將服務延伸至戰場前線",
         "link": "https://www.ithome.com.tw/news/180127",
         "pubDate": "2026-11-02  10:11:39",
@@ -135,6 +135,13 @@
         "link": "https://techorange.com/2026/10/31/private-cloud-outlook/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 31 Oct 2026 06:29:00 +0800",
         "description": "博通（Broadcom）與市場調查機構 Radius Tech 合作，發布研究報告《2026 年私有雲展望：人工智慧轉折點》（Private Cloud Outlook 2026: The AI Tipping Point）。這份報告基於全球 1,800 位高階 IT 決策者的實證調查（其中 69% 來自員工人數 5,000 人以上的大型企業），揭示企業在人工智慧從概念驗證正式跨入日常生產環境時，如何因應公有雲成本失控與地緣政治監管風險，進而重塑雲端基礎設施策略。 報告指出，隨著生產級 AI（正",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【劉永信專欄】不缺人才、不缺工廠，歐洲為什麼在 AI 這局落後？",
+        "link": "https://techorange.com/2026/11/02/cloudmile-sovereign-ai-europe-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 02 Nov 2026 16:56:03 +0800",
+        "description": "如果有一天，台灣的政府首長公開拜託中小企業，把工廠裡的製程資料拿出來給 AI 用，你會怎麼想？ 類似的事，10 月 19 日發生在德國。 「請為 AI 打開你們的大門，讓它使用你們的資料。」這句話是德國總理梅爾茨說的，對象是德國自己的中小企業。 那天他站在柏林一座廢棄發電廠改建的場地上，身旁是 NVIDIA 執行長黃仁勳，那是德國第一屆 Invest in Germany Summit，兩個聯邦部會與 NVIDIA 簽下了發展實體 AI 的聯合意向書。 黃仁勳在台上說，德國在製造上累積的資料和專",
         "source": "TechOrange"
       },
       {
@@ -227,13 +234,6 @@
         "pubDate": "Fri, 30 Oct 2026 14:35:32 +0800",
         "description": "法國 AI 新創 Mistral AI 在 10/29 公開旗艦模型 Mistral Large 4（暱稱 Le Chonk）的權重，企業與政府可以自行下載，部署在自家系統上。公司表示，這款 1 兆參數的模型是為了幫助組織找出並修補資安漏洞而設計；和 Google Gemini 這類主要透過線上服務使用的 AI 系統不同，任何人都能下載、獨立執行 Large 4。 Mistral 科學副總裁 Pierre Stock 指出，正因為 Large 4 是開放權重（open-weight，公開模型參數",
         "source": "TechOrange"
-      },
-      {
-        "title": "Edge AI 不只靠攝影機：無線感測有望讓數十億台既有設備變身環境感測器",
-        "link": "https://techorange.com/2026/10/30/wireless-sensing-edge-ai-next/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 30 Oct 2026 12:01:46 +0800",
-        "description": "邊緣人工智慧（Edge AI）如今幾乎已和電腦視覺畫上等號，透過攝影機在裝置端辨識人物、物體與人臉。但嵌入式 AI 解決方案公司 embedUR systems 創辦人暨執行長 Rajesh Subramaniam 近日在《Forbes》撰文指出，視覺只是最早導入邊緣運算的感知方式，在許多場景中其實並不適合；他認為，無線感測（Wireless Sensing）是 Edge AI 的下一步。 Subramaniam 指出，攝影機在黑暗環境中的表現較差，耗電量也可能超出電池供電裝置所能負荷；無線感測",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -322,13 +322,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-        "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-        "pubDate": "Sat, 31 Oct 2026 10:26:12 +0530",
-        "description": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday.\n\nThe web infrastructure and security company said it autonomously mitigated 18.2 million network-layer (L3) DDo",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Reddit to lock content behind logins to fight scrapers",
         "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
         "pubDate": "Sat, 31 Oct 2026 10:05:15 -0400",
@@ -336,187 +329,194 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-        "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-        "pubDate": "Sat, 31 Oct 2026 09:10:19 -0400",
-        "description": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI responsibly, an",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-        "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-        "pubDate": "Sat, 31 Oct 2026 08:50:09 -0400",
-        "description": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
-        "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
-        "pubDate": "Mon, 02 Nov 2026 11:21:07 +0530",
-        "description": "Cybersecurity researchers have discovered a new Windows infostealer malware called VOLTA-AUTODOXER (aka VOLTA) that makes use of a large language model (LLM) to rank a victim's stolen data by their monetization value.\n\nLike other typical stealer fami",
+        "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+        "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+        "pubDate": "Mon, 02 Nov 2026 22:27:56 +0530",
+        "description": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble.\n\nThen there were the",
         "source": "TheHackerNews"
       },
       {
-        "title": "Ivanti patches two more Connect Secure zero-days chained in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/ivanti-patches-two-more-connect-secure-zero-days-chained-in-attacks/",
-        "pubDate": "Mon, 02 Nov 2026 04:33:26 -0500",
-        "description": "Ivanti released security updates to patch two more Connect Secure (ICS) remote access gateway flaws that have been chained in zero-day attacks since at least October 1. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-        "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-        "pubDate": "Fri, 30 Oct 2026 22:28:44 +0530",
-        "description": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously.\n\nThe activity has been attributed by Crow",
+        "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
+        "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
+        "pubDate": "Mon, 02 Nov 2026 21:20:26 +0530",
+        "description": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says it is highly confident that device maker Videostrong intentionally put a backdoor in the",
         "source": "TheHackerNews"
       },
       {
-        "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-        "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-        "pubDate": "Fri, 30 Oct 2026 20:47:28 +0530",
-        "description": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine it controls ",
+        "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+        "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+        "pubDate": "Mon, 02 Nov 2026 20:16:05 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a report published by Dream Research",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+        "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+        "pubDate": "Mon, 02 Nov 2026 17:20:00 +0530",
+        "description": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week.\n\nLangflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+        "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+        "pubDate": "Mon, 02 Nov 2026 17:00:00 +0530",
+        "description": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practition",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+        "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+        "pubDate": "Mon, 02 Nov 2026 16:38:45 +0530",
+        "description": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, incl",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+        "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+        "pubDate": "Mon, 02 Nov 2026 16:19:59 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 ",
         "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-        "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
-        "pubDate": "Sun, 01 Nov 2026 21:55:23 +0000",
-        "description": "Data centers are deeply unpopular. But what if we called them something else?",
+        "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+        "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+        "pubDate": "Mon, 02 Nov 2026 19:45:54 +0000",
+        "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
         "source": "TechCrunch"
       },
       {
-        "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
-        "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
-        "pubDate": "Sun, 01 Nov 2026 20:57:58 +0000",
-        "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+        "title": "Web host Squarespace lays off 19% of its employees",
+        "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+        "pubDate": "Mon, 02 Nov 2026 19:25:59 +0000",
+        "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: A new, bigger AV boom is here",
-        "link": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
-        "pubDate": "Sun, 01 Nov 2026 17:04:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+        "pubDate": "Mon, 02 Nov 2026 19:19:17 +0000",
+        "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
         "source": "TechCrunch"
       },
       {
-        "title": "Binance resumes withdrawals following $6.3 billion breach",
-        "link": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
-        "pubDate": "Sun, 01 Nov 2026 16:20:10 +0000",
-        "description": "The cryptocurrency exchange said it's now covered 95% of the stolen assets.",
+        "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+        "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+        "pubDate": "Mon, 02 Nov 2026 19:11:49 +0000",
+        "description": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
         "source": "TechCrunch"
       },
       {
-        "title": "Pixel 11 Pro Fold: Sturdy rectangle in a wide wide world",
-        "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
-        "pubDate": "Sun, 01 Nov 2026 15:00:00 +0000",
-        "description": "Google made a sturdy phone, but there is increasing competition in the foldable world.",
+        "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+        "link": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+        "pubDate": "Mon, 02 Nov 2026 17:54:11 +0000",
+        "description": "Marvell's planned purchase of Lumentum is one of the biggest acquisitions in tech history. And they both have the same strategic investor: Nvidia.",
         "source": "TechCrunch"
       },
       {
-        "title": "Here’s what ‘renoa’ — the first new fiber in 25 years — feels like",
-        "link": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
-        "pubDate": "Sun, 01 Nov 2026 14:00:00 +0000",
-        "description": "Startup Everbloom's new material, renoa, is the first new fiber in 25 years, and it feels very familiar.",
+        "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+        "link": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+        "pubDate": "Mon, 02 Nov 2026 17:49:41 +0000",
+        "description": "Readwise Books combines an ebook store, reading tracker, detailed reading stats, and AI features in a bid to challenge Amazon's ecosystem.",
         "source": "TechCrunch"
       },
       {
-        "title": "Data centers are now a midterm issue, even in Brooklyn",
-        "link": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
-        "pubDate": "Sun, 01 Nov 2026 02:22:10 +0000",
-        "description": "At a Brooklyn midterm party five days before Election Day, every conversation, from a council member’s fireside chat to a debate about the Democratic Party, kept circling back to AI and data centers.",
+        "title": "SpaceX reportedly wants to buy Boost Mobile to compete with AT&T, T-Mobile, and Verizon",
+        "link": "https://techcrunch.com/2026/11/02/spacex-reportedly-wants-to-buy-boost-mobile-to-compete-with-att-t-mobile-and-verizon/",
+        "pubDate": "Mon, 02 Nov 2026 16:44:48 +0000",
+        "description": "SpaceX has been looking for new ways to use its Starlink network, and a tie-up with cellular operator Boost Mobile could give it the terrestrial access it needs.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-        "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-        "pubDate": "Sat, 31 Oct 2026 21:41:00 +0000",
-        "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+        "title": "42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’",
+        "link": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/",
+        "pubDate": "Mon, 02 Nov 2026 16:30:00 +0000",
+        "description": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
         "source": "TechCrunch"
       },
       {
-        "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-        "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-        "pubDate": "Sat, 31 Oct 2026 21:36:07 +0000",
-        "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up a",
+        "title": "Elon Musk throttles Grok Bot limits due to ‘unsustainably high’ costs",
+        "link": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/",
+        "pubDate": "Mon, 02 Nov 2026 16:23:21 +0000",
+        "description": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
         "source": "TechCrunch"
       },
       {
-        "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
-        "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
-        "pubDate": "Sat, 31 Oct 2026 21:17:03 +0000",
-        "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+        "title": "Omen AI adds liquid know-how in $16 million Aquatic Labs acquisition",
+        "link": "https://techcrunch.com/2026/11/02/omen-ai-adds-liquid-know-how-in-16-million-aquatic-labs-acquisition/",
+        "pubDate": "Mon, 02 Nov 2026 15:00:00 +0000",
+        "description": "Two startups tackling the data center water problem are joining forces in a $16 million deal.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI reportedly lowers funding target for new round",
-        "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
-        "pubDate": "Sat, 31 Oct 2026 16:12:55 +0000",
-        "description": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "title": "Ninja’s first-ever microwave just replaced two of my kitchen appliances at once",
+        "link": "https://techcrunch.com/2026/11/02/ninjas-first-ever-microwave-just-replaced-two-of-my-kitchen-appliances-at-once/",
+        "pubDate": "Mon, 02 Nov 2026 14:42:38 +0000",
+        "description": "The Ninja Crispi Microwave stands out for its FusionCrisp technology, which combines the speed of a microwave with the crispy results you'd expect from an air fryer.",
         "source": "TechCrunch"
       },
       {
-        "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-        "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-        "pubDate": "Sat, 31 Oct 2026 15:41:57 +0000",
-        "description": "TikTok may be working to become the app that people use for most of their digital activities.",
+        "title": "Northwood Space raises $375M Series C at a $2B valuation from a16z and DFJ Growth",
+        "link": "https://techcrunch.com/2026/11/02/northwood-space-raises-375m-series-c-at-a-2b-valuation-from-a16z-and-dfj-growth/",
+        "pubDate": "Mon, 02 Nov 2026 14:22:35 +0000",
+        "description": "Space infrastructure company Northwood Space on Monday said it had raised $375 million in a Series C round co-led by Andreessen Horowitz and DFJ Growth, valuing the company at $2 billion.",
         "source": "TechCrunch"
       },
       {
-        "title": "I took two iPhones on vacation. The Duo won me over.",
-        "link": "https://techcrunch.com/2026/10/31/i-took-two-iphones-on-vacation-the-duo-won-me-over/",
-        "pubDate": "Sat, 31 Oct 2026 14:00:00 +0000",
-        "description": "The iPhone Duo has its frustrations, but it’s also fun and engaging enough that I didn’t want to switch back to my Pro Max.",
+        "title": "A fresh wave of cyberattacks has hit Europe’s supermarket refrigerators, destroying food across countries",
+        "link": "https://techcrunch.com/2026/11/02/a-fresh-wave-of-cyberattacks-has-hit-europes-supermarket-refrigerators-destroying-food-across-countries/",
+        "pubDate": "Mon, 02 Nov 2026 14:08:52 +0000",
+        "description": "This is the second wave of cyberattacks to hit supermarket refrigerators in a month, spoiling food and disrupting supplies.",
         "source": "TechCrunch"
       },
       {
-        "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-        "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-        "pubDate": "Sat, 31 Oct 2026 04:16:50 +0000",
-        "description": "The money behind the money is thrilled, mostly.",
+        "title": "2 days till TechCrunch Founder Summit: Boston founders don’t need a Silicon Valley address to build something big",
+        "link": "https://techcrunch.com/2026/11/02/2-days-till-techcrunch-founder-summit-boston-founders-dont-need-a-silicon-valley-address-to-build-something-big/",
+        "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+        "description": "TechCrunch Founder Summit happens on November 4 in Boston for a founder-focused agenda and impactful connections. Save up to $100 or get discounts with group passes.",
         "source": "TechCrunch"
       },
       {
-        "title": "Borrowed reading: stories from our extended colleagues",
-        "link": "https://techcrunch.com/2026/11/01/borrowed-reading-stories-from-our-extended-colleagues/",
-        "pubDate": "Mon, 02 Nov 2026 04:23:48 +0000",
-        "description": "Five stories worth your time from our extended colleagues at CIO, Computerworld, Macworld, and PCWorld.",
+        "title": "OpenAI is finally merging ChatGPT’s Chat and Work tabs",
+        "link": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/",
+        "pubDate": "Mon, 02 Nov 2026 13:57:53 +0000",
+        "description": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jackery made its portable power stations even smaller",
-        "link": "https://www.theverge.com/tech/1023173/jackery-explorer-100d-portable-power-station-battery-lithium-iron-phosphate",
-        "pubDate": "2026-11-02T00:00:00-05:00",
-        "description": "Jackery announced a new portable power station that uses the safer and longer-lasting lithium iron phosphate (LFP) batteries the company first introduced in 2023. But what makes the new Explorer 100D stand out is that it's Jackery's smallest power st",
+        "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+        "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+        "pubDate": "2026-11-02T15:03:52-05:00",
+        "description": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the",
         "source": "TheVerge"
       },
       {
-        "title": "NASA hopes the commercial space industry can help save Hubble",
-        "link": "https://www.theverge.com/science/1024239/nasa-commercial-space-save-hubble",
-        "pubDate": "2026-11-01T16:09:21-05:00",
-        "description": "Gravity is a cruel mistress, slowly dragging the famed telescope ever closer to its ultimate demise with every day. Hubble is in no immediate danger of burning up in the Earth's atmosphere, but its time will run out in the early to mid 2030s unless i",
+        "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+        "link": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+        "pubDate": "2026-11-02T14:24:09-05:00",
+        "description": "The Apple Watch Ultra 4 is the company’s most capable smartwatch. Whether you intend to put its many tracking features to the test, or you simply want the longest battery life of any Apple Watch, it’s currently on sale for $699.99 ($100 off) in multi",
         "source": "TheVerge"
       },
       {
-        "title": "Flock keeps ignoring requests to cancel its contracts",
-        "link": "https://www.theverge.com/tech/1024232/flock-ignoring-cancel-contracts",
-        "pubDate": "2026-11-01T14:58:02-05:00",
-        "description": "While more cities are canceling their contracts with Flock Safety, just as many are discovering how difficult that can be in some instances. Plymouth, Minnesota's city council voted to terminate its contract with Flock in September, but failed to res",
+        "title": "Ford promises not to sell your driving habits to data brokers",
+        "link": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+        "pubDate": "2026-11-02T14:05:46-05:00",
+        "description": "Ford vowed to never sell customer driving data to third-party data brokers as part of a new privacy promise aimed at setting the automaker apart from competitors that have faced legal and regulatory blowback for sharing telematics with data brokers w",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s HomeView could add security camera features",
-        "link": "https://www.theverge.com/tech/1024219/apples-homeview-could-add-security-camera-features",
-        "pubDate": "2026-11-01T12:16:07-05:00",
-        "description": "Reddit user pdfu found hints hidden in the HomeView 27.2 code that Apple could be adding security camera features to its smart home hub. The strings describe a security camera mode with motion detection, live streaming, and recording options, as well",
+        "title": "Anthropic clamps down on Claude’s AI video game clones",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+        "pubDate": "2026-11-02T13:56:02-05:00",
+        "description": "Anthropic has updated Claude Code's system prompt to prevent the AI tool from being used to recreate existing video games, as reported by Tom's Hardware. Retro gaming is currently being overrun with AI-made decompilations, recompilations, and ports, ",
         "source": "TheVerge"
       },
       {
-        "title": "A fully playable version of Portal prequel F-Stop leaked",
-        "link": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
-        "pubDate": "2026-11-01T11:19:21-05:00",
-        "description": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces ",
+        "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+        "link": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+        "pubDate": "2026-11-02T13:43:24-05:00",
+        "description": "Xbox's former chief operating officer, Helen Chiang, suddenly left Microsoft less than two weeks ago after being promoted into the role in July. I wrote in my Notepad newsletter last week that it seemed very weird for Chiang to suddenly depart Micros",
         "source": "TheVerge"
       }
     ],
