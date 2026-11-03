@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-03T10:03:25.547805Z",
+  "ts": "2026-11-03T17:47:54.911824Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "永豐銀行發生不明轉帳事件，該行證實新網銀系統程式異常，初步清查影響419名客戶、涉及427筆交易",
+        "link": "https://www.ithome.com.tw/news/180185",
+        "pubDate": "2026-11-03 18:28",
+        "description": "永豐銀行證實新網銀交易系統發生程式異常，造成部分客戶帳戶出現不明轉帳，相關款項及手續費已全數返還。根據金管會初步掌握的資訊，這起事件影響419名客戶，涉及427筆異常交易，總金額超過4,000萬元",
+        "source": "iThome資安"
+      },
       {
         "title": "AI應用開發平臺Langflow修補2項重大漏洞，攻擊者可繞過身分驗證或遠端執行程式碼",
         "link": "https://www.ithome.com.tw/news/180183",
@@ -17,7 +24,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "甫修補的WordPress漏洞9分鐘後即出現嘗試利用活動",
+        "title": "甫修補的WordPress漏洞消息公布，9分鐘後隨即出現嘗試利用活動",
         "link": "https://www.ithome.com.tw/news/180182",
         "pubDate": "2026-11-03 16:49",
         "description": "資安公司Wordfence指出，他們在WordPress發布7.1.4版更新公告的9分鐘後，首度偵測到嘗試利用其中一個資安漏洞CVE-2026-119977的活動，不到一天的時間已累積超過1.8萬次攻擊",
@@ -35,6 +42,13 @@
         "link": "https://www.ithome.com.tw/news/180179",
         "pubDate": "2026-11-03 15:59",
         "description": "資安廠商卡巴斯基揭露專門鎖定亞洲政府機關的高度複雜攻擊行動，目標是專為政府打造Windows 10作業系統環境，透過NetamLoader惡意程式載入框架執行多階段攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月3日，歐洲7國逾115家超市冷凍設備遭駭客操控，遠端調高溫度導致食品損失",
+        "link": "https://www.ithome.com.tw/news/180175",
+        "pubDate": "2026-11-03 14:52",
+        "description": "繼上月法國數百家超市冷藏設備遭駭後，本週歐洲再傳超市冷凍冷藏控制系統遭到入侵，造成大量食品報廢的情形！11月2日比利時、盧森堡、瑞典等7個國家發生相關事故，已確認有115家超市受害",
         "source": "iThome資安"
       },
       {
@@ -94,18 +108,11 @@
         "source": "iThome資安"
       },
       {
-        "title": "國泰、澳航、馬航也成Amadeus系統資料外洩受害者",
-        "link": "https://www.ithome.com.tw/news/180164",
-        "pubDate": "2026-11-03 11:01",
-        "description": "因航空訂位系統供應商Amadeus發生資安事件，國泰航空證實約5.3萬筆訂位紀錄遭未經授權存取，部分資料包含旅客聯絡方式及旅行證件資訊。澳洲航空、馬來西亞航空也相繼表示受到波及，正在釐清影響範圍",
-        "source": "iThome資安"
-      },
-      {
-        "title": "西班牙Amadeus遭駭波及多國航空公司，日本、韓國、馬來西亞等至少12家航空公司受影響",
-        "link": "https://www.ithome.com.tw/news/180146",
-        "pubDate": "2026-11-03 10:53",
-        "description": "西班牙航空資訊系統業者Amadeus遭駭事件的影響範圍逐漸浮現，繼南韓航空公司率先揭露旅客訂位資料遭未授權存取後，日本、香港及馬來西亞等地航空公司也陸續公告，部分受影響資料涉及護照號碼及聯絡方式。此外，德國航空公司也傳出遭波及，澳洲航空則仍在調查。我們也詢問臺灣航空公司詢問是否受到影響，至截稿前尚未獲得回覆",
-        "source": "iThome資安"
+        "title": "MIT展示權重空間程式設計，GPT-6 Astra可直接讀寫神經網路權重",
+        "link": "https://www.ithome.com.tw/news/180195",
+        "pubDate": "2026-11-03  08:11:07",
+        "description": "麻省理工學院電腦科學暨人工智慧實驗室（MIT CSAIL）研究團隊公布實驗，利用GPT-6 Astra直接修改Qwen3.5-0.8B語言模型的神經網路權重，不需重新訓練，就讓MATH-500數學測試正確率從7.9%提高至48.1%。修改範圍僅占模型約0.016%的權重，主要解決模型推理時反覆產生相同內容、無法完成回答的問題。",
+        "source": "iThome"
       },
       {
         "title": "Cloudflare改造DNS更新流程，處理延遲從7.7秒降至3.3秒",
@@ -124,7 +131,7 @@
     ],
     "cn_tech": [
       {
-        "title": "AI 不必重新訓練也能修補？MIT 讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
+        "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
         "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 03 Nov 2026 16:35:01 +0800",
         "description": "當 AI 模型出現問題，除了重新訓練或微調，能不能直接修改內部權重來修復？美國麻省理工學院電腦科學與人工智慧實驗室（MIT CSAIL）研究團隊公布一項實驗，利用 OpenAI 的 GPT-6 Astra，僅修改阿里巴巴 Qwen3.5-0.8B 約 0.016% 的神經網路權重，就讓模型在 MATH-500 數學測試中的正確率從 7.9% 提升至 48.1%，達到原先約 6 倍。 這項研究於 11/2 公布後，迅速引起 AI 技術社群關注。研究作者武日力也（Rikiya Takehi）在 X ",
@@ -231,6 +238,55 @@
     ],
     "en_sec": [
       {
+        "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+        "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+        "pubDate": "Tue, 03 Nov 2026 22:25:58 +0530",
+        "description": "Binance on Tuesday said the record-setting theft of $6.43 billion in assets from the world's largest cryptocurrency exchange was the culmination of a \"sophisticated, multi-stage campaign\" that involved the use of a tampered Homebrew installation and ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+        "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+        "pubDate": "Tue, 03 Nov 2026 21:29:19 +0530",
+        "description": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device.\n\nThe vulnerabilities, a pre-authentication",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+        "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+        "pubDate": "Tue, 03 Nov 2026 21:11:53 +0530",
+        "description": "Google on Monday warned that threat actors are hijacking enterprise access to Large Language Models (LLMs) to fraudulently leverage expensive computing resources and AI services.\n\nThe tactic is called LLMjacking, a form of resource hijacking adapted ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+        "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+        "pubDate": "Tue, 03 Nov 2026 20:46:32 +0530",
+        "description": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers.\n\nThe script installed a backdoor and collected password hashes and other sensitive files from serv",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+        "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+        "pubDate": "Tue, 03 Nov 2026 16:53:53 +0530",
+        "description": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in testing channe",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+        "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+        "pubDate": "Tue, 03 Nov 2026 16:48:20 +0530",
+        "description": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue. Gartner®’s rep",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+        "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+        "pubDate": "Tue, 03 Nov 2026 16:30:45 +0530",
+        "description": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations.\n\n\"Active since at least February 2025, the group has focused exclusively on Ukrainian targets, with",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
         "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
         "pubDate": "Tue, 03 Nov 2026 14:01:48 +0530",
@@ -266,52 +322,45 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
-        "pubDate": "Sun, 01 Nov 2026 14:57:53 -0500",
-        "description": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+        "title": "Barracuda warns of critical flaws allowing root access to devices",
+        "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
+        "pubDate": "Tue, 03 Nov 2026 10:06:16 -0500",
+        "description": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-        "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-        "pubDate": "Sun, 01 Nov 2026 14:21:31 +0530",
-        "description": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's public certific",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-        "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-        "pubDate": "Sun, 01 Nov 2026 12:55:40 +0530",
-        "description": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside company.\n\nPolymark",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
-        "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
-        "pubDate": "Sun, 01 Nov 2026 10:11:21 -0500",
-        "description": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible compromise.",
+        "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
+        "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
+        "pubDate": "Tue, 03 Nov 2026 10:00:10 -0500",
+        "description": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection e",
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
-        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
-        "pubDate": "Sun, 01 Nov 2026 08:53:11 -0500",
-        "description": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+        "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
+        "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
+        "pubDate": "Tue, 03 Nov 2026 09:00:00 -0500",
+        "description": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "Northflank security breach leads to abuse of customers' AI API keys",
-        "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-        "pubDate": "Sat, 31 Oct 2026 14:01:12 -0400",
-        "description": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+        "title": "Police seizes over 100 servers in investment scam crackdown",
+        "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
+        "pubDate": "Tue, 03 Nov 2026 08:33:49 -0500",
+        "description": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-        "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-        "pubDate": "Sat, 31 Oct 2026 11:35:11 -0400",
-        "description": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by sending a specia",
+        "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
+        "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
+        "pubDate": "Tue, 03 Nov 2026 07:05:52 -0500",
+        "description": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Harvard University data breach exposed info of 851,000 accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
+        "pubDate": "Tue, 03 Nov 2026 05:53:25 -0500",
+        "description": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -327,56 +376,63 @@
         "pubDate": "Mon, 02 Nov 2026 21:20:26 +0530",
         "description": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says it is highly confident that device maker Videostrong intentionally put a backdoor in the",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
-        "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
-        "pubDate": "Mon, 02 Nov 2026 20:16:05 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a cyber espionage campaign targeting Israel and the Kurdistan Region of Iraq by an Iran state-aligned threat actor between August and October 2026.\n\nAccording to a report published by Dream Research",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-        "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-        "pubDate": "Mon, 02 Nov 2026 17:20:00 +0530",
-        "description": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week.\n\nLangflow is an open-source tool for building AI agents and workflows, and its vulnerability reports go to IBM",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-        "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-        "pubDate": "Mon, 02 Nov 2026 17:00:00 +0530",
-        "description": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and practition",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Chinese hackers use ARTEX AI in automated attacks against 200 orgs",
-        "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-artex-ai-in-automated-attacks-against-200-orgs/",
-        "pubDate": "Mon, 02 Nov 2026 16:40:14 -0500",
-        "description": "Chinese hackers used ARTEX, an open-source, multi-agent AI penetration-testing framework, in attacks against more than 200 organizations across 14 countries. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
-        "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
-        "pubDate": "Mon, 02 Nov 2026 16:38:45 +0530",
-        "description": "Attackers posing as IT support on Microsoft Teams talked employees into giving them remote control of their PCs. They then used insecure Active Directory Certificate Services (AD CS) settings to obtain login certificates for privileged accounts, incl",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-        "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-        "pubDate": "Mon, 02 Nov 2026 16:19:59 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a cyber espionage campaign specifically targeting Linux infrastructure associated with government entities and state-affiliated infrastructure.\n\nThe activity, observed by Palo Alto Networks Unit 42 ",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "Anthropic is still grappling with the economics of compute",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+        "pubDate": "Tue, 03 Nov 2026 17:07:01 +0000",
+        "description": "At a moment when Anthropic's compute margins should be getting better, they’re getting worse.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Rivian spinout Also was working on an e-moto project in Kenya — until it walked away",
+        "link": "https://techcrunch.com/2026/11/03/rivian-spinout-also-owns-up-to-mistakes-in-delayed-e-bike-launch/",
+        "pubDate": "Tue, 03 Nov 2026 16:49:09 +0000",
+        "description": "Also co-founder and president Chris Yu told TechCrunch that he wanted to prioritize autonomous vehicles.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
+        "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
+        "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
+        "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
+        "pubDate": "Tue, 03 Nov 2026 16:04:55 +0000",
+        "description": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Apple restricts dating apps and AI companions to users 18 and up",
+        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
+        "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
+        "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
+        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
+        "pubDate": "Tue, 03 Nov 2026 14:30:00 +0000",
+        "description": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
+        "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
+        "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+        "description": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
         "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
         "pubDate": "Tue, 03 Nov 2026 08:01:00 +0000",
-        "description": "Evertrue Capital announces $17M debut fund to back early stage AI and fintech.",
+        "description": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
         "source": "TechCrunch"
       },
       {
@@ -429,87 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "link": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
-        "pubDate": "Mon, 02 Nov 2026 23:13:53 +0000",
-        "description": "The one-year-old startup is now valued at $300 million.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple’s inventory surges 154% as memory chip costs climb",
-        "link": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
-        "pubDate": "Mon, 02 Nov 2026 23:04:57 +0000",
-        "description": "Apple says unprecedented memory chip costs will continue to rise, raising questions about future device prices as its inventory climbs to $14.5 billion.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
-        "link": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
-        "pubDate": "Mon, 02 Nov 2026 22:14:50 +0000",
-        "description": "RSI is the point at which AI grows so good at training itself that it spawns a dramatic acceleration of AI capabilities. To the AI doomers, RSI represents the cataclysm from which there is no return.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
-        "link": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
-        "pubDate": "Mon, 02 Nov 2026 19:45:54 +0000",
-        "description": "German lawmakers and a filmmaker are among the people who received notifications from Apple warning that their phones may have been hacked.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Web host Squarespace lays off 19% of its employees",
-        "link": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
-        "pubDate": "Mon, 02 Nov 2026 19:25:59 +0000",
-        "description": "The website builder said that the job losses are part of a broader restructuring of its organization.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
-        "link": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
-        "pubDate": "Mon, 02 Nov 2026 19:19:17 +0000",
-        "description": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
-        "link": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
-        "pubDate": "Mon, 02 Nov 2026 19:11:49 +0000",
-        "description": "The plaintiffs said they started using YouTube as young as age 3 and other social media platforms at around age 9 and developed compulsive usage habits that they attributed to features such as autoplay and infinite scrolling.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
-        "link": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
-        "pubDate": "2026-11-02T17:56:11-05:00",
-        "description": "Apple CEO John Ternus doesn't have a timeline for when iPhone Duo supply constraints could lift. During an interview with Reuters, Ternus said the company is \"working hard to get it to as many customers as quickly as possible, but at this ​point, we'",
+        "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
+        "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
+        "pubDate": "2026-11-03T12:27:52-05:00",
+        "description": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles f",
         "source": "TheVerge"
       },
       {
-        "title": "Apple set an iPhone sales record even without a new standard iPhone",
-        "link": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
-        "pubDate": "2026-11-02T17:02:36-05:00",
-        "description": "Apple had a record-breaking quarter for iPhone sales - despite not releasing a standard model during its latest refresh. In its fourth-quarter earnings report released on Monday, Apple says it earned $57.58 billion in iPhone revenue, a 17 percent jum",
+        "title": "The Xbox Nano has a hidden cloud secret",
+        "link": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
+        "pubDate": "2026-11-03T12:16:04-05:00",
+        "description": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, b",
         "source": "TheVerge"
       },
       {
-        "title": "Meta will end Quest 2 OS updates in 2027",
-        "link": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
-        "pubDate": "2026-11-02T16:04:20-05:00",
-        "description": "Meta is planning to release the last OS update for its Quest 2 and Quest Pro VR headsets by March 2027, the company announced today. The last OS update for those devices is planned to be v213, and after that, Meta will continue to ship security patch",
+        "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
+        "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+        "pubDate": "2026-11-03T12:00:04-05:00",
+        "description": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Noteb",
         "source": "TheVerge"
       },
       {
-        "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-        "link": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-        "pubDate": "2026-11-02T15:37:49-05:00",
-        "description": "Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based ",
+        "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
+        "link": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
+        "pubDate": "2026-11-03T12:00:00-05:00",
+        "description": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or fo",
         "source": "TheVerge"
       },
       {
-        "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
-        "link": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
-        "pubDate": "2026-11-02T15:03:52-05:00",
-        "description": "BMW says that it will expand its navigation-guided, partially automated driving capabilities into urban environments starting in 2027, launching first in Germany with other markets to follow. The new system can help steer, speed up, and slow down the",
+        "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
+        "link": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
+        "pubDate": "2026-11-03T12:00:00-05:00",
+        "description": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now \"more responsive\" and runs better on PCs with 8GB of RAM, and now the comp",
         "source": "TheVerge"
       }
     ],
