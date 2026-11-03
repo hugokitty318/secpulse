@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-03T17:47:54.911824Z",
+  "ts": "2026-11-03T23:15:43.814303Z",
   "tabs": {
     "cn_sec": [
       {
@@ -131,6 +131,13 @@
     ],
     "cn_tech": [
       {
+        "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
+        "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46% 蘋果（Apple）11 月 2 日公布第四季財報，營收達 1,145 億美元、年增 12%，創歷年 9 月季度新高。上一季毛利率為 47.9%，其中約 1 個百分點來自關稅退款；公司預估 12 月旺季毛利率降至 45%–46%。今年 9 月接任的執行長約翰・特努斯（John Ternus）首次主持法說會，形容記憶體漲價前所未見，並預期採購成本持續上升。Apple ",
+        "source": "TechOrange"
+      },
+      {
         "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
         "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Tue, 03 Nov 2026 16:35:01 +0800",
@@ -227,16 +234,23 @@
         "pubDate": "Mon, 02 Nov 2026 12:10:22 +0800",
         "description": "同樣是「營收」，財務、業務與 CRM 系統可能各有不同定義，產生的數字也未必一致。雲馥數位技術服務處長蔡嘉豪在科技報橘舉辦的「2026 企業 AI 主權高峰論壇」指出，這些數字在各自的業務情境下或許都合理，但當 AI Agent 開始參與報表分析、客戶服務與營運決策，若缺乏一致的資料定義與業務脈絡，就可能產生錯誤判斷，並隨著自動化流程逐步放大影響。 「我們一直不斷投入這些資源在數據中台，到底缺了什麼？」蔡嘉豪指出，過去企業持續投入資源整合跨系統資料，隨著 AI 應用深入企業營運，如何建立資料之間",
         "source": "TechOrange"
-      },
-      {
-        "title": "DeepSeek 開源編碼代理 Super-Agent：沒人指派也能接單，預設卻只記錄不出手",
-        "link": "https://techorange.com/2026/11/02/deepseek-super-agent-proactive-coding-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 02 Nov 2026 12:07:53 +0800",
-        "description": "DeepSeek 旗下團隊在 10/31（週六）於微信宣布開源編碼代理（coding agent）Super-Agent，專案以 MIT 授權發布在 GitHub。根據《Bloomberg》報導，這款更具自主性的代理原型，能主動監看開發者群組聊天中關於程式問題的回饋，不必被呼叫就提出解法。不過，DeepSeek 在說明文件中也替這種主動設下前提：代理預設只記錄自己「會接受」的工作，不會真的動手。 推出 Super-Agent 的是 DeepSeek 今年稍早成立的 Harness 團隊，專門協助",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+        "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+        "pubDate": "Wed, 04 Nov 2026 00:16:38 +0530",
+        "description": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.\n\nThe warning came in an e",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+        "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+        "pubDate": "Tue, 03 Nov 2026 23:46:19 +0530",
+        "description": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure.\n\nThe incident is assessed to be part of a large-scale, ar",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
         "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
@@ -266,6 +280,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+        "pubDate": "Tue, 03 Nov 2026 17:18:50 -0500",
+        "description": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
         "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
         "pubDate": "Tue, 03 Nov 2026 16:53:53 +0530",
@@ -287,11 +308,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+        "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+        "pubDate": "Tue, 03 Nov 2026 16:28:44 -0500",
+        "description": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+        "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+        "pubDate": "Tue, 03 Nov 2026 15:05:50 -0500",
+        "description": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in digital assets. ",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
         "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
         "pubDate": "Tue, 03 Nov 2026 14:01:48 +0530",
         "description": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running older versions",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+        "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+        "pubDate": "Tue, 03 Nov 2026 13:51:04 -0500",
+        "description": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
@@ -334,51 +376,93 @@
         "pubDate": "Tue, 03 Nov 2026 10:00:10 -0500",
         "description": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection e",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-        "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-        "pubDate": "Tue, 03 Nov 2026 09:00:00 -0500",
-        "description": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Police seizes over 100 servers in investment scam crackdown",
-        "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-        "pubDate": "Tue, 03 Nov 2026 08:33:49 -0500",
-        "description": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-        "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-        "pubDate": "Tue, 03 Nov 2026 07:05:52 -0500",
-        "description": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Harvard University data breach exposed info of 851,000 accounts",
-        "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-        "pubDate": "Tue, 03 Nov 2026 05:53:25 -0500",
-        "description": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-        "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-        "pubDate": "Mon, 02 Nov 2026 22:27:56 +0530",
-        "description": "Some attacks this week didn't need much of a trick. A fake support call, a trusted extension, a shared link, or a device with no password. Small things that people barely think about. Yet each was enough to cause serious trouble.\n\nThen there were the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-        "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-        "pubDate": "Mon, 02 Nov 2026 21:20:26 +0530",
-        "description": "A botnet of more than 1.3 million Android devices, mostly TV set-top boxes, lost control of its servers in late October in a takedown led by Google.\n\nGoogle says it is highly confident that device maker Videostrong intentionally put a backdoor in the",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "Anthropic is working on a system to prove AI models’ identity",
+        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+        "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
+        "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Data centers are turning to old jet engines as the wait for power grows",
+        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
+        "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
+        "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
+        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
+        "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
+        "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
+        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+        "pubDate": "Tue, 03 Nov 2026 21:05:55 +0000",
+        "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
+        "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
+        "pubDate": "Tue, 03 Nov 2026 20:57:17 +0000",
+        "description": "An in-space construction first could be an enabler for the space data centers of the future.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Researchers warned of North Korean hacking tactics years before record $6.3B Binance heist",
+        "link": "https://techcrunch.com/2026/11/03/researchers-warned-of-north-korean-hacking-tactics-years-before-record-6-3b-binance-heist/",
+        "pubDate": "Tue, 03 Nov 2026 19:45:48 +0000",
+        "description": "Cybersecurity experts have long warned of the persistent and patient threat from North Korea's long-running hacks. The world's largest crypto exchange was still caught off-guard.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "link": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/",
+        "pubDate": "Tue, 03 Nov 2026 19:34:43 +0000",
+        "description": "The five-year-old startup raised a $1.3  billion round led by Bessemer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Reddit tests ads in search results as traffic declines and growth concerns mount",
+        "link": "https://techcrunch.com/2026/11/03/reddit-tests-ads-in-search-results-as-traffic-declines-and-growth-concerns-mount/",
+        "pubDate": "Tue, 03 Nov 2026 19:24:37 +0000",
+        "description": "The new ad placements could help Reddit squeeze more revenue from existing users as Google's AI search changes how people discover its content.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ten years later, ‘Pokémon Go to the polls’ still haunts the internet",
+        "link": "https://techcrunch.com/2026/11/03/ten-years-later-pokemon-go-to-the-polls-still-haunts-the-internet/",
+        "pubDate": "Tue, 03 Nov 2026 19:04:52 +0000",
+        "description": "Hillary Clinton's 2016 political gaffe has become an irony-shrouded rallying cry for jaded young voters who still dare to hope for change.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Ferrari’s controversial Luce EV is sold out for 2027",
+        "link": "https://techcrunch.com/2026/11/03/ferraris-controversial-luce-ev-is-sold-out-for-2027/",
+        "pubDate": "Tue, 03 Nov 2026 18:51:33 +0000",
+        "description": "The Luce, Ferrari's first electric car and one of its most polarizing models, is \"fully allocated\" through 2027, according to CEO Benedetto Vigna.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Netflix’s new AI Discover tab helps you find something to watch based on your mood",
+        "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+        "pubDate": "Tue, 03 Nov 2026 18:42:16 +0000",
+        "description": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CrowdStrike to shell out nearly $500M for 2 AI security startups as the market for securing agents takes off",
+        "link": "https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/",
+        "pubDate": "Tue, 03 Nov 2026 17:56:52 +0000",
+        "description": "CrowdStrike said it will buy Fiddler AI, which makes AI agent observability software, and Dreadnode, which helps companies automate AI security testing.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic is still grappling with the economics of compute",
         "link": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
@@ -401,122 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "New York City’s Mamdani criticizes Madison Square Garden owner over surveillance tech",
-        "link": "https://techcrunch.com/2026/11/03/new-york-citys-mamdani-criticizes-madison-square-garden-owner-over-surveillance-tech/",
-        "pubDate": "Tue, 03 Nov 2026 16:04:55 +0000",
-        "description": "The mayor's comments come after the entertainment giant's data breach last year, which exposed James Dolan's surveillance.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple restricts dating apps and AI companions to users 18 and up",
-        "link": "https://techcrunch.com/2026/11/03/apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up/",
-        "pubDate": "Tue, 03 Nov 2026 15:38:27 +0000",
-        "description": "Apple's new App Store rules will require 18+ ratings for dating apps and AI companions that offer sexual or romantic content.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on Nov. 4",
-        "link": "https://techcrunch.com/2026/11/03/the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on-nov-4/",
-        "pubDate": "Tue, 03 Nov 2026 14:30:00 +0000",
-        "description": "On Nov. 4, TechCrunch Founder Summit 2026 brings founders and VCs to Boston's SoWa Power Station for practical insights and connections. Register before prices increase at the door.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increase",
-        "link": "https://techcrunch.com/2026/11/03/tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increase/",
-        "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
-        "description": "Secure your TechCrunch Founder Summit pass savings before prices increase tomorrow at 9 a.m. ET. Save up to $100 on your pass, and get a second for free.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Yvonne Bajela is bringing $17M in fresh capital to Europe’s startup scene",
-        "link": "https://techcrunch.com/2026/11/03/yvonne-bajela-is-bringing-17m-in-fresh-capital-to-europes-startup-scene/",
-        "pubDate": "Tue, 03 Nov 2026 08:01:00 +0000",
-        "description": "Evertrue Capital announces $17M debut fund to back early-stage AI and fintech.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple Watch’s AI features for rewinding and recapping conversations begin beta testing",
-        "link": "https://techcrunch.com/2026/11/02/apple-watchs-ai-features-for-rewinding-and-recapping-conversations-begin-beta-testing/",
-        "pubDate": "Tue, 03 Nov 2026 07:20:00 +0000",
-        "description": "Now in beta: Apple's new Audio Intelligence features can help you remember what someone said or take notes on conversations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
-        "link": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
-        "pubDate": "Tue, 03 Nov 2026 03:30:00 +0000",
-        "description": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
-        "link": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
-        "pubDate": "Tue, 03 Nov 2026 01:49:52 +0000",
-        "description": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
-        "link": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
-        "pubDate": "Tue, 03 Nov 2026 01:12:55 +0000",
-        "description": "A Kyiv startup’s pocket-sized, 10-ounce receiver lets Ukrainian troops watch the video feeds of Russian drones, though Russian moves toward digital video and AI-guided drones that emit no signals could make the victory short-lived.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-        "link": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-        "pubDate": "Tue, 03 Nov 2026 00:35:52 +0000",
-        "description": "Y Combinator Garry Tan has jokingly admitted that he's suffered from \"cyber psychosis” and barely sleeps sometimes because he’s so excited to be working with his AI agents. On a new episode of Walter Isaacson’s podcast, The Builders, Tan put a price ",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
-        "link": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
-        "pubDate": "Tue, 03 Nov 2026 00:14:51 +0000",
-        "description": "At a time when people are increasingly tired of dating apps, Hinge is testing a cheaper subscription plan.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
-        "link": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
-        "pubDate": "Mon, 02 Nov 2026 23:25:32 +0000",
-        "description": "Apple says iPhone Duo production is ramping up, but it still can't say when supply will catch up with demand as shipping delays stretch into next year.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Moft’s new origami case adds a kickstand and grip to the iPhone Duo",
-        "link": "https://www.theverge.com/tech/1025364/moft-dynamic-folio-case-stand-grip-apple-iphone-duo",
-        "pubDate": "2026-11-03T12:27:52-05:00",
-        "description": "Originally released in early 2025 as an accessory for the iPad, Moft has redesigned its Dynamic Folio as a case for the iPhone Duo that does more than just protect Apple's folding phone. You can use it to prop the Duo up at several different angles f",
+        "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
+        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
+        "pubDate": "2026-11-03T17:59:36-05:00",
+        "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\"",
         "source": "TheVerge"
       },
       {
-        "title": "The Xbox Nano has a hidden cloud secret",
-        "link": "https://www.theverge.com/games/1025430/xbox-nano-controller-direct-cloud-wifi-connectivity",
-        "pubDate": "2026-11-03T12:16:04-05:00",
-        "description": "Microsoft is about to launch its new Xbox Nano controller tomorrow, and the tiny device has a little secret. The Nano can connect directly to Xbox Cloud Gaming over Wi-Fi to improve latency. It's a feature Microsoft hasn't officially announced yet, b",
+        "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
+        "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
+        "pubDate": "2026-11-03T17:20:50-05:00",
+        "description": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly ",
         "source": "TheVerge"
       },
       {
-        "title": "Google is entirely disabling Search in schools that don&#8217;t want AI",
-        "link": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
-        "pubDate": "2026-11-03T12:00:04-05:00",
-        "description": "Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Noteb",
+        "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
+        "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
+        "pubDate": "2026-11-03T17:15:33-05:00",
+        "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox’s smallest-ever controller is surprisingly comfortable",
-        "link": "https://www.theverge.com/tech/1025097/xbox-nano-controller-hands-on",
-        "pubDate": "2026-11-03T12:00:00-05:00",
-        "description": "Even though I knew Microsoft's new Xbox Nano controller was tiny, I still gasped when I unboxed it a few days ago. The compact controller is small enough to slip into a pocket unnoticed, and it has been designed specifically for younger people, or fo",
+        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
+        "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
+        "pubDate": "2026-11-03T17:04:02-05:00",
+        "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tam",
         "source": "TheVerge"
       },
       {
-        "title": "Windows 11 is now ‘up to 40 percent faster’ on PCs with 8GB of RAM",
-        "link": "https://www.theverge.com/news/1025142/windows-11-8gb-ram-memory-improvements-speed-performance",
-        "pubDate": "2026-11-03T12:00:00-05:00",
-        "description": "Microsoft has been doing a lot of work to improve memory usage and increase performance on Windows 11 PCs over the past year. Last month the company revealed Windows 11 is now \"more responsive\" and runs better on PCs with 8GB of RAM, and now the comp",
+        "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
+        "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
+        "pubDate": "2026-11-03T16:21:04-05:00",
+        "description": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-t",
         "source": "TheVerge"
       }
     ],
