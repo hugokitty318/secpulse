@@ -1,7 +1,56 @@
 {
-  "ts": "2026-11-03T23:15:43.814303Z",
+  "ts": "2026-11-04T03:14:01.488698Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Google釋出Chrome 157修補213個資安漏洞，其中7個為重大等級",
+        "link": "https://www.ithome.com.tw/news/180201",
+        "pubDate": "2026-11-04 10:53",
+        "description": "本週Google發布Chrome大改版157，總共修補213個資安弱點，其中包含7個與記憶體有關的重大漏洞，而成為本次更新的焦點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Node-RED重大漏洞出現攻擊嘗試，駭客企圖執行Linux惡意程式並部署網頁後門",
+        "link": "https://www.ithome.com.tw/news/180178",
+        "pubDate": "2026-11-04 08:00",
+        "description": "資安業者VulnCheck觀測到攻擊者利用Node-RED重大漏洞CVE-2026-58115，嘗試下載並執行Linux惡意程式，後續還發現部署網頁後門的攻擊手法。由於Node-RED也被應用於工控與OT環境，企業應檢查相關系統的管理介面是否受到適當保護",
+        "source": "iThome資安"
+      },
+      {
+        "title": "XCPE殭屍網路控制逾130萬臺機上盒，Google指控Android裝置製造商刻意預載後門",
+        "link": "https://www.ithome.com.tw/news/180161",
+        "pubDate": "2026-11-04 08:00",
+        "description": "Google指控裝置製造商Videostrong刻意在韌體預載後門，向犯罪合作夥伴販售存取權限，讓受感染裝置被用於廣告詐欺及常駐代理網路服務。Google已禁止該公司製造及銷售經Google認證的Android裝置",
+        "source": "iThome資安"
+      },
+      {
+        "title": "雲端憑證遭竊成LLMJacking攻擊入口，企業AI模型資源被盜用牟利",
+        "link": "https://www.ithome.com.tw/news/180158",
+        "pubDate": "2026-11-04 08:00",
+        "description": "Google旗下Mandiant調查2026年多起LLMJacking事件，發現攻擊者利用遭竊的雲端存取憑證及API金鑰，未經授權使用企業AI模型資源，部分攻擊者還透過非法代理服務轉售牟利",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Aikido併購Cyberly及OutKept推出Noon資安平臺，整合AI工具管理與員工安全防護",
+        "link": "https://www.ithome.com.tw/news/180159",
+        "pubDate": "2026-11-04 08:00",
+        "description": "比利時資安業者Aikido併購Cyberly及OutKept後推出員工資安平臺Noon，整合電子郵件安全、裝置防護、AI工具使用管理及社交工程攻擊模擬等功能，將業務從軟體安全擴展至企業員工防護",
+        "source": "iThome資安"
+      },
+      {
+        "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
+        "link": "https://www.ithome.com.tw/news/180200",
+        "pubDate": "2026-11-04  09:11:22",
+        "description": "蘋果（Apple）周二（11/3）宣布，隨著iOS 27.3、iPadOS 27.3及macOS 27.3測試版推出，所有開發者都可以自家App整合Siri AI，讓第三方App能透過自然語言理解、個人情境及螢幕內容辨識等能力，協助使用者完成訂單查詢、餐廳預訂及購物等操作。蘋果同時推出Skills機制，讓Siri AI能組合多項操作，執行更複雜的任務。",
+        "source": "iThome"
+      },
+      {
+        "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
+        "link": "https://www.ithome.com.tw/news/180199",
+        "pubDate": "2026-11-04  09:11:09",
+        "description": "面對美國大型學區陸續限制學生使用生成式AI，Google周二（11/3）宣布，將引導式學習（Guided Learning）功能整合至Google搜尋與Google Classroom，試圖以不同於直接提供答案的AI教學方式，爭取教育界接受。同時，Google將讓學校自行決定是否開放相關服務，但由於學校無法選擇只使用不含AI功能的傳統Google搜尋，也引發拒絕AI就無法使用Google搜尋的爭議。",
+        "source": "iThome"
+      },
       {
         "title": "永豐銀行發生不明轉帳事件，該行證實新網銀系統程式異常，初步清查影響419名客戶、涉及427筆交易",
         "link": "https://www.ithome.com.tw/news/180185",
@@ -20,7 +69,7 @@
         "title": "Hugging Face遭惡意模型濫用，31個儲存庫散布挖礦程式與後門",
         "link": "https://www.ithome.com.tw/news/180184",
         "pubDate": "2026-11-03 17:31",
-        "description": "Pluto Security揭露名為Load/Mine的惡意軟體活動，攻擊者濫用Hugging Face模型分享平臺，透過31個惡意模型儲存庫散布加密貨幣挖礦程式與後門，相關模型累計下載超過3.2萬次。攻擊者濫用trust_remote_code=True機制，在使用者載入模型時執行惡意Python程式碼，即使模型權重沒有惡意內容，也可能導致主機遭入侵",
+        "description": "Pluto Security揭露濫用Hugging Face模型分享平臺的惡意軟體活動，攻擊者透過31個惡意模型儲存庫散布加密貨幣挖礦程式與後門，相關模型累計下載超過3.2萬次。攻擊者濫用trust_remote_code=True機制，在使用者載入模型時執行惡意Python程式碼，即使模型權重沒有惡意內容，也可能導致主機遭入侵",
         "source": "iThome資安"
       },
       {
@@ -73,41 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "歐洲能源巨擘ENGIE合作夥伴平臺遭駭，部分法國客戶資料外洩",
-        "link": "https://www.ithome.com.tw/news/180170",
-        "pubDate": "2026-11-03 12:31",
-        "description": "駭客入侵合作廠商用於客戶開發與產品行銷的第三方工具，竊取客戶聯絡資訊及合約資料，ENGIE強調內部IT系統未受影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Android遭揭露「死亡簡訊」漏洞，可遠端癱瘓手機通話服務",
-        "link": "https://www.ithome.com.tw/news/180169",
-        "pubDate": "2026-11-03 12:06",
-        "description": "攻擊者傳送特製WAP Push簡訊即可遠端觸發系統程序當機，造成通話中斷，甚至使手機陷入反覆當機與重新啟動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客濫用AI滲透測試框架ARTEX攻擊，於全球逾200個企業組織從事網路間諜活動",
-        "link": "https://www.ithome.com.tw/news/180168",
-        "pubDate": "2026-11-03 11:54",
-        "description": "資安廠商CrowdStrike揭露中國駭客組織Vapor Panda的全球網路間諜活動，近半個月利用AI滲透測試框架嘗試入侵超過200家企業組織，範圍涵蓋政府部門、半導體、國防及電信等多個產業",
-        "source": "iThome資安"
-      },
-      {
-        "title": "TWCA CA憑證序號亂數不足遭Mozilla揭露，數發部要求換發並啟動第三方檢測",
-        "link": "https://www.ithome.com.tw/news/180167",
-        "pubDate": "2026-11-03 11:41",
-        "description": "Mozilla Bugzilla近日揭露，臺灣網路認證（TWCA）部分CA憑證的序號隨機性不足，未符合CA/Browser Forum要求至少64 bits密碼學安全亂數的規範。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐洲7國逾115家超市冷凍設備遭駭客操控，遠端調高溫度導致食品損失",
-        "link": "https://www.ithome.com.tw/news/180165",
-        "pubDate": "2026-11-03 11:10",
-        "description": "本週歐洲再傳超市冷凍冷藏控制系統遭到入侵，造成大量食品報廢的情形！11月2日比利時、盧森堡、瑞典等7個國家發生相關事故，已確認有115家超市受害",
-        "source": "iThome資安"
-      },
-      {
         "title": "MIT展示權重空間程式設計，GPT-6 Astra可直接讀寫神經網路權重",
         "link": "https://www.ithome.com.tw/news/180195",
         "pubDate": "2026-11-03  08:11:07",
@@ -120,16 +134,23 @@
         "pubDate": "2026-11-03  04:11:46",
         "description": "Cloudflare公開DNS更新架構改造成果，讓部分區域設定變更不必重新處理整個DNS區域，只需更新受影響的紀錄及相關資料，並整合工作排程。DNS變更發生到寫入內部儲存系統的處理延遲中位數由7.7秒降至3.3秒，尖峰記憶體用量減少85%，完整區域重建次數也下降約40%。",
         "source": "iThome"
-      },
-      {
-        "title": "Anthropic調整Claude Code提示詞，限制AI重製現有遊戲",
-        "link": "https://www.ithome.com.tw/news/180173",
-        "pubDate": "2026-11-03  01:11:02",
-        "description": "Anthropic近日證實為開發工具Claude Code等加入新機制，避免使用者用其Claude Code和Opus 5.5來重製知名電玩遊戲造成侵害智慧財產權。\nAnthropic開發工具部門主管Addy Osmani指出，公司已在Claude Code搭配Opus 5.5的提示詞中加入新指示，引導使用者避免利用Claude重製特定現有遊戲，以免侵害他人智慧財產權，違反Anthropic的使用政策。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "讓 AI 不只回答，而是更會工作：叡揚、Dell、昕力、勤英共探 AI 如何重塑企業智慧決策與工作流程",
+        "link": "https://techorange.com/2026/11/04/2027-ai-innovation-day-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 09:48:54 +0800",
+        "description": "TechOrange 科技報橘日前舉辦「AI Innovation Day：2027 AI 創新日」論壇，上半場聚焦 AI 如何重塑企業智慧決策與工作流程，下半場由 NVIDIA 協辦，邀請生態系合作夥伴解析自動化視覺 AI Agent如何驅動實體 AI 新紀元，串起「從數位大腦到實體之眼」的主題。 TechOrange 科技報橘社長戴季全在致詞中，將當前 AI 產業發展比擬為 1996 至 2000 年的科技創新加速期。從 DeepMind 前首席研究員 David Silver 投入研發能從",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Airbus 用 AI 讀取機上餐盤、提前 10 天預警設備異常，航空營運如何改變？",
+        "link": "https://techorange.com/2026/11/04/airbus-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 06:20:00 +0800",
+        "description": "航空公司的營運挑戰，除了維持航班準點，也包括減少機上餐飲浪費，以及避免設備故障影響後續航班。空中巴士（Airbus）將 AI 與數據分析導入機上餐飲管理、飛機預測性維護及地面維修支援，試圖透過更即時的資訊掌握，協助航空公司調整備餐規劃、提前發現設備異常，並加快維修人員取得技術資訊的速度。 AI 追蹤機上餐飲消耗，協助航空公司減少浪費 根據 Airbus 引用國際航空運輸協會（IATA）與航空永續論壇（Aviation Sustainability Forum，ASF）2024 至 2025 年的",
+        "source": "TechOrange"
+      },
       {
         "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
         "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -219,20 +240,6 @@
         "link": "https://techorange.com/2026/11/02/cloudmile-sovereign-ai-europe-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 02 Nov 2026 16:56:03 +0800",
         "description": "如果有一天，台灣的政府首長公開拜託中小企業，把工廠裡的製程資料拿出來給 AI 用，你會怎麼想？ 類似的事，10 月 19 日發生在德國。 「請為 AI 打開你們的大門，讓它使用你們的資料。」這句話是德國總理梅爾茨說的，對象是德國自己的中小企業。 那天他站在柏林一座廢棄發電廠改建的場地上，身旁是 NVIDIA 執行長黃仁勳，那是德國第一屆 Invest in Germany Summit，兩個聯邦部會與 NVIDIA 簽下了發展實體 AI 的聯合意向書。 黃仁勳在台上說，德國在製造上累積的資料和專",
-        "source": "TechOrange"
-      },
-      {
-        "title": "史上最大加密貨幣竊案：FBI 指北韓盜走幣安逾 60 億美元，私鑰未外洩為何仍失守？",
-        "link": "https://techorange.com/2026/11/02/binance-hack-north-korea-attack-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 02 Nov 2026 15:39:19 +0800",
-        "description": "美國聯邦調查局（FBI）10/31（美國時間）發布聲明，指北韓應為全球最大加密貨幣交易所幣安（Binance）逾 60 億美元虛擬資產遭竊一事負責，並將這批進行惡意網路活動的北韓駭客稱為「TraderTraitor」。幣安估計事件影響約 63 億美元。《BleepingComputer》指出，這是有紀錄以來最大的加密貨幣竊案。根據區塊鏈分析業者 TRM Labs 統計，攻擊從 10/29 UTC 20:05（台灣時間 10/30 清晨 4:05）開始，大部分資金約 20 分鐘內就被移出。 比規模",
-        "source": "TechOrange"
-      },
-      {
-        "title": "企業 AI 如何建立共同語言？雲馥數位蔡嘉豪：以 Fabric IQ 串起資料語意與業務脈絡",
-        "link": "https://techorange.com/2026/11/02/cloudriches-aiagent-fabric-iq/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 02 Nov 2026 12:10:22 +0800",
-        "description": "同樣是「營收」，財務、業務與 CRM 系統可能各有不同定義，產生的數字也未必一致。雲馥數位技術服務處長蔡嘉豪在科技報橘舉辦的「2026 企業 AI 主權高峰論壇」指出，這些數字在各自的業務情境下或許都合理，但當 AI Agent 開始參與報表分析、客戶服務與營運決策，若缺乏一致的資料定義與業務脈絡，就可能產生錯誤判斷，並隨著自動化流程逐步放大影響。 「我們一直不斷投入這些資源在數據中台，到底缺了什麼？」蔡嘉豪指出，過去企業持續投入資源整合跨系統資料，隨著 AI 應用深入企業營運，如何建立資料之間",
         "source": "TechOrange"
       }
     ],
@@ -390,7 +397,7 @@
         "title": "Data centers are turning to old jet engines as the wait for power grows",
         "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
         "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
-        "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less efficient and less environmentally friendly solution: once-discarded jet engines.",
+        "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
         "source": "TechCrunch"
       },
       {
@@ -485,42 +492,62 @@
         "source": "TechCrunch"
       },
       {
+        "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
+        "link": "https://www.theverge.com/tech/1026148/amd-earnings-q3-2026-data-center-pc",
+        "pubDate": "2026-11-03T20:15:34-05:00",
+        "description": "AMD CEO Lisa Su said in the company's quarterly earnings call on Tuesday that Q3 2026 was \"was the largest and most profitable in our history.\" AMD reported a record $13.4 billion in quarterly revenue, and it's predicting it will hit another record h",
+        "source": "TheVerge"
+      },
+      {
+        "title": "All the news about The Legend of Zelda: Ocarina of Time remake",
+        "link": "https://www.theverge.com/games/1026112/the-legend-of-zelda-ocarina-of-time-remake-nintendo-switch-2-news",
+        "pubDate": "2026-11-03T20:02:53-05:00",
+        "description": "Ahead of the release of Rockstar Games’ Grand Theft Auto VI, Nintendo is launching its own fall juggernaut: a Switch 2 remake of The Legend of Zelda: Ocarina of Time. The remake, which is releasing 28 years after the launch of the original version on",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The biggest modding site in PC gaming is taking a stance on AI",
+        "link": "https://www.theverge.com/games/1026085/nexus-mods-ai-disclosures",
+        "pubDate": "2026-11-03T19:42:10-05:00",
+        "description": "The PC gaming mods repository Nexus Mods is making disclosures about AI mandatory for uploads of new mods, meaning that mod authors will have to declare \"whether AI has been used in their work,\" the site announced today as part of a big post about AI",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Please stop asking me when the AI bubble will pop",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
+        "pubDate": "2026-11-03T18:37:45-05:00",
+        "description": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I co",
+        "source": "TheVerge"
+      },
+      {
         "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
         "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
         "pubDate": "2026-11-03T17:59:36-05:00",
         "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\"",
         "source": "TheVerge"
-      },
-      {
-        "title": "Sonos adds new Presets and prepares for the 27voice AI beta",
-        "link": "https://www.theverge.com/tech/1025903/sonos-presets-27voice-ai-early-access",
-        "pubDate": "2026-11-03T17:20:50-05:00",
-        "description": "Sonos is rolling out a big app update that includes new Presets and early access to its AI voice assistant. You can create a preset to play music at a specific volume in a certain room, which will appear directly on the homescreen so you can quickly ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Valve is making changes to deal with a ‘significant increase’ in Steam game submissions",
-        "link": "https://www.theverge.com/games/1025722/valve-steam-game-increase-submissions",
-        "pubDate": "2026-11-03T17:15:33-05:00",
-        "description": "In a new post today, Valve acknowledged that it's seen \"a significant increase in submissions for store and page review in recent months\" and says it's \"running a little behind\" by taking \"up to 12 business days\" for reviews instead of the typical 3-",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Binance says hackers used fake job interviews and an internal AI tool to pull off the $6.3 billion heist",
-        "link": "https://www.theverge.com/news/1025576/binance-cyrpto-theft-explained",
-        "pubDate": "2026-11-03T17:04:02-05:00",
-        "description": "The largest crypto theft to date was pulled off by combining some well-known hacking techniques over the course of a few months, according to Binance. A postmortem from the company says the process started in June with one developer downloading a tam",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Here’s what it’s like to use Audio Intelligence on the Apple Watch",
-        "link": "https://www.theverge.com/tech/1025835/audio-intelligence-live-rewind-siri-recap-apple-watch",
-        "pubDate": "2026-11-03T16:21:04-05:00",
-        "description": "It's impossible to paint a full picture of what Audio Intelligence on the Apple Watch Series 12 and Ultra 4 will be right now. The watchOS 27.3 developer beta just dropped earlier this afternoon, and these features are meant to be lived with in day-t",
-        "source": "TheVerge"
       }
     ],
     "cve": [
+      {
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
+        "pubDate": "Wed, 04 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome"
+      },
+      {
+        "title": "Citrix XenServer Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261104",
+        "pubDate": "Wed, 04 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Citrix XenServer"
+      },
       {
         "title": "Android Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261103",
@@ -582,26 +609,6 @@
         "products": "ChromeOS"
       },
       {
-        "title": "Cisco Products Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/cisco-products-denial-of-service-vulnerability_20261029",
-        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Cisco Products Denial of Service Vulnerability"
-      },
-      {
-        "title": "Jenkins Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20261029",
-        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Jenkins"
-      },
-      {
         "title": "Ivanti Connect Secure Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-multiple-vulnerabilities_20261102",
         "pubDate": "Mon, 02 Nov 2026 11:00:00 +0800",
@@ -650,16 +657,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "WordPress"
-      },
-      {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261030",
-        "pubDate": "Fri, 30 Oct 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
       },
       {
         "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
