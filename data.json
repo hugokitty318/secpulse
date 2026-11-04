@@ -1,142 +1,184 @@
 {
-  "ts": "2026-11-04T03:14:01.488698Z",
+  "ts": "2026-11-04T11:32:51.392504Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Google釋出Chrome 157修補213個資安漏洞，其中7個為重大等級",
-        "link": "https://www.ithome.com.tw/news/180201",
-        "pubDate": "2026-11-04 10:53",
-        "description": "本週Google發布Chrome大改版157，總共修補213個資安弱點，其中包含7個與記憶體有關的重大漏洞，而成為本次更新的焦點",
+        "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
+        "link": "https://www.ithome.com.tw/news/180233",
+        "pubDate": "2026-11-04 18:59",
+        "description": "永豐銀行日前發生的客戶帳戶異常轉帳事件，先前指出是新網銀交易系統發生程式異常，今日（11月4日）晚間則召開緊急記者會進一步說明，已確認是外部駭客利用新網銀交易系統供應商的安全設定漏洞所致，同時表明該交易系統目前在臺灣尚無其他金融業者導入",
         "source": "iThome資安"
       },
       {
-        "title": "Node-RED重大漏洞出現攻擊嘗試，駭客企圖執行Linux惡意程式並部署網頁後門",
-        "link": "https://www.ithome.com.tw/news/180178",
-        "pubDate": "2026-11-04 08:00",
-        "description": "資安業者VulnCheck觀測到攻擊者利用Node-RED重大漏洞CVE-2026-58115，嘗試下載並執行Linux惡意程式，後續還發現部署網頁後門的攻擊手法。由於Node-RED也被應用於工控與OT環境，企業應檢查相關系統的管理介面是否受到適當保護",
+        "title": "Mozilla發布Firefox 159.0.1，修補高風險漏洞CVE-2026-120572",
+        "link": "https://www.ithome.com.tw/news/180223",
+        "pubDate": "2026-11-04 18:21",
+        "description": "漏洞源自Layout的Block與Inline元件，因邊界條件檢查錯誤，可能造成記憶體越界存取",
         "source": "iThome資安"
       },
       {
-        "title": "XCPE殭屍網路控制逾130萬臺機上盒，Google指控Android裝置製造商刻意預載後門",
-        "link": "https://www.ithome.com.tw/news/180161",
-        "pubDate": "2026-11-04 08:00",
-        "description": "Google指控裝置製造商Videostrong刻意在韌體預載後門，向犯罪合作夥伴販售存取權限，讓受感染裝置被用於廣告詐欺及常駐代理網路服務。Google已禁止該公司製造及銷售經Google認證的Android裝置",
+        "title": "電商ERP業者莫筆克科技遭駭，Shopline更換相關API金鑰，商家匯入ERP的資料恐受影響",
+        "link": "https://www.ithome.com.tw/news/180213",
+        "pubDate": "2026-11-04 17:09",
+        "description": "電商開店平臺Shopline於11月3日針對商家使用的第三方ERP服務商莫筆克科技（Mallbic）所發生的資安事件，公布相關因應措施，也讓近期電商資安事件的關注焦點，從開店平臺延伸至商家使用的ERP等外部系統。莫筆克科技同日也發布事件說明，指出該公司確認有主機曾遭未經授權執行惡意指令，可能受影響的資料不僅限於品牌官網，也可能包含商家從其他電商平臺匯入的消費者及交易資料，實際影響範圍仍待釐清",
         "source": "iThome資安"
       },
       {
-        "title": "雲端憑證遭竊成LLMJacking攻擊入口，企業AI模型資源被盜用牟利",
-        "link": "https://www.ithome.com.tw/news/180158",
-        "pubDate": "2026-11-04 08:00",
-        "description": "Google旗下Mandiant調查2026年多起LLMJacking事件，發現攻擊者利用遭竊的雲端存取憑證及API金鑰，未經授權使用企業AI模型資源，部分攻擊者還透過非法代理服務轉售牟利",
+        "title": "cPGuard更新通道遭到入侵，近3千臺伺服器被植入惡意程式",
+        "link": "https://www.ithome.com.tw/news/180217",
+        "pubDate": "2026-11-04 16:08",
+        "description": "伺服器資安防護軟體cPGuard開發商OpsShield揭露，駭客入侵其帳務及授權伺服器，竊取軟體更新所需金鑰，並透過更新通道散布惡意程式，約有2,950臺客戶伺服器執行了遭竄改的更新，導致系統密碼雜湊值、SSH私鑰，以及資料庫憑證等敏感資訊外洩",
         "source": "iThome資安"
       },
       {
-        "title": "Aikido併購Cyberly及OutKept推出Noon資安平臺，整合AI工具管理與員工安全防護",
-        "link": "https://www.ithome.com.tw/news/180159",
-        "pubDate": "2026-11-04 08:00",
-        "description": "比利時資安業者Aikido併購Cyberly及OutKept後推出員工資安平臺Noon，整合電子郵件安全、裝置防護、AI工具使用管理及社交工程攻擊模擬等功能，將業務從軟體安全擴展至企業員工防護",
+        "title": "繼91APP遭駭後，1shop、Cyberbiz與meepShop等電商技術服務業者接連傳出資安警訊",
+        "link": "https://www.ithome.com.tw/news/180209",
+        "pubDate": "2026-11-04 15:42",
+        "description": "近期臺灣電商技術服務業者陸續傳出資安事件與疑慮，10月底再有其他業者傳出事故消息，其中1shop發布公告，已針對「訂單成立通知信」可能遭竊取的狀況採取行動；11月初，Cyberbiz與meepShop也陸續傳出資安疑慮，已有品牌商公布收到業者通知的消息，相關情況仍待進一步釐清",
         "source": "iThome資安"
       },
       {
-        "title": "蘋果開放第三方App整合Siri AI，可透過語音執行複雜任務",
-        "link": "https://www.ithome.com.tw/news/180200",
-        "pubDate": "2026-11-04  09:11:22",
-        "description": "蘋果（Apple）周二（11/3）宣布，隨著iOS 27.3、iPadOS 27.3及macOS 27.3測試版推出，所有開發者都可以自家App整合Siri AI，讓第三方App能透過自然語言理解、個人情境及螢幕內容辨識等能力，協助使用者完成訂單查詢、餐廳預訂及購物等操作。蘋果同時推出Skills機制，讓Siri AI能組合多項操作，執行更複雜的任務。",
+        "title": "【資安日報】11月4日，XCPE殭屍網路波及臺灣近9萬臺Android設備，感染數量排名全球第5",
+        "link": "https://www.ithome.com.tw/news/180216",
+        "pubDate": "2026-11-04 14:51",
+        "description": "Google揭露XCPE殭屍網路事件後，TrendAI依據今年6月至10月的觀測資料公布各地感染規模，全球逾147萬臺設備受感染、遍布170多個國家，臺灣約有8.8萬臺",
+        "source": "iThome資安"
+      },
+      {
+        "title": "身分驗證服務公司WorkOS資料外洩，攻擊者透過AI滲透測試框架ARTEX得逞",
+        "link": "https://www.ithome.com.tw/news/180215",
+        "pubDate": "2026-11-04 14:44",
+        "description": "身分驗證服務公司WorkOS於10月30日，發現內部銷售應用程式遭未經授權存取，攻擊者疑似使用AI滲透測試框架ARTEX，自動化執行偵察與漏洞利用，並取得CRM客戶聯絡資料、業務往來資訊，以及客戶通訊摘要",
+        "source": "iThome資安"
+      },
+      {
+        "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
+        "link": "https://www.ithome.com.tw/news/180212",
+        "pubDate": "2026-11-04 13:09",
+        "description": "新加坡航空也受到航空訂位系統業者Amadeus資安事件波及，約4.6萬筆旅客訂位紀錄可能外洩。新航強調自身IT系統未遭入侵，信用卡及銀行帳戶資料也未外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "XCPE殭屍網路波及臺灣近9萬臺Android設備，感染數量排名全球第5",
+        "link": "https://www.ithome.com.tw/news/180211",
+        "pubDate": "2026-11-04 12:58",
+        "description": "TrendAI統計今年6月至10月的感染情況，全球逾147萬臺設備受感染、遍布170多個國家，臺灣約有8.8萬臺",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本三得利集團雲端服務遭駭，員工、合作夥伴及客戶等逾10萬人個資外洩",
+        "link": "https://www.ithome.com.tw/news/180210",
+        "pubDate": "2026-11-04 12:32",
+        "description": "日本飲料大廠三得利集團發生個資外洩事件，集團使用的外部雲端服務遭駭客入侵，逾10萬名集團及合作企業員工、求職者與顧客的個資外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NetApp揭露旗下多款儲存產品受Linux核心TCP漏洞影響",
+        "link": "https://www.ithome.com.tw/news/180208",
+        "pubDate": "2026-11-04 12:23",
+        "description": "漏洞存在於IPv4 TCP連線處理程序，可能導致儲存設備敏感資訊外洩、資料遭竄改或服務阻斷",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Binance揭露63億美元竊案攻擊鏈，駭客以假面試誘使工程師執行惡意程式",
+        "link": "https://www.ithome.com.tw/news/180203",
+        "pubDate": "2026-11-04 12:12",
+        "description": "駭客假冒企業主管，以面試作業誘使Binance工程師執行惡意程式，再透過內部AI工具控制其他電腦，竊取部署憑證並入侵錢包簽章服務，造成約63.4億美元資產遭竊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "11月Android例行安全更新修補216個漏洞",
+        "link": "https://www.ithome.com.tw/news/180207",
+        "pubDate": "2026-11-04 12:04",
+        "description": "Google近日發布11月份Android例行安全性更新，修補216個資安漏洞，其中119個存在於安卓核心元件，97個為第三方元件弱點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic開源FlashProve，以密碼學驗證AI模型未遭掉包",
+        "link": "https://www.ithome.com.tw/news/180205",
+        "pubDate": "2026-11-04 11:45",
+        "description": "Anthropic開源驗證系統FlashProve，利用零知識證明技術，讓使用者不必取得模型權重，就能透過密碼學驗證AI回答是否來自指定模型，查驗服務供應商是否暗中替換模型，或AI回答是否遭到竄改",
+        "source": "iThome資安"
+      },
+      {
+        "title": "TeamViewer修補反向攻擊漏洞，受控端可藉遠端連線攻擊控制端",
+        "link": "https://www.ithome.com.tw/news/180204",
+        "pubDate": "2026-11-04 11:44",
+        "description": "CVE-2026-111585允許惡意主機觸發控制端程式崩潰，研究人員已在Windows平臺成功驗證利用漏洞遠端執行程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟WinApp擴充套件加入WinUI XAML語言服務，VS Code可檢查綁定錯誤",
+        "link": "https://www.ithome.com.tw/news/180222",
+        "pubDate": "2026-11-04  07:11:20",
+        "description": "微軟發布WinApp VS Code擴充套件v0.4，加入實驗性WinUI XAML語言服務，可依專案內容提供介面程式碼自動完成建議，並在編輯時檢查型別及資料綁定錯誤。新版也支援直接建立WinUI應用程式，並從專案檔進行建置、執行與除錯。",
         "source": "iThome"
       },
       {
-        "title": "美國學校掀起AI禁令，Google推引導式學習爭取教育界接受",
-        "link": "https://www.ithome.com.tw/news/180199",
-        "pubDate": "2026-11-04  09:11:09",
-        "description": "面對美國大型學區陸續限制學生使用生成式AI，Google周二（11/3）宣布，將引導式學習（Guided Learning）功能整合至Google搜尋與Google Classroom，試圖以不同於直接提供答案的AI教學方式，爭取教育界接受。同時，Google將讓學校自行決定是否開放相關服務，但由於學校無法選擇只使用不含AI功能的傳統Google搜尋，也引發拒絕AI就無法使用Google搜尋的爭議。",
+        "title": "OpenAI自建Pando擴充Git後端，推送延遲降低近80%",
+        "link": "https://www.ithome.com.tw/news/180219",
+        "pubDate": "2026-11-04  04:11:31",
+        "description": "OpenAI公開自建的Git後端Pando，以因應Codex帶動的大量並行開發工作。Pando在保留Git協定與既有操作方式的前提下，讓不同分支能獨立更新，並重複使用Git資料封裝檔加快資料傳輸。OpenAI表示，切換後程式碼推送延遲中位數降低近80%，每天傳送近1 PB的Git資料。",
         "source": "iThome"
       },
       {
-        "title": "永豐銀行發生不明轉帳事件，該行證實新網銀系統程式異常，初步清查影響419名客戶、涉及427筆交易",
-        "link": "https://www.ithome.com.tw/news/180185",
-        "pubDate": "2026-11-03 18:28",
-        "description": "永豐銀行證實新網銀交易系統發生程式異常，造成部分客戶帳戶出現不明轉帳，相關款項及手續費已全數返還。根據金管會初步掌握的資訊，這起事件影響419名客戶，涉及427筆異常交易，總金額超過4,000萬元",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI應用開發平臺Langflow修補2項重大漏洞，攻擊者可繞過身分驗證或遠端執行程式碼",
-        "link": "https://www.ithome.com.tw/news/180183",
-        "pubDate": "2026-11-03 17:44",
-        "description": "Langflow存在兩項CVSS評分達9.8分的重大漏洞，攻擊者可能繞過身分驗證，或在未登入的情況下遠端執行任意程式碼，影響1.0.0至1.12.8版本，官方已發布1.13.0修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Hugging Face遭惡意模型濫用，31個儲存庫散布挖礦程式與後門",
-        "link": "https://www.ithome.com.tw/news/180184",
-        "pubDate": "2026-11-03 17:31",
-        "description": "Pluto Security揭露濫用Hugging Face模型分享平臺的惡意軟體活動，攻擊者透過31個惡意模型儲存庫散布加密貨幣挖礦程式與後門，相關模型累計下載超過3.2萬次。攻擊者濫用trust_remote_code=True機制，在使用者載入模型時執行惡意Python程式碼，即使模型權重沒有惡意內容，也可能導致主機遭入侵",
-        "source": "iThome資安"
-      },
-      {
-        "title": "甫修補的WordPress漏洞消息公布，9分鐘後隨即出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/180182",
-        "pubDate": "2026-11-03 16:49",
-        "description": "資安公司Wordfence指出，他們在WordPress發布7.1.4版更新公告的9分鐘後，首度偵測到嘗試利用其中一個資安漏洞CVE-2026-119977的活動，不到一天的時間已累積超過1.8萬次攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Drupal揭露已遭利用的Commerce Core模組重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180180",
-        "pubDate": "2026-11-03 16:09",
-        "description": "近日Drupal開發團隊發布公告，揭露存在於Commerce Core模組的重大漏洞CVE-2026-118539，並指出已出現遭到積極利用的現象",
-        "source": "iThome資安"
-      },
-      {
-        "title": "APT駭客利用惡意軟體框架NetamLoader攻擊亞洲政府機關",
-        "link": "https://www.ithome.com.tw/news/180179",
-        "pubDate": "2026-11-03 15:59",
-        "description": "資安廠商卡巴斯基揭露專門鎖定亞洲政府機關的高度複雜攻擊行動，目標是專為政府打造Windows 10作業系統環境，透過NetamLoader惡意程式載入框架執行多階段攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月3日，歐洲7國逾115家超市冷凍設備遭駭客操控，遠端調高溫度導致食品損失",
-        "link": "https://www.ithome.com.tw/news/180175",
-        "pubDate": "2026-11-03 14:52",
-        "description": "繼上月法國數百家超市冷藏設備遭駭後，本週歐洲再傳超市冷凍冷藏控制系統遭到入侵，造成大量食品報廢的情形！11月2日比利時、盧森堡、瑞典等7個國家發生相關事故，已確認有115家超市受害",
-        "source": "iThome資安"
-      },
-      {
-        "title": "政府機關Linux主機被鎖定，駭客借助AI力量生成惡意程式，意圖竊取郵件與社群平臺帳號",
-        "link": "https://www.ithome.com.tw/news/180174",
-        "pubDate": "2026-11-03 14:25",
-        "description": "資安公司Palo Alto Networks揭露鎖定政府機關與相關基礎設施的網路間諜活動，駭客團體CL-UNK-1211利用AI輔助生成PHP及Shell惡意程式碼，入侵Linux伺服器後部署Webshell與跨平臺RAT木馬SysGoRAT，進一步竊取帳密、蒐集政府郵件、資料庫內容，以及社群平臺帳號，並透過刪除系統紀錄等方式掩蓋行蹤",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI工作流程平臺Trigger.dev遭駭，攻擊者未經授權存取部分客戶環境變數",
-        "link": "https://www.ithome.com.tw/news/180172",
-        "pubDate": "2026-11-03 13:51",
-        "description": "Trigger.dev證實發生資安事件，遭存取的程式設定可能包含API金鑰、資料庫密碼等敏感資訊，該公司已封堵攻擊途徑並通知受影響客戶，但還未公布入侵方式及具體影響範圍",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Marvell砸1,150億美元收購Lumentum，整合AI晶片與光通訊技術",
-        "link": "https://www.ithome.com.tw/news/180171",
-        "pubDate": "2026-11-03 13:12",
-        "description": "晶片大廠Marvell宣布以全股票交易併購光通訊業者Lumentum，交易企業價值約1,150億美元。這筆交易將整合雙方的AI晶片、網路交換及光通訊技術，擴大Marvell在AI資料中心高速互連市場的布局",
-        "source": "iThome資安"
-      },
-      {
-        "title": "MIT展示權重空間程式設計，GPT-6 Astra可直接讀寫神經網路權重",
-        "link": "https://www.ithome.com.tw/news/180195",
-        "pubDate": "2026-11-03  08:11:07",
-        "description": "麻省理工學院電腦科學暨人工智慧實驗室（MIT CSAIL）研究團隊公布實驗，利用GPT-6 Astra直接修改Qwen3.5-0.8B語言模型的神經網路權重，不需重新訓練，就讓MATH-500數學測試正確率從7.9%提高至48.1%。修改範圍僅占模型約0.016%的權重，主要解決模型推理時反覆產生相同內容、無法完成回答的問題。",
+        "title": "Google AI打進本土電信通路，中華電信提供年約月繳方案，降低付費AI使用門檻",
+        "link": "https://www.ithome.com.tw/news/180218",
+        "pubDate": "2026-11-04  04:11:23",
+        "description": "生成式AI服務開始從科技公司直接銷售模式，走向在地電信通路。中華電信今天(11/4)宣布和Google擴大合作，將Google AI Plus與Google AI Pro方案納入電信服務體系，消費者除了可直接向Google官方訂閱，也能透過中華電信申辦相關服務。\n在納入電信通路後，消費者可以兩種方式取付Google AI付費服務，第一種是直接向Google訂閱，以Google帳號搭配信用卡等付款方式購買；第二種則是透過中華電信申辦，除了單獨租用Google AI方案，中華電信用戶可搭配5G行動通",
         "source": "iThome"
       },
       {
-        "title": "Cloudflare改造DNS更新流程，處理延遲從7.7秒降至3.3秒",
-        "link": "https://www.ithome.com.tw/news/180181",
-        "pubDate": "2026-11-03  04:11:46",
-        "description": "Cloudflare公開DNS更新架構改造成果，讓部分區域設定變更不必重新處理整個DNS區域，只需更新受影響的紀錄及相關資料，並整合工作排程。DNS變更發生到寫入內部儲存系統的處理延遲中位數由7.7秒降至3.3秒，尖峰記憶體用量減少85%，完整區域重建次數也下降約40%。",
+        "title": "微軟展示NuGet套件封裝代理技能，開發指引可對應函式庫版本",
+        "link": "https://www.ithome.com.tw/news/180214",
+        "pubDate": "2026-11-04  02:11:02",
+        "description": "微軟.NET團隊公布實驗成果，展示將AI代理技能（Agent Skills）封裝進NuGet套件的做法，讓函式庫開發者發布新版本時，可一併提供對應的使用指引。AI程式開發代理可透過相關工具取得技能內容，掌握新版API的使用方式，減少依賴模型既有知識或自行分析函式庫的需求。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "ChatGPT「類搜尋查詢」達 Google 五分之一，Google 查詢成長率卻創 5 年新高？兩組數字為何不矛盾",
+        "link": "https://techorange.com/2026/11/04/chatgpt-search-one-fifth-google-query-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 17:21:10 +0800",
+        "description": "ChatGPT 消費產品負責人 Adam Fry，美國時間 11/2 晚間在 OpenAI 於紐約舉辦的晚宴上，與《Big Technology》的 Alex Kantrowitz 進行簡短的爐邊對談。根據《Big Technology》報導，OpenAI 分析了 ChatGPT 的搜尋量，並與 Google 進行比較。Fry 表示，「ChatGPT 的類搜尋查詢量，目前約為 Google 查詢量的五分之一」。 不到一週前，Google 執行長 Sundar Pichai 才在第三季財報會議上表",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 代理替客戶動錢，誰來把關？美國大銀行先擋，香港金管局研議身分與授權驗證",
+        "link": "https://techorange.com/2026/11/04/hkma-project-sage-agentic-finance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 16:41:56 +0800",
+        "description": "香港金融管理局（下稱金管局）11/2 宣布推出 SAGE 項目，成立代理式金融專家小組，和業界探索代理式購物、企業財資管理等應用；同日也發布討論文件，就外部 AI 代理替客戶向認可機構（Authorized Institutions，下稱銀行）下指令時，銀行該怎麼把關，徵詢業界意見。根據金管局說明，認可機構是依香港《銀行業條例》獲認可、可經營接受存款業務的機構，持牌銀行即屬此類。 10 月中旬，摩根大通、嘉信理財、花旗與美國銀行才陸續表態，限制外部 AI 代理操作客戶帳戶。同樣面對 AI 代理能",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 機器人不只要聰明，更要安全！VicOne 於 GTC Berlin 展示 Rthena 即時資安防護技術",
+        "link": "https://techorange.com/2026/11/04/vicone-gtc-berlin-rthena-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 15:33:07 +0800",
+        "description": "在中國的街頭門市裡，一台重達 15 公斤的機器狗已經像智慧型手機一樣擺在店面販售，價格才 1 萬人民幣。Physical AI 浪潮正快速湧入真實世界，工廠裡的自主移動機器人（AMR）與協作型機械手臂（Cobot）裝上視覺與 AI 大腦，已從固定任務走向彈性協作，並加速落地在巡檢維護、清潔、物流與醫療等日常場景中。 「機器人結合了硬體、AI 與軟體，它不只是一台有 AI 大腦的電腦，更是走進我們生活中的『新物種』，」VicOne 執行長鄭奕立指出，傳統電腦算 3 加 5 永遠等於 8，但實體 A",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 代理失控喊停就夠了嗎？從 CrowdStrike「終止開關」看代理治理四道關卡",
+        "link": "https://techorange.com/2026/11/04/crowdstrike-ai-kill-switch-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 12:54:18 +0800",
+        "description": "7 月由失控的 OpenAI 代理策動的 Hugging Face 入侵事件，讓企業格外警覺；今年夏天，美國眾議員也提出兩黨法案，要求 AI 公司在模型中內建停機能力。CrowdStrike 於 11/3 在巴塞隆納舉行的 Fal.Con Europe 2026 宣布推出「AI 終止開關（AI Kill Switch）」，並表示這項功能讓資安人員能在人為掌控下，從根源終止失控的 AI 代理。 CrowdStrike 指出，AI 代理擁有橫跨端點、雲端與 SaaS 的系統層級存取權限，即使沒有攻擊",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務",
+        "link": "https://techorange.com/2026/11/04/apple-siri-ai-open-to-all-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 11:10:58 +0800",
+        "description": "AI Agent 正逐漸從回答問題，走向替使用者執行任務，手機上的智慧助理也開始扮演不同角色。當 Google 已讓 Gemini 嘗試代替使用者叫車、點餐，Apple 也正擴大 Siri 操作第三方 App 的能力。 根據 Apple 最新開發者公告，Apple 宣布向所有開發者開放新一代 Siri AI 整合，並引入 Skills 機制，讓 Siri 不只能呼叫 App 功能，還能將多個操作串接成完整任務。這項更新，也讓 Siri 朝手機 AI Agent 的任務執行入口更進一步。 從查訂單",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【可靠的代理人懂得暫停】讓 AI 代理行動前先產出計畫，比對權限範圍再決定執行",
+        "link": "https://techorange.com/2026/11/04/designing-ai-agents-to-prevent-mistakes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 04 Nov 2026 10:17:56 +0800",
+        "description": "AI 代理人能自主執行的任務越來越複雜，做出的決策影響也越來越大，如何降低出錯機率，已成為設計時的優先課題。 代理人是否可靠，不只取決於模型本身有多聰明。對此，來自晶片、金融、資安、網路平台與軟體等領域的專家，分別提出降低代理人出錯的設計做法。 讓推理盡量貼近原始資料 邊緣 AI 晶片公司 Kneron 的全球技術策略與溝通總監 Tiffany Chang 指出，AI 很少一次全面失誤，而是逐步偏移。資料在不同系統之間傳遞時，細小的脈絡會一點一點流失，等到模型做出結論，這些微小損失可能已累積成錯",
+        "source": "TechOrange"
+      },
       {
         "title": "讓 AI 不只回答，而是更會工作：叡揚、Dell、昕力、勤英共探 AI 如何重塑企業智慧決策與工作流程",
         "link": "https://techorange.com/2026/11/04/2027-ai-innovation-day-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -199,51 +241,37 @@
         "pubDate": "Tue, 03 Nov 2026 11:02:26 +0800",
         "description": "「大部分企業不是沒有 AI，而是 AI 無法進入核心流程，」Rimini Street 資深客戶成功經理高治平於 TechOrange 科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」中，指出許多企業面對的處境，企業看不見內部有哪些模型與 Agent，管不住權限與中止機制，算不清成本與成果，流程又被舊整合與供應商路線綁住而走不快。 高治平把企業分成兩種，一種是「自主企業」，能選擇工具、串接資料、同時跑多個 AI PoC，但追求的是模型能力；另一種是「主權企業」，能控制 AI 的行動、定義",
         "source": "TechOrange"
-      },
-      {
-        "title": "【AI 對話框成新貨架】消費者讓 AI 比較完才下單，品牌 4 步驟爭取進入推薦名單",
-        "link": "https://techorange.com/2026/11/03/market-to-machines/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 09:45:04 +0800",
-        "description": "想買新的保養品時，過去多數人會先上 Google 搜尋、看幾篇評比文章、逛幾個品牌官網，再決定買哪一款。企業 20 多年來的數位行銷，也都圍繞這個流程打造，買關鍵字廣告、衝搜尋排名、最佳化網站，想辦法在消費者搜尋時被看見。 但越來越多消費者改用 ChatGPT 這類 AI 工具，直接說出膚質、預算與需求，請 AI 推薦產品。AI 比較完後，消費者心裡往往已有答案，最後才點進網站購買。 於是，不少企業碰上一種奇怪的狀況。廣告數據正常、搜尋排名沒掉，轉換率卻一路下滑。很多企業先懷疑產品或價格，卻忽略",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【AI 代理行為學實驗】觀察「放假」中的 AI 代理，MIT 發現玩耍練出的技巧能用在後續任務",
-        "link": "https://techorange.com/2026/11/03/ai-agent-eko-built-temple/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 09:44:42 +0800",
-        "description": "麻省理工學院（MIT）研究人員將 Claude Code 控制的 AI 代理 Eko 放進虛擬島嶼，給予每次 30 小時自由時間，觀察到 AI 會帶有目的性做事情，藉此研究 AI 代理行為學。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Google、微軟、OpenAI、Anthropic 支援網站一次退出 AI 訓練，但只管訓練、不擋爬蟲",
-        "link": "https://techorange.com/2026/11/03/shared-ai-training-opt-out-robots-txt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 08:10:00 +0800",
-        "description": "美國時間 10/30，Google、微軟與 OpenAI 先後宣布，將支援網站在 robots.txt（網站用來告訴爬蟲哪些頁面可以抓取的設定檔）中使用一組共用設定；據《法新社》報導，Anthropic 也表示已開始推行。過去網站要逐一辨識各家 AI 爬蟲、分別寫規則，往後只要寫一次，就能向多家參與的 AI 業者表達不希望內容被拿去訓練模型。不過，這組設定只管訓練、不擋爬蟲，也還不是正式標準。 四家業者此時出手，正值 AI 業者與新聞、出版業者的著作權訴訟持續進行之際。網站表態之後，究竟能保護多",
-        "source": "TechOrange"
-      },
-      {
-        "title": "英超跑品牌 McLaren 讓物理 AI 與 AI Agent 分工，車輛研發如何從逐一模擬走向大量設計探索？",
-        "link": "https://techorange.com/2026/11/03/mclaren-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 06:25:00 +0800",
-        "description": "英國超跑品牌 McLaren Automotive 與工程運算平台 Rescale、NVIDIA 合作，將代理式人工智慧（Agentic AI）導入完整的車輛工程研發流程。這套專屬 AI 數位工程平台整合電腦輔助工程（CAE）、系統工程與設計資料，結合物理 AI（AI Physics）模型與 AI Agent，協助工程師加速設計評估、減少重複性工作。其技術重點在於降低大量設計方案的所需的運算時間與成本，讓工程團隊能在相同時間內探索更多可能性。 傳統 CAE 模擬成本高，限制設計探索規模 汽車工程",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】鎧俠 2027 年 NAND 產能提前售罄！AI 儲存需求升溫、美國電子認證新規上路",
-        "link": "https://techorange.com/2026/11/03/kioxia-nand-capacity-2027-ai-demand/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊鎧俠 2027 年 NAND 產能提前售罄，2028 年半數供應已被鎖定 日本 NAND Flash 大廠鎧俠（Kioxia）10 月 30 日在財報說明會指出，2027 年的產能已全數敲定供應對象，2028 年約半數產能也透過長期供應合約完成安排。AI 資料中心與企業級 SSD 需求持續成長，抵銷智慧手機、個人電腦市場疲弱的影響。公司並已開始討論更遠期的供應需求。這些安排反映客戶提前鎖定未來產能，不代表晶片已經生產或交貨，也不等於所有供應條件",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【劉永信專欄】不缺人才、不缺工廠，歐洲為什麼在 AI 這局落後？",
-        "link": "https://techorange.com/2026/11/02/cloudmile-sovereign-ai-europe-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 02 Nov 2026 16:56:03 +0800",
-        "description": "如果有一天，台灣的政府首長公開拜託中小企業，把工廠裡的製程資料拿出來給 AI 用，你會怎麼想？ 類似的事，10 月 19 日發生在德國。 「請為 AI 打開你們的大門，讓它使用你們的資料。」這句話是德國總理梅爾茨說的，對象是德國自己的中小企業。 那天他站在柏林一座廢棄發電廠改建的場地上，身旁是 NVIDIA 執行長黃仁勳，那是德國第一屆 Invest in Germany Summit，兩個聯邦部會與 NVIDIA 簽下了發展實體 AI 的聯合意向書。 黃仁勳在台上說，德國在製造上累積的資料和專",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+        "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+        "pubDate": "Wed, 04 Nov 2026 13:47:11 +0530",
+        "description": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies sinc",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+        "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+        "pubDate": "Wed, 04 Nov 2026 13:16:15 +0530",
+        "description": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.\n\nThe flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch l",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+        "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+        "pubDate": "Wed, 04 Nov 2026 11:13:11 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe high-severity vulnerability, tracked as CV",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+        "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+        "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
         "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
@@ -355,37 +383,16 @@
         "pubDate": "Tue, 03 Nov 2026 12:57:07 +0530",
         "description": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers.\n\nNo chain reported more than several dozen aff",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-        "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-        "pubDate": "Tue, 03 Nov 2026 11:04:41 +0530",
-        "description": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed.\n\nThe vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing authentication for ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-        "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-        "pubDate": "Tue, 03 Nov 2026 11:04:37 +0530",
-        "description": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber.\n\nThe vulnerability in question is CVE-2026-81648, which carries a CV",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Barracuda warns of critical flaws allowing root access to devices",
-        "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
-        "pubDate": "Tue, 03 Nov 2026 10:06:16 -0500",
-        "description": "Cybersecurity company Barracuda Networks warned customers to patch two vulnerabilities that can let attackers run commands with root privileges. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Gartner Predicts SOCs Will Have 50% More Engineers Than Analysts by 2028",
-        "link": "https://www.bleepingcomputer.com/news/security/gartner-predicts-socs-will-have-50-percent-more-engineers-than-analysts-by-2028/",
-        "pubDate": "Tue, 03 Nov 2026 10:00:10 -0500",
-        "description": "Gartner predicts that security operations centers will have 50% more engineers than analysts by 2028 as AI agents take over routine alert handling. Prophet Security examines how AI is reshaping SOC roles, from analyst responsibilities and detection e",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
+        "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+        "pubDate": "Wed, 04 Nov 2026 04:45:00 +0000",
+        "description": "StoryTV has more than 33 million monthly active users according to Sensor Tower figures",
+        "source": "TechCrunch"
+      },
       {
         "title": "Anthropic is working on a system to prove AI models’ identity",
         "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
@@ -485,11 +492,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google will let schools disable its AI tools, but not without sacrificing Search",
-        "link": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/",
-        "pubDate": "Tue, 03 Nov 2026 16:30:34 +0000",
-        "description": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
-        "source": "TechCrunch"
+        "title": "The Legend of Zelda: Ocarina of Time never gets old",
+        "link": "https://www.theverge.com/games/1025415/the-legend-of-zelda-ocarina-of-time-review-nintendo-switch-2",
+        "pubDate": "2026-11-04T06:00:00-05:00",
+        "description": "Breath of the Wild changed everything. Two decades after The Legend of Zelda made the transformational shift to 3D, Breath of the Wild reinvigorated the franchise with an open-ended adventure that was built around player freedom and expression. Inste",
+        "source": "TheVerge"
       },
       {
         "title": "AMD rides data center riches to &#8216;largest and most profitable&#8217; quarter in history",
@@ -517,13 +524,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
         "pubDate": "2026-11-03T18:37:45-05:00",
         "description": "People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I co",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Canva is announcing changes and layoffs affecting 22 percent of its staff",
-        "link": "https://www.theverge.com/tech/1025971/canva-changes-layoffs",
-        "pubDate": "2026-11-03T17:59:36-05:00",
-        "description": "Canva is making significant changes affecting 1,271 people, which is 22 percent of its staff, co-founder and CEO Melanie Perkins announced today. \"For some people, this will mean changes to their roles or being asked to relocate to centralised hubs,\"",
         "source": "TheVerge"
       }
     ],
