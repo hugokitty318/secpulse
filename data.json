@@ -1,138 +1,138 @@
 {
-  "ts": "2026-11-05T00:20:18.092895Z",
+  "ts": "2026-11-05T07:22:24.641490Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "永豐銀行異常轉帳確認為駭客攻擊，供應商安全設定漏洞遭利用",
-        "link": "https://www.ithome.com.tw/news/180233",
-        "pubDate": "2026-11-04 18:59",
-        "description": "永豐銀行日前發生的客戶帳戶異常轉帳事件，先前指出是新網銀交易系統發生程式異常，今日（11月4日）晚間則召開緊急記者會進一步說明，已確認是外部駭客利用新網銀交易系統供應商的安全設定漏洞所致，同時表明該交易系統目前在臺灣尚無其他金融業者導入",
+        "title": "熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體",
+        "link": "https://www.ithome.com.tw/news/180259",
+        "pubDate": "2026-11-05 14:35",
+        "description": "韓國遊戲公司Shift Up開發的《勝利女神：妮姬》電腦版遊戲啟動器遭駭客竄改引起全球玩家關注，攻擊者利用遭入侵的JavaScript檔案散布惡意程式，遠端控制受害電腦、竊取遊戲帳號與瀏覽器資料。遊戲發行商Level Infinite緊急發布更新修復問題，目前仍在調查事件影響範圍",
         "source": "iThome資安"
       },
       {
-        "title": "Mozilla發布Firefox 159.0.1，修補高風險漏洞CVE-2026-120572",
-        "link": "https://www.ithome.com.tw/news/180223",
-        "pubDate": "2026-11-04 18:21",
-        "description": "漏洞源自Layout的Block與Inline元件，因邊界條件檢查錯誤，可能造成記憶體越界存取",
+        "title": "法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻擊者轉走",
+        "link": "https://www.ithome.com.tw/news/180255",
+        "pubDate": "2026-11-05 13:06",
+        "description": "攻擊者透過外部供應商平臺取得銀行存取管道，利用銀行行方自身帳戶向其他金融機構進行未授權轉帳",
         "source": "iThome資安"
       },
       {
-        "title": "電商ERP業者莫筆克科技遭駭，Shopline更換相關API金鑰，商家匯入ERP的資料恐受影響",
-        "link": "https://www.ithome.com.tw/news/180213",
-        "pubDate": "2026-11-04 17:09",
-        "description": "電商開店平臺Shopline於11月3日針對商家使用的第三方ERP服務商莫筆克科技（Mallbic）所發生的資安事件，公布相關因應措施，也讓近期電商資安事件的關注焦點，從開店平臺延伸至商家使用的ERP等外部系統。莫筆克科技同日也發布事件說明，指出該公司確認有主機曾遭未經授權執行惡意指令，可能受影響的資料不僅限於品牌官網，也可能包含商家從其他電商平臺匯入的消費者及交易資料，實際影響範圍仍待釐清",
+        "title": "中國駭客利用Zyxel GS1900系列交換器零時差漏洞並竊得敏感資料",
+        "link": "https://www.ithome.com.tw/news/180254",
+        "pubDate": "2026-11-05 12:45",
+        "description": "針對Zyxel GS1900系列交換器零時差漏洞CVE-2026-107441的發現，通報此事的韌體安全公司Binarly指出，源自他們對先前一起中國駭客攻擊活動的最新調查結果",
         "source": "iThome資安"
       },
       {
-        "title": "cPGuard更新通道遭到入侵，近3千臺伺服器被植入惡意程式",
-        "link": "https://www.ithome.com.tw/news/180217",
-        "pubDate": "2026-11-04 16:08",
-        "description": "伺服器資安防護軟體cPGuard開發商OpsShield揭露，駭客入侵其帳務及授權伺服器，竊取軟體更新所需金鑰，並透過更新通道散布惡意程式，約有2,950臺客戶伺服器執行了遭竄改的更新，導致系統密碼雜湊值、SSH私鑰，以及資料庫憑證等敏感資訊外洩",
+        "title": "法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+        "link": "https://www.ithome.com.tw/news/180253",
+        "pubDate": "2026-11-05 12:18",
+        "description": "攻擊者透過第三方冷藏設備供應商入侵監控系統，試圖調高冷藏溫度，所幸警報及時發現，未造成血液製品損失",
         "source": "iThome資安"
       },
       {
-        "title": "繼91APP遭駭後，1shop、Cyberbiz與meepShop等電商技術服務業者接連傳出資安警訊",
-        "link": "https://www.ithome.com.tw/news/180209",
-        "pubDate": "2026-11-04 15:42",
-        "description": "近期臺灣電商技術服務業者陸續傳出資安事件與疑慮，10月底再有其他業者傳出事故消息，其中1shop發布公告，已針對「訂單成立通知信」可能遭竊取的狀況採取行動；11月初，Cyberbiz與meepShop也陸續傳出資安疑慮，已有品牌商公布收到業者通知的消息，相關情況仍待進一步釐清",
+        "title": "Zyxel GS1900系列交換器存在越界寫入漏洞，攻擊者不需通過身分驗證就能執行作業系統命令",
+        "link": "https://www.ithome.com.tw/news/180252",
+        "pubDate": "2026-11-05 12:16",
+        "description": "網通設備製造商兆勤（Zyxel）修補GS1900系列交換器中的越界寫入漏洞CVE-2026-107441，位於區域網路（LAN）內且未經身分驗證的攻擊者，有機會透過特製HTTP請求觸發漏洞，並執行作業系統命令，管理者應儘速套用新版韌體因應",
         "source": "iThome資安"
       },
       {
-        "title": "【資安日報】11月4日，XCPE殭屍網路波及臺灣近9萬臺Android設備，感染數量排名全球第5",
-        "link": "https://www.ithome.com.tw/news/180216",
-        "pubDate": "2026-11-04 14:51",
-        "description": "Google揭露XCPE殭屍網路事件後，TrendAI依據今年6月至10月的觀測資料公布各地感染規模，全球逾147萬臺設備受感染、遍布170多個國家，臺灣約有8.8萬臺",
+        "title": "日本外務省網站被駭3,600筆個資恐外洩，但強調非機要外交通訊",
+        "link": "https://www.ithome.com.tw/news/180251",
+        "pubDate": "2026-11-05 12:08",
+        "description": "日本外務省發生資安事件，對外通訊網路遭到未授權存取，約3,600筆個資可能外洩，包括姓名、電子郵件地址，其中約900筆涉及外務省以外人士",
         "source": "iThome資安"
       },
       {
-        "title": "身分驗證服務公司WorkOS資料外洩，攻擊者透過AI滲透測試框架ARTEX得逞",
-        "link": "https://www.ithome.com.tw/news/180215",
-        "pubDate": "2026-11-04 14:44",
-        "description": "身分驗證服務公司WorkOS於10月30日，發現內部銷售應用程式遭未經授權存取，攻擊者疑似使用AI滲透測試框架ARTEX，自動化執行偵察與漏洞利用，並取得CRM客戶聯絡資料、業務往來資訊，以及客戶通訊摘要",
+        "title": "俄羅斯駭客APT29發動大規模水坑式攻擊，竊取iOS與Android裝置帳密及資料",
+        "link": "https://www.ithome.com.tw/news/180250",
+        "pubDate": "2026-11-05 11:58",
+        "description": "資安公司Sekoia揭露，俄羅斯駭客組織APT29發動大規模水坑攻擊，透過入侵合法網站、偽冒知名網站及供應鏈攻擊等管道，將惡意JavaScript植入網頁，再利用已知漏洞攻擊iOS與Android裝置，竊取瀏覽器Cookie、Wi-Fi密碼，以及手機內的通訊錄、帳號與個人資料",
         "source": "iThome資安"
       },
       {
-        "title": "新航受Amadeus資安事件波及，約4.6萬筆訂位紀錄可能外洩",
-        "link": "https://www.ithome.com.tw/news/180212",
-        "pubDate": "2026-11-04 13:09",
-        "description": "新加坡航空也受到航空訂位系統業者Amadeus資安事件波及，約4.6萬筆旅客訂位紀錄可能外洩。新航強調自身IT系統未遭入侵，信用卡及銀行帳戶資料也未外洩",
+        "title": "棉花田委外購物平臺發生資安事件，已阻擋異常資料存取行為，影響範圍仍待調查",
+        "link": "https://www.ithome.com.tw/news/180247",
+        "pubDate": "2026-11-05 11:37",
+        "description": "中天生技子公司棉花田生機園地發生資安事故，委外購物網站服務廠商近期發現系統出現異常資料存取情形，棉花田隨即啟動資安事件應變機制，目前網站營運正常，初步評估對公司營運無重大影響，但受影響資料範圍仍待調查確認",
         "source": "iThome資安"
       },
       {
-        "title": "XCPE殭屍網路波及臺灣近9萬臺Android設備，感染數量排名全球第5",
-        "link": "https://www.ithome.com.tw/news/180211",
-        "pubDate": "2026-11-04 12:58",
-        "description": "TrendAI統計今年6月至10月的感染情況，全球逾147萬臺設備受感染、遍布170多個國家，臺灣約有8.8萬臺",
+        "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
+        "link": "https://www.ithome.com.tw/news/180246",
+        "pubDate": "2026-11-05 11:30",
+        "description": "餐飲集團王品（2727）旗下子公司萬鮮接獲委外購物網站服務廠商通知，其系統近期發現異常資料存取情形。廠商已阻擋異常存取行為，萬鮮也啟動資安事件應變及調查機制。目前萬鮮的購物網站營運正常，但實際受影響的資料範圍仍待釐清",
         "source": "iThome資安"
       },
       {
-        "title": "日本三得利集團雲端服務遭駭，員工、合作夥伴及客戶等逾10萬人個資外洩",
-        "link": "https://www.ithome.com.tw/news/180210",
-        "pubDate": "2026-11-04 12:32",
-        "description": "日本飲料大廠三得利集團發生個資外洩事件，集團使用的外部雲端服務遭駭客入侵，逾10萬名集團及合作企業員工、求職者與顧客的個資外洩",
+        "title": "葡萄王線上商城委外廠商資料庫遭異常存取，會員訂單及個資疑似外洩",
+        "link": "https://www.ithome.com.tw/news/180245",
+        "pubDate": "2026-11-05 11:24",
+        "description": "生技公司葡萄王線上商城「購健康」的委外服務廠商順立智慧（Cyberbiz）通知，部分資料庫遭未經授權異常存取，涉及商城訂單及消費者個人資料，葡萄王已啟動個資事故應變機制，並通報主管機關、通知會員提高防詐警覺",
         "source": "iThome資安"
       },
       {
-        "title": "NetApp揭露旗下多款儲存產品受Linux核心TCP漏洞影響",
-        "link": "https://www.ithome.com.tw/news/180208",
-        "pubDate": "2026-11-04 12:23",
-        "description": "漏洞存在於IPv4 TCP連線處理程序，可能導致儲存設備敏感資訊外洩、資料遭竄改或服務阻斷",
+        "title": "Cisco修補UCS Central遠端程式碼執行漏洞",
+        "link": "https://www.ithome.com.tw/news/180242",
+        "pubDate": "2026-11-05 11:07",
+        "description": "UCS Central平臺網頁管理介面存在HTTP請求輸入驗證問題，可能導致遠端攻擊者執行任意指令、寫入檔案及竊取敏感資訊",
         "source": "iThome資安"
       },
       {
-        "title": "Binance揭露63億美元竊案攻擊鏈，駭客以假面試誘使工程師執行惡意程式",
-        "link": "https://www.ithome.com.tw/news/180203",
-        "pubDate": "2026-11-04 12:12",
-        "description": "駭客假冒企業主管，以面試作業誘使Binance工程師執行惡意程式，再透過內部AI工具控制其他電腦，竊取部署憑證並入侵錢包簽章服務，造成約63.4億美元資產遭竊",
+        "title": "毛寶電商網站遭不明人士攻擊，已通報主管機關並通知受影響顧客",
+        "link": "https://www.ithome.com.tw/news/180240",
+        "pubDate": "2026-11-05 10:46",
+        "description": "生活清潔用品製造商毛寶（1732）發現，旗下電商網站遭外部不明人士發動異常網路攻擊，隨即啟動緊急應變機制，並委託第三方資安團隊進行調查與鑑識分析，初步評估對營運及財務尚無重大影響",
         "source": "iThome資安"
       },
       {
-        "title": "11月Android例行安全更新修補216個漏洞",
-        "link": "https://www.ithome.com.tw/news/180207",
-        "pubDate": "2026-11-04 12:04",
-        "description": "Google近日發布11月份Android例行安全性更新，修補216個資安漏洞，其中119個存在於安卓核心元件，97個為第三方元件弱點",
+        "title": "AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架",
+        "link": "https://www.ithome.com.tw/news/180232",
+        "pubDate": "2026-11-05 10:32",
+        "description": "10月初PwC發布2027全球數位信任洞察報告，調查結果指出，AI已成為企業安全的首要議題，在各類網路威脅中，企業對於「針對AI系統發動的攻擊」最缺乏應對準備。84%受訪者預期資安相關預算將增加，且AI為優先投資項目",
         "source": "iThome資安"
       },
       {
-        "title": "Anthropic開源FlashProve，以密碼學驗證AI模型未遭掉包",
-        "link": "https://www.ithome.com.tw/news/180205",
-        "pubDate": "2026-11-04 11:45",
-        "description": "Anthropic開源驗證系統FlashProve，利用零知識證明技術，讓使用者不必取得模型權重，就能透過密碼學驗證AI回答是否來自指定模型，查驗服務供應商是否暗中替換模型，或AI回答是否遭到竄改",
+        "title": "蘋果旗下產品已知漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180239",
+        "pubDate": "2026-11-05 10:16",
+        "description": "美國網路安全與基礎設施安全局（CISA）警告，蘋果兩年前為旗下行動裝置、穿載裝置、電腦修補的資安漏洞CVE-2024-27834，已遷到積極利用",
         "source": "iThome資安"
       },
       {
-        "title": "TeamViewer修補反向攻擊漏洞，受控端可藉遠端連線攻擊控制端",
-        "link": "https://www.ithome.com.tw/news/180204",
-        "pubDate": "2026-11-04 11:44",
-        "description": "CVE-2026-111585允許惡意主機觸發控制端程式崩潰，研究人員已在Windows平臺成功驗證利用漏洞遠端執行程式碼",
+        "title": "歐洲冷凍冷藏系統接連遭駭，法國血庫也遭攻擊，歐盟網路安全局呼籲加強防護",
+        "link": "https://www.ithome.com.tw/news/180236",
+        "pubDate": "2026-11-05 09:00",
+        "description": "歐洲多國冷凍冷藏系統接連遭駭，歐盟已召集相關機關及成員國主管機關協調應變。法國另有3處區域性血庫遭到攻擊，部分冷藏監控與控制系統受到影響",
         "source": "iThome資安"
       },
       {
-        "title": "微軟WinApp擴充套件加入WinUI XAML語言服務，VS Code可檢查綁定錯誤",
-        "link": "https://www.ithome.com.tw/news/180222",
-        "pubDate": "2026-11-04  07:11:20",
-        "description": "微軟發布WinApp VS Code擴充套件v0.4，加入實驗性WinUI XAML語言服務，可依專案內容提供介面程式碼自動完成建議，並在編輯時檢查型別及資料綁定錯誤。新版也支援直接建立WinUI應用程式，並從專案檔進行建置、執行與除錯。",
+        "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
+        "link": "https://www.ithome.com.tw/news/180248",
+        "pubDate": "2026-11-05  12:11:55",
+        "description": "C++26國際標準草案未通過國際標準化組織（ISO）各國標準機構表決，新版標準發布時程面臨延後。C++標準委員會WG21成員Andreas Fertig指出，10月下旬結束的國際標準草案（DIS）表決未達所需的三分之二多數支持，主要爭議集中在契約（Contracts）功能是否已成熟到足以納入標準。",
         "source": "iThome"
       },
       {
-        "title": "OpenAI自建Pando擴充Git後端，推送延遲降低近80%",
-        "link": "https://www.ithome.com.tw/news/180219",
-        "pubDate": "2026-11-04  04:11:31",
-        "description": "OpenAI公開自建的Git後端Pando，以因應Codex帶動的大量並行開發工作。Pando在保留Git協定與既有操作方式的前提下，讓不同分支能獨立更新，並重複使用Git資料封裝檔加快資料傳輸。OpenAI表示，切換後程式碼推送延遲中位數降低近80%，每天傳送近1 PB的Git資料。",
+        "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
+        "link": "https://www.ithome.com.tw/news/180244",
+        "pubDate": "2026-11-05  11:11:28",
+        "description": "美國太空公司SpaceX繼利用Starlink衛星提供網路服務後，也準備在美國大規模建置地面5G網路。高通（Qualcomm）周三（11/4）宣布，SpaceX將採用旗下Dragonwing技術建置5G基地臺，預計2027年開始部署，未來數年間將設置數萬個站點。SpaceX希望結合衛星與地面5G網路，提供覆蓋全美的行動通訊服務。",
         "source": "iThome"
       },
       {
-        "title": "Google AI打進本土電信通路，中華電信提供年約月繳方案，降低付費AI使用門檻",
-        "link": "https://www.ithome.com.tw/news/180218",
-        "pubDate": "2026-11-04  04:11:23",
-        "description": "生成式AI服務開始從科技公司直接銷售模式，走向在地電信通路。中華電信今天(11/4)宣布和Google擴大合作，將Google AI Plus與Google AI Pro方案納入電信服務體系，消費者除了可直接向Google官方訂閱，也能透過中華電信申辦相關服務。\n在納入電信通路後，消費者可以兩種方式取付Google AI付費服務，第一種是直接向Google訂閱，以Google帳號搭配信用卡等付款方式購買；第二種則是透過中華電信申辦，除了單獨租用Google AI方案，中華電信用戶可搭配5G行動通",
+        "title": "Safari 27.3測試網頁自動轉暗，WebKit引擎可依內容調整文字與圖示配色",
+        "link": "https://www.ithome.com.tw/news/180256",
+        "pubDate": "2026-11-05  01:11:33",
+        "description": "Apple WebKit團隊公布瀏覽器Safari 27.3測試版新功能自適應深色模式（Adaptive Dark Mode），可將未支援深色模式的淺色網站轉成深色顯示。使用者將系統外觀切換為深色，開啟背景明亮的網站時，Safari便會提供轉換效果預覽，點選試用後即可啟用。",
         "source": "iThome"
       },
       {
-        "title": "微軟展示NuGet套件封裝代理技能，開發指引可對應函式庫版本",
-        "link": "https://www.ithome.com.tw/news/180214",
-        "pubDate": "2026-11-04  02:11:02",
-        "description": "微軟.NET團隊公布實驗成果，展示將AI代理技能（Agent Skills）封裝進NuGet套件的做法，讓函式庫開發者發布新版本時，可一併提供對應的使用指引。AI程式開發代理可透過相關工具取得技能內容，掌握新版API的使用方式，減少依賴模型既有知識或自行分析函式庫的需求。",
+        "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
+        "link": "https://www.ithome.com.tw/news/180257",
+        "pubDate": "2026-11-05  01:11:01",
+        "description": "OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體Axios認為，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。",
         "source": "iThome"
       }
     ],
@@ -215,24 +215,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "買機器人的工作，卡關由真人遠端接手：Tutor Intelligence 獲 a16z 領投 7,500 萬美元",
-        "link": "https://techorange.com/2026/11/03/tutor-intelligence-series-b-robot-labor-by-the-hour/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 15:00:14 +0800",
-        "description": "源自美國麻省理工學院電腦科學與人工智慧實驗室（MIT CSAIL）的機器人公司 Tutor Intelligence，美國時間 11/2 宣布完成 7,500 萬美元 B 輪融資，由 Andreessen Horowitz（a16z）領投，累計募資達 1.17 億美元。這筆資金將用於訓練機器人基礎模型，以及製造、部署旗下的 Cassie 與 Sonny 兩款機器人。 Tutor 主要賣的不是機器人，而是機器人完成的工作：客戶按使用量付費；機器人遇到處理不了的狀況，由遠端的真人操作員即時協助，每完",
+        "title": "美國期中選舉後，德州約 13 GW 資料中心計畫恐延後：緯創等台廠會受波及嗎？",
+        "link": "https://techorange.com/2026/11/05/us-election-ai-data-center-buildout-taiwan-suppliers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 05 Nov 2026 12:59:01 +0800",
+        "description": "美國時間 11/3 的期中選舉，民主黨奪回聯邦參眾兩院，也在德州、俄亥俄、喬治亞拿下州長，三位新州長競選時都主張管制 AI 資料中心。德州州長當選人 Gina Hinojosa 是該州三十多年來首位民主黨州長，曾多次呼籲立即暫停資料中心開發。但德州的審批在選前就已收緊，共和黨籍現任州長 Greg Abbott 9/21 已指示州環境品質委員會，在電網營運商 ERCOT 與州水資源發展委員會（TWDB）完成稽核前，停發資料中心的所有許可。 《Fast Company》指出，兩人的差別在於，Abbo",
         "source": "TechOrange"
       },
       {
-        "title": "Marvell 砸 1,150 億美元收購 Lumentum，下一代光互連為何可能衝擊既有 DSP 生意？",
-        "link": "https://techorange.com/2026/11/03/lumentum-marvell/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 11:55:50 +0800",
-        "description": "美國晶片大廠 Marvell 美國時間 11/2 宣布，以企業價值 1,150 億美元的全股票交易收購光學元件大廠 Lumentum。這起 2026 年規模最大的企業併購案之一，《Reuters》指出是 Marvell 押注 AI 資料中心需求成長、強化與晶片大廠 Broadcom 競爭的重要一步。 不過，這筆收購不只是為了擴大光通訊業務。隨著下一代光互連技術發展，Marvell 原本供應的部分數位訊號處理器（DSP）可能面臨需求變化。收購 Lumentum，除了取得關鍵光學技術與製造能力，也可",
+        "title": "自主付款 Agent 列最高風險？美國 OCC 首度發布銀行 AI 監理框架，人工監督成重點",
+        "link": "https://techorange.com/2026/11/05/occ-ai-agent-super-intelligence-supervisory-framework/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 05 Nov 2026 12:02:37 +0800",
+        "description": "當 AI Agent 不只整理文件，還能直接發起付款、修改帳戶資料，銀行該如何判斷風險，並在出錯前介入？美國貨幣監理署（OCC）11/4 發布首份銀行 AI 監理框架，其中一項值得注意的內容，是將自主付款 Agent 列為最高風險等級的示例，並強調 AI 的風險不只取決於技術複雜度，更與實際用途、自主權及出錯後果有關。 根據《Reuters》報導，這份框架主要供銀行檢查人員使用，並未新增強制性監理要求，而是說明如何將 AI 納入既有的銀行風險管理制度。 不另設 AI 風險類別，OCC 為何仍提出",
         "source": "TechOrange"
       },
       {
-        "title": "用 AI 研發 AI 有多快？Anthropic 坦承曾未及時察覺加速，未來模型恐觸及新門檻",
-        "link": "https://techorange.com/2026/11/03/anthropic-s1a-ai-rd-acceleration-safety/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 11:55:21 +0800",
-        "description": "Anthropic 在美國時間 11/2 向美國證券交易委員會（SEC）遞交 S-1 上市申報文件的第一號修正案。市場目光多半落在財務數字上，據《Axios》整理，Anthropic 第三季營收約 170 億美元，較前一季成長近 47%。不過，《TechCrunch》注意到，修正案在風險因素中新增段落，坦言過去曾在研發加速之後才察覺，並表示可能即將觸及自家負責任擴展政策（Responsible Scaling Policy，RSP）的門檻。 TO 先前曾介紹由 AI 持續改良自身的「遞迴自我改進",
+        "title": "【工地機器人不必是人形】OG-1 有三輪底座與升降手臂，在雜亂工地自動批土、打磨牆面",
+        "link": "https://techorange.com/2026/11/05/construction-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 05 Nov 2026 10:22:12 +0800",
+        "description": "過去一百年，營建業的機械化幾乎都發生在建築外部。挖地基有怪手，吊鋼筋、吊模板有塔式起重機，灌混凝土有泵浦車；建築內部做法卻沒有太大改變，石膏板的接縫要靠工人一刀一刀抹上批土，等乾了再用砂紙打磨平整，最後一面一面刷上底漆。 這些室內工序占了整個工期的六成五以上，到現在仍然幾乎全靠人工。而 2025 年初成立的美國新創 Origin 想改變這件事。Origin 最近宣布拿到 2,000 萬美元融資，主角是一台叫 OG-1 的裝修機器人。 不過工地凌亂、光線差、狀況隨時在變，正好是機器人最難適應的環境",
         "source": "TechOrange"
       },
       {
@@ -269,7 +269,7 @@
         "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
         "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
         "pubDate": "Wed, 04 Nov 2026 19:57:52 +0530",
-        "description": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics service ",
+        "description": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics serv",
         "source": "TheHackerNews"
       },
       {
@@ -478,18 +478,32 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-        "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-        "pubDate": "Wed, 04 Nov 2026 16:17:22 +0000",
-        "description": "Politicians on the left, like NYC mayor Zohran Mamdani and former FTC chair Lina Khan, accused Google of acting as an unregulated monopoly.",
+        "title": "Apple is reportedly cutting budgets for its internal AI usage",
+        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+        "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
+        "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
         "source": "TechCrunch"
       },
       {
-        "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-        "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-        "pubDate": "Wed, 04 Nov 2026 15:00:00 +0000",
-        "description": "Titan OS has raised $110 million in funding to date.",
+        "title": "After the midterms, a bigger clash over data centers could be coming",
+        "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+        "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
+        "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
         "source": "TechCrunch"
+      },
+      {
+        "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
+        "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
+        "pubDate": "2026-11-05T00:00:00-05:00",
+        "description": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time period",
+        "source": "TheVerge"
+      },
+      {
+        "title": "X says its updated web app is way faster",
+        "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
+        "pubDate": "2026-11-04T19:25:12-05:00",
+        "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Ni",
+        "source": "TheVerge"
       },
       {
         "title": "Qualcomm is betting big on data centers as smartphone sales sink",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
         "pubDate": "2026-11-04T16:30:00-05:00",
         "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Bose’s QuietComfort Headphones are more than half off",
-        "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
-        "pubDate": "2026-11-04T16:13:11-05:00",
-        "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
-        "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
-        "pubDate": "2026-11-04T15:23:24-05:00",
-        "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summari",
         "source": "TheVerge"
       }
     ],
@@ -599,14 +599,34 @@
         "products": "SUSE Linux Kernel"
       },
       {
-        "title": "ChromeOS Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261029",
-        "pubDate": "Thu, 29 Oct 2026 11:00:00 +0800",
+        "title": "Mozilla Firefox Denial of Service Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
+        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "ChromeOS"
+        "products": "Mozilla Firefox Denial of Service Vulnerability"
+      },
+      {
+        "title": "TP-Link Router Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/tp-link-router-multiple-vulnerabilities_20261105",
+        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "TP-Link Router"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261105",
+        "pubDate": "Thu, 05 Nov 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
       },
       {
         "title": "Ivanti Connect Secure Multiple Vulnerabilities",
@@ -639,16 +659,6 @@
         "products": "Synology Products"
       },
       {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261102",
-        "pubDate": "Mon, 02 Nov 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
         "title": "WordPress Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20261102",
         "pubDate": "Mon, 02 Nov 2026 09:00:00 +0800",
@@ -657,16 +667,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "WordPress"
-      },
-      {
-        "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
-        "link": "https://www.hkcert.org/blog/data-leakage-and-third-party-risk-when-real-customer-information-becomes-a-tool-for-scammers",
-        "pubDate": "Fri, 30 Oct 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers"
       }
     ]
   }
