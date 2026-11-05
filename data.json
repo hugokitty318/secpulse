@@ -1,7 +1,21 @@
 {
-  "ts": "2026-11-05T07:22:24.641490Z",
+  "ts": "2026-11-05T15:47:36.956785Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
+        "link": "https://www.ithome.com.tw/news/180262",
+        "pubDate": "2026-11-05 17:07",
+        "description": "APT套件下載重試機制存在驗證漏洞，攻擊者可在特定條件下替換已驗證的軟體套件，以root權限執行惡意程式碼，Debian與Ubuntu已發布修補，衍生系統也可能受影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
+        "link": "https://www.ithome.com.tw/news/180260",
+        "pubDate": "2026-11-05 14:57",
+        "description": "攻擊者透過第三方冷藏設備供應商入侵監控系統，試圖調高冷藏室溫度，所幸監控與警報系統及時發現異常，未造成血液製品損失",
+        "source": "iThome資安"
+      },
       {
         "title": "熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體",
         "link": "https://www.ithome.com.tw/news/180259",
@@ -94,20 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "蘋果旗下產品已知漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180239",
-        "pubDate": "2026-11-05 10:16",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，蘋果兩年前為旗下行動裝置、穿載裝置、電腦修補的資安漏洞CVE-2024-27834，已遷到積極利用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "歐洲冷凍冷藏系統接連遭駭，法國血庫也遭攻擊，歐盟網路安全局呼籲加強防護",
-        "link": "https://www.ithome.com.tw/news/180236",
-        "pubDate": "2026-11-05 09:00",
-        "description": "歐洲多國冷凍冷藏系統接連遭駭，歐盟已召集相關機關及成員國主管機關協調應變。法國另有3處區域性血庫遭到攻擊，部分冷藏監控與控制系統受到影響",
-        "source": "iThome資安"
-      },
-      {
         "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
         "link": "https://www.ithome.com.tw/news/180248",
         "pubDate": "2026-11-05  12:11:55",
@@ -115,10 +115,17 @@
         "source": "iThome"
       },
       {
-        "title": "SpaceX攜手高通建置全美5G網路，2027年起部署數萬座基地臺",
-        "link": "https://www.ithome.com.tw/news/180244",
-        "pubDate": "2026-11-05  11:11:28",
-        "description": "美國太空公司SpaceX繼利用Starlink衛星提供網路服務後，也準備在美國大規模建置地面5G網路。高通（Qualcomm）周三（11/4）宣布，SpaceX將採用旗下Dragonwing技術建置5G基地臺，預計2027年開始部署，未來數年間將設置數萬個站點。SpaceX希望結合衛星與地面5G網路，提供覆蓋全美的行動通訊服務。",
+        "title": "OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話",
+        "link": "https://www.ithome.com.tw/news/180267",
+        "pubDate": "2026-11-05  08:11:49",
+        "description": "OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。",
+        "source": "iThome"
+      },
+      {
+        "title": "公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率",
+        "link": "https://www.ithome.com.tw/news/180263",
+        "pubDate": "2026-11-05  05:11:26",
+        "description": "臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。\n不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生",
         "source": "iThome"
       },
       {
@@ -208,10 +215,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "專訪工研院院長張培仁：資源有限怎麼押技術？量子不搶當老大，專攻各路線都需要的低溫電子",
-        "link": "https://techorange.com/2026/11/03/itri-pei-zen-chang-quantum-tech-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 15:18:38 +0800",
-        "description": "專訪：戴季全撰稿：張哲瑋 量子電腦的技術路線眾多，工研院院長張培仁接受《TechOrange》《全新一週》專訪時表示，工研院不賭哪條路線會贏，而是全力發展他認為各路線都需要的低溫電子，讓「所有的老大都需要我當老二」。 張培仁 2025 年 10 月接任院長，此前擔任工研院副院長，現亦為臺大應用力學研究所教授。他不用「K 型化」形容台灣產業，而以流體力學的「層流」比喻：ICT 產業流得快、其他產業流得慢，但兩者是連續的，重點是協助流得慢的「往上爬往上提」。 據工研院出版的《工業技術與資訊》月刊，該",
+        "title": "歐洲超市冷凍櫃三週兩度遭駭、法國血庫也遇襲：設備管理介面為何成破口？",
+        "link": "https://techorange.com/2026/11/05/europe-fridge-cyberattacks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 05 Nov 2026 15:49:46 +0800",
+        "description": "10/11 夜間起，法國數百家超市的冷凍設備遭到遠端攻擊，被強制切換成除霜模式，溫度最高被調到 50°C。Intermarché、Carrefour 等連鎖食物腐壞，數家店甚至起火。三週後，11/1 深夜到 11/2，比利時、愛沙尼亞、愛爾蘭、盧森堡、荷蘭與瑞典逾 100 家店的冰箱與冷凍櫃又再升溫，芬蘭、義大利、葡萄牙也傳出災情，受害者從大型連鎖到小肉舖都有；同一天，法國血液機構（EFS）也有 3 個站點的冷藏室，溫度與除霜門檻被調到極高。 這幾起事件的共通點是，遭到改動的不是企業的電腦，而是",
         "source": "TechOrange"
       },
       {
@@ -294,13 +301,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-        "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-        "pubDate": "Wed, 04 Nov 2026 16:54:31 +0530",
-        "description": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Vercel rolls out new protection against stolen session cookie attacks",
         "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
         "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
@@ -322,20 +322,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
-        "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
-        "pubDate": "Wed, 04 Nov 2026 13:47:11 +0530",
-        "description": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure.\n\nAlso known as Fluffy Wolf, the threat actor has a history of targeting Russian and international companies sinc",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-        "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-        "pubDate": "Wed, 04 Nov 2026 13:16:15 +0530",
-        "description": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin.\n\nThe flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with security patch l",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Cyberattack disrupts blood storage refrigeration systems in France",
         "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
         "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500",
@@ -348,13 +334,6 @@
         "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
         "description": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-        "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-        "pubDate": "Wed, 04 Nov 2026 11:13:11 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe high-severity vulnerability, tracked as CV",
-        "source": "TheHackerNews"
       },
       {
         "title": "mSecure password manager hack prompts password reset warnings",
@@ -383,6 +362,34 @@
         "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500",
         "description": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
+        "pubDate": "Wed, 04 Nov 2026 07:11:05 -0500",
+        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
+        "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
+        "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+        "pubDate": "Tue, 03 Nov 2026 17:18:50 -0500",
+        "description": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+        "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+        "pubDate": "Tue, 03 Nov 2026 16:28:44 -0500",
+        "description": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -394,87 +401,87 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
-        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
-        "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
-        "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "title": "Bluesky hit peak usage for the year on Election Night",
+        "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+        "pubDate": "Thu, 05 Nov 2026 15:44:58 +0000",
+        "description": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
         "source": "TechCrunch"
       },
       {
-        "title": "Almost no one uses AI agents to book their Uber, company says",
-        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
-        "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
-        "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
+        "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
+        "pubDate": "Thu, 05 Nov 2026 15:40:34 +0000",
+        "description": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
         "source": "TechCrunch"
       },
       {
-        "title": "Snapchat surpasses 30M paid subscribers",
-        "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-        "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
-        "description": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain the",
+        "title": "TikTok quietly launches a standalone TikTok Shop app",
+        "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
+        "pubDate": "Thu, 05 Nov 2026 15:33:58 +0000",
+        "description": "The app will offer personalized product recommendations, shopping through live streams and short-form videos, app-exclusive deals, in-app checkout, order tracking and customer support.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI is already trying to shape the 2028 election",
-        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-        "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
-        "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+        "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
+        "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
+        "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta acquires AI coding startup Conductor",
-        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-        "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
-        "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "title": "Instagram brings Edits to desktop to take on CapCut",
+        "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
+        "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+        "description": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
-        "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
-        "pubDate": "Wed, 04 Nov 2026 20:36:57 +0000",
-        "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
+        "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
+        "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
+        "description": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
         "source": "TechCrunch"
       },
       {
-        "title": "Open source AI is booming. Hugging Face explains who profits.",
-        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
-        "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
-        "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies c",
+        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
+        "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
+        "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
+        "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
         "source": "TechCrunch"
       },
       {
-        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-        "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
-        "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "title": "RadianX promises solar-powered devices that never need charging",
+        "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
+        "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+        "description": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
         "source": "TechCrunch"
       },
       {
-        "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
-        "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
-        "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
-        "description": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
+        "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
+        "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+        "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
         "source": "TechCrunch"
       },
       {
-        "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-        "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-        "pubDate": "Wed, 04 Nov 2026 18:10:11 +0000",
-        "description": "It is easier to watch the Elizabeth Holmes documentary \"You Can See Everything\" in low Earth orbit than in London.",
+        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
+        "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
+        "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
+        "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
         "source": "TechCrunch"
       },
       {
-        "title": "Sequoia hits rewind, undoing 20 years of expansion",
-        "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-        "pubDate": "Wed, 04 Nov 2026 17:11:15 +0000",
-        "description": "Sequoia is consolidating into a smaller, Bay Area–centered firm, shutting down the programs and offices it built during a 20-year expansion while announcing roughly $10 billion in new funds.",
+        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
+        "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
+        "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+        "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
         "source": "TechCrunch"
       },
       {
-        "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-        "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-        "pubDate": "Wed, 04 Nov 2026 16:51:35 +0000",
-        "description": "Apple's AI-powered Siri Recaps won me over in just one day, despite my privacy reservations. But there's still room for improvement.",
+        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
+        "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
+        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
+        "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nintendo’s designers strove for ‘elegance’ when remaking Ocarina of Time",
-        "link": "https://www.theverge.com/games/1026380/zelda-ocarina-of-time-interview-eiji-aonuma-hidemaro-fujibayashi",
-        "pubDate": "2026-11-05T00:00:00-05:00",
-        "description": "The Ocarina of Time remake on the Switch 2 smashes together the past and present. The game retains much of the original N64 experience while updating it with modern graphics and gameplay that make it feel contemporary. But the mingling of time period",
+        "title": "The hidden supply chain costs of the AI boom",
+        "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+        "pubDate": "2026-11-05T10:00:00-05:00",
+        "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of m",
         "source": "TheVerge"
       },
       {
-        "title": "X says its updated web app is way faster",
-        "link": "https://www.theverge.com/tech/1027113/x-says-its-updated-web-app-is-way-faster",
-        "pubDate": "2026-11-04T19:25:12-05:00",
-        "description": "X is introducing a new version of its web app that it says is much faster than before, and it's now rolling out the updated app \"one country at a time\" for signed-in users. \"Open a profile on X.com over a slow connection,\" principal engineer Yagiz Ni",
+        "title": "WhatsApp will let you invite friends to events who aren’t on the app",
+        "link": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
+        "pubDate": "2026-11-05T10:00:00-05:00",
+        "description": "WhatsApp is rolling out a new feature that allows you to invite friends and family members to events in the app - even if they don't have the messenger installed. When you create an event in WhatsApp, you can share a link with a friend or family memb",
         "source": "TheVerge"
       },
       {
-        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-        "pubDate": "2026-11-04T17:42:15-05:00",
-        "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, ",
+        "title": "You can post AI music straight to SoundCloud from ElevenLabs",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
+        "pubDate": "2026-11-05T10:00:00-05:00",
+        "description": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can p",
         "source": "TheVerge"
       },
       {
-        "title": "17 better ways Elon Musk could have wasted $446 million",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
-        "pubDate": "2026-11-04T16:45:00-05:00",
-        "description": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your ma",
+        "title": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
+        "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
+        "pubDate": "2026-11-05T10:00:00-05:00",
+        "description": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an interview with The Verge, \"One of ",
         "source": "TheVerge"
       },
       {
-        "title": "How I learned to love an obnoxious phone grip",
-        "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
-        "pubDate": "2026-11-04T16:30:00-05:00",
-        "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months",
+        "title": "Tech is about to get hammered in Congress",
+        "link": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
+        "pubDate": "2026-11-05T09:11:27-05:00",
+        "description": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Sen",
         "source": "TheVerge"
       }
     ],
@@ -629,6 +636,16 @@
         "products": "Microsoft Edge"
       },
       {
+        "title": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026",
+        "link": "https://www.hkcert.org/blog/hkcert-security-incident-statistics-and-cybersecurity-trends-in-hong-kong-for-q3-2026",
+        "pubDate": "Thu, 05 Nov 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026"
+      },
+      {
         "title": "Ivanti Connect Secure Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-multiple-vulnerabilities_20261102",
         "pubDate": "Mon, 02 Nov 2026 11:00:00 +0800",
@@ -657,16 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Synology Products"
-      },
-      {
-        "title": "WordPress Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20261102",
-        "pubDate": "Mon, 02 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "WordPress"
       }
     ]
   }
