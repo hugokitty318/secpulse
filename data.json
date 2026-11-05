@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-05T15:47:36.956785Z",
+  "ts": "2026-11-05T21:57:46.412639Z",
   "tabs": {
     "cn_sec": [
       {
@@ -287,20 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-        "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-        "pubDate": "Wed, 04 Nov 2026 17:16:27 +0530",
-        "description": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0.\n\nDom0 is the VM that, by default, has full permissions and manages the others. Patches are out, a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-        "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-        "pubDate": "Wed, 04 Nov 2026 17:04:20 +0530",
-        "description": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never touch one.\n",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Vercel rolls out new protection against stolen session cookie attacks",
         "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
         "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
@@ -350,58 +336,142 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-        "pubDate": "Wed, 04 Nov 2026 09:42:25 -0500",
-        "description": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
+        "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+        "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+        "pubDate": "Thu, 05 Nov 2026 22:12:46 +0530",
+        "description": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password between 257 and 1",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+        "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+        "pubDate": "Thu, 05 Nov 2026 22:12:32 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT.\n\nLockdown Mode was introduced by the artificial intelligence (AI) company in June 2026 as a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+        "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+        "pubDate": "Thu, 05 Nov 2026 20:11:10 +0530",
+        "description": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+        "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+        "pubDate": "Thu, 05 Nov 2026 17:55:00 +0530",
+        "description": "A critical finding can move through several security tools and still leave the organization exposed. \n\nThe vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who owns the",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+        "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+        "pubDate": "Thu, 05 Nov 2026 17:38:54 +0530",
+        "description": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs.\n\n\"Our prototype identified",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+        "pubDate": "Thu, 05 Nov 2026 16:30:30 -0500",
+        "description": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication sessions. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "US charges two Canadians accused of hacking US universities",
-        "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-        "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500",
-        "description": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-        "source": "BleepingComputer"
+        "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+        "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+        "pubDate": "Thu, 05 Nov 2026 15:36:19 +0530",
+        "description": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond in",
+        "source": "TheHackerNews"
       },
       {
-        "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-        "pubDate": "Wed, 04 Nov 2026 07:11:05 -0500",
-        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-        "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
-        "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
-        "pubDate": "Tue, 03 Nov 2026 17:18:50 -0500",
-        "description": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
-        "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
-        "pubDate": "Tue, 03 Nov 2026 16:28:44 -0500",
-        "description": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+        "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+        "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+        "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500",
+        "description": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
         "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
-        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
-        "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
-        "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "title": "Serve Robotics launches new business to become the AWS for robots",
+        "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+        "pubDate": "Thu, 05 Nov 2026 21:15:00 +0000",
+        "description": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
         "source": "TechCrunch"
       },
       {
-        "title": "Bluesky hit peak usage for the year on Election Night",
+        "title": "Meta says US users can now video chat with their Muse AI avatar",
+        "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+        "pubDate": "Thu, 05 Nov 2026 19:48:28 +0000",
+        "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+        "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+        "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
+        "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI released a new cybersecurity model. Is that enough?",
+        "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+        "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
+        "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+        "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+        "pubDate": "Thu, 05 Nov 2026 18:48:34 +0000",
+        "description": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+        "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+        "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
+        "description": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+        "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+        "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Claude can now analyze your spending with its new Personal Finance tool",
+        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+        "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+        "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Harbinger raises $240M after expanding into defense",
+        "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+        "pubDate": "Thu, 05 Nov 2026 17:52:44 +0000",
+        "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+        "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+        "pubDate": "Thu, 05 Nov 2026 17:11:48 +0000",
+        "description": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Axiom Math wants to keep AI slop out of mathematics",
+        "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+        "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
+        "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Bluesky hit peak usage for the year on election night",
         "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
         "pubDate": "Thu, 05 Nov 2026 15:44:58 +0000",
         "description": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
@@ -415,10 +485,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok quietly launches a standalone TikTok Shop app",
+        "title": "TikTok quietly launches a stand-alone TikTok Shop app",
         "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
         "pubDate": "Thu, 05 Nov 2026 15:33:58 +0000",
-        "description": "The app will offer personalized product recommendations, shopping through live streams and short-form videos, app-exclusive deals, in-app checkout, order tracking and customer support.",
+        "description": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
         "source": "TechCrunch"
       },
       {
@@ -429,108 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Instagram brings Edits to desktop to take on CapCut",
-        "link": "https://techcrunch.com/2026/11/05/instagram-brings-edits-to-desktop-to-take-on-capcut/",
-        "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
-        "description": "The move puts Edits in more direct competition with ByteDance's CapCut, the video-editing app Meta sought to challenge when it launched Edits last year.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "ElevenLabs now lets users publish AI-generated music directly on SoundCloud",
-        "link": "https://techcrunch.com/2026/11/05/elevenlabs-now-lets-users-publish-ai-generated-music-directly-on-soundcloud/",
-        "pubDate": "Thu, 05 Nov 2026 15:00:00 +0000",
-        "description": "ElevenLabs said more than 25 million tracks have been generated using its music models.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Aina’s smart ring has a screen, a joystick and a mic so you can talk to AI agents",
-        "link": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-        "pubDate": "Thu, 05 Nov 2026 14:42:00 +0000",
-        "description": "Aina's ring can also take calls and help you dictate notes on your Mac.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "RadianX promises solar-powered devices that never need charging",
-        "link": "https://techcrunch.com/2026/11/05/radianx-promises-solar-powered-devices-that-never-need-charging/",
-        "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
-        "description": "Today’s portable devices are too hungry to run on traditional solar panels, but RadianX says its perovskite cells promise to make charging obsolete in some cases.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Box taps Nvidia’s Nemotron for new agent-first content retrieval system",
-        "link": "https://techcrunch.com/2026/11/05/box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system/",
-        "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
-        "description": "The system can supposedly answer queries four times faster, with 20% fewer errors and 90% fewer tokens used.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "A YC startup is putting $1M behind five unsolved materials science problems for AI",
-        "link": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai/",
-        "pubDate": "Thu, 05 Nov 2026 13:00:00 +0000",
-        "description": "Discovered Materials, a months-old YC startup that uses AI to find chip materials, is offering $200,000 for each solution to five open materials science problems.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Agility is the first pure humanoid robot company on the stock market. Are you buying?",
-        "link": "https://techcrunch.com/2026/11/05/agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buying/",
-        "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
-        "description": "Agility arrives on the Nasdaq today as the first publicly-traded pure-play humanoid robotics company.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon ditches GrubHub, taps Uber Eats for Prime",
-        "link": "https://techcrunch.com/2026/11/05/amazon-ditches-grubhub-taps-uber-eats-for-prime/",
-        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0000",
-        "description": "Amazon has made Uber Eats its official restaurant delivery partner for Prime members in the United States.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple is reportedly cutting budgets for its internal AI usage",
-        "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
-        "pubDate": "Thu, 05 Nov 2026 01:26:22 +0000",
-        "description": "The company is said to be significantly dropping the amount it's spending on AI for its engineering teams.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "After the midterms, a bigger clash over data centers could be coming",
-        "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
-        "pubDate": "Thu, 05 Nov 2026 01:02:14 +0000",
-        "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The hidden supply chain costs of the AI boom",
-        "link": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
-        "pubDate": "2026-11-05T10:00:00-05:00",
-        "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of m",
+        "title": "The midterms proved once and for all that X is not real life",
+        "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+        "pubDate": "2026-11-05T16:55:00-05:00",
+        "description": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't",
         "source": "TheVerge"
       },
       {
-        "title": "WhatsApp will let you invite friends to events who aren’t on the app",
-        "link": "https://www.theverge.com/tech/1027412/whatsapp-events-invite-outside-app",
-        "pubDate": "2026-11-05T10:00:00-05:00",
-        "description": "WhatsApp is rolling out a new feature that allows you to invite friends and family members to events in the app - even if they don't have the messenger installed. When you create an event in WhatsApp, you can share a link with a friend or family memb",
+        "title": "Blue Origin’s next launch now won’t happen until 2027",
+        "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+        "pubDate": "2026-11-05T15:47:14-05:00",
+        "description": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New",
         "source": "TheVerge"
       },
       {
-        "title": "You can post AI music straight to SoundCloud from ElevenLabs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1027427/ai-music-soundcloud-elevenlabs",
-        "pubDate": "2026-11-05T10:00:00-05:00",
-        "description": "After partnering with Moises earlier this year, SoundCloud is now adding integration with another AI music platform, ElevenLabs. Now, rather than having to export and download your outputs from ElevenLabs and then upload them to SoundCloud, you can p",
+        "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+        "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+        "pubDate": "2026-11-05T14:12:58-05:00",
+        "description": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the dev",
         "source": "TheVerge"
       },
       {
-        "title": "You can edit your videos with AI on Instagram&#8217;s new desktop Edits app",
-        "link": "https://www.theverge.com/tech/1027444/instagram-edits-desktop-ai-agents-muse-mcp",
-        "pubDate": "2026-11-05T10:00:00-05:00",
-        "description": "Instagram's standalone video editing app is now available on macOS, where you can plug in your AI agent of choice to assemble your videos. Instagram's Matthew Simari, head of product management for Edits, said in an interview with The Verge, \"One of ",
+        "title": "Muse has a voice mode now",
+        "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+        "pubDate": "2026-11-05T14:03:04-05:00",
+        "description": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse ag",
         "source": "TheVerge"
       },
       {
-        "title": "Tech is about to get hammered in Congress",
-        "link": "https://www.theverge.com/policy/1027430/democratic-control-congress-tech-policy",
-        "pubDate": "2026-11-05T09:11:27-05:00",
-        "description": "Tech CEO hearings. Tougher AI and data center guardrails. Investigations of Elon Musk's DOGE cuts. The gates are open for Democrats once they regain control of committee gavels come January after a historic win of majorities in both the House and Sen",
+        "title": "EA is bringing 25 classic PC games to Steam",
+        "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
+        "pubDate": "2026-11-05T13:30:00-05:00",
+        "description": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" bu",
         "source": "TheVerge"
       }
     ],
