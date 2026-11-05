@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-04T18:51:38.692824Z",
+  "ts": "2026-11-05T00:20:18.092895Z",
   "tabs": {
     "cn_sec": [
       {
@@ -236,10 +236,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "「主權不是擁有更多工具，而是掌握 AI 行動的邊界與責任。」Rimini Street 資深客戶成功經理高治平點出掌握 AI 主權的五個控制權",
-        "link": "https://techorange.com/2026/11/03/riministreet-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 11:02:26 +0800",
-        "description": "「大部分企業不是沒有 AI，而是 AI 無法進入核心流程，」Rimini Street 資深客戶成功經理高治平於 TechOrange 科技報橘日前舉辦的「2026 企業 AI 主權高峰論壇」中，指出許多企業面對的處境，企業看不見內部有哪些模型與 Agent，管不住權限與中止機制，算不清成本與成果，流程又被舊整合與供應商路線綁住而走不快。 高治平把企業分成兩種，一種是「自主企業」，能選擇工具、串接資料、同時跑多個 AI PoC，但追求的是模型能力；另一種是「主權企業」，能控制 AI 的行動、定義",
+        "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
+        "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 05 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 傳設 51% 非中企門檻，海外雲端算力業務恐受限 《Financial Times》11 月 3 日引述知情人士報導，NVIDIA 已透過業務團隊向部分資料中心與雲端合作夥伴傳達指引，要求未來至少 51% 的雲端服務業務面向非中國企業。這項要求目前沒有公開書面規則，主要針對未來新合約，不追溯既有租約。《The Information》也引述消息人士指出，這項指引尚非強制規定，也未作為硬性條件執行。NVIDIA 並未公開證實具體的 ",
         "source": "TechOrange"
       }
     ],
@@ -299,6 +299,27 @@
         "pubDate": "Wed, 04 Nov 2026 16:54:31 +0530",
         "description": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign designed to ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Vercel rolls out new protection against stolen session cookie attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+        "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
+        "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+        "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+        "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
+        "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+        "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+        "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
+        "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
@@ -362,35 +383,77 @@
         "pubDate": "Wed, 04 Nov 2026 08:13:20 -0500",
         "description": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-        "pubDate": "Wed, 04 Nov 2026 07:11:05 -0500",
-        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers use n-day exploits in zero-click attacks on iOS, Android devices",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-use-n-day-exploits-in-zero-click-attacks-on-ios-android-devices/",
-        "pubDate": "Wed, 04 Nov 2026 04:39:54 -0500",
-        "description": "A large-scale watering hole attack associated with Russian hackers has been targeting iOS and Android users visiting compromised sites or fake ones impersonating legitimate portals. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-        "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-        "pubDate": "Wed, 04 Nov 2026 00:16:38 +0530",
-        "description": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys.\n\nThe warning came in an e",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Waymo confirms it will split with Uber in January 2028",
-        "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
+        "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+        "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+        "pubDate": "Wed, 04 Nov 2026 22:45:09 +0000",
+        "description": "AI industry PACs spent millions influencing the 2026 midterms, with mixed results. Political groups are already looking toward the next election cycle.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+        "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+        "pubDate": "Wed, 04 Nov 2026 22:13:16 +0000",
+        "description": "While it's not yet clear what kind of product the smartphone startup is cooking up, Nothing's CEO said the product is designed to leverage AI for productivity gains.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Almost no one uses AI agents to book their Uber, company says",
+        "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+        "pubDate": "Wed, 04 Nov 2026 21:56:01 +0000",
+        "description": "During its busiest week last quarter, Uber said only four people booked a ride using an AI agent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snapchat surpasses 30M paid subscribers",
+        "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+        "pubDate": "Wed, 04 Nov 2026 21:49:29 +0000",
+        "description": "The milestone comes a year after Snapchat announced a controversial limit on free storage for its Memories feature and informed users it would start requiring users to pay $1.99 per month for additional storage or subscribe to Snapchat+ to retain the",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI is already trying to shape the 2028 election",
+        "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+        "pubDate": "Wed, 04 Nov 2026 21:25:44 +0000",
+        "description": "OpenAI’s Chris Lehane wants AI to define the 2028 election, proposing a new social contract that could benefit Americans while also advancing the AI giant’s own business interests.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta acquires AI coding startup Conductor",
+        "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+        "pubDate": "Wed, 04 Nov 2026 21:10:56 +0000",
+        "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Hackers stole DreamHost customer files and inboxes during months-long attack",
+        "link": "https://techcrunch.com/2026/11/04/hackers-stole-dreamhost-customer-files-and-inboxes-during-months-long-attack/",
+        "pubDate": "Wed, 04 Nov 2026 20:36:57 +0000",
+        "description": "The web host said hackers exploited a vulnerability to access customer emails and files during a \"deliberate attack.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Open source AI is booming. Hugging Face explains who profits.",
+        "link": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+        "pubDate": "Wed, 04 Nov 2026 19:30:04 +0000",
+        "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do companies c",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
+        "link": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
+        "pubDate": "Wed, 04 Nov 2026 19:29:52 +0000",
+        "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Waymo confirms it’s shaking up its Uber relationship in January 2028",
+        "link": "https://techcrunch.com/2026/11/04/waymo-confirms-its-shaking-up-its-uber-relationship-in-january-2028/",
         "pubDate": "Wed, 04 Nov 2026 18:12:30 +0000",
-        "description": "The split will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
+        "description": "The change will set up direct competition in those markets, as Uber has many other autonomous vehicle partners on its network.",
         "source": "TechCrunch"
       },
       {
@@ -429,101 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Revolut’s valuation jumps 53% to $115B in new share sale as it prepares to launch US bank",
-        "link": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
-        "pubDate": "Wed, 04 Nov 2026 14:10:10 +0000",
-        "description": "Glade Brook, Coatue, and T. Rowe Price were among the investors that led the share sale.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "TechCrunch Founder Summit 2026: Doors open at 9 a.m. ET in Boston",
-        "link": "https://techcrunch.com/2026/11/04/techcrunch-founder-summit-2026-todays-the-day/",
-        "pubDate": "Wed, 04 Nov 2026 13:00:00 +0000",
-        "description": "Today is the day to join TechCrunch Founder Summit 2026 in Boston's SoWa Power Station. Register now to join this founder-focused conference today.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Canva lays off over 1,200 people amid slowing growth",
-        "link": "https://techcrunch.com/2026/11/04/canva-lays-off-over-1200-people-amid-slowing-growth/",
-        "pubDate": "Wed, 04 Nov 2026 11:59:00 +0000",
-        "description": "Canva is cutting 22% of its staff as it faces its 'hardest year' yet.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "India’s EloElo nabs $80M from NBCUniversal to bet on the country’s rising microdrama market",
-        "link": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
-        "pubDate": "Wed, 04 Nov 2026 04:45:00 +0000",
-        "description": "More than 118 million users watch microdramas every month as the serialized format has taken off in India. EloElo's Story TV is one of the top apps for microdramas, with over 33 million active users, according to analysts.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic is working on a system to prove AI models’ identity",
-        "link": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
-        "pubDate": "Tue, 03 Nov 2026 22:41:03 +0000",
-        "description": "Called FlashProve, the system would let anyone check that an AI response really came from the model it claims to be from.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Data centers are turning to old jet engines as the wait for power grows",
-        "link": "https://techcrunch.com/2026/11/03/data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows/",
-        "pubDate": "Tue, 03 Nov 2026 22:19:53 +0000",
-        "description": "The years-long wait for access to the grid and new turbines is causing data center builders to turn to an unusual, less-efficient and less environmentally friendly solution: once-discarded jet engines.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ted Schlein’s Ballistic Ventures seeks $490M for new funds amid AI-driven cybersecurity boom",
-        "link": "https://techcrunch.com/2026/11/03/ted-schleins-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybersecurity-boom/",
-        "pubDate": "Tue, 03 Nov 2026 21:43:08 +0000",
-        "description": "Cybersecurity-focused Ballistic Ventures is seeking to raise $360 million for a new flagship fund and another $130 million for a separate investment vehicle.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Hiding inside Palantir’s skyrocketing quarter is a foreboding signal",
-        "link": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
-        "pubDate": "Tue, 03 Nov 2026 21:05:55 +0000",
-        "description": "Palantir's U.S. commercial revenue surpassed U.S. government revenue for the first time ever.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Orbital Matter 3D-printed the first rigid beam in the vacuum of space",
-        "link": "https://techcrunch.com/2026/11/03/orbital-matter-3d-printed-the-first-rigid-beam-in-the-vacuum-of-space/",
-        "pubDate": "Tue, 03 Nov 2026 20:57:17 +0000",
-        "description": "An in-space construction first could be an enabler for the space data centers of the future.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nothing teases a screen-free AI device ahead of launch next month",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei",
-        "pubDate": "2026-11-04T13:26:07-05:00",
-        "description": "Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what ",
+        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+        "pubDate": "2026-11-04T17:42:15-05:00",
+        "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, ",
         "source": "TheVerge"
       },
       {
-        "title": "Apple will check shared iCloud links for ‘harmful content’",
-        "link": "https://www.theverge.com/tech/1026604/apple-icloud-links-harmful-content-27-3",
-        "pubDate": "2026-11-04T13:23:37-05:00",
-        "description": "Apple will start checking iCloud items that are accessible to anyone who has the link for \"harmful content\" starting with iOS 27.3 and other 27.3 updates, the company says. \"When you share an item that can be accessed by Anyone with the Link in versi",
+        "title": "17 better ways Elon Musk could have wasted $446 million",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1026878/not-even-good-at-being-rich",
+        "pubDate": "2026-11-04T16:45:00-05:00",
+        "description": "One of the basic problems of spending too much time on social media is that you are cooking your brain by reading posts from a pack of attention-seeking lunatics. If your social media of choice is the site formerly known as Twitter, and it is your ma",
         "source": "TheVerge"
       },
       {
-        "title": "My therapist thinks I should chuck the Amazon Bee Frontier out a window",
-        "link": "https://www.theverge.com/column/1026464/optimizer-amazon-bee-frontier-ambient-listening-wearables",
-        "pubDate": "2026-11-04T13:00:00-05:00",
-        "description": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. \"How does that make you feel?\" I g",
+        "title": "How I learned to love an obnoxious phone grip",
+        "link": "https://www.theverge.com/tech/1026743/bright-colorful-phone-grip-case",
+        "pubDate": "2026-11-04T16:30:00-05:00",
+        "description": "Much like a great recipe, it started with a stick of butter. This wasn't real butter; it was a friend's new phone grip, complemented by a phone case with bold stripes. Butter is in vogue now, or at least that's what a 12-year-old told me a few months",
         "source": "TheVerge"
       },
       {
-        "title": "ChatGPT will now make you animated GIFs",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1026474/openai-chatgpt-animated-gifs-images-2-6",
-        "pubDate": "2026-11-04T13:00:00-05:00",
-        "description": "ChatGPT can now create GIFs using a prompt or a photo uploaded to the AI chatbot. The update, which is rolling out alongside OpenAI's new Images 2.6 model, allows you to adjust the GIF's animation speed, edit individual frames, and share it with othe",
+        "title": "Bose’s QuietComfort Headphones are more than half off",
+        "link": "https://www.theverge.com/gadgets/1026807/bose-quietcomfort-headphones-wireless-deal-sale",
+        "pubDate": "2026-11-04T16:13:11-05:00",
+        "description": "It’s not often that some of the best noise-canceling headphones you can buy are over half off. But right now, the first-gen Bose QuietComfort Headphones are on sale for $169.99 ($190 off) at Amazon, Best Buy, and Bose, matching its best price to date",
         "source": "TheVerge"
       },
       {
-        "title": "God of War Laufey delayed until May",
-        "link": "https://www.theverge.com/games/1026448/sony-playstation-god-of-war-laufey-delay",
-        "pubDate": "2026-11-04T12:10:31-05:00",
-        "description": "God of War Laufey's release date is being delayed to May 20th, 2027, developer Santa Monica Studio announced today. It was set to launch on PlayStation 5 on February 16th. Here is Santa Monica Studio's full message about the delay: Since the reveal o",
+        "title": "Gemini for Home now plugs into AT&#038;T’s smart security system",
+        "link": "https://www.theverge.com/tech/1026787/att-gemini-for-home-connected-life-security-system",
+        "pubDate": "2026-11-04T15:23:24-05:00",
+        "description": "AT&T's smart home security system now integrates with Gemini for Home. The company says its Connected Life system is the \"first\" home security product to integrate with Google Home Premium, enabling a bunch of Gemini-powered features that can summari",
         "source": "TheVerge"
       }
     ],
