@@ -1,7 +1,56 @@
 {
-  "ts": "2026-11-05T21:57:46.412639Z",
+  "ts": "2026-11-06T02:22:33.521921Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收支",
+        "link": "https://www.ithome.com.tw/news/180268",
+        "pubDate": "2026-11-06 08:38",
+        "description": "Anthropic公布Claude Personal Finance，讓使用者連結銀行及信用卡帳戶，透過AI整理收支、找出重複扣款與異常費用，還能製作財務圖表",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
+        "link": "https://www.ithome.com.tw/news/180221",
+        "pubDate": "2026-11-06 08:00",
+        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA提出關鍵基礎設施韌性4項重點，降低網路攻擊造成的營運衝擊",
+        "link": "https://www.ithome.com.tw/news/180234",
+        "pubDate": "2026-11-06 08:00",
+        "description": "美國CISA呼籲關鍵基礎設施業者盤點重要系統、優先處理重大營運風險，並制定復原計畫與進行演練，降低網路攻擊及其他中斷事件對重要服務的影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國NCSC預警2028年前AI惡意程式恐用於勒索軟體攻擊，威脅關鍵基礎設施",
+        "link": "https://www.ithome.com.tw/news/180196",
+        "pubDate": "2026-11-06 08:00",
+        "description": "英國NCSC評估，2028年前攻擊者極可能使用AI驅動的惡意程式，對英國關鍵基礎設施發動勒索軟體攻擊。AI不僅可能加快老舊系統已知漏洞的利用速度，新導入的AI工具也可能增加攻擊面",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資料安全業者Sentra獲1.5億美元投資，擴大AI代理安全業務",
+        "link": "https://www.ithome.com.tw/news/180235",
+        "pubDate": "2026-11-06 08:00",
+        "description": "隨著企業導入AI代理，如何避免這類代理取得超出工作需求的資料存取權限，成為新的資安管理課題。資料安全業者Sentra獲得1.5億美元C輪投資，將擴大AI代理資料安全業務，協助企業控管敏感資料的存取權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic擴大Claude文字浮水印部署，部分舊版模型仍未支援",
+        "link": "https://www.ithome.com.tw/news/180269",
+        "pubDate": "2026-11-06  09:11:53",
+        "description": "Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型版本，但Opus 4.6及Sonnet 4.6在某些情況下無法穩定生成浮水印。",
+        "source": "iThome"
+      },
+      {
+        "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
+        "link": "https://www.ithome.com.tw/news/180271",
+        "pubDate": "2026-11-06  09:11:05",
+        "description": "面對美國各地反對AI資料中心的聲浪，OpenAI周四（11/5）宣布新的社區承諾，將擴大公開資料中心用電、用水、噪音及環境影響資訊，並讓居民參與開發規畫，同時呼籲政府制定相關法規，保障地方社區權益。",
+        "source": "iThome"
+      },
       {
         "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
         "link": "https://www.ithome.com.tw/news/180262",
@@ -73,48 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "王品旗下萬鮮購物網站服務委外廠商系統出現異常資料存取",
-        "link": "https://www.ithome.com.tw/news/180246",
-        "pubDate": "2026-11-05 11:30",
-        "description": "餐飲集團王品（2727）旗下子公司萬鮮接獲委外購物網站服務廠商通知，其系統近期發現異常資料存取情形。廠商已阻擋異常存取行為，萬鮮也啟動資安事件應變及調查機制。目前萬鮮的購物網站營運正常，但實際受影響的資料範圍仍待釐清",
-        "source": "iThome資安"
-      },
-      {
-        "title": "葡萄王線上商城委外廠商資料庫遭異常存取，會員訂單及個資疑似外洩",
-        "link": "https://www.ithome.com.tw/news/180245",
-        "pubDate": "2026-11-05 11:24",
-        "description": "生技公司葡萄王線上商城「購健康」的委外服務廠商順立智慧（Cyberbiz）通知，部分資料庫遭未經授權異常存取，涉及商城訂單及消費者個人資料，葡萄王已啟動個資事故應變機制，並通報主管機關、通知會員提高防詐警覺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cisco修補UCS Central遠端程式碼執行漏洞",
-        "link": "https://www.ithome.com.tw/news/180242",
-        "pubDate": "2026-11-05 11:07",
-        "description": "UCS Central平臺網頁管理介面存在HTTP請求輸入驗證問題，可能導致遠端攻擊者執行任意指令、寫入檔案及竊取敏感資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "毛寶電商網站遭不明人士攻擊，已通報主管機關並通知受影響顧客",
-        "link": "https://www.ithome.com.tw/news/180240",
-        "pubDate": "2026-11-05 10:46",
-        "description": "生活清潔用品製造商毛寶（1732）發現，旗下電商網站遭外部不明人士發動異常網路攻擊，隨即啟動緊急應變機制，並委託第三方資安團隊進行調查與鑑識分析，初步評估對營運及財務尚無重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "AI驅動攻擊與鎖定AI系統的攻擊來勢洶洶，近兩千位全球企業高層有超過一半坦承無法招架",
-        "link": "https://www.ithome.com.tw/news/180232",
-        "pubDate": "2026-11-05 10:32",
-        "description": "10月初PwC發布2027全球數位信任洞察報告，調查結果指出，AI已成為企業安全的首要議題，在各類網路威脅中，企業對於「針對AI系統發動的攻擊」最缺乏應對準備。84%受訪者預期資安相關預算將增加，且AI為優先投資項目",
-        "source": "iThome資安"
-      },
-      {
-        "title": "C++26標準化遇罕見挫敗，Contracts設計爭議成關鍵",
-        "link": "https://www.ithome.com.tw/news/180248",
-        "pubDate": "2026-11-05  12:11:55",
-        "description": "C++26國際標準草案未通過國際標準化組織（ISO）各國標準機構表決，新版標準發布時程面臨延後。C++標準委員會WG21成員Andreas Fertig指出，10月下旬結束的國際標準草案（DIS）表決未達所需的三分之二多數支持，主要爭議集中在契約（Contracts）功能是否已成熟到足以納入標準。",
-        "source": "iThome"
-      },
-      {
         "title": "OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話",
         "link": "https://www.ithome.com.tw/news/180267",
         "pubDate": "2026-11-05  08:11:49",
@@ -133,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/180256",
         "pubDate": "2026-11-05  01:11:33",
         "description": "Apple WebKit團隊公布瀏覽器Safari 27.3測試版新功能自適應深色模式（Adaptive Dark Mode），可將未支援深色模式的淺色網站轉成深色顯示。使用者將系統外觀切換為深色，開啟背景明亮的網站時，Safari便會提供轉換效果預覽，點選試用後即可啟用。",
-        "source": "iThome"
-      },
-      {
-        "title": "OpenAI收購Pierre，擴充Codex程式碼管理與審查能力",
-        "link": "https://www.ithome.com.tw/news/180257",
-        "pubDate": "2026-11-05  01:11:01",
-        "description": "OpenAI周三（11/4）宣布，將收購開發者工具新創Pierre Computer Company，整合Pierre的Git版本控制、程式碼儲存及審查技術，擴充Codex的軟體開發能力，雙方並未公開交易金額。美國科技媒體Axios認為，這項收購顯示OpenAI正朝程式碼管理市場擴張，可能進一步挑戰微軟旗下GitHub的市場地位。",
         "source": "iThome"
       }
     ],
@@ -201,20 +201,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46%",
-        "link": "https://techorange.com/2026/11/04/apple-memory-price-surge-gross-margin-2026/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊Apple 營收創高！新任執行長示警記憶體漲價，旺季毛利率估降至 45%–46% 蘋果（Apple）11 月 2 日公布第四季財報，營收達 1,145 億美元、年增 12%，創歷年 9 月季度新高。上一季毛利率為 47.9%，其中約 1 個百分點來自關稅退款；公司預估 12 月旺季毛利率降至 45%–46%。今年 9 月接任的執行長約翰・特努斯（John Ternus）首次主持法說會，形容記憶體漲價前所未見，並預期採購成本持續上升。Apple ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 不必重新訓練也能修補？MIT 新研究讓 GPT-6 Astra 直接修改 Qwen 權重，數學測試成績提升近 6 倍",
-        "link": "https://techorange.com/2026/11/03/weight-space-programming-mit-csail/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 03 Nov 2026 16:35:01 +0800",
-        "description": "當 AI 模型出現問題，除了重新訓練或微調，能不能直接修改內部權重來修復？美國麻省理工學院電腦科學與人工智慧實驗室（MIT CSAIL）研究團隊公布一項實驗，利用 OpenAI 的 GPT-6 Astra，僅修改阿里巴巴 Qwen3.5-0.8B 約 0.016% 的神經網路權重，就讓模型在 MATH-500 數學測試中的正確率從 7.9% 提升至 48.1%，達到原先約 6 倍。 這項研究於 11/2 公布後，迅速引起 AI 技術社群關注。研究作者武日力也（Rikiya Takehi）在 X ",
-        "source": "TechOrange"
-      },
-      {
         "title": "歐洲超市冷凍櫃三週兩度遭駭、法國血庫也遇襲：設備管理介面為何成破口？",
         "link": "https://techorange.com/2026/11/05/europe-fridge-cyberattacks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 05 Nov 2026 15:49:46 +0800",
@@ -247,6 +233,20 @@
         "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 05 Nov 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 傳設 51% 非中企門檻，海外雲端算力業務恐受限 《Financial Times》11 月 3 日引述知情人士報導，NVIDIA 已透過業務團隊向部分資料中心與雲端合作夥伴傳達指引，要求未來至少 51% 的雲端服務業務面向非中國企業。這項要求目前沒有公開書面規則，主要針對未來新合約，不追溯既有租約。《The Information》也引述消息人士指出，這項指引尚非強制規定，也未作為硬性條件執行。NVIDIA 並未公開證實具體的 ",
+        "source": "TechOrange"
+      },
+      {
+        "title": "中國機器人競爭轉向 AI「大腦」：為何連訓練資料新創都募得 1 億美元？",
+        "link": "https://techorange.com/2026/11/06/china-ai-robotics-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 06:04:00 +0800",
+        "description": "當外界對中國人形機器人的印象，仍停留在機器人展會上的跑步、跳舞、翻筋斗，中國業者的競爭焦點已逐漸轉變。相較於展示靈活的運動能力，越來越多中國企業開始投入讓機器人理解環境、學習新任務的 AI「大腦」，希望讓機器人真正走進工廠與日常工作場域。 據《Reuters》近日報導，研究機構 ITjuzi 統計，中國具身 AI 產業今年上半年完成 322 筆融資，總額達 935 億人民幣，約為去年同期的 5 倍；資金不再只集中於機器人製造商，也開始流向專攻機器人 AI 模型與軟體技術的企業。 上海科技顧問公司",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Google 力挺 Anthropic 190 億美元資料中心租約！SpaceX 攜高通建 5G 網路",
+        "link": "https://techorange.com/2026/11/06/google-anthropic-ai-data-center-19-billion-lease/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Google 為 Anthropic 資料中心租約提供信用支持，20 年合約估 190 億美元 美國資料中心開發商 TeraWulf 11 月 4 日公告，Google 同意為 Anthropic 位於肯塔基州 Hawesville 的資料中心租約提供信用支持，協助降低融資風險。Anthropic 今年 7 月與 TeraWulf 簽署 20 年租約，承租約 401 MW 的關鍵 IT 負載容量，20 年租期預計帶來約 190 億美元收入。這筆",
         "source": "TechOrange"
       }
     ],
@@ -329,13 +329,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-        "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-        "pubDate": "Wed, 04 Nov 2026 10:00:10 -0500",
-        "description": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked malicious messag",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
         "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
         "pubDate": "Thu, 05 Nov 2026 22:12:46 +0530",
@@ -355,6 +348,13 @@
         "pubDate": "Thu, 05 Nov 2026 20:11:10 +0530",
         "description": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And while new ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+        "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+        "pubDate": "Thu, 05 Nov 2026 19:56:44 -0500",
+        "description": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+        "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+        "pubDate": "Thu, 05 Nov 2026 22:40:55 +0000",
+        "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Serve Robotics launches new business to become the AWS for robots",
         "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
         "pubDate": "Thu, 05 Nov 2026 21:15:00 +0000",
@@ -432,7 +439,7 @@
         "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
         "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
         "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
-        "description": "OpenAI president Greg Brockman says the company could be ready to go public in 2027, pointing to accelerating enterprise revenue and a turnaround in its business.",
+        "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
         "source": "TechCrunch"
       },
       {
@@ -478,59 +485,52 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Zipline hits $21.5B valuation as Walmart expands bet on drone delivery",
-        "link": "https://techcrunch.com/2026/11/05/zipline-hits-21-5b-valuation-as-walmart-expands-bet-on-drone-delivery/",
-        "pubDate": "Thu, 05 Nov 2026 15:40:34 +0000",
-        "description": "Zipline raised $1.5 billion and ramped up its partnership with Walmart.",
+        "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+        "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+        "pubDate": "Fri, 06 Nov 2026 00:07:18 +0000",
+        "description": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
         "source": "TechCrunch"
       },
       {
-        "title": "TikTok quietly launches a stand-alone TikTok Shop app",
-        "link": "https://techcrunch.com/2026/11/05/tiktok-quietly-launches-a-standalone-tiktok-shop-app/",
-        "pubDate": "Thu, 05 Nov 2026 15:33:58 +0000",
-        "description": "The app will offer personalized product recommendations, shopping through livestreams and short-form videos, app-exclusive deals, in-app checkout, order tracking, and customer support.",
+        "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+        "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+        "pubDate": "Fri, 06 Nov 2026 00:01:38 +0000",
+        "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
         "source": "TechCrunch"
       },
       {
-        "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-        "link": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure/",
-        "pubDate": "Thu, 05 Nov 2026 15:19:05 +0000",
-        "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The midterms proved once and for all that X is not real life",
-        "link": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
-        "pubDate": "2026-11-05T16:55:00-05:00",
-        "description": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't",
+        "title": "OpenAI is stepping back from NDAs for data center projects",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+        "pubDate": "2026-11-05T19:37:56-05:00",
+        "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure a",
         "source": "TheVerge"
       },
       {
-        "title": "Blue Origin’s next launch now won’t happen until 2027",
-        "link": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
-        "pubDate": "2026-11-05T15:47:14-05:00",
-        "description": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New",
+        "title": "Airbnb is working on an AI travel agent",
+        "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+        "pubDate": "2026-11-05T19:06:12-05:00",
+        "description": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a ",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
-        "pubDate": "2026-11-05T14:12:58-05:00",
-        "description": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the dev",
+        "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+        "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+        "pubDate": "2026-11-05T18:45:10-05:00",
+        "description": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently ru",
         "source": "TheVerge"
       },
       {
-        "title": "Muse has a voice mode now",
-        "link": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
-        "pubDate": "2026-11-05T14:03:04-05:00",
-        "description": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse ag",
+        "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+        "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+        "pubDate": "2026-11-05T18:17:10-05:00",
+        "description": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serio",
         "source": "TheVerge"
       },
       {
-        "title": "EA is bringing 25 classic PC games to Steam",
-        "link": "https://www.theverge.com/games/1023553/ea-classic-pc-games-steam-anniversary-edition",
-        "pubDate": "2026-11-05T13:30:00-05:00",
-        "description": "Electronic Arts is launching 25 classic games on Steam, including \"Anniversary Editions\" of the motorcycle racer Road Rash and six Wing Commander titles. These Anniversary Editions preserve \"the original look, feel and creative intent of the game\" bu",
+        "title": "Perplexity launches its own take on AI agents for work",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+        "pubDate": "2026-11-05T17:26:50-05:00",
+        "description": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you",
         "source": "TheVerge"
       }
     ],
@@ -674,6 +674,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Synology Products"
+      },
+      {
+        "title": "IBM WebSphere Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106",
+        "pubDate": "Fri, 06 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "IBM WebSphere Products"
       }
     ]
   }
