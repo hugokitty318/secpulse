@@ -1,9 +1,23 @@
 {
-  "ts": "2026-11-06T09:51:00.969222Z",
+  "ts": "2026-11-06T17:27:23.910304Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "【資安週報】1102～1106，電商服務供應鏈資安風波延燒、永豐銀行異常轉帳確認為資安事件",
+        "title": "憑證效期持續縮短，普鴻看好企業自動化管理需求逐漸浮現",
+        "link": "https://www.ithome.com.tw/news/180293",
+        "pubDate": "2026-11-06 18:37",
+        "description": "面對公開信任TLS憑證有效期持續縮短的態勢，企業憑證自動化管理需求日益受到重視。我們注意到，普鴻資訊今年推出憑證生命週期管理產品ProCLM，提供憑證效期監控、自動更新及部署等功能，還可搭配自行研發的PQC6000後量子密碼學硬體加解密卡，透過硬體安全機制進一步強化金鑰保護能力。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "普鴻積極布局PQC解決方案，發展五大密碼學治理能力，自研演算法實作通過CAVP驗證",
+        "link": "https://www.ithome.com.tw/news/180292",
+        "pubDate": "2026-11-06 18:24",
+        "description": "普鴻資訊揭露今年正擴大後量子密碼學（PQC）產品布局，除了自主研發的密碼學演算法實作於今年10月取得NIST CAVP驗證，並推出PQC6000後量子密碼硬體加解密卡，也針對企業PQC遷移需求，推出適用其資安融合機的五大產品，涵蓋密碼資產盤點、憑證與金鑰管理，以及加密敏捷等領域，同時擴展非金融業領域應用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】1102～1106，電商服務供應鏈資安風波多家同時延燒、永豐銀行異常轉帳確認為資安事件",
         "link": "https://www.ithome.com.tw/news/180291",
         "pubDate": "2026-11-06 17:05",
         "description": "回顧2026年11月第一週的資安動態，最受關注的莫過於1shop、Cyberbiz、meepShop與莫筆克科技等多家臺灣電商服務與ERP業者接連傳出資安事件或疑慮，永豐銀行客戶異常轉帳確認涉及駭客攻擊，以及群暉NAS遭C3RB3R勒索軟體攻擊",
@@ -80,13 +94,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
-        "link": "https://www.ithome.com.tw/news/180221",
-        "pubDate": "2026-11-06 08:00",
-        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
-        "source": "iThome資安"
-      },
-      {
         "title": "Chainalysis遭駭波及使用者密碼與權杖，暫停加密貨幣交易監控服務",
         "link": "https://www.ithome.com.tw/news/180206",
         "pubDate": "2026-11-06 08:00",
@@ -94,24 +101,31 @@
         "source": "iThome資安"
       },
       {
-        "title": "CISA提出關鍵基礎設施韌性4項重點，降低網路攻擊造成的營運衝擊",
-        "link": "https://www.ithome.com.tw/news/180234",
+        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
+        "link": "https://www.ithome.com.tw/news/180221",
         "pubDate": "2026-11-06 08:00",
-        "description": "美國CISA呼籲關鍵基礎設施業者盤點重要系統、優先處理重大營運風險，並制定復原計畫與進行演練，降低網路攻擊及其他中斷事件對重要服務的影響",
+        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
         "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic擴大Claude文字浮水印部署，部分舊版模型仍未支援",
-        "link": "https://www.ithome.com.tw/news/180269",
-        "pubDate": "2026-11-06  09:11:53",
-        "description": "Anthropic本周公告，將文字浮水印推向更早期推出的Claude模型版本，但Opus 4.6及Sonnet 4.6在某些情況下無法穩定生成浮水印。",
-        "source": "iThome"
       },
       {
         "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
         "link": "https://www.ithome.com.tw/news/180271",
         "pubDate": "2026-11-06  09:11:05",
         "description": "面對美國各地反對AI資料中心的聲浪，OpenAI周四（11/5）宣布新的社區承諾，將擴大公開資料中心用電、用水、噪音及環境影響資訊，並讓居民參與開發規畫，同時呼籲政府制定相關法規，保障地方社區權益。",
+        "source": "iThome"
+      },
+      {
+        "title": "GitHub改版PR總覽頁面，集中顯示合併狀態與待處理事項",
+        "link": "https://www.ithome.com.tw/news/180290",
+        "pubDate": "2026-11-06  06:11:56",
+        "description": "GitHub推出新版拉取請求（Pull Request，PR）總覽頁面（Overview），將合併狀態、檢查結果及下一步操作集中顯示在頁面上方，方便開發者確認尚未通過的檢查與待處理事項。新版也加入討論篩選、留言排序及近期活動摘要功能，讓開發者更容易掌握PR的審查進度。新版目前採自願啟用的公開預覽形式，GitHub已開始逐步開放。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google Compute Engine API支援多版本並行，既有系統不必跟隨升級",
+        "link": "https://www.ithome.com.tw/news/180294",
+        "pubDate": "2026-11-06  06:11:05",
+        "description": "Google在Compute Engine API加入多版本管理機制，讓既有/v1 API與依日期命名的新版API並行運作。企業可指定使用特定版本，完成測試後再自行安排升級，不必隨著Google更新API而修改既有自動化程式。",
         "source": "iThome"
       },
       {
@@ -127,13 +141,6 @@
         "pubDate": "2026-11-06  01:11:08",
         "description": "Google周四（11/5）宣布，將投資170億美元，在美國懷俄明州興建首座資料中心，並採用不同於傳統資料中心主要仰賴電網的供電模式，導入702MW天然氣燃料電池，結合碳捕捉與封存（CCS）技術，以穩定供電並降低碳排放。Google也承諾自行負擔用電及相關基礎設施成本，避免轉嫁給當地居民。",
         "source": "iThome"
-      },
-      {
-        "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
-        "link": "https://www.ithome.com.tw/news/180262",
-        "pubDate": "2026-11-05 17:07",
-        "description": "APT套件下載重試機制存在驗證漏洞，攻擊者可在特定條件下替換已驗證的軟體套件，以root權限執行惡意程式碼，Debian與Ubuntu已發布修補，衍生系統也可能受影響",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -166,10 +173,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】NVIDIA 傳設 51% 非中企門檻！SK 海力士 450 億美元美國建廠案遇阻",
-        "link": "https://techorange.com/2026/11/05/nvidia-china-cloud-restrictions-sk-hynix-us-chip-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 05 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊NVIDIA 傳設 51% 非中企門檻，海外雲端算力業務恐受限 《Financial Times》11 月 3 日引述知情人士報導，NVIDIA 已透過業務團隊向部分資料中心與雲端合作夥伴傳達指引，要求未來至少 51% 的雲端服務業務面向非中國企業。這項要求目前沒有公開書面規則，主要針對未來新合約，不追溯既有租約。《The Information》也引述消息人士指出，這項指引尚非強制規定，也未作為硬性條件執行。NVIDIA 並未公開證實具體的 ",
+        "title": "國際創投與產業領袖齊聚臺北！t.Hub 11/18 國際交流會解析 Digital Twin 與 Physical AI 趨勢",
+        "link": "https://techorange.com/2026/11/06/thub-digital-twin-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 17:03:41 +0800",
+        "description": "生成式 AI 熱潮之後，下一個戰場已不在螢幕裡，而在工廠、設備與營運現場。t.Hub 內科創新育成基地將於 2026 年 11 月 18 日（三）舉辦「Empowering the Future 2026 t.Hub 國際交流會暨投資媒合會」，邀集國際創投合夥人與智慧製造實戰專家，聚焦數位孿生（Digital Twin）與實體 AI（Physical AI）兩大趨勢，直擊 AI 從軟體走進真實場域的投資動向與商機。對擁有深厚硬體與製造實力的臺灣而言，這波浪潮正是將產業底蘊轉化為 AI 競爭力的關",
         "source": "TechOrange"
       },
       {
@@ -245,55 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-        "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-        "pubDate": "Wed, 04 Nov 2026 22:30:46 +0530",
-        "description": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own.\n\nThe attacker's code then runs as root, according to advisories that Debian, Ubuntu, and APT's deve",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-        "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-        "pubDate": "Wed, 04 Nov 2026 22:30:38 +0530",
-        "description": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Vercel rolls out new protection against stolen session cookie attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-        "pubDate": "Wed, 04 Nov 2026 16:31:18 -0500",
-        "description": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-        "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-        "pubDate": "Wed, 04 Nov 2026 15:58:19 -0500",
-        "description": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-        "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-        "pubDate": "Wed, 04 Nov 2026 14:05:19 -0500",
-        "description": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-        "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-        "pubDate": "Wed, 04 Nov 2026 13:02:56 -0500",
-        "description": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-        "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-        "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
-        "description": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
         "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
         "pubDate": "Thu, 05 Nov 2026 22:12:46 +0530",
@@ -357,13 +315,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-        "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-        "pubDate": "Thu, 05 Nov 2026 14:43:28 +0530",
-        "description": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as pho",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
         "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
         "pubDate": "Thu, 05 Nov 2026 14:24:26 -0500",
@@ -371,18 +322,74 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-        "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-        "pubDate": "Thu, 05 Nov 2026 14:12:03 +0530",
-        "description": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in t",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
         "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
         "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500",
         "description": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+        "pubDate": "Thu, 05 Nov 2026 11:24:26 -0500",
+        "description": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "DigiCert data breach exposes customer information, identity documents",
+        "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+        "pubDate": "Thu, 05 Nov 2026 11:12:46 -0500",
+        "description": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Closing the Identity Gap at the Service Desk",
+        "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+        "pubDate": "Thu, 05 Nov 2026 10:00:10 -0500",
+        "description": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no longer sufficien",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+        "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+        "pubDate": "Thu, 05 Nov 2026 04:18:29 -0500",
+        "description": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+        "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+        "pubDate": "Fri, 06 Nov 2026 21:38:38 +0530",
+        "description": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it.\n\nThe update that installs the fix still unpacks its files using the site's old",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+        "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+        "pubDate": "Fri, 06 Nov 2026 20:51:49 +0530",
+        "description": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian.\n\nThe vulnerability, tracked as CVE-2026-123158 (CVSS score: 8.1) and ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+        "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+        "pubDate": "Fri, 06 Nov 2026 20:28:32 +0530",
+        "description": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment.\n\nThe new model is \"more capable at fi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+        "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+        "pubDate": "Fri, 06 Nov 2026 17:36:43 +0530",
+        "description": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates.\n\nThe fixed build, 11.2609.401.0, was the newest Paint build in all t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+        "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+        "pubDate": "Fri, 06 Nov 2026 17:36:35 +0530",
+        "description": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe attack needs Dispatch, a Claude feature that lets p",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -408,59 +415,59 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-        "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-        "pubDate": "Thu, 05 Nov 2026 19:12:39 +0000",
-        "description": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+        "title": "After the midterms, is the AI industry in for a rough two years?",
+        "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+        "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
+        "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI released a new cybersecurity model. Is that enough?",
-        "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-        "pubDate": "Thu, 05 Nov 2026 19:06:12 +0000",
-        "description": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+        "title": "Pentagon offers battery startup 6K $250M loan to build U.S. factory",
+        "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+        "pubDate": "Fri, 06 Nov 2026 16:50:01 +0000",
+        "description": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
         "source": "TechCrunch"
       },
       {
-        "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-        "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-        "pubDate": "Thu, 05 Nov 2026 18:48:34 +0000",
-        "description": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+        "title": "Fox completes its $22B acquisition of Roku",
+        "link": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+        "pubDate": "Fri, 06 Nov 2026 16:05:36 +0000",
+        "description": "A few months after DOJ investigators were probing the deal, Fox just completed its $22B acquisition of the streaming giant Roku.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-        "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-        "pubDate": "Thu, 05 Nov 2026 18:02:27 +0000",
-        "description": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+        "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
+        "link": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
+        "pubDate": "Fri, 06 Nov 2026 15:54:47 +0000",
+        "description": "AI usage keeps climbing, but spending has stalled. Price cuts and smarter cost controls among the biggest spenders could challenge investor assumptions about AI hypergrowth.",
         "source": "TechCrunch"
       },
       {
-        "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-        "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-        "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
-        "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+        "title": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "link": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+        "pubDate": "Fri, 06 Nov 2026 14:10:00 +0000",
+        "description": "Amazon said that the feature will roll out to millions of users in coming weeks.",
         "source": "TechCrunch"
       },
       {
-        "title": "Claude can now analyze your spending with its new Personal Finance tool",
-        "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-        "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
-        "description": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+        "title": "Underdog shows off a 32MB speech model in new demo",
+        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
+        "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
+        "description": "Despite its small size, Underdog's new model can generate both speech and music.",
         "source": "TechCrunch"
       },
       {
-        "title": "Harbinger raises $240M after expanding into defense",
-        "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-        "pubDate": "Thu, 05 Nov 2026 17:52:44 +0000",
-        "description": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+        "title": "Physicl raises $10M to make the digital world real enough for robots",
+        "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+        "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
+        "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
         "source": "TechCrunch"
       },
       {
-        "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
-        "link": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
-        "pubDate": "Thu, 05 Nov 2026 17:11:48 +0000",
-        "description": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+        "title": "Tesla will stop making the Cybertruck in 2027",
+        "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
+        "pubDate": "Fri, 06 Nov 2026 11:50:10 +0000",
+        "description": "Elon Musk said the company will use the factory space to make more Cybercabs.",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI is stepping back from NDAs for data center projects",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
-        "pubDate": "2026-11-05T19:37:56-05:00",
-        "description": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure a",
+        "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+        "link": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+        "pubDate": "2026-11-06T11:39:15-05:00",
+        "description": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use c",
         "source": "TheVerge"
       },
       {
-        "title": "Airbnb is working on an AI travel agent",
-        "link": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
-        "pubDate": "2026-11-05T19:06:12-05:00",
-        "description": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a ",
+        "title": "Big Tech lost big in the 2026 election",
+        "link": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast",
+        "pubDate": "2026-11-06T11:38:02-05:00",
+        "description": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to ",
         "source": "TheVerge"
       },
       {
-        "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
-        "link": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
-        "pubDate": "2026-11-05T18:45:10-05:00",
-        "description": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently ru",
+        "title": "How Akai and Moog are embracing vibe-coded mods",
+        "link": "https://www.theverge.com/tech/1028720/vibe-coding-open-source-inmusic-akai",
+        "pubDate": "2026-11-06T11:34:39-05:00",
+        "description": "inMusic, the parent company of Akai, Moog, Native Instruments, and more, has decided to embrace the modding community. In an interview with The Verge, inMusic CEO Jack O'Donnell said, \"We're going to provide a toolbox to the community, we're going to",
         "source": "TheVerge"
       },
       {
-        "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
-        "link": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
-        "pubDate": "2026-11-05T18:17:10-05:00",
-        "description": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim Höttges says he takes the Elon Musk-owned company \"super serio",
+        "title": "This see-through camera lets photographers maintain eye contact with their subjects",
+        "link": "https://www.theverge.com/tech/1028632/lutra-humans-of-authenticity-hoa-a1-transparent-digital-camera",
+        "pubDate": "2026-11-06T10:33:03-05:00",
+        "description": "Lutra, a South Korean startup, has debuted a new brand called Humans of Authenticity (HOA) that's launching another screen-free digital camera that incorporates a large open viewfinder into its design, as spotted by PetaPixel. The camera is reminisce",
         "source": "TheVerge"
       },
       {
-        "title": "Perplexity launches its own take on AI agents for work",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
-        "pubDate": "2026-11-05T17:26:50-05:00",
-        "description": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you",
+        "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
+        "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
+        "pubDate": "2026-11-06T10:27:09-05:00",
+        "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99",
         "source": "TheVerge"
       }
     ],
