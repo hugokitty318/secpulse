@@ -1,7 +1,63 @@
 {
-  "ts": "2026-11-06T02:22:33.521921Z",
+  "ts": "2026-11-06T09:51:00.969222Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "【資安週報】1102～1106，電商服務供應鏈資安風波延燒、永豐銀行異常轉帳確認為資安事件",
+        "link": "https://www.ithome.com.tw/news/180291",
+        "pubDate": "2026-11-06 17:05",
+        "description": "回顧2026年11月第一週的資安動態，最受關注的莫過於1shop、Cyberbiz、meepShop與莫筆克科技等多家臺灣電商服務與ERP業者接連傳出資安事件或疑慮，永豐銀行客戶異常轉帳確認涉及駭客攻擊，以及群暉NAS遭C3RB3R勒索軟體攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月6日，OpenSSH修補長密碼身分驗證繞過漏洞",
+        "link": "https://www.ithome.com.tw/news/180289",
+        "pubDate": "2026-11-06 15:19",
+        "description": "OpenSSH緊急修補身分驗證繞過漏洞SSHole（CVE-2026-123158）而成為資安界焦點，特別的是，該弱點竟源自OpenSSH、musl、Alpine Linux等專案導入的防護機制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SonicWall GMS爆出免登入檔案讀取漏洞，產品退役無修補可用",
+        "link": "https://www.ithome.com.tw/news/180287",
+        "pubDate": "2026-11-06 14:37",
+        "description": "防火牆廠商SonicWall的GMS管理平臺出現兩項漏洞，最高風險評分9.1分，攻擊者可能免登入讀取內部檔案。由於產品已終止支援，9.5.2版本也無修補可用，官方建議遷移至NSM",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI發表GPT-6 Cyber，找出Firefox 81個未知高風險漏洞",
+        "link": "https://www.ithome.com.tw/news/180285",
+        "pubDate": "2026-11-06 12:47",
+        "description": "OpenAI新推出的資安專用AI模型GPT-6 Cyber，在Firefox找出81個先前未知的高風險漏洞，並針對Linux核心948項漏洞開發出可實際運作的提權攻擊程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NTT Docomo線上服務遭駭，可能洩露30萬筆用戶個資",
+        "link": "https://www.ithome.com.tw/news/180283",
+        "pubDate": "2026-11-06 12:05",
+        "description": "日本電信業者NTT Docomo遭駭客入侵，旗下線上商店及My docomo服務受到影響，最多可能有30萬筆用戶個資外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenSSH發布緊急更新，修補可利用長密碼繞過身分驗證的資安漏洞SSHole",
+        "link": "https://www.ithome.com.tw/news/180281",
+        "pubDate": "2026-11-06 11:43",
+        "description": "資安研究公司Wakefield揭露OpenSSH存在長達10年的密碼驗證繞過漏洞SSHole（CVE-2026-123158），影響採用musl C函式庫、未啟用PAM的Linux系統。攻擊者只要輸入257至1,024個字元的任意密碼，就可能登入原本未設定密碼的帳號，甚至能在部分Alpine Linux雲端環境取得root權限",
+        "source": "iThome資安"
+      },
+      {
+        "title": "騰勢委外線上服務系統遭異常存取，已啟動資安應變並調查影響範圍",
+        "link": "https://www.ithome.com.tw/news/180275",
+        "pubDate": "2026-11-06 10:44",
+        "description": "興櫃公司騰勢（7889）發布資安重訊，委外服務廠商通知其委外服務系統發現異常資料存取情形，該廠商已阻擋異常存取行為，騰勢也啟動資安事件應變與調查機制，目前評估對公司營運及財務沒有重大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "遠東生技電子商城委外廠商發生資安事件，訂單及個資是否外洩仍待釐清",
+        "link": "https://www.ithome.com.tw/news/180274",
+        "pubDate": "2026-11-06 10:32",
+        "description": "興櫃公司遠東生技（6886）發布資安重訊，電子商城委外服務廠商順立智慧（CYBERBIZ）發生資安事件，資料庫部分資料遭未經授權存取，當中包含遠東生技電子商城訂單及消費者個人資料",
+        "source": "iThome資安"
+      },
       {
         "title": "Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收支",
         "link": "https://www.ithome.com.tw/news/180268",
@@ -10,17 +66,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
-        "link": "https://www.ithome.com.tw/news/180221",
+        "title": "資料安全業者Sentra獲1.5億美元投資，擴大AI代理安全業務",
+        "link": "https://www.ithome.com.tw/news/180235",
         "pubDate": "2026-11-06 08:00",
-        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA提出關鍵基礎設施韌性4項重點，降低網路攻擊造成的營運衝擊",
-        "link": "https://www.ithome.com.tw/news/180234",
-        "pubDate": "2026-11-06 08:00",
-        "description": "美國CISA呼籲關鍵基礎設施業者盤點重要系統、優先處理重大營運風險，並制定復原計畫與進行演練，降低網路攻擊及其他中斷事件對重要服務的影響",
+        "description": "隨著企業導入AI代理，如何避免這類代理取得超出工作需求的資料存取權限，成為新的資安管理課題。資料安全業者Sentra獲得1.5億美元C輪投資，將擴大AI代理資料安全業務，協助企業控管敏感資料的存取權限",
         "source": "iThome資安"
       },
       {
@@ -31,10 +80,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "資料安全業者Sentra獲1.5億美元投資，擴大AI代理安全業務",
-        "link": "https://www.ithome.com.tw/news/180235",
+        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
+        "link": "https://www.ithome.com.tw/news/180221",
         "pubDate": "2026-11-06 08:00",
-        "description": "隨著企業導入AI代理，如何避免這類代理取得超出工作需求的資料存取權限，成為新的資安管理課題。資料安全業者Sentra獲得1.5億美元C輪投資，將擴大AI代理資料安全業務，協助企業控管敏感資料的存取權限",
+        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Chainalysis遭駭波及使用者密碼與權杖，暫停加密貨幣交易監控服務",
+        "link": "https://www.ithome.com.tw/news/180206",
+        "pubDate": "2026-11-06 08:00",
+        "description": "區塊鏈分析業者Chainalysis遭駭，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也暫停部分服務，要求使用者重設密碼、視情況更換API金鑰",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA提出關鍵基礎設施韌性4項重點，降低網路攻擊造成的營運衝擊",
+        "link": "https://www.ithome.com.tw/news/180234",
+        "pubDate": "2026-11-06 08:00",
+        "description": "美國CISA呼籲關鍵基礎設施業者盤點重要系統、優先處理重大營運風險，並制定復原計畫與進行演練，降低網路攻擊及其他中斷事件對重要服務的影響",
         "source": "iThome資安"
       },
       {
@@ -52,154 +115,28 @@
         "source": "iThome"
       },
       {
+        "title": "Amazon S3 Tables支援Hive轉Iceberg託管遷移，企業免自建資料轉換管線",
+        "link": "https://www.ithome.com.tw/news/180282",
+        "pubDate": "2026-11-06  01:11:57",
+        "description": "AWS釋出Amazon S3 Tables新增Apache Hive轉Apache Iceberg託管遷移功能，可將儲存在Amazon S3，且已登錄AWS Glue Data Catalog的Parquet格式Hive資料表移入S3 Tables。資料驗證、格式轉換與搬移由服務處理，企業不必自行建置遷移管線或配置運算資源，而且來源資料表在大部分遷移期間還可繼續使用。",
+        "source": "iThome"
+      },
+      {
+        "title": "Google擴大AI基礎設施投資，首度進駐懷俄明州建資料中心",
+        "link": "https://www.ithome.com.tw/news/180286",
+        "pubDate": "2026-11-06  01:11:08",
+        "description": "Google周四（11/5）宣布，將投資170億美元，在美國懷俄明州興建首座資料中心，並採用不同於傳統資料中心主要仰賴電網的供電模式，導入702MW天然氣燃料電池，結合碳捕捉與封存（CCS）技術，以穩定供電並降低碳排放。Google也承諾自行負擔用電及相關基礎設施成本，避免轉嫁給當地居民。",
+        "source": "iThome"
+      },
+      {
         "title": "Debian、Ubuntu修補高風險APT套件漏洞，中間人可替換套件取得root權限",
         "link": "https://www.ithome.com.tw/news/180262",
         "pubDate": "2026-11-05 17:07",
         "description": "APT套件下載重試機制存在驗證漏洞，攻擊者可在特定條件下替換已驗證的軟體套件，以root權限執行惡意程式碼，Debian與Ubuntu已發布修補，衍生系統也可能受影響",
         "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月5日，法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
-        "link": "https://www.ithome.com.tw/news/180260",
-        "pubDate": "2026-11-05 14:57",
-        "description": "攻擊者透過第三方冷藏設備供應商入侵監控系統，試圖調高冷藏室溫度，所幸監控與警報系統及時發現異常，未造成血液製品損失",
-        "source": "iThome資安"
-      },
-      {
-        "title": "熱門遊戲《勝利女神：妮姬》遭遇供應鏈攻擊，玩家電腦恐被植入竊資軟體",
-        "link": "https://www.ithome.com.tw/news/180259",
-        "pubDate": "2026-11-05 14:35",
-        "description": "韓國遊戲公司Shift Up開發的《勝利女神：妮姬》電腦版遊戲啟動器遭駭客竄改引起全球玩家關注，攻擊者利用遭入侵的JavaScript檔案散布惡意程式，遠端控制受害電腦、竊取遊戲帳號與瀏覽器資料。遊戲發行商Level Infinite緊急發布更新修復問題，目前仍在調查事件影響範圍",
-        "source": "iThome資安"
-      },
-      {
-        "title": "法國銀行Crédit Mutuel Arkéa遭網攻，傳逾1.18億歐元遭攻擊者轉走",
-        "link": "https://www.ithome.com.tw/news/180255",
-        "pubDate": "2026-11-05 13:06",
-        "description": "攻擊者透過外部供應商平臺取得銀行存取管道，利用銀行行方自身帳戶向其他金融機構進行未授權轉帳",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國駭客利用Zyxel GS1900系列交換器零時差漏洞並竊得敏感資料",
-        "link": "https://www.ithome.com.tw/news/180254",
-        "pubDate": "2026-11-05 12:45",
-        "description": "針對Zyxel GS1900系列交換器零時差漏洞CVE-2026-107441的發現，通報此事的韌體安全公司Binarly指出，源自他們對先前一起中國駭客攻擊活動的最新調查結果",
-        "source": "iThome資安"
-      },
-      {
-        "title": "法國國家血液機構冷藏設備遭網路攻擊，3處設施溫度控制遭竄改",
-        "link": "https://www.ithome.com.tw/news/180253",
-        "pubDate": "2026-11-05 12:18",
-        "description": "攻擊者透過第三方冷藏設備供應商入侵監控系統，試圖調高冷藏溫度，所幸警報及時發現，未造成血液製品損失",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Zyxel GS1900系列交換器存在越界寫入漏洞，攻擊者不需通過身分驗證就能執行作業系統命令",
-        "link": "https://www.ithome.com.tw/news/180252",
-        "pubDate": "2026-11-05 12:16",
-        "description": "網通設備製造商兆勤（Zyxel）修補GS1900系列交換器中的越界寫入漏洞CVE-2026-107441，位於區域網路（LAN）內且未經身分驗證的攻擊者，有機會透過特製HTTP請求觸發漏洞，並執行作業系統命令，管理者應儘速套用新版韌體因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本外務省網站被駭3,600筆個資恐外洩，但強調非機要外交通訊",
-        "link": "https://www.ithome.com.tw/news/180251",
-        "pubDate": "2026-11-05 12:08",
-        "description": "日本外務省發生資安事件，對外通訊網路遭到未授權存取，約3,600筆個資可能外洩，包括姓名、電子郵件地址，其中約900筆涉及外務省以外人士",
-        "source": "iThome資安"
-      },
-      {
-        "title": "俄羅斯駭客APT29發動大規模水坑式攻擊，竊取iOS與Android裝置帳密及資料",
-        "link": "https://www.ithome.com.tw/news/180250",
-        "pubDate": "2026-11-05 11:58",
-        "description": "資安公司Sekoia揭露，俄羅斯駭客組織APT29發動大規模水坑攻擊，透過入侵合法網站、偽冒知名網站及供應鏈攻擊等管道，將惡意JavaScript植入網頁，再利用已知漏洞攻擊iOS與Android裝置，竊取瀏覽器Cookie、Wi-Fi密碼，以及手機內的通訊錄、帳號與個人資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "棉花田委外購物平臺發生資安事件，已阻擋異常資料存取行為，影響範圍仍待調查",
-        "link": "https://www.ithome.com.tw/news/180247",
-        "pubDate": "2026-11-05 11:37",
-        "description": "中天生技子公司棉花田生機園地發生資安事故，委外購物網站服務廠商近期發現系統出現異常資料存取情形，棉花田隨即啟動資安事件應變機制，目前網站營運正常，初步評估對公司營運無重大影響，但受影響資料範圍仍待調查確認",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI揭露AI助理個人化瓶頸，模型仍難善用過往對話",
-        "link": "https://www.ithome.com.tw/news/180267",
-        "pubDate": "2026-11-05  08:11:49",
-        "description": "OpenAI公布日常生活任務基準測試LifeVal，研究發現，即使AI助理能存取使用者過往的ChatGPT對話，仍可能漏掉完成任務所需的個人資訊。在被判定需要從歷史對話取得資訊的評分條件中，平均達標率僅33.33%，反映出運用過往對話的能力仍有不足。",
-        "source": "iThome"
-      },
-      {
-        "title": "公路局擬擴大推動無人機AI巡檢，結合3D建模、AI影像辨識提升橋梁與邊坡養護效率",
-        "link": "https://www.ithome.com.tw/news/180263",
-        "pubDate": "2026-11-05  05:11:26",
-        "description": "臺灣山區地形陡峭、地質破碎，加上颱風、地震頻繁，許多公路與橋梁沿著山區興建，邊坡、橋梁梁底及橋墩等設施長期面臨巡檢不易的挑戰。交通部公路局副局長周廷彰表示，過去巡檢多仰賴人工步行、攀爬或橋梁檢測車，不僅耗時，也伴隨一定作業風險。公路局近年逐步導入無人機，利用高空影像快速掌握橋梁、邊坡等人員不易到達的位置，減少工程人員進入危險區域的需求。\n不過，公路局的目標已不只是利用無人機空拍，而是進一步將巡檢數位化、智慧化。周廷彰指出，目前無人機的3個應用方向，一是定期巡檢邊坡，及早發現災害徵兆，二是災害發生",
-        "source": "iThome"
-      },
-      {
-        "title": "Safari 27.3測試網頁自動轉暗，WebKit引擎可依內容調整文字與圖示配色",
-        "link": "https://www.ithome.com.tw/news/180256",
-        "pubDate": "2026-11-05  01:11:33",
-        "description": "Apple WebKit團隊公布瀏覽器Safari 27.3測試版新功能自適應深色模式（Adaptive Dark Mode），可將未支援深色模式的淺色網站轉成深色顯示。使用者將系統外觀切換為深色，開啟背景明亮的網站時，Safari便會提供轉換效果預覽，點選試用後即可啟用。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "ChatGPT「類搜尋查詢」達 Google 五分之一，Google 查詢成長率卻創 5 年新高？兩組數字為何不矛盾",
-        "link": "https://techorange.com/2026/11/04/chatgpt-search-one-fifth-google-query-growth/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 17:21:10 +0800",
-        "description": "ChatGPT 消費產品負責人 Adam Fry，美國時間 11/2 晚間在 OpenAI 於紐約舉辦的晚宴上，與《Big Technology》的 Alex Kantrowitz 進行簡短的爐邊對談。根據《Big Technology》報導，OpenAI 分析了 ChatGPT 的搜尋量，並與 Google 進行比較。Fry 表示，「ChatGPT 的類搜尋查詢量，目前約為 Google 查詢量的五分之一」。 不到一週前，Google 執行長 Sundar Pichai 才在第三季財報會議上表",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 代理替客戶動錢，誰來把關？美國大銀行先擋，香港金管局研議身分與授權驗證",
-        "link": "https://techorange.com/2026/11/04/hkma-project-sage-agentic-finance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 16:41:56 +0800",
-        "description": "香港金融管理局（下稱金管局）11/2 宣布推出 SAGE 項目，成立代理式金融專家小組，和業界探索代理式購物、企業財資管理等應用；同日也發布討論文件，就外部 AI 代理替客戶向認可機構（Authorized Institutions，下稱銀行）下指令時，銀行該怎麼把關，徵詢業界意見。根據金管局說明，認可機構是依香港《銀行業條例》獲認可、可經營接受存款業務的機構，持牌銀行即屬此類。 10 月中旬，摩根大通、嘉信理財、花旗與美國銀行才陸續表態，限制外部 AI 代理操作客戶帳戶。同樣面對 AI 代理能",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 機器人不只要聰明，更要安全！VicOne 於 GTC Berlin 展示 Rthena 即時資安防護技術",
-        "link": "https://techorange.com/2026/11/04/vicone-gtc-berlin-rthena-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 15:33:07 +0800",
-        "description": "在中國的街頭門市裡，一台重達 15 公斤的機器狗已經像智慧型手機一樣擺在店面販售，價格才 1 萬人民幣。Physical AI 浪潮正快速湧入真實世界，工廠裡的自主移動機器人（AMR）與協作型機械手臂（Cobot）裝上視覺與 AI 大腦，已從固定任務走向彈性協作，並加速落地在巡檢維護、清潔、物流與醫療等日常場景中。 「機器人結合了硬體、AI 與軟體，它不只是一台有 AI 大腦的電腦，更是走進我們生活中的『新物種』，」VicOne 執行長鄭奕立指出，傳統電腦算 3 加 5 永遠等於 8，但實體 A",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 代理失控喊停就夠了嗎？從 CrowdStrike「終止開關」看代理治理四道關卡",
-        "link": "https://techorange.com/2026/11/04/crowdstrike-ai-kill-switch-agent-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 12:54:18 +0800",
-        "description": "7 月由失控的 OpenAI 代理策動的 Hugging Face 入侵事件，讓企業格外警覺；今年夏天，美國眾議員也提出兩黨法案，要求 AI 公司在模型中內建停機能力。CrowdStrike 於 11/3 在巴塞隆納舉行的 Fal.Con Europe 2026 宣布推出「AI 終止開關（AI Kill Switch）」，並表示這項功能讓資安人員能在人為掌控下，從根源終止失控的 AI 代理。 CrowdStrike 指出，AI 代理擁有橫跨端點、雲端與 SaaS 的系統層級存取權限，即使沒有攻擊",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Apple 加速 Siri AI Agent 化：開放第三方 App 自訂操作，還能串接多步驟任務",
-        "link": "https://techorange.com/2026/11/04/apple-siri-ai-open-to-all-developers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 11:10:58 +0800",
-        "description": "AI Agent 正逐漸從回答問題，走向替使用者執行任務，手機上的智慧助理也開始扮演不同角色。當 Google 已讓 Gemini 嘗試代替使用者叫車、點餐，Apple 也正擴大 Siri 操作第三方 App 的能力。 根據 Apple 最新開發者公告，Apple 宣布向所有開發者開放新一代 Siri AI 整合，並引入 Skills 機制，讓 Siri 不只能呼叫 App 功能，還能將多個操作串接成完整任務。這項更新，也讓 Siri 朝手機 AI Agent 的任務執行入口更進一步。 從查訂單",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【可靠的代理人懂得暫停】讓 AI 代理行動前先產出計畫，比對權限範圍再決定執行",
-        "link": "https://techorange.com/2026/11/04/designing-ai-agents-to-prevent-mistakes/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 10:17:56 +0800",
-        "description": "AI 代理人能自主執行的任務越來越複雜，做出的決策影響也越來越大，如何降低出錯機率，已成為設計時的優先課題。 代理人是否可靠，不只取決於模型本身有多聰明。對此，來自晶片、金融、資安、網路平台與軟體等領域的專家，分別提出降低代理人出錯的設計做法。 讓推理盡量貼近原始資料 邊緣 AI 晶片公司 Kneron 的全球技術策略與溝通總監 Tiffany Chang 指出，AI 很少一次全面失誤，而是逐步偏移。資料在不同系統之間傳遞時，細小的脈絡會一點一點流失，等到模型做出結論，這些微小損失可能已累積成錯",
-        "source": "TechOrange"
-      },
-      {
-        "title": "讓 AI 不只回答，而是更會工作：叡揚、Dell、昕力、勤英共探 AI 如何重塑企業智慧決策與工作流程",
-        "link": "https://techorange.com/2026/11/04/2027-ai-innovation-day-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 09:48:54 +0800",
-        "description": "TechOrange 科技報橘日前舉辦「AI Innovation Day：2027 AI 創新日」論壇，上半場聚焦 AI 如何重塑企業智慧決策與工作流程，下半場由 NVIDIA 協辦，邀請生態系合作夥伴解析自動化視覺 AI Agent如何驅動實體 AI 新紀元，串起「從數位大腦到實體之眼」的主題。 TechOrange 科技報橘社長戴季全在致詞中，將當前 AI 產業發展比擬為 1996 至 2000 年的科技創新加速期。從 DeepMind 前首席研究員 David Silver 投入研發能從",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Airbus 用 AI 讀取機上餐盤、提前 10 天預警設備異常，航空營運如何改變？",
-        "link": "https://techorange.com/2026/11/04/airbus-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 04 Nov 2026 06:20:00 +0800",
-        "description": "航空公司的營運挑戰，除了維持航班準點，也包括減少機上餐飲浪費，以及避免設備故障影響後續航班。空中巴士（Airbus）將 AI 與數據分析導入機上餐飲管理、飛機預測性維護及地面維修支援，試圖透過更即時的資訊掌握，協助航空公司調整備餐規劃、提前發現設備異常，並加快維修人員取得技術資訊的速度。 AI 追蹤機上餐飲消耗，協助航空公司減少浪費 根據 Airbus 引用國際航空運輸協會（IATA）與航空永續論壇（Aviation Sustainability Forum，ASF）2024 至 2025 年的",
-        "source": "TechOrange"
-      },
       {
         "title": "歐洲超市冷凍櫃三週兩度遭駭、法國血庫也遇襲：設備管理介面為何成破口？",
         "link": "https://techorange.com/2026/11/05/europe-fridge-cyberattacks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -236,6 +173,62 @@
         "source": "TechOrange"
       },
       {
+        "title": "連「有腸躁症的網紅」都找得到，AI 讓品牌選網紅更細，最後一關仍得靠人",
+        "link": "https://techorange.com/2026/11/06/marketer-influencer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 16:10:20 +0800",
+        "description": "當網紅行銷逐漸成為品牌媒體策略的核心，如何精準找到能與目標受眾產生共鳴的創作者，成為行銷團隊面臨的新挑戰。AI 網紅搜尋平台與社群聆聽工具，正協助品牌擴大搜尋範圍、分析受眾特徵並精確評估成效，減少人工篩選的負擔。 超級細緻的條件設定與社群聆聽，精準鎖定利基受眾 傳統的網紅搜尋往往受限於粗略的分類與粉絲數量，而新一代 AI 工具則展現了極高的精準度。 美國濕紙巾品牌 Goodwipes 採用網紅搜尋工具 Modash 後，大幅縮減了手動搜尋的時間，讓團隊得以專注於審視內容契合度。Modash 的條",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美國期中選舉後，加密法案 CLARITY 更難過關？民主黨據報研議新法，擬擴大 SEC 監管權限",
+        "link": "https://techorange.com/2026/11/06/us-midterms-crypto-clarity-act/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 15:48:42 +0800",
+        "description": "據《CBS News》推估，美國時間 11/3 的期中選舉，民主黨將在明年同時掌控參眾兩院。《Decrypt》報導，在 2024 與 2026 兩個選舉週期，加密產業花了超過 3 億美元支持兩黨的親加密貨幣候選人，光今年就有約 1.76 億美元投入 100 多場選戰。但加密產業一直爭取的聯邦市場規則《數位資產市場明確法案》（Digital Asset Market Clarity Act，簡稱 CLARITY Act），9 月在參議院的程序表決就以 49 比 50 卡關；《PYMNTS》也指出，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "以開放架構掌握 AI 主導權──Red Hat 全球巡迴年會揭企業 AI 算力、資安與主權治理新布局",
+        "link": "https://techorange.com/2026/11/06/red-hat-summit-sovereign-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 15:10:58 +0800",
+        "description": "AI 模型、工具、平台更新速度越來越快，既有 IT 架構如何持續因應新技術與風險管理？如何避免被單一供應商綁定（Vendor Lock-in）？Red Hat 台灣區總經理孫媛音在 11 月 3 日 Red Hat 全球巡迴年會致詞中強調，「讓你的資料、基礎架構與決策權真正掌握在自己手上，這才是主權真正的價值。」 針對企業下一階段的 AI 布局，Red Hat 平台能支援「Any Model、Any Accelerator、Any Cloud」，任企業自由選擇適合自己的模式。面對預算和人力有限、",
+        "source": "TechOrange"
+      },
+      {
+        "title": "KPMG：網銀防駭，首要補強交易授權防線",
+        "link": "https://techorange.com/2026/11/06/kpmg-bank-security-incident/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 13:41:41 +0800",
+        "description": "針對近期銀行遭駭事件，KPMG 安侯企業管理董事總經理謝昀澤表示，網銀交易如同銀行臨櫃服務，即使查得帳戶資料，仍須確認客戶是否有權動用存款，並核對客戶是否同意該筆交易的收款對象與金額。謝昀澤指出，攻擊者可能透過反覆試誤找出有效帳戶，而當銀行系統誤認操作者身分、未確實核對交易授權，或將其他程式傳送的指令視為已獲客戶確認，就可能造成非客戶本人意願的交易被放行。 因此，銀行不能只確認前一道程序是否顯示「驗證完成」，而應在真正扣款前，再確認這筆交易是否確實經過客戶授權，包括轉給誰、轉多少錢，以及所使用的",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Agility 成美國首家上市人形機器人專業公司：逾 3 億美元訂單，還得先通過效能驗收",
+        "link": "https://techorange.com/2026/11/06/agility-robotics-nasdaq-humanoid-listing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 12:27:31 +0800",
+        "description": "人形機器人公司 Agility Robotics 於美國時間 11/5 以代號 AGLT 在那斯達克掛牌。《Bloomberg》指出，Agility 是美國第一家上市的人形機器人專業公司，對這個仍待證明的新興產業而言是重要的里程碑；在此之前，中國的宇樹科技（Unitree）已於 8 月在上海掛牌。Agility 透過與特殊目的收購公司（SPAC）Churchill Capital Corp XI 合併上市，交易於 11/4 完成，募得約 4.65 億美元（未扣除交易費用），其中約 2.01 億美",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【不做機器人的機器人公司】新創 Destro 用 AI 智慧層協調人機作業，解決倉儲轉運自動化難題",
+        "link": "https://techorange.com/2026/11/06/destro-ai-robot-intelligence-layer/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 10:09:35 +0800",
+        "description": "新創團隊 Destro 瞄準 AI 機器人智慧層，透過自動化方式，統一調度人類與機器人，解決物流倉庫中轉難題，並將其視為全新商機，取代機器人製造參與產業市場。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "耐能衝刺 Nasdaq IPO、營收達去年約 3 倍：從賣 AI 晶片跨足算力服務，瞄準什麼商機？",
+        "link": "https://techorange.com/2026/11/06/kneron-nasdaq-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 09:27:21 +0800",
+        "description": "台灣 AI 晶片業者耐能智慧（Kneron）正積極推進美國那斯達克（Nasdaq）上市計畫。其創辦人暨執行長劉峻誠近日接受《Bloomberg》專訪時透露，公司今年營收約為去年的 3 倍，並已進入全球大型科技企業供應鏈。不過，耐能接下來的成長策略不只著眼於增加晶片出貨，而是希望將 NPU 技術延伸至企業 AI 推論、邊緣運算與主權 AI 基礎設施，從晶片供應商擴展為整合式 AI 解決方案業者。 根據 《Bloomberg》11/2 專訪，劉峻誠表示，耐能已取得 Nasdaq 股票交易代碼，並接近",
+        "source": "TechOrange"
+      },
+      {
+        "title": "蘋果傳調降工程師每日 AI 額度，從 300 降至 200 美元：企業怎麼控管 AI 成本？",
+        "link": "https://techorange.com/2026/11/06/apple-cuts-employee-ai-budgets/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 06 Nov 2026 08:10:00 +0800",
+        "description": "根據《Bloomberg》引述知情人士報導，蘋果在 10 月悄悄調降部分工程師使用 AI 模型的每日支出上限，從 300 美元降到 200 美元，並計畫再調降部分工程團隊的額度。與此同時，蘋果仍尋求讓 AI 成為營運核心。報導形容，這凸顯蘋果面臨的平衡難題：一邊要控制成本，一邊又要鼓勵員工把 AI 更深入融入日常工作。 AI 帳單的壓力，Gartner 早已提出預警。這家研究機構預測，到 2028 年，AI 寫程式的成本將超過開發者的平均薪資，原因是大型語言模型（LLM）的 token 用量上升",
+        "source": "TechOrange"
+      },
+      {
         "title": "中國機器人競爭轉向 AI「大腦」：為何連訓練資料新創都募得 1 億美元？",
         "link": "https://techorange.com/2026/11/06/china-ai-robotics-brain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Fri, 06 Nov 2026 06:04:00 +0800",
@@ -263,27 +256,6 @@
         "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
         "pubDate": "Wed, 04 Nov 2026 22:30:38 +0530",
         "description": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched.\n\nDetails of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -\n\n\n  CVE-2026",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-        "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-        "pubDate": "Wed, 04 Nov 2026 21:36:43 +0530",
-        "description": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway.\n\nThe phenomenon has bee",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-        "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-        "pubDate": "Wed, 04 Nov 2026 19:57:52 +0530",
-        "description": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web analytics serv",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-        "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-        "pubDate": "Wed, 04 Nov 2026 17:37:04 +0530",
-        "description": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an advisory and f",
         "source": "TheHackerNews"
       },
       {
@@ -319,13 +291,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
         "pubDate": "Wed, 04 Nov 2026 11:58:46 -0500",
         "description": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "mSecure password manager hack prompts password reset warnings",
-        "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-        "pubDate": "Wed, 04 Nov 2026 11:00:18 -0500",
-        "description": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -389,6 +354,34 @@
         "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
         "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500",
         "description": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+        "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+        "pubDate": "Thu, 05 Nov 2026 14:43:28 +0530",
+        "description": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3.\n\nThe change specifically applies to scenarios where users share iCloud content, such as pho",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+        "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+        "pubDate": "Thu, 05 Nov 2026 14:24:26 -0500",
+        "description": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+        "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+        "pubDate": "Thu, 05 Nov 2026 14:12:03 +0530",
+        "description": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI) sectors in t",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+        "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+        "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500",
+        "description": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
         "source": "BleepingComputer"
       }
     ],
@@ -471,17 +464,17 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Axiom Math wants to keep AI slop out of mathematics",
-        "link": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
-        "pubDate": "Thu, 05 Nov 2026 16:16:45 +0000",
-        "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
+        "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
+        "pubDate": "Fri, 06 Nov 2026 07:18:44 +0000",
+        "description": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
         "source": "TechCrunch"
       },
       {
-        "title": "Bluesky hit peak usage for the year on election night",
-        "link": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
-        "pubDate": "Thu, 05 Nov 2026 15:44:58 +0000",
-        "description": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
+        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+        "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
+        "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
         "source": "TechCrunch"
       },
       {
@@ -636,6 +629,16 @@
         "products": "Microsoft Edge"
       },
       {
+        "title": "[Security Blog] Connected Vehicles: Cybersecurity Risks Every Driver Should Know",
+        "link": "https://www.hkcert.org/blog/connected-vehicles-cybersecurity-risks-every-driver-should-know",
+        "pubDate": "Thu, 05 Nov 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] Connected Vehicles: Cybersecurity Risks Every Driver Should Know"
+      },
+      {
         "title": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026",
         "link": "https://www.hkcert.org/blog/hkcert-security-incident-statistics-and-cybersecurity-trends-in-hong-kong-for-q3-2026",
         "pubDate": "Thu, 05 Nov 2026 00:00:00 +0800",
@@ -656,26 +659,6 @@
         "products": "Ivanti Connect Secure"
       },
       {
-        "title": "Ransomware Alert - Ransomware Attacks Targeting Synology NAS Devices",
-        "link": "https://www.hkcert.org/security-bulletin/security-alert-ransomware-attacks-targeting-synology-nas-devices_20261102",
-        "pubDate": "Mon, 02 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Ransomware Alert - Ransomware Attacks Targeting Synology NAS Devices"
-      },
-      {
-        "title": "Synology Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20261102",
-        "pubDate": "Mon, 02 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Synology Products"
-      },
-      {
         "title": "IBM WebSphere Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106",
         "pubDate": "Fri, 06 Nov 2026 11:00:00 +0800",
@@ -684,6 +667,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "IBM WebSphere Products"
+      },
+      {
+        "title": "OpenSSH Security Restriction Bypass Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/openssh-multiple-vulnerabilities_20261106",
+        "pubDate": "Fri, 06 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "OpenSSH Security Restriction Bypass Vulnerability"
       }
     ]
   }
