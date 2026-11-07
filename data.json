@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-07T09:13:44.272860Z",
+  "ts": "2026-11-07T15:54:36.711016Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
+        "link": "https://www.ithome.com.tw/news/180298",
+        "pubDate": "2026-11-07 22:03",
+        "description": "Linux核心重大漏洞CVE-2026-98432的CVSS風險評分高達9.8分，此漏洞存在於2016年推出的Linux核心4.4版以後的多個版本，影響範圍涵蓋主流Linux發行版、網路設備、資安產品、虛擬化平臺及雲端服務。隨著Anthropic揭露AI模型Claude已能編寫漏洞利用程式，相關威脅更受關注。目前多家廠商已發布修補更新或緩解措施，部分產品仍在調查或等待上游核心修正，企業應盤點受影響系統，掌握各廠商更新進度",
+        "source": "iThome資安"
+      },
       {
         "title": "憑證效期持續縮短，普鴻看好企業自動化管理需求逐漸浮現",
         "link": "https://www.ithome.com.tw/news/180293",
@@ -99,20 +106,6 @@
         "pubDate": "2026-11-06 08:00",
         "description": "區塊鏈分析業者Chainalysis遭駭，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也暫停部分服務，要求使用者重設密碼、視情況更換API金鑰",
         "source": "iThome資安"
-      },
-      {
-        "title": "英國情報機構GCHQ管理出包，數千個儲存裝置下落不明",
-        "link": "https://www.ithome.com.tw/news/180221",
-        "pubDate": "2026-11-06 08:00",
-        "description": "英國調查權力專員辦公室（IPCO）揭露，情報機構GCHQ估計有數千個儲存裝置下落不明，部分可能存有情報監察及調查活動相關資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "回應資料中心建設爭議，OpenAI提出用電、用水與資訊公開承諾",
-        "link": "https://www.ithome.com.tw/news/180271",
-        "pubDate": "2026-11-06  09:11:05",
-        "description": "面對美國各地反對AI資料中心的聲浪，OpenAI周四（11/5）宣布新的社區承諾，將擴大公開資料中心用電、用水、噪音及環境影響資訊，並讓居民參與開發規畫，同時呼籲政府制定相關法規，保障地方社區權益。",
-        "source": "iThome"
       },
       {
         "title": "GitHub改版PR總覽頁面，集中顯示合併狀態與待處理事項",
@@ -308,25 +301,25 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-        "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-        "pubDate": "Thu, 05 Nov 2026 14:24:26 -0500",
-        "description": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-        "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-        "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500",
-        "description": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
         "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
         "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530",
         "description": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save t",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers pull off $133 million French bank heist via service provider",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+        "pubDate": "Sat, 07 Nov 2026 10:25:35 -0500",
+        "description": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+        "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+        "pubDate": "Sat, 07 Nov 2026 09:10:19 -0500",
+        "description": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification steps and affi",
+        "source": "BleepingComputer"
       },
       {
         "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -499,38 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
-        "pubDate": "2026-11-06T18:46:18-05:00",
-        "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March a",
+        "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+        "link": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+        "pubDate": "2026-11-07T10:50:00-05:00",
+        "description": "Around 7PM each weeknight, I find myself standing in front of the fridge, trying to decide on something for dinner that won't make my husband complain, \"Chicken again?\" Yes, I should meal plan more, but I don't, so this is where I'm at. A nightly bat",
         "source": "TheVerge"
       },
       {
-        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
-        "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
-        "pubDate": "2026-11-06T18:00:44-05:00",
-        "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially ",
+        "title": "The US let Nvidia sell chips to an empty office in China",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+        "pubDate": "2026-11-07T10:43:45-05:00",
+        "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list o",
         "source": "TheVerge"
       },
       {
-        "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-        "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-        "pubDate": "2026-11-06T17:45:43-05:00",
-        "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As",
+        "title": "AI broke the cybersecurity world. What’s next?",
+        "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+        "pubDate": "2026-11-07T10:00:00-05:00",
+        "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed tal",
         "source": "TheVerge"
       },
       {
-        "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
-        "link": "https://www.theverge.com/gadgets/1028640/kpop-demon-hunters-4k-criterion-bluray-deal-sale",
-        "pubDate": "2026-11-06T16:50:32-05:00",
-        "description": "Buying the 4K Blu-ray disc version of KPop Demon Hunters was already going to be a wise idea for some people, especially those who primarily keep their $26.99 Netflix Premium subscription just to watch the hit animated flick in 4K. But at just $24.99",
+        "title": "Good riddance, Cybertruck!",
+        "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
+        "pubDate": "2026-11-07T09:40:06-05:00",
+        "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it ",
         "source": "TheVerge"
       },
       {
-        "title": "All the latest updates on AI data centers",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
-        "pubDate": "2026-11-06T15:02:22-05:00",
-        "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bil",
+        "title": "Zelda is back and better than ever",
+        "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
+        "pubDate": "2026-11-07T08:49:01-05:00",
+        "description": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Install",
         "source": "TheVerge"
       }
     ],
