@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-06T22:22:21.929898Z",
+  "ts": "2026-11-07T02:21:12.453955Z",
   "tabs": {
     "cn_sec": [
       {
@@ -166,10 +166,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【工地機器人不必是人形】OG-1 有三輪底座與升降手臂，在雜亂工地自動批土、打磨牆面",
-        "link": "https://techorange.com/2026/11/05/construction-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 05 Nov 2026 10:22:12 +0800",
-        "description": "過去一百年，營建業的機械化幾乎都發生在建築外部。挖地基有怪手，吊鋼筋、吊模板有塔式起重機，灌混凝土有泵浦車；建築內部做法卻沒有太大改變，石膏板的接縫要靠工人一刀一刀抹上批土，等乾了再用砂紙打磨平整，最後一面一面刷上底漆。 這些室內工序占了整個工期的六成五以上，到現在仍然幾乎全靠人工。而 2025 年初成立的美國新創 Origin 想改變這件事。Origin 最近宣布拿到 2,000 萬美元融資，主角是一台叫 OG-1 的裝修機器人。 不過工地凌亂、光線差、狀況隨時在變，正好是機器人最難適應的環境",
+        "title": "【Anthropic 機器人工作能力報告】技術已能接管全美 34% 工作，但真正「比請人便宜」的不到 1%",
+        "link": "https://techorange.com/2026/11/07/what-work-can-robots-do/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 07 Nov 2026 06:29:00 +0800",
+        "description": "人工智慧研究機構 Anthropic 發布《What work can robots do?》（機器人能做哪些工作？），由學者 Russell Legate-Yang 與 Maxim Massenkoff 共同撰寫。報告內容核心在於建立了一套具備 50 年歷史驗證力的「機器人工作暴露度指標」，透過實際比對當前機器人的能力與部署成本，指出機器人技術上已能勝任許多體力工作，但成本仍高，短期內難以大規模取代人類。 很多人看到新聞展示會飛、會翻滾的人形機器人，就擔心職場很快會被機器人接管。但 Anthr",
         "source": "TechOrange"
       },
       {
@@ -329,20 +329,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers backdoor Linux servers using trojanized CWP web server",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
-        "pubDate": "Thu, 05 Nov 2026 11:24:26 -0500",
-        "description": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "DigiCert data breach exposes customer information, identity documents",
-        "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-        "pubDate": "Thu, 05 Nov 2026 11:12:46 -0500",
-        "description": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
         "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
         "pubDate": "Fri, 06 Nov 2026 21:38:38 +0530",
@@ -364,6 +350,13 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+        "pubDate": "Fri, 06 Nov 2026 19:00:55 -0500",
+        "description": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
         "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
         "pubDate": "Fri, 06 Nov 2026 17:36:43 +0530",
@@ -376,6 +369,13 @@
         "pubDate": "Fri, 06 Nov 2026 17:36:35 +0530",
         "description": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test.\n\nThe attack needs Dispatch, a Claude feature that lets p",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+        "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+        "pubDate": "Fri, 06 Nov 2026 17:27:25 -0500",
+        "description": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked the company.",
+        "source": "BleepingComputer"
       },
       {
         "title": "The Flood is Coming And The Pipes Were Already Full",
@@ -394,10 +394,24 @@
     ],
     "en_tech": [
       {
+        "title": "Crusoe sells troubled Wyoming data center project to Google",
+        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+        "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
+        "description": "The deal highlights the challenges of developing massive AI data centers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+        "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
+        "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "The Duo apps are coming, says Apple",
         "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
         "pubDate": "Fri, 06 Nov 2026 21:38:05 +0000",
-        "description": "There are now 100K Duo-optimized apps, says Apple, and thousands more arrive daily.",
+        "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
         "source": "TechCrunch"
       },
       {
@@ -467,7 +481,7 @@
         "title": "Tesla will stop making the Cybertruck in 2027",
         "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
         "pubDate": "Fri, 06 Nov 2026 11:50:10 +0000",
-        "description": "Elon Musk said the company will use the factory space to make more Cybercabs.",
+        "description": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
         "source": "TechCrunch"
       },
       {
@@ -485,18 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
-        "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
-        "pubDate": "Fri, 06 Nov 2026 00:07:18 +0000",
-        "description": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
-        "source": "TechCrunch"
+        "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+        "pubDate": "2026-11-06T18:46:18-05:00",
+        "description": "OpenAI is now valued at $1.25 trillion in a new round of funding that has raised another $11 billion, according to Bloomberg. That would make it one of the world's most valuable companies, not long after raising $122 billion from investors in March a",
+        "source": "TheVerge"
       },
       {
-        "title": "Meta, Google, and TikTok sue California AG over teen social media law",
-        "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
-        "pubDate": "Fri, 06 Nov 2026 00:01:38 +0000",
-        "description": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
-        "source": "TechCrunch"
+        "title": "China reportedly recruited AI exec to spy on Jensen Huang",
+        "link": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
+        "pubDate": "2026-11-06T18:00:44-05:00",
+        "description": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially ",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+        "link": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
+        "pubDate": "2026-11-06T17:45:43-05:00",
+        "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As",
+        "source": "TheVerge"
       },
       {
         "title": "KPop Demon Hunters on 4K Blu-ray costs less than a month of Netflix Premium",
@@ -510,27 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
         "pubDate": "2026-11-06T15:02:22-05:00",
         "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bil",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Shure’s popular podcasting and streaming mic is almost $50 off",
-        "link": "https://www.theverge.com/gadgets/1028846/shure-mv7-plus-podcasting-streaming-mic-deal-sale",
-        "pubDate": "2026-11-06T14:47:02-05:00",
-        "description": "While the Shure Mv7 Plus is popular with streamers and podcasters, it’s equally good at impressing your friends and coworkers on meetings and Discord calls. It’s currently marked down to $255 at various retailers, including Amazon, Guitar Center, and",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Lame-duck Congress might actually do something: speed up energy projects",
-        "link": "https://www.theverge.com/policy/1028228/energy-infrastructure-permitting-reform-bill-congress-vote",
-        "pubDate": "2026-11-06T13:42:30-05:00",
-        "description": "A massive permitting bill that could help energy projects come online much quicker and potentially lower utility bills for Americans is advancing with bipartisan support. And while it could be a catalyst for lots of clean energy, it could also speed ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Meta&#8217;s Muse AI can create custom &#8216;spaces&#8217; for the version of the app you need right now",
-        "link": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-        "pubDate": "2026-11-06T13:10:10-05:00",
-        "description": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can intera",
         "source": "TheVerge"
       }
     ],
