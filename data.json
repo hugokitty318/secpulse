@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-07T15:54:36.711016Z",
+  "ts": "2026-11-07T20:11:36.062409Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,27 @@
     ],
     "en_tech": [
       {
+        "title": "Parents want safer phones for kids. These companies are answering the call.",
+        "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+        "pubDate": "Sat, 07 Nov 2026 19:00:00 +0000",
+        "description": "As parents look for alternatives to unrestricted smartphones, a growing number of companies are building phones designed specifically for kids, from feature-limited mobile devices to minimalist home phones.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+        "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+        "pubDate": "Sat, 07 Nov 2026 17:24:07 +0000",
+        "description": "The announcement comes barely more than a week after hackers stole $6.3 billion worth of cryptocurrency from Binance users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+        "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+        "pubDate": "Sat, 07 Nov 2026 17:18:00 +0000",
+        "description": "Amazon's redesigned basic Kindle costs more than before, but its lighter build and improved display make a compelling case for skipping the pricier models.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Sequoia shutting down its Scouts program marks the end of an era",
         "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
         "pubDate": "Sat, 07 Nov 2026 05:01:54 +0000",
@@ -471,25 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Underdog shows off a 32MB speech model in new demo",
-        "link": "https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo/",
-        "pubDate": "Fri, 06 Nov 2026 13:02:16 +0000",
-        "description": "Despite its small size, Underdog's new model can generate both speech and music.",
-        "source": "TechCrunch"
+        "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
+        "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
+        "pubDate": "2026-11-07T12:00:00-05:00",
+        "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun an",
+        "source": "TheVerge"
       },
       {
-        "title": "Physicl raises $10M to make the digital world real enough for robots",
-        "link": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-        "pubDate": "Fri, 06 Nov 2026 13:00:00 +0000",
-        "description": "Physicl is trying to solve the sim-to-real gap with a pipeline originally built to market goods online.",
-        "source": "TechCrunch"
+        "title": "Costco members can get $5 off the reimagined Ocarina of Time",
+        "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
+        "pubDate": "2026-11-07T11:00:00-05:00",
+        "description": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to ",
+        "source": "TheVerge"
       },
       {
-        "title": "Tesla will stop making the Cybertruck in 2027",
-        "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
-        "pubDate": "Fri, 06 Nov 2026 11:50:10 +0000",
-        "description": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-        "source": "TechCrunch"
+        "title": "Discogs’ Kevin Lewandowski can’t live without his AeroPress",
+        "link": "https://www.theverge.com/tech/1029474/discogs-kevin-lewandowski-aeropress-interview",
+        "pubDate": "2026-11-07T11:00:00-05:00",
+        "description": "Twenty-five years ago, Kevin Lewandowski founded Discogs, arguably the destination online for obsessive vinyl collectors and music nerds of all stripes. It is a marketplace for buying and selling records, obviously, but it's also become so much more.",
+        "source": "TheVerge"
       },
       {
         "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
@@ -503,27 +524,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
         "pubDate": "2026-11-07T10:43:45-05:00",
         "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list o",
-        "source": "TheVerge"
-      },
-      {
-        "title": "AI broke the cybersecurity world. What’s next?",
-        "link": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
-        "pubDate": "2026-11-07T10:00:00-05:00",
-        "description": "Today, I’m talking with Alex Stamos, chief security officer at Cognition and longtime cybersecurity expert, about what a mess cybersecurity is right now. This episode is part one of a special series looking at AI in real life. I’ve always enjoyed tal",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Good riddance, Cybertruck!",
-        "link": "https://www.theverge.com/transportation/1029460/elon-musk-cybertruck-death-election-backlash",
-        "pubDate": "2026-11-07T09:40:06-05:00",
-        "description": "I'm calling it: time of death, November 6th, 1:30 AM, by tweet. Elon Musk's declaration Friday that Tesla would be \"winding down\" production of the Cybertruck next year to make room for the Cybercab was fascinating for a number of reasons. First, it ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Zelda is back and better than ever",
-        "link": "https://www.theverge.com/tech/1028930/zelda-ocarina-godzilla-minus-zero-affinity-installer",
-        "pubDate": "2026-11-07T08:49:01-05:00",
-        "description": "Hi, friends! Welcome to Installer No. 151, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, get psyched because it's officially Bad Holiday Movie Season, and also you can read all the old editions at the Install",
         "source": "TheVerge"
       }
     ],
