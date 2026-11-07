@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-07T02:21:12.453955Z",
+  "ts": "2026-11-07T09:13:44.272860Z",
   "tabs": {
     "cn_sec": [
       {
@@ -301,13 +301,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-        "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-        "pubDate": "Thu, 05 Nov 2026 15:36:19 +0530",
-        "description": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the stakes beyond in",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
         "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
         "pubDate": "Thu, 05 Nov 2026 15:15:08 -0500",
@@ -327,6 +320,13 @@
         "pubDate": "Thu, 05 Nov 2026 12:45:29 -0500",
         "description": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+        "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+        "pubDate": "Sat, 07 Nov 2026 12:14:17 +0530",
+        "description": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them.\n\nWhen a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant can save t",
+        "source": "TheHackerNews"
       },
       {
         "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
@@ -393,6 +393,20 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "Sequoia shutting down its Scouts program marks the end of an era",
+        "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+        "pubDate": "Sat, 07 Nov 2026 05:01:54 +0000",
+        "description": "Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
+        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
+        "pubDate": "Sat, 07 Nov 2026 04:16:43 +0000",
+        "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about",
+        "source": "TechCrunch"
+      },
       {
         "title": "Crusoe sells troubled Wyoming data center project to Google",
         "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -482,20 +496,6 @@
         "link": "https://techcrunch.com/2026/11/06/tesla-will-stop-making-the-cybertruck-in-2027/",
         "pubDate": "Fri, 06 Nov 2026 11:50:10 +0000",
         "description": "The decision to wind down the EV comes after just a few short years of underwhelming sales. Elon Musk said the company will use the factory space to make more Cybercabs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "At least 10 local governments have moved to drop Flock’s surveillance cameras since summer",
-        "link": "https://techcrunch.com/2026/11/05/at-least-10-local-governments-have-moved-to-drop-flocks-surveillance-cameras-since-summer/",
-        "pubDate": "Fri, 06 Nov 2026 07:18:44 +0000",
-        "description": "The concerns range from privacy to how data is shared (and with whom) to procurement concerns.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M",
-        "link": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-        "pubDate": "Fri, 06 Nov 2026 06:28:32 +0000",
-        "description": "Clutch, backed by Lightspeed and SignalFire, was last valued at $85 million, according to a source.",
         "source": "TechCrunch"
       },
       {
