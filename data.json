@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-08T16:17:35.289346Z",
+  "ts": "2026-11-08T20:45:22.056255Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,41 @@
     ],
     "en_tech": [
       {
+        "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
+        "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
+        "pubDate": "Sun, 08 Nov 2026 20:30:00 +0000",
+        "description": "Mystery solved: Coordinated power drops have been haunting power grid worldwide, but a team of researchers in Germany found the culprit.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sequoia partners reportedly blindsided when Roelof Botha joined SpaceX board",
+        "link": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+        "pubDate": "Sun, 08 Nov 2026 19:51:30 +0000",
+        "description": "A new report claims Sequoia's recent changes undo the legacy of the firm's former steward.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SNL has a new impression of Elon Musk, ‘the worst thing South Africa has ever done’",
+        "link": "https://techcrunch.com/2026/11/08/snl-has-a-new-impression-of-elon-musk-the-worst-thing-south-africa-has-ever-done/",
+        "pubDate": "Sun, 08 Nov 2026 18:00:04 +0000",
+        "description": "SNL seems to have its knives out for tech executives.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "He arrested a hacker, then spent 18 months clearing his own name. Now he’s a cybersecurity VC.",
+        "link": "https://techcrunch.com/2026/11/08/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+        "pubDate": "Sun, 08 Nov 2026 17:30:00 +0000",
+        "description": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: The Cybertruck experiment is over",
+        "link": "https://techcrunch.com/2026/11/08/techcrunch-mobility-the-cybertruck-experiment-is-over/",
+        "pubDate": "Sun, 08 Nov 2026 17:02:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Ninja’s AutoBarista is impressively versatile, but one feature was a dealbreaker for me",
         "link": "https://techcrunch.com/2026/11/08/ninjas-autobarista-is-impressively-versatile-but-one-feature-was-a-dealbreaker-for-me/",
         "pubDate": "Sun, 08 Nov 2026 15:00:00 +0000",
@@ -457,39 +492,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The Duo apps are coming, says Apple",
-        "link": "https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/",
-        "pubDate": "Fri, 06 Nov 2026 21:38:05 +0000",
-        "description": "There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.",
-        "source": "TechCrunch"
+        "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+        "pubDate": "2026-11-08T15:22:39-05:00",
+        "description": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by ",
+        "source": "TheVerge"
       },
       {
-        "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
-        "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
-        "pubDate": "Fri, 06 Nov 2026 18:44:38 +0000",
-        "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
-        "source": "TechCrunch"
+        "title": "Apple is racing to make Siri more agentic",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+        "pubDate": "2026-11-08T14:18:19-05:00",
+        "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version o",
+        "source": "TheVerge"
       },
       {
-        "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-        "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-        "pubDate": "Fri, 06 Nov 2026 18:44:20 +0000",
-        "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "After the midterms, is the AI industry in for a rough two years?",
-        "link": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
-        "pubDate": "Fri, 06 Nov 2026 17:23:52 +0000",
-        "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Pentagon offers battery startup 6K $250M loan to build US factory",
-        "link": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
-        "pubDate": "Fri, 06 Nov 2026 16:50:01 +0000",
-        "description": "The Pentagon has conditionally approved a $250 million loan to help 6K scale up its microwave-plasma battery material manufacturing process.",
-        "source": "TechCrunch"
+        "title": "Elvis and Eminem rights holders are suing Suno",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+        "pubDate": "2026-11-08T12:23:19-05:00",
+        "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those ar",
+        "source": "TheVerge"
       },
       {
         "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
@@ -503,27 +524,6 @@
         "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
         "pubDate": "2026-11-08T10:00:30-05:00",
         "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasona",
-        "source": "TheVerge"
-      },
-      {
-        "title": "There’s no slowing down media’s pivot-to-video 2.0",
-        "link": "https://www.theverge.com/column/1026252/video-media-news-tiktok-pivot",
-        "pubDate": "2026-11-08T08:00:00-05:00",
-        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the pressures of creating content for the internet, follow Mia Sato. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Op",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The UV-tracking Gem made me rethink how sunlight affects my health, not just my appearance",
-        "link": "https://www.theverge.com/tech/1023230/the90-gem-necklace-hands-on-impressions",
-        "pubDate": "2026-11-07T12:00:00-05:00",
-        "description": "With temperatures rising to the 90s in Los Angeles, avoiding the heat wasn't exactly an option while I was at a relative's outdoor party in August. So I sat beneath a patio umbrella with a powerful fan nearby, figuring I was protected from the sun an",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Costco members can get $5 off the reimagined Ocarina of Time",
-        "link": "https://www.theverge.com/gadgets/1028917/legend-of-zelda-ocarina-of-time-remake-switch-2-costco-deal-sale",
-        "pubDate": "2026-11-07T11:00:00-05:00",
-        "description": "While some retailers were offering preorder discounts on the remastered Legend of Zelda: The Ocarina of Time, it’s not too late to save if you missed out. Costco members can currently get $5 off the digital version online, bringing the price down to ",
         "source": "TheVerge"
       }
     ],
