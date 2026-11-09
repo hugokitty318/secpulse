@@ -1,7 +1,49 @@
 {
-  "ts": "2026-11-08T20:45:22.056255Z",
+  "ts": "2026-11-09T00:48:26.929099Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "菲律賓海外就業系統約69GiB資料庫備份疑遭竊，政府展開調查",
+        "link": "https://www.ithome.com.tw/news/180288",
+        "pubDate": "2026-11-09 08:00",
+        "description": "Hunt.io發現，菲律賓政府海外就業相關系統的27個資料庫備份檔，疑似在不到24分鐘內遭複製，總容量約69GiB",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Apple將檢查iCloud公開分享的照片與檔案，27.3版起實施",
+        "link": "https://www.ithome.com.tw/news/180284",
+        "pubDate": "2026-11-09 08:00",
+        "description": "Apple將從iOS 27.3等新版作業系統開始，檢查透過公開連結分享的iCloud照片與檔案是否包含有害內容。這類內容不受端對端加密保護，若被判定有害，Apple可能移除相關內容，甚至限制使用者帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國CISA等5機構警告冷鏈系統遭網路攻擊風險，籲企業檢查遠端存取與設備安全",
+        "link": "https://www.ithome.com.tw/news/180300",
+        "pubDate": "2026-11-09 08:00",
+        "description": "歐洲多國近期接連發生冷凍冷藏系統遭網路攻擊事件，美國CISA等5個聯邦機構提醒零售、冷藏倉儲、醫療、食品與農業等業者，檢查控制器是否暴露於公開網路、遠端存取服務是否受到限制，以及設備韌體是否已更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Rails修補9.8分重大漏洞，使用ImageMagick處理上傳圖片的網站需留意",
+        "link": "https://www.ithome.com.tw/news/180273",
+        "pubDate": "2026-11-09 08:00",
+        "description": "Rails發布安全更新，修補Active Storage重大漏洞。使用ImageMagick處理上傳圖片的網站，若符合特定設定條件，攻擊者可能在伺服器讀寫任意檔案，企業需確認是否受到影響並儘速修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "黃仁勳承認婚外情，Nvidia董事會調查涉諜疑雲",
+        "link": "https://www.ithome.com.tw/news/180301",
+        "pubDate": "2026-11-09  08:11:22",
+        "description": "在外界傳出Nvidia創辦人暨執行長黃仁勳涉及婚外情，並可能成為外國情報活動鎖定目標後，黃仁勳周日（11/8）發表公開聲明，承認對妻子不忠，並向家人、員工及股東道歉。Nvidia董事會同日宣布啟動獨立調查，以釐清相關事件是否危及美國國家安全或公司機密。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟Intelligent Terminal支援背景執行，關閉視窗不中斷AI代理任務",
+        "link": "https://www.ithome.com.tw/news/180295",
+        "pubDate": "2026-11-09  08:11:01",
+        "description": "微軟發布Intelligent Terminal 0.3，新增背景執行模式（Headless Mode），讓開發者關閉終端機視窗後，仍可繼續執行AI代理任務、程式編譯等長時間工作。",
+        "source": "iThome"
+      },
       {
         "title": "Linux核心IPv4 TCP連線漏洞影響廣泛，多家廠商陸續推出修補",
         "link": "https://www.ithome.com.tw/news/180298",
@@ -80,34 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Anthropic推出Claude個人理財功能，可連結銀行帳戶分析收支",
-        "link": "https://www.ithome.com.tw/news/180268",
-        "pubDate": "2026-11-06 08:38",
-        "description": "Anthropic公布Claude Personal Finance，讓使用者連結銀行及信用卡帳戶，透過AI整理收支、找出重複扣款與異常費用，還能製作財務圖表",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資料安全業者Sentra獲1.5億美元投資，擴大AI代理安全業務",
-        "link": "https://www.ithome.com.tw/news/180235",
-        "pubDate": "2026-11-06 08:00",
-        "description": "隨著企業導入AI代理，如何避免這類代理取得超出工作需求的資料存取權限，成為新的資安管理課題。資料安全業者Sentra獲得1.5億美元C輪投資，將擴大AI代理資料安全業務，協助企業控管敏感資料的存取權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "英國NCSC預警2028年前AI惡意程式恐用於勒索軟體攻擊，威脅關鍵基礎設施",
-        "link": "https://www.ithome.com.tw/news/180196",
-        "pubDate": "2026-11-06 08:00",
-        "description": "英國NCSC評估，2028年前攻擊者極可能使用AI驅動的惡意程式，對英國關鍵基礎設施發動勒索軟體攻擊。AI不僅可能加快老舊系統已知漏洞的利用速度，新導入的AI工具也可能增加攻擊面",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Chainalysis遭駭波及使用者密碼與權杖，暫停加密貨幣交易監控服務",
-        "link": "https://www.ithome.com.tw/news/180206",
-        "pubDate": "2026-11-06 08:00",
-        "description": "區塊鏈分析業者Chainalysis遭駭，攻擊者曾存取平臺使用者的密碼雜湊值及有效權杖，部分客戶的密碼也在攻擊中外洩。該公司也暫停部分服務，要求使用者重設密碼、視情況更換API金鑰",
-        "source": "iThome資安"
-      },
-      {
         "title": "GitHub改版PR總覽頁面，集中顯示合併狀態與待處理事項",
         "link": "https://www.ithome.com.tw/news/180290",
         "pubDate": "2026-11-06  06:11:56",
@@ -127,13 +141,6 @@
         "pubDate": "2026-11-06  01:11:57",
         "description": "AWS釋出Amazon S3 Tables新增Apache Hive轉Apache Iceberg託管遷移功能，可將儲存在Amazon S3，且已登錄AWS Glue Data Catalog的Parquet格式Hive資料表移入S3 Tables。資料驗證、格式轉換與搬移由服務處理，企業不必自行建置遷移管線或配置運算資源，而且來源資料表在大部分遷移期間還可繼續使用。",
         "source": "iThome"
-      },
-      {
-        "title": "Google擴大AI基礎設施投資，首度進駐懷俄明州建資料中心",
-        "link": "https://www.ithome.com.tw/news/180286",
-        "pubDate": "2026-11-06  01:11:08",
-        "description": "Google周四（11/5）宣布，將投資170億美元，在美國懷俄明州興建首座資料中心，並採用不同於傳統資料中心主要仰賴電網的供電模式，導入702MW天然氣燃料電池，結合碳捕捉與封存（CCS）技術，以穩定供電並降低碳排放。Google也承諾自行負擔用電及相關基礎設施成本，避免轉嫁給當地居民。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -145,24 +152,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "美國期中選舉後，德州約 13 GW 資料中心計畫恐延後：緯創等台廠會受波及嗎？",
-        "link": "https://techorange.com/2026/11/05/us-election-ai-data-center-buildout-taiwan-suppliers/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 05 Nov 2026 12:59:01 +0800",
-        "description": "美國時間 11/3 的期中選舉，民主黨奪回聯邦參眾兩院，也在德州、俄亥俄、喬治亞拿下州長，三位新州長競選時都主張管制 AI 資料中心。德州州長當選人 Gina Hinojosa 是該州三十多年來首位民主黨州長，曾多次呼籲立即暫停資料中心開發。但德州的審批在選前就已收緊，共和黨籍現任州長 Greg Abbott 9/21 已指示州環境品質委員會，在電網營運商 ERCOT 與州水資源發展委員會（TWDB）完成稽核前，停發資料中心的所有許可。 《Fast Company》指出，兩人的差別在於，Abbo",
-        "source": "TechOrange"
-      },
-      {
-        "title": "自主付款 Agent 列最高風險？美國 OCC 首度發布銀行 AI 監理框架，人工監督成重點",
-        "link": "https://techorange.com/2026/11/05/occ-ai-agent-super-intelligence-supervisory-framework/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 05 Nov 2026 12:02:37 +0800",
-        "description": "當 AI Agent 不只整理文件，還能直接發起付款、修改帳戶資料，銀行該如何判斷風險，並在出錯前介入？美國貨幣監理署（OCC）11/4 發布首份銀行 AI 監理框架，其中一項值得注意的內容，是將自主付款 Agent 列為最高風險等級的示例，並強調 AI 的風險不只取決於技術複雜度，更與實際用途、自主權及出錯後果有關。 根據《Reuters》報導，這份框架主要供銀行檢查人員使用，並未新增強制性監理要求，而是說明如何將 AI 納入既有的銀行風險管理制度。 不另設 AI 風險類別，OCC 為何仍提出",
-        "source": "TechOrange"
-      },
-      {
         "title": "【Anthropic 機器人工作能力報告】技術已能接管全美 34% 工作，但真正「比請人便宜」的不到 1%",
         "link": "https://techorange.com/2026/11/07/what-work-can-robots-do/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 07 Nov 2026 06:29:00 +0800",
         "description": "人工智慧研究機構 Anthropic 發布《What work can robots do?》（機器人能做哪些工作？），由學者 Russell Legate-Yang 與 Maxim Massenkoff 共同撰寫。報告內容核心在於建立了一套具備 50 年歷史驗證力的「機器人工作暴露度指標」，透過實際比對當前機器人的能力與部署成本，指出機器人技術上已能勝任許多體力工作，但成本仍高，短期內難以大規模取代人類。 很多人看到新聞展示會飛、會翻滾的人形機器人，就擔心職場很快會被機器人接管。但 Anthr",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google 瓦解 130 萬台機上盒殭屍網路，指代工廠出廠藏後門、家用網路成代理節點",
+        "link": "https://techorange.com/2026/11/09/google-xcpe-botnet-residential-proxy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 09 Nov 2026 08:10:00 +0800",
+        "description": "Google 威脅情報團隊（GTIG）近日公布，與日本警察廳、資安業者 Synthient、TrendAI 等夥伴合作，瓦解名為 XCPE 的殭屍網路。Google 指出，Android 設備代工廠（OEM／ODM）Videostrong 讓逾 130 萬台機上盒成為殭屍網路的一部分；Google 認為這不是個別內部人員所為，也不是開發疏失，「x.cpe 網路是為了持續獲利而建立的」。Videostrong 截至《The Record》刊出時，未回應置評請求。 TrendAI 觀測到的受感染設備",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】孫正義 54 億美元機器人併購受阻！NVIDIA 完成 10 億美元入股 NAVER",
+        "link": "https://techorange.com/2026/11/09/softbank-abb-robotics-china-blocks-acquisition-nvidia-naver/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 09 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊孫正義 54 億美元機器人併購卡關，中國禁止收購 ABB 在中業務 日本軟銀集團（SoftBank Group）11 月 6 日公告，已在 11 月 4 日接獲中國外商投資安全審查機關通知，禁止收購瑞士 ABB 在中國的機器人業務。ABB 也在 11 月 5 日證實這項決定。軟銀由董事長兼執行長孫正義（Masayoshi Son）領導，去年 10 月與 ABB 簽署協議，擬以企業價值 53.75 億美元收購其全球機器人部門。這次禁令直接影響中國",
         "source": "TechOrange"
       },
       {
@@ -387,6 +394,27 @@
     ],
     "en_tech": [
       {
+        "title": "Apps to distract you from the endless cycle of doomscrolling",
+        "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
+        "pubDate": "Sun, 08 Nov 2026 22:00:00 +0000",
+        "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+        "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
+        "description": "In a memo to the company, Huang admitted that he had an affair.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
+        "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
+        "pubDate": "Sun, 08 Nov 2026 21:00:00 +0000",
+        "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Coordinated disturbances haunt grids worldwide. Here’s how researchers solved the mystery.",
         "link": "https://techcrunch.com/2026/11/08/coordinated-disturbances-haunt-grids-worldwide-heres-how-researchers-solved-the-mystery/",
         "pubDate": "Sun, 08 Nov 2026 20:30:00 +0000",
@@ -471,25 +499,25 @@
         "source": "TechCrunch"
       },
       {
-        "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-        "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-        "pubDate": "Sat, 07 Nov 2026 04:16:43 +0000",
-        "description": "After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about",
-        "source": "TechCrunch"
+        "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+        "pubDate": "2026-11-08T17:54:50-05:00",
+        "description": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a",
+        "source": "TheVerge"
       },
       {
-        "title": "Crusoe sells troubled Wyoming data center project to Google",
-        "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-        "pubDate": "Sat, 07 Nov 2026 01:40:28 +0000",
-        "description": "The deal highlights the challenges of developing massive AI data centers.",
-        "source": "TechCrunch"
+        "title": "Soul Glo’s Diaspora Problems is a hardcore record like no other",
+        "link": "https://www.theverge.com/entertainment/1029579/soul-glo-diaspora-problems-hardcore-punk-review",
+        "pubDate": "2026-11-08T17:37:22-05:00",
+        "description": "Soul Glo has a new record called NA I'M GON GRAB ALLAT coming out in January, and I, for one, can not wait. While two singles have dropped, it's not enough to truly tide me over, so I've been revisiting Songs to Yeet at the Sun and my favorite album ",
+        "source": "TheVerge"
       },
       {
-        "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
-        "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
-        "pubDate": "Fri, 06 Nov 2026 22:53:46 +0000",
-        "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
-        "source": "TechCrunch"
+        "title": "Epic Games Launcher is coming to SteamOS",
+        "link": "https://www.theverge.com/games/1029557/epic-games-launcher-is-coming-to-steamos",
+        "pubDate": "2026-11-08T15:52:05-05:00",
+        "description": "In October, Epic Games said that it was \"investigating\" making Fortnite compatible with Valve's Linux-based SteamOS. At the time, Epic Games Launcher was in preview, but SteamOS was not specifically listed as a supported distro. Now, Communications D",
+        "source": "TheVerge"
       },
       {
         "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
@@ -503,27 +531,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
         "pubDate": "2026-11-08T14:18:19-05:00",
         "description": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version o",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Elvis and Eminem rights holders are suing Suno",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
-        "pubDate": "2026-11-08T12:23:19-05:00",
-        "description": "Suno is facing yet another pair of lawsuits. A group of rights holders of Elvis Presley's music and the publisher of some of Eminem's biggest records are suing the AI music company, claiming it illegally generates music and lyrics that mimic those ar",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
-        "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
-        "pubDate": "2026-11-08T11:00:00-05:00",
-        "description": "The latest 13-inch MacBook Air is currently available for $1,099.99, marking the second time we’ve seen this $200 discount following the company’s hefty price increases over the summer. Although the base model — which features Apple’s M5 processor, 1",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Chatbots might be coming to Apple’s HomeView",
-        "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
-        "pubDate": "2026-11-08T10:00:30-05:00",
-        "description": "Code in the iOS 27.3 beta suggests that Apple could add support for chatbots to its smart home hub. There's a flag listed for a \"Conversational Apps\" category. While there are no details about what apps would fall under that heading, it seems reasona",
         "source": "TheVerge"
       }
     ],
