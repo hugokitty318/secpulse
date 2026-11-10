@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-10T17:17:58.262383Z",
+  "ts": "2026-11-10T22:30:27.083708Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,10 +252,38 @@
     ],
     "en_sec": [
       {
+        "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+        "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
+        "pubDate": "Wed, 11 Nov 2026 00:53:10 +0530",
+        "description": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+        "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
+        "pubDate": "Wed, 11 Nov 2026 00:49:39 +0530",
+        "description": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, includ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+        "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530",
+        "description": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
+        "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
+        "pubDate": "Tue, 10 Nov 2026 23:13:23 +0530",
+        "description": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructur",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
         "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
         "pubDate": "Tue, 10 Nov 2026 21:30:55 +0530",
-        "description": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in October 2026, involves the exploitation of a chain comp",
+        "description": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in early October 2026, involves the exploitation of a chai",
         "source": "TheHackerNews"
       },
       {
@@ -266,7 +294,7 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+        "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
         "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
         "pubDate": "Tue, 10 Nov 2026 21:03:59 +0530",
         "description": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for ",
@@ -280,11 +308,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+        "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
+        "pubDate": "Tue, 10 Nov 2026 17:20:19 -0500",
+        "description": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 worksp",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Beyond the Alert: The Case for Rich Network Data",
         "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
         "pubDate": "Tue, 10 Nov 2026 17:08:13 +0530",
         "description": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arri",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
+        "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
+        "pubDate": "Tue, 10 Nov 2026 15:54:55 -0500",
+        "description": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
@@ -308,11 +350,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
+        "pubDate": "Tue, 10 Nov 2026 15:04:36 -0500",
+        "description": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
         "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
         "pubDate": "Tue, 10 Nov 2026 14:38:20 +0530",
         "description": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers on th",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
+        "pubDate": "Tue, 10 Nov 2026 14:31:11 -0500",
+        "description": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
+        "pubDate": "Tue, 10 Nov 2026 14:07:36 -0500",
+        "description": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
@@ -322,77 +385,84 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-        "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-        "pubDate": "Tue, 10 Nov 2026 12:22:54 +0530",
-        "description": "Google on Monday released updates to patch nine security vulnerabilities, including one that has come under active exploitation in the wild.\n\nThe high-severity vulnerability, assigned the CVE identifier CVE-2026-125350 (CVSS score: N/A), has been des",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-        "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-        "pubDate": "Tue, 10 Nov 2026 12:14:36 +0530",
-        "description": "N-able said it has taken N-central Hosted Environments offline and is urging on-premises customers to shut down their servers until further notice following the public disclosure of over 30 vulnerabilities collectively tracked as Able2Shell.\n\n\"As a p",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-        "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-        "pubDate": "Tue, 10 Nov 2026 12:01:42 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added four security flaws impacting GPUStack, SignalWire FreeSwitch, OpenBSD OpenSSH, and IBM Aspera Faspex to its Known Exploited Vulnerabilities (KEV) catalog, citing eviden",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
-        "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
-        "pubDate": "Tue, 10 Nov 2026 11:17:16 -0500",
-        "description": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
-        "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
-        "pubDate": "Tue, 10 Nov 2026 10:59:19 -0500",
-        "description": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ransomware recovery is now a client retention metric",
-        "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
-        "pubDate": "Tue, 10 Nov 2026 10:01:11 -0500",
-        "description": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated wo",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
-        "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
-        "pubDate": "Tue, 10 Nov 2026 07:07:03 -0500",
-        "description": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
-        "pubDate": "Tue, 10 Nov 2026 05:10:20 -0500",
-        "description": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
-        "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
-        "pubDate": "Tue, 10 Nov 2026 05:04:32 -0500",
-        "description": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
-        "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
-        "pubDate": "Tue, 10 Nov 2026 03:51:25 -0500",
-        "description": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
+        "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
+        "pubDate": "Tue, 10 Nov 2026 13:33:26 -0500",
+        "description": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
         "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+        "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
+        "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
+        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
+        "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
+        "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
+        "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+        "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
+        "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "X-energy gets green light to build its first small modular nuclear reactors",
+        "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
+        "pubDate": "Tue, 10 Nov 2026 20:43:55 +0000",
+        "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
+        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
+        "pubDate": "Tue, 10 Nov 2026 19:57:52 +0000",
+        "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
+        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+        "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
+        "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
+        "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
+        "pubDate": "Tue, 10 Nov 2026 19:03:52 +0000",
+        "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
+        "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
+        "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
+        "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
+        "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
+        "pubDate": "Tue, 10 Nov 2026 18:49:19 +0000",
+        "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+        "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
+        "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
+        "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
         "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
@@ -401,7 +471,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+        "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
         "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
         "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
         "description": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
@@ -429,108 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
-        "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
-        "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
-        "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Reddit is turning user conversations into AI-powered product reviews",
-        "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
-        "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-        "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
-        "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
-        "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
-        "description": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
-        "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
-        "pubDate": "Tue, 10 Nov 2026 14:05:10 +0000",
-        "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
-        "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
-        "pubDate": "Tue, 10 Nov 2026 14:01:39 +0000",
-        "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
-        "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
-        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
-        "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
-        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
-        "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
-        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
-        "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-        "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-        "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
-        "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
-        "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
-        "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
-        "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "eBay appears to have shut the door on third-party AI agents",
-        "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
-        "pubDate": "2026-11-10T11:20:30-05:00",
-        "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of wat",
+        "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
+        "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
+        "pubDate": "2026-11-10T17:00:00-05:00",
+        "description": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avenge",
         "source": "TheVerge"
       },
       {
-        "title": "The Verge’s 2026 holiday gift guide for moms",
-        "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
-        "pubDate": "2026-11-10T11:00:00-05:00",
-        "description": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as end",
+        "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
+        "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
+        "pubDate": "2026-11-10T16:40:31-05:00",
+        "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the ",
         "source": "TheVerge"
       },
       {
-        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
-        "pubDate": "2026-11-10T11:00:00-05:00",
-        "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the ve",
+        "title": "Sony cancels live-service shooter Fairgames",
+        "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
+        "pubDate": "2026-11-10T16:06:12-05:00",
+        "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, incl",
         "source": "TheVerge"
       },
       {
-        "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
-        "link": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
-        "pubDate": "2026-11-10T10:47:18-05:00",
-        "description": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to ",
+        "title": "The PlayStation Plus PC app is shutting down next month",
+        "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
+        "pubDate": "2026-11-10T14:40:52-05:00",
+        "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people ",
         "source": "TheVerge"
       },
       {
-        "title": "Reddit wants to guide your next purchase",
-        "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
-        "pubDate": "2026-11-10T10:00:00-05:00",
-        "description": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundu",
+        "title": "Starlink Mini 2 adds a swappable battery",
+        "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
+        "pubDate": "2026-11-10T14:19:12-05:00",
+        "description": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations t",
         "source": "TheVerge"
       }
     ],
