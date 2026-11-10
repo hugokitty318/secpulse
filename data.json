@@ -1,7 +1,63 @@
 {
-  "ts": "2026-11-09T18:42:45.842807Z",
+  "ts": "2026-11-10T02:01:32.751215Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "崇越子公司安永生活電商委外服務商發生異常資料存取，清查受影響範圍",
+        "link": "https://www.ithome.com.tw/news/180351",
+        "pubDate": "2026-11-10 09:58",
+        "description": "半導體材料整合服務商崇越（5434）指出，旗下子公司安永生活接獲電商平臺委外服務商順立智慧通知，近期發現異常資料存取情形。安永生活已在電商平臺提醒消費者提高防詐騙警覺，並著手釐清受影響的消費者及資料範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "DigiCert發生資料外洩，起因是伺服器遷移出錯",
+        "link": "https://www.ithome.com.tw/news/180342",
+        "pubDate": "2026-11-10 09:46",
+        "description": "憑證管理公司DigiCert證實發生資料外洩事件，因2025年2月伺服器遷移時設定錯誤，將原本僅能透過VPN存取的內部系統曝露於網際網路，導致未經授權人士取得部分客戶資料，包含姓名、企業電子郵件、電話、地址，以及部分客戶提供的護照、駕照與水電帳單等文件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "法國將10月冷凍、冷藏設備網攻歸因於伊朗網軍，波及700多處零售據點、損失數千萬歐元",
+        "link": "https://www.ithome.com.tw/news/180349",
+        "pubDate": "2026-11-10 08:48",
+        "description": "法國政府將10月針對境內700多處零售據點冷凍、冷藏設備控制器的網路攻擊歸因於伊朗網軍Shahid Kaveh。攻擊者調高設備的除霜溫度設定，至少引發15起火災，並造成數千萬歐元食品損失",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI加快漏洞發現與攻擊速度，2027年企業資安面臨四大變化",
+        "link": "https://www.ithome.com.tw/news/180299",
+        "pubDate": "2026-11-10 08:00",
+        "description": "資安業者Check Point Software預測，2027年企業可能面臨更大的漏洞修補壓力，也需要加強控管AI代理的存取權限。AI代理未來可能協助資安人員偵測攻擊、調整安全設定，企業也可能整合現有資安工具，而不同廠商的產品仍須能夠互通",
+        "source": "iThome資安"
+      },
+      {
+        "title": "親俄網路間諜組織Gorbag鎖定烏克蘭政府，透過網釣郵件及WinRAR漏洞竊取情報",
+        "link": "https://www.ithome.com.tw/news/180261",
+        "pubDate": "2026-11-10 08:00",
+        "description": "親俄網路間諜組織Gorbag至少自2025年2月起針對烏克蘭政府、司法、執法及國防相關單位發動攻擊，目標還包括外國軍援物資的重要運輸據點。該組織今年初更開始利用WinRAR漏洞CVE-2025-8088入侵系統，竊取登入憑證、OpenVPN組態及文件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Cloudflare推出漏洞情報服務，整理網際網路服務相關重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180297",
+        "pubDate": "2026-11-10 08:00",
+        "description": "Cloudflare漏洞情報服務Zero Wire整理網站、Web應用程式及相關軟體的重大漏洞，提供受影響系統資訊、修補建議及可能的攻擊活動資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Nous Research改造Qwen模型，注入西方價值並減少政治偏差",
+        "link": "https://www.ithome.com.tw/news/180350",
+        "pubDate": "2026-11-10  08:11:50",
+        "description": "美國AI研究新創Nous Research上周五（11/6）發表Arete-27B，透過後訓練改造阿里巴巴的Qwen3.8-27B模型，強化言論自由、民主、自由市場及個人隱私等西方價值觀，以減少政治敏感議題上的偏差，同時保留模型原有能力。",
+        "source": "iThome"
+      },
+      {
+        "title": "整合開發環境GoLand 2026.3讓AI代理直接操作效能分析器，追查Go程式瓶頸",
+        "link": "https://www.ithome.com.tw/news/180347",
+        "pubDate": "2026-11-10  08:11:00",
+        "description": "JetBrains發布Go語言整合開發環境GoLand 2026.3，開放效能分析工具供AI代理操作。開發者只要描述API回應緩慢、CPU使用率過高或記憶體持續增加等問題，AI代理便可啟動程式、收集效能資料，找出耗費資源的函式與程式碼位置。目前已支援Claude Code、Codex及Junie。",
+        "source": "iThome"
+      },
       {
         "title": "搶攻企業AI規模化的需求，Google新推兩款TPU新系統，TPU首度支援機密運算",
         "link": "https://www.ithome.com.tw/news/180336",
@@ -66,48 +122,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "天仁會員與線上商城平臺訂單資料恐受91APP資安事件波及",
-        "link": "https://www.ithome.com.tw/news/180330",
-        "pubDate": "2026-11-09 14:48",
-        "description": "連鎖茶飲品牌天仁（1233）表示近日接獲線上平臺委外服務廠商91APP通知，其資料庫遭受自動化攻擊，當中包含天仁會員與線上商城平臺「熟客圈」的訂單資料。目前91APP尚無法確認資料是否受到影響及實際範圍，天仁已啟動應變機制，並通知會員留意詐騙風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "臺鹽線上商城委外廠商資料庫遭未授權存取",
-        "link": "https://www.ithome.com.tw/news/180328",
-        "pubDate": "2026-11-09 14:28",
-        "description": "臺鹽（1737）旗下線上商城「台鹽線上購」的委外服務廠商順立智慧（Cyberbiz）發生資安事件，資料庫遭未經授權異常存取，臺鹽其中包含商城訂單及消費者個人資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本ISP業者Arara遭駭，影響小學館、BIC Camera、摩斯漢堡等數百家客戶，可能外洩8,100萬筆資訊",
-        "link": "https://www.ithome.com.tw/news/180324",
-        "pubDate": "2026-11-09 13:48",
-        "description": "日本Arara發生資安事件，超過8,100萬個電子郵件位址可能外洩，受影響客戶包括小學館、BIC Camera、摩斯漢堡及三井住友銀行等",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客在GitHub散布假資安工具，利用Visual Studio編譯流程植入後門",
-        "link": "https://www.ithome.com.tw/news/180316",
-        "pubDate": "2026-11-09 13:28",
-        "description": "駭客利用Visual Studio專案檔的編譯設定執行惡意指令，並透過GitHub假資安工具散布後門與竊資程式，調查時整波活動已有超過2,000臺電腦感染",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本保險集團MS&amp;AD保戶網站遭存取，外洩三井住友等客戶資料72萬筆",
-        "link": "https://www.ithome.com.tw/news/180323",
-        "pubDate": "2026-11-09 13:15",
-        "description": "日本大型保險集團MS&AD旗下包括三井住友海上在內的4家公司接連傳出客戶資料外洩，合計超過72萬筆。外洩資料包括保戶姓名、聯絡方式及保險契約資訊，部分紀錄還包含信用卡及銀行帳戶資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "倚天酷碁與宏碁風尚線上商店委外服務商Cyberbiz發生資安事件",
-        "link": "https://www.ithome.com.tw/news/180322",
-        "pubDate": "2026-11-09 13:05",
-        "description": "Cyberbiz資料庫部分資料遭未授權存取，導致倚天酷碁與其子公司宏碁風尚暫停線上商店營運，將個別通知疑似受影響消費者",
-        "source": "iThome資安"
-      },
-      {
         "title": "OpenAI Images 2.6支援GIF動畫生成，API新增SVG圖檔輸出與編輯控制",
         "link": "https://www.ithome.com.tw/news/180340",
         "pubDate": "2026-11-09  05:11:30",
@@ -120,23 +134,23 @@
         "pubDate": "2026-11-09  05:11:17",
         "description": "GitHub公布新一代Git儲存架構Rubicon，因應大量AI代理同時操作單一程式碼儲存庫的需求。新Git儲存架構經官方內部測試，可支援5,000個AI代理同時作業，每秒處理7,200次程式碼推送（Push），讀取仍維持低延遲。新架構目前僅提供有限私人預覽。",
         "source": "iThome"
-      },
-      {
-        "title": "Anthropic應用市集目前已有超過25款代理人、服務",
-        "link": "https://www.ithome.com.tw/news/180332",
-        "pubDate": "2026-11-09  02:11:40",
-        "description": "Anthropic上周宣布新增其平臺Claude Marketplace第三方應用市集的合作夥伴，目前已有超過25項代理人及服務。",
-        "source": "iThome"
-      },
-      {
-        "title": "ElevenLabs攜手SoundCloud，開放直接發布AI生成音樂",
-        "link": "https://www.ithome.com.tw/news/180326",
-        "pubDate": "2026-11-09  02:11:20",
-        "description": "AI語音技術業者ElevenLabs周四（11/5）宣布與音樂分享平臺SoundCloud合作，讓使用者可將旗下ElevenMusic生成的AI歌曲直接發布至SoundCloud，省去下載及重新上傳的程序，簡化AI音樂從創作到公開發表的流程。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "電池不必等到故障才處理：AI 預測、模擬測試與電芯級數據如何讓風險提早現形",
+        "link": "https://techorange.com/2026/11/10/battery-ai-predictive-safety-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 10 Nov 2026 08:10:00 +0800",
+        "description": "全球能源轉型與電動車市場迅速擴張，電池安全防護、研發效率以及車載管理架構正面臨深刻的產業變革。隨著整體技術鏈的推進，數據量能與智慧演算法正重構電池的運作邏輯，促使產業從硬體防禦轉向全生命週期的預測與管理。 安全防護升級，以智慧預測打造安全防線 過去業界處理電池安全議題時，多半將資源投注於事故發生後的損害控制、防爆隔離與災後處置，屬於被動防禦機制。如今，以三星 SDI（Samsung SDI）預計在 2026 年底導入儲能系統（ESS）產品的 Samsung Battery Intelligenc",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【李牮斯專欄】為中小企業誕生的 AI：組織精簡、資料散亂，為何反而是導入優勢？",
+        "link": "https://techorange.com/2026/11/10/smb-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 10 Nov 2026 06:00:00 +0800",
+        "description": "克卜勒太空望遠鏡 2009 年升空，不料短短四年後因關鍵設備故障，原有的觀測工作就被迫中斷。如今，望遠鏡雖已退役多年，天文學家仍持續從它留下的資料中發現新的系外行星，對科學的貢獻仍在延續。 AI 也是如此。 隨著民主黨在美國期中選舉勝出，支持限制資料中心擴建的政治力量也跟著壯大，市場因而擔心 AI 資本支出放緩。但就算 AI 投資今天就停下來，既有模型也有足夠力量，從此改變企業競爭的方式，甚至重寫人類的經濟規則。 企業競爭，說到底離不開速度、品質、判斷與創新。在不少知識工作上，AI 在這些項目上",
+        "source": "TechOrange"
+      },
       {
         "title": "【Anthropic 機器人工作能力報告】技術已能接管全美 34% 工作，但真正「比請人便宜」的不到 1%",
         "link": "https://techorange.com/2026/11/07/what-work-can-robots-do/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -227,20 +241,6 @@
         "pubDate": "Fri, 06 Nov 2026 17:03:41 +0800",
         "description": "生成式 AI 熱潮之後，下一個戰場已不在螢幕裡，而在工廠、設備與營運現場。t.Hub 內科創新育成基地將於 2026 年 11 月 18 日（三）舉辦「Empowering the Future 2026 t.Hub 國際交流會暨投資媒合會」，邀集國際創投合夥人與智慧製造實戰專家，聚焦數位孿生（Digital Twin）與實體 AI（Physical AI）兩大趨勢，直擊 AI 從軟體走進真實場域的投資動向與商機。對擁有深厚硬體與製造實力的臺灣而言，這波浪潮正是將產業底蘊轉化為 AI 競爭力的關",
         "source": "TechOrange"
-      },
-      {
-        "title": "連「有腸躁症的網紅」都找得到，AI 讓品牌選網紅更細，最後一關仍得靠人",
-        "link": "https://techorange.com/2026/11/06/marketer-influencer-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 06 Nov 2026 16:10:20 +0800",
-        "description": "當網紅行銷逐漸成為品牌媒體策略的核心，如何精準找到能與目標受眾產生共鳴的創作者，成為行銷團隊面臨的新挑戰。AI 網紅搜尋平台與社群聆聽工具，正協助品牌擴大搜尋範圍、分析受眾特徵並精確評估成效，減少人工篩選的負擔。 超級細緻的條件設定與社群聆聽，精準鎖定利基受眾 傳統的網紅搜尋往往受限於粗略的分類與粉絲數量，而新一代 AI 工具則展現了極高的精準度。 美國濕紙巾品牌 Goodwipes 採用網紅搜尋工具 Modash 後，大幅縮減了手動搜尋的時間，讓團隊得以專注於審視內容契合度。Modash 的條",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美國期中選舉後，加密法案 CLARITY 更難過關？民主黨據報研議新法，擬擴大 SEC 監管權限",
-        "link": "https://techorange.com/2026/11/06/us-midterms-crypto-clarity-act/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 06 Nov 2026 15:48:42 +0800",
-        "description": "據《CBS News》推估，美國時間 11/3 的期中選舉，民主黨將在明年同時掌控參眾兩院。《Decrypt》報導，在 2024 與 2026 兩個選舉週期，加密產業花了超過 3 億美元支持兩黨的親加密貨幣候選人，光今年就有約 1.76 億美元投入 100 多場選戰。但加密產業一直爭取的聯邦市場規則《數位資產市場明確法案》（Digital Asset Market Clarity Act，簡稱 CLARITY Act），9 月在參議院的程序表決就以 49 比 50 卡關；《PYMNTS》也指出，",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -301,6 +301,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
+        "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
+        "pubDate": "Mon, 09 Nov 2026 18:52:12 -0500",
+        "description": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
+        "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
+        "pubDate": "Mon, 09 Nov 2026 17:09:33 -0500",
+        "description": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
         "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
         "pubDate": "Mon, 09 Nov 2026 16:57:53 +0530",
@@ -308,11 +322,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
+        "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
+        "pubDate": "Mon, 09 Nov 2026 16:26:25 -0500",
+        "description": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let atta",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
         "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
         "pubDate": "Mon, 09 Nov 2026 16:26:25 +0530",
         "description": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to rea",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "York University breach exposed personal information dating to 2007",
+        "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
+        "pubDate": "Mon, 09 Nov 2026 16:22:31 -0500",
+        "description": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
@@ -355,56 +383,84 @@
         "pubDate": "Mon, 09 Nov 2026 11:45:10 +0530",
         "description": "U.S. government agencies have warned that threat actors are actively targeting industrial refrigeration and cold-chain monitoring systems globally with an aim to cause service disruptions, fire hazards, and loss of inventory.\n\n\"The actors may exploit",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-        "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-        "pubDate": "Mon, 09 Nov 2026 11:35:24 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been exploited in real-",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Binance denies data breach after alleged ShinyHunters claims",
-        "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
-        "pubDate": "Mon, 09 Nov 2026 11:12:39 -0500",
-        "description": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
-        "pubDate": "Mon, 09 Nov 2026 11:04:57 -0500",
-        "description": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
-        "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
-        "pubDate": "Mon, 09 Nov 2026 10:05:15 -0500",
-        "description": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy, agent governa",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Apps to distract you from the endless cycle of doomscrolling",
-        "link": "https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/",
-        "pubDate": "Sun, 08 Nov 2026 22:00:00 +0000",
-        "description": "It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.",
+        "title": "Anthropic reportedly plans to move forward with IPO plans",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+        "pubDate": "Tue, 10 Nov 2026 01:27:12 +0000",
+        "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
-        "link": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
-        "pubDate": "Sun, 08 Nov 2026 21:00:11 +0000",
-        "description": "In a memo to the company, Huang admitted that he had an affair.",
+        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+        "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
+        "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
         "source": "TechCrunch"
       },
       {
-        "title": "If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be",
-        "link": "https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/",
-        "pubDate": "Sun, 08 Nov 2026 21:00:00 +0000",
-        "description": "Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?",
+        "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+        "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+        "pubDate": "Mon, 09 Nov 2026 23:03:46 +0000",
+        "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+        "pubDate": "Mon, 09 Nov 2026 22:46:09 +0000",
+        "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The race is on to sue Nvidia",
+        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+        "pubDate": "Mon, 09 Nov 2026 22:23:42 +0000",
+        "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a ver",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Fervo now has $12B in orders for its geothermal power tech",
+        "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+        "pubDate": "Mon, 09 Nov 2026 20:55:34 +0000",
+        "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+        "pubDate": "Mon, 09 Nov 2026 20:09:06 +0000",
+        "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+        "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+        "pubDate": "Mon, 09 Nov 2026 19:39:41 +0000",
+        "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+        "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
+        "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+        "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+        "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
+        "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+        "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+        "pubDate": "Mon, 09 Nov 2026 19:19:24 +0000",
+        "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
         "source": "TechCrunch"
       },
       {
@@ -432,98 +488,42 @@
         "title": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines",
         "link": "https://techcrunch.com/2026/11/09/anthropic-joins-ais-natural-gas-frenzy-buys-3-4b-worth-of-turbines/",
         "pubDate": "Mon, 09 Nov 2026 16:56:54 +0000",
-        "description": "Anthropic bought billions of dollars worth of natural gas turbines in a deal that could give it buyer's remorse.",
+        "description": "Anthropic bought billions of dollars' worth of natural gas turbines in a deal that could give it buyer's remorse.",
         "source": "TechCrunch"
       },
       {
-        "title": "Medium’s new TK app brings AI assistance directly into the writing process",
-        "link": "https://techcrunch.com/2026/11/09/mediums-new-tk-app-brings-ai-assistance-directly-into-the-writing-process/",
-        "pubDate": "Mon, 09 Nov 2026 16:12:28 +0000",
-        "description": "Medium's new writing app embraces AI-assisted writing, despite growing controversy over the technology's role in publishing.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta expands Instagram’s AI age-guessing tech globally",
-        "link": "https://techcrunch.com/2026/11/09/meta-expands-instagrams-ai-age-guessing-tech-globally/",
-        "pubDate": "Mon, 09 Nov 2026 15:32:27 +0000",
-        "description": "Meta says it will use its AI technology to look for clues about people it suspects to be teenagers — even if they use an adult birthday.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Waymo robotaxis kept illegally passing school buses after software fix, feds say",
-        "link": "https://techcrunch.com/2026/11/09/waymo-robotaxis-kept-illegally-passing-school-buses-after-software-fix-feds-say/",
-        "pubDate": "Mon, 09 Nov 2026 15:24:59 +0000",
-        "description": "The update to Waymo's self-driving system was rolled out nearly a year ago.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meet Drops, the new music app bringing back the fun of sharing songs with friends",
-        "link": "https://techcrunch.com/2026/11/09/meet-drops-the-new-music-app-bringing-back-the-fun-of-sharing-songs-with-friends/",
-        "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
-        "description": "The new music discovery app lets users scroll through 10- to 30-second snippets of songs, comment, and share with friends.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Automattic debuts a platform to deploy vibe-coding apps amid a changing internet",
-        "link": "https://techcrunch.com/2026/11/09/automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet/",
-        "pubDate": "Mon, 09 Nov 2026 14:00:00 +0000",
-        "description": "Automattic aims to compete with the likes of Lovable with Spacefast.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Musk says Tesla will refund some Cybertruck deposits, defends decision to end production",
-        "link": "https://techcrunch.com/2026/11/09/musk-says-tesla-will-refund-some-cybertruck-deposits-defends-decision-to-end-production/",
-        "pubDate": "Mon, 09 Nov 2026 13:43:28 +0000",
-        "description": "Elon Musk defended the company's decision to stop making the Cybertruck, which will go out of production in around eight months.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Tesla expands robotaxi service to San Antonio",
-        "link": "https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/",
-        "pubDate": "Mon, 09 Nov 2026 11:30:24 +0000",
-        "description": "This will be the next Texas city in which Tesla will launch robotaxis.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s ‘about a 50-50’",
-        "link": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
-        "pubDate": "Mon, 09 Nov 2026 05:26:29 +0000",
-        "description": "Nvidia’s board is investigating Jensen Huang over his relationship with a suspected Chinese spy, and Yale’s Jeffrey Sonnenfeld thinks it’s roughly a coin flip whether Huang stays on as CEO.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
-        "link": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
-        "pubDate": "2026-11-09T13:35:25-05:00",
-        "description": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usua",
+        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+        "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+        "pubDate": "2026-11-09T19:28:49-05:00",
+        "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you",
         "source": "TheVerge"
       },
       {
-        "title": "Instagram’s Effect Builder makes new filters from AI prompts",
-        "link": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
-        "pubDate": "2026-11-09T13:07:23-05:00",
-        "description": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing ",
+        "title": "What could China get from Jensen Huang?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+        "pubDate": "2026-11-09T18:51:58-05:00",
+        "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influen",
         "source": "TheVerge"
       },
       {
-        "title": "James Gunn is out as DC movie leader",
-        "link": "https://www.theverge.com/entertainment/1030022/james-gunn-peter-safran-dc-studios-out-leaving",
-        "pubDate": "2026-11-09T12:39:57-05:00",
-        "description": "Soon, James Gunn and Peter Safran will no longer head up Skydance's DC Studios. After taking the helm of DC Studios as co-CEOs in 2022, Gunn and Safran are being replaced by former Marvel SVP of Production and Development Jeremy Latcham, Deadline rep",
+        "title": "Here’s what Trump said he knew about Jensen Huang",
+        "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+        "pubDate": "2026-11-09T18:47:46-05:00",
+        "description": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wif",
         "source": "TheVerge"
       },
       {
-        "title": "The future of AI hinges on… Jensen Huang’s sex life?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1029990/jensen-huang-the-spy-who-loved-me",
-        "pubDate": "2026-11-09T12:36:08-05:00",
-        "description": "I would prefer that these people's sex lives were none of my business but I guess we have to talk about Jensen Huang and the National Security Incident. Who could have guessed that the guy who was out here signing titties might not have great judgmen",
+        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "pubDate": "2026-11-09T18:07:59-05:00",
+        "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence rep",
         "source": "TheVerge"
       },
       {
-        "title": "Uber wants to park your car now, too",
-        "link": "https://www.theverge.com/transportation/1029776/uber-parking-launch-spothero-robotaxis",
-        "pubDate": "2026-11-09T12:00:00-05:00",
-        "description": "Uber announced the launch of Uber Parking, a native in-app reservation feature that allows drivers to find, book, and pay for garage and lot spaces ahead of time. The new feature is a result of Uber's recent acquisition of SpotHero, integrating a net",
+        "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+        "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+        "pubDate": "2026-11-09T16:43:41-05:00",
+        "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $10",
         "source": "TheVerge"
       }
     ],
