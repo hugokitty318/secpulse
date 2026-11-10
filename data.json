@@ -1,7 +1,21 @@
 {
-  "ts": "2026-11-10T09:41:52.098557Z",
+  "ts": "2026-11-10T17:17:58.262383Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚資訊促成Mend臺灣雲端區域上線",
+        "link": "https://www.ithome.com.tw/news/180393",
+        "pubDate": "2026-11-10 18:47",
+        "description": "隨著臺灣企業對資料主權及資安服務在地化的需求日益提高，應用程式安全廠商Mend正式啟用臺灣雲端區域，採用AWS亞太（台北）區域的雲端基礎架構提供SaaS服務。長期代理Mend產品的叡揚資訊表示，此次在雙方持續溝通與合作下，促成Mend在臺灣提供在地化雲端服務，涵蓋開源軟體組成分析、原始碼安全檢測及弱點修復等應用程式安全領域。企業執行原始碼掃描與分析所產生的相關資訊可留存臺灣境內，有助於降低跨境資料傳輸的合規疑慮，同時縮短連線路徑、改善服務回應速度，並強化企業應用程式安全管理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "捐款人個資恐外洩！netiCRM服務商遭駭，公督盟、司改會等超過30個非營利組織接連示警",
+        "link": "https://www.ithome.com.tw/news/180384",
+        "pubDate": "2026-11-10 18:40",
+        "description": "臺灣多家非營利組織使用的netiCRM捐款管理系統傳出資安事件，超過30個公益團體接連發布警訊，提醒捐款人留意詐騙。網絡行動科技表示，由於攻擊者曾取得伺服器管理權限，因此基於審慎原則，將客戶網站後臺帳號及寄信機制使用的郵件帳號設定視為可能外洩，至於客戶個資是否遭竊，目前仍在調查中",
+        "source": "iThome資安"
+      },
       {
         "title": "WorkOS資料外洩事故出現新進展，AI滲透測試框架突破測試環境釀禍",
         "link": "https://www.ithome.com.tw/news/180388",
@@ -94,18 +108,25 @@
         "source": "iThome資安"
       },
       {
-        "title": "Google發布Chrome 157更新，修補已遭利用的資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180360",
-        "pubDate": "2026-11-10 11:28",
-        "description": "Google於11月9日發布Chrome 157穩定版更新，修補9個安全漏洞，涵蓋WebGL、GPU、V8及XML等元件，其中7個列為高風險、2個為中風險。值得注意的是，CVE-2026-125350已出現實際利用活動，用戶應儘速更新因應",
-        "source": "iThome資安"
+        "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
+        "link": "https://www.ithome.com.tw/news/180394",
+        "pubDate": "2026-11-10  07:11:48",
+        "description": "微軟發布Windows應用程式命令列開發工具WinApp CLI 0.8，新增實驗性預覽功能WinUI DevTools，讓開發者及AI代理檢查執行中的WinUI 3應用程式，查看介面元件屬性、版面配置及對應的XAML原始碼位置，也能即時測試修改結果。新版另加入效能分析及C++專案支援。",
+        "source": "iThome"
       },
       {
-        "title": "台灣櫻花購物商城的委外廠商資料庫遭異常存取，訂單及消費者個資恐受影響",
-        "link": "https://www.ithome.com.tw/news/180358",
-        "pubDate": "2026-11-10 11:01",
-        "description": "家電及廚房設備製造商櫻花（9911）接獲委外服務廠商順立智慧（Cyberbiz）通知，因資料庫部分資料遭未經授權異常存取，涉及SAKURA台灣櫻花官方購物商城的訂單及消費者個人資料。櫻花已啟動資安應變措施，並要求廠商釐清資料受影響範圍",
-        "source": "iThome資安"
+        "title": "英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局Agent AI",
+        "link": "https://www.ithome.com.tw/news/180395",
+        "pubDate": "2026-11-10  06:11:25",
+        "description": "英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。\n呼應「Inference Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個層面布局AI運算，包括讓AI能力進入更多PC與邊緣裝置的Core系列3，以及降低企業部署AI推論成本的GPU",
+        "source": "iThome"
+      },
+      {
+        "title": "涉嫌入侵美國大學進行非法加密貨幣挖礦的加拿大駭客，被引渡至美國受審",
+        "link": "https://www.ithome.com.tw/news/180396",
+        "pubDate": "2026-11-10  06:11:19",
+        "description": "美國司法部於11月3日公告，兩名加拿大男子Ryan James Roach（35歲）與Mathiew James Stubbings（41歲），涉嫌在2016年6月至2019年12月間，入侵紐約、田納西、北卡羅來納及麻薩諸塞州教育機構的系統，竊取登入憑證，並植入惡意程式，利用受害電腦挖掘加密貨幣。",
+        "source": "iThome"
       },
       {
         "title": "醫療AI從內容生成走向自主行動，衛福部下一階段指引瞄準Agent治理",
@@ -119,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/180369",
         "pubDate": "2026-11-10  03:11:44",
         "description": "AWS擴充安全權杖服務（AWS Security Token Service，STS），讓工作負載可以使用原有的身分，在不同AWS分區（AWS Partitions）取得暫時性憑證，存取獲得授權的雲端資源。企業不必再替跨分區作業另外保存長期有效的IAM存取金鑰，可減少金鑰外洩風險及管理負擔。",
-        "source": "iThome"
-      },
-      {
-        "title": "Meta推出輕量級模型Muse Ember，每任務成本是Claude Haiku 5.5的1/3",
-        "link": "https://www.ithome.com.tw/news/180367",
-        "pubDate": "2026-11-10  01:11:14",
-        "description": "Meta周一（11月9日）公布輕量級模型Muse Ember，挑戰Claude Haiku 5.5、GPT 6 Luna，宣稱以1/3成本達到Anthropic Claude Haiku 5.5的測試效能。",
         "source": "iThome"
       }
     ],
@@ -238,6 +252,62 @@
     ],
     "en_sec": [
       {
+        "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+        "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+        "pubDate": "Tue, 10 Nov 2026 21:30:55 +0530",
+        "description": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in October 2026, involves the exploitation of a chain comp",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+        "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+        "pubDate": "Tue, 10 Nov 2026 21:28:44 +0530",
+        "description": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+        "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+        "pubDate": "Tue, 10 Nov 2026 21:03:59 +0530",
+        "description": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+        "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+        "pubDate": "Tue, 10 Nov 2026 17:45:31 +0530",
+        "description": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates fo",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Beyond the Alert: The Case for Rich Network Data",
+        "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+        "pubDate": "Tue, 10 Nov 2026 17:08:13 +0530",
+        "description": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arri",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+        "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+        "pubDate": "Tue, 10 Nov 2026 15:46:51 +0530",
+        "description": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages se",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+        "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+        "pubDate": "Tue, 10 Nov 2026 15:37:29 +0530",
+        "description": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collec",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+        "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+        "pubDate": "Tue, 10 Nov 2026 15:32:40 +0530",
+        "description": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.\n\nThree are in the SAP NetWeaver application server, the software SAP syste",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
         "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
         "pubDate": "Tue, 10 Nov 2026 14:38:20 +0530",
@@ -273,250 +343,194 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Critical Xen Orchestra auth bypass flaw exploited to hijack VM servers",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-xen-orchestra-auth-bypass-flaw-exploited-to-hijack-vm-servers/",
+        "pubDate": "Tue, 10 Nov 2026 11:17:16 -0500",
+        "description": "A critical authentication bypass vulnerability in Xen Orchestra is being actively exploited in attacks that could grant administrator privileges and allow takeover of XCP-ng virtualization hosts. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Binance warns of iOS flaw that could leak crypto wallet secrets",
+        "link": "https://www.bleepingcomputer.com/news/security/binance-warns-of-ios-flaw-that-could-leak-crypto-wallet-secrets/",
+        "pubDate": "Tue, 10 Nov 2026 10:59:19 -0500",
+        "description": "Binance is warning about a vulnerability in Apple's iOS 26.7.1, 27.0.1, and 27.2 that could allow third-party apps to read private files stored by other apps, including cryptocurrency seed phrases, secret keys, and login credentials. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ransomware recovery is now a client retention metric",
+        "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-is-now-a-client-retention-metric/",
+        "pubDate": "Tue, 10 Nov 2026 10:01:11 -0500",
+        "description": "Recovering from ransomware doesn't guarantee an MSP will retain its clients, especially when delays, poor communication, and unexpected costs undermine trust. Kaseya examines how disconnected recovery tools create these problems and how integrated wo",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "SAP patches ICM2SHELL and PROXYGATE maximum severity flaws",
+        "link": "https://www.bleepingcomputer.com/news/security/sap-patches-four-maximum-severity-security-vulnerabilities/",
+        "pubDate": "Tue, 10 Nov 2026 07:07:03 -0500",
+        "description": "SAP patched 35 vulnerabilities in its November 2026 security updates, including four maximum-severity issues affecting its NetWeaver, Web Dispatcher, and Gateway software. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers now exploit critical Barracuda ESG flaws to gain root access",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-barracuda-email-security-gateway-flaws-to-get-root-access/",
+        "pubDate": "Tue, 10 Nov 2026 05:10:20 -0500",
+        "description": "Cybersecurity company Barracuda Networks warned that attackers have begun exploiting two recently patched Email Security Gateway (ESG) vulnerabilities that let them run commands with root privileges. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Turla hackers use new Cereal malware to spy on govt Exchange servers",
+        "link": "https://www.bleepingcomputer.com/news/security/turla-hackers-use-new-ceral-malware-to-spy-on-govt-exchange-servers/",
+        "pubDate": "Tue, 10 Nov 2026 05:04:32 -0500",
+        "description": "The Russian state-backed threat group Turla has been using a new malicious toolset called 'Cereal' to intercept emails on Microsoft Exchange servers at government organizations. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Google patches eighth Chrome zero-day exploited in attacks this year",
         "link": "https://www.bleepingcomputer.com/news/security/google-patches-eighth-chrome-zero-day-exploited-in-attacks-this-year/",
         "pubDate": "Tue, 10 Nov 2026 03:51:25 -0500",
         "description": "Google has released emergency security updates to patch a new Chrome vulnerability exploited in zero-day attacks, the eighth such flaw since the start of the year. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Fireworks AI discloses new breach after cloud provider hack",
-        "link": "https://www.bleepingcomputer.com/news/security/fireworks-ai-discloses-new-breach-after-cloud-provider-hack/",
-        "pubDate": "Tue, 10 Nov 2026 02:49:58 -0500",
-        "description": "AI infrastructure startup Fireworks has disclosed a new security breach in which attackers accessed its development machines after breaching a third-party cloud provider. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
-        "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
-        "pubDate": "Sun, 08 Nov 2026 10:43:08 -0500",
-        "description": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service the company ",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-        "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-        "pubDate": "Mon, 09 Nov 2026 23:21:21 +0530",
-        "description": "An attacker broke into AWS accounts belonging to multiple Qubole customers between October 14 and October 26 and stole stored secrets and data, cloud security company Wiz said today.\n\nThe attacker used credentials for an AWS account that Qubole's pla",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-        "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-        "pubDate": "Mon, 09 Nov 2026 23:06:28 +0530",
-        "description": "Attackers used the Ethersphere project's own release automation to publish malicious versions of two of its tools for the Swarm decentralized storage network: bee-js 13.3.0 and Swarm Desktop 0.56.2.\n\nBoth releases download and run code built to steal",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-        "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-        "pubDate": "Mon, 09 Nov 2026 20:01:29 +0530",
-        "description": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called PapRAT.\n\n\"PapR",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-        "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-        "pubDate": "Mon, 09 Nov 2026 18:58:25 +0530",
-        "description": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become part of the a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Vanderbilt University hit in BYOD ransomware attack, data theft claimed",
-        "link": "https://www.bleepingcomputer.com/news/security/vanderbilt-university-hit-in-byod-ransomware-attack-data-theft-claimed/",
-        "pubDate": "Mon, 09 Nov 2026 18:52:12 -0500",
-        "description": "Vanderbilt University warns it is responding to a cyberattack claimed by the BYOD ransomware gang, which claims to have encrypted the university's databases and stolen sensitive student, employee, and research data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "SEGA newsletter data breach exposes 2.2 million email addresses",
-        "link": "https://www.bleepingcomputer.com/news/security/sega-newsletter-data-breach-exposes-22-million-email-addresses/",
-        "pubDate": "Mon, 09 Nov 2026 17:09:33 -0500",
-        "description": "Japanese gaming giant SEGA has disclosed that a data breach at its third-party newsletter provider, ARARA, exposed the email addresses of 2.2 million newsletter subscribers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-        "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-        "pubDate": "Mon, 09 Nov 2026 16:57:53 +0530",
-        "description": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the engine.\n\nBoth a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "N-able takes cloud platform offline after 30+ \"zero-days\" published",
-        "link": "https://www.bleepingcomputer.com/news/security/n-able-takes-cloud-platform-offline-after-30-plus-zero-days-published/",
-        "pubDate": "Mon, 09 Nov 2026 16:26:25 -0500",
-        "description": "N-able has taken its hosted N-central environments offline and urged on-premises customers to shut down their servers after a security researcher publicly disclosed more than 30 alleged zero-day vulnerabilities, including exploits that could let atta",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-        "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-        "pubDate": "Mon, 09 Nov 2026 16:26:25 +0530",
-        "description": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker.\n\nKeplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that company to rea",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "York University breach exposed personal information dating to 2007",
-        "link": "https://www.bleepingcomputer.com/news/security/york-university-breach-exposed-personal-information-dating-to-2007/",
-        "pubDate": "Mon, 09 Nov 2026 16:22:31 -0500",
-        "description": "York University has announced it suffered a cybersecurity incident in which a threat actor stole personal information people submitted through online forms. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-        "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-        "pubDate": "Mon, 09 Nov 2026 15:31:21 +0530",
-        "description": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday.\n\nIt has several security fixes to release and asked operators to be careful unt",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-        "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-        "pubDate": "Mon, 09 Nov 2026 14:31:50 +0530",
-        "description": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week.\n\nThe agents also found a Taipei fire department platform exposing patient data from 201",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
-        "title": "Otter AI can now follow conversations across 30+ languages",
-        "link": "https://techcrunch.com/2026/11/09/otter-ai-can-now-follow-conversations-across-30-languages/",
-        "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000",
-        "description": "Otter AI just added support for 27 languages and revealed an upcoming feature that can follow along if speakers switch between languages.",
+        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
+        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "pubDate": "Tue, 10 Nov 2026 17:04:19 +0000",
+        "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "source": "TechCrunch"
       },
       {
-        "title": "California’s proposed ‘billionaire tax’ fails to pass",
-        "link": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
-        "pubDate": "Tue, 10 Nov 2026 05:18:43 +0000",
-        "description": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on w",
+        "title": "Sundrop turns your endless baby photos into recaps, time-lapses and more — without AI",
+        "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
+        "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
+        "description": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
-        "pubDate": "Tue, 10 Nov 2026 04:34:15 +0000",
-        "description": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+        "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
+        "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
+        "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
+        "description": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic reportedly plans to move forward with IPO plans",
-        "link": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
-        "pubDate": "Tue, 10 Nov 2026 01:27:12 +0000",
-        "description": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
+        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
+        "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
+        "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
-        "pubDate": "Mon, 09 Nov 2026 23:28:37 +0000",
-        "description": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+        "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
+        "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
+        "pubDate": "Tue, 10 Nov 2026 15:45:27 +0000",
+        "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hotel giant Wyndham exposed customer data after app security lapse",
-        "link": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
-        "pubDate": "Mon, 09 Nov 2026 23:03:46 +0000",
-        "description": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+        "title": "Meta’s AI agent Muse lands on Apple Watch and Android Wear OS",
+        "link": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
+        "pubDate": "Tue, 10 Nov 2026 15:29:30 +0000",
+        "description": "Users can now interact with Meta’s AI assistant through voice calls, text messages, or dictation on their Apple Watch.",
         "source": "TechCrunch"
       },
       {
-        "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
-        "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-        "pubDate": "Mon, 09 Nov 2026 22:46:09 +0000",
-        "description": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+        "title": "Reddit is turning user conversations into AI-powered product reviews",
+        "link": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+        "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "description": "Reddit's new AI-powered reviews summarize what users like and dislike about 10,000 products, helping shoppers research purchases ahead of the holidays.",
         "source": "TechCrunch"
       },
       {
-        "title": "The race is on to sue Nvidia",
-        "link": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
-        "pubDate": "Mon, 09 Nov 2026 22:23:42 +0000",
-        "description": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a ver",
+        "title": "New WhatsApp head wants to make the app easier to use, give its AI more chops",
+        "link": "https://techcrunch.com/2026/11/10/new-whatsapp-head-wants-to-make-the-app-easier-to-use-give-its-ai-more-chops/",
+        "pubDate": "Tue, 10 Nov 2026 15:00:00 +0000",
+        "description": "Kunal Shah said that AI on WhatsApp will remind people of their appointment than booking",
         "source": "TechCrunch"
       },
       {
-        "title": "Fervo now has $12B in orders for its geothermal power tech",
-        "link": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
-        "pubDate": "Mon, 09 Nov 2026 20:55:34 +0000",
-        "description": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+        "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "link": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+        "pubDate": "Tue, 10 Nov 2026 14:05:10 +0000",
+        "description": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
-        "pubDate": "Mon, 09 Nov 2026 20:09:06 +0000",
-        "description": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+        "title": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "link": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+        "pubDate": "Tue, 10 Nov 2026 14:01:39 +0000",
+        "description": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
         "source": "TechCrunch"
       },
       {
-        "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
-        "link": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
-        "pubDate": "Mon, 09 Nov 2026 19:39:41 +0000",
-        "description": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+        "title": "Aura’s newest e-ink photo frame is even better and more affordable than its last",
+        "link": "https://techcrunch.com/2026/11/10/auras-newest-e-ink-photo-frame-is-even-better-and-more-affordable-than-its-last/",
+        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "description": "Aura is unveiling a new product: a 10-inch digital e-ink frame that can blend in seamlessly with printed photos.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
-        "link": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
-        "pubDate": "Mon, 09 Nov 2026 19:24:51 +0000",
-        "description": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+        "title": "After challenging Google’s Android with Cyanogen, its co-founder takes aim at Windows for AI era",
+        "link": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era/",
+        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "description": "Kora is set to launch as a free-to-use alternative to Windows, targeting users who rely heavily on AI models and agents.",
         "source": "TechCrunch"
       },
       {
-        "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
-        "link": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
-        "pubDate": "Mon, 09 Nov 2026 19:21:46 +0000",
-        "description": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+        "title": "Spotify’s AI DJ gets new voices, personalities, and an option for less chatter",
+        "link": "https://techcrunch.com/2026/11/10/spotifys-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter/",
+        "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+        "description": "Spotify Premium users can now customize their AI DJ with new voices with different personalities, or turn off the commentary between songs.",
         "source": "TechCrunch"
       },
       {
-        "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
-        "link": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
-        "pubDate": "Mon, 09 Nov 2026 19:19:24 +0000",
-        "description": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+        "title": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "link": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+        "pubDate": "Tue, 10 Nov 2026 13:30:00 +0000",
+        "description": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
-        "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
-        "pubDate": "Mon, 09 Nov 2026 18:09:52 +0000",
-        "description": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+        "title": "Cyberattacks threaten to make open-source AI a little less open, Hugging Face exec warns",
+        "link": "https://techcrunch.com/2026/11/10/cyberattacks-threaten-to-make-open-source-ai-a-little-less-open-hugging-face-exec-warns/",
+        "pubDate": "Tue, 10 Nov 2026 13:00:00 +0000",
+        "description": "Hugging Face executive Irene Solaiman warns that growing cyberattacks on open AI platforms could force tighter security restrictions, threatening the accessibility that makes open-source communities valuable to developers worldwide.",
         "source": "TechCrunch"
       },
       {
-        "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
-        "link": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
-        "pubDate": "2026-11-09T19:28:49-05:00",
-        "description": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you",
+        "title": "eBay appears to have shut the door on third-party AI agents",
+        "link": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping",
+        "pubDate": "2026-11-10T11:20:30-05:00",
+        "description": "eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of wat",
         "source": "TheVerge"
       },
       {
-        "title": "What could China get from Jensen Huang?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
-        "pubDate": "2026-11-09T18:51:58-05:00",
-        "description": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influen",
+        "title": "The Verge’s 2026 holiday gift guide for moms",
+        "link": "https://www.theverge.com/gadgets/1021621/best-gifts-for-mom-2026",
+        "pubDate": "2026-11-10T11:00:00-05:00",
+        "description": "Given everything moms do for us, it feels good to give back during the holidays. But where to start? How do you come up with a physical representation of how you feel about such a key and influential figure in your life? The possibilities seem as end",
         "source": "TheVerge"
       },
       {
-        "title": "Here’s what Trump said he knew about Jensen Huang",
-        "link": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
-        "pubDate": "2026-11-09T18:47:46-05:00",
-        "description": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"​​unfaithful\" to his wif",
+        "title": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout",
+        "pubDate": "2026-11-10T11:00:00-05:00",
+        "description": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the ve",
         "source": "TheVerge"
       },
       {
-        "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "pubDate": "2026-11-09T18:07:59-05:00",
-        "description": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence rep",
+        "title": "Ember’s latest self-heating 14-ounce mug is $50 off",
+        "link": "https://www.theverge.com/gadgets/1030735/ember-mug-3-criterion-collection-blu-ray-pixel-watch-deal-sale",
+        "pubDate": "2026-11-10T10:47:18-05:00",
+        "description": "If you were cool on the $149.95 original price of the 14-ounce Ember Mug 3, you might warm up to the current discount happening at Amazon, Ember, and Best Buy for several colors of the (top rack) dishwasher-safe mug. It’s 33 percent off, dropping to ",
         "source": "TheVerge"
       },
       {
-        "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
-        "link": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
-        "pubDate": "2026-11-09T16:43:41-05:00",
-        "description": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $10",
+        "title": "Reddit wants to guide your next purchase",
+        "link": "https://www.theverge.com/tech/1030211/reddit-reviews-product-recommendations-electronics-beauty-shopping",
+        "pubDate": "2026-11-10T10:00:00-05:00",
+        "description": "Millions of people turn to Reddit for firsthand recommendations and reviews of consumer goods. Now, the platform is leaning into its role as a destination for shoppers in a challenge to more traditional outlets that publish product reviews and roundu",
         "source": "TheVerge"
       }
     ],
