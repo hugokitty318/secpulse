@@ -1,7 +1,98 @@
 {
-  "ts": "2026-11-11T02:14:07.682656Z",
+  "ts": "2026-11-11T09:49:56.382977Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Adobe發布11月上半例行更新，修補110個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180425",
+        "pubDate": "2026-11-11 15:31",
+        "description": "本週Adobe針對旗下9款應用程式發布更新，共修補110個弱點，並呼籲用戶應優先修補Adobe Connect與Adobe Experience Manager（AEM）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "漢來美食委外購物商城發生資安事件，部分消費者訂單資料遭異常存取",
+        "link": "https://www.ithome.com.tw/news/180424",
+        "pubDate": "2026-11-11 15:12",
+        "description": "漢來美食（1268）接獲委外購物商城服務廠商順立智慧（Cyberbiz）通知，因資料庫遭未經授權異常存取，導致部分線上購物商城消費者訂單相關資料受到影響。漢來美食已啟動資安應變機制，並透過簡訊及電子郵件通知受影響消費者",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月11日，駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
+        "link": "https://www.ithome.com.tw/news/180422",
+        "pubDate": "2026-11-11 15:00",
+        "description": "雲端資安業者Sentra與Wiz於11月9日揭露一起供應鏈攻擊事件，駭客取得Qubole平臺的AWS身分與存取管理（IAM）憑證，利用企業先前授予Qubole的跨帳戶存取權限，入侵數十家企業的AWS環境竊取資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "黑松線上商店委外廠商資料庫遭異常存取，訂單資料恐受影響",
+        "link": "https://www.ithome.com.tw/news/180420",
+        "pubDate": "2026-11-11 14:46",
+        "description": "食品飲料公司黑松（1234）發布資安重訊，其線上商店平臺委外服務廠商順立智慧（Cyberbiz）通知，資料庫部分資料遭未經授權的異常存取，其中包含黑松線上商店訂單相關資料。黑松已啟動資安事件應變機制，並透過網站、LINE，以及電子郵件通知會員提高警覺",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
+        "link": "https://www.ithome.com.tw/news/180414",
+        "pubDate": "2026-11-11 12:38",
+        "description": "攻擊者濫用企業授予Qubole的跨帳戶存取權限，讀取S3儲存桶及雲端憑證，已有數十家企業受害，其中有企業被竊數百萬個檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA警告6個弱點遭積極利用，其中包含Outlook、Chrome零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/180413",
+        "pubDate": "2026-11-11 12:25",
+        "description": "美國網路安全與基礎設施安全局（CISA）將6個已遭攻擊者利用的漏洞新增至已知遭利用漏洞名單（KEV），其中包括本週公布的Chrome與Outlook零時差漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "主動管理AI價值與風險，Gartner建議企業可採取三項措施",
+        "link": "https://www.ithome.com.tw/news/180412",
+        "pubDate": "2026-11-11 12:11",
+        "description": "隨著企業加速導入AI，如何讓價值創造的速度超越風險成長，成為資訊長面臨的重要挑戰。Gartner調查顯示，71%的企業計畫在未來12個月內部署AI代理，但僅21%具備相關治理能力。對此，Gartner建議資訊長採取三項措施，包括運用「價值－風險飛輪」模型平衡價值與風險、建立「AI中央銀行」協調安全與治理機制，以及培育AI創業家，促進企業創新與價值創造",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SAP發布11月例行更新，修補4個滿分漏洞",
+        "link": "https://www.ithome.com.tw/news/180411",
+        "pubDate": "2026-11-11 11:44",
+        "description": "本週SAP發布11月例行更新（Security Patch Day），其中最引人注意的地方，在於這次一口氣公布4個CVSS嚴重程度評分達到10分滿分的資安漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Apple發布iOS、iPadOS 27.2.1與18.7.12版，緊急修補10個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180410",
+        "pubDate": "2026-11-11 11:40",
+        "description": "漏洞主要涉及iMessage群組訊息、AirPlay配對及Bluetooth連線安全，部分問題可能讓攻擊者未經使用者同意加入裝置配對或存取訊息",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Fireworks AI遭駭波及Notion，部分AI對話紀錄遭未授權存取",
+        "link": "https://www.ithome.com.tw/news/180407",
+        "pubDate": "2026-11-11 11:37",
+        "description": "雲端協作平臺Notion因AI供應商Fireworks遭駭停用Insights功能，Fireworks另確認部分客戶帳務資料、資料集及不完整的模型權重遭存取",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本宜得利系統遭非法存取，外洩企業會員、客戶個資近3,800萬筆",
+        "link": "https://www.ithome.com.tw/news/180409",
+        "pubDate": "2026-11-11 11:36",
+        "description": "日本居家用品連鎖業者宜得利（Nitori）傳出資安事件，旗下系統遭未經授權存取，最多3,762萬筆會員及購物客戶個資恐外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟警告Outlook零時差漏洞已遭到利用",
+        "link": "https://www.ithome.com.tw/news/180405",
+        "pubDate": "2026-11-11 11:02",
+        "description": "在11月例行更新當中，微軟特別提及需要注意的資安漏洞CVE-2026-124194，此弱點存在於收信軟體Outlook，且已被用於實際攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟發布11月例行更新，修補1,094個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180404",
+        "pubDate": "2026-11-11 10:48",
+        "description": "本週二微軟發布11月例行更新（Patch Tuesday），公布與修補1,049個由該公司登記CVE編號的資安漏洞，較上個月大幅減少",
+        "source": "iThome資安"
+      },
       {
         "title": "CSA建議企業推動資安職能轉型，從漏洞管理導入AI代理",
         "link": "https://www.ithome.com.tw/news/180249",
@@ -17,133 +108,77 @@
         "source": "iThome資安"
       },
       {
-        "title": "俄羅斯駭客入侵羅馬尼亞政府Exchange伺服器，意圖竊取北約及歐盟相關郵件",
-        "link": "https://www.ithome.com.tw/news/180399",
-        "pubDate": "2026-11-11 08:00",
-        "description": "資安業者ESET發現俄羅斯駭客組織Turla利用過去未曝光的惡意程式工具組Cereal，入侵哈薩克及羅馬尼亞政府機構的Microsoft Exchange伺服器。這套工具可讓攻擊者遠端執行命令，並從郵件傳輸流程中擷取特定郵件，其中羅馬尼亞案例鎖定與NATO及歐盟機構往來的郵件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "柏克萊研究推演2027至2029年AI資安威脅，AI代理供應鏈與自動化攻防成焦點",
-        "link": "https://www.ithome.com.tw/news/180348",
-        "pubDate": "2026-11-11 08:00",
-        "description": "美國加州大學柏克萊分校研究團隊推演2027至2029年3種AI資安威脅，涵蓋大規模社交工程、AI自動化攻防，以及透過供應商AI代理發動提示詞注入攻擊，探討AI如何改變企業面臨的資安風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic啟動IPO投資人說明會，最多募資625億美元",
-        "link": "https://www.ithome.com.tw/news/180402",
-        "pubDate": "2026-11-11  09:11:44",
-        "description": "AI新創Anthropic周二（11/10）宣布，正式啟動首次公開募股（IPO）投資人巡迴說明會（Roadshow），預計以每股70至78美元發行股票，若以價格區間上限計算，公司最多可募資625億美元。\n此次IPO由高盛（Goldman Sachs）及摩根士丹利（Morgan Stanley）擔任主要承銷商，預計在那斯達克全球精選市場（Nasdaq Global Select Market）掛牌，股票代號為ANT。",
+        "title": "Amazon ElastiCache Serverless加入向量與全文搜尋，可混合查詢即時資料",
+        "link": "https://www.ithome.com.tw/news/180415",
+        "pubDate": "2026-11-11  04:11:53",
+        "description": "Amazon ElastiCache Serverless的Valkey快取除了原有的鍵值存取功能，現在也支援向量搜尋、全文搜尋、混合搜尋及資料彙總（Aggregation）。應用程式可在單次查詢中結合文字與向量條件，直接檢索持續更新的快取資料，應用於即時推薦、商品搜尋及AI系統。",
         "source": "iThome"
       },
       {
-        "title": "Reddit利用AI整理商品評價，首波涵蓋約1萬項商品",
-        "link": "https://www.ithome.com.tw/news/180401",
-        "pubDate": "2026-11-11  09:11:09",
-        "description": "你在購買商品前是不是會先搜尋特定商品的建議或評價？美國社群平臺Reddit周二（11/10）宣布推出Reddit Reviews，利用AI彙整各個社群的商品討論，自動歸納優缺點及正負面評價，協助消費者比較商品，首波涵蓋約1萬項商品。",
+        "title": "國網中心布局主權AI，TAIWAN AI RAP擴充模型微調能力，加速AI應用落地",
+        "link": "https://www.ithome.com.tw/news/180427",
+        "pubDate": "2026-11-11  04:11:44",
+        "description": "生成式AI競爭快速升溫，各國不只競逐大型模型能力，也開始布局支撐AI發展所需的算力、資料與模型訓練能力。國研院國網中心主任張朝亮在本周一場公開活動中表示，台灣要發展主權AI，需要具備足夠算力，並結合模型研發與台灣資料、語料訓練能力，才能建立符合自身需求的AI能力。\n張朝亮分享國網中心推動TAIWAN AI RAP平臺的成果與下一階段規畫。他指出，大型模型越來越強大，不僅能提升推理能力，也能增加協作能力，但是使用這些模型，需要有足夠的算力支撐。國網中心希望透過國家級算力基礎設施，提供各界進行模型訓",
         "source": "iThome"
       },
       {
-        "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
-        "link": "https://www.ithome.com.tw/news/180397",
-        "pubDate": "2026-11-11  08:11:52",
-        "description": "Adobe與迪士尼擴大合作，建立多年期策略聯盟，將以AI模型開發服務Firefly Foundry開發符合迪士尼作品需求的生成式AI模型，並把合作範圍延伸至電影後製、視覺特效及體育內容製作。雙方先前已將相關技術用於迪士尼樂園的設計流程，新合作將涵蓋華特迪士尼影業的StudioLAB及ESPN旗下創新中心ESPN Edge。",
+        "title": "Google Gemini 4 Carbon全面上線，以較低價對打Anthropic Fable/Mythos 5.2",
+        "link": "https://www.ithome.com.tw/news/180428",
+        "pubDate": "2026-11-11  04:11:38",
+        "description": "Google本周宣布最新一代尖端模型Gemini 4 Carbon 已開放給企業、開發者及個人付費用戶，API存取費用為Anthropic Fable/Mythos 5.2一半。\nGemini 4 Carbon是繼Gemini 4 Argon推出的新一代尖端模型，著重強化程式開發、代理式AI、科學研究及長時間自主執行任務的能力。10月底推出時，Google僅先開放部分受信任的資安防禦人員使用。",
         "source": "iThome"
       },
       {
-        "title": "應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚資訊促成Mend臺灣雲端區域上線",
-        "link": "https://www.ithome.com.tw/news/180393",
-        "pubDate": "2026-11-10 18:47",
-        "description": "隨著臺灣企業對資料主權及資安服務在地化的需求日益提高，應用程式安全廠商Mend正式啟用臺灣雲端區域，採用AWS亞太（台北）區域的雲端基礎架構提供SaaS服務。長期代理Mend產品的叡揚資訊表示，此次在雙方持續溝通與合作下，促成Mend在臺灣提供在地化雲端服務，涵蓋開源軟體組成分析、原始碼安全檢測及弱點修復等應用程式安全領域。企業執行原始碼掃描與分析所產生的相關資訊可留存臺灣境內，有助於降低跨境資料傳輸的合規疑慮，同時縮短連線路徑、改善服務回應速度，並強化企業應用程式安全管理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "捐款人個資恐外洩！netiCRM服務商遭駭，公督盟、司改會等超過30個非營利組織接連示警",
-        "link": "https://www.ithome.com.tw/news/180384",
-        "pubDate": "2026-11-10 18:40",
-        "description": "臺灣多家非營利組織使用的netiCRM捐款管理系統傳出資安事件，超過30個公益團體接連發布警訊，提醒捐款人留意詐騙。網絡行動科技表示，由於攻擊者曾取得伺服器管理權限，因此基於審慎原則，將客戶網站後臺帳號及寄信機制使用的郵件帳號設定視為可能外洩，至於客戶個資是否遭竊，目前仍在調查中",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WorkOS資料外洩事故出現新進展，AI滲透測試框架突破測試環境釀禍",
-        "link": "https://www.ithome.com.tw/news/180388",
-        "pubDate": "2026-11-10 17:08",
-        "description": "身分驗證服務公司WorkOS一週前公布的資安事故出現逆轉，有研究人員後續聯繫該公司，表示這是一起意外，他們正在著手測試的AI滲透測試框架ARTEX逃離原本的測試環境，進而連線至WorkOS內部環境並存取客戶資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國司法部成立AI犯罪專責單位，打擊詐騙及其他非法活動",
-        "link": "https://www.ithome.com.tw/news/180378",
-        "pubDate": "2026-11-10 15:21",
-        "description": "美國司法部成立超級智慧任務編組（DOJ-SITF），鎖定利用AI從事詐騙及其他非法活動的個人、犯罪組織與外國勢力，並將加強執法及企業內部控管",
-        "source": "iThome資安"
-      },
-      {
-        "title": "N-able遭揭露逾30個零時差漏洞，緊急關閉全球N-central雲端服務，要求本地建置客戶停機",
-        "link": "https://www.ithome.com.tw/news/180377",
-        "pubDate": "2026-11-10 15:04",
-        "description": "資安研究人員近日公開遠端監控與管理（RMM）平臺N-central多達33個零時差漏洞Able2Shell，涵蓋身分驗證繞過、憑證外洩，以及遠端程式碼執行等弱點。N-able隨後緊急關閉美洲、歐洲及亞太地區的代管服務，並要求本地部署客戶暫時關閉伺服器因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月10日，甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/180375",
-        "pubDate": "2026-11-10 14:55",
-        "description": "上週OpenSSH開發團隊修補身分驗證繞過漏洞SSHole（CVE-2026-123158）引起資安界關注，資安公司Previdian警告，他們在相關資安公告發布不到一天的時間內，便偵測到嘗試利用的活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告SSHole等4個資安漏洞已遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180368",
-        "pubDate": "2026-11-10 14:07",
-        "description": "美國網路安全與基礎設施安全局（CISA）更新已遭利用漏洞名單（KEV）內容，一口氣列入4個新的資安漏洞，影響GPUStack、FreeSWITCH、OpenSSH，以及IBM Aspera Faspex",
-        "source": "iThome資安"
-      },
-      {
-        "title": "一旦影像模糊或遭竄改，AI機器人恐因視覺判斷失準，嘗試執行可能傷害人的危險動作",
-        "link": "https://www.ithome.com.tw/news/180364",
-        "pubDate": "2026-11-10 14:05",
-        "description": "針對具身AI的感知安全問題，近日有研究團隊透過實體機器人進行測試，發現AI模型的安全判斷可能受到攝影機影像品質影響。即使只是將畫面模糊化，也可能使模型原本能夠拒絕的危險操作指令，轉變為嘗試執行，突顯具身AI在感知資訊受到干擾時的潛在安全風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Ethersphere發布流程遭入侵，惡意版bee-js與Swarm Desktop經官方管道散布",
-        "link": "https://www.ithome.com.tw/news/180362",
-        "pubDate": "2026-11-10 13:06",
-        "description": "駭客利用官方的Ethersphere GitHub自動化發布帳號，透過官方發布流程散布惡意bee-js及Swarm Desktop，惡意bee-js具有有效來源證明，Swarm Desktop的Mac版更通過蘋果公證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ShinyHunters兜售宣稱竊自Binance 3.3億用戶的資料",
-        "link": "https://www.ithome.com.tw/news/180366",
-        "pubDate": "2026-11-10 13:03",
-        "description": "有心人士疑似冒用駭客組織ShinyHunters的名號，宣稱握有加密貨幣交易平臺Binance多達3.35億名用戶的資料，開價90萬美元出售。不過，Binance否認系統遭駭，認為這起事件可能只是詐騙",
-        "source": "iThome資安"
-      },
-      {
-        "title": "甫揭露的OpenSSH漏洞SSHole出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/180365",
-        "pubDate": "2026-11-10 12:46",
-        "description": "上週OpenSSH開發團隊修補身分驗證繞過漏洞SSHole（CVE-2026-123158）引起資安界關注，資安公司Previdian警告，他們在相關資安公告發布不到一天的時間內，偵測到嘗試利用的活動",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
-        "link": "https://www.ithome.com.tw/news/180394",
-        "pubDate": "2026-11-10  07:11:48",
-        "description": "微軟發布Windows應用程式命令列開發工具WinApp CLI 0.8，新增實驗性預覽功能WinUI DevTools，讓開發者及AI代理檢查執行中的WinUI 3應用程式，查看介面元件屬性、版面配置及對應的XAML原始碼位置，也能即時測試修改結果。新版另加入效能分析及C++專案支援。",
+        "title": "微軟.NET 11登場，C# 15新增聯合型別、CLI導入Native AOT加速",
+        "link": "https://www.ithome.com.tw/news/180426",
+        "pubDate": "2026-11-11  04:11:31",
+        "description": "微軟在.NET Conf 2026開發者大會發布.NET 11正式版，C# 15新增聯合型別（Union Types）與封閉階層（Closed Hierarchies），.NET SDK預設啟用採Native AOT編譯的命令列啟動程式，減少常用指令的啟動時間。新版也改善建置工具效能，並擴充跨平臺應用程式及AI開發支援。",
         "source": "iThome"
       },
       {
-        "title": "英特爾在臺揭露主流PC、邊緣運算到資料中心最新運算架構，加速布局Agent AI",
-        "link": "https://www.ithome.com.tw/news/180395",
-        "pubDate": "2026-11-10  06:11:25",
-        "description": "英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。\n呼應「Inference Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個層面布局AI運算，包括讓AI能力進入更多PC與邊緣裝置的Core系列3，以及降低企業部署AI推論成本的GPU",
+        "title": "AMD正式推出第6代EPYC伺服器處理器，首波上市產品為SP7平台，主打AI資料中心與企業運算市場",
+        "link": "https://www.ithome.com.tw/news/180416",
+        "pubDate": "2026-11-11  01:11:26",
+        "description": "AMD今天(11/10)宣布第6代EPYC伺服器處理器正式上市，首波推出採用SP7平台的產品，採用新的Zen 6架構，瞄準AI資料中心、雲端服務、高效能運算（HPC）以及企業關鍵應用。AMD表示，第6代EPYC的定位不只是提供傳統CPU運算能力，而是成為AI基礎設施中協調GPU、管理資料流程與執行企業應用的重要運算核心。\n此次上市的第6代EPYC SP7，是代號Venice產品家族首批正式上市的平臺。AMD強調，AI工作負載正在改變資料中心架構，單一AI流程可能同時涉及AI Agent執行、模型",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "AI 預算還要加碼，投資報酬卻說不清：38% 受訪者曾因超支延後、縮減或取消專案",
+        "link": "https://techorange.com/2026/11/11/ai-project-cost-overruns-vb-pulse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 15:00:55 +0800",
+        "description": "企業 AI 專案推不動，最常被點名的原因是成本，而不是算力。VentureBeat 的 VB Pulse 系列調查在 10 月訪問 156 位任職或服務於百人以上組織的 AI 從業者與顧問，38% 表示過去 12 個月，所屬組織曾因成本超出預期，延後、縮減或取消原定的 AI 專案；指稱運算容量不足的只有 12%。 儘管成本超支，79% 受訪者仍預期所屬組織未來一年的 AI 預算會增加；但只有 26% 表示，組織會用能向財務團隊交代的財務報酬，來判斷 AI 支出值不值得。這份 VB Pulse 報",
+        "source": "TechOrange"
+      },
+      {
+        "title": "靠 AI 開拓新生意：全美最大婚紗商 David’s Bridal 如何從賣婚紗轉型婚禮平台？",
+        "link": "https://techorange.com/2026/11/11/ai-davids-bridal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 14:50:00 +0800",
+        "description": "全美最大婚紗零售商 David’s Bridal 正利用 AI 重新定義婚禮產業的零售模式。這家擁有 76 年歷史的企業，過去主要仰賴婚紗銷售，如今將業務延伸至整個婚禮籌備流程，透過 AI 工具協助新人規劃婚禮、尋找服務廠商，並建立連結新人與婚禮產業業者的雙向平台。 David’s Bridal 執行長 Kelly Cook 將這項策略稱為「Aisle to Algorithm」，目標是在減少對傳統實體商品銷售依賴的同時，拓展更具彈性的輕資產（asset-light）商業模式。 雙向 AI 平台",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google Gemini Robotics 2.5 進賓士產線：人形機器人自主揀料，概念驗證成功率 96%",
+        "link": "https://techorange.com/2026/11/11/google-gemini-robotics-2-5-mercedes-kitting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 12:07:23 +0800",
+        "description": "Google DeepMind 在 11/10 發表機器人 AI 模型 Gemini Robotics 2.5，同時公布一項在賓士（Mercedes-Benz）汽車產線進行的概念驗證：美國德州機器人公司 Apptronik 的人形機器人 Apollo 2，自主完成零件的配料、分揀，DeepMind 稱成功率達 96%。對照《Reuters》去年 3 月的報導，當時賓士工廠裡的少數幾台 Apollo，還是透過遠端操作（teleoperation）訓練特定任務，也就是由人遠端操控、讓機器人從中學習，",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【別只看 token 單價】從支出追到成果，看懂 AI 代理人的經濟效益將成為管理優勢",
+        "link": "https://techorange.com/2026/11/11/token-spend-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 10:42:52 +0800",
+        "description": "企業每個月都收得到 AI 模型的帳單，卻未必說得出這筆錢換來了什麼。隨著 AI 代理人在企業內負責研究、分析、開發與溝通，逐漸成為日常工作的一部分，它們的運作也開始影響團隊如何分配時間、資源與注意力。 在這樣的情況下，討論 AI 成本時，支出只是起點；更值得追問的是，這筆支出讓代理人完成了什麼，它原本想達成什麼目標，以及成果是否值得投入的資源。 帳單只說明花了多少，無法說明換來什麼 多數企業已經能掌握模型帳單、token 消耗與整體使用量。token 是大型語言模型處理資料的單位，依模型不同，可",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Anthropic IPO 前推出 AI 辦公套件：從試算表到會議協作，為何開始挑戰 Microsoft、Google？",
+        "link": "https://techorange.com/2026/11/11/anthropic-unveils-office-tools-ahead-of-ipo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 10:37:50 +0800",
+        "description": "AI 公司與傳統辦公軟體巨頭的競爭，正在從模型技術延伸到企業日常工作。正準備上市的 Anthropic，美國時間 11/10 宣布推出一系列 AI 辦公工具，涵蓋試算表、資料分析、數位白板與視訊會議，讓使用者不只能向 Claude 提問，還能直接與 AI 共同建立、修改工作成果。 根據《Bloomberg》報導，這項布局讓 Anthropic 與 Microsoft、Google 展開更直接的競爭，而後兩者同時也是 Anthropic 的投資人或合作夥伴。就在同一天，Anthropic 也正式啟",
+        "source": "TechOrange"
+      },
       {
         "title": "聯合利華再部署 40 多套 AI 數位分身：數百座工廠中，怎麼挑出值得導入的據點？",
         "link": "https://techorange.com/2026/11/11/unilever-digital-twins-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,44 +248,44 @@
         "pubDate": "Tue, 10 Nov 2026 10:01:19 +0800",
         "description": "勒索軟體攻擊發生時，企業最大的開銷通常不是贖金。Gartner 研究指出，攻擊後的復原、停機與商譽損失，加總可能高達贖金的 10 倍。 駭客入侵的管道，仍以網路釣魚、攻擊對外開放的系統，以及未經授權的遠端桌面連線為主。進入企業內部後，他們除了鎖住正式營運的系統，也會一併破壞備份，甚至直接偷走資料勒索。當備份也遭殃，企業能多快恢復營運，就決定了損失規模。 復原時間可以事先算出來 許多企業把復原規劃視為資安部門的例行工作，設好備份排程、定期測試就認為足夠。但復原其實是基礎設施問題，可以把需要還原的資",
         "source": "TechOrange"
-      },
-      {
-        "title": "電池不必等到故障才處理：AI 預測、模擬測試與電芯級數據如何讓風險提早現形",
-        "link": "https://techorange.com/2026/11/10/battery-ai-predictive-safety-rd/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 08:10:00 +0800",
-        "description": "全球能源轉型與電動車市場迅速擴張，電池安全防護、研發效率以及車載管理架構正面臨深刻的產業變革。隨著整體技術鏈的推進，數據量能與智慧演算法正重構電池的運作邏輯，促使產業從硬體防禦轉向全生命週期的預測與管理。 安全防護升級，以智慧預測打造安全防線 過去業界處理電池安全議題時，多半將資源投注於事故發生後的損害控制、防爆隔離與災後處置，屬於被動防禦機制。如今，以三星 SDI（Samsung SDI）預計在 2026 年底導入儲能系統（ESS）產品的 Samsung Battery Intelligenc",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【李牮斯專欄】為中小企業誕生的 AI：組織精簡、資料散亂，為何反而是導入優勢？",
-        "link": "https://techorange.com/2026/11/10/smb-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 06:00:00 +0800",
-        "description": "克卜勒太空望遠鏡 2009 年升空，不料短短四年後因關鍵設備故障，原有的觀測工作就被迫中斷。如今，望遠鏡雖已退役多年，天文學家仍持續從它留下的資料中發現新的系外行星，對科學的貢獻仍在延續。 AI 也是如此。 隨著民主黨在美國期中選舉勝出，支持限制資料中心擴建的政治力量也跟著壯大，市場因而擔心 AI 資本支出放緩。但就算 AI 投資今天就停下來，既有模型也有足夠力量，從此改變企業競爭的方式，甚至重寫人類的經濟規則。 企業競爭，說到底離不開速度、品質、判斷與創新。在不少知識工作上，AI 在這些項目上",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 紅利能延續到 2027？台經院估台灣經濟成長 6.45%、半導體產值上看 11.8 兆元",
-        "link": "https://techorange.com/2026/11/09/tier-2027-outlook-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 09 Nov 2026 18:20:11 +0800",
-        "description": "AI 投資熱潮帶動台灣經濟快速成長，到了 2027 年，這股動能還能延續多久？台灣經濟研究院發布 2027 年景氣展望與產業趨勢，將 2026 年經濟成長率預測上修至 12.34%，2027 年則預估為 6.45%，指出雖然成長速度放緩，但在連續多年高基期下，仍是相當強勁的表現。 台經院院長張建一形容，今年是令人驚艷的快速成長，明年則將轉為穩健成長，而超過 6% 的成長率同樣令人驚艷。不過，隨著 AI 投資規模擴張，企業籌資、應用獲利及國際政策的不確定性，也將成為 2027 年值得關注的變數。 ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "繼 OpenAI、Anthropic 之後，DeepSeek 也要建外掛市集：三家拉攏開發者的規則差在哪？",
-        "link": "https://techorange.com/2026/11/09/deepseek-harness-plugin-marketplace/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 09 Nov 2026 16:39:51 +0800",
-        "description": "中國 AI 公司 DeepSeek 旗下 Harness 的官方帳號，11 月 8 日（台灣時間）在 X 發布長文指出，這套開源 AI 代理（AI agent）執行環境以使用官方 API 的用戶計算，每日活躍用戶已達 154 萬；接下來要建立官方外掛程式（plugin）市集，並籌備以 Token 補助支援外掛開發者。不過，在 AI 代理平台上經營外掛生態，DeepSeek 並不是第一家：OpenAI、Anthropic 旗下的 AI 程式開發工具 Codex、Claude Code 都已支援外掛",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【DEAT 專欄】納管網路叫車平台：臺灣智慧交通的轉捩點",
-        "link": "https://techorange.com/2026/11/09/taiwan-smart-transport-ride-hailing-turning-point/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 09 Nov 2026 15:31:02 +0800",
-        "description": "文／台灣數位平台經濟協會（DEAT） 打開手機、輸入目的地、確認車資，再看著車輛沿著地圖靠近。今天很多人已經很難想像，在網路叫車平台普及以前，搭計程車曾經高度依賴路邊攔車、電話叫車，甚至需要憑經驗判斷哪個路口比較容易等到車。 十多年來，科技已經大幅改變臺灣計程車的服務方式。消費者可以事先知道車輛、駕駛與預估費用，駕駛可以透過系統尋找附近需求，車隊也開始利用數據管理派遣與營運效率。計程車仍然是計程車，但支撐一趟旅程的產業結構已經改變許多，而現在，這個產業又走到下一個轉折點。 交通部近期預告修正《計",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+        "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+        "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530",
+        "description": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 726 flaws in Windows, 174 in Office, 61 in Develope",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+        "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+        "pubDate": "Wed, 11 Nov 2026 13:19:04 +0530",
+        "description": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+        "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+        "pubDate": "Wed, 11 Nov 2026 12:51:05 +0530",
+        "description": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, the model outputs an attacker's command, which an agent us",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+        "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+        "pubDate": "Wed, 11 Nov 2026 11:34:02 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of activ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+        "pubDate": "Wed, 11 Nov 2026 04:07:27 -0500",
+        "description": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
         "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
@@ -343,13 +378,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-        "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-        "pubDate": "Tue, 10 Nov 2026 15:32:40 +0530",
-        "description": "Four flaws that attackers could exploit without logging in were fixed today as part of SAP's monthly Security Patch Day—the vendor rates all four 10.0, the maximum CVSS score.\n\nThree are in the SAP NetWeaver application server, the software SAP syste",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Microsoft releases Windows 10 KB5131096 extended security update",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
         "pubDate": "Tue, 10 Nov 2026 15:04:36 -0500",
@@ -357,42 +385,21 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-        "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-        "pubDate": "Tue, 10 Nov 2026 14:38:20 +0530",
-        "description": "An October cyberattack on refrigeration controllers at about 700 French retail sites was carried out by a cyber unit of Iran's Islamic Revolutionary Guard Corps (IRGC), the French government said yesterday.\n\nThe attackers broke into controllers on th",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
         "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
         "pubDate": "Tue, 10 Nov 2026 14:31:11 -0500",
         "description": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-        "pubDate": "Tue, 10 Nov 2026 14:07:36 -0500",
-        "description": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-        "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-        "pubDate": "Tue, 10 Nov 2026 13:46:14 +0530",
-        "description": "Anthropic on Monday released Claude Fable 5.2 and Claude Mythos 5.2 models, which it said exhibit improvements in coding, reasoning, and vision.\n\nDuring pre-release training, the large language models (LLMs) helped its engineers \"complete otherwise-i",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-        "pubDate": "Tue, 10 Nov 2026 13:33:26 -0500",
-        "description": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
+        "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
+        "pubDate": "Wed, 11 Nov 2026 07:30:51 +0000",
+        "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "source": "TechCrunch"
+      },
       {
         "title": "X launches its own clipping feature to spur influencer engagement",
         "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
@@ -492,13 +499,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google broadens its AI hardware portfolio with two new specialized chips",
-        "link": "https://techcrunch.com/2026/11/10/google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips/",
-        "pubDate": "Tue, 10 Nov 2026 15:54:08 +0000",
-        "description": "Google's new tensor processing units (TPUs) broaden its chip portfolio to more use cases: confidential model training and more memory capacity.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
         "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
         "pubDate": "2026-11-10T19:34:24-05:00",
@@ -544,6 +544,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Adobe Monthly Security Update (November 2026)"
+      },
+      {
+        "title": "Fortinet Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261111",
+        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Fortinet Products"
       },
       {
         "title": "Microsoft Monthly Security Update (November 2026)",
@@ -604,16 +614,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Mozilla Firefox"
-      },
-      {
-        "title": "Mozilla Firefox Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
-        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Mozilla Firefox Denial of Service Vulnerability"
       },
       {
         "title": "ChromeOS Multiple Vulnerabilities",
