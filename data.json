@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-11T09:49:56.382977Z",
+  "ts": "2026-11-11T17:51:31.085306Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
+        "link": "https://www.ithome.com.tw/news/180430",
+        "pubDate": "2026-11-12 08:00",
+        "description": "Google DeepMind運用AI代理對Signal核心加密程式進行形式化驗證，證明編譯後機器碼符合指定安全要求，研究歷時4周，產出約650萬行Lean證明",
+        "source": "iThome資安"
+      },
       {
         "title": "Adobe發布11月上半例行更新，修補110個資安漏洞",
         "link": "https://www.ithome.com.tw/news/180425",
@@ -101,11 +108,11 @@
         "source": "iThome資安"
       },
       {
-        "title": "澳洲更新關鍵基礎設施資安指引，強化網路隔離措施並納入AI風險管理建議",
-        "link": "https://www.ithome.com.tw/news/180258",
-        "pubDate": "2026-11-11 08:00",
-        "description": "澳洲更新關鍵基礎設施風險管理指引，聚焦身分驗證、網路隔離及供應鏈安全，並以AI系統故障或遭濫用為例，提醒業者留意關鍵服務中斷及敏感資訊外洩的風險",
-        "source": "iThome資安"
+        "title": "Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
+        "link": "https://www.ithome.com.tw/news/180431",
+        "pubDate": "2026-11-11  06:11:14",
+        "description": "Google Cloud昨（10）日推出醫療專用AI解決方案Gemini for healthcare，讓AI Agent不只回答問題，還能跨系統查找資料、協助完成多步驟工作。這套方案整合醫療專用Skills、資料連接器和AI治理機制，可串接Epic、Oracle Health等電子病歷系統，協助醫護人員整理病史、準備看診資料，也能支援保險事前授權、理賠審查等行政工作。該方案已在美國開放預覽。",
+        "source": "iThome"
       },
       {
         "title": "Amazon ElastiCache Serverless加入向量與全文搜尋，可混合查詢即時資料",
@@ -133,13 +140,6 @@
         "link": "https://www.ithome.com.tw/news/180426",
         "pubDate": "2026-11-11  04:11:31",
         "description": "微軟在.NET Conf 2026開發者大會發布.NET 11正式版，C# 15新增聯合型別（Union Types）與封閉階層（Closed Hierarchies），.NET SDK預設啟用採Native AOT編譯的命令列啟動程式，減少常用指令的啟動時間。新版也改善建置工具效能，並擴充跨平臺應用程式及AI開發支援。",
-        "source": "iThome"
-      },
-      {
-        "title": "AMD正式推出第6代EPYC伺服器處理器，首波上市產品為SP7平台，主打AI資料中心與企業運算市場",
-        "link": "https://www.ithome.com.tw/news/180416",
-        "pubDate": "2026-11-11  01:11:26",
-        "description": "AMD今天(11/10)宣布第6代EPYC伺服器處理器正式上市，首波推出採用SP7平台的產品，採用新的Zen 6架構，瞄準AI資料中心、雲端服務、高效能運算（HPC）以及企業關鍵應用。AMD表示，第6代EPYC的定位不只是提供傳統CPU運算能力，而是成為AI基礎設施中協調GPU、管理資料流程與執行企業應用的重要運算核心。\n此次上市的第6代EPYC SP7，是代號Venice產品家族首批正式上市的平臺。AMD強調，AI工作負載正在改變資料中心架構，單一AI流程可能同時涉及AI Agent執行、模型",
         "source": "iThome"
       }
     ],
@@ -252,6 +252,48 @@
     ],
     "en_sec": [
       {
+        "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+        "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+        "pubDate": "Wed, 11 Nov 2026 21:42:46 +0530",
+        "description": "Zoom has released software updates to address two security flaws impacting Zoom Workplace for Windows, including a critical bug that could result in privilege escalation on affected systems.\n\nThe vulnerabilities are listed below -\n\n\n  CVE-2026-108186",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+        "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+        "pubDate": "Wed, 11 Nov 2026 21:04:27 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments.\n\n\"",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+        "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+        "pubDate": "Wed, 11 Nov 2026 19:31:00 +0530",
+        "description": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research teams said they identified the suspicious activity in",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+        "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+        "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530",
+        "description": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at SpaceXSI, the company that mak",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+        "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+        "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530",
+        "description": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that br",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+        "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+        "pubDate": "Wed, 11 Nov 2026 17:30:53 +0530",
+        "description": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach intermediate CA has its own private key, which the c",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
         "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
         "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530",
@@ -280,6 +322,48 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
+        "link": "https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/",
+        "pubDate": "Wed, 11 Nov 2026 11:24:18 -0500",
+        "description": "Maersk announced that a threat actor gained unauthorized access to a local legacy system inherited through an earlier acquisition and extracted data from it. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+        "pubDate": "Wed, 11 Nov 2026 10:12:59 -0500",
+        "description": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
+        "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+        "pubDate": "Wed, 11 Nov 2026 10:01:11 -0500",
+        "description": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit source code, ",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+        "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+        "pubDate": "Wed, 11 Nov 2026 07:32:27 -0500",
+        "description": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft fixes audio issues caused by September security updates",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+        "pubDate": "Wed, 11 Nov 2026 06:18:36 -0500",
+        "description": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+        "pubDate": "Wed, 11 Nov 2026 05:12:08 -0500",
+        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
         "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
         "pubDate": "Wed, 11 Nov 2026 04:07:27 -0500",
@@ -306,93 +390,44 @@
         "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530",
         "description": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-        "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-        "pubDate": "Tue, 10 Nov 2026 23:13:23 +0530",
-        "description": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical infrastructur",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-        "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-        "pubDate": "Tue, 10 Nov 2026 21:30:55 +0530",
-        "description": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant.\n\nThe activity, observed by Huntress in early October 2026, involves the exploitation of a chai",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-        "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-        "pubDate": "Tue, 10 Nov 2026 21:28:44 +0530",
-        "description": "The threat actor known as Blind Eagle has resurfaced with a new campaign targeting organizations in Latin America through judicial and administrative-themed phishing lures to deliver a remote access trojan (RAT) that shares its lineage with AsyncRAT ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Fireworks AI Confirms Wider Breach Affecting Customer Datasets, Model Weights and Notion AI Chats",
-        "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
-        "pubDate": "Tue, 10 Nov 2026 21:03:59 +0530",
-        "description": "Fireworks AI disclosed on Monday that its investigation into a security incident first reported early last month  uncovered further malicious activity, affecting account and billing information, alongside secrets, datasets, and incomplete models for ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
-        "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
-        "pubDate": "Tue, 10 Nov 2026 17:45:31 +0530",
-        "description": "An iOS sandbox escape published on GitHub lets an app read other apps' files on iPhones running iOS 26 and 27. That puts seed phrases, private keys, and login credentials at risk of exposure to malicious apps, Binance warned today. Apple's updates fo",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Railway breach leads to $740,000 in fraudulent AI charges",
-        "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-        "pubDate": "Tue, 10 Nov 2026 17:20:19 -0500",
-        "description": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to 100,000 worksp",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Beyond the Alert: The Case for Rich Network Data",
-        "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
-        "pubDate": "Tue, 10 Nov 2026 17:08:13 +0530",
-        "description": "At some point your security will fail. This isn’t pessimism. It’s not because your team and tools aren’t sophisticated enough. It’s the reason we have detections in the first place. And, it’s why once we accept that prevention has its limits, we arri",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-        "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-        "pubDate": "Tue, 10 Nov 2026 15:54:55 -0500",
-        "description": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
-        "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
-        "pubDate": "Tue, 10 Nov 2026 15:46:51 +0530",
-        "description": "An iMessage flaw could let a remote attacker join a group chat and receive its messages, Apple said yesterday, and it released updates to fix it. The updates also fix a separate iMessage flaw that could let someone added to a group access messages se",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-        "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-        "pubDate": "Tue, 10 Nov 2026 15:37:29 +0530",
-        "description": "The Russia-aligned state-sponsored threat actor known as Turla (aka Snake) is wielding a previously undocumented cyber espionage toolset called Cereal that's used to break into victims' Microsoft Exchange servers with an aim to surreptitiously collec",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft releases Windows 10 KB5131096 extended security update",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-        "pubDate": "Tue, 10 Nov 2026 15:04:36 -0500",
-        "description": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-        "pubDate": "Tue, 10 Nov 2026 14:31:11 -0500",
-        "description": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
+        "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
+        "pubDate": "Wed, 11 Nov 2026 16:16:07 +0000",
+        "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
+        "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
+        "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
+        "description": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Siri co-founder backs Helix for its voice ID tech",
+        "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
+        "pubDate": "Wed, 11 Nov 2026 15:02:47 +0000",
+        "description": "Helix said that its voice ID tech can run on an iPhone 13",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
+        "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+        "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
+        "description": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+        "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+        "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
+        "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
         "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
@@ -464,73 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pixel Tag, Google’s $30 Android-ready answer to Apple’s AirTag, is now available",
-        "link": "https://techcrunch.com/2026/11/10/pixel-tag-googles-30-android-ready-answer-to-apples-airtag-is-now-available/",
-        "pubDate": "Tue, 10 Nov 2026 18:49:19 +0000",
-        "description": "Google's Pixel Tag lets you track lost items with your Android device, similar to Apple's AirTag.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
-        "link": "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/",
-        "pubDate": "Tue, 10 Nov 2026 17:30:00 +0000",
-        "description": "As participants talk, Claude can draft the plan being discussed, map out a timeline on a whiteboard, answer questions in the meeting chat, and access connected work apps to retrieve information, such as last year's figures.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang’s affair with alleged Chinese spy: a timeline",
-        "link": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "pubDate": "Tue, 10 Nov 2026 17:04:19 +0000",
-        "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sundrop turns your endless baby photos into recaps, time lapses, and more — without AI",
-        "link": "https://techcrunch.com/2026/11/10/sundrop-turns-your-endless-baby-photos-into-recaps-time-lapses-and-more-without-ai/",
-        "pubDate": "Tue, 10 Nov 2026 16:50:38 +0000",
-        "description": "Sundrop is a new iPhone app that uses Apple's on-device AI to help parents rediscover their favorite photos and create keepsakes without uploading images to the cloud.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Apple TV makes sign language interpretation a built-in accessibility feature",
-        "link": "https://techcrunch.com/2026/11/10/apple-tv-makes-sign-language-interpretation-a-built-in-accessibility-feature/",
-        "pubDate": "Tue, 10 Nov 2026 16:00:00 +0000",
-        "description": "Apple TV's new accessibility feature lets viewers turn on sign language interpretation within supported titles.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
-        "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
-        "pubDate": "2026-11-10T19:34:24-05:00",
-        "description": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting",
+        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
+        "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
+        "pubDate": "2026-11-11T12:09:58-05:00",
+        "description": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style",
         "source": "TheVerge"
       },
       {
-        "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
-        "link": "https://www.theverge.com/tech/1031256/meta-quest-disney-plus-vr-3d-movies",
-        "pubDate": "2026-11-10T17:00:00-05:00",
-        "description": "Disney is bringing more than 60 3D movies to the Disney Plus app on Meta Quest. The movies will be available to Disney Plus subscribers as part of an updated Disney Plus app that's rolling out today. The 3D movies you can check out include The Avenge",
+        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
+        "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
+        "pubDate": "2026-11-11T11:00:00-05:00",
+        "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like As",
         "source": "TheVerge"
       },
       {
-        "title": "Oura is acquiring medical AI chatbot startup Counsel Health",
-        "link": "https://www.theverge.com/gadgets/1031284/oura-counsel-health-acquisition",
-        "pubDate": "2026-11-10T16:40:31-05:00",
-        "description": "Oura announced its quarterly earnings today and said it agreed to acquire Counsel Health for $625 million, after adding the company's AI chatbot to its app earlier this year. Counsel Health calls itself an \"AI-native primary care company,\" using the ",
+        "title": "The best early Black Friday deals you can already shop",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "pubDate": "2026-11-11T10:53:55-05:00",
+        "description": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices r",
         "source": "TheVerge"
       },
       {
-        "title": "Sony cancels live-service shooter Fairgames",
-        "link": "https://www.theverge.com/games/1031242/sony-playstation-fairgames-canceled",
-        "pubDate": "2026-11-10T16:06:12-05:00",
-        "description": "Sony has canceled Fairgames, a heist game announced in 2023, according to Bloomberg. Fairgames had once been part of Sony's big planned push for PlayStation live service games, but the company ended up canceling some planned live service titles, incl",
+        "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
+        "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
+        "pubDate": "2026-11-11T10:30:00-05:00",
+        "description": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much watt",
         "source": "TheVerge"
       },
       {
-        "title": "The PlayStation Plus PC app is shutting down next month",
-        "link": "https://www.theverge.com/games/1031144/sony-playstation-plus-windows-pc-app-shutting-down",
-        "pubDate": "2026-11-10T14:40:52-05:00",
-        "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people ",
+        "title": "Ocarina of Time is even better if you use a smartphone app",
+        "link": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
+        "pubDate": "2026-11-11T10:00:00-05:00",
+        "description": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or ",
         "source": "TheVerge"
       }
     ],
