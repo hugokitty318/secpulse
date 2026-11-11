@@ -1,7 +1,56 @@
 {
-  "ts": "2026-11-10T22:30:27.083708Z",
+  "ts": "2026-11-11T02:14:07.682656Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "CSA建議企業推動資安職能轉型，從漏洞管理導入AI代理",
+        "link": "https://www.ithome.com.tw/news/180249",
+        "pubDate": "2026-11-11 08:00",
+        "description": "雲端安全聯盟（CSA）建議企業優先從漏洞管理導入AI代理，以VulnOps模式整合漏洞處理流程，同時建立代理權限控管、人工核准及獨立複核機制，防範自動化誤判與未經授權操作等風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "澳洲更新關鍵基礎設施資安指引，強化網路隔離措施並納入AI風險管理建議",
+        "link": "https://www.ithome.com.tw/news/180258",
+        "pubDate": "2026-11-11 08:00",
+        "description": "澳洲更新關鍵基礎設施風險管理指引，聚焦身分驗證、網路隔離及供應鏈安全，並以AI系統故障或遭濫用為例，提醒業者留意關鍵服務中斷及敏感資訊外洩的風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "俄羅斯駭客入侵羅馬尼亞政府Exchange伺服器，意圖竊取北約及歐盟相關郵件",
+        "link": "https://www.ithome.com.tw/news/180399",
+        "pubDate": "2026-11-11 08:00",
+        "description": "資安業者ESET發現俄羅斯駭客組織Turla利用過去未曝光的惡意程式工具組Cereal，入侵哈薩克及羅馬尼亞政府機構的Microsoft Exchange伺服器。這套工具可讓攻擊者遠端執行命令，並從郵件傳輸流程中擷取特定郵件，其中羅馬尼亞案例鎖定與NATO及歐盟機構往來的郵件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "柏克萊研究推演2027至2029年AI資安威脅，AI代理供應鏈與自動化攻防成焦點",
+        "link": "https://www.ithome.com.tw/news/180348",
+        "pubDate": "2026-11-11 08:00",
+        "description": "美國加州大學柏克萊分校研究團隊推演2027至2029年3種AI資安威脅，涵蓋大規模社交工程、AI自動化攻防，以及透過供應商AI代理發動提示詞注入攻擊，探討AI如何改變企業面臨的資安風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic啟動IPO投資人說明會，最多募資625億美元",
+        "link": "https://www.ithome.com.tw/news/180402",
+        "pubDate": "2026-11-11  09:11:44",
+        "description": "AI新創Anthropic周二（11/10）宣布，正式啟動首次公開募股（IPO）投資人巡迴說明會（Roadshow），預計以每股70至78美元發行股票，若以價格區間上限計算，公司最多可募資625億美元。\n此次IPO由高盛（Goldman Sachs）及摩根士丹利（Morgan Stanley）擔任主要承銷商，預計在那斯達克全球精選市場（Nasdaq Global Select Market）掛牌，股票代號為ANT。",
+        "source": "iThome"
+      },
+      {
+        "title": "Reddit利用AI整理商品評價，首波涵蓋約1萬項商品",
+        "link": "https://www.ithome.com.tw/news/180401",
+        "pubDate": "2026-11-11  09:11:09",
+        "description": "你在購買商品前是不是會先搜尋特定商品的建議或評價？美國社群平臺Reddit周二（11/10）宣布推出Reddit Reviews，利用AI彙整各個社群的商品討論，自動歸納優缺點及正負面評價，協助消費者比較商品，首波涵蓋約1萬項商品。",
+        "source": "iThome"
+      },
+      {
+        "title": "迪士尼擴大與Adobe的AI合作，從樂園設計延伸至電影與體育內容",
+        "link": "https://www.ithome.com.tw/news/180397",
+        "pubDate": "2026-11-11  08:11:52",
+        "description": "Adobe與迪士尼擴大合作，建立多年期策略聯盟，將以AI模型開發服務Firefly Foundry開發符合迪士尼作品需求的生成式AI模型，並把合作範圍延伸至電影後製、視覺特效及體育內容製作。雙方先前已將相關技術用於迪士尼樂園的設計流程，新合作將涵蓋華特迪士尼影業的StudioLAB及ESPN旗下創新中心ESPN Edge。",
+        "source": "iThome"
+      },
       {
         "title": "應用程式安全檢測可透過臺灣SaaS平臺執行，叡揚資訊促成Mend臺灣雲端區域上線",
         "link": "https://www.ithome.com.tw/news/180393",
@@ -80,34 +129,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "主機服務商DreamHost遭駭，用戶FTP帳號密碼及網頁郵件工作階段資訊外洩",
-        "link": "https://www.ithome.com.tw/news/180363",
-        "pubDate": "2026-11-10 12:24",
-        "description": "攻擊者利用網頁版File Manager漏洞入侵伺服器，事件持續約兩個月，影響近10%用戶帳號",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客利用假冒CWP網頁伺服器程式散布新型後門，全球逾34萬臺CWP主機暴露網際網路",
-        "link": "https://www.ithome.com.tw/news/180361",
-        "pubDate": "2026-11-10 12:07",
-        "description": "攻擊者竄改Control Web Panel內建的cwpsrv伺服器程式，植入可遠端執行命令的後門CWPdoor，還能清除存取紀錄，目前已有實際受害跡象",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國聯合5家海運業者演練船舶資安事故，模擬供應鏈攻擊造成船岸通訊中斷",
-        "link": "https://www.ithome.com.tw/news/180359",
-        "pubDate": "2026-11-10 11:49",
-        "description": "韓國今年11月宣布針對船舶面臨的資安威脅展開跨業者聯合演練，除了模擬船舶軟體供應鏈遭到攻擊，也著重惡意程式感染應變、威脅情報分享，以及政府機關的事故調查支援，藉此強化海運產業的整體資安應變能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "易遊網會員中心遭網路攻擊，逾69萬人歷史訂單聯絡資料受影響",
-        "link": "https://www.ithome.com.tw/news/180354",
-        "pubDate": "2026-11-10 11:38",
-        "description": "旅遊電商易遊網（ezTravel）11月9日揭露會員中心遭外部網路攻擊，部分歷史訂單聯絡資料遭不當取得，並表示已啟動資安應變措施及通知受影響消費者，該業者進一步表示，經系統比對與去重後，受影響人數逾69萬人，同時強調信用卡卡號及登入密碼未涉及此次事件",
-        "source": "iThome資安"
-      },
-      {
         "title": "微軟WinApp CLI新增WinUI DevTools，AI代理可檢查執行中的介面元件",
         "link": "https://www.ithome.com.tw/news/180394",
         "pubDate": "2026-11-10  07:11:48",
@@ -120,30 +141,23 @@
         "pubDate": "2026-11-10  06:11:25",
         "description": "英特爾在今年8月舉行的Hot Chips 2026展示最新架構，反映AI運算競爭正在改變方向。過去幾年，市場焦點多集中於大型模型訓練，需要大量GPU算力與資料中心資源，但隨著生成式AI逐漸進入企業應用，接下來的挑戰將轉向如何讓模型被廣泛使用，也就是大規模推論。\n呼應「Inference Everywhere」的策略願景，英特爾今天(11/10)在臺揭露AI PC、資料中心GPU與CPU三個層面布局AI運算，包括讓AI能力進入更多PC與邊緣裝置的Core系列3，以及降低企業部署AI推論成本的GPU",
         "source": "iThome"
-      },
-      {
-        "title": "涉嫌入侵美國大學進行非法加密貨幣挖礦的加拿大駭客，被引渡至美國受審",
-        "link": "https://www.ithome.com.tw/news/180396",
-        "pubDate": "2026-11-10  06:11:19",
-        "description": "美國司法部於11月3日公告，兩名加拿大男子Ryan James Roach（35歲）與Mathiew James Stubbings（41歲），涉嫌在2016年6月至2019年12月間，入侵紐約、田納西、北卡羅來納及麻薩諸塞州教育機構的系統，竊取登入憑證，並植入惡意程式，利用受害電腦挖掘加密貨幣。",
-        "source": "iThome"
-      },
-      {
-        "title": "醫療AI從內容生成走向自主行動，衛福部下一階段指引瞄準Agent治理",
-        "link": "https://www.ithome.com.tw/news/180379",
-        "pubDate": "2026-11-10  04:11:53",
-        "description": "衛福部今年5月發布醫療機構生成式AI應用指引，為醫院導入生成式AI提供風險管理參考，但能自主決策、採取行動的AI Agent，尚未納入適用範圍。\n衛福部醫事司司長劉越萍10月初在臺灣醫院資訊主管會議上指出，下一階段指引需要回應AI從內容生成走向自主行動的挑戰，讓醫療機構更清楚應用時的注意事項。面對AI持續進入醫療流程，她也提醒，醫院應先盤點院內AI工具、釐清責任，再依風險安排驗證與持續監測。",
-        "source": "iThome"
-      },
-      {
-        "title": "AWS支援以暫時性憑證跨分區存取雲端資源，減少長期金鑰依賴",
-        "link": "https://www.ithome.com.tw/news/180369",
-        "pubDate": "2026-11-10  03:11:44",
-        "description": "AWS擴充安全權杖服務（AWS Security Token Service，STS），讓工作負載可以使用原有的身分，在不同AWS分區（AWS Partitions）取得暫時性憑證，存取獲得授權的雲端資源。企業不必再替跨分區作業另外保存長期有效的IAM存取金鑰，可減少金鑰外洩風險及管理負擔。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "聯合利華再部署 40 多套 AI 數位分身：數百座工廠中，怎麼挑出值得導入的據點？",
+        "link": "https://techorange.com/2026/11/11/unilever-digital-twins-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 08:10:00 +0800",
+        "description": "快速消費品巨頭聯合利華（Unilever）於 2026 年 6 月宣布，計畫在接下來 18 個月內新增 40 多套結合人工智慧（AI）的數位分身（Digital Twins）系統，擴大這項技術在全球製造網路中的應用。 目前，聯合利華已在美國、波蘭、越南及印度的 5 個製造據點導入數位分身，並累積減少生產廢料、提升產能及降低產品缺陷等成果。接下來，公司將以既有導入經驗為基礎，建立可供全球營運複製的應用模式。 優化品質與產能，AI 數位分身的實體導入成效 數位分身是實體設備與生產線的虛擬模型，透過收",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Anthropic IPO 260 億美元認購草案曝光又撤回！台積電、NVIDIA 列名單",
+        "link": "https://techorange.com/2026/11/11/anthropic-ipo-tsmc-nvidia-investment-draft-withdrawn/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 11 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Anthropic IPO 693 億美元發售草案撤回，台積電列入 260 億美元認購名單 美國 AI 公司 Anthropic 10 月 26 日已向美國證券交易委員會（SEC）提交首次公開募股（IPO）申請，計畫以 ANT 為股票代號在那斯達克上市。《Reuters》11 月 10 日報導，Anthropic 曾向承銷銀行流通一份上市文件，提出最高約 693 億美元的發售規模，包含既有股東售股。文件另提及約 260 億美元的私募認購安排，列",
+        "source": "TechOrange"
+      },
       {
         "title": "日月光攜手 SAS 建構 Agentic AI 智慧營運中樞",
         "link": "https://techorange.com/2026/11/10/asegroup-sas-viya-agenticai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -233,20 +247,6 @@
         "link": "https://techorange.com/2026/11/09/taiwan-smart-transport-ride-hailing-turning-point/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 09 Nov 2026 15:31:02 +0800",
         "description": "文／台灣數位平台經濟協會（DEAT） 打開手機、輸入目的地、確認車資，再看著車輛沿著地圖靠近。今天很多人已經很難想像，在網路叫車平台普及以前，搭計程車曾經高度依賴路邊攔車、電話叫車，甚至需要憑經驗判斷哪個路口比較容易等到車。 十多年來，科技已經大幅改變臺灣計程車的服務方式。消費者可以事先知道車輛、駕駛與預估費用，駕駛可以透過系統尋找附近需求，車隊也開始利用數據管理派遣與營運效率。計程車仍然是計程車，但支撐一趟旅程的產業結構已經改變許多，而現在，這個產業又走到下一個轉折點。 交通部近期預告修正《計",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【劉永信專欄】AI 讓產出變多了，但公司的決定有因此變好嗎？",
-        "link": "https://techorange.com/2026/11/09/cloudmile-aiagent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 09 Nov 2026 14:12:56 +0800",
-        "description": "這幾個月，我們應該也用 AI 做了不少事，寫報告、整理會議紀錄等，但產出變多了，有沒有哪一次停下來問過自己，這些東西有沒有讓公司的任何一個決定變得更好？ 我會這樣問，是因為數學界其實也在發生一樣的事，當 AI 可以大量產出，原本用來衡量好壞的標準，突然就不準了。 2026 年 9 月，OpenAI 的一萬個 AI Agents 花了 88 小時，解開一道困擾數學界一個世紀的難題，過程燒掉大約一千五百萬美元，二十年前，一個俄羅斯數學家獨自解開另一道同等級的難題，花了將近十年，事後別人要頒給他一百萬",
-        "source": "TechOrange"
-      },
-      {
-        "title": "台達助蔡司台灣先進封裝設備升級，建立可複製的 Fab 自動化能力",
-        "link": "https://techorange.com/2026/11/09/delta-zeiss-fab-diasecs/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 09 Nov 2026 13:54:50 +0800",
-        "description": "近年來，半導體設備商導入 SECS/GEM 全球標準時，不只是設備與上位系統基礎連線，晶圓廠自動化設備必須深度融入整體製程流程，透過即時的資料收集、事件回報與流程控制，讓 Fab 自動化系統能精準掌握設備狀態。 台達機電事業群產品管理資深課長陳敬中指出，設備商通常專注於自身工藝與機台控制邏輯，「真正的挑戰，在於如何將嚴謹的規格文件，轉化為設備端可開發、可測試、可驗證的自動化功能。」陳敬中分析，當設備進入半導體製造環境後，設備商除了要釐清通訊標準在不同情境下的資訊回報與訊息傳遞，更要理解 Fab ",
         "source": "TechOrange"
       }
     ],
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "X launches its own clipping feature to spur influencer engagement",
+        "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
+        "pubDate": "Wed, 11 Nov 2026 01:02:13 +0000",
+        "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
         "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
         "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
@@ -492,11 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "N-able takes its remote access service offline after researcher publishes dozens of zero-day bugs",
-        "link": "https://techcrunch.com/2026/11/10/n-able-takes-its-remote-access-service-offline-after-researcher-publishes-dozens-of-zero-day-bugs/",
-        "pubDate": "Tue, 10 Nov 2026 15:45:27 +0000",
-        "description": "The remote access giant also urged its self-hosted customers to take down their own servers amid a \"critical security incident,\" fearing the possibility of cyberattacks.",
-        "source": "TechCrunch"
+        "title": "Microsoft’s DLSS competitor is out for the Xbox Ally X and works in handheld mode",
+        "link": "https://www.theverge.com/tech/1031446/microsoft-automatic-super-resolution-auto-sr-upscaling",
+        "pubDate": "2026-11-10T19:34:24-05:00",
+        "description": "Microsoft is now rolling out Automatic Super Resolution (Auto SR), an upscaling technology that competes with Nvidia's DLSS, for the Xbox Ally X, Xbox Ally X20, and select Windows Copilot Plus PCs, the company announced today. Auto SR is also getting",
+        "source": "TheVerge"
       },
       {
         "title": "The VR Disney Plus app on Meta Quest now has 3D movies",
@@ -525,16 +532,49 @@
         "pubDate": "2026-11-10T14:40:52-05:00",
         "description": "Sony is retiring the PlayStation Plus app for PC on December 10th. Sony says it will notify users directly about the shutdown. The app allowed PlayStation Plus Premium subscribers to stream certain games on PC, but according to Sony, not many people ",
         "source": "TheVerge"
-      },
-      {
-        "title": "Starlink Mini 2 adds a swappable battery",
-        "link": "https://www.theverge.com/tech/1031028/spacex-starlink-mini-2-satellite-internet-terminal-hot-swap-battery",
-        "pubDate": "2026-11-10T14:19:12-05:00",
-        "description": "SpaceX announced a new version of its all-in-one satellite internet terminal that integrates a dish, Wi-Fi router, and now a battery into a single device about the size of a laptop. According to some users on X who shared screenshots of invitations t",
-        "source": "TheVerge"
       }
     ],
     "cve": [
+      {
+        "title": "Adobe Monthly Security Update (November 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november-2026",
+        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Adobe Monthly Security Update (November 2026)"
+      },
+      {
+        "title": "Microsoft Monthly Security Update (November 2026)",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2026",
+        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Monthly Security Update (November 2026)"
+      },
+      {
+        "title": "MongoDB Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261111",
+        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "MongoDB"
+      },
+      {
+        "title": "Synology Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20261111",
+        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Synology Products"
+      },
       {
         "title": "Apple Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20261110",
@@ -576,46 +616,6 @@
         "products": "Mozilla Firefox Denial of Service Vulnerability"
       },
       {
-        "title": "TP-Link Router Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/tp-link-router-multiple-vulnerabilities_20261105",
-        "pubDate": "Thu, 05 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "TP-Link Router"
-      },
-      {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261105",
-        "pubDate": "Thu, 05 Nov 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
-        "title": "[Security Blog] Connected Vehicles: Cybersecurity Risks Every Driver Should Know",
-        "link": "https://www.hkcert.org/blog/connected-vehicles-cybersecurity-risks-every-driver-should-know",
-        "pubDate": "Thu, 05 Nov 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] Connected Vehicles: Cybersecurity Risks Every Driver Should Know"
-      },
-      {
-        "title": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026",
-        "link": "https://www.hkcert.org/blog/hkcert-security-incident-statistics-and-cybersecurity-trends-in-hong-kong-for-q3-2026",
-        "pubDate": "Thu, 05 Nov 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026"
-      },
-      {
         "title": "ChromeOS Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261109",
         "pubDate": "Mon, 09 Nov 2026 11:00:00 +0800",
@@ -634,6 +634,16 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Veeam Products Denial of Service Vulnerability"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261109",
+        "pubDate": "Mon, 09 Nov 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
       },
       {
         "title": "SonicWall SonicOS Multiple Vulnerabilities",
