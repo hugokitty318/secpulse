@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-11T17:51:31.085306Z",
+  "ts": "2026-11-12T00:35:12.979446Z",
   "tabs": {
     "cn_sec": [
       {
@@ -243,10 +243,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "【被勒索後要停機多久】還原速度取決於備份設備與網路，企業應事先算出復原時間",
-        "link": "https://techorange.com/2026/11/10/prepare-for-ransomware-attacks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 10:01:19 +0800",
-        "description": "勒索軟體攻擊發生時，企業最大的開銷通常不是贖金。Gartner 研究指出，攻擊後的復原、停機與商譽損失，加總可能高達贖金的 10 倍。 駭客入侵的管道，仍以網路釣魚、攻擊對外開放的系統，以及未經授權的遠端桌面連線為主。進入企業內部後，他們除了鎖住正式營運的系統，也會一併破壞備份，甚至直接偷走資料勒索。當備份也遭殃，企業能多快恢復營運，就決定了損失規模。 復原時間可以事先算出來 許多企業把復原規劃視為資安部門的例行工作，設好備份排程、定期測試就認為足夠。但復原其實是基礎設施問題，可以把需要還原的資",
+        "title": "【科技早餐】台積電核准 1.34 兆元資本預算！擬投 OpenAI、Anthropic 最高 10 億美元",
+        "link": "https://techorange.com/2026/11/12/tsmc-capex-openai-anthropic-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電核准 1.34 兆元資本預算，擬投資 OpenAI、Anthropic 最高 10 億美元 台積電（TSMC）11 月 10 日董事會核准約 409.27 億美元、折合新台幣 1.34 兆元的資本預算，涵蓋先進製程、先進封裝、成熟與特殊製程產能升級、建廠及 2027 年研發等項目。同時，董事會通過分別以最高 5 億美元認購 Anthropic 普通股、OpenAI 特別股，合計額度最高 10 億美元；另核准最高 5 億美元設立半導體生態系",
         "source": "TechOrange"
       }
     ],
@@ -273,6 +273,20 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "Baker Tilly notifies clients of data breach at third-party provider",
+        "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+        "pubDate": "Wed, 11 Nov 2026 18:01:31 -0500",
+        "description": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+        "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+        "pubDate": "Wed, 11 Nov 2026 17:56:21 -0500",
+        "description": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
         "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
         "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530",
@@ -292,6 +306,20 @@
         "pubDate": "Wed, 11 Nov 2026 17:30:53 +0530",
         "description": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach intermediate CA has its own private key, which the c",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "eMudhra revokes 8 more CA certificates after private key mishap",
+        "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
+        "pubDate": "Wed, 11 Nov 2026 16:27:40 -0500",
+        "description": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+        "link": "https://www.bleepingcomputer.com/news/security/notion-says-fireworks-breach-exposed-customer-ai-chat-transcripts/",
+        "pubDate": "Wed, 11 Nov 2026 15:54:20 -0500",
+        "description": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
@@ -362,37 +390,72 @@
         "pubDate": "Wed, 11 Nov 2026 05:12:08 -0500",
         "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
-        "pubDate": "Wed, 11 Nov 2026 04:07:27 -0500",
-        "description": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-        "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-        "pubDate": "Wed, 11 Nov 2026 00:53:10 +0530",
-        "description": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55 series in 2.50",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-        "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-        "pubDate": "Wed, 11 Nov 2026 00:49:39 +0530",
-        "description": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday.\n\nThe attacker could also have seen requests being processed on that server that day, includ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-        "pubDate": "Tue, 10 Nov 2026 23:42:21 +0530",
-        "description": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild.\n\nThe authentication bypass flaw, which does not yet have a CVE identifier, is tracked as VSA-2026",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "pubDate": "Wed, 11 Nov 2026 23:50:00 +0000",
+        "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+        "pubDate": "Wed, 11 Nov 2026 23:28:45 +0000",
+        "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang accused of having another affair — with an Nvidia exec",
+        "link": "https://techcrunch.com/2026/11/11/jensen-huang-accused-of-having-another-affair-with-a-nvidia-exec/",
+        "pubDate": "Wed, 11 Nov 2026 23:17:05 +0000",
+        "description": "Jensen Huang, who has come under fire for admitting to an affair with a woman accused of being a Chinese intelligence agent, has been accused of having a separate affair with an Nvidia subordinate.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why the data center you dread might never even be built",
+        "link": "https://techcrunch.com/video/why-the-data-center-you-dread-might-never-even-be-built/",
+        "pubDate": "Wed, 11 Nov 2026 20:15:15 +0000",
+        "description": "The data center boom is running into serious real-world obstacles, from widespread local opposition and permitting delays to a scramble for electricity. Before those challenges even come into play, though, there’s a more basic problem: A lot of the p",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta is losing its longtime head of  infrastructure",
+        "link": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
+        "pubDate": "Wed, 11 Nov 2026 20:12:01 +0000",
+        "description": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
+        "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
+        "pubDate": "Wed, 11 Nov 2026 20:04:28 +0000",
+        "description": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
+        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
+        "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
+        "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
+        "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
+        "pubDate": "Wed, 11 Nov 2026 19:34:55 +0000",
+        "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
+        "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
+        "pubDate": "Wed, 11 Nov 2026 19:22:22 +0000",
+        "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
         "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
@@ -404,21 +467,21 @@
         "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
         "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
         "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
-        "description": "Sales of $10B represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
         "source": "TechCrunch"
       },
       {
         "title": "Siri co-founder backs Helix for its voice ID tech",
         "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
         "pubDate": "Wed, 11 Nov 2026 15:02:47 +0000",
-        "description": "Helix said that its voice ID tech can run on an iPhone 13",
+        "description": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
         "source": "TechCrunch"
       },
       {
         "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
         "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
         "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-        "description": "At 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for that.",
+        "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for tha",
         "source": "TechCrunch"
       },
       {
@@ -436,101 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "X launches its own clipping feature to spur influencer engagement",
-        "link": "https://techcrunch.com/2026/11/10/x-launches-its-own-clipping-feature-to-spur-influencer-engagement/",
-        "pubDate": "Wed, 11 Nov 2026 01:02:13 +0000",
-        "description": "X is jumping into clipping, the popular practice of cutting long videos into short, shareable clips that can go viral.",
-        "source": "TechCrunch"
+        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+        "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+        "pubDate": "2026-11-11T17:44:36-05:00",
+        "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street ",
+        "source": "TheVerge"
       },
       {
-        "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-        "link": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
-        "pubDate": "Tue, 10 Nov 2026 21:08:52 +0000",
-        "description": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
-        "source": "TechCrunch"
+        "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
+        "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
+        "pubDate": "2026-11-11T17:00:00-05:00",
+        "description": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home As",
+        "source": "TheVerge"
       },
       {
-        "title": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect",
-        "link": "https://techcrunch.com/2026/11/10/openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect/",
-        "pubDate": "Tue, 10 Nov 2026 20:52:13 +0000",
-        "description": "New York is preparing to enforce its sweeping AI safety law, requiring major developers like OpenAI and Anthropic to register, disclose safety practices, and report critical incidents or face fines.",
-        "source": "TechCrunch"
+        "title": "United won’t let your AI agent book your flight",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+        "pubDate": "2026-11-11T16:54:21-05:00",
+        "description": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in ",
+        "source": "TheVerge"
       },
       {
-        "title": "Proximal Ventures raises debut fund to back startups bringing AI to drug development",
-        "link": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
-        "pubDate": "Tue, 10 Nov 2026 20:47:05 +0000",
-        "description": "Former SignalFire investor Sahir Raoof raises $27.5 million for new fund targeting AI in pharma.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "X-energy gets green light to build its first small modular nuclear reactors",
-        "link": "https://techcrunch.com/2026/11/10/x-energy-gets-green-light-to-build-its-first-small-modular-nuclear-reactors/",
-        "pubDate": "Tue, 10 Nov 2026 20:43:55 +0000",
-        "description": "X-energy received a construction permit from the U.S. Nuclear Regulatory Commission to build four reactors in Texas.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "All 7 Anthropic founders will each cash out about $250M in IPO",
-        "link": "https://techcrunch.com/2026/11/10/all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo/",
-        "pubDate": "Tue, 10 Nov 2026 19:57:52 +0000",
-        "description": "Each of the seven co-founders plans to sell exactly the same number of shares in the IPO, which would bring each of them about $250 million in cash at the midpoint of the price range while leaving the group in control of the company.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Oura to acquire AI-native primary care startup Counsel Health for $625M",
-        "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
-        "pubDate": "Tue, 10 Nov 2026 19:23:34 +0000",
-        "description": "The deal comes a few weeks after Oura postponed its up to $2.2 billion IPO indefinitely, citing “uncertainty in the IPO market.”",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "PSI is trying to make a business out of AI-driven scientific discovery",
-        "link": "https://techcrunch.com/2026/11/10/psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery/",
-        "pubDate": "Tue, 10 Nov 2026 19:03:52 +0000",
-        "description": "PSI used an unreleased Anthropic model to answer a fundamental question about quantum computing that scientists have pursued for nearly two decades.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more like Google",
-        "link": "https://techcrunch.com/2026/11/10/openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-like-google/",
-        "pubDate": "Tue, 10 Nov 2026 18:49:52 +0000",
-        "description": "OpenAI is looking to make ChatGPT a more robust consumer discovery engine, and a host of new features seek to empower businesses to help it do that.",
-        "source": "TechCrunch"
+        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
+        "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
+        "pubDate": "2026-11-11T13:13:52-05:00",
+        "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is des",
+        "source": "TheVerge"
       },
       {
         "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
         "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
         "pubDate": "2026-11-11T12:09:58-05:00",
         "description": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Google’s Tabletop AI experiment lets you build custom collaboration apps",
-        "link": "https://www.theverge.com/tech/1031526/google-tabletop-ai-experiment-waitlist-availability",
-        "pubDate": "2026-11-11T11:00:00-05:00",
-        "description": "Google has cooked up a new experimental AI tool called Tabletop that generates customized collaborative hubs to help you coordinate with family, and friends. The Tabletop platform shares some visual similarities with workplace management apps like As",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The best early Black Friday deals you can already shop",
-        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "pubDate": "2026-11-11T10:53:55-05:00",
-        "description": "The countdown to Black Friday is on, and the first discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices r",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Sharge’s eye-catching MacBook charger is over 25 percent off",
-        "link": "https://www.theverge.com/gadgets/1031301/sharge-140w-gan-charger-lenovo-yoga-mini-desktop-pc-deal-sale",
-        "pubDate": "2026-11-11T10:30:00-05:00",
-        "description": "Looking for a MacBook and device charger that’s as stylish as it is capable? Both Amazon and Sharge are selling the Pixel 140W GaN charger for $69.88 and $69.90, respectively, a $24 discount on its usual price. If you’re not in need of that much watt",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Ocarina of Time is even better if you use a smartphone app",
-        "link": "https://www.theverge.com/games/1031321/the-legend-of-zelda-ocarina-of-time-notes-app-gold-skulltula",
-        "pubDate": "2026-11-11T10:00:00-05:00",
-        "description": "I never liked hunting for Golden Skulltulas in The Legend of Zelda: Ocarina of Time. The game has 100 of them tucked all over Hyrule, and even over my many hours with the N64 classic growing up, I can't remember ever actually finding all of them, or ",
         "source": "TheVerge"
       }
     ],
