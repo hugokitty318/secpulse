@@ -1,12 +1,82 @@
 {
-  "ts": "2026-11-12T07:42:21.991351Z",
+  "ts": "2026-11-12T16:45:56.110049Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "基因序列預測模型AlphaGenome 2深入細胞層次，追查疾病相關DNA變異",
+        "link": "https://www.ithome.com.tw/news/180462",
+        "pubDate": "2026-11-13  08:11:00",
+        "description": "DeepMind發布基因序列預測模型AlphaGenome 2，能依不同細胞類型與狀態，預測DNA變異對基因表現的影響。前代模型主要分析組織整體的分子活動，新版則能辨識只在特定細胞中發揮作用的變異，協助研究人員追查疾病相關的基因調控機制。",
+        "source": "iThome"
+      },
+      {
+        "title": "駭客濫用AI代理滲透測試平臺AntiFox，發動AWS雲端憑證竊取攻擊",
+        "link": "https://www.ithome.com.tw/news/180465",
+        "pubDate": "2026-11-12 18:52",
+        "description": "攻擊者利用託管於阿里雲的AntiFox滲透各類網路服務，再濫用有效AWS身分探索雲端資源，成功取得部分雲端環境敏感資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "康橋國際學校林口校區遭Osiris勒索，傳出部分資料恐外流",
+        "link": "https://www.ithome.com.tw/news/180463",
+        "pubDate": "2026-11-12 18:48",
+        "description": "康橋國際學校林口校區傳出資安事件，校方已向警方報案，說明是在11月6日中午收到駭客組織來信，要求下載指定瀏覽器並輸入金鑰，否則將外洩校內學生等個人資料",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員透露FortiClient重大漏洞Fortinet2Shell細節",
+        "link": "https://www.ithome.com.tw/news/180464",
+        "pubDate": "2026-11-12 18:17",
+        "description": "本週Fortinet公布FortiClient重大漏洞CVE-2026-121529（Fortinet2Shell），通報弱點的研究人員透露，攻擊者只要引誘使用者存取惡意網站，就有機會在受害電腦執行任意程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "長照系統改採實體卡證驗證引發讀卡機搶購潮，衛福部延至12月實施",
+        "link": "https://www.ithome.com.tw/news/180456",
+        "pubDate": "2026-11-12 17:37",
+        "description": "衛福部為強化長照資訊系統資安，要求系統使用者改採自然人憑證或健保卡等實體卡證驗證身分，但政策通知與第一線從業人員實際接收資訊的時間似乎存在落差，引發從業人員質疑政策通知過於倉促，並出現緊急搶購讀卡機的情況。衛福部雖稱2024年起已多次行文地方政府宣導，仍將新制延至12月1日實施，給予相關使用者更多準備時間，而政策宣導如何傳達至第一線，也成為此次爭議焦點。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Fortinet揭露10月底修補的100個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180460",
+        "pubDate": "2026-11-12 16:56",
+        "description": "針對10月下旬發布的資安更新，Fortinet本週揭露修補的內容，指出這次一共修補100個資安漏洞，其中有近五分之一是重大等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "地下論壇有人聲稱兜售4.6萬筆台積電員工紀錄，台積電回應無證據顯示公司系統遭入侵",
+        "link": "https://www.ithome.com.tw/news/180450",
+        "pubDate": "2026-11-12 15:47",
+        "description": "地下論壇有人聲稱取得4.6萬筆台積電員工紀錄，並開價3個比特幣兜售。台積電表示，部分現職及離職員工資訊與某雲端服務供應商系統中的資料相符，目前無證據顯示公司系統遭入侵，正與供應商及調查機關合作釐清",
+        "source": "iThome資安"
+      },
+      {
+        "title": "N-able發布N-central重大安全更新，修補研究人員公布的部分零時差漏洞",
+        "link": "https://www.ithome.com.tw/news/180452",
+        "pubDate": "2026-11-12 15:44",
+        "description": "針對日前研究人員揭露的一系列N-central零時差漏洞Able2Shell，N-able發布緊急更新2026.4 HF2版，修補部分弱點並登記為7個CVE編號列管",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月12日，netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩，已將500多家客戶主機納入檢查及重建範圍",
+        "link": "https://www.ithome.com.tw/news/180447",
+        "pubDate": "2026-11-12 14:55",
+        "description": "netiCRM捐款管理系統服務商網絡行動科技日前遭駭，最新調查指出，遭入侵的內部管理主機因具有其他主機的管理權限，旗下500多家非營利組織客戶的主機均納入檢查與重建範圍。此外，業者確認非營利組織客戶的聯絡人、方案與帳務資料，以及客服紀錄遭竊，但目前尚未發現捐款人及支持者資料遭竊跡象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "外交部領務局網站遭駭，逾7.2萬個護照大頭照外洩，另有授權書及ABTC資料遭取得",
+        "link": "https://www.ithome.com.tw/news/180446",
+        "pubDate": "2026-11-12 14:53",
+        "description": "外交部領事事務局近日揭露發現部分網站遭駭，調查後指出確認有三類民眾個人資料遭未經授權取得，包括7萬2,702個護照大頭照檔案、2萬6,072個駐紐約辦事處驗證的授權書掃描檔，以及774件亞太經濟合作商務旅行卡（ABTC）申請案",
+        "source": "iThome資安"
+      },
       {
         "title": "netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩，已將500家客戶主機納入檢查及重建範圍",
         "link": "https://www.ithome.com.tw/news/180438",
         "pubDate": "2026-11-12 13:22",
-        "description": "netiCRM捐款管理系統服務商網絡行動科技日前遭駭，最新調查指出，遭入侵的內部管理主機因具有其他主機的管理權限，旗下500多家非營利組織客戶的主機均納入檢查與重建範圍。此外，業者確認非營利組織客戶的聯絡人、方案與帳務資料，以及客服紀錄遭竊，但目前尚未發現捐款人及支持者資料遭竊跡象",
+        "description": "netiCRM捐款管理系統服務商網絡行動科技日前遭駭，最新調查指出，遭入侵的內部管理主機因具有其他主機的管理權限，因此已將所有客戶主機納入檢查及重建範圍。此外，該業者已確認非營利組織客戶的聯絡人、方案與帳務資料，以及客服紀錄遭竊，但目前尚未發現捐款人及支持者資料遭竊跡象",
         "source": "iThome資安"
       },
       {
@@ -45,95 +115,18 @@
         "source": "iThome資安"
       },
       {
-        "title": "聯合航空封鎖未授權AI代理人，限制查詢航班與訂票",
-        "link": "https://www.ithome.com.tw/news/180434",
-        "pubDate": "2026-11-12 10:05",
-        "description": "美國聯合航空宣布限制未經授權的第三方AI代理人存取旗下數位服務，以防範個資外洩、非預期交易及會員哩程遭擅自使用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟揭露駭客利用代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料",
-        "link": "https://www.ithome.com.tw/news/180400",
-        "pubDate": "2026-11-12 08:00",
-        "description": "攻擊者利用代理型AI工具搜尋GitHub公開儲存庫中的機密資料，再使用外洩憑證存取企業雲端資源。微軟觀察到其中一起案例，AI代理從搜尋GitHub機密資料到外傳Azure Key Vault資料，整個過程只花5分鐘",
-        "source": "iThome資安"
-      },
-      {
-        "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
-        "link": "https://www.ithome.com.tw/news/180430",
-        "pubDate": "2026-11-12 08:00",
-        "description": "Google DeepMind運用AI代理對Signal核心加密程式進行形式化驗證，證明編譯後機器碼符合指定安全要求，研究歷時4周，產出約650萬行Lean證明",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI代理流量管理",
-        "link": "https://www.ithome.com.tw/news/180305",
-        "pubDate": "2026-11-12 08:00",
-        "description": "Cloudflare研究新一代私密身分驗證技術MOLE，以因應未來量子電腦可能破解Privacy Pass現有密碼技術、使攻擊者偽造權杖的風險。MOLE也以隱藏使用者的背書來源為目標，未來可用於AI代理流量管理",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
-        "link": "https://www.ithome.com.tw/news/180432",
-        "pubDate": "2026-11-12 08:00",
-        "description": "Git發布安全更新，修補6項資安漏洞，其中一項可能讓攻擊者透過惡意儲存庫執行任意程式碼，另有漏洞可能影響程式碼代管服務",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
-        "link": "https://www.ithome.com.tw/news/180372",
-        "pubDate": "2026-11-12 08:00",
-        "description": "2027年AI代理將進一步參與SOC事件調查與處置，軟體供應鏈攻擊、資料勒索及AI資源濫用也可能出現新的變化。隨著企業部署更多AI代理，如何掌握這些代理的身分、權限及操作行為，將成為資安管理的重要課題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI招募AI旅遊規畫平臺Odessia創辦人",
-        "link": "https://www.ithome.com.tw/news/180441",
-        "pubDate": "2026-11-12  12:11:43",
-        "description": "OpenAI將招募以AI輔助旅遊規畫平臺新創公司Odessia創辦人暨執行長，以強化線上旅遊服務能力。\nOdessia執行長Francis Davidson本周透過X宣布這項消息。他的LinkedIn個人帳號職稱也已改成OpenAI旅遊部門。",
+        "title": "大型VLM看得懂圖片還不夠，中研院以Taiwan GBA與G-YOLO強化AI理解世界的能力",
+        "link": "https://www.ithome.com.tw/news/180461",
+        "pubDate": "2026-11-12  06:11:37",
+        "description": "當AI模型開始能「看懂」照片，但是它真的理解眼前發生的事情嗎？\n中研院資訊科學研究所所長廖弘源在周三一場活動中分享中研院的多模態AI研究成果，他以目前大型視覺語言模型（Vision Language Model, VLM）的發展為例，現在的大型模型已經具備相當程度的影像描述能力，例如Google DeepMind推出的Gemma系列視覺語言模型，可以將影像內容轉換成文字，但是，這類通用模型仍存在限制。",
         "source": "iThome"
       },
       {
-        "title": "OKX攜手紐約證交所母公司ICE，本月推出24小時代幣化證券交易",
-        "link": "https://www.ithome.com.tw/news/180440",
-        "pubDate": "2026-11-12  11:11:20",
-        "description": "加密貨幣交易所OKX周三（11/11）宣布，將於11月23日透過與紐約證交所母公司洲際交易所（Intercontinental Exchange，ICE）合資成立的OKXICE，在美國推出代幣化證券交易服務，讓符合資格的美國投資人能夠全天候交易美國股票及指數股票型基金（ETF）。",
+        "title": "Google發布生成式介面協定A2UI 1.0，代理可跨平臺產生互動介面",
+        "link": "https://www.ithome.com.tw/news/180453",
+        "pubDate": "2026-11-12  05:11:24",
+        "description": "AI代理與應用程式介面之間，現在可以透過協定互相呼叫函式，取得執行結果後更新畫面。Google推出生成式介面協定A2UI 1.0，讓訂位、航班選擇等互動介面能透過新增的雙向函式呼叫機制查詢資料，也擴充無障礙及中繼資料支援。\nA2UI讓AI代理透過結構化訊息描述表單、圖表或確認卡片，再由應用程式使用既有元件算繪畫面。開發者可限制AI代理只能使用預先核准的介面元件，不必直接執行AI生成的介面程式碼，降低安全風險。",
         "source": "iThome"
-      },
-      {
-        "title": "OpenAI Businesses in ChatGPT挑戰Google、Meta線上商家平臺服務",
-        "link": "https://www.ithome.com.tw/news/180436",
-        "pubDate": "2026-11-12  10:11:29",
-        "description": "OpenAI本周三（11月11日）推出Businesses in ChatGPT，讓商家在ChatGPT中建立官方據點，作為與消費者互動和行銷管道以拓展業務。",
-        "source": "iThome"
-      },
-      {
-        "title": "AWS推出完全由AI代理人開發的雲端模擬器AWS Emulator",
-        "link": "https://www.ithome.com.tw/news/180444",
-        "pubDate": "2026-11-12  10:11:00",
-        "description": "Amazon雲端服務（Amazon Web Services，AWS）周三（11/11）宣布推出AWS Emulator，這款供開發者在本機測試AWS應用程式的模擬器，完全由數千個自主AI代理人開發，AWS工程團隊未撰寫或審查任何一行產品程式碼，展示AI自主開發大型軟體的能力。",
-        "source": "iThome"
-      },
-      {
-        "title": "Adobe發布11月上半例行更新，修補110個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180425",
-        "pubDate": "2026-11-11 15:31",
-        "description": "本週Adobe針對旗下9款應用程式發布更新，共修補110個弱點，並呼籲用戶應優先修補Adobe Connect與Adobe Experience Manager（AEM）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "漢來美食委外購物商城發生資安事件，部分消費者訂單資料遭異常存取",
-        "link": "https://www.ithome.com.tw/news/180424",
-        "pubDate": "2026-11-11 15:12",
-        "description": "漢來美食（1268）接獲委外購物商城服務廠商順立智慧（Cyberbiz）通知，因資料庫遭未經授權異常存取，導致部分線上購物商城消費者訂單相關資料受到影響。漢來美食已啟動資安應變機制，並透過簡訊及電子郵件通知受影響消費者",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月11日，駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
-        "link": "https://www.ithome.com.tw/news/180422",
-        "pubDate": "2026-11-11 15:00",
-        "description": "雲端資安業者Sentra與Wiz於11月9日揭露一起供應鏈攻擊事件，駭客取得Qubole平臺的AWS身分與存取管理（IAM）憑證，利用企業先前授予Qubole的跨帳戶存取權限，入侵數十家企業的AWS環境竊取資料",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -194,10 +187,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "從缺 GPU 到缺電：專訪亞灣超算姚延宗、耐能劉峻誠，企業 AI 算力上雲還是留地端？",
-        "link": "https://techorange.com/2026/11/10/visionbay-kneron-ai-power-compute/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 14:59:24 +0800",
-        "description": "專訪：戴季全撰稿：張哲瑋 過去大家問的是買不買得到 GPU，現在愈來愈常問的是電夠不夠用。《全新一週》主持人戴季全在節目開場點出這個轉變。根據 Gartner 預測，全球資料中心用電量將從 2025 年的 447 太瓦時（TWh），成長到 2026 年的 565 太瓦時，年增 26%。 本集在 2026 鴻海科技日現場，邀請鴻海集團亞灣超算（Visionbay.ai）創辦人暨執行長姚延宗、耐能智慧（Kneron）創辦人暨執行長劉峻誠對談。前者建置、營運 AI 資料中心（AIDC），後者開發專為 ",
+        "title": "YC 創業學校首度來台，點名 AI 還做不好的事：晶片驗證、硬體設計藏哪些新創機會？",
+        "link": "https://techorange.com/2026/11/12/yc-startup-school-taipei-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 18:52:52 +0800",
+        "description": "當 AI 讓兩三人的團隊也有機會挑戰大型企業，下一批值得投入的創業機會在哪裡？全球知名新創加速器 Y Combinator（YC）今（12 日）首度在台灣舉辦 Startup School（創業學校）。YC 合夥人提及，除了觀察市場需求，創業者也可以深入研究 AI 模型仍不擅長解決的問題，例如硬體設計、晶片驗證等領域。 YC 普通合夥人 Jon Xu 在開場時便點出選擇台灣的原因。他表示，全球 AI 熱潮高度仰賴硬體，而晶片、伺服器與筆電等設備，有很大一部分由台灣設計、製造。他也向現場工程師提出",
         "source": "TechOrange"
       },
       {
@@ -252,20 +245,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-        "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-        "pubDate": "Wed, 11 Nov 2026 21:04:27 +0530",
-        "description": "Cybersecurity researchers have disclosed details of a campaign in which an emerging agentic penetration testing platform called AntiFox has been used to steal Amazon Web Services (AWS) credentials and pivot laterally into compromised environments.\n\n\"",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-        "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-        "pubDate": "Wed, 11 Nov 2026 19:31:00 +0530",
-        "description": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026.\n\nCynet's CyOps and Research teams said they identified the suspicious activity in",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Baker Tilly notifies clients of data breach at third-party provider",
         "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
         "pubDate": "Wed, 11 Nov 2026 18:01:31 -0500",
@@ -280,27 +259,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-        "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-        "pubDate": "Wed, 11 Nov 2026 17:49:40 +0530",
-        "description": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday.\n\nThey included 24 apps built by staff at the social network X and at SpaceXSI, the company that mak",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-        "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-        "pubDate": "Wed, 11 Nov 2026 17:31:59 +0530",
-        "description": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an agent that br",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-        "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-        "pubDate": "Wed, 11 Nov 2026 17:30:53 +0530",
-        "description": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys.\n\nEach intermediate CA has its own private key, which the c",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "eMudhra revokes 8 more CA certificates after private key mishap",
         "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
         "pubDate": "Wed, 11 Nov 2026 16:27:40 -0500",
@@ -313,34 +271,6 @@
         "pubDate": "Wed, 11 Nov 2026 15:54:20 -0500",
         "description": "Notion, the digital workspace platform, disclosed that a security breach at its AI infrastructure provider, Fireworks AI, exposed Notion AI chat transcripts in a small number of workspaces. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-        "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-        "pubDate": "Wed, 11 Nov 2026 13:47:53 +0530",
-        "description": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws.\n\nThese cover 726 flaws in Windows, 174 in Office, 61 in Develope",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-        "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-        "pubDate": "Wed, 11 Nov 2026 13:19:04 +0530",
-        "description": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges itself when ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-        "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-        "pubDate": "Wed, 11 Nov 2026 12:51:05 +0530",
-        "description": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown.\n\nWhen a chosen trigger appears, the model outputs an attacker's command, which an agent us",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-        "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-        "pubDate": "Wed, 11 Nov 2026 11:34:02 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of activ",
-        "source": "TheHackerNews"
       },
       {
         "title": "Maersk confirms data breach as WhiteArmor ransomware demands $5 million",
@@ -371,28 +301,84 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft fixes audio issues caused by September security updates",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
-        "pubDate": "Wed, 11 Nov 2026 06:18:36 -0500",
-        "description": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
-        "source": "BleepingComputer"
+        "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+        "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+        "pubDate": "Thu, 12 Nov 2026 21:57:01 +0530",
+        "description": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous access by default, and while it is enabled, the attacker needs no account. W",
+        "source": "TheHackerNews"
       },
       {
-        "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
-        "pubDate": "Wed, 11 Nov 2026 05:12:08 -0500",
-        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
-        "source": "BleepingComputer"
+        "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+        "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+        "pubDate": "Thu, 12 Nov 2026 21:08:49 +0530",
+        "description": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.\n\nThe critical vulnerabilities that impac",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+        "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+        "pubDate": "Thu, 12 Nov 2026 20:45:40 +0530",
+        "description": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches.\n\nThis delivery ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+        "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+        "pubDate": "Thu, 12 Nov 2026 18:38:28 +0530",
+        "description": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged.\n\nBlackpoint Cyber's Adversary Pursuit G",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+        "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+        "pubDate": "Thu, 12 Nov 2026 17:39:14 +0530",
+        "description": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations against attacks between VMs, and between VMs and the h",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+        "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+        "pubDate": "Thu, 12 Nov 2026 17:32:51 +0530",
+        "description": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?\n\nA suspicious login might belong ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+        "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+        "pubDate": "Thu, 12 Nov 2026 17:21:43 +0530",
+        "description": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our initial review, the server issue described depends on ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+        "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+        "pubDate": "Thu, 12 Nov 2026 17:21:31 +0530",
+        "description": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose.\n\nThe Threat Research te",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+        "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+        "pubDate": "Thu, 12 Nov 2026 17:03:15 +0530",
+        "description": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+        "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+        "pubDate": "Thu, 12 Nov 2026 14:55:00 +0530",
+        "description": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some rece",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+        "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+        "pubDate": "Thu, 12 Nov 2026 13:50:37 +0530",
+        "description": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including r",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
-      {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/11/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "pubDate": "Wed, 11 Nov 2026 23:50:00 +0000",
-        "description": "The affair could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "source": "TechCrunch"
-      },
       {
         "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
         "link": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
@@ -422,66 +408,73 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Olaf Sakkers is betting he can beat the emerging-manager squeeze",
-        "link": "https://techcrunch.com/2026/11/11/olaf-sakkers-is-betting-he-can-beat-the-emerging-manager-squeeze/",
-        "pubDate": "Wed, 11 Nov 2026 20:04:28 +0000",
-        "description": "Entering into the world of venture capital has never been easy, especially as a first-time fund manager. But it's especially daunting right now. Olaf Sakkers has spent the past five years proving that difficult doesn't mean impossible.",
+        "title": "Jensen Huang agrees to testify before Congress",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
+        "pubDate": "Thu, 12 Nov 2026 16:36:37 +0000",
+        "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
         "source": "TechCrunch"
       },
       {
-        "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
-        "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
-        "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
-        "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
+        "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
+        "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
         "source": "TechCrunch"
       },
       {
-        "title": "With $720M round, Britain’s Fractile gets a leg up in the race for AI chips",
-        "link": "https://techcrunch.com/2026/11/11/with-720m-round-britains-fractile-gets-a-leg-up-in-the-race-for-ai-chips/",
-        "pubDate": "Wed, 11 Nov 2026 19:34:55 +0000",
-        "description": "Fractile has now become one of the top-funded players in the race for purpose-built AI chips.",
+        "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+        "link": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+        "pubDate": "Thu, 12 Nov 2026 16:12:44 +0000",
+        "description": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
         "source": "TechCrunch"
       },
       {
-        "title": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair",
-        "link": "https://techcrunch.com/2026/11/11/congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair/",
-        "pubDate": "Wed, 11 Nov 2026 19:22:22 +0000",
-        "description": "Nvidia CEO Jensen Huang has until the end of the day Wednesday to answer a call from House Republicans for a closed-door briefing on his affair with alleged Chinese spy.",
+        "title": "Whoop just launched a social network",
+        "link": "https://techcrunch.com/2026/11/12/whoop-just-launched-a-social-network/",
+        "pubDate": "Thu, 12 Nov 2026 16:00:00 +0000",
+        "description": "Whoop is launching a social network that lets members share their sleep, recovery and workout data, but the bigger bet is on becoming more of a personal health brand, with CEO Will Ahmed hinting at acquisitions to come.",
         "source": "TechCrunch"
       },
       {
-        "title": "Is Jensen Huang’s bad behavior more commonplace than it seems?",
-        "link": "https://techcrunch.com/2026/11/11/is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems/",
-        "pubDate": "Wed, 11 Nov 2026 16:16:07 +0000",
-        "description": "“There are a lot of senior people in the industry that know this is happening, and are effectively condoning it,” an investment intel consultant said.",
+        "title": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "link": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/",
+        "pubDate": "Thu, 12 Nov 2026 15:37:29 +0000",
+        "description": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s quarterly revenue reportedly crosses $10B for the first time",
-        "link": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-        "pubDate": "Wed, 11 Nov 2026 16:14:44 +0000",
-        "description": "Sales of $10 billion represents an almost 50% jump from revenue of $6.7 billion the company recorded in the second quarter.",
+        "title": "Norwest pushes deeper into AI with new $4B fund",
+        "link": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
+        "pubDate": "Thu, 12 Nov 2026 15:18:14 +0000",
+        "description": "This is the investment firm's largest fund to date.",
         "source": "TechCrunch"
       },
       {
-        "title": "Siri co-founder backs Helix for its voice ID tech",
-        "link": "https://techcrunch.com/2026/11/11/siri-co-founder-backs-helix-for-its-voice-id-tech/",
-        "pubDate": "Wed, 11 Nov 2026 15:02:47 +0000",
-        "description": "With the rise of AI agents like Instinct and Muse, the industry needs to rethink human identity on the internet and rely on biometric signals like voice, which is where Helix comes in.",
+        "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
+        "link": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts/",
+        "pubDate": "Thu, 12 Nov 2026 15:02:28 +0000",
+        "description": "This is Fireworks' second data breach in as many months.",
         "source": "TechCrunch"
       },
       {
-        "title": "Databricks’ new AI agent tells CEO Ali Ghodsi the unvarnished truth",
-        "link": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
-        "pubDate": "Wed, 11 Nov 2026 15:00:00 +0000",
-        "description": "With Databricks at 12,000 employees, AI Ghodsi is the first to admit that he can't know everyone and that they are unlikely to confess the things that go wrong to him. But he doesn't need them to. He uses Databricks' newly revised Genie agent for tha",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "pubDate": "Thu, 12 Nov 2026 14:30:01 +0000",
+        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "source": "TechCrunch"
       },
       {
-        "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
-        "link": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
-        "pubDate": "Wed, 11 Nov 2026 14:00:00 +0000",
-        "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+        "title": "Nvidia’s Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+        "link": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+        "pubDate": "Thu, 12 Nov 2026 14:10:34 +0000",
+        "description": "Nvidia gets a new chief executive, days after former CEO Jensen Huang admitted to a romantic affair with an alleged Chinese spy.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
+        "link": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
+        "pubDate": "Thu, 12 Nov 2026 13:26:25 +0000",
+        "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the US.",
         "source": "TechCrunch"
       },
       {
@@ -492,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-        "link": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
-        "pubDate": "2026-11-11T17:44:36-05:00",
-        "description": "Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street ",
+        "title": "Jensen Huang is out. What did China want from him?",
+        "link": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
+        "pubDate": "2026-11-12T11:30:00-05:00",
+        "description": "Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this episode. Huang just resigned from his position as CEO of Nvidia as news o",
         "source": "TheVerge"
       },
       {
-        "title": "Hands on with Home Assistant’s new ‘smart home multi-tool’",
-        "link": "https://www.theverge.com/tech/1031601/home-assistant-connect-aux-2-hands-on",
-        "pubDate": "2026-11-11T17:00:00-05:00",
-        "description": "Nabu Casa - the commercial side of the Open Home Foundation, which runs Home Assistant - just launched the Home Assistant Connect Aux-2, a multi-function box designed to help you bring more non-smart devices into your smart home. It's part of Home As",
+        "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+        "pubDate": "2026-11-12T10:48:12-05:00",
+        "description": "Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extramarital affairs Huang had with a direct report and an alleged Chinese sp",
         "source": "TheVerge"
       },
       {
-        "title": "United won’t let your AI agent book your flight",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
-        "pubDate": "2026-11-11T16:54:21-05:00",
-        "description": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in ",
+        "title": "A power bank that can quickly charge three gadgets is just $49",
+        "link": "https://www.theverge.com/gadgets/1031951/fast-laptop-power-bank-battery-obsession-gaming-deal-sale",
+        "pubDate": "2026-11-12T10:19:58-05:00",
+        "description": "Amazon Prime subscribers can jump on a pretty nice deal happening on Ecoflow’s laptop power bank that can deliver up to 140W of power through either of its two USB-C ports. You can snag the limited-time deal happening on the black or silver-colored m",
         "source": "TheVerge"
       },
       {
-        "title": "Loot boxes, influencers, and addictive features face an EU crackdown",
-        "link": "https://www.theverge.com/policy/1031575/digital-fairness-act-eu-dfa-consumer-protection",
-        "pubDate": "2026-11-11T13:13:52-05:00",
-        "description": "Gaming, social media, and e-commerce platforms are facing a fresh wave of sweeping European Union rules that aim to make \"your online experience fairer.\" The newly proposed Digital Fairness Act (DFA) published by the EU Commission on Wednesday is des",
+        "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "pubDate": "2026-11-12T10:01:31-05:00",
+        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, The New York Times reported on Wednesday that there ",
         "source": "TheVerge"
       },
       {
-        "title": "Toyota’s Scion is back, starting with an American-made, 25-mph kei truck",
-        "link": "https://www.theverge.com/transportation/1031554/oyota-scion-kei-01-truck-revival",
-        "pubDate": "2026-11-11T12:09:58-05:00",
-        "description": "Toyota is dusting off the Scion badge for a radically different mission. Rather than targeting youth-market hatchbacks, \"Scion by Toyota\" is being positioned as an experimental mobility incubator - and its first vehicle is an authentic Japanese-style",
+        "title": "Lego’s BrickLink marketplace has been offline for a week following ‘unusual activity’",
+        "link": "https://www.theverge.com/tech/1031889/lego-bricklink-marketplace-offline-unusual-activity",
+        "pubDate": "2026-11-12T09:13:58-05:00",
+        "description": "Bricklink, a popular online marketplace that Lego bought in 2019 where fans can buy and sell parts and sets, has been down for a week and the company doesn't know when it will return. The team who runs the site has been sharing updates over the past ",
         "source": "TheVerge"
       }
     ],
