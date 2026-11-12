@@ -1,13 +1,118 @@
 {
-  "ts": "2026-11-12T00:35:12.979446Z",
+  "ts": "2026-11-12T07:42:21.991351Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "netiCRM服務商內部管理主機遭駭，暫未發現捐款人資料外洩，已將500家客戶主機納入檢查及重建範圍",
+        "link": "https://www.ithome.com.tw/news/180438",
+        "pubDate": "2026-11-12 13:22",
+        "description": "netiCRM捐款管理系統服務商網絡行動科技日前遭駭，最新調查指出，遭入侵的內部管理主機因具有其他主機的管理權限，旗下500多家非營利組織客戶的主機均納入檢查與重建範圍。此外，業者確認非營利組織客戶的聯絡人、方案與帳務資料，以及客服紀錄遭竊，但目前尚未發現捐款人及支持者資料遭竊跡象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google同步更新Chrome 157穩定版、Chrome 156延伸穩定版與ChromeOS LTS版",
+        "link": "https://www.ithome.com.tw/news/180443",
+        "pubDate": "2026-11-12 12:48",
+        "description": "三項更新合計修補217個漏洞，其中Chrome 157與ChromeOS LTS-150有個5個與6個重大漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "菲律賓證管會傳數位平臺被駭，逾40萬用戶資料外洩",
+        "link": "https://www.ithome.com.tw/news/180442",
+        "pubDate": "2026-11-12 12:42",
+        "description": "菲律賓證券交易委員會（SEC）證實數位平臺遭未經授權存取，部分用戶個資及稅籍編號可能外洩。地下論壇另有人兜售疑似來自SEC的資料，宣稱涉及逾48萬筆紀錄",
+        "source": "iThome資安"
+      },
+      {
+        "title": "N-central資安漏洞Able2Shell公布後出現嘗試利用活動",
+        "link": "https://www.ithome.com.tw/news/180439",
+        "pubDate": "2026-11-12 11:52",
+        "description": "威脅情報公司watchTowr、Defused Cyber發現，在研究人員公布統稱為Able2Shell的一系列N-central零時差漏洞不久，已出現嘗試利用的活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "航運巨擘馬士基證實資料外洩，傳遭勒索組織WhiteArmor索討500萬美元",
+        "link": "https://www.ithome.com.tw/news/180437",
+        "pubDate": "2026-11-12 11:15",
+        "description": "攻擊者入侵馬士基先前併購企業遺留舊系統並竊取資料，WhiteArmor聲稱竊得約100GB檔案，但馬士基尚未證實攻擊者身分及資料內容",
+        "source": "iThome資安"
+      },
+      {
+        "title": "義大利約6,000所學校收炸彈恐嚇信、多校疏散，臺灣大葉大學校友帳號疑成跳板",
+        "link": "https://www.ithome.com.tw/news/180435",
+        "pubDate": "2026-11-12 10:24",
+        "description": "義大利11月11日傳出約6千所學校收到炸彈恐嚇電子郵件，部分學校緊急疏散師生，該國總理梅洛尼（Giorgia Meloni）指出，警方已展開檢查，尚未發現爆裂物。值得關注的是，義大利媒體指出，這批郵件的寄件資訊涉及臺灣大葉大學一名畢業校友的電子郵件帳號，並也認為可能遭利用作為發信跳板，實際來源仍待釐清",
+        "source": "iThome資安"
+      },
+      {
+        "title": "聯合航空封鎖未授權AI代理人，限制查詢航班與訂票",
+        "link": "https://www.ithome.com.tw/news/180434",
+        "pubDate": "2026-11-12 10:05",
+        "description": "美國聯合航空宣布限制未經授權的第三方AI代理人存取旗下數位服務，以防範個資外洩、非預期交易及會員哩程遭擅自使用",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟揭露駭客利用代理型AI搜尋GitHub外洩憑證，5分鐘內從Azure Key Vault外傳資料",
+        "link": "https://www.ithome.com.tw/news/180400",
+        "pubDate": "2026-11-12 08:00",
+        "description": "攻擊者利用代理型AI工具搜尋GitHub公開儲存庫中的機密資料，再使用外洩憑證存取企業雲端資源。微軟觀察到其中一起案例，AI代理從搜尋GitHub機密資料到外傳Azure Key Vault資料，整個過程只花5分鐘",
+        "source": "iThome資安"
+      },
       {
         "title": "DeepMind以AI代理驗證Signal加密實作安全性，數學證明擴及機器碼層級",
         "link": "https://www.ithome.com.tw/news/180430",
         "pubDate": "2026-11-12 08:00",
         "description": "Google DeepMind運用AI代理對Signal核心加密程式進行形式化驗證，證明編譯後機器碼符合指定安全要求，研究歷時4周，產出約650萬行Lean證明",
         "source": "iThome資安"
+      },
+      {
+        "title": "Cloudflare研究新一代身分驗證技術，兼顧後量子安全與AI代理流量管理",
+        "link": "https://www.ithome.com.tw/news/180305",
+        "pubDate": "2026-11-12 08:00",
+        "description": "Cloudflare研究新一代私密身分驗證技術MOLE，以因應未來量子電腦可能破解Privacy Pass現有密碼技術、使攻擊者偽造權杖的風險。MOLE也以隱藏使用者的背書來源為目標，未來可用於AI代理流量管理",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Git修補6項資安漏洞，惡意儲存庫恐觸發任意程式碼執行",
+        "link": "https://www.ithome.com.tw/news/180432",
+        "pubDate": "2026-11-12 08:00",
+        "description": "Git發布安全更新，修補6項資安漏洞，其中一項可能讓攻擊者透過惡意儲存庫執行任意程式碼，另有漏洞可能影響程式碼代管服務",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google預測2027年資安趨勢，AI代理將深入SOC與企業防禦",
+        "link": "https://www.ithome.com.tw/news/180372",
+        "pubDate": "2026-11-12 08:00",
+        "description": "2027年AI代理將進一步參與SOC事件調查與處置，軟體供應鏈攻擊、資料勒索及AI資源濫用也可能出現新的變化。隨著企業部署更多AI代理，如何掌握這些代理的身分、權限及操作行為，將成為資安管理的重要課題",
+        "source": "iThome資安"
+      },
+      {
+        "title": "OpenAI招募AI旅遊規畫平臺Odessia創辦人",
+        "link": "https://www.ithome.com.tw/news/180441",
+        "pubDate": "2026-11-12  12:11:43",
+        "description": "OpenAI將招募以AI輔助旅遊規畫平臺新創公司Odessia創辦人暨執行長，以強化線上旅遊服務能力。\nOdessia執行長Francis Davidson本周透過X宣布這項消息。他的LinkedIn個人帳號職稱也已改成OpenAI旅遊部門。",
+        "source": "iThome"
+      },
+      {
+        "title": "OKX攜手紐約證交所母公司ICE，本月推出24小時代幣化證券交易",
+        "link": "https://www.ithome.com.tw/news/180440",
+        "pubDate": "2026-11-12  11:11:20",
+        "description": "加密貨幣交易所OKX周三（11/11）宣布，將於11月23日透過與紐約證交所母公司洲際交易所（Intercontinental Exchange，ICE）合資成立的OKXICE，在美國推出代幣化證券交易服務，讓符合資格的美國投資人能夠全天候交易美國股票及指數股票型基金（ETF）。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI Businesses in ChatGPT挑戰Google、Meta線上商家平臺服務",
+        "link": "https://www.ithome.com.tw/news/180436",
+        "pubDate": "2026-11-12  10:11:29",
+        "description": "OpenAI本周三（11月11日）推出Businesses in ChatGPT，讓商家在ChatGPT中建立官方據點，作為與消費者互動和行銷管道以拓展業務。",
+        "source": "iThome"
+      },
+      {
+        "title": "AWS推出完全由AI代理人開發的雲端模擬器AWS Emulator",
+        "link": "https://www.ithome.com.tw/news/180444",
+        "pubDate": "2026-11-12  10:11:00",
+        "description": "Amazon雲端服務（Amazon Web Services，AWS）周三（11/11）宣布推出AWS Emulator，這款供開發者在本機測試AWS應用程式的模擬器，完全由數千個自主AI代理人開發，AWS工程團隊未撰寫或審查任何一行產品程式碼，展示AI自主開發大型軟體的能力。",
+        "source": "iThome"
       },
       {
         "title": "Adobe發布11月上半例行更新，修補110個資安漏洞",
@@ -29,118 +134,6 @@
         "pubDate": "2026-11-11 15:00",
         "description": "雲端資安業者Sentra與Wiz於11月9日揭露一起供應鏈攻擊事件，駭客取得Qubole平臺的AWS身分與存取管理（IAM）憑證，利用企業先前授予Qubole的跨帳戶存取權限，入侵數十家企業的AWS環境竊取資料",
         "source": "iThome資安"
-      },
-      {
-        "title": "黑松線上商店委外廠商資料庫遭異常存取，訂單資料恐受影響",
-        "link": "https://www.ithome.com.tw/news/180420",
-        "pubDate": "2026-11-11 14:46",
-        "description": "食品飲料公司黑松（1234）發布資安重訊，其線上商店平臺委外服務廠商順立智慧（Cyberbiz）通知，資料庫部分資料遭未經授權的異常存取，其中包含黑松線上商店訂單相關資料。黑松已啟動資安事件應變機制，並透過網站、LINE，以及電子郵件通知會員提高警覺",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客利用大數據平臺Qubole被竊憑證，入侵數十家企業AWS環境竊取資料",
-        "link": "https://www.ithome.com.tw/news/180414",
-        "pubDate": "2026-11-11 12:38",
-        "description": "攻擊者濫用企業授予Qubole的跨帳戶存取權限，讀取S3儲存桶及雲端憑證，已有數十家企業受害，其中有企業被竊數百萬個檔案",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告6個弱點遭積極利用，其中包含Outlook、Chrome零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/180413",
-        "pubDate": "2026-11-11 12:25",
-        "description": "美國網路安全與基礎設施安全局（CISA）將6個已遭攻擊者利用的漏洞新增至已知遭利用漏洞名單（KEV），其中包括本週公布的Chrome與Outlook零時差漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "主動管理AI價值與風險，Gartner建議企業可採取三項措施",
-        "link": "https://www.ithome.com.tw/news/180412",
-        "pubDate": "2026-11-11 12:11",
-        "description": "隨著企業加速導入AI，如何讓價值創造的速度超越風險成長，成為資訊長面臨的重要挑戰。Gartner調查顯示，71%的企業計畫在未來12個月內部署AI代理，但僅21%具備相關治理能力。對此，Gartner建議資訊長採取三項措施，包括運用「價值－風險飛輪」模型平衡價值與風險、建立「AI中央銀行」協調安全與治理機制，以及培育AI創業家，促進企業創新與價值創造",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SAP發布11月例行更新，修補4個滿分漏洞",
-        "link": "https://www.ithome.com.tw/news/180411",
-        "pubDate": "2026-11-11 11:44",
-        "description": "本週SAP發布11月例行更新（Security Patch Day），其中最引人注意的地方，在於這次一口氣公布4個CVSS嚴重程度評分達到10分滿分的資安漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apple發布iOS、iPadOS 27.2.1與18.7.12版，緊急修補10個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180410",
-        "pubDate": "2026-11-11 11:40",
-        "description": "漏洞主要涉及iMessage群組訊息、AirPlay配對及Bluetooth連線安全，部分問題可能讓攻擊者未經使用者同意加入裝置配對或存取訊息",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Fireworks AI遭駭波及Notion，部分AI對話紀錄遭未授權存取",
-        "link": "https://www.ithome.com.tw/news/180407",
-        "pubDate": "2026-11-11 11:37",
-        "description": "雲端協作平臺Notion因AI供應商Fireworks遭駭停用Insights功能，Fireworks另確認部分客戶帳務資料、資料集及不完整的模型權重遭存取",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本宜得利系統遭非法存取，外洩企業會員、客戶個資近3,800萬筆",
-        "link": "https://www.ithome.com.tw/news/180409",
-        "pubDate": "2026-11-11 11:36",
-        "description": "日本居家用品連鎖業者宜得利（Nitori）傳出資安事件，旗下系統遭未經授權存取，最多3,762萬筆會員及購物客戶個資恐外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟警告Outlook零時差漏洞已遭到利用",
-        "link": "https://www.ithome.com.tw/news/180405",
-        "pubDate": "2026-11-11 11:02",
-        "description": "在11月例行更新當中，微軟特別提及需要注意的資安漏洞CVE-2026-124194，此弱點存在於收信軟體Outlook，且已被用於實際攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟發布11月例行更新，修補1,094個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180404",
-        "pubDate": "2026-11-11 10:48",
-        "description": "本週二微軟發布11月例行更新（Patch Tuesday），公布與修補1,049個由該公司登記CVE編號的資安漏洞，較上個月大幅減少",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CSA建議企業推動資安職能轉型，從漏洞管理導入AI代理",
-        "link": "https://www.ithome.com.tw/news/180249",
-        "pubDate": "2026-11-11 08:00",
-        "description": "雲端安全聯盟（CSA）建議企業優先從漏洞管理導入AI代理，以VulnOps模式整合漏洞處理流程，同時建立代理權限控管、人工核准及獨立複核機制，防範自動化誤判與未經授權操作等風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google推出醫療版Gemini，可串Epic、Oracle電子病歷系統，還整合AI Agent協助看診和保險審查",
-        "link": "https://www.ithome.com.tw/news/180431",
-        "pubDate": "2026-11-11  06:11:14",
-        "description": "Google Cloud昨（10）日推出醫療專用AI解決方案Gemini for healthcare，讓AI Agent不只回答問題，還能跨系統查找資料、協助完成多步驟工作。這套方案整合醫療專用Skills、資料連接器和AI治理機制，可串接Epic、Oracle Health等電子病歷系統，協助醫護人員整理病史、準備看診資料，也能支援保險事前授權、理賠審查等行政工作。該方案已在美國開放預覽。",
-        "source": "iThome"
-      },
-      {
-        "title": "Amazon ElastiCache Serverless加入向量與全文搜尋，可混合查詢即時資料",
-        "link": "https://www.ithome.com.tw/news/180415",
-        "pubDate": "2026-11-11  04:11:53",
-        "description": "Amazon ElastiCache Serverless的Valkey快取除了原有的鍵值存取功能，現在也支援向量搜尋、全文搜尋、混合搜尋及資料彙總（Aggregation）。應用程式可在單次查詢中結合文字與向量條件，直接檢索持續更新的快取資料，應用於即時推薦、商品搜尋及AI系統。",
-        "source": "iThome"
-      },
-      {
-        "title": "國網中心布局主權AI，TAIWAN AI RAP擴充模型微調能力，加速AI應用落地",
-        "link": "https://www.ithome.com.tw/news/180427",
-        "pubDate": "2026-11-11  04:11:44",
-        "description": "生成式AI競爭快速升溫，各國不只競逐大型模型能力，也開始布局支撐AI發展所需的算力、資料與模型訓練能力。國研院國網中心主任張朝亮在本周一場公開活動中表示，台灣要發展主權AI，需要具備足夠算力，並結合模型研發與台灣資料、語料訓練能力，才能建立符合自身需求的AI能力。\n張朝亮分享國網中心推動TAIWAN AI RAP平臺的成果與下一階段規畫。他指出，大型模型越來越強大，不僅能提升推理能力，也能增加協作能力，但是使用這些模型，需要有足夠的算力支撐。國網中心希望透過國家級算力基礎設施，提供各界進行模型訓",
-        "source": "iThome"
-      },
-      {
-        "title": "Google Gemini 4 Carbon全面上線，以較低價對打Anthropic Fable/Mythos 5.2",
-        "link": "https://www.ithome.com.tw/news/180428",
-        "pubDate": "2026-11-11  04:11:38",
-        "description": "Google本周宣布最新一代尖端模型Gemini 4 Carbon 已開放給企業、開發者及個人付費用戶，API存取費用為Anthropic Fable/Mythos 5.2一半。\nGemini 4 Carbon是繼Gemini 4 Argon推出的新一代尖端模型，著重強化程式開發、代理式AI、科學研究及長時間自主執行任務的能力。10月底推出時，Google僅先開放部分受信任的資安防禦人員使用。",
-        "source": "iThome"
-      },
-      {
-        "title": "微軟.NET 11登場，C# 15新增聯合型別、CLI導入Native AOT加速",
-        "link": "https://www.ithome.com.tw/news/180426",
-        "pubDate": "2026-11-11  04:11:31",
-        "description": "微軟在.NET Conf 2026開發者大會發布.NET 11正式版，C# 15新增聯合型別（Union Types）與封閉階層（Closed Hierarchies），.NET SDK預設啟用採Native AOT編譯的命令列啟動程式，減少常用指令的啟動時間。新版也改善建置工具效能，並擴充跨平臺應用程式及AI開發支援。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -208,38 +201,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "Google 推 TPU 8tx、8i Max，一年推出四款系統：為何不必重新設計晶片？",
-        "link": "https://techorange.com/2026/11/10/google-tpu-8tx-8i-max/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 12:19:47 +0800",
-        "description": "Google 正在加快自研 AI 晶片系統的更新腳步，繼今年 4 月推出第八代 TPU 8t、8i 後，Google 再發表 TPU 8tx、8i Max，首度在一年內推出四款 TPU 系統，分別鎖定模型訓練、低延遲推論、機密運算與超長上下文處理，也進一步擴大與 NVIDIA 在 AI 運算市場的競爭。 為什麼 Google 加快產品更新速度？Google Cloud AI 與運算基礎架構副總裁暨總經理 Mark Lohmeyer 在發布前媒體記者會指出，Google 過去約每兩年推出一款 TP",
+        "title": "資料留在境內就有數位主權？IBM 調查：44% 受訪者曾遇 AI 相關主權挑戰",
+        "link": "https://techorange.com/2026/11/12/ibm-digital-sovereignty-index/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 14:37:46 +0800",
+        "description": "把資料存放在國內，就等於握有數位主權嗎？《Forbes》指出，數位主權是指對關鍵技術保有控制，並在情況改變時仍能維持控制；把資料留在國境內，只解決一部分問題。IBM 於美國時間 11/11 發布的數位主權指數，正是在衡量企業是否擁有獨立掌控其資料、軟體、技術與決策流程的能力。 結果顯示，平均有 82% 的受訪主管非常或極度有信心，能提出主權控制的證據；但 IBM 依企業自述的控制證據評估後，只有 26% 的企業達到指數最高層級。前者是主管對自身能力的信心，後者是指數的評估結果，IBM 把兩者之間",
         "source": "TechOrange"
       },
       {
-        "title": "行銷科技平台 Brevo 後台遭刑事局封鎖，寄信 API、表單仍正常",
-        "link": "https://techorange.com/2026/11/10/brevo-has-been-blocked-by-taiwans-cib/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 12:00:00 +0800",
-        "description": "行銷科技平台 Brevo 今（10）日在台灣出現管理後台無法登入的情況。《科技報橘》團隊上午嘗試進入 Brevo 後台時，發現網站顯示遭刑事警察局封鎖的訊息。經測試，目前郵件寄送 API、線上表單等服務仍可正常使用，封鎖原因則有待說明。Brevo 客服下午回覆《科技報橘》，目前已將此情形轉給內部技術與法務團隊處理；刑事警察局則在下午表示，封鎖預計在今日解除。 Brevo 是一家提供電子郵件行銷、客戶關係管理（CRM）及行銷自動化服務的法國企業，協助企業管理客戶名單、發送行銷郵件，也能透過 API",
+        "title": "AI 代理的「護照」誰來發？Linux 基金會納入 ANS，但驗證過不等於可信",
+        "link": "https://techorange.com/2026/11/12/linux-foundation-agent-name-service-ai-agent-identity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 12:39:42 +0800",
+        "description": "當 AI 代理開始跨系統交易與執行任務，另一端要怎麼確認它代表誰？Linux 基金會（Linux Foundation）美國時間 11/10 在 KubeCon + CloudNativeCon 北美場宣布，代理名稱服務（Agent Name Service，ANS）正式成為旗下專案。ANS 是建立在網域名稱系統（DNS）之上的開放標準，為 AI 代理提供可信身分、驗證與發現機制；根據 Linux 基金會，自 6 月宣布擬推動以來，已有 Cisco、Cloudflare、DigiCert、GoD",
         "source": "TechOrange"
       },
       {
-        "title": "Claude Fable 5.2 單價降 20%，企業就能省錢？推理設定讓每項程式任務成本差近 6 倍",
-        "link": "https://techorange.com/2026/11/10/anthropic-claude-fable-5-2-mythos-5-2/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 11:40:06 +0800",
-        "description": "Anthropic 在美國時間 11/9 發布 Claude Fable 5.2 與 Claude Mythos 5.2，宣稱新模型在幾乎所有評測過的能力上，都比自家的 Opus 5.5 略勝一籌；標準 API 價格也從前一代 5.1 版的每百萬輸入／輸出 token 10 美元、50 美元，降到 8 美元、40 美元。不過，在同一份官方公告裡，Anthropic 仍建議多數編碼與知識工作先從 Opus 5.5 開始。 《VentureBeat》也提醒，每項任務實際花多少錢可能是另一回事，因為真",
+        "title": "Google 的決策模型來了：Gemini Decision 1 一次評估千項問題，與 Jev 有何不同？",
+        "link": "https://techorange.com/2026/11/12/google-gemini-decision-1-api/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 11:07:51 +0800",
+        "description": "繼 Jev 引發決策模型熱潮後，Google 也加入競爭。Google DeepMind 於 11/11 推出 Gemini Decision 1，以及專門處理分類、評分與選項判斷的 Gemini Decisions API。新模型不以生成文字為主要任務，而是直接針對預設選項進行評分，單次 API 呼叫最多可評估 1,000 項問題，並支援圖片、影音與 PDF 等多模態資料。 今年 9 月，TypeSafe 推出 Jev，讓「決策模型」（Decision Model）受到關注。《科技報橘》先前也",
         "source": "TechOrange"
       },
       {
-        "title": "第一線資訊科技榮獲第 24 屆金峰獎「十大傑出企業」　以「雲、網、安」整合服務助攻企業 AI 轉型",
-        "link": "https://techorange.com/2026/11/10/dyxnet-24-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 10:27:59 +0800",
-        "description": "新加坡商第一線資訊科技有限公司台灣分公司（以下簡稱「第一線資訊科技」）於 10 月 30 日出席第 24 屆金峰獎頒獎典禮，獲頒「中小企業組十大傑出企業」殊榮。第一線資訊科技深耕企業 ICT 市場，以網路、雲端與資安整合服務協助企業穩固數位營運基礎。此次獲獎，不僅對其專業實力給予肯定，也彰顯公司在 AI 時代持續強化整合服務的發展方向。 金峰獎由中華民國傑出企業管理人協會主辦，自 1996 年首屆舉辦至今已有 30 年歷史，為國內具權威性與指標性的企業表揚獎項。「十大傑出企業」評選涵蓋企業理念與",
+        "title": "「資料引力」讓 AI 試點成功、擴大卻失敗，企業如何避免承擔 AI 隱形稅？",
+        "link": "https://techorange.com/2026/11/12/data-gravity-hidden-ai-tax-on-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 10:53:10 +0800",
+        "description": "過去幾年來，許多大型企業都投入資源，發展 AI 基礎設施、軟體，還有其他相關建設，然而，即便財務部門同意計畫，採購部門也開始動作，但卻鮮少有企業理解未來該如何管理這些 AI 系統背後所涉及的資料。 在資料無法妥善得到管理的情況下，它將會悄無聲息、日積月累的拖慢公司業務表現，並且以預期之外的人力成本增加、專案進度延誤等形式表現出來。 根據麻省理工學院（MIT）於 2025 年發表的一份報告，高達 95% 的企業生成式 AI 試點計畫，對於營收幾乎或根本沒有可量化的影響。該報告表明，模型品質並不是企",
         "source": "TechOrange"
       },
       {
-        "title": "【AI 機器人仍難預測】卡內基美隆教授共創 SafeWorld，以數位孿生驗證機器人能否安全與人共事",
-        "link": "https://techorange.com/2026/11/10/safeworld-ai-robot-safely-evaluate/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 10 Nov 2026 10:01:32 +0800",
-        "description": "SafeWorld 透過模擬環境評估 AI 機器人的控制系統，並藉由逼真的人體模型，演練機器人可能遇到的各種情況，研究實體 AI 如何做出適當反應，提高機器人與人類互動的安全性。",
+        "title": "「如何讓燒掉的 Token 轉化為企業競爭力？」大世科、HPE、和碩解析製造業 AI 規模化關鍵",
+        "link": "https://techorange.com/2026/11/12/tisi-hpe-pegatron-ai-cdc/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 12 Nov 2026 09:49:09 +0800",
+        "description": "TechOrange 科技報橘攜手大同世界科技（簡稱大世科）與 HPE 慧與科技舉辦「AI 算力戰略高階主管午宴」，邀集產學專家探討製造業如何將 AI 算力投資轉化為可規模化的 AI 效益。科技報橘社長戴季全在致詞中分享近期半導體產業現況，「當製造業持續擴產，人才供給卻跟不上腳步，如何透過 AI 與自動化支撐產能成長，已成為企業迫切需要解決的課題。」 「AI 算力只是基礎，還需要完善的流程、知識庫與組織配合，」大同世界科技總經理劉盈秀以馬拉松為喻，好的跑鞋不保證能順利抵達終點，配速、補給與賽前準",
         "source": "TechOrange"
       },
       {
@@ -439,7 +432,7 @@
         "title": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth",
         "link": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/",
         "pubDate": "Wed, 11 Nov 2026 19:54:00 +0000",
-        "description": "CoreWeave is increasingly asking customers to pay upfront, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
+        "description": "CoreWeave is increasingly asking customers to pay up front, borrowing against specific contracts, and even looking to short-term deals that could lead to higher prices, according to the company’s third-quarter earnings.",
         "source": "TechCrunch"
       },
       {
@@ -492,10 +485,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia’s crisis has corporate governance experts reaching for the popcorn",
-        "link": "https://techcrunch.com/2026/11/10/nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn/",
-        "pubDate": "Wed, 11 Nov 2026 07:30:51 +0000",
-        "description": "The governance experts we talked to say nobody has seen anything like what's unfolding right now.",
+        "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+        "link": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+        "pubDate": "Thu, 12 Nov 2026 03:13:10 +0000",
+        "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
         "source": "TechCrunch"
       },
       {
@@ -616,6 +609,56 @@
         "products": "Mozilla Firefox"
       },
       {
+        "title": "Mozilla Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261112",
+        "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Mozilla Products"
+      },
+      {
+        "title": "Palo Alto Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261112",
+        "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Palo Alto Products"
+      },
+      {
+        "title": "Node.js Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261112",
+        "pubDate": "Thu, 12 Nov 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Node.js"
+      },
+      {
+        "title": "Citrix XenServer Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261112",
+        "pubDate": "Thu, 12 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Citrix XenServer"
+      },
+      {
+        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261111",
+        "pubDate": "Thu, 12 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Ubuntu Linux Kernel"
+      },
+      {
         "title": "ChromeOS Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261109",
         "pubDate": "Mon, 09 Nov 2026 11:00:00 +0800",
@@ -624,66 +667,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "ChromeOS"
-      },
-      {
-        "title": "Veeam Products Denial of Service Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/veeam-products-denial-of-service-vulnerability_20261109",
-        "pubDate": "Mon, 09 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Veeam Products Denial of Service Vulnerability"
-      },
-      {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261109",
-        "pubDate": "Mon, 09 Nov 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Microsoft Edge"
-      },
-      {
-        "title": "SonicWall SonicOS Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/sonicwall-sonicos-sslvpn-security-restriction-bypass-vulnerability_20261109",
-        "pubDate": "Mon, 09 Nov 2026 10:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "SonicWall SonicOS"
-      },
-      {
-        "title": "ModSecurity Security Restriction Bypass Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/modsecurity-security-restriction-bypass-vulnerability_20261109",
-        "pubDate": "Mon, 09 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "ModSecurity Security Restriction Bypass Vulnerability"
-      },
-      {
-        "title": "IBM WebSphere Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106",
-        "pubDate": "Fri, 06 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "IBM WebSphere Products"
-      },
-      {
-        "title": "OpenSSH Security Restriction Bypass Vulnerability",
-        "link": "https://www.hkcert.org/security-bulletin/openssh-multiple-vulnerabilities_20261106",
-        "pubDate": "Fri, 06 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "OpenSSH Security Restriction Bypass Vulnerability"
       }
     ]
   }
