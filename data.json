@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T18:29:30.342509Z",
+  "ts": "2026-11-13T23:51:39.943438Z",
   "tabs": {
     "cn_sec": [
       {
@@ -131,13 +131,6 @@
     ],
     "cn_tech": [
       {
-        "title": "AI 預算還要加碼，投資報酬卻說不清：38% 受訪者曾因超支延後、縮減或取消專案",
-        "link": "https://techorange.com/2026/11/11/ai-project-cost-overruns-vb-pulse/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 11 Nov 2026 15:00:55 +0800",
-        "description": "企業 AI 專案推不動，最常被點名的原因是成本，而不是算力。VentureBeat 的 VB Pulse 系列調查在 10 月訪問 156 位任職或服務於百人以上組織的 AI 從業者與顧問，38% 表示過去 12 個月，所屬組織曾因成本超出預期，延後、縮減或取消原定的 AI 專案；指稱運算容量不足的只有 12%。 儘管成本超支，79% 受訪者仍預期所屬組織未來一年的 AI 預算會增加；但只有 26% 表示，組織會用能向財務團隊交代的財務報酬，來判斷 AI 支出值不值得。這份 VB Pulse 報",
-        "source": "TechOrange"
-      },
-      {
         "title": "YC 創業學校首度來台，點名 AI 還做不好的事：晶片驗證、硬體設計藏哪些新創機會？",
         "link": "https://techorange.com/2026/11/12/yc-startup-school-taipei-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 12 Nov 2026 18:52:52 +0800",
@@ -184,6 +177,13 @@
         "link": "https://techorange.com/2026/11/12/tsmc-capex-openai-anthropic-investment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 12 Nov 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電核准 1.34 兆元資本預算，擬投資 OpenAI、Anthropic 最高 10 億美元 台積電（TSMC）11 月 10 日董事會核准約 409.27 億美元、折合新台幣 1.34 兆元的資本預算，涵蓋先進製程、先進封裝、成熟與特殊製程產能升級、建廠及 2027 年研發等項目。同時，董事會通過分別以最高 5 億美元認購 Anthropic 普通股、OpenAI 特別股，合計額度最高 10 億美元；另核准最高 5 億美元設立半導體生態系",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【Gartner 2027 十大科技趨勢報告】AI 開發工具引爆軟體極度豐富，2030 年 80% 新軟體將轉為「用完即拋」",
+        "link": "https://techorange.com/2026/11/14/gartner-trends-for-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 14 Nov 2026 06:29:00 +0800",
+        "description": "顧問機構 Gartner 發布《2027 年十大戰略科技趨勢》報告，內容著重在協助企業為自主 AI 與機器人劃定控制界限，建立兼具效率與技術主權的營運架構。 過去企業 IT 受限於開發成本高昂的「軟體稀缺」思維；如今在生成式 AI 與氛圍編碼（vibe coding）推動下，企業正式迎來「軟體極度豐富」時代。與此同時，面對昂貴且僵化的「SaaS 訂閱疲勞」，Gartner 預測到 2030 年，領先企業將有 80% 的新應用轉為「用完即拋（disposable）」的暫時性架構。 📎 這份報告適合",
         "source": "TechOrange"
       },
       {
@@ -329,13 +329,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-        "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-        "pubDate": "Thu, 12 Nov 2026 10:00:10 -0500",
-        "description": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent ",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
         "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
         "pubDate": "Fri, 13 Nov 2026 22:23:08 +0530",
@@ -376,6 +369,13 @@
         "pubDate": "Fri, 13 Nov 2026 16:40:40 +0530",
         "description": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stockholm, found the group's attac",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+        "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+        "pubDate": "Fri, 13 Nov 2026 16:25:03 +0530",
+        "description": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.\n\nPolice also seized about 6.4 m",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -394,45 +394,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
-        "link": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
-        "pubDate": "Thu, 12 Nov 2026 21:27:10 +0000",
-        "description": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+        "title": "Amazon’s new Kindle Colorsoft is a premium e-reader with a premium price",
+        "link": "https://techcrunch.com/2026/11/13/amazons-new-kindle-colorsoft-is-a-premium-e-reader-with-a-premium-price/",
+        "pubDate": "Fri, 13 Nov 2026 23:00:00 +0000",
+        "description": "The latest model is lighter and thinner than its predecessor and features an edge-to-edge display. But if you already own the first-generation Colorsoft, there’s little reason to upgrade.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang was having a third affair, Reuters reports",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huang-was-having-a-third-affair-reuters-reports/",
-        "pubDate": "Thu, 12 Nov 2026 20:26:47 +0000",
-        "description": "Reuters is withholding the name of the new employee linked to Huang, but says she is an employee of Nvidia.",
+        "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+        "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+        "pubDate": "Fri, 13 Nov 2026 22:43:00 +0000",
+        "description": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s latest Search upgrade promises better answers to your most complicated questions",
-        "link": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/",
-        "pubDate": "Thu, 12 Nov 2026 19:27:45 +0000",
-        "description": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+        "title": "US government grounds all flights across the United States ‘due to extraordinary circumstances’",
+        "link": "https://techcrunch.com/2026/11/13/u-s-government-grounds-all-flights-across-the-united-states-due-to-extraordinary-cirumstances/",
+        "pubDate": "Fri, 13 Nov 2026 21:44:38 +0000",
+        "description": "A spokesperson for the FAA told TechCrunch that it issued the ground stop \"following communication issues impacting multiple Air Route Traffic Control Centers,\" which manage the airspace across the United States.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nectar launches an AI agent to automate creator discovery and outreach for brands",
-        "link": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-        "pubDate": "Thu, 12 Nov 2026 19:11:00 +0000",
-        "description": "Nectar's new AI agent automates influencer marketing, helping brands discover creators, manage outreach and partnerships, and track campaign results.",
+        "title": "This young startup wants to power floating data centers with the ocean’s heat, and investors are already on board",
+        "link": "https://techcrunch.com/2026/11/13/this-young-startup-wants-to-power-floating-data-centers-with-the-oceans-heat-and-investors-are-already-on-board/",
+        "pubDate": "Fri, 13 Nov 2026 20:07:24 +0000",
+        "description": "Drogue is harvesting heat from the ocean to power data centers on floating vessels. The first prototype should be bobbing around the ocean, crunching bits, in less than two years.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
-        "pubDate": "Thu, 12 Nov 2026 18:39:23 +0000",
-        "description": "Jensen Huang’s resignation raises questions about Nvidia’s commitment to open source AI, including its Hugging Face acquisition, open-weight models, and advocacy against restrictions, as the company navigates a leadership transition.",
+        "title": "AI agent startup LangChain hits $3B valuation",
+        "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+        "pubDate": "Fri, 13 Nov 2026 19:37:57 +0000",
+        "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
         "source": "TechCrunch"
       },
       {
-        "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang’s exit",
-        "link": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
-        "pubDate": "Thu, 12 Nov 2026 17:36:40 +0000",
-        "description": "Hugging Face's CEO pledged to keep fighting for open source AI after Huang's exit, raising questions about Nvidia's $12.9 billion acquisition.",
+        "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+        "link": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+        "pubDate": "Fri, 13 Nov 2026 18:40:30 +0000",
+        "description": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
         "source": "TechCrunch"
       },
       {
@@ -453,7 +453,7 @@
         "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
         "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
         "pubDate": "Fri, 13 Nov 2026 14:57:55 +0000",
-        "description": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
+        "description": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
         "source": "TechCrunch"
       },
       {
@@ -464,10 +464,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+        "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
         "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
         "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
-        "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
+        "description": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
         "source": "TechCrunch"
       },
       {
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
-        "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
-        "pubDate": "2026-11-13T13:10:41-05:00",
-        "description": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already a",
+        "title": "Amazon has a plan to index the world’s online shopping data",
+        "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+        "pubDate": "2026-11-13T18:49:11-05:00",
+        "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\"",
         "source": "TheVerge"
       },
       {
-        "title": "Jensen Huang was reckless with the environment, too",
-        "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
-        "pubDate": "2026-11-13T12:44:22-05:00",
-        "description": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power ",
+        "title": "FAA ground stop shuts down flights nationwide",
+        "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+        "pubDate": "2026-11-13T18:47:27-05:00",
+        "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after",
         "source": "TheVerge"
       },
       {
-        "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
-        "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
-        "pubDate": "2026-11-13T12:12:56-05:00",
-        "description": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardwa",
+        "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+        "pubDate": "2026-11-13T15:45:10-05:00",
+        "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible ",
         "source": "TheVerge"
       },
       {
-        "title": "The new Apple TV has a YouTube problem",
-        "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
-        "pubDate": "2026-11-13T11:55:57-05:00",
-        "description": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouT",
+        "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
+        "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
+        "pubDate": "2026-11-13T15:30:00-05:00",
+        "description": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 dis",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft&#8217;s massive Outlook outage continues",
-        "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
-        "pubDate": "2026-11-13T11:17:11-05:00",
-        "description": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staff",
+        "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
+        "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
+        "pubDate": "2026-11-13T14:14:38-05:00",
+        "description": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts ",
         "source": "TheVerge"
       }
     ],
