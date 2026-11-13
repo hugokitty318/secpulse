@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T10:52:31.911890Z",
+  "ts": "2026-11-13T18:29:30.342509Z",
   "tabs": {
     "cn_sec": [
       {
@@ -106,6 +106,20 @@
         "pubDate": "2026-11-13 09:35",
         "description": "微軟Microsoft 365於美東時間11月12日發生大規模服務異常，Exchange Online、Teams、SharePoint Online及Microsoft 365 Copilot等多項服務受到影響，全球使用者可能無法正常存取",
         "source": "iThome資安"
+      },
+      {
+        "title": "Visual Studio C++動態除錯正式推出，可逐行檢查最佳化程式",
+        "link": "https://www.ithome.com.tw/news/180497",
+        "pubDate": "2026-11-13  09:11:59",
+        "description": "微軟在Visual Studio正式推出C++動態除錯（C++ Dynamic Debugging）功能，支援所有Visual Studio 2026更新通道及MSVC Build Tools 14.52。開發者可在經過最佳化的C++程式中查看區域變數、逐行檢查程式碼，甚至進入原本被編譯器內嵌的函式。",
+        "source": "iThome"
+      },
+      {
+        "title": "AWS擴充AgentCore執行環境，支援大型程式編譯與本地模型載入",
+        "link": "https://www.ithome.com.tw/news/180503",
+        "pubDate": "2026-11-13  09:11:24",
+        "description": "AWS擴充Amazon Bedrock AgentCore執行環境，新一代Runtime V2的單一工作階段最多可使用8個虛擬CPU及32 GB記憶體，容器映像檔容量上限也提高至10 GB，讓AI代理能在執行環境內編譯大型程式專案、操作瀏覽器及載入本地模型。新版目前已成為19個AWS區域新建執行環境的預設版本。",
+        "source": "iThome"
       },
       {
         "title": "GovTech月報第58期：國網中心擬擴充TAIWAN AI RAP模型微調服務；歐洲央行將在2027年試點驗證數位歐元的實境支付能力",
@@ -266,25 +280,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-        "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-        "pubDate": "Thu, 12 Nov 2026 18:38:28 +0530",
-        "description": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged.\n\nBlackpoint Cyber's Adversary Pursuit G",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
         "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
         "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500",
         "description": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-        "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-        "pubDate": "Thu, 12 Nov 2026 17:39:14 +0530",
-        "description": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week.\n\nThe company has already applied mitigations against attacks between VMs, and between VMs and the h",
-        "source": "TheHackerNews"
       },
       {
         "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
@@ -294,39 +294,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-        "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-        "pubDate": "Thu, 12 Nov 2026 17:21:43 +0530",
-        "description": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2.\n\n\"Based on our initial review, the server issue described depends on ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-        "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-        "pubDate": "Thu, 12 Nov 2026 17:21:31 +0530",
-        "description": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose.\n\nThe Threat Research te",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-        "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-        "pubDate": "Thu, 12 Nov 2026 17:03:15 +0530",
-        "description": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution.\n\nThe security flaw, tracked as CVE-2026-126325, carries a CVSS v4 score of 9.2 ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
         "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
         "pubDate": "Thu, 12 Nov 2026 15:15:16 -0500",
         "description": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-        "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-        "pubDate": "Thu, 12 Nov 2026 14:55:00 +0530",
-        "description": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still lacks some rece",
-        "source": "TheHackerNews"
       },
       {
         "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
@@ -343,13 +315,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-        "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-        "pubDate": "Thu, 12 Nov 2026 13:50:37 +0530",
-        "description": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory, including r",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New Windows SignDrop zero-day gives hackers SYSTEM privileges",
         "link": "https://www.bleepingcomputer.com/news/security/new-windows-signdrop-zero-day-gives-hackers-system-privileges/",
         "pubDate": "Thu, 12 Nov 2026 11:04:00 -0500",
@@ -362,6 +327,55 @@
         "pubDate": "Thu, 12 Nov 2026 10:07:20 -0500",
         "description": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+        "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+        "pubDate": "Thu, 12 Nov 2026 10:00:10 -0500",
+        "description": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization can prevent ",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+        "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+        "pubDate": "Fri, 13 Nov 2026 22:23:08 +0530",
+        "description": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language exte",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+        "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+        "pubDate": "Fri, 13 Nov 2026 20:57:05 +0530",
+        "description": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can also modify a VM's memory and fake the signed report",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+        "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+        "pubDate": "Fri, 13 Nov 2026 19:58:58 +0530",
+        "description": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering sche",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+        "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+        "pubDate": "Fri, 13 Nov 2026 19:24:20 +0530",
+        "description": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\nThe implant reads the phrase from the wallet's screen and ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+        "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+        "pubDate": "Fri, 13 Nov 2026 17:22:31 +0530",
+        "description": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
+        "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
+        "pubDate": "Fri, 13 Nov 2026 16:40:40 +0530",
+        "description": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stockholm, found the group's attac",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -377,13 +391,6 @@
         "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
         "pubDate": "Thu, 12 Nov 2026 22:22:28 +0000",
         "description": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "pubDate": "Thu, 12 Nov 2026 21:35:00 +0000",
-        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "source": "TechCrunch"
       },
       {
@@ -415,13 +422,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft’s Outlook email hit by new outage",
-        "link": "https://techcrunch.com/2026/11/12/microsofts-outlook-email-hit-by-new-outage/",
-        "pubDate": "Thu, 12 Nov 2026 19:03:39 +0000",
-        "description": "Microsoft hasn't yet given a cause for the outage, which is affecting Outlook email users.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Jensen Huang’s exit puts Nvidia’s support for open source in question",
         "link": "https://techcrunch.com/2026/11/12/jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question/",
         "pubDate": "Thu, 12 Nov 2026 18:39:23 +0000",
@@ -436,73 +436,87 @@
         "source": "TechCrunch"
       },
       {
-        "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
-        "link": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-        "pubDate": "Thu, 12 Nov 2026 17:17:58 +0000",
-        "description": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+        "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
+        "link": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+        "pubDate": "Fri, 13 Nov 2026 16:00:12 +0000",
+        "description": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
         "source": "TechCrunch"
       },
       {
-        "title": "SoftBank’s billion-dollar loss may have put a cap on AI’s natural gas ambitions",
-        "link": "https://techcrunch.com/2026/11/12/softbanks-billion-dollar-loss-may-have-put-a-cap-on-ais-natural-gas-ambitions/",
-        "pubDate": "Thu, 12 Nov 2026 17:00:52 +0000",
-        "description": "SoftBank lost over $3 billion preordering natural gas turbines to power AI data centers. Here's what the loss means to power markets.",
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
+        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
         "source": "TechCrunch"
       },
       {
-        "title": "Phota Labs uses AI to turn everyday photos into professional-looking shots",
-        "link": "https://techcrunch.com/2026/11/12/phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots/",
-        "pubDate": "Thu, 12 Nov 2026 17:00:00 +0000",
-        "description": "Rather than giving consumers yet another photo-editing tool, Phota Labs aims to use advances in AI to automate the editing process so it’s easier for anyone to turn everyday moments into better photos.",
+        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
+        "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+        "pubDate": "Fri, 13 Nov 2026 14:57:55 +0000",
+        "description": "The ride-sharing giant said driver's license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang agrees to testify before Congress",
-        "link": "https://techcrunch.com/2026/11/12/jensen-huang-agrees-to-testify-before-congress/",
-        "pubDate": "Thu, 12 Nov 2026 16:36:37 +0000",
-        "description": "Huang, who was ousted as CEO following reports of an alleged affair with a woman suspected of spying for China, agreed to testify Wednesday after several senior lawmakers threatened to subpoena him.",
+        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
+        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
+        "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
+        "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
         "source": "TechCrunch"
       },
       {
-        "title": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "link": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/",
-        "pubDate": "Thu, 12 Nov 2026 16:32:33 +0000",
-        "description": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+        "title": "Microsoft’s latest email outage turned into a full blown global cloud crisis",
+        "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
+        "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
+        "description": "Microsoft's day-long outage began with Outlook and Teams, and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
         "source": "TechCrunch"
       },
       {
-        "title": "Donald Trump really wants Tim Cook to run Nvidia",
-        "link": "https://www.theverge.com/tech/1032774/president-donald-trump-tim-cook-nvidia-jensen-huang",
-        "pubDate": "2026-11-12T19:46:07-05:00",
-        "description": "Jensen Huang resigned this morning as Nvidia's CEO following reports of affairs, including one with an alleged Chinese spy. Right now, the company is being led by its CFO on an interim basis. But President Donald Trump is already throwing around one ",
+        "title": "Israel’s VCs see opportunity for challengers in Nvidia’s turmoil",
+        "link": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+        "pubDate": "Fri, 13 Nov 2026 12:52:19 +0000",
+        "description": "Given Nvidia’s stronghold on AI and its importance in Israel, many in the country's startup ecosystem are worried about the impact of his departure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Jensen Huang didn’t show confidence in his successor, report says",
+        "link": "https://techcrunch.com/2026/11/13/jensen-huang-didnt-show-confidence-in-his-successor-report-says/",
+        "pubDate": "Fri, 13 Nov 2026 12:28:23 +0000",
+        "description": "Huang described Kress as a \"deer in the headlights\" during a meeting in summer.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "You can adjust the position of the trackball on Keychron’s new wireless mouse",
+        "link": "https://www.theverge.com/tech/1033159/keychron-t1-he-trackball-wireless-mouse-adjustable",
+        "pubDate": "2026-11-13T13:10:41-05:00",
+        "description": "The Nape Pro was Keychron's first trackball device that was introduced at CES 2026 with a slim and compact design allowing it to be positioned right up against a keyboard. The company's new T1 HE instead looks more like other trackball mice already a",
         "source": "TheVerge"
       },
       {
-        "title": "Xbox announces Wolfenstein 3",
-        "link": "https://www.theverge.com/news/1032431/xbox-bethesda-wolfenstein-3",
-        "pubDate": "2026-11-12T19:11:44-05:00",
-        "description": "It's been nearly a decade since Bethesda's MachineGames released Wolfenstein II: The New Colossus in 2017, and now Xbox is ready to announce a sequel from the studio. Wolfenstein 3 was officially announced today, just days after Bethesda also confirm",
+        "title": "Jensen Huang was reckless with the environment, too",
+        "link": "https://www.theverge.com/tech/1033051/nvidia-jensen-huang-chips-gpu-supply-chain-climate-pollution",
+        "pubDate": "2026-11-13T12:44:22-05:00",
+        "description": "Under cofounder Jensen Huang, Nvidia has become the engine for the AI boom - and one of the tech industry's biggest environmental liabilities. Its sought-after chips have triggered a new wave of water- and chemical-intensive factories, drained power ",
         "source": "TheVerge"
       },
       {
-        "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
-        "link": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
-        "pubDate": "2026-11-12T18:43:22-05:00",
-        "description": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos an",
+        "title": "The smallest version of Camp Snap’s retro digital camcorder fits on your keychain",
+        "link": "https://www.theverge.com/tech/1033026/camp-snap-retro-digital-video-campcorder-cs-8-micro-keychain",
+        "pubDate": "2026-11-13T12:12:56-05:00",
+        "description": "Last week, Camp Snap launched a miniaturized version of its screen-free CS-8 video camera that was half the size of the original with a smaller grip designed to be easier for kids to hold. But it turns out the company wasn't done shrinking its hardwa",
         "source": "TheVerge"
       },
       {
-        "title": "Humble Bundle redesign removes two-factor verification from settings",
-        "link": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
-        "pubDate": "2026-11-12T18:30:52-05:00",
-        "description": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there",
+        "title": "The new Apple TV has a YouTube problem",
+        "link": "https://www.theverge.com/tech/1033076/apple-tv-4k-youtube-error",
+        "pubDate": "2026-11-13T11:55:57-05:00",
+        "description": "People who received the brand new Apple TV 4k today saw some strange error messages as soon as they opened the YouTube app. As the first units arrived, the app was initially only showing a black screen with a QR code and an error message saying \"YouT",
         "source": "TheVerge"
       },
       {
-        "title": "Microsoft Outlook is still down",
-        "link": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-        "pubDate": "2026-11-12T18:24:13-05:00",
-        "description": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that",
+        "title": "Microsoft&#8217;s massive Outlook outage continues",
+        "link": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+        "pubDate": "2026-11-13T11:17:11-05:00",
+        "description": "Service is gradually starting to recover for Microsoft Outlook and 365 after an almost two-day outage impacting millions of users around the world. While some apps and features are still running in a degraded state, some people (including Verge staff",
         "source": "TheVerge"
       }
     ],
