@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-13T23:51:39.943438Z",
+  "ts": "2026-11-14T06:11:43.586242Z",
   "tabs": {
     "cn_sec": [
       {
@@ -485,17 +485,17 @@
         "source": "TechCrunch"
       },
       {
+        "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
+        "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
+        "pubDate": "2026-11-13T20:53:04-05:00",
+        "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop at 3:44PM ET \"due to extraordinary circumstances and for reasons of safety.\" More than four hours after the stop was issued, officials anno",
+        "source": "TheVerge"
+      },
+      {
         "title": "Amazon has a plan to index the world’s online shopping data",
         "link": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
         "pubDate": "2026-11-13T18:49:11-05:00",
         "description": "Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site, according to Reuters. The project, called the \"World Product Graph,\"",
-        "source": "TheVerge"
-      },
-      {
-        "title": "FAA ground stop shuts down flights nationwide",
-        "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
-        "pubDate": "2026-11-13T18:47:27-05:00",
-        "description": "Takeoffs from airports throughout the US largely stopped on Friday after the FAA issued a national ground stop \"due to extraordinary circumstances and for reasons of safety,\" while planes in the air will be allowed to land. The FAA tweeted just after",
         "source": "TheVerge"
       },
       {
