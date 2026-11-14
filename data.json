@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T18:50:33.283305Z",
+  "ts": "2026-11-14T22:56:26.263780Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,20 @@
     ],
     "en_tech": [
       {
+        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+        "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
+        "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
+        "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+        "pubDate": "Sat, 14 Nov 2026 20:04:44 +0000",
+        "description": "Even Elon Musk said the monthly fee is \"too high.\"",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Got an iPhone Duo? These 9 settings make it easier to use",
         "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
         "pubDate": "Sat, 14 Nov 2026 18:00:00 +0000",
@@ -478,18 +492,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "ElevenLabs’ new app combines meeting note-taking and dictation for teams",
-        "link": "https://techcrunch.com/2026/11/13/elevenlabs-new-app-combines-meeting-note-taking-and-dictation-for-teams/",
-        "pubDate": "Fri, 13 Nov 2026 14:44:48 +0000",
-        "description": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
-        "source": "TechCrunch"
+        "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
+        "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
+        "pubDate": "2026-11-14T16:44:44-05:00",
+        "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is t",
+        "source": "TheVerge"
       },
       {
-        "title": "Microsoft’s latest email outage turned into a full-blown global cloud crisis",
-        "link": "https://techcrunch.com/2026/11/13/microsoft-latest-email-outage-turned-into-a-full-blown-global-cloud-crisis/",
-        "pubDate": "Fri, 13 Nov 2026 13:15:20 +0000",
-        "description": "Microsoft's daylong outage began with Outlook and Teams and ended up taking much of the company's cloud services offline. Microsoft says it's gradually restoring service.",
-        "source": "TechCrunch"
+        "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
+        "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
+        "pubDate": "2026-11-14T14:47:40-05:00",
+        "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: Th",
+        "source": "TheVerge"
       },
       {
         "title": "Work to replace old copper wire led to the FAA’s ground stop",
@@ -510,20 +524,6 @@
         "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
         "pubDate": "2026-11-14T10:00:00-05:00",
         "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and poli",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Tesla is inviting some people to buy a Cybercab ‘for personal use’ — but read the fine print",
-        "link": "https://www.theverge.com/transportation/1033844/tesla-personal-cybercab-orders-299-subscription-fine-print",
-        "pubDate": "2026-11-14T09:18:36-05:00",
-        "description": "Tesla is doubling, or perhaps tripling down on its bold claims of an autonomous future with the offer to \"select customers\" to purchase a Cybercab for \"personal use.\" But the gilded, steering-wheel-free two-seater will \"only be available in supported",
-        "source": "TheVerge"
-      },
-      {
-        "title": "This tiny gamepad with dual analog thumbsticks pushes the limits of portable controllers",
-        "link": "https://www.theverge.com/tech/1013985/crkd-atom-plus-tmr-analog-thumbstick-controller-gamepad-switch-ios-android-hands-on",
-        "pubDate": "2026-11-14T09:00:00-05:00",
-        "description": "As much as I appreciate the ingenious design of the Nintendo Switch's Joy-Con, my family and I can't stand using them as standalone gamepads. So when we travel with the Switch 2, we always bring at least one full-size gamepad, plus a couple of 8BitDo",
         "source": "TheVerge"
       }
     ],
