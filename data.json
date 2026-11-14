@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T06:11:43.586242Z",
+  "ts": "2026-11-14T13:31:42.402726Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-        "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-        "pubDate": "Thu, 12 Nov 2026 20:45:40 +0530",
-        "description": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches.\n\nThis delivery ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
         "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
         "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500",
@@ -327,6 +320,13 @@
         "pubDate": "Thu, 12 Nov 2026 10:07:20 -0500",
         "description": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+        "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+        "pubDate": "Sat, 14 Nov 2026 18:08:35 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog, following repo",
+        "source": "TheHackerNews"
       },
       {
         "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
@@ -485,6 +485,20 @@
         "source": "TechCrunch"
       },
       {
+        "title": "A gadget to make your dumb house smarter",
+        "link": "https://www.theverge.com/tech/1033761/home-assistant-tk-tripod-tabletop-installer",
+        "pubDate": "2026-11-14T08:00:00-05:00",
+        "description": "Hi, friends! Welcome to Installer No. 152, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, thank you for taking time away from Zelda to be here, and also you can read all the old editions at the Installer homep",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Jensen Huang and the decline of the visionary showman founder CEO",
+        "link": "https://www.theverge.com/tech/1033781/nvidia-jensen-huang-last-visionary-showman-founder-ceo",
+        "pubDate": "2026-11-14T07:00:00-05:00",
+        "description": "On January 6th, 2025, Nvidia CEO Jensen Huang got his rockstar moment at last. He strode triumphantly onstage, hand raised in the air, to the claps and cheers of a 14,000-person arena absolutely packed with influencers and fans, their faces awash in ",
+        "source": "TheVerge"
+      },
+      {
         "title": "FAA lifts nationwide ground stop that blocked takeoffs for hours",
         "link": "https://www.theverge.com/news/1033489/faa-ground-stop",
         "pubDate": "2026-11-13T20:53:04-05:00",
@@ -503,20 +517,6 @@
         "link": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
         "pubDate": "2026-11-13T15:45:10-05:00",
         "description": "After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and \"eligible ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "CMF’s milk carton-shaped Bluetooth speaker is down to a new low price",
-        "link": "https://www.theverge.com/gadgets/1033185/nothing-cmf-speaker-s-m-black-friday-deal-sale",
-        "pubDate": "2026-11-13T15:30:00-05:00",
-        "description": "Bluetooth speakers are often boring boxes in plain colors, but not this one! As part of Nothing’s ongoing early Black Friday promo, you can grab its unique, milk carton-shaped CMF Speaker S from Amazon and Nothing for just $39. That’s a solid $20 dis",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Here’s how you can save on your GTA VI preorder ahead of launch",
-        "link": "https://www.theverge.com/gadgets/1033046/playstation-xbox-gift-card-gta-vi-6-preorder-deal-sale",
-        "pubDate": "2026-11-13T14:14:38-05:00",
-        "description": "The long-awaited launch of GTA VI is around the corner, happening next Friday, November 19th. While discounts on the game itself will be rare for some time, there’s a clever workaround to save you a few bucks on your digital copy. We found discounts ",
         "source": "TheVerge"
       }
     ],
