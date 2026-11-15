@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-15T02:36:50.685831Z",
+  "ts": "2026-11-15T09:53:26.310878Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,13 +273,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-        "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-        "pubDate": "Thu, 12 Nov 2026 21:08:49 +0530",
-        "description": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass.\n\nThe critical vulnerabilities that impac",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
         "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
         "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500",
@@ -313,6 +306,13 @@
         "pubDate": "Thu, 12 Nov 2026 14:12:55 -0500",
         "description": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+        "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
+        "pubDate": "Sun, 15 Nov 2026 13:52:04 +0530",
+        "description": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.\n\n\"An attacker obtained an access key we had i",
+        "source": "TheHackerNews"
       },
       {
         "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
