@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-14T22:56:26.263780Z",
+  "ts": "2026-11-15T02:36:50.685831Z",
   "tabs": {
     "cn_sec": [
       {
@@ -387,6 +387,13 @@
     ],
     "en_tech": [
       {
+        "title": "Where was Nvidia’s security team?",
+        "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+        "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
+        "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kin",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
         "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
         "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
@@ -482,13 +489,6 @@
         "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
         "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
         "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uber confirms hackers stole thousands of drivers’ license information in data breach",
-        "link": "https://techcrunch.com/2026/11/13/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
-        "pubDate": "Fri, 13 Nov 2026 14:57:55 +0000",
-        "description": "The ridesharing giant said drivers' license information stored by AI cloud company Fireworks AI was stolen during a security incident.",
         "source": "TechCrunch"
       },
       {
