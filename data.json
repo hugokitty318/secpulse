@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-15T09:53:26.310878Z",
+  "ts": "2026-11-15T17:02:56.707945Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "兆勤科技防火牆整合Bitdefender端點安全資訊，2027年將擴大跨平臺防禦協作",
+        "link": "https://www.ithome.com.tw/news/180509",
+        "pubDate": "2026-11-15 18:04",
+        "description": "持續拓展網路與資安防護產品的臺灣廠商兆勤科技（Zyxel Networks），近期宣布旗下的防火牆整合端點安全廠商Bitdefender的威脅偵測應變系統平臺，網管人員在單一介面檢視端點安全系統是否存在授權過期、設備老舊、防護出現缺口等問題，2027兆勤科技與 Bitdefender 計畫進一步擴大整合範圍",
+        "source": "iThome資安"
+      },
       {
         "title": "AI趨勢周報第294期：AI Agent不只要會看圖，Google新Benchmark直接考專業工作實戰",
         "link": "https://www.ithome.com.tw/news/180507",
@@ -105,13 +112,6 @@
         "link": "https://www.ithome.com.tw/news/180476",
         "pubDate": "2026-11-13 09:59",
         "description": "生技醫療公司威力德生醫（7713）發布資安重訊，線上商店平臺委外服務廠商順立智慧（Cyberbiz）發生資安事件，資料庫部分資料遭未經授權存取，涉及威力德生醫線上商店部分消費者訂單資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟Microsoft 365服務異常，影響全球多項服務",
-        "link": "https://www.ithome.com.tw/news/180474",
-        "pubDate": "2026-11-13 09:35",
-        "description": "微軟Microsoft 365於美東時間11月12日發生大規模服務異常，Exchange Online、Teams、SharePoint Online及Microsoft 365 Copilot等多項服務受到影響，全球使用者可能無法正常存取",
         "source": "iThome資安"
       },
       {
@@ -266,13 +266,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-        "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-        "pubDate": "Thu, 12 Nov 2026 21:57:01 +0530",
-        "description": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository.\n\nQuay enables anonymous access by default, and while it is enabled, the attacker needs no account. W",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
         "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
         "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500",
@@ -301,18 +294,25 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-        "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-        "pubDate": "Thu, 12 Nov 2026 14:12:55 -0500",
-        "description": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-        "source": "BleepingComputer"
+        "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
+        "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
+        "pubDate": "Sun, 15 Nov 2026 16:57:31 +0530",
+        "description": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post.\n\nThe Garante, Italy's data protection authority, found that the feature was enabled by de",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Stolen Fireworks AI Key Led to Cursor Data Breach and Trojanized Claude Code Extension",
+        "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
         "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
         "pubDate": "Sun, 15 Nov 2026 13:52:04 +0530",
         "description": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI.\n\n\"An attacker obtained an access key we had i",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "TSMC employee data breach linked to cloud provider",
+        "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
+        "pubDate": "Sun, 15 Nov 2026 10:23:48 -0500",
+        "description": "Taiwan Semiconductor Manufacturing Company (TSMC) confirmed that personal employee data has been leaked online after a threat actor put 6.9GB of information allegedly stolen from the company up for auction. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
@@ -386,6 +386,13 @@
       }
     ],
     "en_tech": [
+      {
+        "title": "The tech products we enthusiastically recommend this holiday season",
+        "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+        "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
+        "description": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Where was Nvidia’s security team?",
         "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -485,45 +492,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "pubDate": "Fri, 13 Nov 2026 15:58:00 +0000",
-        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
-        "source": "TechCrunch"
+        "title": "Rachelle Hampton won’t admit how long she spent charting the use of ‘murmur’ in Twilight",
+        "link": "https://www.theverge.com/entertainment/1033895/rachelle-hampton-normal-gossip-interview",
+        "pubDate": "2026-11-15T11:00:00-05:00",
+        "description": "Rachelle Hampton is a writer and co-owner at Defector Media, and the host of Normal Gossip, a podcast of anonymous listener-submitted stories about everyday drama. Whether that's lies about luxury wool in a literal knitting circle, the impeachment of",
+        "source": "TheVerge"
+      },
+      {
+        "title": "LG’s budget-friendly B6E OLED TV is up to 50 percent off this weekend",
+        "link": "https://www.theverge.com/gadgets/1033432/lg-b6e-oled-tv-best-buy-doorbuster-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-15T09:00:00-05:00",
+        "description": "LG’s B6E was already one of the most affordable OLED TVs you could buy, but it’s an even better deal now that it’s included as part of Best Buy’s latest doorbuster event. Now through the end of today, November 15th, the 55-inch model is 50 percent of",
+        "source": "TheVerge"
+      },
+      {
+        "title": "The Sony Aibo was a robot revolution dressed like a dog",
+        "link": "https://www.theverge.com/podcast/1033948/sony-aibo-robot-dog-version-history",
+        "pubDate": "2026-11-15T08:57:30-05:00",
+        "description": "In the 1990s, Sony was absolutely convinced that we were on the precipice of a robot takeover. Pretty soon, the company decided, we'd all be living among countless humanoid robots. Some would be our coworkers; others would be our friends; and at leas",
+        "source": "TheVerge"
+      },
+      {
+        "title": "An overview of Jensen Huang’s messy days",
+        "link": "https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation",
+        "pubDate": "2026-11-15T08:00:00-05:00",
+        "description": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers'",
+        "source": "TheVerge"
       },
       {
         "title": "Watch SpaceX successfully execute the first ‘chopstick’ catch of Starship",
         "link": "https://www.theverge.com/science/1033930/spacex-chopstick-starship-catch",
         "pubDate": "2026-11-14T16:44:44-05:00",
         "description": "After aborting a planned catch of Starship Flight 15's booster, SpaceX successfully captured Starship with its \"Mechazilla\" launch and catch tower for the first time. The company has performed 'chopstick' catches of its boosters before, but this is t",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Magic: The Gathering is getting a Netflix animated series. For real this time.",
-        "link": "https://www.theverge.com/entertainment/1033909/magic-the-gathering-netflix-series",
-        "pubDate": "2026-11-14T14:47:40-05:00",
-        "description": "\"It's really happening. I promise. For real.\" Those are the first words from Roy Graham, Head of Story at Magic: The Gathering, in a video posted yesterday announcing Planeswalker, the animated series heading to Netflix in 2027. An animated Magic: Th",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Work to replace old copper wire led to the FAA’s ground stop",
-        "link": "https://www.theverge.com/transportation/1033898/faa-ground-stop-sean-duffy-faa-copper-wire",
-        "pubDate": "2026-11-14T12:44:28-05:00",
-        "description": "At a press conference today, Transportation Secretary Sean Duffy said that Friday's nationwide ground stop ordered by the FAA was related to work replacing outdated copper wire with a fiber optic line at a \"remote FAA facility.\" The secretary said th",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Here are our favorite deals from REI’s giant Holiday Sale",
-        "link": "https://www.theverge.com/gadgets/1032500/best-deals-rei-holiday-sale-2026",
-        "pubDate": "2026-11-14T10:00:00-05:00",
-        "description": "Black Friday has become a shopping season of its own, with retailers once again offering discounts well ahead of the actual shopping holiday. We’ve already rounded up some of the best early Black Friday deals we’ve come across, but if you’re looking ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "The OpenAI board member who fired Sam Altman says we still can&#8217;t trust AI CEOs",
-        "link": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
-        "pubDate": "2026-11-14T10:00:00-05:00",
-        "description": "Today, I’m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and poli",
         "source": "TheVerge"
       }
     ],
