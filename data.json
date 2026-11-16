@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-16T09:32:20.657593Z",
+  "ts": "2026-11-16T19:50:16.880893Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "韓國客服委外業者MetaM遭駭，加密貨幣交易所Coinone受波及",
+        "link": "https://www.ithome.com.tw/news/180545",
+        "pubDate": "2026-11-16 18:10",
+        "description": "韓國客服委外業者MetaM遭駭，其企業客戶的客服資料恐受影響，已有加密貨幣交易所Coinone證實受此事件波及，部分客戶個資外洩，二手交易平臺Bunjang也公告客服委外系統遭非法存取。由於MetaM也為多家醫療院所提供客服系統，這些醫療院所是否受到此次事件影響，仍待釐清",
+        "source": "iThome資安"
+      },
       {
         "title": "蠕蟲SCKit利用ScreenConnect第三方延伸套件漏洞散布，近500臺主機被感染",
         "link": "https://www.ithome.com.tw/news/180544",
@@ -21,6 +28,13 @@
         "link": "https://www.ithome.com.tw/news/180535",
         "pubDate": "2026-11-16 14:58",
         "description": "駭客利用中國開源工具ARTEX繞過前端介面、直攻後端API；資安院提出三項緊急應變措施，數產署要求業者落實五大個資保護行動，包含72小時內通報及通知當事人。",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月16日，Check Point閘道設備遭PHP2Shell漏洞攻擊，駭客植入後門並透過虛擬化平臺進行資料破壞",
+        "link": "https://www.ithome.com.tw/news/180534",
+        "pubDate": "2026-11-16 14:48",
+        "description": "資安公司Check Point揭露自10月底出現的攻擊活動，駭客利用PHP2Shell（CVE-2026-109618、CVE-2026-109619）入侵該廠牌的資安閘道設備，再利用CVE-2026-123039提升權限，以便進一步執行後續活動",
         "source": "iThome資安"
       },
       {
@@ -73,6 +87,13 @@
         "source": "iThome資安"
       },
       {
+        "title": "Check Point修補已遭利用的Gaia OS高風險權限提升漏洞",
+        "link": "https://www.ithome.com.tw/news/180521",
+        "pubDate": "2026-11-16 11:38",
+        "description": "上週Check Point發布資安更新，修補Gaia OS高風險權限提升漏洞CVE-2026-123039，此弱點存在於DynamicCLI服務，允許已取得本機執行權限的攻擊者進一步取得root權限。值得留意的是，該弱點已出現遭到積極利用的情形",
+        "source": "iThome資安"
+      },
+      {
         "title": "Uber因Fireworks AI事件，外洩數千司機證件資訊",
         "link": "https://www.ithome.com.tw/news/180520",
         "pubDate": "2026-11-16 11:30",
@@ -87,31 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "PostgreSQL修補52個漏洞，含存在22年的遠端程式碼執行漏洞",
-        "link": "https://www.ithome.com.tw/news/180518",
-        "pubDate": "2026-11-16 11:17",
-        "description": "CVE-2026-6460可追溯至2004年，攻擊者若先取得資料庫帳號及建立資料庫物件的權限，即可利用該漏洞執行任意程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "韓國企業協作平臺Dooray!遭駭恐波及多家企業，已證實部分客戶資料外洩，緊急停用API服務",
-        "link": "https://www.ithome.com.tw/news/180513",
-        "pubDate": "2026-11-16 10:46",
-        "description": "韓國企業協作服務供應商NHN Dooray!於11月13日揭露發現外部人士嘗試存取使用者帳號，隔日證實部分客戶業務資料及員工個資外洩。調查結果指出兩項安全問題，一是攻擊者利用忘記密碼流程反覆嘗試驗證碼得逞，進而竄改密碼入侵帳號；二是Open API服務存在漏洞，導致部分API金鑰外洩，遭外部人士用來呼叫API",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla發布Firefox 160改版，修補99個安全漏洞，涵蓋沙箱逃逸與權限提升",
-        "link": "https://www.ithome.com.tw/news/180514",
-        "pubDate": "2026-11-16 10:33",
-        "description": "Mozilla基金會於11月10日發布Firefox 160，修補99個安全漏洞，其中包括可能導致沙箱逃逸、權限提升及同源政策繞過的高風險漏洞。此次修補涵蓋瀏覽器圖形處理、DOM、JavaScript、網路及多媒體等元件",
-        "source": "iThome資安"
-      },
-      {
         "title": "微軟Windows本機AI模型將改用Aion Instruct，輸入上下文上限擴大逾9倍",
         "link": "https://www.ithome.com.tw/news/180525",
         "pubDate": "2026-11-16  12:11:03",
         "description": "微軟公布Windows裝置端語言模型更替計畫，將以Aion Instruct取代Phi Silica，預計11月20日起先向參與Windows Insider計畫的Copilot+ PC分階段推送，2027年1月下旬擴大至符合硬體條件的正式版Windows裝置。新模型參數量減少，卻能處理更長的輸入內容，並將擴大支援Nvidia RTX及AMD RDNA 4系列GPU。",
+        "source": "iThome"
+      },
+      {
+        "title": "國科會揭科技施政布局、明年預計新增1萬顆GPU算力",
+        "link": "https://www.ithome.com.tw/news/180547",
+        "pubDate": "2026-11-16  08:11:54",
+        "description": "國科會今日（11/16）揭露第24次委員會議3大重點，包括數發部的AI軟體生態系建立進展、國科會的科學技術白皮書草案，以及國家災防科技中心的AI災害管理應用進展。\n以AI軟體生態系發展來說，聚焦算力、資料、人才、行銷、資金等5大面向，目前已協助300多家資服業者發展307項AI模型及應用，接下來將擴大64億Tokens的本土語料庫、GPU算力池。科學技術白皮書草案則列出臺灣整體科技施政藍圖，包含半導體、主權AI、太空通訊、全齡健康、淨零轉型等9大目標。至於AI災害管理應用，則有700多類防災資訊",
+        "source": "iThome"
+      },
+      {
+        "title": "AI資料中心用電與環境衝擊成COP31焦點，環境部：目前依法無須環評，但應建立低碳AI治理模式",
+        "link": "https://www.ithome.com.tw/news/180546",
+        "pubDate": "2026-11-16  06:11:17",
+        "description": "AI快速發展帶動算力需求，也讓資料中心的能源消耗、電網負載與環境影響，成為此次聯合國COP31氣候變遷綱要公約締約方大會中討論的一環。環境部今天舉辦「AI for Climate、Climate for AI：綠色算力與氣候數位科技」論壇，環境部長彭啟明表示，目前臺灣AI資料中心依現行法規並不需要進行環境影響評估，原因在於目前國內資料中心多設置於既有建築內，並未涉及大規模土地開發；不過，隨著AI算力需求快速增加，政府仍需關注能源、用水、噪音等可能衍生的新興環境議題，並建立符合AI時代的低碳治理模",
         "source": "iThome"
       },
       {
@@ -231,20 +245,6 @@
     ],
     "en_sec": [
       {
-        "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-        "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-        "pubDate": "Thu, 12 Nov 2026 23:37:15 +0530",
-        "description": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access?\n\nA suspicious login might belong ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-        "pubDate": "Thu, 12 Nov 2026 17:53:10 -0500",
-        "description": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise additional managed",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
         "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
         "pubDate": "Sun, 15 Nov 2026 16:57:31 +0530",
@@ -294,6 +294,41 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
+        "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
+        "pubDate": "Mon, 16 Nov 2026 19:30:00 +0530",
+        "description": "Google on Monday revealed that adversarial use of artificial intelligence (AI) by threat actors has gone beyond manual prompting to deploying autonomous multi-agent offensive frameworks like ARTEX, CAIRN, CyberStrikeAI, and PentAGI to execute multi-s",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
+        "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
+        "pubDate": "Mon, 16 Nov 2026 18:57:20 +0530",
+        "description": "A default password opened doors it never should have. A trusted update delivered malware. Even a security feature became a way to break in. Different stories, same problem: the things meant to protect us aren't always doing their job.\n\nMeanwhile, AI ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
+        "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
+        "pubDate": "Mon, 16 Nov 2026 18:04:21 +0530",
+        "description": "Six flaws in Danfoss AK-SM800A refrigeration controllers could let a remote attacker take over a controller without logging in, Dutch security consultancy Midnight Blue said earlier this week.\n\nNo patch is available, and the researchers say the newes",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
+        "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
+        "pubDate": "Mon, 16 Nov 2026 18:03:18 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines.\n\n\"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a temporary",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+        "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+        "pubDate": "Mon, 16 Nov 2026 15:02:57 +0530",
+        "description": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.\n\nCentral to the intrusion is a toolkit called ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
         "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
         "pubDate": "Mon, 16 Nov 2026 13:04:21 +0530",
@@ -308,208 +343,187 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
-        "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
-        "pubDate": "Mon, 16 Nov 2026 04:30:04 -0500",
-        "description": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+        "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
+        "pubDate": "Mon, 16 Nov 2026 11:43:24 -0500",
+        "description": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft pushes Windows emergency updates to fix activation failures",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
-        "pubDate": "Mon, 16 Nov 2026 03:26:52 -0500",
-        "description": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+        "title": "Fandango says hackers stole payment card details from checkout pages",
+        "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
+        "pubDate": "Mon, 16 Nov 2026 10:44:21 -0500",
+        "description": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-        "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-        "pubDate": "Fri, 13 Nov 2026 22:23:08 +0530",
-        "description": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any C-language exte",
-        "source": "TheHackerNews"
+        "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
+        "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
+        "pubDate": "Mon, 16 Nov 2026 10:01:11 -0500",
+        "description": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, bloc",
+        "source": "BleepingComputer"
       },
       {
-        "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-        "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-        "pubDate": "Fri, 13 Nov 2026 20:57:05 +0530",
-        "description": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out.\n\nOne of them, Mior, can also modify a VM's memory and fake the signed report",
-        "source": "TheHackerNews"
+        "title": "Google warns that fully-automated AI attacks are coming soon",
+        "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
+        "pubDate": "Mon, 16 Nov 2026 09:00:00 -0500",
+        "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-        "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-        "pubDate": "Fri, 13 Nov 2026 19:58:58 +0530",
-        "description": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social engineering sche",
-        "source": "TheHackerNews"
+        "title": "Microsoft: Windows Server 2016 reaches end of support in 60 days",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-60-days/",
+        "pubDate": "Mon, 16 Nov 2026 07:53:18 -0500",
+        "description": "Microsoft has reminded customers again that Windows Server 2016 will stop receiving security updates after it reaches the end of support in two months. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
-        "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
-        "pubDate": "Fri, 13 Nov 2026 19:24:20 +0530",
-        "description": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday.\n\nThe implant reads the phrase from the wallet's screen and ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-        "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-        "pubDate": "Fri, 13 Nov 2026 17:22:31 +0530",
-        "description": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has access to the",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-        "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-        "pubDate": "Fri, 13 Nov 2026 16:40:40 +0530",
-        "description": "A newly identified spying group used hacked equipment inside Asian mobile operators to intercept the calls and texts of selected people, mostly in Taiwan.\n\nEnea, a telecom and cybersecurity software company based in Stockholm, found the group's attac",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-        "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-        "pubDate": "Fri, 13 Nov 2026 16:25:03 +0530",
-        "description": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks.\n\nPolice also seized about 6.4 m",
-        "source": "TheHackerNews"
+        "title": "Australian retail giant Coles investigates cybersecurity incident",
+        "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+        "pubDate": "Mon, 16 Nov 2026 06:18:09 -0500",
+        "description": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
-        "link": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
-        "pubDate": "Sun, 15 Nov 2026 23:30:00 +0000",
-        "description": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+        "link": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+        "pubDate": "Mon, 16 Nov 2026 19:26:55 +0000",
+        "description": "Apple's latest iOS 27.3 developer beta introduces a limited face unlock feature for the iPhone Duo, alongside other improvements.",
         "source": "TechCrunch"
       },
       {
-        "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
-        "link": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
-        "pubDate": "Sun, 15 Nov 2026 21:56:35 +0000",
-        "description": "\"Jensen is Nvidia, right? And so much of this economy is riding on Nvidia.\"",
+        "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+        "link": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+        "pubDate": "Mon, 16 Nov 2026 19:12:02 +0000",
+        "description": "Trump contradicted his own government's intelligence officials, who reportedly concluded that Alice Huang is a Chinese spy.",
         "source": "TechCrunch"
       },
       {
-        "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-        "link": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
-        "pubDate": "Sun, 15 Nov 2026 20:20:57 +0000",
-        "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
+        "title": "Island is a new screen-time app that turns staying off your phone into a game",
+        "link": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+        "pubDate": "Mon, 16 Nov 2026 18:54:18 +0000",
+        "description": "YC-backed Island turns screen time goals into a farming game, rewarding users with new crops, animals, and more when they stick to their limits.",
         "source": "TechCrunch"
       },
       {
-        "title": "Flaming Hydra’s new Kickstarter campaign rethinks e-book ownership and digital lending",
-        "link": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
-        "pubDate": "Sun, 15 Nov 2026 18:29:14 +0000",
-        "description": "A new Kickstarter campaign aims to usher in the “return of the human internet.”",
+        "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin Gigafactory expansion",
+        "link": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+        "pubDate": "Mon, 16 Nov 2026 18:21:14 +0000",
+        "description": "Tesla is putting Europe on its Cybercab roadmap with a €3 billion expansion of its Berlin Gigafactory.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: The Nvidia backup plan for China’s self-driving industry",
-        "link": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
-        "pubDate": "Sun, 15 Nov 2026 17:05:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
+        "title": "Sam Altman on Nvidia without Jensen Huang: the industry will be ‘fine’",
+        "link": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+        "pubDate": "Mon, 16 Nov 2026 18:11:10 +0000",
+        "description": "OpenAI CEO Sam Altman acknowledged the special role Nvidia CEO Jensen Huang has played in the AI boom, but ultimately thinks the industry will be “fine” without him at the helm.",
         "source": "TechCrunch"
       },
       {
-        "title": "The tech products we enthusiastically recommend this holiday season",
-        "link": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
-        "pubDate": "Sun, 15 Nov 2026 16:00:00 +0000",
-        "description": "We've been reviewing a bunch of new gadgets at TechCrunch this year, and we have some clear favorites to share for your Black Friday shopping and beyond.",
+        "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+        "link": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+        "pubDate": "Mon, 16 Nov 2026 17:36:43 +0000",
+        "description": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S. IT giant and the South Korean financial industry.",
         "source": "TechCrunch"
       },
       {
-        "title": "Where was Nvidia’s security team?",
-        "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
-        "pubDate": "Sun, 15 Nov 2026 00:08:07 +0000",
-        "description": "Nvidia’s security chief quietly left in August, and now that CEO Jensen Huang has stepped down over his relationships, including one with an executive at a company suspected of funneling chips to China, a former intelligence officer says it’s the kin",
+        "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+        "link": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+        "pubDate": "Mon, 16 Nov 2026 17:10:00 +0000",
+        "description": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-        "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-        "pubDate": "Sat, 14 Nov 2026 21:41:22 +0000",
-        "description": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+        "title": "OpenAI will embed safety researchers to investigate AI subversion",
+        "link": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+        "pubDate": "Mon, 16 Nov 2026 17:02:43 +0000",
+        "description": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
         "source": "TechCrunch"
       },
       {
-        "title": "Tesla opens Cybercab pre-orders ‘for personal use,’ with geo restrictions and a $299 monthly fee",
-        "link": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
-        "pubDate": "Sat, 14 Nov 2026 20:04:44 +0000",
-        "description": "Even Elon Musk said the monthly fee is \"too high.\"",
+        "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "link": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+        "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+        "description": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning",
         "source": "TechCrunch"
       },
       {
-        "title": "Got an iPhone Duo? These 9 settings make it easier to use",
-        "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
-        "pubDate": "Sat, 14 Nov 2026 18:00:00 +0000",
-        "description": "From Touch ID shortcuts to smarter volume buttons and camera tricks, these tweaks make Apple's foldable iPhone easier to use every day.",
+        "title": "Instagram now lets creators add Amazon affiliate links in reels and feed posts",
+        "link": "https://techcrunch.com/2026/11/16/instagram-now-lets-creators-add-amazon-affiliate-links-in-reels-and-feed-posts/",
+        "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+        "description": "While creators have long shared Amazon affiliate links through stories, DMs, and their bios, the new integration brings them to new parts of the app.",
         "source": "TechCrunch"
       },
       {
-        "title": "Transportation secretary blames ‘routine’ equipment upgrade for grounding flights nationwide",
-        "link": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-        "pubDate": "Sat, 14 Nov 2026 17:45:04 +0000",
-        "description": "FAA administrator Bryan Bedford also said there's \"zero evidence of anything AI-related.\"",
+        "title": "Serena Williams winds down her VC firm, launches new fund, seeks $200M",
+        "link": "https://techcrunch.com/2026/11/16/serena-williams-winds-down-her-vc-firm-launches-new-fund-targets-200m/",
+        "pubDate": "Mon, 16 Nov 2026 16:06:30 +0000",
+        "description": "Serena Williams and longtime business partner Beth Ferreira announced Monday the launch of an early-stage firm called Starfire Ventures.",
         "source": "TechCrunch"
       },
       {
-        "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-        "link": "https://techcrunch.com/2026/11/14/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
-        "pubDate": "Sat, 14 Nov 2026 17:30:00 +0000",
-        "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+        "title": "Audible turns to AI to help users discover audiobooks",
+        "link": "https://techcrunch.com/2026/11/16/audible-turns-to-ai-to-help-users-discover-audiobooks/",
+        "pubDate": "Mon, 16 Nov 2026 15:52:19 +0000",
+        "description": "Audible's new AI-generated audio previews summarize a book's themes and what readers liked about it, in addition to playing the narrated sample.",
         "source": "TechCrunch"
       },
       {
-        "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-        "link": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
-        "pubDate": "Sat, 14 Nov 2026 16:34:15 +0000",
-        "description": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "title": "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+        "link": "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/",
+        "pubDate": "Mon, 16 Nov 2026 15:02:34 +0000",
+        "description": "Under the interim rule, the U.S. will require firms to get licenses to export AI chips if they may provide compute to China or other restricted countries.",
         "source": "TechCrunch"
       },
       {
-        "title": "Helsing backer Plural raises $1.1B to fund Europe’s next moonshots",
-        "link": "https://techcrunch.com/2026/11/15/helsing-backer-plural-raises-1-1b-to-fund-europes-next-moonshots/",
-        "pubDate": "Mon, 16 Nov 2026 07:00:00 +0000",
-        "description": "Operator-led VC firm Plural has raised €1 billion in new capital ($1.1 billion), joining a growing cohort of larger European funds that also includes Mundi Ventures’ Kembara and EQT-managed Scaleup Europe Fund.",
+        "title": "Google Maps can now build trip itineraries with real-time details about each stop",
+        "link": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/",
+        "pubDate": "Mon, 16 Nov 2026 14:48:13 +0000",
+        "description": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple launches new app to study how people use AI for health",
-        "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
-        "pubDate": "Mon, 16 Nov 2026 01:30:00 +0000",
-        "description": "Apple's new app for a study will answer everyday medical questions",
+        "title": "Mazama Energy has a solution for geothermal’s biggest drilling problem",
+        "link": "https://techcrunch.com/2026/11/16/mazama-energy-has-a-solution-for-geothermals-biggest-drilling-problem/",
+        "pubDate": "Mon, 16 Nov 2026 14:00:00 +0000",
+        "description": "Khosla-backed Mazama Energy has developed a new way to supercool its geothermal drill bits, letting it drill faster and deeper in a quest to bring down the cost of electricity.",
         "source": "TechCrunch"
       },
       {
-        "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-        "link": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
-        "pubDate": "2026-11-15T20:26:56-05:00",
-        "description": "Apple announced a new study today with the goal of better understanding how people interact with conversational AI health tools and how useful their responses actually are. The company is conducting the Apple Health AI Usage Study in collaboration wi",
+        "title": "Mercedes-Benz takes on Tesla FSD with new point-to-point city driving assist",
+        "link": "https://www.theverge.com/transportation/1034321/mercedes-benz-mb-drive-assist-pro-hands-free-highway-assist-2027",
+        "pubDate": "2026-11-16T14:49:12-05:00",
+        "description": "Mercedes-Benz is tossing its hat into the partial autonomy ring with the launch of two new features next year: hands-free highway driving and a point-to-point city navigation system. The new features will put the German automaker in competition with ",
         "source": "TheVerge"
       },
       {
-        "title": "Listen to this: Armand Hammer’s Snakes &#038; Ladders",
-        "link": "https://www.theverge.com/entertainment/1034013/armand-hammers-snakes-ladders-review",
-        "pubDate": "2026-11-15T16:49:22-05:00",
-        "description": "I open with this caveat: I haven't had a ton of time to digest the surprise Armand Hammer record that dropped this week. Billy Woods and Elucid rarely miss, though, and my initial reaction is that Snakes & Ladders ranks among their best. It doesn't h",
+        "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+        "link": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+        "pubDate": "2026-11-16T14:24:40-05:00",
+        "description": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and reque",
         "source": "TheVerge"
       },
       {
-        "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
-        "link": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
-        "pubDate": "2026-11-15T16:05:02-05:00",
-        "description": "United Launch Alliance (ULA) suffered what is reportedly its first mission failure in its 20-year history, failing to deliver 40 Amazon Leo satellites to orbit. Leo is Amazon's competitor to SpaceX's Starlink, but it has struggled to get off the grou",
+        "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+        "link": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+        "pubDate": "2026-11-16T14:23:45-05:00",
+        "description": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better",
         "source": "TheVerge"
       },
       {
-        "title": "Jensen Huang might be plotting a return and more of the latest Nvidia drama",
-        "link": "https://www.theverge.com/tech/1033999/jensen-huang-return-nvidia-megaspeed",
-        "pubDate": "2026-11-15T15:43:49-05:00",
-        "description": "The drama around Nvidia co-founder and former CEO Jensen Huang is evolving quickly. The latest edition of our Stepback newsletter should get you up to speed, but there have already been a number of new developments since this morning. That includes r",
+        "title": "Apple is adding face unlock to the iPhone Duo — without new hardware",
+        "link": "https://www.theverge.com/tech/1034590/apple-iphone-duo-face-unlock-ios-27-3-beta",
+        "pubDate": "2026-11-16T13:44:16-05:00",
+        "description": "Apple is working on a face unlock feature for the iPhone Duo that uses the front-facing camera for authentication, and it's already testing it with the new iOS 27.3 beta released today, as reported by MacRumors. Currently, the only way to unlock the ",
         "source": "TheVerge"
       },
       {
-        "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
-        "pubDate": "2026-11-15T14:15:43-05:00",
-        "description": "Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and b",
+        "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
+        "link": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+        "pubDate": "2026-11-16T13:43:35-05:00",
+        "description": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Hu",
         "source": "TheVerge"
       }
     ],
