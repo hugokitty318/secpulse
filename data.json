@@ -1,135 +1,163 @@
 {
-  "ts": "2026-11-17T02:53:46.855913Z",
+  "ts": "2026-11-17T11:44:02.034007Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
-        "link": "https://www.ithome.com.tw/news/180554",
-        "pubDate": "2026-11-17 10:28",
-        "description": "電子零組件公司驊陞（6272）發現部分資訊系統主機遭駭客攻擊，已啟動資安事件應變機制，隔離受影響主機及網路設備，並進行病毒清除與系統復原。目前核心系統及日常營運維持正常，初步檢查尚未發現資料外洩跡象",
+        "title": "Tor匿名網路遭DDoS攻擊，官方緊急更新IPv6防禦機制",
+        "link": "https://www.ithome.com.tw/news/180572",
+        "pubDate": "2026-11-17 18:42",
+        "description": "Tor網路持續遭DDoS攻擊，多數中繼營運者受到影響，Tor Project發布0.4.9.17安全更新，改以IPv6的/64網段辨識用戶端，降低攻擊者利用不同位址規避DoS防禦限制的可能性",
         "source": "iThome資安"
       },
       {
-        "title": "京成電鐵Skyliner訂位系統遭駭，337萬筆用戶資料可能外洩",
-        "link": "https://www.ithome.com.tw/news/180553",
-        "pubDate": "2026-11-17 10:24",
-        "description": "日本京成電鐵證實往返成田機場與東京的Skyliner訂位系統遭駭，最多約337萬筆用戶資料可能外洩",
+        "title": "奇偶科技示警影像監控軟體已知漏洞遭利用，Huntress揭露13家組織的設備遭挖礦攻擊",
+        "link": "https://www.ithome.com.tw/news/180574",
+        "pubDate": "2026-11-17 18:15",
+        "description": "奇偶科技近日發布資安通告，示警其GV-VMS監控管理系統的已知漏洞正遭攻擊者鎖定攻擊，其目的是在用戶系統中部署加密貨幣挖礦程式，後續資安業者Huntress調查也發現，攻擊活動已波及13家不同產業組織",
         "source": "iThome資安"
       },
       {
-        "title": "加州控告OpenAI，指AI代理人失控至少80次、攻擊外部系統",
-        "link": "https://www.ithome.com.tw/news/180551",
-        "pubDate": "2026-11-17 10:11",
-        "description": "OpenAI遭加州政府提告！檢方指控，OpenAI明知旗下AI模型有安全風險，卻沒有做好防護，導致AI代理人不受控制，甚至突破測試環境的限制，攻擊外部系統。OpenAI也曾向檢方承認，測試期間至少80次無法控制AI代理人。加州政府要求法院下令加強安全防護，並對OpenAI處以民事罰款",
+        "title": "Apache Axis重大漏洞遭到利用，攻擊者藉此滲透Atlassian Confluence與N-able N-central",
+        "link": "https://www.ithome.com.tw/news/180573",
+        "pubDate": "2026-11-17 17:33",
+        "description": "資安公司Rapid7警告，本月初公布的SOAP網頁服務框架Apache Axis重大漏洞CVE-2026-90436遭到積極利用，攻擊者藉此對採用該元件的Atlassian Confluence及N-able N-central下手",
         "source": "iThome資安"
       },
       {
-        "title": "貿易百貨公司永邑委外電商服務商發生資安事件，訂單資料庫遭未授權存取",
-        "link": "https://www.ithome.com.tw/news/180550",
-        "pubDate": "2026-11-17 10:08",
-        "description": "貿易百貨公司永邑（永邑-KY，股票代號2939）發布資安重訊，其臺灣分公司BVI臺灣使用的線上商店平臺服務廠商順立智慧（Cyberbiz）發生資安事件，部分資料庫遭未經授權的異常存取，涉及線上商店訂單相關資料",
+        "title": "Firefox版uBlock Origin修補XSS漏洞，惡意規則可跨網站執行JavaScript",
+        "link": "https://www.ithome.com.tw/news/180570",
+        "pubDate": "2026-11-17 16:49",
+        "description": "Firefox版uBlock Origin的元素選取器存在驗證缺陷，惡意網站可誘使使用者新增過濾規則，在其他網站執行JavaScript，漏洞現已修補，建議使用者更新至最新版",
         "source": "iThome資安"
       },
       {
-        "title": "微軟揭露Microsoft 365全球當機原因，潛伏3個月的程式錯誤釀禍",
-        "link": "https://www.ithome.com.tw/news/180549",
-        "pubDate": "2026-11-17 08:48",
-        "description": "微軟揭露Microsoft 365全球當機逾30小時的原因。7月部署的修正程式存在潛在缺陷，在流量增加及伺服器容量減少的情況下觸發連鎖故障，最嚴重時超過80%的網路閘道伺服器無法回應",
+        "title": "N-central零時差漏洞4EverAble2Shell遭到利用，攻擊者試圖從事挖礦活動",
+        "link": "https://www.ithome.com.tw/news/180571",
+        "pubDate": "2026-11-17 16:41",
+        "description": "威脅情報公司Previdian、Huntback發現，在研究人員公布N-central零時差漏洞4EverAble2Shell數個小時後，已有攻擊者將其用於實際攻擊，於21臺N-central伺服器植入門羅幣挖礦程式",
         "source": "iThome資安"
       },
       {
-        "title": "歐盟網路安全局示警漏洞公開後數分鐘內恐遭利用，AI與供應鏈依賴加劇資安風險",
-        "link": "https://www.ithome.com.tw/news/180493",
-        "pubDate": "2026-11-17 08:40",
-        "description": "ENISA最新報告顯示，部分攻擊活動能在漏洞公開後短時間內展開，AI發展也可能進一步縮短漏洞發掘時間。另一方面，企業對雲端及第三方服務的依賴，使供應商資安事件可能波及多家組織，漏洞修補、供應鏈風險管理及跨組織事件應變因而更受重視",
+        "title": "德國研究揭露AI開發平臺Lovable用戶開發的應用程式，至少7千多個資料庫存在權限設定不當問題",
+        "link": "https://www.ithome.com.tw/news/180567",
+        "pubDate": "2026-11-17 16:29",
+        "description": "Vibe Coding雖夯，但基本資安風險防護不容忽視。德國應用程式安全業者Crissy Field與當地媒體Handelsblatt於11月公布一項聯合調查，透過分析超過15萬個透過AI開發平臺Lovable建立的專案，發現其中逾7千個網站的資料庫存在存取權限設定缺失，未登入的外部人士也能讀取原本不應公開的資料",
         "source": "iThome資安"
       },
       {
-        "title": "OWASP公布AI資料中心十大資安風險，韌體遭竄改、高速網路防護不足列重大風險",
-        "link": "https://www.ithome.com.tw/news/180526",
-        "pubDate": "2026-11-17 08:00",
-        "description": "OWASP列出新型雲端服務與AI資料中心十大資安風險，其中五項被評為重大風險，涵蓋硬體與韌體、高速網路、多租戶隔離、帶外管理層及供應鏈安全。企業除了關注AI模型與應用程式，也應檢查底層運算環境的防護措施",
+        "title": "研究人員揭露N-central零時差漏洞4EverAble2Shell、Agent2Shell",
+        "link": "https://www.ithome.com.tw/news/180569",
+        "pubDate": "2026-11-17 15:47",
+        "description": "在N-able緊急修補N-central零時差漏洞Able2Shell部分內容後，資安研究員Sean Bales公布兩組新漏洞4EverAble2Shell、Agent2Shell，並強調能在最新的2026.4 HF2版N-central利用",
         "source": "iThome資安"
       },
       {
-        "title": "美國查扣北韓駭客FaceStealer攻擊基礎設施，另凍結逾27億美元Binance遭竊資產",
-        "link": "https://www.ithome.com.tw/news/180495",
-        "pubDate": "2026-11-17 08:00",
-        "description": "美國司法部公布兩項打擊北韓駭客竊取加密資產的執法成果，FBI查扣FaceStealer攻擊基礎設施及900多段遭祕密錄製的受害者影片，另有超過27億美元Binance遭竊資產遭凍結。FaceStealer過去18個月造成超過4億美元損失，攻擊者還曾試圖利用開源軟體維護者的權限散布惡意程式",
+        "title": "【資安日報】11月17日，國家級駭客組織SilentAir鎖定臺灣等十多個國家的手機用戶，濫用電信訊號攔截簡訊與通話",
+        "link": "https://www.ithome.com.tw/news/180566",
+        "pubDate": "2026-11-17 15:00",
+        "description": "電信資安公司Enea揭露國家級駭客SilentAir的攻擊活動，該組織長期利用遭入侵的電信業者網路節點攻擊全球多國手機用戶，臺灣是其主要目標",
         "source": "iThome資安"
       },
       {
-        "title": "英法發布商業網路入侵產業指引，籲業者審查客戶、必要時停止銷售工具",
-        "link": "https://www.ithome.com.tw/news/180491",
-        "pubDate": "2026-11-17 08:00",
-        "description": "英國與法國於11月11日發布商業網路入侵產業指引，建議相關業者加強客戶及供應商審查，持續追蹤工具遭到濫用的風險，必要時停止銷售及提供技術支援",
+        "title": "OpenAI開放4家外部機構進駐，深入檢驗AI模型安全性",
+        "link": "https://www.ithome.com.tw/news/180565",
+        "pubDate": "2026-11-17 14:49",
+        "description": "OpenAI找來Apollo Research、METR等4家獨立機構，深入調查AI模型是否可能欺騙人類、暗中違背開發者意圖，以及現有監控機制能否及時發現異常行為",
         "source": "iThome資安"
       },
       {
-        "title": "韓國客服委外業者MetaM遭駭，加密貨幣交易所Coinone受波及",
-        "link": "https://www.ithome.com.tw/news/180545",
-        "pubDate": "2026-11-16 18:10",
-        "description": "韓國客服委外業者MetaM遭駭，其企業客戶的客服資料恐受影響，已有加密貨幣交易所Coinone證實受此事件波及，部分客戶個資外洩，二手交易平臺Bunjang也公告客服委外系統遭非法存取。由於MetaM也為多家醫療院所提供客服系統，這些醫療院所是否受到此次事件影響，仍待釐清",
+        "title": "日本無印良品109萬筆信用卡資料恐遭存取，完整卡號未遮罩、未加密且逾期未刪",
+        "link": "https://www.ithome.com.tw/news/180562",
+        "pubDate": "2026-11-17 14:03",
+        "description": "日本無印良品資安事故持續引發關注，隨著營運商良品計畫持續公布影響範圍與最新發現，該公司並在11月12日記者會說明內部多項資安管理缺失，包括原本應在2021年刪除的完整信用卡號碼仍留存在系統中，且未經遮罩處理、未加密儲存，部分已退會會員資料也未完整刪除，以及網路商店登入機制未導入多因素驗證",
         "source": "iThome資安"
       },
       {
-        "title": "蠕蟲SCKit利用ScreenConnect第三方延伸套件漏洞散布，近500臺主機被感染",
-        "link": "https://www.ithome.com.tw/news/180544",
-        "pubDate": "2026-11-16 17:22",
-        "description": "上週軟體公司ConnectWise發布警急公告，表示有ScreenConnect的合作夥伴帳號遭未經授權存取，影響5個第三方延伸套件，約400家客戶恐受到波及。威脅情報公司Huntress公布調查結果，並指出在11月11日、13日出現兩波散布惡意程式SCKit的活動",
+        "title": "駭客利用AI自動化漏洞研究，遭到利用的零時差漏洞一個月爆增至22個",
+        "link": "https://www.ithome.com.tw/news/180561",
+        "pubDate": "2026-11-17 12:32",
+        "description": "Google威脅情報團隊（GTIG）警告，駭客借助AI自動化研究漏洞與開發利用工具，已從實驗階段轉向實際應用。攻擊者分析軟體修補前後的程式碼差異、尋找潛在漏洞及產生攻擊程式碼，甚至在無須人工介入的情況下執行漏洞攻擊，大幅縮短漏洞公開至遭武器化利用的時間",
         "source": "iThome資安"
       },
       {
-        "title": "調查局破獲BossAI駭侵消防系統案，3嫌竊取OHCA資訊轉售殯葬業",
-        "link": "https://www.ithome.com.tw/news/180536",
-        "pubDate": "2026-11-16 15:42",
-        "description": "日前揭露的AI自動化攻擊系統BossAI曾鎖定臺灣緊急應變服務，如今法務部調查局今天（11月16日）宣布破獲駭侵消防救護系統案件，查出3名駭客涉嫌利用AI代理程式入侵消防機關，竊取OHCA等救護救災勤務派遣資訊，再販售給殯葬業者牟利，其中2名網路犯罪者已遭法院裁准羈押",
+        "title": "公開網路上存在逾3,800個AI攻擊框架執行個體，臺灣也有20個",
+        "link": "https://www.ithome.com.tw/news/180560",
+        "pubDate": "2026-11-17 12:28",
+        "description": "Shadowserver辨識出ARTEX、CyberStrike等多種AI自主攻擊框架的執行個體部署，美國、中國及香港的數量居前",
         "source": "iThome資安"
       },
       {
-        "title": "AI代理網攻波及臺灣十餘家企業，逾百萬份個資受影響",
-        "link": "https://www.ithome.com.tw/news/180535",
-        "pubDate": "2026-11-16 14:58",
-        "description": "駭客利用中國開源工具ARTEX繞過前端介面、直攻後端API；資安院提出三項緊急應變措施，數產署要求業者落實五大個資保護行動，包含72小時內通報及通知當事人。",
+        "title": "美國加強AI晶片出口管制，限制中國等國家透過海外資料中心取得算力",
+        "link": "https://www.ithome.com.tw/news/180558",
+        "pubDate": "2026-11-17 11:34",
+        "description": "美國商務部擴大先進AI晶片出口管制，不只限制晶片實體出口，也將海外資料中心提供的遠端算力服務納入管制，防止中國、澳門等受管制地區透過第三國取得美國先進運算資源",
         "source": "iThome資安"
       },
       {
-        "title": "【資安日報】11月16日，Check Point閘道設備遭PHP2Shell漏洞攻擊，駭客植入後門並透過虛擬化平臺進行資料破壞",
-        "link": "https://www.ithome.com.tw/news/180534",
-        "pubDate": "2026-11-16 14:48",
-        "description": "資安公司Check Point揭露自10月底出現的攻擊活動，駭客利用PHP2Shell（CVE-2026-109618、CVE-2026-109619）入侵該廠牌的資安閘道設備，再利用CVE-2026-123039提升權限，以便進一步執行後續活動",
+        "title": "漏洞濫用速度加快，Anthropic將重大漏洞揭露靜默期由90天縮短為30天",
+        "link": "https://www.ithome.com.tw/news/180557",
+        "pubDate": "2026-11-17 11:30",
+        "description": "隨著AI加快漏洞發現及重複發現速度，Anthropic宣布調整協調漏洞揭露政策，自2027年1月1日起，高度及重大嚴重性漏洞的揭露期限將從90天縮短為30天，其他漏洞則縮短為45天",
         "source": "iThome資安"
       },
       {
-        "title": "國家級駭客組織SilentAir鎖定臺灣等十多個國家的手機用戶，濫用電信訊號攔截簡訊與通話",
-        "link": "https://www.ithome.com.tw/news/180533",
-        "pubDate": "2026-11-16 14:23",
-        "description": "電信資安公司Enea揭露國家級駭客SilentAir攻擊活動，這些駭客長期滲透全球電信公司的網路，這些駭客的攻擊目標，涵蓋臺灣在內十多個國家的手機用戶",
+        "title": "美國多家銀行App傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
+        "link": "https://www.ithome.com.tw/news/180556",
+        "pubDate": "2026-11-17 11:24",
+        "description": "異常通報涉及美國銀行、富國銀行及美國合眾銀行等業者，JP摩根表示客戶仍可存取帳戶與資金，Zelle支付網路也維持正常運作",
         "source": "iThome資安"
       },
       {
-        "title": "國科會揭科技施政布局、明年預計新增1萬顆GPU算力",
-        "link": "https://www.ithome.com.tw/news/180547",
-        "pubDate": "2026-11-16  08:11:54",
-        "description": "國科會今日（11/16）揭露第24次委員會議3大重點，包括數發部的AI軟體生態系建立進展、國科會的科學技術白皮書草案，以及國家災防科技中心的AI災害管理應用進展。\n以AI軟體生態系發展來說，聚焦算力、資料、人才、行銷、資金等5大面向，目前已協助300多家資服業者發展307項AI模型及應用，接下來將擴大64億Tokens的本土語料庫、GPU算力池。科學技術白皮書草案則列出臺灣整體科技施政藍圖，包含半導體、主權AI、太空通訊、全齡健康、淨零轉型等9大目標。至於AI災害管理應用，則有700多類防災資訊",
+        "title": "Apple調整macOS App權限管理，27.3測試版開始可限制存取範圍",
+        "link": "https://www.ithome.com.tw/news/180559",
+        "pubDate": "2026-11-17  12:11:08",
+        "description": "Apple在macOS 27.3 beta 2加入更細緻的應用程式授權機制，當部分App要求完整磁碟存取或控制其他應用程式時，使用者可限定開放的資料夾與App，不必直接授予廣泛的系統存取權。新版也允許使用者設定App每次控制其他程式前先取得同意，並在App控制其他程式時顯示狀態提示，讓使用者更清楚App取得的權限。",
         "source": "iThome"
       },
       {
-        "title": "AI資料中心用電與環境衝擊成COP31焦點，環境部：目前依法無須環評，但應建立低碳AI治理模式",
-        "link": "https://www.ithome.com.tw/news/180546",
-        "pubDate": "2026-11-16  06:11:17",
-        "description": "AI快速發展帶動算力需求，也讓資料中心的能源消耗、電網負載與環境影響，成為此次聯合國COP31氣候變遷綱要公約締約方大會中討論的一環。環境部今天舉辦「AI for Climate、Climate for AI：綠色算力與氣候數位科技」論壇，環境部長彭啟明表示，目前臺灣AI資料中心依現行法規並不需要進行環境影響評估，原因在於目前國內資料中心多設置於既有建築內，並未涉及大規模土地開發；不過，隨著AI算力需求快速增加，政府仍需關注能源、用水、噪音等可能衍生的新興環境議題，並建立符合AI時代的低碳治理模",
-        "source": "iThome"
-      },
-      {
-        "title": "Claude代理自架從沙箱擴及控制平面，企業可自管憑證與工作紀錄",
-        "link": "https://www.ithome.com.tw/news/180543",
-        "pubDate": "2026-11-16  04:11:21",
-        "description": "Anthropic開放Claude Managed Agents自託管服務私人測試，企業可在自有雲端或地端環境部署AI代理控制平面、執行沙箱及資料庫，自行管理憑證與工作紀錄，並決定Claude模型請求的傳送管道。相較先前僅支援自架沙箱，新版將代理管理服務也交由企業自行營運。",
+        "title": "500大超級電腦排名前十名不變，新系統數量創新低，並呈現AI工廠正在改寫GPU算力流向的趨勢",
+        "link": "https://www.ithome.com.tw/news/180575",
+        "pubDate": "2026-11-17  06:11:37",
+        "description": "全球最新500大超級電腦排名出爐，全球最快超級電腦排名呈現罕見穩定局面，前10名與今年6月排行榜相比沒有變化。",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "a16z、Clay 都設「生態系」職位：AI 內容越多，新創與創投為何越重視真人關係？",
+        "link": "https://techorange.com/2026/11/17/business-tech-jobs-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 17 Nov 2026 17:09:00 +0800",
+        "description": "《紐約時報》近日報導，在 AI 生成內容氾濫之際，引領 AI 革命的人，也在自家產業加倍投入面對面的人際關係。人脈經營在科技業向來至關重要，所謂的「熟人引薦」（warm intros）、創辦人晚宴與校友社群，不僅是這個產業文化的核心，也是談成交易的關鍵。 但近來，新創公司與創投業者更加重視人與人之間的連結，開始聘用專門負責「生態系」（ecosystem）的人才。這類職位的名稱包括「新創生態系主管」（start-up ecosystem lead）或「生態系成長經理」（ecosystem grow",
+        "source": "TechOrange"
+      },
+      {
+        "title": "機器人規格尚未定型，台廠如何搶得話語權？鴻海、華碩、Google 談場域新機會",
+        "link": "https://techorange.com/2026/11/17/hhtd-2026-taiwan-robot-panel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 17 Nov 2026 16:13:05 +0800",
+        "description": "兩台不同品牌的機器人在一家醫療業者的走道上卡住，因為彼此不會溝通。這是 Google Cloud AI 解決方案資深協理李浩賓於 10/31，在「台灣在 AI 時代的新經濟定位」座談中分享的海外案例。這場座談屬於 2026 鴻海科技日週六場的「台灣 AI 機器人產業開發大會」（由鴻海科技集團與《科技報橘》合辦），由科技報橘社長戴季全主持，與談的還有鴻海科技集團機器人事業處總經理郭柳宗，以及華碩電腦實體 AI 解決方案－人形機器人事業部總經理王恆聰。 戴季全在座談後段拋出一個對比：PC 產業發展時",
+        "source": "TechOrange"
+      },
+      {
+        "title": "阿里巴巴稱 Qwen4-Max 任務成本降約六成，分析師：企業還要算重試與人工驗收",
+        "link": "https://techorange.com/2026/11/17/alibaba-qwen4-max-cost-per-task-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 17 Nov 2026 16:00:09 +0800",
+        "description": "阿里巴巴 11/16 發表新旗艦模型 Qwen4-Max，稱它是千問（Qwen）家族迄今能力最強的模型。阿里巴巴依自家測試指出，和前代 Qwen3.8-Max 相比，Qwen4-Max 每項任務的平均成本降低約六成；官方也拿它和 Anthropic、OpenAI 的旗艦模型比較，16 項測試中有 6 項領先 Claude Opus 5.5。 阿里巴巴主打的，不只是每百萬 token 的單價，而是完成一項任務要花多少錢。不過，廠商在自家測試中算出的成本，能不能代表企業實際拿到的帳單？企業評估或更換",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
+        "link": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 17 Nov 2026 12:55:42 +0800",
+        "description": "美國商務部產業與安全局（BIS）美國時間 11/16 公布一項暫行最終規則（interim final rule），先進 AI 晶片出口到新加坡、馬來西亞、泰國、印尼與巴西，改為需要許可證；服務中國企業、算力規模龐大的資料中心，也被納入許可管理。商務部表示，規則是要確保美國敏感技術的既有限制，「不會透過涉及第三國資料中心的遠端運算安排被規避」。 據《Bloomberg》報導，新規在 NVIDIA 據稱捲入間諜疑雲、美國晶片出口管制受到更多檢視之際推出，距黃仁勳辭去 NVIDIA 執行長僅數日。黃",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
+        "link": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 17 Nov 2026 12:17:48 +0800",
+        "description": "Google 旗下威脅情報小組（Google Threat Intelligence Group，GTIG）近日發布最新一期 AI 威脅追蹤報告（GTIG AI Threat Tracker），指出該小組首度觀察到，攻擊者在完全無人介入的情況下，利用 AI 框架從軟體安全修補程式反推出漏洞攻擊程式。GTIG 表示，越來越多攻擊者從單純對 AI 下指令，轉向部署自主多代理框架與自動化漏洞利用流程，AI 遭惡意利用的威脅態勢已來到關鍵轉折點。 《SiliconANGLE》指出，GTIG 在兩個月前的",
+        "source": "TechOrange"
+      },
       {
         "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
         "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -199,44 +227,72 @@
         "pubDate": "Mon, 16 Nov 2026 14:32:38 +0800",
         "description": "OpenAI 再度推進 AI 購物布局。繼今年 3 月縮減 ChatGPT 內建結帳功能 Instant Checkout 後，OpenAI 於近日推出 ChatGPT Wallet，讓 AI Agent 能使用信用卡，代替使用者在商家網站完成購物付款。這次 OpenAI 不再要求商家整合專用的對話內結帳功能，而是讓 Agent 使用網站既有的支付流程，試圖降低 AI 購物的導入門檻。 根據 OpenAI 官方公告，ChatGPT Wallet 與 American Express、Master",
         "source": "TechOrange"
-      },
-      {
-        "title": "Apple 智慧眼鏡傳 2027 年 WWDC 亮相：不必另寫 App，靠 Siri 串起 iPhone 生態系挑戰 Meta",
-        "link": "https://techorange.com/2026/11/16/apple-smart-glasses-flagship-product-2027-wwdc-unveil/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 12:42:43 +0800",
-        "description": "Apple 傳聞已久的智慧眼鏡，可能在 2027 年亮相。《Bloomberg》記者 Mark Gurman 近日在《Power On》電子報中指出，Apple 計畫在 2027 年 6 月的全球開發者大會（WWDC）上發表首款智慧眼鏡，並在同年底前開始出貨，希望這款眼鏡成為 Apple「2027 年的旗艦新品」。 《Forbes》指出，這是相當大膽的說法，因為 Apple 在 2027 年還將推出 iPhone 20 週年機型與許多其他產品。根據 Gurman 的報導，這款眼鏡將整合使用者 i",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美日英印等 9 國簽《舊金山宣言》，矽和平從結盟走向列清單、防 AI 技術外流",
-        "link": "https://techorange.com/2026/11/16/us-allies-san-francisco-declaration-pax-silica-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 12:23:21 +0800",
-        "description": "美國與日本、澳洲、以色列、英國、韓國、印度、卡達、阿聯等 8 個夥伴政府，美國時間 11 月 15 日（台灣時間 11 月 16 日）簽署《舊金山永續繁榮安全基礎宣言》（San Francisco Declaration on the Secure Foundations of Enduring Prosperity，下稱舊金山宣言）。據《金融時報》報導，簽署方承諾共同辨識並保護被視為易受中國威脅的 AI 技術與供應鏈；美國國務院經濟事務次卿海柏格（Jacob Helberg）表示，德國、瑞典、",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【AI 人人都有，情境才稀缺】專屬資料、機構知識、治理與夥伴關係，決定企業長期 AI 優勢",
-        "link": "https://techorange.com/2026/11/16/context-is-the-competitive-advantage/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 10:50:18 +0800",
-        "description": "當每家企業都能透過雲端供應商、軟體平台與企業生態系，取得越來越相近的 AI 能力，真正拉開差距的，將是 AI 是否理解企業自身的狀況。 過去外界談論大型語言模型（LLM）時，焦點多半放在能力，包括哪些模型最先進、哪些實證最重要，以及哪些公司走得太快。這些問題仍然重要，但企業內部正在發生更根本的轉變。AI 本身越來越普及，具備情境的 AI 卻仍然稀缺。 AI 日益普及，帶情境的 AI 才稀缺 對多數企業來說，挑戰已經從「取得智慧」轉為「有效運用智慧」，也就是讓 AI 能結合企業獨有的資料、工作流程",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【比特幣成新型抵押品】從證券化交易到銀行推出服務，比特幣借貸越來越像傳統金融",
-        "link": "https://techorange.com/2026/11/16/bitcoin-backed-loan-btc-explained/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 10:16:57 +0800",
-        "description": "比特幣抵押貸款（Bitcoin-Backed Loan）」在經歷低谷之後，市場終於邁向成熟，它允許持有者將加密貨幣作為抵押品，以此借入美元或其他穩定幣，目前市場總額已突破 550 億美元，並獲得傳統金融機構注意。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "換感測器就得重訓觸覺模型？螞蟻靈波開源 LingBot-Touch，主打跨靈巧手共用",
-        "link": "https://techorange.com/2026/11/16/robbyant-lingbot-touch-tactile-foundation-model/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 08:10:00 +0800",
-        "description": "機器人要完成拉拉鏈、開瓶蓋這類精細動作，觸覺不可或缺，但市面上的觸覺感測器還沒有主流規格，壓阻式、磁性、視覺觸覺各自輸出不同的訊號，彼此難以互通。螞蟻集團旗下的具身智慧（Embodied AI）公司 Robbyant（螞蟻靈波），於 11/10 開源觸覺基礎模型 LingBot-Touch，主打把不同感測器的訊號轉成統一表徵，讓不同的靈巧手與動作模型共用。 Robbyant 在技術報告中指出，在兩款靈巧手的 26 項任務中，四種動作模型（決定機器人如何動作的 AI 模型）接上 LingBot-T",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+        "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+        "pubDate": "Tue, 17 Nov 2026 16:50:18 +0530",
+        "description": "Government sectors in Asia and Africa have been targeted by an active cyber intrusion campaign that delivers to previously undocumented backdoors that leverage legitimate services like Microsoft SharePoint and GitHub for command‑and‑control (C2).\n\nTh",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+        "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+        "pubDate": "Tue, 17 Nov 2026 16:37:31 +0530",
+        "description": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to incre",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+        "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+        "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530",
+        "description": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, including",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+        "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+        "pubDate": "Tue, 17 Nov 2026 11:59:27 +0530",
+        "description": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.\n\nThe company said addi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+        "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+        "pubDate": "Tue, 17 Nov 2026 10:30:34 +0530",
+        "description": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
+        "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
+        "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
+        "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
+        "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500",
+        "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
+        "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
+        "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
+        "description": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
+        "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
+        "pubDate": "Tue, 17 Nov 2026 02:25:44 -0500",
+        "description": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
         "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -252,13 +308,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
-        "pubDate": "Sun, 15 Nov 2026 13:29:53 -0500",
-        "description": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365 customer en",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
         "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
         "pubDate": "Sat, 14 Nov 2026 18:08:35 +0530",
@@ -266,8 +315,8 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Optimizely supply chain attack infects major brands' sites with malware",
-        "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware/",
+        "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+        "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
         "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
         "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency ",
         "source": "BleepingComputer"
@@ -319,62 +368,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/california-sues-openai-over-ai-agents-escaping-sandboxes-hacking-firms/",
         "pubDate": "Mon, 16 Nov 2026 15:59:44 -0500",
         "description": "California Attorney General Rob Bonta sued OpenAI on Monday, alleging the company knowingly continued testing advanced artificial intelligence models despite repeated security failures that allowed autonomous AI agents to escape isolated environments",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-        "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-        "pubDate": "Mon, 16 Nov 2026 15:02:57 +0530",
-        "description": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads.\n\nCentral to the intrusion is a toolkit called ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Barracuda links cloud breach to ARTEX AI-powered cyberattack",
-        "link": "https://www.bleepingcomputer.com/news/security/barracuda-links-cloud-breach-to-artex-ai-powered-cyberattack/",
-        "pubDate": "Mon, 16 Nov 2026 14:57:13 -0500",
-        "description": "Hackers who breached the cloud environment of network and email security company Barracuda earlier this month used a stolen cloud access key and the ARTEX AI penetration testing framework. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-        "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-        "pubDate": "Mon, 16 Nov 2026 13:04:21 +0530",
-        "description": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records.\n\nThe records, which Amazon's threat intelligence t",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
-        "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
-        "pubDate": "Mon, 16 Nov 2026 12:23:34 +0530",
-        "description": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server.\n\nThe activity, documented by Kaspersky's ICS CERT tea",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
-        "pubDate": "Mon, 16 Nov 2026 11:43:24 -0500",
-        "description": "Microsoft says a software bug introduced in July caused last week's worldwide Microsoft 365 outage, triggering a cascading failure that left more than 80% of its networking gateway servers unresponsive. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Fandango says hackers stole payment card details from checkout pages",
-        "link": "https://www.bleepingcomputer.com/news/security/fandango-says-hackers-stole-payment-card-details-from-checkout-pages/",
-        "pubDate": "Mon, 16 Nov 2026 10:44:21 -0500",
-        "description": "Ticket seller Fandango Media is notifying customers about a data breach that exposed payment card details entered on its checkout pages. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "7 Tips For Complying with CJIS Password and MFA Requirements",
-        "link": "https://www.bleepingcomputer.com/news/security/7-tips-for-complying-with-cjis-password-and-mfa-requirements/",
-        "pubDate": "Mon, 16 Nov 2026 10:01:11 -0500",
-        "description": "The FBI's latest CJIS Security Policy requires law enforcement agencies to strengthen password protections and enforce MFA across privileged and non-privileged accounts. Specops Software outlines seven practical steps to meet these requirements, bloc",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Google warns that fully-automated AI attacks are coming soon",
-        "link": "https://www.bleepingcomputer.com/news/security/google-warns-that-fully-automated-ai-attacks-are-coming-soon/",
-        "pubDate": "Mon, 16 Nov 2026 09:00:00 -0500",
-        "description": "Threat actors are now relying on agentic workflows powered by AI-based offensive frameworks to automate vulnerability discovery and exploitation, accelerating attacks to machine speed. [...]",
         "source": "BleepingComputer"
       }
     ],
