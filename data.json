@@ -1,142 +1,177 @@
 {
-  "ts": "2026-11-18T02:51:50.466073Z",
+  "ts": "2026-11-18T11:31:13.550895Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Mozilla發布Firefox 160.0.1，緊急修補兩個高風險漏洞",
-        "link": "https://www.ithome.com.tw/news/180591",
-        "pubDate": "2026-11-18 10:41",
-        "description": "Mozilla相隔7天再發布Firefox瀏覽器更新，修補涉及音訊與視訊播放與Android版CanvasWebGL元件的漏洞",
+        "title": "LINE新版支援Passkey，簡化換機或手機遺失後的登入流程",
+        "link": "https://www.ithome.com.tw/news/180633",
+        "pubDate": "2026-11-18 18:10",
+        "description": "LINE宣布自手機版26.17版本起支援通行金鑰（Passkey），建議用戶預先建立Passkey，日後更換手機或手機遺失時，便能多一種免輸入傳統密碼的帳號登入方式",
         "source": "iThome資安"
       },
       {
-        "title": "Google揭駭客利用多代理AI框架發動攻擊，另有工具可自動發掘及利用漏洞",
-        "link": "https://www.ithome.com.tw/news/180563",
-        "pubDate": "2026-11-18 08:00",
-        "description": "Google威脅情報團隊發現，駭客已將多代理AI框架用於系統偵察、漏洞掃描等攻擊活動，另有攻擊者打造可在無須人工介入的情況下，自動分析軟體修補前後的程式碼、發掘漏洞並執行漏洞利用程式的工具",
+        "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
+        "link": "https://www.ithome.com.tw/news/180619",
+        "pubDate": "2026-11-18 16:14",
+        "description": "永信藥品委外購物網站接獲會員反映疑似個資外洩，根據初步調查，事件與委外電商平臺服務商系統有關，目前仍在釐清原因及影響範圍，永信藥品表示公司內部資訊系統未受影響",
         "source": "iThome資安"
       },
       {
-        "title": "AI加速嵌入式設備漏洞挖掘，研究人員90小時找出66項TCP/IP協定堆疊新漏洞",
-        "link": "https://www.ithome.com.tw/news/180564",
-        "pubDate": "2026-11-18 08:00",
-        "description": "網路安全業者Forescout利用現成AI模型搭配分析工具，針對10套嵌入式TCP/IP協定堆疊進行研究，發現的新漏洞有52%屬重大或高風險。研究成果顯示AI有助加快漏洞挖掘速度",
+        "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
+        "link": "https://www.ithome.com.tw/news/180618",
+        "pubDate": "2026-11-18 16:00",
+        "description": "車用電子與智慧聯網設備製造商神達數位（7821）發現部分資訊系統遭受外部網路攻擊，並確認部分系統存在未經授權存取情形。該公司已啟動資安事件應變機制，隔離受影響系統並展開調查，目前評估事件對整體營運及財務尚無重大影響",
         "source": "iThome資安"
       },
       {
-        "title": "Arara郵件服務遭駭，日本大阪市確認逾107萬筆電子郵件地址外洩",
-        "link": "https://www.ithome.com.tw/news/180555",
-        "pubDate": "2026-11-18 08:00",
-        "description": "日本大阪市行政線上系統逾107萬筆電子郵件地址，因Arara郵件服務遭駭而外洩。這起事件最多波及約380家企業客戶，另有攻擊者利用遭入侵的服務發送大量可疑郵件",
+        "title": "jQuery雙版本更新修正ReDoS問題，3.x停止新增功能",
+        "link": "https://www.ithome.com.tw/news/180617",
+        "pubDate": "2026-11-18 15:53",
+        "description": "jQuery 4.1.0與3.8.0修補可能讓網頁停止回應的ReDoS漏洞，4.1.0改善元素查找與資料傳輸，3.8.0則是3.x系列最後一次預定的功能更新，之後僅修補重大資安及程式錯誤",
         "source": "iThome資安"
       },
       {
-        "title": "駭客利用Microsoft 365當機事件發動釣魚攻擊，謊稱郵件將遭刪除誘騙點擊連結",
-        "link": "https://www.ithome.com.tw/news/180577",
-        "pubDate": "2026-11-18 08:00",
-        "description": "駭客假借Microsoft 365全球服務中斷事故發動大規模網路釣魚攻擊，冒充微軟服務異常通知，謊稱部分郵件將在24小時內遭到刪除，誘騙收件者點擊惡意連結",
+        "title": "面對AI加速攻擊，英國NCSC呼籲企業董事會應關切以主動威脅獵捕找出偵測缺口",
+        "link": "https://www.ithome.com.tw/news/180613",
+        "pubDate": "2026-11-18 15:46",
+        "description": "英國國家網路安全中心（NCSC）呼籲董事會重視組織的威脅獵捕能力，強調防禦人員不應只依賴可能快速變動的入侵指標（IoC），還應從攻擊者的戰術、技術與程序（TTP）著手，透過主動威脅獵捕（Threat Hunting）找出防禦缺口，並與面臨類似威脅的其他組織交流並汲取經驗",
         "source": "iThome資安"
       },
       {
-        "title": "微軟推出7款自研AI模型，以低價挑戰OpenAI及Anthropic",
-        "link": "https://www.ithome.com.tw/news/180590",
-        "pubDate": "2026-11-18  10:11:23",
-        "description": "微軟（Microsoft）周二（11/17）在Ignite 2026大會上宣布推出7款自研AI模型，涵蓋程式開發、網路安全、影像、語音及模型決策等領域，主打以接近OpenAI與Anthropic頂尖模型的效能，提供更低的使用成本。",
+        "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
+        "link": "https://www.ithome.com.tw/news/180615",
+        "pubDate": "2026-11-18 15:27",
+        "description": "電機設備製造商大同（2371）發布資安重訊，由子公司大同綜合訊電經營的購物網站e同購遭自動化攻擊及入侵，疑似有個資外洩情形，已緊急關閉網站及啟動資料事件應變作業",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月18日，Optimizely供應鏈攻擊波及BBC、GitLab、IKEA等178個組織網站，匯豐臺灣也名列其中",
+        "link": "https://www.ithome.com.tw/news/180612",
+        "pubDate": "2026-11-18 14:51",
+        "description": "資安研究員Scott Helme於11月16日緊急揭露一起針對網站體驗優化服務業者Optimizely的供應鏈攻擊事件，攻擊者利用漏洞在客戶專案中植入惡意JavaScript，導致178個組織的網站向訪客載入惡意程式，受影響組織包括BBC、IKEA、GitLab等知名企業與媒體，臺灣匯豐銀行的網站也列入受影響名單",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Perforce Puppet重大漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180611",
+        "pubDate": "2026-11-18 14:27",
+        "description": "本週美國網路安全與基礎設施安全局（CISA）表示，他們掌握基礎設施自動化與組態管理平臺Perforce Puppet重大漏洞CVE-2026-115731遭積極利用，將其加入已知遭利用漏洞名單（KEV）",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本理研系統被駭，外洩註冊用戶個資、憑證，迫使超級電腦Fugaku暫停運作",
+        "link": "https://www.ithome.com.tw/news/180610",
+        "pubDate": "2026-11-18 14:27",
+        "description": "日本理化學研究所（理研）證實，連結超級電腦富岳的系統遭駭客入侵，最多4,597名用戶的個資可能外洩，部分用戶儲存的存取憑證也面臨外洩風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Chrome 158正式推出，修補204個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180609",
+        "pubDate": "2026-11-18 12:52",
+        "description": "本週Google推出Chrome大改版158，總共修補204個漏洞，其中6個有重大風險、62個有高風險、其餘存在中度或低風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Node.js修補16個漏洞，包括可能導致伺服器當機與洩漏連線資料的HTTP/2漏洞",
+        "link": "https://www.ithome.com.tw/news/180608",
+        "pubDate": "2026-11-18 12:45",
+        "description": "Node.js存在多項HTTP/2與HTTPS相關問題，可能遭未經身分驗證的遠端攻擊者利用，造成服務中斷或記憶體資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安署揭露某機關平臺忘記帳號功能存在身分驗證漏洞，而被新增34組異常帳號",
+        "link": "https://www.ithome.com.tw/news/180607",
+        "pubDate": "2026-11-18 12:36",
+        "description": "資安署公布115年10月《資通安全網路月報》，當中揭露一起政府機關服務平臺的資安事件，該平臺「忘記帳號」功能存在身分驗證漏洞，導致系統誤判憑證驗證狀態，使攻擊者於未完成憑證驗證情況下，仍取得帳號維護權限，並用以新增34組異常帳號，所幸異常帳號的後續行動被攔阻，未釀成更大影響",
+        "source": "iThome資安"
+      },
+      {
+        "title": "N-able發布N-central重大安全更新，修補17個漏洞並強化身分驗證機制",
+        "link": "https://www.ithome.com.tw/news/180606",
+        "pubDate": "2026-11-18 12:11",
+        "description": "N-able於11月16日發布N-central 2026.4 Hotfix 3（HF3）安全更新，修補17個漏洞，涵蓋身分驗證繞過、權限控管不足、遠端命令執行及XML外部實體注入等問題，並強化Agent與Probe的身分驗證機制。N-able呼籲用戶，應儘速更新伺服器及代理程式等元件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Oracle發布11月例行更新，修補640個資安漏洞",
+        "link": "https://www.ithome.com.tw/news/180603",
+        "pubDate": "2026-11-18 11:35",
+        "description": "本週Oracle發布11月關鍵安全修補更新（CSPU），針對旗下21個產品家族共發布655個修補程式，修補640個漏洞，其中57個屬於重大等級",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Danfoss冷凍控制器傳出6個未修補漏洞，攻擊者可未經身分驗證遠端取得控制權",
+        "link": "https://www.ithome.com.tw/news/180602",
+        "pubDate": "2026-11-18 11:24",
+        "description": "荷蘭資安業者Midnight Blue在AK-SM800A控制器發現6個遠端程式碼執行漏洞，最新版韌體也未能修補，建議業者立即限制設備對外連線",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Databricks發表表格基礎模型運算平臺AI Runtime",
+        "link": "https://www.ithome.com.tw/news/180616",
+        "pubDate": "2026-11-18  03:11:53",
+        "description": "Databricks公布支援情境學習的表格式基礎模型（Tabular foundation model，TFM）運算平臺AI Runtime，讓企業用戶更容易上手免客製化訓練的預測模型\n企業許多珍貴的預測機器學習應用都仰賴表格資料，像是信用風險、客戶流失、需求預測和預測式維護，過去都需要企業為每種預測任務開發、訓練和維護模型。表格基礎模型（TFM）提供另一方法，它可以在未經特定訓練情況下，以新資料集進行預測。",
         "source": "iThome"
       },
       {
-        "title": "Redshift支援Iceberg資料表多陳述式交易，避免讀取未完成更新",
-        "link": "https://www.ithome.com.tw/news/180576",
-        "pubDate": "2026-11-18  09:11:53",
-        "description": "AWS擴充資料倉儲服務Amazon Redshift對Apache Iceberg資料表的支援，現已提供多陳述式交易、自動寫入衝突解決及時間旅行查詢（Time Travel Query）。使用者可將多次資料更新合併為單一交易提交，避免分析工作讀到尚未完成的更新結果，也能查詢特定時間點的歷史資料。",
-        "source": "iThome"
-      },
-      {
-        "title": "Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長",
-        "link": "https://www.ithome.com.tw/news/180587",
-        "pubDate": "2026-11-18  09:11:35",
-        "description": "Nvidia周二（11/17）公布截至10月25日的2027財年第三季財報，營收年增103%，同時宣布成立國安監督委員會。",
-        "source": "iThome"
-      },
-      {
-        "title": "Tor匿名網路遭DDoS攻擊，官方緊急更新IPv6防禦機制",
-        "link": "https://www.ithome.com.tw/news/180572",
-        "pubDate": "2026-11-17 18:42",
-        "description": "Tor網路持續遭DDoS攻擊，多數中繼營運者受到影響，Tor Project發布0.4.9.17安全更新，改以IPv6的/64網段辨識用戶端，降低攻擊者利用不同位址規避DoS防禦限制的可能性",
-        "source": "iThome資安"
-      },
-      {
-        "title": "奇偶科技示警影像監控軟體已知漏洞遭利用，Huntress揭露13家組織的設備遭挖礦攻擊",
-        "link": "https://www.ithome.com.tw/news/180574",
-        "pubDate": "2026-11-17 18:15",
-        "description": "奇偶科技近日發布資安通告，示警其GV-WebCam Server的已知漏洞正遭攻擊者鎖定攻擊，其目的是在用戶系統中部署加密貨幣挖礦程式，後續資安業者Huntress調查也發現，攻擊活動已波及13家不同產業組織",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apache Axis重大漏洞遭到利用，攻擊者藉此滲透Atlassian Confluence與N-able N-central",
-        "link": "https://www.ithome.com.tw/news/180573",
-        "pubDate": "2026-11-17 17:33",
-        "description": "資安公司Rapid7警告，本月初公布的SOAP網頁服務框架Apache Axis重大漏洞CVE-2026-90436遭到積極利用，攻擊者藉此對採用該元件的Atlassian Confluence及N-able N-central下手",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Firefox版uBlock Origin修補XSS漏洞，惡意規則可跨網站執行JavaScript",
-        "link": "https://www.ithome.com.tw/news/180570",
-        "pubDate": "2026-11-17 16:49",
-        "description": "Firefox版uBlock Origin的元素選取器存在驗證缺陷，惡意網站可誘使使用者新增過濾規則，在其他網站執行JavaScript，漏洞現已修補，建議使用者更新至最新版",
-        "source": "iThome資安"
-      },
-      {
-        "title": "N-central零時差漏洞4EverAble2Shell遭到利用，攻擊者試圖從事挖礦活動",
-        "link": "https://www.ithome.com.tw/news/180571",
-        "pubDate": "2026-11-17 16:41",
-        "description": "威脅情報公司Previdian、Huntback發現，在研究人員公布N-central零時差漏洞4EverAble2Shell數個小時後，已有攻擊者將其用於實際攻擊，於21臺N-central伺服器植入門羅幣挖礦程式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "德國研究揭露AI開發平臺Lovable用戶開發的應用程式，至少7千多個資料庫存在權限設定不當問題",
-        "link": "https://www.ithome.com.tw/news/180567",
-        "pubDate": "2026-11-17 16:29",
-        "description": "Vibe Coding雖夯，但基本資安風險防護不容忽視。德國應用程式安全業者Crissy Field與當地媒體Handelsblatt於11月公布一項聯合調查，透過分析超過15萬個透過AI開發平臺Lovable建立的專案，發現其中逾7千個網站的資料庫存在存取權限設定缺失，未登入的外部人士也能讀取原本不應公開的資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露N-central零時差漏洞4EverAble2Shell、Agent2Shell",
-        "link": "https://www.ithome.com.tw/news/180569",
-        "pubDate": "2026-11-17 15:47",
-        "description": "在N-able緊急修補N-central零時差漏洞Able2Shell部分內容後，資安研究員Sean Bales公布兩組新漏洞4EverAble2Shell、Agent2Shell，並強調能在最新的2026.4 HF2版N-central利用",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月17日，國家級駭客組織SilentAir鎖定臺灣等十多個國家的手機用戶，濫用電信訊號攔截簡訊與通話",
-        "link": "https://www.ithome.com.tw/news/180566",
-        "pubDate": "2026-11-17 15:00",
-        "description": "電信資安公司Enea揭露國家級駭客SilentAir的攻擊活動，該組織長期利用遭入侵的電信業者網路節點攻擊全球多國手機用戶，臺灣是其主要目標",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenAI開放4家外部機構進駐，深入檢驗AI模型安全性",
-        "link": "https://www.ithome.com.tw/news/180565",
-        "pubDate": "2026-11-17 14:49",
-        "description": "OpenAI找來Apollo Research、METR等4家獨立機構，深入調查AI模型是否可能欺騙人類、暗中違背開發者意圖，以及現有監控機制能否及時發現異常行為",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本無印良品109萬筆信用卡資料恐遭存取，完整卡號未遮罩、未加密且逾期未刪",
-        "link": "https://www.ithome.com.tw/news/180562",
-        "pubDate": "2026-11-17 14:03",
-        "description": "日本無印良品資安事故持續引發關注，隨著營運商良品計畫持續公布影響範圍與最新發現，該公司並在11月12日記者會說明內部多項資安管理缺失，包括原本應在2021年刪除的完整信用卡號碼仍留存在系統中，且未經遮罩處理、未加密儲存，部分已退會會員資料也未完整刪除，以及網路商店登入機制未導入多因素驗證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "500大超級電腦排名前十名不變，新系統數量創新低，並呈現AI工廠正在改寫GPU算力流向的趨勢",
-        "link": "https://www.ithome.com.tw/news/180575",
-        "pubDate": "2026-11-17  06:11:37",
-        "description": "全球最新500大超級電腦排名出爐，全球最快超級電腦排名呈現罕見穩定局面，前10名與今年6月排行榜相比沒有變化。",
+        "title": "Green500排名GH200成節能超級電腦主流架構，前十近半數採用",
+        "link": "https://www.ithome.com.tw/news/180614",
+        "pubDate": "2026-11-18  03:11:05",
+        "description": "最新的2026年11月Green500顯示，全球超級電腦的競爭從單純追求運算效能，逐漸延伸至能源效率。與TOP500比較最快超級電腦不同，Green500以每瓦可提供多少運算效能（GFLOPS/W）作為排名依據，反映超級電腦在AI時代兼顧高效能與低功耗的能力。\n這次Green 500榜單中，前十名與上一次在今年6月公布的名次不變，其中Nvidia Grace Hopper（GH200）平臺包辦前四名，每瓦效能介於68到73.2GFlops之間，第一名為法國的KAIROS，每瓦效能以73.2GFl",
         "source": "iThome"
       }
     ],
     "cn_tech": [
+      {
+        "title": "GM 擬擴大工廠自動化 20%，供應商自動化計畫也納入採購評分",
+        "link": "https://techorange.com/2026/11/18/general-motors-autos-transportation-gm-plans-boost-robotics-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 17:22:16 +0800",
+        "description": "《Reuters》近日引述兩名知情人士報導，美國車廠通用汽車（General Motors，GM）計畫在 2028 年前，將北美工廠的機器人及其他自動化技術使用量提高 20%。GM 目前正面臨人力成本與生產回流美國的成本雙雙上升。 上述知情人士與另外兩名消息人士透露，這家底特律車廠正自行研發機器人，並在印第安納州科科莫（Kokomo）的工廠組裝，目前重點放在以自主移動機器人（autonomous mobile robots，AMR）在廠內運送零件。這項 20% 的自動化目標，以及在印第安納州生產",
+        "source": "TechOrange"
+      },
+      {
+        "title": "新北電商學院陪跑 21 家企業，加速數位轉型拓商機",
+        "link": "https://techorange.com/2026/11/18/ntpcec-21-seo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 16:25:15 +0800",
+        "description": "企業投入電商後，常遇到工具很多卻不知道從哪裡開始，或已完成網站與商品上架，卻仍找不到穩定流量與轉單方法。新北市政府經濟發展局 115 年度持續推動「新北電商學院」，提供電商諮詢、培訓課程及進階專案輔導三大服務。今年電商培訓系列課程共吸引 751 人次參與，並完成 51 案諮詢輔導與 21 家企業進階輔導。 面對企業在不同發展階段的多元挑戰，三項服務相互銜接：先透過一對一諮詢，協助企業盤點商品、客群、通路及行銷問題；搭配網路開店、社群轉單、數據分析、SEO 與 AI 搜尋、跨境平台及品牌經營等培訓",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 寫程式越來越快，驗證變得更重要：微軟 CEO 談「軟體工廠」新模式",
+        "link": "https://techorange.com/2026/11/18/ai-code-verification-operations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 16:21:46 +0800",
+        "description": "AI 寫程式的能力突飛猛進，開發者只需幾分鐘，就能生成過去需要數天才能完成的功能。然而，當「產出程式碼」變得快速又低成本，軟體產業與工程師卻迎來了另一個更棘手的難題：軟體上線後的穩定度下降、維運排查耗時，以及對 AI 自主行動的資安疑慮。 微軟執行長 Satya Nadella 近期在深度訪談中，以微軟內部的Azure 網路團隊為例，分享了他心目中的「軟體工廠」藍圖，並解釋為什麼規格制定與驗證變得越來越重要，以及負責像是 Windows 作業系統這類型核心產品的團隊可以如何調適。此外，探討企業為",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
+        "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 14:36:13 +0800",
+        "description": "《Reuters》11/17 獨家報導，該社審閱逾 300 份中國學術論文、專利、企業揭露資料、徵才公告與政府文件後發現，中國機構正以愈來愈精細的方式，用美國領先 AI 模型的輸出訓練本土的競爭模型；這種稱為蒸餾（distillation）的做法，已從學術實驗擴大為主流產業應用。《Reuters》分析，這可能削弱美國晶片出口管制的效果，而華府在美國時間 11/16 才表示，將進一步限制中國取得 NVIDIA 等公司的先進晶片。 蒸餾本身並不違法，在世界其他地方也很普遍。它無法複製領先模型的完整能",
+        "source": "TechOrange"
+      },
+      {
+        "title": "「AI 要能跨部門複製與持續營運。」Dell AI 服務助企業打破 POC 負循環",
+        "link": "https://techorange.com/2026/11/18/dell-ai-advisory-workshop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 14:34:30 +0800",
+        "description": "企業陸續建置的內部知識庫、Chatbot 或 AI Agent 等應用，如何順利融入日常工作流程並創造實際價值？Dell Technologies 服務銷售部服務業務協理劉芷伶日前在 TechOrange 科技報橘舉辦的「AI Innovation Day：2027 AI 創新日」論壇中指出，2026 年 AI 競爭的焦點，正由單點 POC 轉向平台化與持續營運，企業導入 AI 不只要證明模型做得到，更要能跨部門複製，並持續治理、優化與擴充。 劉芷伶首先分析 AI 導入遇到五大挑戰，包含：應用場",
+        "source": "TechOrange"
+      },
+      {
+        "title": "黃仁勳請辭後，NVIDIA 新設國安與出口管制委員會：美方追查的新加坡轉運漏洞怎麼來？",
+        "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 12:47:13 +0800",
+        "description": "NVIDIA 共同創辦人黃仁勳因私人關係引發國安疑慮後，於美國時間 11/12 辭去總裁、執行長與董事職務。不到一週，NVIDIA 董事會 11/17 宣布成立常設的「國家安全與出口管制監督委員會」。《Reuters》指出，這是黃仁勳離職後，NVIDIA 的第一項重大治理調整；國會議員也準備詢問曾力推擴大對中國出口晶片的黃仁勳。 不過據《CNN》報導，也有官員認為外界聚焦黃仁勳與中國政府的關係，反而模糊了更大的問題：美國政府未能有效遏止 AI 競賽關鍵技術轉運中國。當 NVIDIA 把出口管制合",
+        "source": "TechOrange"
+      },
+      {
+        "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 成本達 Claude Opus 5.5 的 96% 效能",
+        "link": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 11:58:40 +0800",
+        "description": "微軟（Microsoft）近日在年度技術大會 Ignite 上，發表一系列專用 AI 模型，涵蓋程式開發、資安與影像生成，《Decrypt》形容這是直接向 Anthropic 與 OpenAI 叫陣。微軟並非要打造一款樣樣都贏的聊天機器人，而是主打針對特定工作訓練的模型，以大幅降低的成本完成任務。 微軟董事長暨執行長納德拉（Satya Nadella）在開幕演講中表示：「對我們來說，重點是以最佳的經濟效益，將合適的智慧對應到特定任務。」他指出，自家 MAI 模型家族在預訓練階段講求運算效率，產品",
+        "source": "TechOrange"
+      },
       {
         "title": "【個人 AI 代理還進不了公司】資安與成本風險未解，企業版代理人才是可行路徑",
         "link": "https://techorange.com/2026/11/18/personal-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -192,58 +227,65 @@
         "pubDate": "Tue, 17 Nov 2026 16:00:09 +0800",
         "description": "阿里巴巴 11/16 發表新旗艦模型 Qwen4-Max，稱它是千問（Qwen）家族迄今能力最強的模型。阿里巴巴依自家測試指出，和前代 Qwen3.8-Max 相比，Qwen4-Max 每項任務的平均成本降低約六成；官方也拿它和 Anthropic、OpenAI 的旗艦模型比較，16 項測試中有 6 項領先 Claude Opus 5.5。 阿里巴巴主打的，不只是每百萬 token 的單價，而是完成一項任務要花多少錢。不過，廠商在自家測試中算出的成本，能不能代表企業實際拿到的帳單？企業評估或更換",
         "source": "TechOrange"
-      },
-      {
-        "title": "美國堵中國企業遠端租 GPU：AI 晶片出口新加坡、馬來西亞等 5 國改採許可制",
-        "link": "https://techorange.com/2026/11/17/us-curbs-remote-access-ai-chips/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 12:55:42 +0800",
-        "description": "美國商務部產業與安全局（BIS）美國時間 11/16 公布一項暫行最終規則（interim final rule），先進 AI 晶片出口到新加坡、馬來西亞、泰國、印尼與巴西，改為需要許可證；服務中國企業、算力規模龐大的資料中心，也被納入許可管理。商務部表示，規則是要確保美國敏感技術的既有限制，「不會透過涉及第三國資料中心的遠端運算安排被規避」。 據《Bloomberg》報導，新規在 NVIDIA 據稱捲入間諜疑雲、美國晶片出口管制受到更多檢視之際推出，距黃仁勳辭去 NVIDIA 執行長僅數日。黃",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Google 首度發現 AI 自動化攻擊：無人介入就能從修補程式反推漏洞、發動攻擊",
-        "link": "https://techorange.com/2026/11/17/threat-intelligence-agentic-threat-activity-crosses-significant/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 12:17:48 +0800",
-        "description": "Google 旗下威脅情報小組（Google Threat Intelligence Group，GTIG）近日發布最新一期 AI 威脅追蹤報告（GTIG AI Threat Tracker），指出該小組首度觀察到，攻擊者在完全無人介入的情況下，利用 AI 框架從軟體安全修補程式反推出漏洞攻擊程式。GTIG 表示，越來越多攻擊者從單純對 AI 下指令，轉向部署自主多代理框架與自動化漏洞利用流程，AI 遭惡意利用的威脅態勢已來到關鍵轉折點。 《SiliconANGLE》指出，GTIG 在兩個月前的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【AI 擅長新增，還不擅長刪除】工程師提醒，清理 AI 生成的程式碼仍需人類判斷",
-        "link": "https://techorange.com/2026/11/17/coding-ai-agent-terrible-at-deleting/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 09:40:57 +0800",
-        "description": "雖然 AI 擅長撰寫程式碼，卻不擅長刪除程式碼。當 AI 代理不斷處理軟體開發過程中的改變，AI 生成的程式碼也開始變得令工程師難以掌握，導致人類面對多種處理邏輯花費更多心力。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【別期待 AI 上線就完美】把 AI 代理當新人，企業須指定負責人、培養主管的管理能力",
-        "link": "https://techorange.com/2026/11/17/ai-agent-like-a-new-hire/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 09:40:47 +0800",
-        "description": "多數企業導入 AI 時，仍沿用採購軟體的邏輯，完成安裝與設定後就預期系統從上線第一天起能依指令穩定運作；當輸出結果與預期有落差，或在特定流程中出現斷點，團隊的挫折感便迅速累積，對新系統的投入意願也隨之降低。 結果導入專案還沒進入實際應用階段，採用率就已經開始下滑。 生命科學品質與法規合規解決方案商 Dot Compliance 的創辦人暨執行長 Doron Sitbon 認為，這種挫敗感多半來自期待錯位，技術本身未必有缺陷。換個情境想，沒有人會要求新進員工第一天就熟悉所有流程。我們會給他時間學習",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「AI 的下一階段，不是更會回答，而是更會工作。」昕力資訊助企業重塑 AI-first 流程",
-        "link": "https://techorange.com/2026/11/17/tpisoftware-ai-first-workflow/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 09:35:39 +0800",
-        "description": "在多數企業場景中，員工常請 AI 撰寫信件、摘要文件、生成簡報內容或搜尋資料，但各項任務之間仍維持原有的碎片化流程，人員必須反覆向 AI 提問、確認結果並再次追問。身為 OpenAI Select Partner 的昕力資訊（TPIsoftware）AI 策略規劃師許智庭在 TechOrange 科技報橘日前舉辦的「AI Innovation Day：2027 AI 創新日」論壇中指出，「AI 用得很多，但好像感覺工作沒有比較有效率。」關鍵在於企業工作流程是停留在 AI-enabled，還是走向",
-        "source": "TechOrange"
-      },
-      {
-        "title": "機器人的「Wintel」還沒出現，誰來主導標準？鴻海：台灣這次有資源參與，中光電：力量仍分散",
-        "link": "https://techorange.com/2026/11/17/foxconn-circ-robotics-wintel-standard/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 08:10:00 +0800",
-        "description": "專訪：沈貝怡撰稿：張哲瑋 1981 年 IBM 推出個人電腦，處理器與作業系統都來自別家公司，卻因開放架構帶出 Intel 處理器搭配微軟 Windows 的「Wintel」時代。《全新一週》在 2026 鴻海科技日主舞台現場錄製本集，主持人沈貝怡以這段歷史開場：台灣是 PC 產業最大的受益者，但機器人產業從硬體規格、資料傳輸到 AI 模型都還沒有統一標準，每台機器人幾乎都是客製化。 本集邀請鴻海集團 C 事業群負責人兼總經理、廣宇董事長李光曜，與中光電智能機器人總經理謝啟堂對談。李光曜在集團負",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】SK 海力士 5 年砸 1.4 兆韓元！打造共用驗證設施，半導體供應鏈競爭升溫",
-        "link": "https://techorange.com/2026/11/17/sk-hynix-semiconductor-supplier-support-trinity-fab/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊SK 海力士 5 年投入 1.4 兆韓元！打造共用驗證設施扶植半導體供應商 南韓 SK 海力士 11 月 16 日宣布，將在未來 5 年投入約 1.4 兆韓元，扶植本土半導體材料、零組件與設備供應商，支援範圍從研發、測試延伸至量產與銷售。除了提供測試資源，公司還規劃預先負擔部分研發費用，即使專案未達目標，也可依技術成果評估給予補償。這項布局意在降低中小廠商的開發風險，強化 AI 記憶體需求成長下的供應韌性。 另一項關鍵布局是龍仁半導體園區的 T",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
+        "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
+        "pubDate": "Wed, 18 Nov 2026 13:54:31 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabili",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
+        "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
+        "pubDate": "Wed, 18 Nov 2026 13:54:23 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+        "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+        "pubDate": "Wed, 18 Nov 2026 12:15:26 +0530",
+        "description": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
+        "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
+        "pubDate": "Wed, 18 Nov 2026 11:28:04 +0530",
+        "description": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.\n\nGoogle's Man",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
+        "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
+        "pubDate": "Wed, 18 Nov 2026 09:57:41 +0530",
+        "description": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Ja",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
+        "pubDate": "Wed, 18 Nov 2026 05:35:05 -0500",
+        "description": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft announces Windows Server 2028 with hardened security",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
+        "pubDate": "Wed, 18 Nov 2026 04:24:31 -0500",
+        "description": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "British Scattered Spider hacker sentenced to 6 years in prison",
+        "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
+        "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500",
+        "description": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
+        "source": "BleepingComputer"
+      },
       {
         "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
         "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
@@ -327,65 +369,23 @@
         "pubDate": "Tue, 17 Nov 2026 13:21:24 -0500",
         "description": "A Lack of ownership verification on the Hugging Face platform allowed researchers to take control of Kokoro, a text-to-speech model used in projects from Google, NVIDIA, AMD, Intel, and Amazon Web Services. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Tor releases emergency update amid ongoing DDoS attack",
-        "link": "https://www.bleepingcomputer.com/news/security/tor-releases-emergency-update-amid-ongoing-ddos-attack/",
-        "pubDate": "Tue, 17 Nov 2026 13:04:15 -0500",
-        "description": "The Tor Project has released a security update for its network relay software to increase defenses against an ongoing distributed denial-of-service attack that it says has overwhelmed relays and affected most operators. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-        "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-        "pubDate": "Tue, 17 Nov 2026 12:42:13 +0530",
-        "description": "An attacker exploited a flaw in Optimizely Web Experimentation to plant malicious code in some of the scripts that customers' websites load from the service, Optimizely said early today.\n\nVisitors to sites run by at least 178 organizations, including",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-        "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-        "pubDate": "Tue, 17 Nov 2026 11:59:27 +0530",
-        "description": "ConnectWise on Monday said it completed its investigation into unauthorized access targeting partner ScreenConnect environments, and recommended customers to ensure that the technician client is running version 26.6.5 or later.\n\nThe company said addi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Flipper Devices launches $399 ‘Flipper One’ Linux-based multi-tool",
-        "link": "https://www.bleepingcomputer.com/news/hardware/flipper-devices-launches-399-flipper-one-linux-based-multi-tool/",
-        "pubDate": "Tue, 17 Nov 2026 11:00:00 -0500",
-        "description": "Flipper Devices, the company behind the popular Flipper Zero pentesting device, has launched a crowdfunding campaign for Flipper One, a portable Linux computer and networking multi-tool. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-        "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-        "pubDate": "Tue, 17 Nov 2026 10:30:34 +0530",
-        "description": "N-able has released a new security update to address additional critical security flaws impacting N-central.\n\nDescribing N-central 2026.4 Hotfix 3 as a critical security update, the company said it includes a number of security patches and fixes that",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Inside Modern Phishing Kits Built to Steal Microsoft 365 Sessions",
-        "link": "https://www.bleepingcomputer.com/news/security/inside-modern-phishing-kits-built-to-steal-microsoft-365-sessions/",
-        "pubDate": "Tue, 17 Nov 2026 10:01:11 -0500",
-        "description": "Huntress researchers break down how EvilTokens, Knight Office, and Kali365 capture and replay M365 tokens, plus how defenders can detect and contain them.  [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft testing Remote Lock for lost or stolen Windows devices",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-remote-lock-for-lost-or-stolen-windows-devices/",
-        "pubDate": "Tue, 17 Nov 2026 06:19:51 -0500",
-        "description": "Microsoft is testing a new feature that lets enterprise IT administrators remotely lock stolen or lost Windows devices without wiping them. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Court clears brothers of $25 million Ethereum crypto heist charges",
-        "link": "https://www.bleepingcomputer.com/news/security/court-clears-brothers-of-25-million-ethereum-crypto-heist-charges/",
-        "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500",
-        "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+        "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000",
+        "description": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "China dominates battery graphite, but this startup could break the monopoly",
+        "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
+        "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
+        "description": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
         "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
@@ -478,20 +478,6 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
-        "link": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/",
-        "pubDate": "Tue, 17 Nov 2026 18:48:23 +0000",
-        "description": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "As decision model use skyrockets, is customization the next frontier?",
-        "link": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
-        "pubDate": "Tue, 17 Nov 2026 18:10:00 +0000",
-        "description": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
-        "source": "TechCrunch"
-      },
-      {
         "title": "Satya Nadella says he’s AGI-pilled now",
         "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
         "pubDate": "2026-11-17T18:41:18-05:00",
@@ -559,6 +545,16 @@
         "products": "Oracle Products"
       },
       {
+        "title": "[Security Blog] Series of Cybersecurity Incidents Affecting Hong Kong Organisations: HKCERT Urges Organisations to Strengthen Data Risk Management",
+        "link": "https://www.hkcert.org/blog/series-of-cybersecurity-incidents-affecting-hong-kong-organisations-hkcert-urges-organisations-to-strengthen-data-risk-management",
+        "pubDate": "Wed, 18 Nov 2026 00:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "[Security Blog] Series of Cybersecurity Incidents Affecting Hong Kong Organisations: HKCERT Urges Organisations to Strengthen Data Risk Management"
+      },
+      {
         "title": "Check Point Products Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/check-point-products-multiple-vulnerabilities_20261117",
         "pubDate": "Tue, 17 Nov 2026 11:00:00 +0800",
@@ -607,16 +603,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Citrix XenServer"
-      },
-      {
-        "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Ubuntu Linux Kernel"
       },
       {
         "title": "Microsoft Edge Multiple Vulnerabilities",
