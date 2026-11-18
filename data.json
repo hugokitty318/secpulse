@@ -1,7 +1,63 @@
 {
-  "ts": "2026-11-17T20:49:59.271512Z",
+  "ts": "2026-11-18T02:51:50.466073Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Mozilla發布Firefox 160.0.1，緊急修補兩個高風險漏洞",
+        "link": "https://www.ithome.com.tw/news/180591",
+        "pubDate": "2026-11-18 10:41",
+        "description": "Mozilla相隔7天再發布Firefox瀏覽器更新，修補涉及音訊與視訊播放與Android版CanvasWebGL元件的漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google揭駭客利用多代理AI框架發動攻擊，另有工具可自動發掘及利用漏洞",
+        "link": "https://www.ithome.com.tw/news/180563",
+        "pubDate": "2026-11-18 08:00",
+        "description": "Google威脅情報團隊發現，駭客已將多代理AI框架用於系統偵察、漏洞掃描等攻擊活動，另有攻擊者打造可在無須人工介入的情況下，自動分析軟體修補前後的程式碼、發掘漏洞並執行漏洞利用程式的工具",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI加速嵌入式設備漏洞挖掘，研究人員90小時找出66項TCP/IP協定堆疊新漏洞",
+        "link": "https://www.ithome.com.tw/news/180564",
+        "pubDate": "2026-11-18 08:00",
+        "description": "網路安全業者Forescout利用現成AI模型搭配分析工具，針對10套嵌入式TCP/IP協定堆疊進行研究，發現的新漏洞有52%屬重大或高風險。研究成果顯示AI有助加快漏洞挖掘速度",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Arara郵件服務遭駭，日本大阪市確認逾107萬筆電子郵件地址外洩",
+        "link": "https://www.ithome.com.tw/news/180555",
+        "pubDate": "2026-11-18 08:00",
+        "description": "日本大阪市行政線上系統逾107萬筆電子郵件地址，因Arara郵件服務遭駭而外洩。這起事件最多波及約380家企業客戶，另有攻擊者利用遭入侵的服務發送大量可疑郵件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客利用Microsoft 365當機事件發動釣魚攻擊，謊稱郵件將遭刪除誘騙點擊連結",
+        "link": "https://www.ithome.com.tw/news/180577",
+        "pubDate": "2026-11-18 08:00",
+        "description": "駭客假借Microsoft 365全球服務中斷事故發動大規模網路釣魚攻擊，冒充微軟服務異常通知，謊稱部分郵件將在24小時內遭到刪除，誘騙收件者點擊惡意連結",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟推出7款自研AI模型，以低價挑戰OpenAI及Anthropic",
+        "link": "https://www.ithome.com.tw/news/180590",
+        "pubDate": "2026-11-18  10:11:23",
+        "description": "微軟（Microsoft）周二（11/17）在Ignite 2026大會上宣布推出7款自研AI模型，涵蓋程式開發、網路安全、影像、語音及模型決策等領域，主打以接近OpenAI與Anthropic頂尖模型的效能，提供更低的使用成本。",
+        "source": "iThome"
+      },
+      {
+        "title": "Redshift支援Iceberg資料表多陳述式交易，避免讀取未完成更新",
+        "link": "https://www.ithome.com.tw/news/180576",
+        "pubDate": "2026-11-18  09:11:53",
+        "description": "AWS擴充資料倉儲服務Amazon Redshift對Apache Iceberg資料表的支援，現已提供多陳述式交易、自動寫入衝突解決及時間旅行查詢（Time Travel Query）。使用者可將多次資料更新合併為單一交易提交，避免分析工作讀到尚未完成的更新結果，也能查詢特定時間點的歷史資料。",
+        "source": "iThome"
+      },
+      {
+        "title": "Nvidia營收翻倍，黃仁勳首度表態願回任Nvidia執行長",
+        "link": "https://www.ithome.com.tw/news/180587",
+        "pubDate": "2026-11-18  09:11:35",
+        "description": "Nvidia周二（11/17）公布截至10月25日的2027財年第三季財報，營收年增103%，同時宣布成立國安監督委員會。",
+        "source": "iThome"
+      },
       {
         "title": "Tor匿名網路遭DDoS攻擊，官方緊急更新IPv6防禦機制",
         "link": "https://www.ithome.com.tw/news/180572",
@@ -73,48 +129,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "駭客利用AI自動化漏洞研究，遭到利用的零時差漏洞一個月爆增至22個",
-        "link": "https://www.ithome.com.tw/news/180561",
-        "pubDate": "2026-11-17 12:32",
-        "description": "Google威脅情報團隊（GTIG）警告，駭客借助AI自動化研究漏洞與開發利用工具，已從實驗階段轉向實際應用。攻擊者分析軟體修補前後的程式碼差異、尋找潛在漏洞及產生攻擊程式碼，甚至在無須人工介入的情況下執行漏洞攻擊，大幅縮短漏洞公開至遭武器化利用的時間",
-        "source": "iThome資安"
-      },
-      {
-        "title": "公開網路上存在逾3,800個AI攻擊框架執行個體，臺灣也有20個",
-        "link": "https://www.ithome.com.tw/news/180560",
-        "pubDate": "2026-11-17 12:28",
-        "description": "Shadowserver辨識出ARTEX、CyberStrike等多種AI自主攻擊框架的執行個體部署，美國、中國及香港的數量居前",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國加強AI晶片出口管制，限制中國等國家透過海外資料中心取得算力",
-        "link": "https://www.ithome.com.tw/news/180558",
-        "pubDate": "2026-11-17 11:34",
-        "description": "美國商務部擴大先進AI晶片出口管制，不只限制晶片實體出口，也將海外資料中心提供的遠端算力服務納入管制，防止中國、澳門等受管制地區透過第三國取得美國先進運算資源",
-        "source": "iThome資安"
-      },
-      {
-        "title": "漏洞濫用速度加快，Anthropic將重大漏洞揭露靜默期由90天縮短為30天",
-        "link": "https://www.ithome.com.tw/news/180557",
-        "pubDate": "2026-11-17 11:30",
-        "description": "隨著AI加快漏洞發現及重複發現速度，Anthropic宣布調整協調漏洞揭露政策，自2027年1月1日起，高度及重大嚴重性漏洞的揭露期限將從90天縮短為30天，其他漏洞則縮短為45天",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國多家銀行App傳出服務異常，JP摩根表示內部系統軟體臭蟲造成交易延遲",
-        "link": "https://www.ithome.com.tw/news/180556",
-        "pubDate": "2026-11-17 11:24",
-        "description": "異常通報涉及美國銀行、富國銀行及美國合眾銀行等業者，JP摩根表示客戶仍可存取帳戶與資金，Zelle支付網路也維持正常運作",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apple調整macOS App權限管理，27.3測試版開始可限制存取範圍",
-        "link": "https://www.ithome.com.tw/news/180559",
-        "pubDate": "2026-11-17  12:11:08",
-        "description": "Apple在macOS 27.3 beta 2加入更細緻的應用程式授權機制，當部分App要求完整磁碟存取或控制其他應用程式時，使用者可限定開放的資料夾與App，不必直接授予廣泛的系統存取權。新版也允許使用者設定App每次控制其他程式前先取得同意，並在App控制其他程式時顯示狀態提示，讓使用者更清楚App取得的權限。",
-        "source": "iThome"
-      },
-      {
         "title": "500大超級電腦排名前十名不變，新系統數量創新低，並呈現AI工廠正在改寫GPU算力流向的趨勢",
         "link": "https://www.ithome.com.tw/news/180575",
         "pubDate": "2026-11-17  06:11:37",
@@ -123,6 +137,41 @@
       }
     ],
     "cn_tech": [
+      {
+        "title": "【個人 AI 代理還進不了公司】資安與成本風險未解，企業版代理人才是可行路徑",
+        "link": "https://techorange.com/2026/11/18/personal-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 10:34:14 +0800",
+        "description": "AI 代理人已經能替使用者處理生活瑣事，甚至代為議價、談方案。但當員工想把同樣的工具帶進公司，連上工作信箱與企業系統，問題就沒那麼簡單。 個人代理人與聊天機器人有本質差異 Muse、Instinct，以及 ChatGPT 開發商 OpenAI 推出的 Dots 等個人代理人，有潛力徹底改變人們與各種系統互動的方式，不論是消費或商業用途。 客服軟體公司 Zendesk 執行長 Tom Eggemeier 近期受訪時就分享，社群平台巨頭 Meta 推出的個人代理人 Muse，5 天內幫他省下 3,1",
+        "source": "TechOrange"
+      },
+      {
+        "title": "ChatGPT 推薦後的品牌造訪，僅 8.8% 從 AI 點擊進站：IAB「歸因藍圖」先定義誰能爭功",
+        "link": "https://techorange.com/2026/11/18/iab-ai-era-attribution-blueprint/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 09:30:29 +0800",
+        "description": "美國互動廣告局（IAB）於美國時間 11/12 發布《AI 時代歸因藍圖》（AI-Era Attribution Blueprint），指出 AI 涉入的成交沒有從報表上消失，而是常被記到錯的來源。IAB 在報告中引用 Similarweb 的追蹤數據，收到 ChatGPT 品牌推薦的美國桌機用戶，之後 7 天內造訪該品牌網站的流量，只有 8.8% 是從 AI 點擊進站，過半仍來自搜尋。 歸因（attribution）是判斷一筆成交的功勞（credit）該算在哪個廣告或管道頭上，也決定下一筆預算",
+        "source": "TechOrange"
+      },
+      {
+        "title": "巨輪興業攜手台達打造高彈性、高整合、高擴充數位製造架構",
+        "link": "https://techorange.com/2026/11/18/delta-juluen-pcba-diamom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 09:13:29 +0800",
+        "description": "一輛救護車從街上疾駛而過，車頂閃爍的警示燈與警報器，提醒周遭用路人注意、及時讓道，這是多數人再熟悉不過的情境。但鮮少有人注意的是，這些看似規格明確的車用設備，會因不同國家的法規、車種與使用情境而有不同需求。位於新北土城的巨輪興業(以下簡稱巨輪)工廠，組裝產線換線頻率高，正反映出警示設備少量多樣的產業特性。 PCBA 轉向自主製造 帶動巨輪新一波數位管理升級 成立於 1990 年的巨輪，長期深耕車用電子與安全警示系統，產品涵蓋警示燈、警報器及整車控制系統，應用於警車、消防車、救護車及其他特殊用途車",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【劉永信專欄】11/18 飛出人類第一個「一光日」，為什麼你該認識這艘最孤獨太空船？",
+        "link": "https://techorange.com/2026/11/18/1118-nasa-lightday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 09:13:24 +0800",
+        "description": "對很多人來說，11 月 18 日沒有什麼特殊的意義。但就在今年的 11 月 18 日，一艘 1977 年發射的太空船，成為人類史上第一個距離地球「一光日」（Light-day）的物體。 一光日，大概是 259 億公里，是光走一天的距離。「航海家 1 號」這艘太空船整整飛了 49 年又 2 個月。當年 NASA 給它的任務是飛過木星和土星，拍照、傳資料回來；而當時的工程師在設計時，想的是在沒人能上太空維修的情況下，怎麼讓它撐過幾十年？ 就在大家快忘記它的這個時候，我想特別寫一篇文章，跟大家聊聊它真",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】加州起訴 OpenAI！檢方指 AI 代理測試至少 80 次失控",
+        "link": "https://techorange.com/2026/11/18/openai-california-ai-agent-lawsuit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Wed, 18 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 遭加州起訴，AI 代理安全責任走上法庭 美國加州檢察長邦塔（Rob Bonta）11 月 16 日向舊金山州法院起訴 OpenAI，指控公司在研發與測試自主 AI 代理時，缺乏足夠安全防護與監控，涉嫌違反加州《不公平競爭法》及造成公共危害。檢方以今年 7 月 Hugging Face 平台遭實驗性代理入侵為例，並稱 OpenAI 在測試期間至少 80 次失去對自主代理的控制。檢方要求法院介入安全管理並追究相關責任；這些指控尚未經法",
+        "source": "TechOrange"
+      },
       {
         "title": "a16z、Clay 都設「生態系」職位：AI 內容越多，新創與創投為何越重視真人關係？",
         "link": "https://techorange.com/2026/11/17/business-tech-jobs-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -192,41 +241,6 @@
         "pubDate": "Tue, 17 Nov 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊SK 海力士 5 年投入 1.4 兆韓元！打造共用驗證設施扶植半導體供應商 南韓 SK 海力士 11 月 16 日宣布，將在未來 5 年投入約 1.4 兆韓元，扶植本土半導體材料、零組件與設備供應商，支援範圍從研發、測試延伸至量產與銷售。除了提供測試資源，公司還規劃預先負擔部分研發費用，即使專案未達目標，也可依技術成果評估給予補償。這項布局意在降低中小廠商的開發風險，強化 AI 記憶體需求成長下的供應韌性。 另一項關鍵布局是龍仁半導體園區的 T",
         "source": "TechOrange"
-      },
-      {
-        "title": "美國擬公布 AI 出口支持名單：NVIDIA 等 20 多家企業傳入選，可望獲哪些政府資源？",
-        "link": "https://techorange.com/2026/11/16/trump-administration-to-name-nvidia-ai-national-champions/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 16:32:27 +0800",
-        "description": "《華爾街日報》（The Wall Street Journal）近日引述知情人士報導，川普政府將把 NVIDIA、Amazon、微軟（Microsoft）、OpenAI 與 Anthropic 等 20 多家企業列為 AI「國家級冠軍企業」（National Champions）。這項計畫是川普政府協助美國 AI 業者爭取海外商機的一環，目的是讓海外企業與各國選擇採用美國 AI 技術，而非中國競爭對手的產品。 名單預計在未來一週內公布，並由美國商務部長盧特尼克（Howard Lutnick）宣布",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「Demo 可行不等於可生產。」Dell 以供應鏈思維助製造業打造可重複運行的 AI Factory",
-        "link": "https://techorange.com/2026/11/16/dell-ai-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 15:58:30 +0800",
-        "description": "「AI 專案的瓶頸，通常不是模型，」戴爾科技集團 Dell Technologies 資深業務協理吳靜怡日前於 TechOrange 科技報橘與美國高通公司 Qualcomm 共同主辦的「2026 AI 智慧大工廠」新竹場論壇中指出，「真正困難的是把 AI demo 變成每天穩定運作的生產服務。」 企業發展 AI 的歷程通常分為幾個階段：從初期的個人工作站開發，逐步進階到資料中心或專業機房，最終可能演進為 GPU 即服務（GPU as a Service）的龐大架構。「我們可以把 AI 的成果交",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「不要再在 LINE 上面追進度。」叡揚 BizForm 智慧表單接起企業流程斷點，提升跨部門協作效率",
-        "link": "https://techorange.com/2026/11/16/gss-vital-bizform-mpc-skill/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 15:54:25 +0800",
-        "description": "「不要再在 LINE 上面問來問去，大家時間都花在找來源、抄欄位、追進度，」叡揚資訊雲端服務事業處副處長李宗青日前在 TechOrange 科技報橘舉辦的「AI Innovation Day：2027 AI 創新日」論壇中指出，許多企業已經導入各類對話式 AI 工具，也早已完成表單電子化，但在日常運作中，跨部門的工作交接卻依然高度仰賴人工協調。 以設備巡檢與維修為例，第一線人員發現設備異常後，後續可能一路牽動到零件庫存查詢、請購、簽核、到貨驗收及維修派工等多道程序。即使每個環節都有數位系統支援，",
-        "source": "TechOrange"
-      },
-      {
-        "title": "聯準會盤點 AI 資料中心融資：發債 3 年增至 5 倍，風險落在誰身上？",
-        "link": "https://techorange.com/2026/11/16/fed-financial-stability-report-ai-data-center-debt/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 15:36:35 +0800",
-        "description": "美國聯準會（Fed）美國時間 11/13 發布半年一度的《金融穩定報告》（Financial Stability Report）。紐約聯準銀行 9 至 10 月向券商、銀行、投資基金等 23 位市場人士徵詢風險看法，AI 是被點名最多的風險：依報告圖表，近 9 成受訪者均提到 AI，春季那次調查（20 位受訪者）約為五成。報告也註明，這部分是受訪者的看法，不代表聯準會立場。 受訪者的擔憂包括股票估值偏高、AI 助長的網路攻擊，以及複雜的 AI 相關融資。其中的融資問題，聯準會另以專欄拆解：為先進",
-        "source": "TechOrange"
-      },
-      {
-        "title": "讓 AI Agent 代刷信用卡！OpenAI 推 ChatGPT Wallet，與先前 Instant Checkout 有何不同？",
-        "link": "https://techorange.com/2026/11/16/openai-chatgpt-wallet-ai-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 16 Nov 2026 14:32:38 +0800",
-        "description": "OpenAI 再度推進 AI 購物布局。繼今年 3 月縮減 ChatGPT 內建結帳功能 Instant Checkout 後，OpenAI 於近日推出 ChatGPT Wallet，讓 AI Agent 能使用信用卡，代替使用者在商家網站完成購物付款。這次 OpenAI 不再要求商家整合專用的對話內結帳功能，而是讓 Agent 使用網站既有的支付流程，試圖降低 AI 購物的導入門檻。 根據 OpenAI 官方公告，ChatGPT Wallet 與 American Express、Master",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -250,6 +264,13 @@
         "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530",
         "description": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that impersonates about 50 brands in t",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+        "pubDate": "Tue, 17 Nov 2026 18:04:21 -0500",
+        "description": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence, and Keycloa",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
@@ -278,6 +299,20 @@
         "pubDate": "Tue, 17 Nov 2026 16:37:31 +0530",
         "description": "Apple on Monday introduced new controls that allow Mac users to give more granular access to data they give to apps, including those that use artificial intelligence (AI) agents.\n\nThe changes, currently previewed in macOS 27.3 beta 2, relate to incre",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Cloud keys leaked in Docker Hub images are stolen within seconds",
+        "link": "https://www.bleepingcomputer.com/news/security/cloud-keys-leaked-in-docker-hub-images-are-stolen-within-seconds/",
+        "pubDate": "Tue, 17 Nov 2026 16:27:17 -0500",
+        "description": "Credentials and access secrets exposed in public Docker Hub images are being extracted and exploited by attackers within as little as eight seconds of publication. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Japan takes Fugaku supercomputer offlline after cyberattack",
+        "link": "https://www.bleepingcomputer.com/news/security/japan-takes-fugaku-supercomputer-offlline-after-cyberattack/",
+        "pubDate": "Tue, 17 Nov 2026 15:51:21 -0500",
+        "description": "The Fugaku supercomputer operated by Japan's RIKEN Center for Computational Science has been taken offline following a security breach. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Apple reports outages affecting iCloud Mail, AppleCare and more",
@@ -348,35 +383,77 @@
         "pubDate": "Tue, 17 Nov 2026 04:44:22 -0500",
         "description": "US District Judge Jessica Clarke has acquitted two brothers accused of stealing $25 million in cryptocurrency in about 12 seconds through a scheme that exploited a bug in the Ethereum blockchain. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Uber notifies drivers of data breach affecting nearly 150,000 people",
-        "link": "https://www.bleepingcomputer.com/news/security/uber-notifies-drivers-of-data-breach-affecting-nearly-150-000-people/",
-        "pubDate": "Tue, 17 Nov 2026 03:35:42 -0500",
-        "description": "Ride-hailing company Uber is notifying nearly 150,000 drivers that attackers stole their data after breaching AI infrastructure provider Fireworks in early October. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Ransomware affiliate suspect extradited to US, faces 27 years in prison",
-        "link": "https://www.bleepingcomputer.com/news/security/alleged-inc-lynx-ransomware-affiliate-extradited-to-us-faces-27-years-in-prison/",
-        "pubDate": "Tue, 17 Nov 2026 02:25:44 -0500",
-        "description": "A Kazakh national has been extradited from Italy to face charges alleging he targeted US schools, hospitals, and healthcare entities in ransomware attacks. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
-        "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
-        "pubDate": "Mon, 16 Nov 2026 21:12:17 -0500",
-        "description": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal cryptocurrency ",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
+        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
+        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+        "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000",
+        "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia promises that revenue will keep soaring — for now",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+        "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
+        "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Stripe backer Atomico calls for Europe to own its success stories",
+        "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
+        "pubDate": "Wed, 18 Nov 2026 00:01:00 +0000",
+        "description": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia is abandoning China after Jensen Huang’s ouster",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/",
+        "pubDate": "Tue, 17 Nov 2026 23:37:48 +0000",
+        "description": "Nvidia's interim CEO says the company is done selling chips to China. How much will that cost?",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit/",
+        "pubDate": "Tue, 17 Nov 2026 23:04:35 +0000",
+        "description": "Nvidia's interim CEO reaffirmed its open source AI strategy and plans to acquire Hugging Face, despite Jensen Huang's sudden departure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia says it doesn’t plan to reappoint Jensen Huang as CEO",
+        "link": "https://techcrunch.com/2026/11/17/nvidia-says-it-doesnt-plan-to-reappoint-jensen-huang-as-ceo/",
+        "pubDate": "Tue, 17 Nov 2026 22:42:27 +0000",
+        "description": "The former CEO offered to return to his top role at the company after his resignation last week.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+        "link": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+        "pubDate": "Tue, 17 Nov 2026 22:29:05 +0000",
+        "description": "Amazon will own just under 15% of Anthropic after the IPO, with the option to go much higher. Google is a close second with holdings of nearly 14%.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "SEC reportedly investigating Nvidia amid Huang exit",
+        "link": "https://techcrunch.com/2026/11/17/sec-reportedly-investigating-nvidia-amid-huang-exit/",
+        "pubDate": "Tue, 17 Nov 2026 21:48:07 +0000",
+        "description": "The SEC is opening a probe into Nvidia following the departure of CEO Jensen Huang, who admitted to an affair with an alleged Chinese spy, reports The Wall Street Journal.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Google joins the tech outage trend by announcing it’s not having one",
+        "link": "https://techcrunch.com/2026/11/17/google-joins-the-tech-outage-trend-by-announcing-its-not-having-one/",
+        "pubDate": "Tue, 17 Nov 2026 21:34:50 +0000",
+        "description": "With tech outages seemingly everywhere, Google took the unusual step of announcing that Gmail is working just fine, actually.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Waymo suspends freeway rides nationwide after California DMV order",
         "link": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
         "pubDate": "Tue, 17 Nov 2026 19:49:41 +0000",
-        "description": "The California Department of Motor Vehicles, which regulates the testing and deployment of autonomous vehicles in the state, issued the operational restrictions on Waymo following several incidents.",
+        "description": "The DMV said Waymo's freeway operations pose an imminent hazard to public safety.  Restrictions will remain in place until Waymo can demonstrate that it has taken \"effective corrective actions\" to address the deficiencies.",
         "source": "TechCrunch"
       },
       {
@@ -415,134 +492,71 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
-        "link": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
-        "pubDate": "Tue, 17 Nov 2026 18:04:16 +0000",
-        "description": "The company uses agentic AI to make supply chains faster and more reliable.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Proton’s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrives on desktop",
-        "link": "https://techcrunch.com/2026/11/17/protons-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on-desktop/",
-        "pubDate": "Tue, 17 Nov 2026 17:32:25 +0000",
-        "description": "Proton's new Lumo Desktop app for Windows, Mac, and Linux lets users automate tasks across files and connected apps, with granular controls over what its AI can access.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI models can be tricked into identifying civilians as military targets by telling them it’s a game",
-        "link": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
-        "pubDate": "Tue, 17 Nov 2026 17:20:41 +0000",
-        "description": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Jensen Huang says he would be ‘honored’ if allowed to return as Nvidia CEO",
-        "link": "https://techcrunch.com/2026/11/17/jensen-huang-says-he-would-be-honored-if-allowed-to-return-as-nvidia-ceo/",
-        "pubDate": "Tue, 17 Nov 2026 16:44:15 +0000",
-        "description": "In the first public statement since his resignation, Nvidia founder Jensen Huang signaled his willingness to return as CEO.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Daydream’s new AI agent acts as your personal stylist — and can shop for you, too",
-        "link": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
-        "pubDate": "Tue, 17 Nov 2026 16:32:55 +0000",
-        "description": "Daydream's new AI shopping agent can remember your style, virtually try on clothes, plan outfits around your wardrobe, track sales, and complete purchases.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Uber and Zipline’s drone delivery service takes off in Texas, with dozens of cities to follow",
-        "link": "https://techcrunch.com/2026/11/17/uber-and-ziplines-drone-delivery-service-takes-off-in-texas-with-dozens-of-cities-to-follow/",
-        "pubDate": "Tue, 17 Nov 2026 15:07:06 +0000",
-        "description": "The two companies want to make one million deliveries per day using Zipline drones by the end of 2029.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta launches Direct, a stand-alone messaging app for Instagram",
-        "link": "https://techcrunch.com/2026/11/17/meta-launches-direct-a-standalone-messaging-app-for-instagram/",
-        "pubDate": "Tue, 17 Nov 2026 15:01:46 +0000",
-        "description": "Direct is launching in Turkey and Thailand, and can be used with or without an Instagram account.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Voyage Labs raises $12 million for a specialized AI travel assistant",
-        "link": "https://techcrunch.com/2026/11/17/voyage-labs-raises-12-million-for-a-specialized-ai-travel-assistant/",
-        "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-        "description": "Voyage Labs’ flagship product is called Atlas, meant to work as a personal assistant for your trip-planning, available today in private beta.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Instagram’s new tool for creators targets unauthorized reposts and AI-modified videos",
-        "link": "https://techcrunch.com/2026/11/17/instagrams-new-tool-for-creators-targets-unauthorized-reposts-and-ai-modified-videos/",
-        "pubDate": "Tue, 17 Nov 2026 15:00:00 +0000",
-        "description": "The announcement likely comes in response to creators' concerns over how easily original content can be copied and redistributed across social media platforms, especially considering how generative AI has made it easier to manipulate existing videos.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Democrats try to figure out how not to get swept away by the blue wave",
-        "link": "https://www.theverge.com/policy/1035869/whats-next-majority-democrats-conference-denver-jeffries",
-        "pubDate": "2026-11-17T15:30:00-05:00",
-        "description": "On a harried Saturday afternoon at Denver International Airport, I had the good fortune of sitting just a few feet from Minneapolis Mayor Jacob Frey. It shouldn't have come as a surprise. He, I, and 3,500 or so others had just left \"What's Next,\" a c",
+        "title": "Satya Nadella says he’s AGI-pilled now",
+        "link": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+        "pubDate": "2026-11-17T18:41:18-05:00",
+        "description": "Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make startling changes to the structure of the economy and how politics might change because of it. \"I am AGI-pilled in the sense that at an economy level, what ",
         "source": "TheVerge"
       },
       {
-        "title": "Framework’s better couch keyboard is now available for preorder",
-        "link": "https://www.theverge.com/tech/1035805/framework-wireless-touchpad-keyboard-preorder-open",
-        "pubDate": "2026-11-17T14:38:42-05:00",
-        "description": "Framework announced its Wireless Touchpad Keyboard earlier this year with the goal of delivering a better couch keyboarding experience than the Logitech K400. According to The Verge's Sean Hollister who went hands-on with Framework's new all-in-one k",
+        "title": "Jeff Bezos says he was ‘heavily involved’ in picking the new James Bond",
+        "link": "https://www.theverge.com/entertainment/1036110/jeff-bezos-james-bond-casting-amazon",
+        "pubDate": "2026-11-17T17:38:41-05:00",
+        "description": "Robert Pattinson's casting as James Bond made enough sense given his recent work with director Denis Villeneuve, who's making the franchise's next film over at Amazon. But it turns out that Amazon founder Jeff Bezos played a significant role in makin",
         "source": "TheVerge"
       },
       {
-        "title": "California just banned Waymo from all state freeways",
-        "link": "https://www.theverge.com/transportation/1035789/california-dmv-bans-waymo-freeways-construction-zone-safety",
-        "pubDate": "2026-11-17T14:38:05-05:00",
-        "description": "California has pulled the plug on Waymo's driverless freeway rides across the entire state, citing potential safety hazards. In a statement, the California Department of Motor Vehicles said that the ban went into effect on November 11th. The crackdow",
+        "title": "Read everything that Nvidia’s board chair had to say about Jensen Huang",
+        "link": "https://www.theverge.com/tech/1036160/nvidia-earnings-harvey-c-jones-jensen-huang",
+        "pubDate": "2026-11-17T17:32:50-05:00",
+        "description": "Nvidia's quarterly earnings call on Tuesday was its first with CFO and interim CEO Colette Kress at the helm alongside the company's first board chair, Harvey C. Jones. The leadership change followed Jensen Huang's resignation last week after reports",
         "source": "TheVerge"
       },
       {
-        "title": "JBL’s headphones that are great for in-flight entertainment are 67 percent off",
-        "link": "https://www.theverge.com/gadgets/1035085/jbl-tour-one-m3-deal-sale-black-friday-2026",
-        "pubDate": "2026-11-17T14:19:10-05:00",
-        "description": "If you’re looking to upgrade your headphones before the big wave of Black Friday deals arrives, you can buy JBL’s Tour One M3 for a new low price of $149 ($300 off) at Amazon, Best Buy, and directly from JBL. The deal is so good that my colleague Joh",
+        "title": "iFixit’s Apple HomeView teardown reveals a device that will be difficult to repair",
+        "link": "https://www.theverge.com/tech/1036045/ifixit-teardown-apple-homeview-smart-home-hub",
+        "pubDate": "2026-11-17T17:25:41-05:00",
+        "description": "After finding recent versions of Apple's iPads and HomePods much easier to disassemble for battery replacements or other repairs, iFixit assumed it would be the same story for Apple's new HomeView hub that looks like a seven-inch tablet stuck to a sm",
         "source": "TheVerge"
       },
       {
-        "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
-        "link": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
-        "pubDate": "2026-11-17T13:58:01-05:00",
-        "description": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by Google's new Gemini 4 Hydrogen AI model, can do things like create meal plans, manage your calendar, and dig through your emails to find re",
+        "title": "Nvidia says it does not intend to reinstate Jensen Huang as CEO",
+        "link": "https://www.theverge.com/report/1035465/nvidia-says-it-will-not-reinstate-jensen-huang-as-ceo",
+        "pubDate": "2026-11-17T17:05:05-05:00",
+        "description": "Starting Nvidia's quarterly earnings call on Tuesday, new board chair Harvey Jones said that when former CEO Jensen Huang resigned, \"the Nvidia board unanimously accepted his resignation and does not intend to reinstate Jensen as CEO.\" Jones added, \"",
         "source": "TheVerge"
       }
     ],
     "cve": [
       {
-        "title": "Adobe Monthly Security Update (November 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november-2026",
-        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "title": "Google Chrome Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261118",
+        "pubDate": "Wed, 18 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Adobe Monthly Security Update (November 2026)"
+        "products": "Google Chrome"
       },
       {
-        "title": "Fortinet Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261111",
-        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261118",
+        "pubDate": "Wed, 18 Nov 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Fortinet Products"
+        "products": "GitLab"
       },
       {
-        "title": "Microsoft Monthly Security Update (November 2026)",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-monthly-security-update-november-2026",
-        "pubDate": "Wed, 11 Nov 2026 11:00:00 +0800",
+        "title": "Oracle Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20261118",
+        "pubDate": "Wed, 18 Nov 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Microsoft Monthly Security Update (November 2026)"
+        "products": "Oracle Products"
       },
       {
         "title": "Check Point Products Multiple Vulnerabilities",
@@ -553,16 +567,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Check Point Products"
-      },
-      {
-        "title": "Google Chrome Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Google Chrome"
       },
       {
         "title": "Mozilla Products Multiple Vulnerabilities",
