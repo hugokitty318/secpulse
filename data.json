@@ -1,131 +1,131 @@
 {
-  "ts": "2026-11-19T01:28:15.760018Z",
+  "ts": "2026-11-19T09:28:58.487288Z",
   "tabs": {
     "cn_sec": [
       {
-        "title": "Palo Alto Networks斥資45億美元併購AI新創Applied Compute",
-        "link": "https://www.ithome.com.tw/news/180637",
-        "pubDate": "2026-11-19 09:21",
-        "description": "Applied Compute公司專注於開放權重AI模型的訓練、推論與部署。Palo Alto Networks希望藉此擴大企業AI市場布局，協助客戶在公有雲或主權雲環境中安全部署AI模型",
+        "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
+        "link": "https://www.ithome.com.tw/news/180662",
+        "pubDate": "2026-11-19 17:11",
+        "description": "車隊運輸服務公司大車隊（2640）發布資安重訊，子公司全球商務科技的資訊系統發生外部未經授權存取事件，初步調查發現，部分客戶及相關人員資料涉及未經授權存取及擷取，可能有資料外洩情形",
         "source": "iThome資安"
       },
       {
-        "title": "微軟Agent Framework套件遭植入惡意程式，鎖定Azure及CI/CD環境憑證",
-        "link": "https://www.ithome.com.tw/news/180624",
-        "pubDate": "2026-11-19 08:00",
-        "description": "微軟AI代理開發框架Microsoft Agent Framework的Python套件出現兩個惡意版本，攻擊者利用Python啟動機制執行憑證竊取程式，鎖定雲端及CI/CD環境。惡意版本已從PyPI移除，但已安裝的環境仍需檢查憑證是否外洩",
+        "title": "資安業者剖析ARTEX、Cairn、CyberStrikeAI等五大AI攻擊框架，均已遭濫用於實際入侵事件",
+        "link": "https://www.ithome.com.tw/news/180657",
+        "pubDate": "2026-11-19 17:00",
+        "description": "針對AI代理式攻擊框架遭濫用於實際網路入侵的情況，資安業者Elastic近日剖析ARTEX、CyberStrikeAI、Cairn、PentAGI及HexStrike等5種工具，說明各自的設計特色與功能差異，並提醒企業這類框架不僅能自主執行攻擊任務，且更新速度快，應更重視以攻擊行為為基礎的偵測機制",
         "source": "iThome資安"
       },
       {
-        "title": "研究人員揭Gemini 4 Argon行為偏離測試結果，AI代理繞過網路限制、試圖攻擊真實網站",
-        "link": "https://www.ithome.com.tw/news/180579",
-        "pubDate": "2026-11-19 08:00",
-        "description": "AI安全研究機構Trajectory Labs測試Gemini 4 Argon時，發現部分AI代理為完成指定任務，試圖攻擊AI研究機構Epoch AI的正式網站，並冒用員工身分索取未公開資訊。研究團隊改用網站副本進行測試後，仍有AI代理繞過網路限制，再次連上正式網站",
+        "title": "元太資訊系統疑遭攻擊",
+        "link": "https://www.ithome.com.tw/news/180658",
+        "pubDate": "2026-11-19 16:02",
+        "description": "電子紙顯示技術廠商元太（8069）發布資安重訊，資訊系統疑似遭到攻擊，該公司啟動資訊安全防禦機制因應，初步評估對公司營運暫無重大影響",
         "source": "iThome資安"
       },
       {
-        "title": "AI代理廣泛用於軟體開發，但不到1成企業能全面偵測未受管控AI活動",
-        "link": "https://www.ithome.com.tw/news/180578",
-        "pubDate": "2026-11-19 08:00",
-        "description": "Palo Alto Networks雲端安全調查顯示，99%的受訪組織在軟體開發流程中使用AI代理，但不到1成能在企業使用的不同雲端環境中，全面自動偵測並分類未受管控的AI活動。此外，4成組織無法查明AI代理曾執行哪些操作，可能影響企業追查異常活動",
+        "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
+        "link": "https://www.ithome.com.tw/news/180656",
+        "pubDate": "2026-11-19 15:57",
+        "description": "電商公司富邦媒（8454）旗下mo店+服務出貨資料發生疑似資安事件，經初步調查，部分出貨資料遭未經授權存取，該公司已啟動資安應變機制，隔離受影響系統，並將通知疑似受影響的顧客",
         "source": "iThome資安"
       },
       {
-        "title": "CSA發布自主滲透測試標準APAS，建立AI測試結果可信度評估規範",
-        "link": "https://www.ithome.com.tw/news/180548",
-        "pubDate": "2026-11-19 08:00",
-        "description": "雲端安全聯盟（CSA）發布自主滲透測試保證標準APAS 1.0，提出7項品質評估面向，要求AI工具提供可供第三方查核的漏洞證據，並將自動化程度與測試品質分開評估。相關認證制度尚未啟動，企業可先將標準作為評估AI滲透測試工具的參考",
+        "title": "Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
+        "link": "https://www.ithome.com.tw/news/180651",
+        "pubDate": "2026-11-19 13:41",
+        "description": "廣泛使用的網頁伺服器軟體Nginx緊急修補10項安全漏洞，其中5項可能讓駭客遠端執行程式碼",
         "source": "iThome資安"
       },
       {
-        "title": "NuGet.org新增套件上架核准機制，降低自動化憑證遭濫用風險",
-        "link": "https://www.ithome.com.tw/news/180626",
-        "pubDate": "2026-11-18 22:46",
-        "description": "微軟為NuGet.org加入選用的暫存發布功能，套件通過驗證後仍須由維護者核准公開，開發團隊也能限制自動化憑證只負責上傳，降低憑證遭竊後被用來直接發布惡意套件的風險",
+        "title": "FBI警告Gootloader已入侵逾千個WordPress網站，相關勒索軟體贖金逾2,800萬美元",
+        "link": "https://www.ithome.com.tw/news/180649",
+        "pubDate": "2026-11-19 13:03",
+        "description": "惡意初始存取框架Gootloader利用SEO污染及遭入侵網站散布惡意JavaScript，誘使使用者下載執行後取得初始存取權，FBI至今已發現216個相關網域",
         "source": "iThome資安"
       },
       {
-        "title": "LINE新版支援Passkey，簡化換機或手機遺失後的登入流程",
-        "link": "https://www.ithome.com.tw/news/180633",
-        "pubDate": "2026-11-18 18:10",
-        "description": "LINE宣布自手機版26.17版本起支援通行金鑰（Passkey），建議用戶預先建立Passkey，日後更換手機或手機遺失時，便能多一種免輸入傳統密碼的帳號登入方式",
+        "title": "日本藥妝業者DHC因第三方行銷分析平臺被駭，外洩用戶個資1,911萬筆",
+        "link": "https://www.ithome.com.tw/news/180648",
+        "pubDate": "2026-11-19 12:57",
+        "description": "知名藥妝及健康食品業者DHC因第三方行銷分析平臺KARTE遭駭，約1,911萬筆客戶資料受到影響，涵蓋姓名、電子郵件、生日及會員ID等資訊",
         "source": "iThome資安"
       },
       {
-        "title": "永信藥品委外電商服務商發生資安事件，部分會員個資疑似外洩",
-        "link": "https://www.ithome.com.tw/news/180619",
-        "pubDate": "2026-11-18 16:14",
-        "description": "永信藥品委外購物網站接獲會員反映疑似個資外洩，根據初步調查，事件與委外電商平臺服務商系統有關，目前仍在釐清原因及影響範圍，永信藥品表示公司內部資訊系統未受影響",
+        "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查",
+        "link": "https://www.ithome.com.tw/news/180647",
+        "pubDate": "2026-11-19 12:47",
+        "description": "面對AI代理程式攻擊框架ARTEX的快速滲透與反覆入侵，資安業者Eye Security近日公布一起企業遭駭的完整應變案例，從攻擊者取得憑證後立即發動攻擊、繞過流量限制，到服務恢復後再度遭入侵，最終防守方也運用AI代理程式加速調查",
         "source": "iThome資安"
       },
       {
-        "title": "神達數位部分資訊系統遭外部網路攻擊，出現未經授權存取情形",
-        "link": "https://www.ithome.com.tw/news/180618",
-        "pubDate": "2026-11-18 16:00",
-        "description": "車用電子與智慧聯網設備製造商神達數位（7821）發現部分資訊系統遭受外部網路攻擊，並確認部分系統存在未經授權存取情形。該公司已啟動資安事件應變機制，隔離受影響系統並展開調查，目前評估事件對整體營運及財務尚無重大影響",
+        "title": "Apple多項雲端服務大規模中斷，內部軟體更新問題影響iCloud等服務逾6個小時",
+        "link": "https://www.ithome.com.tw/news/180645",
+        "pubDate": "2026-11-19 12:17",
+        "description": "iCloud、AppleCare、App Store服務均受波及，Apple表示並非網路攻擊所致，主要服務已陸續恢復",
         "source": "iThome資安"
       },
       {
-        "title": "jQuery雙版本更新修正ReDoS問題，3.x停止新增功能",
-        "link": "https://www.ithome.com.tw/news/180617",
-        "pubDate": "2026-11-18 15:53",
-        "description": "jQuery 4.1.0與3.8.0修補可能讓網頁停止回應的ReDoS漏洞，4.1.0改善元素查找與資料傳輸，3.8.0則是3.x系列最後一次預定的功能更新，之後僅修補重大資安及程式錯誤",
+        "title": "美國警告群暉NAS、Apache Axis等4款應用系統的漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180644",
+        "pubDate": "2026-11-19 12:09",
+        "description": "美國網路安全與基礎設施安全局（CISA）將群暉NAS、Apache Axis、LiteLLM、REDCap的漏洞納入已知遭利用的漏洞名單（KEV），並要求聯邦機構在期限內完成修補",
         "source": "iThome資安"
       },
       {
-        "title": "面對AI加速攻擊，英國NCSC呼籲企業董事會應關切以主動威脅獵捕找出偵測缺口",
-        "link": "https://www.ithome.com.tw/news/180613",
-        "pubDate": "2026-11-18 15:46",
-        "description": "英國國家網路安全中心（NCSC）呼籲董事會重視組織的威脅獵捕能力，強調防禦人員不應只依賴可能快速變動的入侵指標（IoC），還應從攻擊者的戰術、技術與程序（TTP）著手，透過主動威脅獵捕（Threat Hunting）找出防禦缺口，並與面臨類似威脅的其他組織交流並汲取經驗",
+        "title": "N0n勒索軟體組織宣稱取得Visa、摩根大通等59家公司資料",
+        "link": "https://www.ithome.com.tw/news/180643",
+        "pubDate": "2026-11-19 11:38",
+        "description": "Visa、Mastercard、摩根大通等大型企業傳出資料外洩疑雲！勒索軟體組織N0n宣稱竊得客戶資料並威脅公開",
         "source": "iThome資安"
       },
       {
-        "title": "大同購物網站e同購遭自動化攻擊入侵，疑似個資外洩",
-        "link": "https://www.ithome.com.tw/news/180615",
-        "pubDate": "2026-11-18 15:27",
-        "description": "電機設備製造商大同（2371）發布資安重訊，由子公司大同綜合訊電經營的購物網站e同購遭自動化攻擊及入侵，疑似有個資外洩情形，已緊急關閉網站及啟動資料事件應變作業",
+        "title": "美國NSA機密通訊網路NSANet傳中斷，官方稱例行維護期間發生異常",
+        "link": "https://www.ithome.com.tw/news/180642",
+        "pubDate": "2026-11-19 11:20",
+        "description": "美國國安局負責傳輸及交換機密情報的NSANet發生系統異常，故障可能源自安裝PHP漏洞修補程式後，部分系統未能正常重新啟動",
         "source": "iThome資安"
       },
       {
-        "title": "【資安日報】11月18日，Optimizely供應鏈攻擊波及BBC、GitLab、IKEA等178個組織網站，匯豐臺灣也名列其中",
-        "link": "https://www.ithome.com.tw/news/180612",
-        "pubDate": "2026-11-18 14:51",
-        "description": "資安研究員Scott Helme於11月16日緊急揭露一起針對網站體驗優化服務業者Optimizely的供應鏈攻擊事件，攻擊者利用漏洞在客戶專案中植入惡意JavaScript，導致178個組織的網站向訪客載入惡意程式，受影響組織包括BBC、IKEA、GitLab等知名企業與媒體，臺灣匯豐銀行的網站也列入受影響名單",
+        "title": "JINS、三菱UFJ銀行等數十家日本企業陸續發布資安事件公告，皆因第三方行銷科技業者PLAID旗下KARTE平臺遭駭",
+        "link": "https://www.ithome.com.tw/news/180640",
+        "pubDate": "2026-11-19 11:17",
+        "description": "再傳第三方服務供應商遭駭事件！日本行銷科技服務業者PLAID旗下的KARTE平臺遭駭，攻擊者利用伺服器漏洞入侵，竊取系統認證資訊及客戶資料，導致使用該服務的數十家日本企業受到波及，包括眼鏡品牌JINS、三菱UFJ銀行等，目前至少有數十家企業已陸續公告會員個資外洩或可能外洩的情況",
         "source": "iThome資安"
       },
       {
-        "title": "Perforce Puppet重大漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180611",
-        "pubDate": "2026-11-18 14:27",
-        "description": "本週美國網路安全與基礎設施安全局（CISA）表示，他們掌握基礎設施自動化與組態管理平臺Perforce Puppet重大漏洞CVE-2026-115731遭積極利用，將其加入已知遭利用漏洞名單（KEV）",
+        "title": "Apache Roller反序列化漏洞已遭利用，開發團隊警告漏洞影響範圍涵蓋近20年的版本",
+        "link": "https://www.ithome.com.tw/news/180639",
+        "pubDate": "2026-11-19 10:30",
+        "description": "Apache基金會（ASF）警告，開源部落格發布平臺Apache Roller反序列化漏洞CVE-2026-82384（CVE-2026-129448）已遭積極利用，影響近20年的所有版本，呼籲用戶更新至6.1.6以上版本因應",
         "source": "iThome資安"
       },
       {
-        "title": "日本理研系統被駭，外洩註冊用戶個資、憑證，迫使超級電腦Fugaku暫停運作",
-        "link": "https://www.ithome.com.tw/news/180610",
-        "pubDate": "2026-11-18 14:27",
-        "description": "日本理化學研究所（理研）證實，連結超級電腦富岳的系統遭駭客入侵，最多4,597名用戶的個資可能外洩，部分用戶儲存的存取憑證也面臨外洩風險",
+        "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證",
+        "link": "https://www.ithome.com.tw/news/180621",
+        "pubDate": "2026-11-19 09:55",
+        "description": "資安公司Barracuda本月初遭到入侵，攻擊者利用AI代理框架ARTEX，透過第三方AI公司的開發環境取得未撤銷的雲端存取金鑰，在44小時內橫跨約10個雲端帳戶，竊取AWS、Azure，以及Kubernetes憑證，並搜尋加密貨幣錢包資訊",
         "source": "iThome資安"
       },
       {
-        "title": "前端框架Solid 2.0統一處理非同步資料與畫面更新，減少競態問題",
-        "link": "https://www.ithome.com.tw/news/180634",
-        "pubDate": "2026-11-18  10:11:38",
-        "description": "開源JavaScript前端框架Solid發布2.0正式版，將非同步資料處理納入資料變動追蹤機制，統一協調資料載入與畫面更新，減少開發者自行處理資料同步及競態條件的工作。新版也加入供AI程式開發代理使用的錯誤診斷與修復指引，並將伺服器端函式整合至核心。",
+        "title": "Climate Change AI共同創辦人：AI永續關鍵不是更大模型，而是選對AI工具",
+        "link": "https://www.ithome.com.tw/news/180659",
+        "pubDate": "2026-11-19  05:11:28",
+        "description": "隨著生成式AI快速發展，人工智慧所需算力與能源消耗也成為全球關注議題。正值聯合國COP31舉行之際，環境部也同步舉辦系列論壇，本周舉辦的「綠色算力與氣候數位科技」論壇，邀請產學界專家共同關注人工智慧與氣候變遷發展，加拿大麥吉爾大學電腦科學學院副教授，也是Climate Change AI共同創辦人的David Rolnick指出，AI與氣候變遷並非只能二選一，AI確實能協助解決氣候問題，但前提是必須重新思考「使用什麼樣的AI」。",
         "source": "iThome"
       },
       {
-        "title": "Databricks發表表格基礎模型運算平臺AI Runtime",
-        "link": "https://www.ithome.com.tw/news/180616",
-        "pubDate": "2026-11-18  03:11:53",
-        "description": "Databricks公布支援情境學習的表格式基礎模型（Tabular foundation model，TFM）運算平臺AI Runtime，讓企業用戶更容易上手免客製化訓練的預測模型\n企業許多珍貴的預測機器學習應用都仰賴表格資料，像是信用風險、客戶流失、需求預測和預測式維護，過去都需要企業為每種預測任務開發、訓練和維護模型。表格基礎模型（TFM）提供另一方法，它可以在未經特定訓練情況下，以新資料集進行預測。",
+        "title": "加州擬強化AI安全監管，政府可緊急停用模型並限制研發算力",
+        "link": "https://www.ithome.com.tw/news/180655",
+        "pubDate": "2026-11-19  03:11:24",
+        "description": "美國加州州長Gavin Newsom公布新一輪AI安全監管建議，研議賦予州政府緊急關閉高風險AI模型的權力，並建立限制AI自行開發更強模型的機制。加州也計畫要求大型先進AI開發商接受持續性的第三方安全驗證，相關措施仍須透過立法才能實施。",
         "source": "iThome"
       },
       {
-        "title": "Green500排名GH200成節能超級電腦主流架構，前十近半數採用",
-        "link": "https://www.ithome.com.tw/news/180614",
-        "pubDate": "2026-11-18  03:11:05",
-        "description": "最新的2026年11月Green500顯示，全球超級電腦的競爭從單純追求運算效能，逐漸延伸至能源效率。與TOP500比較最快超級電腦不同，Green500以每瓦可提供多少運算效能（GFLOPS/W）作為排名依據，反映超級電腦在AI時代兼顧高效能與低功耗的能力。\n這次Green 500榜單中，前十名與上一次在今年6月公布的名次不變，其中Nvidia Grace Hopper（GH200）平臺包辦前四名，每瓦效能介於68到73.2GFlops之間，第一名為法國的KAIROS，每瓦效能以73.2GFl",
+        "title": "OpenAI正在測試使自主代理人Dots有自己的email位址",
+        "link": "https://www.ithome.com.tw/news/180650",
+        "pubDate": "2026-11-19  01:11:00",
+        "description": "OpenAI透露正在讓常駐自主代理人Dots擁有自己的電子郵件位址，以協助使用者更有效率執行商務作業。\nOpenAI今年9月推出Dots，讓使用者可建立常時作業的代理人Dot，並可連接外部應用程式、主動處理待辦事項。",
         "source": "iThome"
       }
     ],
@@ -194,31 +194,31 @@
         "source": "TechOrange"
       },
       {
-        "title": "巨輪興業攜手台達打造高彈性、高整合、高擴充數位製造架構",
-        "link": "https://techorange.com/2026/11/18/delta-juluen-pcba-diamom/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 09:13:29 +0800",
-        "description": "一輛救護車從街上疾駛而過，車頂閃爍的警示燈與警報器，提醒周遭用路人注意、及時讓道，這是多數人再熟悉不過的情境。但鮮少有人注意的是，這些看似規格明確的車用設備，會因不同國家的法規、車種與使用情境而有不同需求。位於新北土城的巨輪興業(以下簡稱巨輪)工廠，組裝產線換線頻率高，正反映出警示設備少量多樣的產業特性。 PCBA 轉向自主製造 帶動巨輪新一波數位管理升級 成立於 1990 年的巨輪，長期深耕車用電子與安全警示系統，產品涵蓋警示燈、警報器及整車控制系統，應用於警車、消防車、救護車及其他特殊用途車",
+        "title": "Gemini 4 Neon 程式評測逼近 Opus 5.5，API 標價卻比 Anthropic、OpenAI 中階模型貴 5 成：企業該怎麼算？",
+        "link": "https://techorange.com/2026/11/19/google-ai-models-gemini-4-neon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 12:39:05 +0800",
+        "description": "Google 近日推出新款中階 AI 模型 Gemini 4 Neon。Google 表示，這款模型能在複雜軟體工程、知識工作與科學研究流程中，「以前沿等級的智慧，快速完成端到端任務」。《The Decoder》指出，這是 Google 四週內推出的第四款 Gemini 4 新模型。 Neon 已在 Google AI Studio 與 Android Studio 的付費 Gemini API 上線，Google AI Pro 與 Ultra 訂閱用戶也能在 Gemini App 及 AI 輔",
         "source": "TechOrange"
       },
       {
-        "title": "【劉永信專欄】11/18 飛出人類第一個「一光日」，為什麼你該認識這艘最孤獨太空船？",
-        "link": "https://techorange.com/2026/11/18/1118-nasa-lightday/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 09:13:24 +0800",
-        "description": "對很多人來說，11 月 18 日沒有什麼特殊的意義。但就在今年的 11 月 18 日，一艘 1977 年發射的太空船，成為人類史上第一個距離地球「一光日」（Light-day）的物體。 一光日，大概是 259 億公里，是光走一天的距離。「航海家 1 號」這艘太空船整整飛了 49 年又 2 個月。當年 NASA 給它的任務是飛過木星和土星，拍照、傳資料回來；而當時的工程師在設計時，想的是在沒人能上太空維修的情況下，怎麼讓它撐過幾十年？ 就在大家快忘記它的這個時候，我想特別寫一篇文章，跟大家聊聊它真",
+        "title": "不禁用、改點名：川普政府研議要求美企揭露使用中國 AI 模型，能降低依賴嗎？",
+        "link": "https://techorange.com/2026/11/19/us-chinese-ai-disclosure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 12:23:37 +0800",
+        "description": "據《Reuters》11/18 獨家報導，川普政府正考慮要求美國企業公開揭露使用了哪些中國 AI 模型。3 名知情人士指出，美國財政部與白宮科技政策辦公室（OSTP）已討論過這項方案，適用對象包括以阿里巴巴千問（Qwen）驅動 AI 客服的 Airbnb；依方案構想，這類企業須在官網公布相關資訊。不過，方案是否在政府內部獲得支持、推進後是否會走正式的規則制定程序，目前都還不清楚。 《Reuters》指出，揭露構想的用意是抑制美國企業對中國 AI 的依賴，又不必祭出可能激怒業界或北京的新限制。不同",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】加州起訴 OpenAI！檢方指 AI 代理測試至少 80 次失控",
-        "link": "https://techorange.com/2026/11/18/openai-california-ai-agent-lawsuit/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 遭加州起訴，AI 代理安全責任走上法庭 美國加州檢察長邦塔（Rob Bonta）11 月 16 日向舊金山州法院起訴 OpenAI，指控公司在研發與測試自主 AI 代理時，缺乏足夠安全防護與監控，涉嫌違反加州《不公平競爭法》及造成公共危害。檢方以今年 7 月 Hugging Face 平台遭實驗性代理入侵為例，並稱 OpenAI 在測試期間至少 80 次失去對自主代理的控制。檢方要求法院介入安全管理並追究相關責任；這些指控尚未經法",
+        "title": "摩根大通攜手韓國現代信用卡完成 AI 自主換匯測試，商用前仍須跨過「治理高牆」",
+        "link": "https://techorange.com/2026/11/19/ai-agent-autonomous-payments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 11:09:50 +0800",
+        "description": "全球金融業正迎來一場「無人工參與」的支付革命。美國銀行巨頭摩根大通與韓國現代信用卡近期完成一項概念驗證，讓雙方的 AI 代理人在沒有人員直接介入下，獨立完成跨國企業的模擬外匯交易。摩根大通旗下區塊鏈部門 Kinexys 洞察全球主管 Wee Kee Toh 更預告，雙方將於 2027 年上半年把測試範圍擴大，並推進至更複雜的「多代理人自主協商與議價」階段。 在這場模擬交易中，韓國現代信用卡的 AI 代理人就像一位數位財務管家，為了維持 Kinexys 區塊鏈存款帳戶中的歐元流動性，會主動在摩根大",
         "source": "TechOrange"
       },
       {
-        "title": "a16z、Clay 都設「生態系」職位：AI 內容越多，新創與創投為何越重視真人關係？",
-        "link": "https://techorange.com/2026/11/17/business-tech-jobs-ai-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 17:09:00 +0800",
-        "description": "《紐約時報》近日報導，在 AI 生成內容氾濫之際，引領 AI 革命的人，也在自家產業加倍投入面對面的人際關係。人脈經營在科技業向來至關重要，所謂的「熟人引薦」（warm intros）、創辦人晚宴與校友社群，不僅是這個產業文化的核心，也是談成交易的關鍵。 但近來，新創公司與創投業者更加重視人與人之間的連結，開始聘用專門負責「生態系」（ecosystem）的人才。這類職位的名稱包括「新創生態系主管」（start-up ecosystem lead）或「生態系成長經理」（ecosystem grow",
+        "title": "【Toyota 規劃 40 萬台機器人進工廠】起步晚於現代與特斯拉，強項在整合 AI 與生產流程",
+        "link": "https://techorange.com/2026/11/19/toyota-humanoid-robot-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 09:55:22 +0800",
+        "description": "今年 4 月，東京豐田體育館（Toyota Arena Tokyo）的職籃賽事中場，一台黑紅配色的人形機器人走上球場，運球、出手，球應聲入網。這是豐田 AI 籃球機器人 CUE 的第 7 代 Cue7。 不過，會投籃的機器人並不稀奇，中國製人形機器人早已會跳舞、打拳。Cue7 的意義在於出場時機。 差不多同一時間，豐田高層正向全球投資人推銷一套機器人戰略，包括部署 40 萬台機器人、每年 64 億美元的工廠自動化投資，並成立由生產製造最高主管領軍的機器人團隊。向來低調的全球最大車廠，這次主動把機",
         "source": "TechOrange"
       },
       {
@@ -408,7 +408,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+        "title": "Anthropic prices IPO at $83 a share, above projected range",
         "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
         "pubDate": "Wed, 18 Nov 2026 22:11:15 +0000",
         "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
@@ -485,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
+        "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
+        "pubDate": "2026-11-18T20:39:45-05:00",
+        "description": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBo",
+        "source": "TheVerge"
+      },
+      {
         "title": "The nation’s largest school districts consider ditching Google Search",
         "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
         "pubDate": "2026-11-18T18:18:35-05:00",
@@ -510,13 +517,6 @@
         "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
         "pubDate": "2026-11-18T14:40:36-05:00",
         "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Nvidia’s rise, visualized",
-        "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
-        "pubDate": "2026-11-18T14:30:00-05:00",
-        "description": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that",
         "source": "TheVerge"
       }
     ],
@@ -572,44 +572,64 @@
         "products": "Check Point Products"
       },
       {
-        "title": "Mozilla Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
+        "title": "Drupal Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
+        "pubDate": "Thu, 19 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Mozilla Products"
+        "products": "Drupal"
       },
       {
-        "title": "Palo Alto Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 11:00:00 +0800",
+        "title": "Mozilla Firefox Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20261119",
+        "pubDate": "Thu, 19 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Palo Alto Products"
+        "products": "Mozilla Firefox"
       },
       {
-        "title": "Node.js Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 10:00:00 +0800",
+        "title": "Synology DiskStation Manager Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/synology-diskstation-manager-remote-code-execution-vulnerability_20261119",
+        "pubDate": "Thu, 19 Nov 2026 10:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Node.js"
+        "products": "Synology DiskStation Manager"
       },
       {
-        "title": "Citrix XenServer Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261112",
-        "pubDate": "Thu, 12 Nov 2026 09:00:00 +0800",
+        "title": "F5 Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20261119",
+        "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Citrix XenServer"
+        "products": "F5 Products"
+      },
+      {
+        "title": "Nginx Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261119",
+        "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Nginx"
+      },
+      {
+        "title": "WordPress Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20261119",
+        "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "WordPress"
       },
       {
         "title": "Microsoft Edge Multiple Vulnerabilities",
@@ -650,16 +670,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Apache HTTP Server"
-      },
-      {
-        "title": "Citrix Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20261113",
-        "pubDate": "Fri, 13 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Citrix Products"
       }
     ]
   }
