@@ -1,7 +1,21 @@
 {
-  "ts": "2026-11-19T09:28:58.487288Z",
+  "ts": "2026-11-19T18:39:05.578921Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
+        "link": "https://www.ithome.com.tw/news/180665",
+        "pubDate": "2026-11-19 18:24",
+        "description": "愛爾蘭約40家信用合作社受到第三方IT服務供應商資安事件波及，提供銀行軟體及IT服務的Wellington IT遭駭，導致會員在網路銀行儲存的收款帳戶資料，包括收款人姓名、銀行帳號等資訊遭到未經授權存取。此外，事件早在10月初就已發生，供應商卻直到11月中旬才通知客戶，也成為另一項關注焦點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "勒索軟體駭客The Gentlemen聲稱入侵Nvidia，疑為合作夥伴遭駭受到波及",
+        "link": "https://www.ithome.com.tw/news/180664",
+        "pubDate": "2026-11-19 17:43",
+        "description": "勒索軟體組織The Gentlemen近日於暗網網站將Nvidia列入受害者名單，聲稱竊得該公司內部資料，要脅必須在10天內處理，否則將會竊得資料公開。對此，Nvidia表示正在調查疑似受到影響第三方合作夥伴的事件，Nvidia的系統與網路環境目前尚未發現遭到入侵的跡象",
+        "source": "iThome資安"
+      },
       {
         "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
         "link": "https://www.ithome.com.tw/news/180662",
@@ -28,6 +42,13 @@
         "link": "https://www.ithome.com.tw/news/180656",
         "pubDate": "2026-11-19 15:57",
         "description": "電商公司富邦媒（8454）旗下mo店+服務出貨資料發生疑似資安事件，經初步調查，部分出貨資料遭未經授權存取，該公司已啟動資安應變機制，隔離受影響系統，並將通知疑似受影響的顧客",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月19日，Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
+        "link": "https://www.ithome.com.tw/news/180654",
+        "pubDate": "2026-11-19 15:00",
+        "description": "廣泛使用的網頁伺服器軟體Nginx緊急修補10個安全漏洞，其中5個可能讓駭客遠端執行程式碼，資安業者Xint也獨立發現這5個漏洞，將它們稱為nginx2root",
         "source": "iThome資安"
       },
       {
@@ -87,25 +108,18 @@
         "source": "iThome資安"
       },
       {
-        "title": "JINS、三菱UFJ銀行等數十家日本企業陸續發布資安事件公告，皆因第三方行銷科技業者PLAID旗下KARTE平臺遭駭",
-        "link": "https://www.ithome.com.tw/news/180640",
-        "pubDate": "2026-11-19 11:17",
-        "description": "再傳第三方服務供應商遭駭事件！日本行銷科技服務業者PLAID旗下的KARTE平臺遭駭，攻擊者利用伺服器漏洞入侵，竊取系統認證資訊及客戶資料，導致使用該服務的數十家日本企業受到波及，包括眼鏡品牌JINS、三菱UFJ銀行等，目前至少有數十家企業已陸續公告會員個資外洩或可能外洩的情況",
-        "source": "iThome資安"
+        "title": "Google Gemini 4 Neon協調Hydrogen子代理開發程式，評測成績略勝Claude",
+        "link": "https://www.ithome.com.tw/news/180663",
+        "pubDate": "2026-11-19  09:11:26",
+        "description": "Google新推出AI模型Gemini 4 Neon，主要用於複雜程式開發、企業資料分析及需要長時間執行的AI代理任務。在Google Antigravity開發環境的協調模式中，Neon負責規畫任務並檢查執行成果，速度較快的Gemini 4 Hydrogen則負責修改程式、更新套件及執行測試。新模型已陸續開放開發者、企業及付費訂閱者使用。",
+        "source": "iThome"
       },
       {
-        "title": "Apache Roller反序列化漏洞已遭利用，開發團隊警告漏洞影響範圍涵蓋近20年的版本",
-        "link": "https://www.ithome.com.tw/news/180639",
-        "pubDate": "2026-11-19 10:30",
-        "description": "Apache基金會（ASF）警告，開源部落格發布平臺Apache Roller反序列化漏洞CVE-2026-82384（CVE-2026-129448）已遭積極利用，影響近20年的所有版本，呼籲用戶更新至6.1.6以上版本因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客利用AI代理框架ARTEX攻擊資安公司Barracuda，44小時入侵10個雲端帳戶搜刮憑證",
-        "link": "https://www.ithome.com.tw/news/180621",
-        "pubDate": "2026-11-19 09:55",
-        "description": "資安公司Barracuda本月初遭到入侵，攻擊者利用AI代理框架ARTEX，透過第三方AI公司的開發環境取得未撤銷的雲端存取金鑰，在44小時內橫跨約10個雲端帳戶，竊取AWS、Azure，以及Kubernetes憑證，並搜尋加密貨幣錢包資訊",
-        "source": "iThome資安"
+        "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
+        "link": "https://www.ithome.com.tw/news/180666",
+        "pubDate": "2026-11-19  06:11:50",
+        "description": "臺灣港務公司今天（11/19）公布旗下的臺中港、高雄港智慧港口轉型的最新進展，分別聚焦船舶交通管理智慧化與貨櫃物流數位化，顯示國內商港的數位轉型已從港區資訊系統建置，逐步延伸至AI影像辨識、船舶交通管理、文件數位化與跨系統資料串接等應用。\n高雄港作為國內最大的國際商港及貨櫃樞紐，著重提升貨櫃物流效率；而臺中港則肩負中部能源、大宗散雜貨及產業供應鏈的重要角色，因此將數位轉型重點放在船舶航行安全與港區交通管理，兩者分別從港口營運不同面向推動智慧港口發展。",
+        "source": "iThome"
       },
       {
         "title": "Climate Change AI共同創辦人：AI永續關鍵不是更大模型，而是選對AI工具",
@@ -180,17 +194,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "【個人 AI 代理還進不了公司】資安與成本風險未解，企業版代理人才是可行路徑",
-        "link": "https://techorange.com/2026/11/18/personal-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 10:34:14 +0800",
-        "description": "AI 代理人已經能替使用者處理生活瑣事，甚至代為議價、談方案。但當員工想把同樣的工具帶進公司，連上工作信箱與企業系統，問題就沒那麼簡單。 個人代理人與聊天機器人有本質差異 Muse、Instinct，以及 ChatGPT 開發商 OpenAI 推出的 Dots 等個人代理人，有潛力徹底改變人們與各種系統互動的方式，不論是消費或商業用途。 客服軟體公司 Zendesk 執行長 Tom Eggemeier 近期受訪時就分享，社群平台巨頭 Meta 推出的個人代理人 Muse，5 天內幫他省下 3,1",
+        "title": "AI 代理學會自己整理筆記？Google 記下「為何這樣改」、Meta 試著把技巧練進模型",
+        "link": "https://techorange.com/2026/11/19/google-meta-ai-self-improving-memory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 17:12:40 +0800",
+        "description": "Google 與 Meta 近日分別發表研究，探討如何讓 AI 代理（AI agent）從過去的執行經驗中持續改進。兩項研究都著眼於 AI 代理的工作框架（harness），也就是管理上下文、工具與執行流程的機制；這類設計目前多仰賴人工反覆調整與評測，記憶管理方式也多由人工撰寫的提示詞決定。 兩者的技術路徑並不相同。Google 提出的 Self-Improvement Memory（SIM），讓負責最佳化工作框架的系統保存過往的修改經驗，以便在更換資料集或模型後延續既有改進；Meta 提出的 ",
         "source": "TechOrange"
       },
       {
-        "title": "ChatGPT 推薦後的品牌造訪，僅 8.8% 從 AI 點擊進站：IAB「歸因藍圖」先定義誰能爭功",
-        "link": "https://techorange.com/2026/11/18/iab-ai-era-attribution-blueprint/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 09:30:29 +0800",
-        "description": "美國互動廣告局（IAB）於美國時間 11/12 發布《AI 時代歸因藍圖》（AI-Era Attribution Blueprint），指出 AI 涉入的成交沒有從報表上消失，而是常被記到錯的來源。IAB 在報告中引用 Similarweb 的追蹤數據，收到 ChatGPT 品牌推薦的美國桌機用戶，之後 7 天內造訪該品牌網站的流量，只有 8.8% 是從 AI 點擊進站，過半仍來自搜尋。 歸因（attribution）是判斷一筆成交的功勞（credit）該算在哪個廣告或管道頭上，也決定下一筆預算",
+        "title": "網銀帳密交給 AI 代理，連外洩被盜用都算客戶的？花旗改條款，美國大銀行陸續劃定責任歸屬",
+        "link": "https://techorange.com/2026/11/19/us-banks-ai-agent-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 16:26:41 +0800",
+        "description": "美國第三大商業銀行花旗（Citi）11 月更新線上用戶協議，新增「使用第三方 AI 代理」專節：客戶若把網路銀行登入帳密（Online Credentials，下稱網銀帳密）交給第三方 AI 代理（AI Agent），代理的所有存取與操作，花旗都會視為客戶授權；這組帳密若再遭轉傳或外洩，其他人或代理用它進行的操作也一樣。花旗透過自家網銀 Citi Online 與 App Citi Mobile 提供的 AI 代理、工具或功能（包括第三方代理），則不適用這節條款。 花旗不是唯一一家更新用戶協議的",
         "source": "TechOrange"
       },
       {
@@ -273,27 +287,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-        "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-        "pubDate": "Wed, 18 Nov 2026 17:45:00 +0530",
-        "description": "TL;DR\n\n\n  Attackers move first. On average, exploitation now starts before a patch exists (Mandiant M-Trends 2026). In 1H 2026, 23% of vulnerabilities VulnCheck added to its exploited list were hit on or before disclosure day.\n  AI pentesting vendors",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-        "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-        "pubDate": "Wed, 18 Nov 2026 17:25:49 +0530",
-        "description": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week.\n\nThe flaw is present in Ja",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-        "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-        "pubDate": "Wed, 18 Nov 2026 16:33:57 +0530",
-        "description": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
         "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
         "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500",
@@ -308,39 +301,11 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-        "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-        "pubDate": "Wed, 18 Nov 2026 13:54:31 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical security flaw impacting Perforce Puppet, an enterprise infrastructure-as-code (IaC) and configuration management platform, to its Known Exploited Vulnerabili",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-        "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-        "pubDate": "Wed, 18 Nov 2026 13:54:23 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has urged organizations to immediately patch a newly disclosed critical security flaw impacting Oracle Java.\n\nThe flaw, tracked as CVE-2026-114938 (CVSS score: 8.1), refers to a case of",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-        "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-        "pubDate": "Wed, 18 Nov 2026 12:15:26 +0530",
-        "description": "Threat actors have compromised Microsoft's agent-framework package to push a credential stealer, according to reports from Aikido, Chainguard, Endor Labs, OX Security, SafeDep, Socket, StepSecurity, and Google-owned Wiz.\n\nThe malicious versions, 1.26",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
         "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
         "pubDate": "Wed, 18 Nov 2026 11:58:42 -0500",
         "description": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
-        "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
-        "pubDate": "Wed, 18 Nov 2026 11:28:04 +0530",
-        "description": "The Russia-linked cyber espionage group known as Cold Relic (formerly COLDRIVER and UNC4057) has been observed weaponizing a single cloud compromise into a launchpad for a series of linked intrusions resulting in third-party compromise.\n\nGoogle's Man",
-        "source": "TheHackerNews"
       },
       {
         "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
@@ -364,18 +329,67 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Microsoft announces Windows Server 2028 with hardened security",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/",
-        "pubDate": "Wed, 18 Nov 2026 04:24:31 -0500",
-        "description": "Microsoft has announced Windows Server 2028, the next major release of its server operating system, at the Ignite 2026 conference on Tuesday. [...]",
-        "source": "BleepingComputer"
+        "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+        "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+        "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530",
+        "description": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow th",
+        "source": "TheHackerNews"
       },
       {
-        "title": "British Scattered Spider hacker sentenced to 6 years in prison",
-        "link": "https://www.bleepingcomputer.com/news/security/british-scattered-spider-hacker-sentenced-to-6-years-in-prison/",
-        "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500",
-        "description": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
-        "source": "BleepingComputer"
+        "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
+        "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
+        "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530",
+        "description": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.\n\nThe release of the patch follows an advance not",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+        "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
+        "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530",
+        "description": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branc",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
+        "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
+        "pubDate": "Thu, 19 Nov 2026 20:03:06 +0530",
+        "description": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a site takeover or remote code execution, and the proje",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Everything Is a Web Application, Including Your Firewall",
+        "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+        "pubDate": "Thu, 19 Nov 2026 17:22:23 +0530",
+        "description": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exp",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+        "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+        "pubDate": "Thu, 19 Nov 2026 15:01:26 +0530",
+        "description": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n\"We have taken steps to mitigate the th",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+        "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+        "pubDate": "Thu, 19 Nov 2026 14:12:11 +0530",
+        "description": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+        "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+        "pubDate": "Thu, 19 Nov 2026 13:44:00 +0530",
+        "description": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits,",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+        "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+        "pubDate": "Thu, 19 Nov 2026 13:30:00 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) t",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -408,66 +422,66 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic prices IPO at $83 a share, above projected range",
-        "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
-        "pubDate": "Wed, 18 Nov 2026 22:11:15 +0000",
-        "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+        "title": "Google gives Gemini the ability to use your Mac for you",
+        "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
+        "pubDate": "Thu, 19 Nov 2026 18:09:11 +0000",
+        "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
         "source": "TechCrunch"
       },
       {
-        "title": "Palmer Luckey doesn’t deny that he’s a prepper",
-        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
-        "pubDate": "Wed, 18 Nov 2026 22:04:03 +0000",
-        "description": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+        "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+        "pubDate": "Thu, 19 Nov 2026 17:38:40 +0000",
+        "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
-        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
-        "pubDate": "Wed, 18 Nov 2026 21:57:40 +0000",
-        "description": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+        "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
+        "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
+        "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
+        "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
         "source": "TechCrunch"
       },
       {
-        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
-        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
-        "pubDate": "Wed, 18 Nov 2026 21:34:13 +0000",
-        "description": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
+        "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
+        "pubDate": "Thu, 19 Nov 2026 16:59:23 +0000",
+        "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
         "source": "TechCrunch"
       },
       {
-        "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
-        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
-        "pubDate": "Wed, 18 Nov 2026 21:31:21 +0000",
-        "description": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
+        "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
+        "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
+        "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
         "source": "TechCrunch"
       },
       {
-        "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
-        "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
-        "pubDate": "Wed, 18 Nov 2026 20:07:01 +0000",
-        "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+        "title": "UK government forced to disclose secret Apple backdoor order",
+        "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
+        "pubDate": "Thu, 19 Nov 2026 15:32:20 +0000",
+        "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
         "source": "TechCrunch"
       },
       {
-        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
-        "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
-        "pubDate": "Wed, 18 Nov 2026 19:56:39 +0000",
-        "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
+        "pubDate": "Thu, 19 Nov 2026 14:54:39 +0000",
+        "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
         "source": "TechCrunch"
       },
       {
-        "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
-        "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
-        "pubDate": "Wed, 18 Nov 2026 19:29:41 +0000",
-        "description": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
+        "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
+        "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
+        "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+        "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google’s AI feature in Search gets its own incognito mode",
-        "link": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
-        "pubDate": "Wed, 18 Nov 2026 18:04:05 +0000",
-        "description": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+        "title": "Superhuman pushes its Go assistant everywhere",
+        "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
+        "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+        "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
         "source": "TechCrunch"
       },
       {
@@ -485,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk tries to explain what&#8217;s going on with Ukraine and Starlink",
-        "link": "https://www.theverge.com/tech/1037448/elon-musk-ukraine-starlink-starshield-nyt-dealbook",
-        "pubDate": "2026-11-18T20:39:45-05:00",
-        "description": "Elon Musk said Ukrainian president Volodymyr Zelenskyy is lying about disruptions to Starshield in Ukraine and that he's trying to misuse SpaceX's consumer service, Starlink, for military purposes. Musk made the comments at The New York Times' DealBo",
+        "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
+        "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
+        "pubDate": "2026-11-19T13:33:08-05:00",
+        "description": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low",
         "source": "TheVerge"
       },
       {
-        "title": "The nation’s largest school districts consider ditching Google Search",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
-        "pubDate": "2026-11-18T18:18:35-05:00",
-        "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the o",
+        "title": "Gemini on Mac can now use your computer",
+        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
+        "pubDate": "2026-11-19T13:21:13-05:00",
+        "description": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up work",
         "source": "TheVerge"
       },
       {
-        "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
-        "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
-        "pubDate": "2026-11-18T17:05:48-05:00",
-        "description": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, includ",
+        "title": "Leaked images reveal Motorola’s wide foldable",
+        "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
+        "pubDate": "2026-11-19T13:19:03-05:00",
+        "description": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new ",
         "source": "TheVerge"
       },
       {
-        "title": "Absolute Batman can save DC Studios",
-        "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
-        "pubDate": "2026-11-18T16:20:00-05:00",
-        "description": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though G",
+        "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
+        "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
+        "pubDate": "2026-11-19T13:15:00-05:00",
+        "description": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and ",
         "source": "TheVerge"
       },
       {
-        "title": "Trump’s latest land grab is an AI hub in the Philippines",
-        "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
-        "pubDate": "2026-11-18T14:40:36-05:00",
-        "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played",
+        "title": "Apple’s iPhone camera leader has reportedly left the company",
+        "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
+        "pubDate": "2026-11-19T13:13:05-05:00",
+        "description": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet n",
         "source": "TheVerge"
       }
     ],
