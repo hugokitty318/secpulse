@@ -1,7 +1,42 @@
 {
-  "ts": "2026-11-18T19:34:03.100691Z",
+  "ts": "2026-11-19T01:28:15.760018Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Palo Alto Networks斥資45億美元併購AI新創Applied Compute",
+        "link": "https://www.ithome.com.tw/news/180637",
+        "pubDate": "2026-11-19 09:21",
+        "description": "Applied Compute公司專注於開放權重AI模型的訓練、推論與部署。Palo Alto Networks希望藉此擴大企業AI市場布局，協助客戶在公有雲或主權雲環境中安全部署AI模型",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟Agent Framework套件遭植入惡意程式，鎖定Azure及CI/CD環境憑證",
+        "link": "https://www.ithome.com.tw/news/180624",
+        "pubDate": "2026-11-19 08:00",
+        "description": "微軟AI代理開發框架Microsoft Agent Framework的Python套件出現兩個惡意版本，攻擊者利用Python啟動機制執行憑證竊取程式，鎖定雲端及CI/CD環境。惡意版本已從PyPI移除，但已安裝的環境仍需檢查憑證是否外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員揭Gemini 4 Argon行為偏離測試結果，AI代理繞過網路限制、試圖攻擊真實網站",
+        "link": "https://www.ithome.com.tw/news/180579",
+        "pubDate": "2026-11-19 08:00",
+        "description": "AI安全研究機構Trajectory Labs測試Gemini 4 Argon時，發現部分AI代理為完成指定任務，試圖攻擊AI研究機構Epoch AI的正式網站，並冒用員工身分索取未公開資訊。研究團隊改用網站副本進行測試後，仍有AI代理繞過網路限制，再次連上正式網站",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI代理廣泛用於軟體開發，但不到1成企業能全面偵測未受管控AI活動",
+        "link": "https://www.ithome.com.tw/news/180578",
+        "pubDate": "2026-11-19 08:00",
+        "description": "Palo Alto Networks雲端安全調查顯示，99%的受訪組織在軟體開發流程中使用AI代理，但不到1成能在企業使用的不同雲端環境中，全面自動偵測並分類未受管控的AI活動。此外，4成組織無法查明AI代理曾執行哪些操作，可能影響企業追查異常活動",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CSA發布自主滲透測試標準APAS，建立AI測試結果可信度評估規範",
+        "link": "https://www.ithome.com.tw/news/180548",
+        "pubDate": "2026-11-19 08:00",
+        "description": "雲端安全聯盟（CSA）發布自主滲透測試保證標準APAS 1.0，提出7項品質評估面向，要求AI工具提供可供第三方查核的漏洞證據，並將自動化程度與測試品質分開評估。相關認證制度尚未啟動，企業可先將標準作為評估AI滲透測試工具的參考",
+        "source": "iThome資安"
+      },
       {
         "title": "NuGet.org新增套件上架核准機制，降低自動化憑證遭濫用風險",
         "link": "https://www.ithome.com.tw/news/180626",
@@ -70,41 +105,6 @@
         "link": "https://www.ithome.com.tw/news/180610",
         "pubDate": "2026-11-18 14:27",
         "description": "日本理化學研究所（理研）證實，連結超級電腦富岳的系統遭駭客入侵，最多4,597名用戶的個資可能外洩，部分用戶儲存的存取憑證也面臨外洩風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Chrome 158正式推出，修補204個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180609",
-        "pubDate": "2026-11-18 12:52",
-        "description": "本週Google推出Chrome大改版158，總共修補204個漏洞，其中6個有重大風險、62個有高風險、其餘存在中度或低風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Node.js修補16個漏洞，包括可能導致伺服器當機與洩漏連線資料的HTTP/2漏洞",
-        "link": "https://www.ithome.com.tw/news/180608",
-        "pubDate": "2026-11-18 12:45",
-        "description": "Node.js存在多項HTTP/2與HTTPS相關問題，可能遭未經身分驗證的遠端攻擊者利用，造成服務中斷或記憶體資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安署揭露某機關平臺忘記帳號功能存在身分驗證漏洞，而被新增34組異常帳號",
-        "link": "https://www.ithome.com.tw/news/180607",
-        "pubDate": "2026-11-18 12:36",
-        "description": "資安署公布115年10月《資通安全網路月報》，當中揭露一起政府機關服務平臺的資安事件，該平臺「忘記帳號」功能存在身分驗證漏洞，導致系統誤判憑證驗證狀態，使攻擊者於未完成憑證驗證情況下，仍取得帳號維護權限，並用以新增34組異常帳號，所幸異常帳號的後續行動被攔阻，未釀成更大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "N-able發布N-central重大安全更新，修補17個漏洞並強化身分驗證機制",
-        "link": "https://www.ithome.com.tw/news/180606",
-        "pubDate": "2026-11-18 12:11",
-        "description": "N-able於11月16日發布N-central 2026.4 Hotfix 3（HF3）安全更新，修補17個漏洞，涵蓋身分驗證繞過、權限控管不足、遠端命令執行及XML外部實體注入等問題，並強化Agent與Probe的身分驗證機制。N-able呼籲用戶，應儘速更新伺服器及代理程式等元件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Oracle發布11月例行更新，修補640個資安漏洞",
-        "link": "https://www.ithome.com.tw/news/180603",
-        "pubDate": "2026-11-18 11:35",
-        "description": "本週Oracle發布11月關鍵安全修補更新（CSPU），針對旗下21個產品家族共發布655個修補程式，修補640個漏洞，其中57個屬於重大等級",
         "source": "iThome資安"
       },
       {
@@ -222,17 +222,17 @@
         "source": "TechOrange"
       },
       {
-        "title": "機器人規格尚未定型，台廠如何搶得話語權？鴻海、華碩、Google 談場域新機會",
-        "link": "https://techorange.com/2026/11/17/hhtd-2026-taiwan-robot-panel/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 16:13:05 +0800",
-        "description": "兩台不同品牌的機器人在一家醫療業者的走道上卡住，因為彼此不會溝通。這是 Google Cloud AI 解決方案資深協理李浩賓於 10/31，在「台灣在 AI 時代的新經濟定位」座談中分享的海外案例。這場座談屬於 2026 鴻海科技日週六場的「台灣 AI 機器人產業開發大會」（由鴻海科技集團與《科技報橘》合辦），由科技報橘社長戴季全主持，與談的還有鴻海科技集團機器人事業處總經理郭柳宗，以及華碩電腦實體 AI 解決方案－人形機器人事業部總經理王恆聰。 戴季全在座談後段拋出一個對比：PC 產業發展時",
+        "title": "AI Agent 搶走購物入口：Airbnb、The RealReal 如何守住流量與交易秩序？",
+        "link": "https://techorange.com/2026/11/19/ai-agents-shopping-airbnb-the-realreal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 08:10:00 +0800",
+        "description": "當科技公司將 AI Agent 推向市場，主打能為數十億用戶排定會議、籌辦派對與購買商品時，網路購物迅速成為這些代理人的熱門應用。以 Meta 推出的 Muse 為例，該軟體在美國上線 40 天內即突破 1,000 萬次下載，Meta 在第三季財報電話會議中更透露「購物」是目前最常出現的使用情境，平均交易金額超過 200 美元。這股趨勢顯示 AI Agent 逐漸成為消費者取得商品與服務的新介面，卻也正式為網路平台帶來巨大的營運挑戰。 搜尋入口被移轉，平台直接流量與廣告收益面臨衝擊 AI Age",
         "source": "TechOrange"
       },
       {
-        "title": "阿里巴巴稱 Qwen4-Max 任務成本降約六成，分析師：企業還要算重試與人工驗收",
-        "link": "https://techorange.com/2026/11/17/alibaba-qwen4-max-cost-per-task-enterprise/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 17 Nov 2026 16:00:09 +0800",
-        "description": "阿里巴巴 11/16 發表新旗艦模型 Qwen4-Max，稱它是千問（Qwen）家族迄今能力最強的模型。阿里巴巴依自家測試指出，和前代 Qwen3.8-Max 相比，Qwen4-Max 每項任務的平均成本降低約六成；官方也拿它和 Anthropic、OpenAI 的旗艦模型比較，16 項測試中有 6 項領先 Claude Opus 5.5。 阿里巴巴主打的，不只是每百萬 token 的單價，而是完成一項任務要花多少錢。不過，廠商在自家測試中算出的成本，能不能代表企業實際拿到的帳單？企業評估或更換",
+        "title": "【科技早餐】黃仁勳卸任後 NVIDIA 營收飆 1,158 億美元！上修成長預測、台積電等供應鏈擴產",
+        "link": "https://techorange.com/2026/11/19/nvidia-earnings-jensen-huang-tsmc-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 19 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳卸任後 NVIDIA 營收年增 103%！上修 2028 財年預測，擴大台積電供應鏈產能 NVIDIA 11 月 17 日公布 2027 財年第三季財報，單季營收達 1,158 億美元，年增 103%、季增 20%，再次創下歷史新高。其中，資料中心業務營收達 1,076 億美元，年增 110%，占整體營收超過九成，顯示大型雲端業者、AI 模型開發商與企業持續投入算力基礎建設。這也是共同創辦人黃仁勳 11 月 12 日辭去執行長職務後，公司",
         "source": "TechOrange"
       }
     ],
@@ -257,6 +257,13 @@
         "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530",
         "description": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+        "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+        "pubDate": "Wed, 18 Nov 2026 18:08:33 -0500",
+        "description": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
@@ -285,6 +292,20 @@
         "pubDate": "Wed, 18 Nov 2026 16:33:57 +0530",
         "description": "AI is speeding up how software is built, which means more code, more changes, and more chances for vulnerabilities to reach production. It's speeding up how attackers find and exploit them too, with time-to-exploit now down to a single day. Security ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
+        "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
+        "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500",
+        "description": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
+        "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
+        "pubDate": "Wed, 18 Nov 2026 14:39:33 -0500",
+        "description": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
@@ -355,35 +376,91 @@
         "pubDate": "Wed, 18 Nov 2026 03:24:18 -0500",
         "description": "A leader of the Scattered Spider cybercrime collective has been sentenced to six years in prison in the United States for stealing millions in cryptocurrency and conspiring to hack a dozen companies. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
-        "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
-        "pubDate": "Wed, 18 Nov 2026 01:04:20 +0530",
-        "description": "A malicious widget can bypass the security filter that Telegram added to its Android app last week and run code outside it, according to NebuSec, a security company.\n\nWidgets are small interactive blocks that bots send inside chat messages, and their",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
-        "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
-        "pubDate": "Tue, 17 Nov 2026 20:47:36 +0530",
-        "description": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code execution (",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
-        "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
-        "pubDate": "Tue, 17 Nov 2026 20:47:28 +0530",
-        "description": "Artificial intelligence (AI), blockchain, and logistics sectors across Europe and the U.S. have emerged as the target of a large-scale, industrialized campaign dubbed Trigram.\n\n\"Trigram is a large-scale campaign that impersonates about 50 brands in t",
-        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
       {
+        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
+        "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+        "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
+        "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
+        "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+        "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000",
+        "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+        "pubDate": "Wed, 18 Nov 2026 23:17:28 +0000",
+        "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+        "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+        "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000",
+        "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic reportedly prices IPO at $83 a share, above projected range",
+        "link": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+        "pubDate": "Wed, 18 Nov 2026 22:11:15 +0000",
+        "description": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palmer Luckey doesn’t deny that he’s a prepper",
+        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-doesnt-deny-that-hes-a-prepper/",
+        "pubDate": "Wed, 18 Nov 2026 22:04:03 +0000",
+        "description": "The Anduril founder said Wednesday that Americans should always have three days of food, water, and medicine — just in case.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+        "link": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+        "pubDate": "Wed, 18 Nov 2026 21:57:40 +0000",
+        "description": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: ‘It’s time to start running’",
+        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+        "pubDate": "Wed, 18 Nov 2026 21:34:13 +0000",
+        "description": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated",
+        "link": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
+        "pubDate": "Wed, 18 Nov 2026 21:31:21 +0000",
+        "description": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Sam Altman says his life is so weird that he’s unfazed by Andrew Garfield portraying him in upcoming movie",
+        "link": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+        "pubDate": "Wed, 18 Nov 2026 20:07:01 +0000",
+        "description": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code and Cursor",
+        "link": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+        "pubDate": "Wed, 18 Nov 2026 19:56:39 +0000",
+        "description": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Spend management platform Payhawk announces $280M raise, 2B valuation",
         "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
         "pubDate": "Wed, 18 Nov 2026 19:29:41 +0000",
-        "description": "UK fintech Payhawk announced Wednesday a $280 million Series C round led by Goldman Sachs’ growth equity arm.",
+        "description": "Founded in 2018, Payhawk is an enterprise financial management platform that helps companies track and manage expenses and procurement using AI agents.",
         "source": "TechCrunch"
       },
       {
@@ -394,129 +471,52 @@
         "source": "TechCrunch"
       },
       {
-        "title": "More banks say customers using AI agents are on their own — even if they get hacked",
-        "link": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
-        "pubDate": "Wed, 18 Nov 2026 17:32:10 +0000",
-        "description": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+        "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000",
+        "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way",
         "source": "TechCrunch"
       },
       {
-        "title": "David Ellison says HBO will air critical Elon Musk documentary despite his $1B investment in Skydance",
-        "link": "https://techcrunch.com/2026/11/18/david-ellison-says-hbo-will-air-critical-elon-musk-documentary-despite-1b-investment-in-skydance/",
-        "pubDate": "Wed, 18 Nov 2026 17:30:56 +0000",
-        "description": "Following news of the investment, questions emerged over how Musk's sizable stake in the company might affect Skydance's plans to distribute a documentary that is highly critical of him.",
+        "title": "Elon Musk says: ‘I’m not MAGA’",
+        "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
+        "pubDate": "Thu, 19 Nov 2026 00:40:49 +0000",
+        "description": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
         "source": "TechCrunch"
       },
       {
-        "title": "Sam Altman warns against a future where AI, not humans, calls the shots",
-        "link": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
-        "pubDate": "Wed, 18 Nov 2026 16:59:00 +0000",
-        "description": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "OpenAI CEO Sam Altman says it’s ‘hard to imagine the AI industry without Jensen’",
-        "link": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
-        "pubDate": "Wed, 18 Nov 2026 16:14:09 +0000",
-        "description": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sony’s updated turntable is an easy entry into the world of vinyl",
-        "link": "https://techcrunch.com/2026/11/18/sonys-updated-turntable-is-an-easy-entry-into-the-world-of-vinyl/",
-        "pubDate": "Wed, 18 Nov 2026 16:00:00 +0000",
-        "description": "Sony's updated turntable for beginners features automatic playback, USB connectivity, and aptX Adaptive Bluetooth.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "British hackers face prison for GTA 6 data breach and crypto thefts",
-        "link": "https://techcrunch.com/2026/11/18/british-hackers-face-prison-for-gta-6-data-breach-and-crypto-thefts/",
-        "pubDate": "Wed, 18 Nov 2026 14:55:13 +0000",
-        "description": "Two British hackers face lengthy prison sentences for hacks that broke into the Grand Theft Auto gamemaker and for stealing millions in crypto.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia clarifies when it will — and won’t — keep financing neoclouds",
-        "link": "https://techcrunch.com/2026/11/18/nvidia-clarifies-when-it-will-and-wont-keep-financing-neoclouds/",
-        "pubDate": "Wed, 18 Nov 2026 13:00:00 +0000",
-        "description": "If Nvidia is backstopping a data center loan, it won't be on the hook unless the neocould has independent financing and gets the facility built, with Nvidia gear installed, interim CEO Colette Kress explained.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-        "link": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
-        "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
-        "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "India’s Humyn Labs raises $47M to feed US robotics companies the data they need",
-        "link": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
-        "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000",
-        "description": "Founded in February, Humyn Labs competes with startups such as Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "China dominates battery graphite, but this startup could break the monopoly",
-        "link": "https://techcrunch.com/2026/11/18/china-dominates-battery-graphite-but-this-startup-could-break-the-monopoly/",
-        "pubDate": "Wed, 18 Nov 2026 11:00:00 +0000",
-        "description": "Chinese companies maintain near total dominance of the graphite industry, but Molten Industries says its new factory in Oakland could spell the end of the monopoly.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals in doubt",
-        "link": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
-        "pubDate": "Wed, 18 Nov 2026 01:44:21 +0000",
-        "description": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia promises that revenue will keep soaring — for now",
-        "link": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
-        "pubDate": "Wed, 18 Nov 2026 00:16:50 +0000",
-        "description": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Stripe backer Atomico calls for Europe to own its success stories",
-        "link": "https://techcrunch.com/2026/11/17/stripe-backer-atomico-calls-for-europe-to-own-its-success-stories/",
-        "pubDate": "Wed, 18 Nov 2026 00:01:00 +0000",
-        "description": "Europe is home to many of the world's fastest growing companies of all time, veteran VC firm Atomico highlighted in its latest annual State of European Tech report.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "The best early Black Friday deals you can already shop",
-        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "pubDate": "2026-11-18T13:44:27-05:00",
-        "description": "The countdown to Black Friday is on, and the discounts are starting to appear. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising ",
+        "title": "The nation’s largest school districts consider ditching Google Search",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+        "pubDate": "2026-11-18T18:18:35-05:00",
+        "description": "New York, Los Angeles, and Chicago schools are considering Google alternatives after the company said it will disable Search for schools that opt out of its AI features, according to The New York Times. Starting next year, schools will not have the o",
         "source": "TheVerge"
       },
       {
-        "title": "The first Nvidia RTX Spark mini PCs launch today from Asus, Dell, and MSI",
-        "link": "https://www.theverge.com/tech/1036880/nvidia-rtx-spark-ai-mini-pc-desktops",
-        "pubDate": "2026-11-18T13:34:55-05:00",
-        "description": "After the first RTX Spark laptops launched earlier this year, Nvidia's RTX Spark N1X chip is also now available in desktops from Asus, Dell, and MSI. More RTX Spark desktops are coming later from Acer, Gigabyte, and HP, while Microsoft's Surface RTX ",
+        "title": "Democrats skip a vote on adding Brendan Carr’s adviser to the FCC",
+        "link": "https://www.theverge.com/policy/1037134/democrats-boycott-fcc-nomination-vote-danielle-thumann-severs",
+        "pubDate": "2026-11-18T17:05:48-05:00",
+        "description": "Senate commerce committee Chair Ted Cruz (R-TX) began a meeting Wednesday meant to confirm President Donald Trump's nominee to the Federal Communications Commission with a lopsided dais. To his right sat all 14 Republican members of the panel, includ",
         "source": "TheVerge"
       },
       {
-        "title": "What is Nvidia without AI’s sugar daddy in charge?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1036776/nvidia-earnings-kress-jensen-huang-petition",
-        "pubDate": "2026-11-18T13:34:15-05:00",
-        "description": "If the glorious AI revolution rests entirely on the well-being of one man, AI is perhaps not as robust a technology as I had previously been led to believe. Nonetheless, chunks of Silicon Valley are now insisting he is indispensable. For instance, if",
+        "title": "Absolute Batman can save DC Studios",
+        "link": "https://www.theverge.com/entertainment/1035722/absolute-batman-can-save-dc-studios",
+        "pubDate": "2026-11-18T16:20:00-05:00",
+        "description": "With James Gunn and Peter Safran out as the co-heads of DC Studios following Skydance's acquisition of Warner Bros. Discovery, it's unclear what will become of the cinematic universe that was building around movies like last year's Superman. Though G",
         "source": "TheVerge"
       },
       {
-        "title": "Our favorite accessories to level up your gaming setup ahead of GTA VI",
-        "link": "https://www.theverge.com/gadgets/1033262/best-gta-6-gaming-accessories-controllers-headsets-tvs",
-        "pubDate": "2026-11-18T13:19:15-05:00",
-        "description": "With Grand Theft Auto VI set to finally launch tomorrow, November 19th, our long-awaited return to Vice City is nearly here. But after all this time, some of the gear you’ve used in San Andreas might feel out of place on the glamorous streets of Leon",
+        "title": "Trump’s latest land grab is an AI hub in the Philippines",
+        "link": "https://www.theverge.com/policy/1036749/trump-ai-chip-data-center-us-philippines-pax-silica",
+        "pubDate": "2026-11-18T14:40:36-05:00",
+        "description": "President Donald Trump was greeted by no less than five beauty queens when he landed in the Philippines on Tuesday, according to local news outlet Rappler. As he stepped onto the tarmac, a child handed him small US and Philippine flags. A band played",
         "source": "TheVerge"
       },
       {
-        "title": "Google is forcing Android app developers to properly support foldables",
-        "link": "https://www.theverge.com/tech/1036796/google-android-app-games-developers-foldables-support",
-        "pubDate": "2026-11-18T13:00:00-05:00",
-        "description": "Now that Apple's foldable is here, Google wants to make sure apps on Android foldables are a good experience. Starting in April 2027, Google is going to require Android developers to make sure their apps have a baseline level of support for foldables",
+        "title": "Nvidia’s rise, visualized",
+        "link": "https://www.theverge.com/tech/1035924/nvidia-visualized-revenue-profit-earnings-after-huang",
+        "pubDate": "2026-11-18T14:30:00-05:00",
+        "description": "If someone handed you $8,300 every second, what would you do? That's how much pure profit Nvidia now makes. By the time you finish reading this paragraph, Nvidia will likely have cleared $45,000 and change. It's easy to look at Nvidia, a company that",
         "source": "TheVerge"
       }
     ],
