@@ -1,7 +1,14 @@
 {
-  "ts": "2026-11-20T17:14:54.207540Z",
+  "ts": "2026-11-20T23:19:52.015500Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "尼泊爾揭19家公立醫院開源電子病歷導入經驗，採6階段流程、中央統一開發與更新",
+        "link": "https://www.ithome.com.tw/news/180691",
+        "pubDate": "2026-11-21  02:11:15",
+        "description": "尼泊爾近年積極推動公立醫院病歷數位化，押寶開源電子病歷（EMR）系統取代傳統紙本作業。截至今年5月，已有19家公立醫院導入以OpenMRS為基礎的開源電子病歷，涵蓋全國7個省中的6個省。醫護人員可跨院內不同科部查閱病人的就醫紀錄、檢驗及放射科檢查結果，醫院也能用電子報表掌握日常營運情況。",
+        "source": "iThome"
+      },
       {
         "title": "Android手機變詐騙話務中繼站、泡芙箱藏上百張SIM卡！刑事局揭露詐團電話轉接新手法",
         "link": "https://www.ithome.com.tw/news/180687",
@@ -134,13 +141,6 @@
         "pubDate": "2026-11-20  01:11:16",
         "description": "本周在Ignite大會上，微軟公告已將Office in Copilot正式全面部署到所有用戶。微軟同時宣布多項商務環境的代理人服務，包括自主代理人Autopilot提供搶先體驗、針對商務用戶的Workspaces及Dynamics 365 in Copilot等。",
         "source": "iThome"
-      },
-      {
-        "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
-        "link": "https://www.ithome.com.tw/news/180665",
-        "pubDate": "2026-11-19 18:24",
-        "description": "愛爾蘭約40家信用合作社受到第三方IT服務供應商資安事件波及，提供銀行軟體及IT服務的Wellington IT遭駭，導致會員在網路銀行儲存的收款帳戶資料，包括收款人姓名、銀行帳號等資訊遭到未經授權存取。此外，事件早在10月初就已發生，供應商卻直到11月中旬才通知客戶，也成為另一項關注焦點",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
@@ -166,10 +166,10 @@
         "source": "TechOrange"
       },
       {
-        "title": "不禁用、改點名：川普政府研議要求美企揭露使用中國 AI 模型，能降低依賴嗎？",
-        "link": "https://techorange.com/2026/11/19/us-chinese-ai-disclosure/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 12:23:37 +0800",
-        "description": "據《Reuters》11/18 獨家報導，川普政府正考慮要求美國企業公開揭露使用了哪些中國 AI 模型。3 名知情人士指出，美國財政部與白宮科技政策辦公室（OSTP）已討論過這項方案，適用對象包括以阿里巴巴千問（Qwen）驅動 AI 客服的 Airbnb；依方案構想，這類企業須在官網公布相關資訊。不過，方案是否在政府內部獲得支持、推進後是否會走正式的規則制定程序，目前都還不清楚。 《Reuters》指出，揭露構想的用意是抑制美國企業對中國 AI 的依賴，又不必祭出可能激怒業界或北京的新限制。不同",
+        "title": "【Visa 全球數位匯款報告】近七成民眾更看重「由誰提供」，信任與防詐是穩定幣普及關鍵",
+        "link": "https://techorange.com/2026/11/21/future-of-global-money-movement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Sat, 21 Nov 2026 06:29:00 +0800",
+        "description": "全球數位支付機構 Visa 正式發布《Money Travels: 2026 Digital Remittances Adoption Report》（2026 年數位匯款採用報告），調查涵蓋全球 20 國、共 45,000 名跨國匯款參與者；報告揭示跨境支付的競爭焦點已從早期的「數位管道普及」轉向「機構信任與安全保障」，顯示制度信任是推動新興支付走向大眾普及的關鍵。 所謂「數位匯款（Digital Remittances）」，是指民眾不再跑實體銀行，直接用手機網銀或行動錢包將生活費、醫療費跨境",
         "source": "TechOrange"
       },
       {
@@ -308,20 +308,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
-        "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
-        "pubDate": "Thu, 19 Nov 2026 15:01:26 +0530",
-        "description": "N-able on Wednesday disclosed that unknown threat actors gained unauthorized access to one of the servers in the Mail Assure and Spam Experts Hosted Cloud, causing it to disable management interfaces and APIs.\n\n\"We have taken steps to mitigate the th",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
-        "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-        "pubDate": "Thu, 19 Nov 2026 14:12:11 +0530",
-        "description": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We a",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Transport for London breach exposes 265,000 Oyster card users' data",
         "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
         "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
@@ -350,18 +336,18 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
-        "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
-        "pubDate": "Thu, 19 Nov 2026 08:08:08 -0500",
-        "description": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
-        "source": "BleepingComputer"
+        "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+        "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+        "pubDate": "Fri, 20 Nov 2026 23:27:20 +0530",
+        "description": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871, has been described as a case",
+        "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
-        "pubDate": "Thu, 19 Nov 2026 06:46:00 -0500",
-        "description": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
-        "source": "BleepingComputer"
+        "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+        "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+        "pubDate": "Fri, 20 Nov 2026 22:28:16 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale.\n\nDutch mobile security company ThreatFabri",
+        "source": "TheHackerNews"
       },
       {
         "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
@@ -390,6 +376,20 @@
         "pubDate": "Fri, 20 Nov 2026 16:02:50 +0530",
         "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+        "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+        "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530",
+        "description": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CV",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
+        "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
+        "pubDate": "Fri, 20 Nov 2026 13:51:43 -0500",
+        "description": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
@@ -401,38 +401,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
-        "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
-        "pubDate": "Thu, 19 Nov 2026 22:33:26 +0000",
-        "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
+        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
+        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
+        "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
+        "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s new Muse Charm device may cost $300",
-        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
-        "pubDate": "Thu, 19 Nov 2026 21:58:06 +0000",
-        "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
+        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+        "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+        "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
+        "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
         "source": "TechCrunch"
       },
       {
-        "title": "These tech outages are giving Y2K, AI agent style",
-        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
-        "pubDate": "Thu, 19 Nov 2026 21:42:31 +0000",
-        "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+        "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
+        "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
         "source": "TechCrunch"
       },
       {
-        "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
-        "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
-        "pubDate": "Thu, 19 Nov 2026 21:33:24 +0000",
-        "description": "Uber is testing the new program in three U.S. cities.",
+        "title": "Super-hot rock geothermal could end data center energy woes",
+        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
+        "pubDate": "Fri, 20 Nov 2026 18:34:00 +0000",
+        "description": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
         "source": "TechCrunch"
       },
       {
-        "title": "The unfolding Jensen Huang scandal: a timeline",
-        "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-        "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
-        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "title": "Chips can survive the space environment — can their financing?",
+        "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
+        "pubDate": "Fri, 20 Nov 2026 17:40:01 +0000",
+        "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
         "source": "TechCrunch"
       },
       {
@@ -443,7 +443,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
         "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
         "pubDate": "Fri, 20 Nov 2026 15:46:07 +0000",
         "description": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
@@ -471,7 +471,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "The U.S. national cyber director is stepping down",
+        "title": "The US national cyber director is stepping down",
         "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
         "pubDate": "Fri, 20 Nov 2026 09:14:19 +0000",
         "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
-        "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
-        "pubDate": "2026-11-20T12:05:52-05:00",
-        "description": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company",
+        "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
+        "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
+        "pubDate": "2026-11-20T15:43:52-05:00",
+        "description": "YouTube is preparing to pay $3 billion to thousands of school districts to settle claims that its \"addictive design\" harmed kids, according to Bloomberg. Sources tell the publication that YouTube reached the agreement \"in principle,\" and that the dea",
         "source": "TheVerge"
       },
       {
-        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
-        "pubDate": "2026-11-20T11:34:13-05:00",
-        "description": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decade",
+        "title": "Rockstar says GTA VI made $3.79 billion in its first day",
+        "link": "https://www.theverge.com/games/1036279/gta-vi-sales",
+        "pubDate": "2026-11-20T14:35:06-05:00",
+        "description": "GTA VI earned $3.79 billion in its first day of sales, which set \"a new record for entertainment across any medium,\" according to an announcement from Rockstar Games. The game also sold 32.5 million preorder copies. \"It is with immense gratitude that",
         "source": "TheVerge"
       },
       {
-        "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
-        "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
-        "pubDate": "2026-11-20T11:22:15-05:00",
-        "description": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Re",
+        "title": "Eufy’s Omni C28 is 53 percent off ahead of Black Friday",
+        "link": "https://www.theverge.com/gadgets/1037933/eufy-omni-c28-robot-vacuum-deal-sale",
+        "pubDate": "2026-11-20T14:15:00-05:00",
+        "description": "Hosting Thanksgiving can be fun, but cleaning up afterwards? Not so much. Eufy’s Omni C28 robot vacuum / mop hybrid can help, and thanks to an early Black Friday deal, you can pick it up at a new low price of $379.99 ($420 off its original price) at ",
         "source": "TheVerge"
       },
       {
-        "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
-        "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
-        "pubDate": "2026-11-20T11:00:00-05:00",
-        "description": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwiths",
+        "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+        "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+        "pubDate": "2026-11-20T13:50:19-05:00",
+        "description": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our c",
         "source": "TheVerge"
       },
       {
-        "title": "The best early Black Friday deals you can already shop",
-        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "pubDate": "2026-11-20T10:53:25-05:00",
-        "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising a",
+        "title": "Multiplying your Switch 2’s storage costs less than usual right now",
+        "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-20T13:15:00-05:00",
+        "description": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faste",
         "source": "TheVerge"
       }
     ],
