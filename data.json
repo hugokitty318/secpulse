@@ -1,7 +1,28 @@
 {
-  "ts": "2026-11-20T08:28:27.969491Z",
+  "ts": "2026-11-20T17:14:54.207540Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "Android手機變詐騙話務中繼站、泡芙箱藏上百張SIM卡！刑事局揭露詐團電話轉接新手法",
+        "link": "https://www.ithome.com.tw/news/180687",
+        "pubDate": "2026-11-20 18:42",
+        "description": "為規避國際電話語音警示機制，境外詐騙集團利用架設在臺灣的DMT設備，將詐騙電話轉接成國內門號撥出，近期更有詐團改用一般Android手機，搭配智能撥號APP及藍牙設備達到相同效果。刑事警察局11月19日公布「斷源」專案查緝成果，並揭露詐騙集團最新的話務轉接手法",
+        "source": "iThome資安"
+      },
+      {
+        "title": "鳳凰旅遊遭駭、部分旅客個資外洩，已發現冒名訂單詐騙活動",
+        "link": "https://www.ithome.com.tw/news/180684",
+        "pubDate": "2026-11-20 17:28",
+        "description": "國內旅遊業接連傳出資安警訊，鳳凰旅遊也於11月16日發現資訊系統遭入侵，已確認部分個資恐外洩，並發現不法人士冒用鳳凰旅遊名義與訂單資訊進行詐騙，呼籲客戶提高警覺，目前尚未公布影響人數",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月20日，VMware修補已遭利用的vCenter重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180682",
+        "pubDate": "2026-11-20 16:14",
+        "description": "VMware修補vCenter重大漏洞CVE-2026-123890，通報此事的Google威脅情報團隊與Mandiant透露，中國駭客Armory Castle（UNC5221）將其用於實際攻擊",
+        "source": "iThome資安"
+      },
       {
         "title": "【資安週報】1116～1120，全球第三方供應商遭駭連環爆；Java4Shell、NGINX2Root等重大漏洞揭露引關注",
         "link": "https://www.ithome.com.tw/news/180681",
@@ -45,24 +66,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
-        "link": "https://www.ithome.com.tw/news/180568",
-        "pubDate": "2026-11-20 08:00",
-        "description": "資安AI新創公司Corma今年8月才宣布取得6,000萬美元種子輪資金，11月再完成1.25億美元A輪募資，估值達10億美元。該公司自行訓練資安防禦專用AI基礎模型，透過AI代理協助企業調查入侵事件，新資金將投入模型研發與運算資源擴充",
-        "source": "iThome資安"
-      },
-      {
         "title": "Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行",
         "link": "https://www.ithome.com.tw/news/180667",
         "pubDate": "2026-11-20 08:00",
         "description": "Ruby發布安全更新，修補正規表示式與字串大小寫轉換功能中的7項記憶體安全漏洞，其中5項已有概念驗證證明，在特定條件下可觸發遠端程式碼執行。官方建議使用者儘速升級至修補版本",
-        "source": "iThome資安"
-      },
-      {
-        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-        "link": "https://www.ithome.com.tw/news/180652",
-        "pubDate": "2026-11-20 08:00",
-        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
         "source": "iThome資安"
       },
       {
@@ -73,6 +80,20 @@
         "source": "iThome資安"
       },
       {
+        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+        "link": "https://www.ithome.com.tw/news/180652",
+        "pubDate": "2026-11-20 08:00",
+        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
+        "link": "https://www.ithome.com.tw/news/180568",
+        "pubDate": "2026-11-20 08:00",
+        "description": "資安AI新創公司Corma今年8月才宣布取得6,000萬美元種子輪資金，11月再完成1.25億美元A輪募資，估值達10億美元。該公司自行訓練資安防禦專用AI基礎模型，透過AI代理協助企業調查入侵事件，新資金將投入模型研發與運算資源擴充",
+        "source": "iThome資安"
+      },
+      {
         "title": "Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作",
         "link": "https://www.ithome.com.tw/news/180677",
         "pubDate": "2026-11-20  11:11:19",
@@ -80,17 +101,31 @@
         "source": "iThome"
       },
       {
-        "title": "全球首家前沿AI公司Anthropic上市，首日上漲17%",
-        "link": "https://www.ithome.com.tw/news/180671",
-        "pubDate": "2026-11-20  09:11:35",
-        "description": "Claude開發商Anthropic周四（11/19）正式在美國那斯達克（Nasdaq）掛牌，成為全球首家上市的前沿AI公司。Anthropic的股票代號為ANT，發行價為每股83美元，開盤即衝上111.5美元，最後以97.17美元作收，上漲17%，市值約1.27兆美元。\n此次Anthropic IPO總計發售9.8億股，每股83美元，發售規模約813億美元，創下全球首次公開發行股票（IPO）規模紀錄。",
+        "title": "AWS Aurora DSQL開放跨洲多區域叢集，單一區域故障仍可讀寫",
+        "link": "https://www.ithome.com.tw/news/180686",
+        "pubDate": "2026-11-20  06:11:49",
+        "description": "AWS無伺服器分散式SQL資料庫Amazon Aurora DSQL新增跨洲多區域叢集支援，讓企業能將位於不同洲的兩個AWS區域連接成同一個資料庫。兩地應用程式可同時讀取及寫入資料，並維持強一致性。若其中一個區域故障，另一區域仍可繼續處理讀寫請求，已提交的交易資料也會保留。",
         "source": "iThome"
       },
       {
-        "title": "VS Code 1.147讓AI代理操作Chrome與Edge，新增延後發送工作請求",
-        "link": "https://www.ithome.com.tw/news/180670",
-        "pubDate": "2026-11-20  09:11:02",
-        "description": "微軟發布程式碼編輯器Visual Studio Code（VS Code）1.147穩定版，擴充AI代理的瀏覽器操作與工作排程功能。新版允許代理操作外部Chrome或Edge瀏覽器，並將工作請求安排在指定時間送出，也新增依照任務類型自動選擇AI模型的功能。",
+        "title": "PostgreSQL 19支援並行資料表重整，新增查詢計畫控制功能",
+        "link": "https://www.ithome.com.tw/news/180683",
+        "pubDate": "2026-11-20  06:11:34",
+        "description": "PostgreSQL全球開發團隊發布開源關聯式資料庫PostgreSQL 19，新增可在資料表持續讀寫時進行重整的REPACK指令，並加入查詢計畫控制功能，讓管理者減少資料庫維護對服務的影響。新版也改善自動清理、資料複寫及SQL開發功能。",
+        "source": "iThome"
+      },
+      {
+        "title": "國內首座6G實驗網正式啟用，串聯歐英與衛星業者打造國際驗測基地，搶攻2029年6G標準商機",
+        "link": "https://www.ithome.com.tw/news/180685",
+        "pubDate": "2026-11-20  05:11:19",
+        "description": "全球6G發展已由前瞻技術研究逐步邁向系統整合與跨國驗證階段，在經濟部與國科會支持下，國內首座「實驗網」（6G-FORMOSA）正式全面啟用。這座實驗網由工研院整合聯發科技、和碩、明泰、啟碁、濰元等18家產學研單位共同建置，並已串聯歐盟、英國6G實驗網，以及Eutelsat OneWeb、SES等國際衛星營運商，為臺灣與國際6G生態系接軌的重要測試驗證平臺。\n經濟部政務次長江文若指出，目前國際第一版的6G標準預計會在2029年由3GPP完成制定，而2035年全球6G市場規模可望達到875億美元，目",
+        "source": "iThome"
+      },
+      {
+        "title": "AI趨勢周報第295期：微軟一口氣推出7款AI模型，拚效能也拚Token成本",
+        "link": "https://www.ithome.com.tw/news/180669",
+        "pubDate": "2026-11-20  05:11:10",
+        "description": "重點新聞（1113～1119）",
         "source": "iThome"
       },
       {
@@ -106,41 +141,6 @@
         "pubDate": "2026-11-19 18:24",
         "description": "愛爾蘭約40家信用合作社受到第三方IT服務供應商資安事件波及，提供銀行軟體及IT服務的Wellington IT遭駭，導致會員在網路銀行儲存的收款帳戶資料，包括收款人姓名、銀行帳號等資訊遭到未經授權存取。此外，事件早在10月初就已發生，供應商卻直到11月中旬才通知客戶，也成為另一項關注焦點",
         "source": "iThome資安"
-      },
-      {
-        "title": "勒索軟體駭客The Gentlemen聲稱入侵Nvidia，疑為合作夥伴遭駭受到波及",
-        "link": "https://www.ithome.com.tw/news/180664",
-        "pubDate": "2026-11-19 17:43",
-        "description": "勒索軟體組織The Gentlemen近日於暗網網站將Nvidia列入受害者名單，聲稱竊得該公司內部資料，要脅必須在10天內處理，否則將會竊得資料公開。對此，Nvidia表示正在調查疑似受到影響第三方合作夥伴的事件，Nvidia的系統與網路環境目前尚未發現遭到入侵的跡象",
-        "source": "iThome資安"
-      },
-      {
-        "title": "大車隊子公司全球商務科技遭未經授權存取，部分客戶及會員資料外洩",
-        "link": "https://www.ithome.com.tw/news/180662",
-        "pubDate": "2026-11-19 17:11",
-        "description": "車隊運輸服務公司大車隊（2640）發布資安重訊，子公司全球商務科技的資訊系統發生外部未經授權存取事件，初步調查發現，部分客戶及相關人員資料涉及未經授權存取及擷取，可能有資料外洩情形",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安業者剖析ARTEX、Cairn、CyberStrikeAI等五大AI攻擊框架，均已遭濫用於實際入侵事件",
-        "link": "https://www.ithome.com.tw/news/180657",
-        "pubDate": "2026-11-19 17:00",
-        "description": "針對AI代理式攻擊框架遭濫用於實際網路入侵的情況，資安業者Elastic近日剖析ARTEX、CyberStrikeAI、Cairn、PentAGI及HexStrike等5種工具，說明各自的設計特色與功能差異，並提醒企業這類框架不僅能自主執行攻擊任務，且更新速度快，應更重視以攻擊行為為基礎的偵測機制",
-        "source": "iThome資安"
-      },
-      {
-        "title": "元太資訊系統疑遭攻擊",
-        "link": "https://www.ithome.com.tw/news/180658",
-        "pubDate": "2026-11-19 16:02",
-        "description": "電子紙顯示技術廠商元太（8069）發布資安重訊，資訊系統疑似遭到攻擊，該公司啟動資訊安全防禦機制因應，初步評估對公司營運暫無重大影響",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google Gemini 4 Neon協調Hydrogen子代理開發程式，評測成績略勝Claude",
-        "link": "https://www.ithome.com.tw/news/180663",
-        "pubDate": "2026-11-19  09:11:26",
-        "description": "Google新推出AI模型Gemini 4 Neon，主要用於複雜程式開發、企業資料分析及需要長時間執行的AI代理任務。在Google Antigravity開發環境的協調模式中，Neon負責規畫任務並檢查執行成果，速度較快的Gemini 4 Hydrogen則負責修改程式、更新套件及執行測試。新模型已陸續開放開發者、企業及付費訂閱者使用。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -173,24 +173,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "摩根大通攜手韓國現代信用卡完成 AI 自主換匯測試，商用前仍須跨過「治理高牆」",
-        "link": "https://techorange.com/2026/11/19/ai-agent-autonomous-payments/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 11:09:50 +0800",
-        "description": "全球金融業正迎來一場「無人工參與」的支付革命。美國銀行巨頭摩根大通與韓國現代信用卡近期完成一項概念驗證，讓雙方的 AI 代理人在沒有人員直接介入下，獨立完成跨國企業的模擬外匯交易。摩根大通旗下區塊鏈部門 Kinexys 洞察全球主管 Wee Kee Toh 更預告，雙方將於 2027 年上半年把測試範圍擴大，並推進至更複雜的「多代理人自主協商與議價」階段。 在這場模擬交易中，韓國現代信用卡的 AI 代理人就像一位數位財務管家，為了維持 Kinexys 區塊鏈存款帳戶中的歐元流動性，會主動在摩根大",
+        "title": "美國零售雙雄 Q3 財報秀 AI 實力：Target 逾九成品項導入 AI 補貨，Walmart 為「自帶 AI 代理」鋪路",
+        "link": "https://techorange.com/2026/11/20/target-walmart-q3-ai-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 18:54:24 +0800",
+        "description": "走進超市卻發現想買的牛奶缺貨，或是在網購時滑了幾百則評價還是不知道該不該下手——這些日常購物最讓人頭痛的小事，正是美國兩大零售巨頭目標百貨（Target）與沃爾瑪（Walmart）在 2026 年第三季財報中聚焦的核心之一。兩家公司分別針對 AI 助攻營運的環節有所側重：Target 專注把後端補貨與 App 逛街購物體驗做得更細膩；Walmart 則在會員成長上有亮眼成績，透過「Walmart+ 與 Sam’s Club Plus 雙會員合購方案」，搶先訂閱的家庭在初期的網路商店消費金額比之前",
         "source": "TechOrange"
       },
       {
-        "title": "【Toyota 規劃 40 萬台機器人進工廠】起步晚於現代與特斯拉，強項在整合 AI 與生產流程",
-        "link": "https://techorange.com/2026/11/19/toyota-humanoid-robot-race/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 09:55:22 +0800",
-        "description": "今年 4 月，東京豐田體育館（Toyota Arena Tokyo）的職籃賽事中場，一台黑紅配色的人形機器人走上球場，運球、出手，球應聲入網。這是豐田 AI 籃球機器人 CUE 的第 7 代 Cue7。 不過，會投籃的機器人並不稀奇，中國製人形機器人早已會跳舞、打拳。Cue7 的意義在於出場時機。 差不多同一時間，豐田高層正向全球投資人推銷一套機器人戰略，包括部署 40 萬台機器人、每年 64 億美元的工廠自動化投資，並成立由生產製造最高主管領軍的機器人團隊。向來低調的全球最大車廠，這次主動把機",
+        "title": "Google Chrome 打造「鏡像維度」合成網路，以 30 倍效率安全測試 AI 瀏覽代理",
+        "link": "https://techorange.com/2026/11/20/chrome-mirror-dimension-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 18:41:54 +0800",
+        "description": "具備網頁操作能力的 AI 代理（Web-use Agents）走入日常，人們開始習慣交辦跨網站的複雜任務。例如：請瀏覽器直接幫你進行網購比價，或對著智慧電視遙控器用語音尋找特定電影在哪個串流平台並直接播放。用戶並未提供具體網址，AI 必須自行判斷目標網站、跨平台搜尋並完成一連串操作。然而，當 AI 獲得了在瀏覽器中點擊、輸入甚至登入帳號的權限時，如何確保它們不會在充滿惡意的真實網路中遭到誤導或失控，成為瀏覽器開發者面臨的首要難題。 為了驗證並強化 Chrome「自動瀏覽」功能的內建安全防護，Go",
         "source": "TechOrange"
       },
       {
-        "title": "AI Agent 搶走購物入口：Airbnb、The RealReal 如何守住流量與交易秩序？",
-        "link": "https://techorange.com/2026/11/19/ai-agents-shopping-airbnb-the-realreal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 08:10:00 +0800",
-        "description": "當科技公司將 AI Agent 推向市場，主打能為數十億用戶排定會議、籌辦派對與購買商品時，網路購物迅速成為這些代理人的熱門應用。以 Meta 推出的 Muse 為例，該軟體在美國上線 40 天內即突破 1,000 萬次下載，Meta 在第三季財報電話會議中更透露「購物」是目前最常出現的使用情境，平均交易金額超過 200 美元。這股趨勢顯示 AI Agent 逐漸成為消費者取得商品與服務的新介面，卻也正式為網路平台帶來巨大的營運挑戰。 搜尋入口被移轉，平台直接流量與廣告收益面臨衝擊 AI Age",
+        "title": "Uber 清技術債，為何不全交給 AI 代理？拆解傳統工具、審查代理如何層層把關",
+        "link": "https://techorange.com/2026/11/20/using-ai-delete-code-agentic-tech-debt-cleanup/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 18:22:06 +0800",
+        "description": "Uber 近日在工程部落格公開 AI 程式碼清理系統 AutoClean，能自動找出已全面上線、卻仍殘留在程式碼中的過期功能開關（feature flag），並產出經過測試、可供人工審查的程式碼差異（diff）。Uber 表示，AutoClean 過去幾年已清理超過 1.6 萬個功能開關、逾 100 萬行程式碼。這套系統並非讓 AI 代理（AI agent）包辦一切，而是讓代理與傳統程式碼轉換工具分工，再以持續整合（continuous integration，CI）、靜態檢查與多個審查代理層層",
         "source": "TechOrange"
       },
       {
@@ -251,34 +251,6 @@
       }
     ],
     "en_sec": [
-      {
-        "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
-        "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
-        "pubDate": "Wed, 18 Nov 2026 18:08:33 -0500",
-        "description": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
-        "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
-        "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500",
-        "description": "Coinbase says it blocked $4.7 million in cryptocurrency transfers to scammers promoting a fake giveaway using an AI-generated deepfake of Elon Musk during a Tesla livestream that attracted more than 500,000 viewers. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Data breach impacts 40 Irish credit unions in reported IT provider hack",
-        "link": "https://www.bleepingcomputer.com/news/security/data-breach-impacts-40-irish-credit-unions-in-reported-it-provider-hack/",
-        "pubDate": "Wed, 18 Nov 2026 14:39:33 -0500",
-        "description": "A reported cyberattack on Wellington IT has exposed sensitive information belonging to members of 50 credit unions, the majority of which are located in Ireland. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft’s Agent Framework PyPI package compromised to steal credentials",
-        "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
-        "pubDate": "Wed, 18 Nov 2026 11:58:42 -0500",
-        "description": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-        "source": "BleepingComputer"
-      },
       {
         "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
         "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
@@ -350,20 +322,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
-        "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
-        "pubDate": "Thu, 19 Nov 2026 13:44:00 +0530",
-        "description": "Low-privilege database accounts that cannot read a single application table can still be used to run code on the database server itself, a researcher has shown, by reaching memory-corruption bugs in the engine code behind ordinary SQL.\n\nThe exploits,",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
-        "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
-        "pubDate": "Thu, 19 Nov 2026 13:30:00 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) t",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Transport for London breach exposes 265,000 Oyster card users' data",
         "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
         "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
@@ -378,18 +336,60 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
-        "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
-        "pubDate": "Thu, 19 Nov 2026 10:03:46 +0530",
-        "description": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n\"These releases are ",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Five warning signs of ransomware breach before encryption or data theft",
         "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
         "pubDate": "Thu, 19 Nov 2026 10:00:10 -0500",
         "description": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious act",
         "source": "BleepingComputer"
+      },
+      {
+        "title": "Critical NGINX ‘NGINX2Root’ bugs let attackers hijack servers",
+        "link": "https://www.bleepingcomputer.com/news/security/critical-nginx-nginx2root-bugs-let-attackers-hijack-servers/",
+        "pubDate": "Thu, 19 Nov 2026 09:57:24 -0500",
+        "description": "Two critical NGINX vulnerabilities dubbed \"nginx2root\" allow unauthenticated attackers to execute code remotely on vulnerable web servers, with researchers demonstrating how the flaws can be chained with a Linux kernel bug to gain root access. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Drupal patches critical RCE flaw, warns exploits may surface quickly",
+        "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaw-warns-exploits-may-surface-quickly/",
+        "pubDate": "Thu, 19 Nov 2026 08:08:08 -0500",
+        "description": "The Drupal Security Team has patched a critical remote code execution vulnerability that can let attackers take over vulnerable sites. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft tests new Edge Lockdown Mode that disables GPU APIs",
+        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-new-edge-lockdown-mode-that-disables-gpu-apis/",
+        "pubDate": "Thu, 19 Nov 2026 06:46:00 -0500",
+        "description": "Microsoft is developing a new Edge security feature to reduce the attack surface by disabling the WebGL, WebGL2, and WebGPU APIs. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+        "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+        "pubDate": "Fri, 20 Nov 2026 17:50:00 +0530",
+        "description": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean.\n\nOn a shared server, that memory can include other customers' virtual ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "The Path to AI Autonomy in the SOC",
+        "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+        "pubDate": "Fri, 20 Nov 2026 17:30:00 +0530",
+        "description": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk security actions. ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+        "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+        "pubDate": "Fri, 20 Nov 2026 16:08:22 +0530",
+        "description": "SonicWall has urged all customers still running Generation 6 firewalls to retire and replace them immediately and stop exposing the devices on the internet edge, citing security risks fueled by AI-assisted attacks.\n\n\"Attackers now use automation and ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+        "pubDate": "Fri, 20 Nov 2026 16:02:50 +0530",
+        "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation",
+        "source": "TheHackerNews"
       }
     ],
     "en_tech": [
@@ -436,45 +436,45 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic’s IPO could deliver $156B to charity",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
-        "pubDate": "Thu, 19 Nov 2026 19:10:45 +0000",
-        "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
+        "title": "Bending Spoons buys Mailchimp for $3.68B",
+        "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
+        "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
+        "description": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
         "source": "TechCrunch"
       },
       {
-        "title": "Google gives Gemini the ability to use your Mac for you",
-        "link": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/",
-        "pubDate": "Thu, 19 Nov 2026 18:09:11 +0000",
-        "description": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "title": "A transcription firm used by police, prosecutors and tech giants exposed customer data online",
+        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
+        "pubDate": "Fri, 20 Nov 2026 15:46:07 +0000",
+        "description": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-        "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
-        "pubDate": "Thu, 19 Nov 2026 17:38:40 +0000",
-        "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
+        "title": "Six AI-powered gadgets that could make your home office smarter",
+        "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+        "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
+        "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
         "source": "TechCrunch"
       },
       {
-        "title": "Former Alibaba exec’s Everful raises $48.5M to connect retailers with Chinese factories",
-        "link": "https://techcrunch.com/2026/11/19/former-alibaba-execs-everful-raises-48-5m-to-connect-retailers-with-chinese-factories/",
-        "pubDate": "Thu, 19 Nov 2026 17:00:00 +0000",
-        "description": "Everful has raised $48.5 million to expand its factory-direct sourcing platform, helping retailers source products from overseas manufacturers.",
+        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
+        "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
+        "pubDate": "Fri, 20 Nov 2026 13:25:00 +0000",
+        "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price",
-        "link": "https://techcrunch.com/2026/11/19/anthropic-hits-nasdaq-exchanges-at-110-27-above-ipo-price/",
-        "pubDate": "Thu, 19 Nov 2026 16:59:23 +0000",
-        "description": "Anthropic's IPO price was set at $83, representing more than $80 billion in new capital raised.",
+        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
+        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
+        "pubDate": "Fri, 20 Nov 2026 13:21:11 +0000",
+        "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
         "source": "TechCrunch"
       },
       {
-        "title": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development",
-        "link": "https://techcrunch.com/2026/11/19/at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development/",
-        "pubDate": "Thu, 19 Nov 2026 16:19:41 +0000",
-        "description": "In his Nasdaq opening bell speech, Dario Amodei reiterated Anthropic's commitment to pacing AI development, regardless of business or political pressure.",
+        "title": "The U.S. national cyber director is stepping down",
+        "link": "https://techcrunch.com/2026/11/20/the-u-s-national-cyber-director-is-stepping-down/",
+        "pubDate": "Fri, 20 Nov 2026 09:14:19 +0000",
+        "description": "The news comes as businesses across the country report a flurry of technical outages, the causes of which are still unknown.",
         "source": "TechCrunch"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Apple is hiring engineers to build its own AI agent",
-        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
-        "pubDate": "2026-11-19T17:31:41-05:00",
-        "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking f",
+        "title": "Teenage Engineering’s first CD player puts the spinning disc on display",
+        "link": "https://www.theverge.com/tech/1038692/teenage-engineering-ep-bc-1-cd-compact-disc-player-broadcast-series-bluetooth",
+        "pubDate": "2026-11-20T12:05:52-05:00",
+        "description": "Teenage Engineering announced what it describes as \"a modern take on a classic CD player\" with its new EP/BC-1 featuring a slab-like design that leaves the spinning disc exposed instead of hiding it under a lid or inside a slide-out tray. The company",
         "source": "TheVerge"
       },
       {
-        "title": "A brief history of Nvidia’s recent stock fluctuations",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
-        "pubDate": "2026-11-19T16:59:35-05:00",
-        "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent d",
+        "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+        "pubDate": "2026-11-20T11:34:13-05:00",
+        "description": "Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most notoriously difficult problems, with the help of Claude, cracking a puzzle that has eluded some of the world's best mathematicians for decade",
         "source": "TheVerge"
       },
       {
-        "title": "Meta now sells 3D movies on Quest VR headsets",
-        "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
-        "pubDate": "2026-11-19T16:12:06-05:00",
-        "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic",
+        "title": "Boys Noize turns to the club (and an obscure Italian synth) for inspiration on 7LLVSION",
+        "link": "https://www.theverge.com/entertainment/1038444/boys-noize-7llvsion-interview",
+        "pubDate": "2026-11-20T11:22:15-05:00",
+        "description": "If you're wondering how Alex Ridha's (aka Boys Noize) collaboration with Nine Inch Nails influenced his new record 7LLVSION, the answer is simple: It didn't. That's not to say Ridha didn't learn anything from the virtuosic production team of Trent Re",
         "source": "TheVerge"
       },
       {
-        "title": "Meta’s Muse Charm might cost $300",
-        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
-        "pubDate": "2026-11-19T15:22:17-05:00",
-        "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship",
+        "title": "Andrey Zvyagintsev believes filmmakers know what the audience wants — not executives",
+        "link": "https://www.theverge.com/entertainment/1038410/andrey-zvyagintsev-minotaur-interview-director",
+        "pubDate": "2026-11-20T11:00:00-05:00",
+        "description": "The year is 2022. Vladimir Putin has announced the military draft. In Andrey Zvyagintsev's Minotaur, set in the fictional town of Krasoborsk, a quietly unhappy couple, called Gleb and Galina, carry on with their lives, or try to, geopolitics notwiths",
         "source": "TheVerge"
       },
       {
-        "title": "Google is putting AI chats right on the homepage",
-        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
-        "pubDate": "2026-11-19T15:05:06-05:00",
-        "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks l",
+        "title": "The best early Black Friday deals you can already shop",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "pubDate": "2026-11-20T10:53:25-05:00",
+        "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with prices rising a",
         "source": "TheVerge"
       }
     ],
