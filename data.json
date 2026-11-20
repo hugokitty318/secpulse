@@ -1,7 +1,35 @@
 {
-  "ts": "2026-11-19T18:39:05.578921Z",
+  "ts": "2026-11-20T00:54:45.349141Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
+        "link": "https://www.ithome.com.tw/news/180568",
+        "pubDate": "2026-11-20 08:00",
+        "description": "資安AI新創公司Corma今年8月才宣布取得6,000萬美元種子輪資金，11月再完成1.25億美元A輪募資，估值達10億美元。該公司自行訓練資安防禦專用AI基礎模型，透過AI代理協助企業調查入侵事件，新資金將投入模型研發與運算資源擴充",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Ruby修補7項記憶體安全漏洞，5項可能導致遠端程式碼執行",
+        "link": "https://www.ithome.com.tw/news/180667",
+        "pubDate": "2026-11-20 08:00",
+        "description": "Ruby發布安全更新，修補正規表示式與字串大小寫轉換功能中的7項記憶體安全漏洞，其中5項已有概念驗證證明，在特定條件下可觸發遠端程式碼執行。官方建議使用者儘速升級至修補版本",
+        "source": "iThome資安"
+      },
+      {
+        "title": "API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用",
+        "link": "https://www.ithome.com.tw/news/180635",
+        "pubDate": "2026-11-20 08:00",
+        "description": "美國石溪大學研究人員部署300個蜜罐映像檔，觀察自動化工具如何從公開容器映像檔中擷取雲端服務金鑰。實驗期間，研究團隊記錄到超過14萬次使用AWS測試金鑰呼叫API的活動，最快在映像檔發布後7.86秒就出現API呼叫",
+        "source": "iThome資安"
+      },
+      {
+        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+        "link": "https://www.ithome.com.tw/news/180652",
+        "pubDate": "2026-11-20 08:00",
+        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
+        "source": "iThome資安"
+      },
       {
         "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
         "link": "https://www.ithome.com.tw/news/180665",
@@ -80,34 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "Apple多項雲端服務大規模中斷，內部軟體更新問題影響iCloud等服務逾6個小時",
-        "link": "https://www.ithome.com.tw/news/180645",
-        "pubDate": "2026-11-19 12:17",
-        "description": "iCloud、AppleCare、App Store服務均受波及，Apple表示並非網路攻擊所致，主要服務已陸續恢復",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國警告群暉NAS、Apache Axis等4款應用系統的漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180644",
-        "pubDate": "2026-11-19 12:09",
-        "description": "美國網路安全與基礎設施安全局（CISA）將群暉NAS、Apache Axis、LiteLLM、REDCap的漏洞納入已知遭利用的漏洞名單（KEV），並要求聯邦機構在期限內完成修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "N0n勒索軟體組織宣稱取得Visa、摩根大通等59家公司資料",
-        "link": "https://www.ithome.com.tw/news/180643",
-        "pubDate": "2026-11-19 11:38",
-        "description": "Visa、Mastercard、摩根大通等大型企業傳出資料外洩疑雲！勒索軟體組織N0n宣稱竊得客戶資料並威脅公開",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國NSA機密通訊網路NSANet傳中斷，官方稱例行維護期間發生異常",
-        "link": "https://www.ithome.com.tw/news/180642",
-        "pubDate": "2026-11-19 11:20",
-        "description": "美國國安局負責傳輸及交換機密情報的NSANet發生系統異常，故障可能源自安裝PHP漏洞修補程式後，部分系統未能正常重新啟動",
-        "source": "iThome資安"
-      },
-      {
         "title": "Google Gemini 4 Neon協調Hydrogen子代理開發程式，評測成績略勝Claude",
         "link": "https://www.ithome.com.tw/news/180663",
         "pubDate": "2026-11-19  09:11:26",
@@ -133,13 +133,6 @@
         "link": "https://www.ithome.com.tw/news/180655",
         "pubDate": "2026-11-19  03:11:24",
         "description": "美國加州州長Gavin Newsom公布新一輪AI安全監管建議，研議賦予州政府緊急關閉高風險AI模型的權力，並建立限制AI自行開發更強模型的機制。加州也計畫要求大型先進AI開發商接受持續性的第三方安全驗證，相關措施仍須透過立法才能實施。",
-        "source": "iThome"
-      },
-      {
-        "title": "OpenAI正在測試使自主代理人Dots有自己的email位址",
-        "link": "https://www.ithome.com.tw/news/180650",
-        "pubDate": "2026-11-19  01:11:00",
-        "description": "OpenAI透露正在讓常駐自主代理人Dots擁有自己的電子郵件位址，以協助使用者更有效率執行商務作業。\nOpenAI今年9月推出Dots，讓使用者可建立常時作業的代理人Dot，並可連接外部應用程式、主動處理待辦事項。",
         "source": "iThome"
       }
     ],
@@ -184,13 +177,6 @@
         "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Wed, 18 Nov 2026 12:47:13 +0800",
         "description": "NVIDIA 共同創辦人黃仁勳因私人關係引發國安疑慮後，於美國時間 11/12 辭去總裁、執行長與董事職務。不到一週，NVIDIA 董事會 11/17 宣布成立常設的「國家安全與出口管制監督委員會」。《Reuters》指出，這是黃仁勳離職後，NVIDIA 的第一項重大治理調整；國會議員也準備詢問曾力推擴大對中國出口晶片的黃仁勳。 不過據《CNN》報導，也有官員認為外界聚焦黃仁勳與中國政府的關係，反而模糊了更大的問題：美國政府未能有效遏止 AI 競賽關鍵技術轉運中國。當 NVIDIA 把出口管制合",
-        "source": "TechOrange"
-      },
-      {
-        "title": "微軟押注「小而專」AI 模型，稱 MAI Code 2 以 5% 成本達 Claude Opus 5.5 的 96% 效能",
-        "link": "https://techorange.com/2026/11/18/microsoft-ignite-2026-building-frontier-ecosystem/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 11:58:40 +0800",
-        "description": "微軟（Microsoft）近日在年度技術大會 Ignite 上，發表一系列專用 AI 模型，涵蓋程式開發、資安與影像生成，《Decrypt》形容這是直接向 Anthropic 與 OpenAI 叫陣。微軟並非要打造一款樣樣都贏的聊天機器人，而是主打針對特定工作訓練的模型，以大幅降低的成本完成任務。 微軟董事長暨執行長納德拉（Satya Nadella）在開幕演講中表示：「對我們來說，重點是以最佳的經濟效益，將合適的智慧對應到特定任務。」他指出，自家 MAI 模型家族在預訓練階段講求運算效率，產品",
         "source": "TechOrange"
       },
       {
@@ -248,6 +234,13 @@
         "pubDate": "Thu, 19 Nov 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳卸任後 NVIDIA 營收年增 103%！上修 2028 財年預測，擴大台積電供應鏈產能 NVIDIA 11 月 17 日公布 2027 財年第三季財報，單季營收達 1,158 億美元，年增 103%、季增 20%，再次創下歷史新高。其中，資料中心業務營收達 1,076 億美元，年增 110%，占整體營收超過九成，顯示大型雲端業者、AI 模型開發商與企業持續投入算力基礎建設。這也是共同創辦人黃仁勳 11 月 12 日辭去執行長職務後，公司",
         "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】Anthropic 813 億美元 IPO 創紀錄！AI 模型競爭轉向算力與資本",
+        "link": "https://techorange.com/2026/11/20/anthropic-record-ipo-ai-compute-competition/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊Anthropic 813 億美元 IPO 創全球紀錄，AI 模型競爭加速資本集中 美國 AI 模型開發商 Anthropic 11 月 18 日以每股 83 美元確定首次公開募股（IPO）發行價，公開發售總額約 813 億美元，創下全球最大 IPO 紀錄。以定價計算，公司估值約 1.5 兆美元，這是發行定價估值，不等於上市後的即時市值。公司另外安排約 260 億美元策略性私募，與公開發售分開計算，兩筆合計交易規模逾 1,000 億美元，但不能",
+        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -280,13 +273,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-        "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-        "pubDate": "Wed, 18 Nov 2026 17:58:30 +0530",
-        "description": "On AMD-based PCs and some Intel PCs, the TPM lockout for Windows Hello and BitLocker PINs can be reset by someone who opens the PC's case, researchers at Technische Universität Berlin say.\n\nThat leaves short PINs open to guessing. In lab tests, the r",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
         "link": "https://www.bleepingcomputer.com/news/security/coinbase-blocks-47-million-in-transfers-to-elon-musk-deepfake-scam/",
         "pubDate": "Wed, 18 Nov 2026 15:49:32 -0500",
@@ -305,27 +291,6 @@
         "link": "https://www.bleepingcomputer.com/news/security/microsofts-agent-framework-pypi-package-compromised-to-steal-credentials/",
         "pubDate": "Wed, 18 Nov 2026 11:58:42 -0500",
         "description": "Hackers compromised Microsoft's official Agent Framework Python package on PyPI, publishing two malicious versions designed to steal cloud credentials and other sensitive information from developers' systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "From Deepfakes to Helpdesk Impersonation: Why Stronger Verification Matters",
-        "link": "https://www.bleepingcomputer.com/news/security/from-deepfakes-to-helpdesk-impersonation-why-stronger-verification-matters/",
-        "pubDate": "Wed, 18 Nov 2026 10:00:10 -0500",
-        "description": "Attackers are using deepfakes, helpdesk impersonation, and fake IT support requests to deceive employees and gain unauthorized access to corporate systems. Specops Software examines real-world attacks and explains how stronger identity verification c",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Dizigom illegal streaming service with 21M monthly visits shuts down",
-        "link": "https://www.bleepingcomputer.com/news/security/dizigom-illegal-streaming-service-with-21m-monthly-visits-shuts-down/",
-        "pubDate": "Wed, 18 Nov 2026 06:50:25 -0500",
-        "description": "The Alliance for Creativity and Entertainment (ACE) has announced the shutdown of Dizigom, one of Turkey's largest piracy sites, after a settlement agreement with the site's operators. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Apache warns of Roller RCE vulnerability exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/apache-warns-of-roller-rce-vulnerability-exploited-in-attacks/",
-        "pubDate": "Wed, 18 Nov 2026 05:35:05 -0500",
-        "description": "Apache has released security updates to address a critical Roller flaw that threat actors are exploiting to gain code execution on vulnerable servers. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -357,11 +322,32 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "VMware patches vCenter zero-day exploited in attacks since September",
+        "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+        "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500",
+        "description": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+        "pubDate": "Thu, 19 Nov 2026 17:25:42 -0500",
+        "description": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Everything Is a Web Application, Including Your Firewall",
         "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
         "pubDate": "Thu, 19 Nov 2026 17:22:23 +0530",
         "description": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exp",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
+        "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
+        "pubDate": "Thu, 19 Nov 2026 16:15:59 -0500",
+        "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
@@ -390,35 +376,63 @@
         "pubDate": "Thu, 19 Nov 2026 13:30:00 +0530",
         "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added four vulnerabilities impacting Synology DiskStation Manager (DSM), BerriAI LiteLLM, Apache Axis, and Vanderbilt University Research Electronic Data Capture (REDCap) t",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Transport for London breach exposes 265,000 Oyster card users' data",
+        "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
+        "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
+        "description": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is ‘unpatchable’",
-        "link": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
-        "pubDate": "Wed, 18 Nov 2026 23:45:00 +0000",
-        "description": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+        "title": "Elon Musk says SpaceX has a plan to eliminate cell phone dead zones",
+        "link": "https://techcrunch.com/2026/11/19/elon-musk-says-spacex-has-a-plan-to-eliminate-cell-phone-dead-zones/",
+        "pubDate": "Thu, 19 Nov 2026 23:37:56 +0000",
+        "description": "SpaceX CEO Elon Musk said the company has completed the design of a miniature rooftop cell tower that could provide better coverage to mobile phones and eliminate dead zones.",
         "source": "TechCrunch"
       },
       {
-        "title": "Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’",
-        "link": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
-        "pubDate": "Wed, 18 Nov 2026 23:25:17 +0000",
-        "description": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+        "title": "Want to see your live AI usage on your Mac’s icons? This clever new app lets you",
+        "link": "https://techcrunch.com/2026/11/19/want-to-see-your-live-ai-usage-on-your-macs-icons-this-clever-new-app-lets-you/",
+        "pubDate": "Thu, 19 Nov 2026 22:33:26 +0000",
+        "description": "IconSwapper brings your Mac's app icons to life with real-time data, animations, and playful customizations that make your desktop more fun.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
-        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
-        "pubDate": "Wed, 18 Nov 2026 23:17:28 +0000",
-        "description": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+        "title": "Meta’s new Muse Charm device may cost $300",
+        "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+        "pubDate": "Thu, 19 Nov 2026 21:58:06 +0000",
+        "description": "Meta hasn't denied the reporting from The Information, saying only that it will \"have more to share soon\" about its upcoming AI wearable.",
         "source": "TechCrunch"
       },
       {
-        "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-        "link": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-        "pubDate": "Wed, 18 Nov 2026 22:58:11 +0000",
-        "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+        "title": "These tech outages are giving Y2K, AI agent style",
+        "link": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+        "pubDate": "Thu, 19 Nov 2026 21:42:31 +0000",
+        "description": "Are the recent outages in the airline booking systems, banking platforms, and productivity platforms really a coincidence? There's actually likely something deeper going on, cybersecurity experts say.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber tests rides for kids as young as 10, with extra pay for drivers",
+        "link": "https://techcrunch.com/2026/11/19/uber-tests-rides-for-kids-as-young-as-10-with-extra-pay-for-drivers/",
+        "pubDate": "Thu, 19 Nov 2026 21:33:24 +0000",
+        "description": "Uber is testing the new program in three U.S. cities.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The unfolding Jensen Huang scandal: a timeline",
+        "link": "https://techcrunch.com/2026/11/19/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+        "pubDate": "Thu, 19 Nov 2026 20:18:49 +0000",
+        "description": "Jensen Huang has resigned from Nvidia following an affair, which could have ramifications for national security as the U.S. and China race to develop the most advanced AI infrastructure.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Anthropic’s IPO could deliver $156B to charity",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+        "pubDate": "Thu, 19 Nov 2026 19:10:45 +0000",
+        "description": "At a stock price of $95, the frontier lab's Public Benefit Foundation, its employee donations, and the company's match tot up to $156 billion.",
         "source": "TechCrunch"
       },
       {
@@ -429,7 +443,7 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Meta’s AI agent Muse is mixing up conversations and exposing private data, report says",
+        "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing private data, report says",
         "link": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
         "pubDate": "Thu, 19 Nov 2026 17:38:40 +0000",
         "description": "In some of these instances, employees said Muse surfaced messages about childcare requests they never made, career advice they never asked for, product orders they never placed, and bank account balances that didn't belong to them.",
@@ -464,73 +478,52 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic’s IPO puts AI’s circular financing boom to the test",
-        "link": "https://techcrunch.com/2026/11/19/anthropics-ipo-puts-ais-circular-financing-boom-to-the-test/",
-        "pubDate": "Thu, 19 Nov 2026 14:54:39 +0000",
-        "description": "Anthropic faces enormous compute commitments as it goes public, but its biggest infrastructure partners, including Amazon and Google, could continue profiting from AI even if Anthropic loses its lead.",
+        "title": "Anthropic’s 7 founders cashed out nearly $2B in record-breaking IPO",
+        "link": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+        "pubDate": "Fri, 20 Nov 2026 00:43:50 +0000",
+        "description": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
         "source": "TechCrunch"
       },
       {
-        "title": "Nimble enters the item-tracking market with eco-friendly luggage tags and keychains",
-        "link": "https://techcrunch.com/2026/11/19/nimble-enters-the-item-tracking-market-with-eco-friendly-luggage-tags-and-keychains/",
-        "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-        "description": "As Google takes on Apple in the item-tracking market, Nimble is hoping its trackable wallets, keychains, luggage tags, and passport covers stand out.",
+        "title": "Anthropic rival says companies can (mostly) skip the pricey models",
+        "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
+        "pubDate": "Fri, 20 Nov 2026 00:26:03 +0000",
+        "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
         "source": "TechCrunch"
       },
       {
-        "title": "Superhuman pushes its Go assistant everywhere",
-        "link": "https://techcrunch.com/2026/11/19/superhuman-pushes-its-go-assistant-everywhere/",
-        "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
-        "description": "Superhuman is making Go its central agent and making it available in Docs and Mail.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
-        "link": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
-        "pubDate": "Thu, 19 Nov 2026 00:42:56 +0000",
-        "description": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Elon Musk says: ‘I’m not MAGA’",
-        "link": "https://techcrunch.com/2026/11/18/elon-musk-says-im-not-maga/",
-        "pubDate": "Thu, 19 Nov 2026 00:40:49 +0000",
-        "description": "During his appearance Wednesday at The New York Times' DealBook Summit, Elon Musk said that he wasn't sure what the term \"MAGA\" meant and also commented that he felt \"pretty foolish\" for having spent so much money during the U.S. midterms.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Sonos is taking up to 30 percent off speakers and soundbars right now",
-        "link": "https://www.theverge.com/gadgets/1037042/sonos-black-friday-2026-speaker-soundbar-deals-sale",
-        "pubDate": "2026-11-19T13:33:08-05:00",
-        "description": "Sonos speakers and soundbars aren’t exactly cheap, but thankfully the company’s Black Friday sale has already begun, making everything a little easier to afford through November 30th. Most notably, you can pick up the Arc Ultra soundbar for a new low",
+        "title": "Apple is hiring engineers to build its own AI agent",
+        "link": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+        "pubDate": "2026-11-19T17:31:41-05:00",
+        "description": "Apple is working on its own AI agent that can perform a range of tasks for you, including browsing the web, working across apps, writing code, and calling services. That's according to a job listing spotted by Bloomberg, which says Apple is looking f",
         "source": "TheVerge"
       },
       {
-        "title": "Gemini on Mac can now use your computer",
-        "link": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use",
-        "pubDate": "2026-11-19T13:21:13-05:00",
-        "description": "Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up work",
+        "title": "A brief history of Nvidia’s recent stock fluctuations",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1038063/nvidia-stock-market-price-earnings",
+        "pubDate": "2026-11-19T16:59:35-05:00",
+        "description": "\"We've got this,\" Colette Kress, interim CEO of Nvidia, said Tuesday night as she closed out the embattled chip company's third quarter earnings call. By Thursday, the company's stock price was hovering at around $150 per share, a nearly 40 percent d",
         "source": "TheVerge"
       },
       {
-        "title": "Leaked images reveal Motorola’s wide foldable",
-        "link": "https://www.theverge.com/tech/1037848/motorola-razr-flex-wide-foldable-folding-smartphone-android-leak",
-        "pubDate": "2026-11-19T13:19:03-05:00",
-        "description": "New leaked images of Motorola's next folding smartphone shared by SammyGuru add more credence to the theory that widescreen could be the default design for foldables moving forward. Following a single leaked shot shared to Reddit yesterday, this new ",
+        "title": "Meta now sells 3D movies on Quest VR headsets",
+        "link": "https://www.theverge.com/tech/1038157/meta-quest-vr-3d-movies-tv-app",
+        "pubDate": "2026-11-19T16:12:06-05:00",
+        "description": "Meta now offers more than 150 3D movies that you can buy or rent to watch in VR on its Quest 3 and 3S headsets, the company announced today. The movies are available in Meta's TV app and include titles like Avatar, Spider-Man: Far From Home, Jurassic",
         "source": "TheVerge"
       },
       {
-        "title": "Oh, Elon Musk is ‘moderate’ now, is he?",
-        "link": "https://www.theverge.com/policy/1037804/elon-musk-maga-dealbook",
-        "pubDate": "2026-11-19T13:15:00-05:00",
-        "description": "A little less than two years ago, Elon Musk stood onstage at the Conservative Political Action Conference, sunglasses on, black MAGA hat perched atop his head, wielding a chainsaw. Last night, Musk called in to The New York Times DealBook Summit and ",
+        "title": "Meta’s Muse Charm might cost $300",
+        "link": "https://www.theverge.com/tech/1038087/meta-muse-charm-ai-price",
+        "pubDate": "2026-11-19T15:22:17-05:00",
+        "description": "Meta is planning to price the Muse Charm, a little gadget with a screen that lets you chat with your Muse AI agent, at $300, according to The Information. CEO Mark Zuckerberg revealed the gadget earlier this year and said the company expected to ship",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s iPhone camera leader has reportedly left the company",
-        "link": "https://www.theverge.com/tech/1037846/apple-jon-mccormack-retired-iphone-camera",
-        "pubDate": "2026-11-19T13:13:05-05:00",
-        "description": "Jon McCormack, Apple's vice president of camera software engineering, left the company last month, Bloomberg reports. Its sources say McCormack retired \"at the end of October after more than eight years at the company.\" Apple reportedly has not yet n",
+        "title": "Google is putting AI chats right on the homepage",
+        "link": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats",
+        "pubDate": "2026-11-19T15:05:06-05:00",
+        "description": "Google is updating its homepage to include AI searches. In a post on X, Google's vice president of product, Robby Stein, shows how you can now open a collapsible sidebar to view and continue your AI chats. Based on the GIF shared by Stein, it looks l",
         "source": "TheVerge"
       }
     ],
