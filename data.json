@@ -1,7 +1,49 @@
 {
-  "ts": "2026-11-20T00:54:45.349141Z",
+  "ts": "2026-11-20T08:28:27.969491Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "【資安週報】1116～1120，全球第三方供應商遭駭連環爆；Java4Shell、NGINX2Root等重大漏洞揭露引關注",
+        "link": "https://www.ithome.com.tw/news/180681",
+        "pubDate": "2026-11-20 16:10",
+        "description": "回顧2026年11月第三週的資安動態，全球第三方服務供應商資安事故接連傳出，從愛爾蘭金融業IT供應商Wellington IT、日本行銷科技平臺KARTE，到韓國客服與企業協作服務業者，單一供應商遭駭波及數十至數百家企業，另一方面，隨著AI加速漏洞挖掘與網路攻擊，漏洞揭露期限也準備從原本90天縮短至60天甚至30天",
+        "source": "iThome資安"
+      },
+      {
+        "title": "群暉警告NAS存在兩個重大漏洞，預計20日提供部分版本作業系統修補程式",
+        "link": "https://www.ithome.com.tw/news/180680",
+        "pubDate": "2026-11-20 14:48",
+        "description": "本週群暉針對兩個漏洞發布資安公告，其中影響DSM與BeeStation OS的CVE-2026-120382，其CVSS嚴重程度達到9.8分，且目前多個版本的作業系統未有修補程式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP釋出安全更新修補18個漏洞，7個為重大等級",
+        "link": "https://www.ithome.com.tw/news/180678",
+        "pubDate": "2026-11-20 12:03",
+        "description": "PHP基金會本週發布安全更新，總共修補18個弱點，有7個為重大等級。值得留意的是，部分漏洞可能讓未經身分驗證的攻擊者執行任意程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國駭客利用VMware vCenter零時差漏洞入侵，部署後門以竊取資料",
+        "link": "https://www.ithome.com.tw/news/180674",
+        "pubDate": "2026-11-20 10:54",
+        "description": "Google威脅情報組織（GTIG）與Mandiant揭露，被稱為Armory Castle或UNC5221的中國駭客組織利用VMware vCenter零時差漏洞CVE-2026-123890發動攻擊，透過自製工具BoneSaw繞過身分驗證、建立單一簽入（SSO）管理員帳號及竊取資料，並部署多款客製化惡意軟體，進一步控制ESXi虛擬化主機",
+        "source": "iThome資安"
+      },
+      {
+        "title": "VMware發布資安更新，修補重大等級的vCenter漏洞，警告只能升級沒有其他替代緩解方法",
+        "link": "https://www.ithome.com.tw/news/180673",
+        "pubDate": "2026-11-20 10:14",
+        "description": "博通（Broadcom）針對VMware旗下產品發布更新，修補5個漏洞，其中以vCenter重大漏洞CVE-2026-123890最值得留意，攻擊者可透過網路存取繞過身分驗證，未經授權進入系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "歐盟執委會遭AI網攻，ARTEX開源工具成駭客利器",
+        "link": "https://www.ithome.com.tw/news/180672",
+        "pubDate": "2026-11-20 09:53",
+        "description": "歐盟執委會證實10月遭到網路攻擊，員工個資是否外洩仍待釐清。這起事件也讓AI工具遭駭客濫用的風險受到關注",
+        "source": "iThome資安"
+      },
       {
         "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
         "link": "https://www.ithome.com.tw/news/180568",
@@ -17,6 +59,13 @@
         "source": "iThome資安"
       },
       {
+        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
+        "link": "https://www.ithome.com.tw/news/180652",
+        "pubDate": "2026-11-20 08:00",
+        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
+        "source": "iThome資安"
+      },
+      {
         "title": "API金鑰隨Docker Hub映像檔對外曝光，研究發現最快7.86秒就遭濫用",
         "link": "https://www.ithome.com.tw/news/180635",
         "pubDate": "2026-11-20 08:00",
@@ -24,11 +73,32 @@
         "source": "iThome資安"
       },
       {
-        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-        "link": "https://www.ithome.com.tw/news/180652",
-        "pubDate": "2026-11-20 08:00",
-        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
-        "source": "iThome資安"
+        "title": "Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作",
+        "link": "https://www.ithome.com.tw/news/180677",
+        "pubDate": "2026-11-20  11:11:19",
+        "description": "Google周四（11/19）宣布，旗下AI助理Gemini新增Mac電腦操作功能，可直接操作Mac上的應用程式、檔案及網站，替使用者完成多步驟工作，跟進OpenAI及Anthropic等業者在電腦操作型AI代理人領域的布局。",
+        "source": "iThome"
+      },
+      {
+        "title": "全球首家前沿AI公司Anthropic上市，首日上漲17%",
+        "link": "https://www.ithome.com.tw/news/180671",
+        "pubDate": "2026-11-20  09:11:35",
+        "description": "Claude開發商Anthropic周四（11/19）正式在美國那斯達克（Nasdaq）掛牌，成為全球首家上市的前沿AI公司。Anthropic的股票代號為ANT，發行價為每股83美元，開盤即衝上111.5美元，最後以97.17美元作收，上漲17%，市值約1.27兆美元。\n此次Anthropic IPO總計發售9.8億股，每股83美元，發售規模約813億美元，創下全球首次公開發行股票（IPO）規模紀錄。",
+        "source": "iThome"
+      },
+      {
+        "title": "VS Code 1.147讓AI代理操作Chrome與Edge，新增延後發送工作請求",
+        "link": "https://www.ithome.com.tw/news/180670",
+        "pubDate": "2026-11-20  09:11:02",
+        "description": "微軟發布程式碼編輯器Visual Studio Code（VS Code）1.147穩定版，擴充AI代理的瀏覽器操作與工作排程功能。新版允許代理操作外部Chrome或Edge瀏覽器，並將工作請求安排在指定時間送出，也新增依照任務類型自動選擇AI模型的功能。",
+        "source": "iThome"
+      },
+      {
+        "title": "微軟全面部署Office in Copilot，Autopilot提供給早鳥用戶",
+        "link": "https://www.ithome.com.tw/news/180679",
+        "pubDate": "2026-11-20  01:11:16",
+        "description": "本周在Ignite大會上，微軟公告已將Office in Copilot正式全面部署到所有用戶。微軟同時宣布多項商務環境的代理人服務，包括自主代理人Autopilot提供搶先體驗、針對商務用戶的Workspaces及Dynamics 365 in Copilot等。",
+        "source": "iThome"
       },
       {
         "title": "愛爾蘭金融業IT供應商Wellington IT遭駭，波及約40家信用合作社，會員收款人資料外洩",
@@ -66,119 +136,14 @@
         "source": "iThome資安"
       },
       {
-        "title": "富邦媒mo店+發生資安事件，部分出貨資料遭未經授權存取",
-        "link": "https://www.ithome.com.tw/news/180656",
-        "pubDate": "2026-11-19 15:57",
-        "description": "電商公司富邦媒（8454）旗下mo店+服務出貨資料發生疑似資安事件，經初步調查，部分出貨資料遭未經授權存取，該公司已啟動資安應變機制，隔離受影響系統，並將通知疑似受影響的顧客",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月19日，Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
-        "link": "https://www.ithome.com.tw/news/180654",
-        "pubDate": "2026-11-19 15:00",
-        "description": "廣泛使用的網頁伺服器軟體Nginx緊急修補10個安全漏洞，其中5個可能讓駭客遠端執行程式碼，資安業者Xint也獨立發現這5個漏洞，將它們稱為nginx2root",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Nginx緊急修補10個漏洞，其中5個恐遭遠端執行程式碼",
-        "link": "https://www.ithome.com.tw/news/180651",
-        "pubDate": "2026-11-19 13:41",
-        "description": "廣泛使用的網頁伺服器軟體Nginx緊急修補10項安全漏洞，其中5項可能讓駭客遠端執行程式碼",
-        "source": "iThome資安"
-      },
-      {
-        "title": "FBI警告Gootloader已入侵逾千個WordPress網站，相關勒索軟體贖金逾2,800萬美元",
-        "link": "https://www.ithome.com.tw/news/180649",
-        "pubDate": "2026-11-19 13:03",
-        "description": "惡意初始存取框架Gootloader利用SEO污染及遭入侵網站散布惡意JavaScript，誘使使用者下載執行後取得初始存取權，FBI至今已發現216個相關網域",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本藥妝業者DHC因第三方行銷分析平臺被駭，外洩用戶個資1,911萬筆",
-        "link": "https://www.ithome.com.tw/news/180648",
-        "pubDate": "2026-11-19 12:57",
-        "description": "知名藥妝及健康食品業者DHC因第三方行銷分析平臺KARTE遭駭，約1,911萬筆客戶資料受到影響，涵蓋姓名、電子郵件、生日及會員ID等資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "資安業者揭露ARTEX攻擊事件應變過程，AI代理程式取得API金鑰後幾分鐘內即發動攻擊，防守方也用AI加速調查",
-        "link": "https://www.ithome.com.tw/news/180647",
-        "pubDate": "2026-11-19 12:47",
-        "description": "面對AI代理程式攻擊框架ARTEX的快速滲透與反覆入侵，資安業者Eye Security近日公布一起企業遭駭的完整應變案例，從攻擊者取得憑證後立即發動攻擊、繞過流量限制，到服務恢復後再度遭入侵，最終防守方也運用AI代理程式加速調查",
-        "source": "iThome資安"
-      },
-      {
         "title": "Google Gemini 4 Neon協調Hydrogen子代理開發程式，評測成績略勝Claude",
         "link": "https://www.ithome.com.tw/news/180663",
         "pubDate": "2026-11-19  09:11:26",
         "description": "Google新推出AI模型Gemini 4 Neon，主要用於複雜程式開發、企業資料分析及需要長時間執行的AI代理任務。在Google Antigravity開發環境的協調模式中，Neon負責規畫任務並檢查執行成果，速度較快的Gemini 4 Hydrogen則負責修改程式、更新套件及執行測試。新模型已陸續開放開發者、企業及付費訂閱者使用。",
         "source": "iThome"
-      },
-      {
-        "title": "從AI航運安管到貨櫃無紙化，臺中港、高雄港雙港加速智慧港口數位轉型",
-        "link": "https://www.ithome.com.tw/news/180666",
-        "pubDate": "2026-11-19  06:11:50",
-        "description": "臺灣港務公司今天（11/19）公布旗下的臺中港、高雄港智慧港口轉型的最新進展，分別聚焦船舶交通管理智慧化與貨櫃物流數位化，顯示國內商港的數位轉型已從港區資訊系統建置，逐步延伸至AI影像辨識、船舶交通管理、文件數位化與跨系統資料串接等應用。\n高雄港作為國內最大的國際商港及貨櫃樞紐，著重提升貨櫃物流效率；而臺中港則肩負中部能源、大宗散雜貨及產業供應鏈的重要角色，因此將數位轉型重點放在船舶航行安全與港區交通管理，兩者分別從港口營運不同面向推動智慧港口發展。",
-        "source": "iThome"
-      },
-      {
-        "title": "Climate Change AI共同創辦人：AI永續關鍵不是更大模型，而是選對AI工具",
-        "link": "https://www.ithome.com.tw/news/180659",
-        "pubDate": "2026-11-19  05:11:28",
-        "description": "隨著生成式AI快速發展，人工智慧所需算力與能源消耗也成為全球關注議題。正值聯合國COP31舉行之際，環境部也同步舉辦系列論壇，本周舉辦的「綠色算力與氣候數位科技」論壇，邀請產學界專家共同關注人工智慧與氣候變遷發展，加拿大麥吉爾大學電腦科學學院副教授，也是Climate Change AI共同創辦人的David Rolnick指出，AI與氣候變遷並非只能二選一，AI確實能協助解決氣候問題，但前提是必須重新思考「使用什麼樣的AI」。",
-        "source": "iThome"
-      },
-      {
-        "title": "加州擬強化AI安全監管，政府可緊急停用模型並限制研發算力",
-        "link": "https://www.ithome.com.tw/news/180655",
-        "pubDate": "2026-11-19  03:11:24",
-        "description": "美國加州州長Gavin Newsom公布新一輪AI安全監管建議，研議賦予州政府緊急關閉高風險AI模型的權力，並建立限制AI自行開發更強模型的機制。加州也計畫要求大型先進AI開發商接受持續性的第三方安全驗證，相關措施仍須透過立法才能實施。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "GM 擬擴大工廠自動化 20%，供應商自動化計畫也納入採購評分",
-        "link": "https://techorange.com/2026/11/18/general-motors-autos-transportation-gm-plans-boost-robotics-factory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 17:22:16 +0800",
-        "description": "《Reuters》近日引述兩名知情人士報導，美國車廠通用汽車（General Motors，GM）計畫在 2028 年前，將北美工廠的機器人及其他自動化技術使用量提高 20%。GM 目前正面臨人力成本與生產回流美國的成本雙雙上升。 上述知情人士與另外兩名消息人士透露，這家底特律車廠正自行研發機器人，並在印第安納州科科莫（Kokomo）的工廠組裝，目前重點放在以自主移動機器人（autonomous mobile robots，AMR）在廠內運送零件。這項 20% 的自動化目標，以及在印第安納州生產",
-        "source": "TechOrange"
-      },
-      {
-        "title": "新北電商學院陪跑 21 家企業，加速數位轉型拓商機",
-        "link": "https://techorange.com/2026/11/18/ntpcec-21-seo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 16:25:15 +0800",
-        "description": "企業投入電商後，常遇到工具很多卻不知道從哪裡開始，或已完成網站與商品上架，卻仍找不到穩定流量與轉單方法。新北市政府經濟發展局 115 年度持續推動「新北電商學院」，提供電商諮詢、培訓課程及進階專案輔導三大服務。今年電商培訓系列課程共吸引 751 人次參與，並完成 51 案諮詢輔導與 21 家企業進階輔導。 面對企業在不同發展階段的多元挑戰，三項服務相互銜接：先透過一對一諮詢，協助企業盤點商品、客群、通路及行銷問題；搭配網路開店、社群轉單、數據分析、SEO 與 AI 搜尋、跨境平台及品牌經營等培訓",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 寫程式越來越快，驗證變得更重要：微軟 CEO 談「軟體工廠」新模式",
-        "link": "https://techorange.com/2026/11/18/ai-code-verification-operations/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 16:21:46 +0800",
-        "description": "AI 寫程式的能力突飛猛進，開發者只需幾分鐘，就能生成過去需要數天才能完成的功能。然而，當「產出程式碼」變得快速又低成本，軟體產業與工程師卻迎來了另一個更棘手的難題：軟體上線後的穩定度下降、維運排查耗時，以及對 AI 自主行動的資安疑慮。 微軟執行長 Satya Nadella 近期在深度訪談中，以微軟內部的Azure 網路團隊為例，分享了他心目中的「軟體工廠」藍圖，並解釋為什麼規格制定與驗證變得越來越重要，以及負責像是 Windows 作業系統這類型核心產品的團隊可以如何調適。此外，探討企業為",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「蒸餾」還是竊取智財？《路透》審閱逾 300 份文件：中國已把美國 AI 的答案做成產業流程",
-        "link": "https://techorange.com/2026/11/18/china-distills-us-ai-models/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 14:36:13 +0800",
-        "description": "《Reuters》11/17 獨家報導，該社審閱逾 300 份中國學術論文、專利、企業揭露資料、徵才公告與政府文件後發現，中國機構正以愈來愈精細的方式，用美國領先 AI 模型的輸出訓練本土的競爭模型；這種稱為蒸餾（distillation）的做法，已從學術實驗擴大為主流產業應用。《Reuters》分析，這可能削弱美國晶片出口管制的效果，而華府在美國時間 11/16 才表示，將進一步限制中國取得 NVIDIA 等公司的先進晶片。 蒸餾本身並不違法，在世界其他地方也很普遍。它無法複製領先模型的完整能",
-        "source": "TechOrange"
-      },
-      {
-        "title": "「AI 要能跨部門複製與持續營運。」Dell AI 服務助企業打破 POC 負循環",
-        "link": "https://techorange.com/2026/11/18/dell-ai-advisory-workshop/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 14:34:30 +0800",
-        "description": "企業陸續建置的內部知識庫、Chatbot 或 AI Agent 等應用，如何順利融入日常工作流程並創造實際價值？Dell Technologies 服務銷售部服務業務協理劉芷伶日前在 TechOrange 科技報橘舉辦的「AI Innovation Day：2027 AI 創新日」論壇中指出，2026 年 AI 競爭的焦點，正由單點 POC 轉向平台化與持續營運，企業導入 AI 不只要證明模型做得到，更要能跨部門複製，並持續治理、優化與擴充。 劉芷伶首先分析 AI 導入遇到五大挑戰，包含：應用場",
-        "source": "TechOrange"
-      },
-      {
-        "title": "黃仁勳請辭後，NVIDIA 新設國安與出口管制委員會：美方追查的新加坡轉運漏洞怎麼來？",
-        "link": "https://techorange.com/2026/11/18/nvidia-export-control-committee/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 18 Nov 2026 12:47:13 +0800",
-        "description": "NVIDIA 共同創辦人黃仁勳因私人關係引發國安疑慮後，於美國時間 11/12 辭去總裁、執行長與董事職務。不到一週，NVIDIA 董事會 11/17 宣布成立常設的「國家安全與出口管制監督委員會」。《Reuters》指出，這是黃仁勳離職後，NVIDIA 的第一項重大治理調整；國會議員也準備詢問曾力推擴大對中國出口晶片的黃仁勳。 不過據《CNN》報導，也有官員認為外界聚焦黃仁勳與中國政府的關係，反而模糊了更大的問題：美國政府未能有效遏止 AI 競賽關鍵技術轉運中國。當 NVIDIA 把出口管制合",
-        "source": "TechOrange"
-      },
       {
         "title": "AI 代理學會自己整理筆記？Google 記下「為何這樣改」、Meta 試著把技巧練進模型",
         "link": "https://techorange.com/2026/11/19/google-meta-ai-self-improving-memory/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -229,10 +194,52 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】黃仁勳卸任後 NVIDIA 營收飆 1,158 億美元！上修成長預測、台積電等供應鏈擴產",
-        "link": "https://techorange.com/2026/11/19/nvidia-earnings-jensen-huang-tsmc-ai-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊黃仁勳卸任後 NVIDIA 營收年增 103%！上修 2028 財年預測，擴大台積電供應鏈產能 NVIDIA 11 月 17 日公布 2027 財年第三季財報，單季營收達 1,158 億美元，年增 103%、季增 20%，再次創下歷史新高。其中，資料中心業務營收達 1,076 億美元，年增 110%，占整體營收超過九成，顯示大型雲端業者、AI 模型開發商與企業持續投入算力基礎建設。這也是共同創辦人黃仁勳 11 月 12 日辭去執行長職務後，公司",
+        "title": "Genesis AI 募資 5 億美元、稱已攻克靈巧操作，Eno 離上產線還有多遠？",
+        "link": "https://techorange.com/2026/11/20/genesis-ai-500m-eno-deployment/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 15:25:10 +0800",
+        "description": "法國機器人新創 Genesis AI 於 11/17 宣布完成 5 億美元 A 輪募資，公司表示估值達 35 億美元，由 Premji Invest、Khosla Ventures 與 Eclipse 共同領投，NVIDIA 旗下創投 NVentures、AMD Ventures 等也參與投資，前 Google 執行長 Eric Schmidt 等人則以個人身分入股。這家成立不到兩年的公司，2025 年 7 月才完成 1.05 億美元種子輪，《Reuters》形容這次是歐洲機器人領域規模最大的募",
+        "source": "TechOrange"
+      },
+      {
+        "title": "NVIDIA 的麻煩 AMD 也躲不掉？放空機構點名中國黑名單與客戶融資兩大隱憂",
+        "link": "https://techorange.com/2026/11/20/amd-shares-slide-report-china-links-invite-scrutiny/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 13:12:03 +0800",
+        "description": "同時經營新聞編輯室與避險基金的 Hunterbrook 近日發布兩份報告，質疑晶片商 AMD 的中國業務與客戶融資模式。旗下媒體 Hunterbrook Media 指稱，AMD 與部分遭美國列入黑名單的中國企業有所往來，可能引來美國監管機構更嚴格的審查；Hunterbrook 今年 6 月收購的電子報《The Bear Cave》則質疑，AMD 為客戶提供的財務支持形同「循環融資」。旗下避險基金 Hunterbrook Capital 已揭露放空 AMD，同時做多一籃子可比較的證券。 《CNB",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Anthropic 上市募資 813 億美元，1,040 億美元淨損從何而來？",
+        "link": "https://techorange.com/2026/11/20/anthropic-ipo-pricing-moskovitz/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 11:35:44 +0800",
+        "description": "Anthropic 美國時間 11/18 以每股 83 美元完成首次公開發行（IPO）定價，高於原訂的 70～78 美元區間，並擴大發行至約 9.8 億股，募資 813 億美元。以未含超額配售的規模比較，這筆金額高於 SpaceX 今年 6 月 IPO 的 750 億美元，《CNBC》稱為史上最大的 IPO。若計入超額配售，SpaceX 最終募得 857 億美元；Anthropic 的承銷商也還有 30 天可加購最多 1.47 億股，最終募資規模尚未確定。 Anthropic 隨後在美國時間 1",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【企業資料掀起石油探勘式熱潮】AI 開發商砸錢收購員工私訊，連倒閉公司數據都有人買",
+        "link": "https://techorange.com/2026/11/20/enterprise-employee-data-ai-training/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 10:21:59 +0800",
+        "description": "企業員工的私訊、對話還有一切工作紀錄，開始成為 AI 開發商最新的收購目標，AI 巨頭希望將公司數據用於訓練 AI 模型與 AI 代理，然而卻也造成資安隱私風險與員工反彈。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "NEXCOM RoboWIZ AI 機器人開放平台擴大招募生態系夥伴",
+        "link": "https://techorange.com/2026/11/20/nexcom-robowiz-physicalai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 10:00:00 +0800",
+        "description": "號召全球產業菁英，共築 Physical AI 具身智慧生態系加速機器人發展進程 新漢集團旗下創博（NexCOBOT, NEXCOM Robotic Solutions）上月於輝達柏林GTC 大會上串聯德美機器人生態系夥伴，共同發表 RoboWIZ AI 機器人開放平台，此為該平台繼八月於台北自動化展正式發表後的首場海外串聯，隨即在國際市場與機器人相關領域引起關注，持續獲產業人士洽詢。為加速實體 AI（Physical AI）與具身智慧（Embodied AI）技術的應用落地，新漢正式宣布擴大「",
+        "source": "TechOrange"
+      },
+      {
+        "title": "旗艦 GPU 還能再升級？OpenAI 用 AI 重寫 RTL 電路，助 AMD PPA 最高再提升 14%",
+        "link": "https://techorange.com/2026/11/20/openai-amd-chip-design/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 08:30:00 +0800",
+        "description": "當製程微縮成本日益高昂，如今 OpenAI 能深入最核心的前端微架構，其模型能對 RTL 進行推理，在晶片設計上進行改善工作，甚至縮短開發時程。 OpenAI 先前與 AMD 達成策略合作，雙方從多代硬體到產品路線圖深度協同，AMD 執行長蘇姿丰形容這是推動整體生態系的「真正雙贏」。今年 9 月 OpenAI 與新思科技（Synopsys）簽署多年協議，共同開發專用模型 GPT-Synopsys，讓 AI 從外部輔助進化為能直接操作 EDA 工具、判讀數據並迭代優化功耗、效能與面積（PPA）的「",
+        "source": "TechOrange"
+      },
+      {
+        "title": "當每件商品都只有一件，怎麼賣得快？二手精品平台 The RealReal 用兩套 AI 改造倉庫與搜尋",
+        "link": "https://techorange.com/2026/11/20/the-realreal-dual-ai-athena-ask-trr/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 20 Nov 2026 08:10:00 +0800",
+        "description": "美國二手奢侈品交易平台 The RealReal 正透過雙軌 AI 策略，同步優化供應端的商品處理流程與需求端的線上購物體驗。這項布局由後端系統 Athena 與前端購物代理 Ask TRR 共同構成，分別解決二手市場中鑑定量能龐大與商品搜尋困難的長期痛點，試圖改善整體營運效率並提升消費者的平台黏著度。 Athena 自動化商品處理流程，降低鑑定與上架成本 在後端營運層面，二手奢侈品上架過程十分繁瑣，包含尺寸測量、狀況檢查、真偽鑑定、拍攝、定價與刊登等多個環節。The RealReal 每年接收",
         "source": "TechOrange"
       },
       {
@@ -244,27 +251,6 @@
       }
     ],
     "en_sec": [
-      {
-        "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-        "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-        "pubDate": "Wed, 18 Nov 2026 23:45:39 +0530",
-        "description": "Six critical vulnerabilities in F5 BIG-IP allow an attacker to crash the Traffic Management Microkernel (TMM) without logging in, disrupting traffic until the TMM restarts.\n\nEach flaw needs a specific setup on a virtual server: an iRule that uses a p",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-        "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-        "pubDate": "Wed, 18 Nov 2026 22:40:45 +0530",
-        "description": "A critical security flaw in Apache Roller, an open-source, Java-based blogging platform, has come under active exploitation in the wild, according to the Apache Software Foundation (ASF)\n\nThe vulnerability, tracked as CVE-2026-129448 (CVSS score: 9.8",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-        "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-        "pubDate": "Wed, 18 Nov 2026 19:41:28 +0530",
-        "description": "The suspected Chinese advanced persistent threat (APT) group behind the sophisticated EggStreme malware has rebuilt its toolkit as it continues to target government organizations in the Philippines.\n\n\"When attackers are exposed, the cheap response is",
-        "source": "TheHackerNews"
-      },
       {
         "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
         "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
@@ -308,7 +294,7 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+        "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
         "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
         "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530",
         "description": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branc",
@@ -357,7 +343,7 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+        "title": "Ruby Ships Fixes for 7 Flaws, Including Critical Ruby2Shell, Said to Hit Default Rails Apps Pre-Auth",
         "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
         "pubDate": "Thu, 19 Nov 2026 14:12:11 +0530",
         "description": "Ruby contains seven memory-safety flaws in its regular expression engine and its string case-conversion code. For five of them, its maintainers say, proof-of-concept exploits, or PoCs, have shown that crafted input can run code on the machine.\n\n\"We a",
@@ -382,6 +368,27 @@
         "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
         "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
         "description": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "PHP security updates fix 18 flaws, including critical RCE bugs",
+        "link": "https://www.bleepingcomputer.com/news/security/php-security-updates-fix-18-flaws-including-critical-rce-bugs/",
+        "pubDate": "Thu, 19 Nov 2026 11:28:23 -0500",
+        "description": "The PHP development team released security updates addressing 18 vulnerabilities, including critical flaws that could allow unauthenticated attackers to remotely execute code on vulnerable servers. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+        "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+        "pubDate": "Thu, 19 Nov 2026 10:03:46 +0530",
+        "description": "The maintainers of the PHP programming language on Wednesday issued an advisory announcing an upcoming security release that addresses critical flaws.\n\nThe release is scheduled for November 19, 2026, between 2 and 2:30 p.m. UTC.\n\n\"These releases are ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Five warning signs of ransomware breach before encryption or data theft",
+        "link": "https://www.bleepingcomputer.com/news/security/five-warning-signs-of-ransomware-breach-before-encryption-or-data-theft/",
+        "pubDate": "Thu, 19 Nov 2026 10:00:10 -0500",
+        "description": "Ransomware attacks often involve credential theft, lateral movement, and attempts to disable security controls long before encryption begins. Acronis examines five warning signs that can help defenders detect intrusions earlier, contain malicious act",
         "source": "BleepingComputer"
       }
     ],
@@ -471,10 +478,10 @@
         "source": "TechCrunch"
       },
       {
-        "title": "UK government forced to disclose secret Apple backdoor order",
-        "link": "https://techcrunch.com/2026/11/19/u-k-government-forced-to-disclose-secret-apple-backdoor-order/",
-        "pubDate": "Thu, 19 Nov 2026 15:32:20 +0000",
-        "description": "The U.K. tribunal's ruling rejected London's claim that disclosing the order would be damaging to national security.",
+        "title": "Apple may be developing its own AI agent that runs your Mac",
+        "link": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+        "pubDate": "Fri, 20 Nov 2026 00:56:01 +0000",
+        "description": "The iPhone maker appears to be building agents that can compete with the likes of Meta Muse, Instinct, Claude, and OpenAI Dots.",
         "source": "TechCrunch"
       },
       {
@@ -488,7 +495,7 @@
         "title": "Anthropic rival says companies can (mostly) skip the pricey models",
         "link": "https://techcrunch.com/2026/11/19/anthropic-rival-says-companies-can-mostly-skip-the-pricey-models/",
         "pubDate": "Fri, 20 Nov 2026 00:26:03 +0000",
-        "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open-source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
+        "description": "On the day Anthropic went public, Fireworks AI’s co-founder made the case for open source models as a cheaper alternative, and addressed the breaches that have cost the company some customers’ trust.",
         "source": "TechCrunch"
       },
       {
@@ -559,26 +566,6 @@
         "products": "Oracle Products"
       },
       {
-        "title": "[Security Blog] Series of Cybersecurity Incidents Affecting Hong Kong Organisations: HKCERT Urges Organisations to Strengthen Data Risk Management",
-        "link": "https://www.hkcert.org/blog/series-of-cybersecurity-incidents-affecting-hong-kong-organisations-hkcert-urges-organisations-to-strengthen-data-risk-management",
-        "pubDate": "Wed, 18 Nov 2026 00:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "[Security Blog] Series of Cybersecurity Incidents Affecting Hong Kong Organisations: HKCERT Urges Organisations to Strengthen Data Risk Management"
-      },
-      {
-        "title": "Check Point Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/check-point-products-multiple-vulnerabilities_20261117",
-        "pubDate": "Tue, 17 Nov 2026 11:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Check Point Products"
-      },
-      {
         "title": "Drupal Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
         "pubDate": "Thu, 19 Nov 2026 11:00:00 +0800",
@@ -639,44 +626,64 @@
         "products": "WordPress"
       },
       {
-        "title": "Microsoft Edge Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261116",
-        "pubDate": "Mon, 16 Nov 2026 10:00:00 +0800",
+        "title": "ChromeOS Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Microsoft Edge"
+        "products": "ChromeOS"
       },
       {
-        "title": "Apple tvOS Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/apple-tvos-multiple-vulnerabilities_20261116",
-        "pubDate": "Mon, 16 Nov 2026 09:00:00 +0800",
+        "title": "GitHub Enterprise Server Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Apple tvOS"
+        "products": "GitHub Enterprise Server"
       },
       {
-        "title": "PostgreSQL Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/postgresql-multiple-vulnerabilities_20261116",
-        "pubDate": "Mon, 16 Nov 2026 09:00:00 +0800",
+        "title": "PHP Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/php-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "PostgreSQL"
+        "products": "PHP"
       },
       {
-        "title": "Apache HTTP Server Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261113",
-        "pubDate": "Fri, 13 Nov 2026 09:00:00 +0800",
+        "title": "ASUS Router Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 10:58:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Apache HTTP Server"
+        "products": "ASUS Router"
+      },
+      {
+        "title": "Citrix XenServer Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Citrix XenServer"
+      },
+      {
+        "title": "Splunk Products Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261120",
+        "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Splunk Products"
       }
     ]
   }
