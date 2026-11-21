@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-21T04:15:18.605060Z",
+  "ts": "2026-11-21T12:59:18.851822Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,34 +252,6 @@
     ],
     "en_sec": [
       {
-        "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-        "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-        "pubDate": "Thu, 19 Nov 2026 22:29:56 +0530",
-        "description": "PHP's default file-based session storage can be made to return objects an attacker chose, by cutting off a session write at the right moment. When combined with a second weakness, such as a suitable gadget chain in the app, those objects can allow th",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-        "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-        "pubDate": "Thu, 19 Nov 2026 20:48:07 +0530",
-        "description": "The PHP Foundation has released security updates to address multiple critical security flaws that could be exploited to achieve remote code execution on affected deployments, including CVE-2026-115560.\n\nThe release of the patch follows an advance not",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-        "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-        "pubDate": "Thu, 19 Nov 2026 20:41:06 +0530",
-        "description": "A critical flaw in VMware vCenter lets an attacker with network access bypass authentication and gain unauthorized access to the system, Broadcom, which owns VMware, said in an advisory published today.\n\nFixed versions are out for all supported branc",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-        "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-        "pubDate": "Thu, 19 Nov 2026 20:03:06 +0530",
-        "description": "Under specific conditions, a critical vulnerability in Drupal core can allow an attacker without login credentials to use the built-in installer to attempt to reinstall a site.\n\nThat can lead to a site takeover or remote code execution, and the proje",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "VMware patches vCenter zero-day exploited in attacks since September",
         "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
         "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500",
@@ -292,13 +264,6 @@
         "pubDate": "Thu, 19 Nov 2026 17:25:42 -0500",
         "description": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
         "source": "BleepingComputer"
-      },
-      {
-        "title": "Everything Is a Web Application, Including Your Firewall",
-        "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-        "pubDate": "Thu, 19 Nov 2026 17:22:23 +0530",
-        "description": "One of the early targets of PHP2Shell exploitation was the firewall. On October 28, Palo Alto Networks confirmed that attackers were exploiting the two PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619, against PAN-OS management interfaces exp",
-        "source": "TheHackerNews"
       },
       {
         "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
@@ -336,10 +301,45 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+        "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+        "pubDate": "Sat, 21 Nov 2026 17:23:07 +0530",
+        "description": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+        "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+        "pubDate": "Sat, 21 Nov 2026 16:35:53 +0530",
+        "description": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+        "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+        "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530",
+        "description": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+        "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+        "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530",
+        "description": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"\n\nThe feature applies to agentic sys",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+        "pubDate": "Sat, 21 Nov 2026 14:19:13 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active ",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
         "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
         "pubDate": "Fri, 20 Nov 2026 23:27:20 +0530",
-        "description": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871, has been described as a case",
+        "description": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been d",
         "source": "TheHackerNews"
       },
       {
@@ -499,6 +499,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "Harbinger is building the unsexy EVs that keep the economy moving",
+        "link": "https://www.theverge.com/transportation/1038448/harbinger-ev-startup-240m-series-d-fedex-army-trucks",
+        "pubDate": "2026-11-21T07:00:00-05:00",
+        "description": "While legacy automakers tap the brakes on electric vehicles, one startup is hitting the accelerator. Earlier this month, electric truck maker Harbinger raised $240 million in a Series D round, capping a banner stretch that includes a $300 million ord",
+        "source": "TheVerge"
+      },
+      {
         "title": "YouTube is reportedly preparing to settle social media addiction claims for $3 billion",
         "link": "https://www.theverge.com/streaming/1039096/youtube-social-media-addiction-school-districts-settlement",
         "pubDate": "2026-11-20T15:43:52-05:00",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
         "pubDate": "2026-11-20T13:50:19-05:00",
         "description": "President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restrictions on new applications to build them. \"We're not going to allow our c",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Multiplying your Switch 2’s storage costs less than usual right now",
-        "link": "https://www.theverge.com/gadgets/1037749/microsd-express-card-nintendo-switch-2-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-20T13:15:00-05:00",
-        "description": "Expanding your Nintendo Switch 2’s 256GB of built-in storage with a microSD card is pricier than it was with Nintendo’s original console. That’s because microSD Express cards, while physically identical to ones you might have lying around, have faste",
         "source": "TheVerge"
       }
     ],
