@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-22T15:39:48.655065Z",
+  "ts": "2026-11-22T21:15:50.733112Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,17 +252,17 @@
     ],
     "en_sec": [
       {
-        "title": "VMware patches vCenter zero-day exploited in attacks since September",
-        "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
-        "pubDate": "Thu, 19 Nov 2026 19:26:25 -0500",
-        "description": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+        "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+        "pubDate": "Sun, 22 Nov 2026 13:45:37 -0500",
+        "description": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access",
         "source": "BleepingComputer"
       },
       {
-        "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
-        "pubDate": "Thu, 19 Nov 2026 17:25:42 -0500",
-        "description": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people. [...]",
+        "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+        "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+        "pubDate": "Sun, 22 Nov 2026 10:43:04 -0500",
+        "description": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -394,6 +394,34 @@
     ],
     "en_tech": [
       {
+        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+        "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
+        "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "The best apps to make new friends right now",
+        "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
+        "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
+        "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why data centers are at the center of the Big Tech backlash",
+        "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+        "pubDate": "Sun, 22 Nov 2026 18:08:43 +0000",
+        "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
+        "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
+        "pubDate": "Sun, 22 Nov 2026 17:06:00 +0000",
+        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Can a TV be too large? An investigation",
         "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
         "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
@@ -471,66 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Super-hot rock geothermal could end data center energy woes",
-        "link": "https://techcrunch.com/2026/11/20/super-hot-rock-geothermal-could-end-data-center-energy-woes/",
-        "pubDate": "Fri, 20 Nov 2026 18:34:00 +0000",
-        "description": "New geothermal startups are betting that they can leapfrog today's leaders to deliver terawatts of electricity nearly anywhere.",
-        "source": "TechCrunch"
+        "title": "Delta flights in and out of Atlanta delayed due to system outage",
+        "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
+        "pubDate": "2026-11-22T12:46:44-05:00",
+        "description": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busi",
+        "source": "TheVerge"
       },
       {
-        "title": "Chips can survive the space environment — can their financing?",
-        "link": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
-        "pubDate": "Fri, 20 Nov 2026 17:40:01 +0000",
-        "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-        "source": "TechCrunch"
+        "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+        "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+        "pubDate": "2026-11-22T12:25:20-05:00",
+        "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto",
+        "source": "TheVerge"
       },
       {
-        "title": "Bending Spoons buys Mailchimp for $3.68B",
-        "link": "https://techcrunch.com/2026/11/20/bending-spoons-buys-mailchimp-for-3-68-billion/",
-        "pubDate": "Fri, 20 Nov 2026 16:16:06 +0000",
-        "description": "Intuit acquired the company in 2021 for roughly $12 billion, so it looks like Bending Spoons is getting quite a bargain.",
-        "source": "TechCrunch"
+        "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
+        "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
+        "pubDate": "2026-11-22T12:00:00-05:00",
+        "description": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bu",
+        "source": "TheVerge"
       },
       {
-        "title": "A transcription firm used by police, prosecutors, and tech giants exposed customer data online",
-        "link": "https://techcrunch.com/2026/11/20/a-transcription-firm-used-by-police-prosecutors-and-tech-giants-exposed-customer-data-online/",
-        "pubDate": "Fri, 20 Nov 2026 15:46:07 +0000",
-        "description": "Exclusive: A simple security lapse exposed transcriptions of police interviews and bodycam footage on a cloud server without a password.",
-        "source": "TechCrunch"
+        "title": "Sheherazaad’s Khudgarzi is gorgeous, ‘genre-chaotic’ South Asian folk",
+        "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
+        "pubDate": "2026-11-22T11:33:29-05:00",
+        "description": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The in",
+        "source": "TheVerge"
       },
       {
         "title": "Protesters storm Meta offices in India",
         "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
         "pubDate": "2026-11-22T10:15:07-05:00",
         "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leade",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
-        "pubDate": "2026-11-22T09:00:00-05:00",
-        "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off",
-        "source": "TheVerge"
-      },
-      {
-        "title": "‘The show is starting soon. Please turn on your headphones.’",
-        "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
-        "pubDate": "2026-11-22T09:00:00-05:00",
-        "description": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wir",
-        "source": "TheVerge"
-      },
-      {
-        "title": "How Tamagotchis got us hooked on digital pets",
-        "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
-        "pubDate": "2026-11-22T08:15:27-05:00",
-        "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a cry",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Your questions about Apple HomeView’s audio, answered",
-        "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
-        "pubDate": "2026-11-22T08:00:00-05:00",
-        "description": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - ",
         "source": "TheVerge"
       }
     ],
