@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-22T00:18:27.736032Z",
+  "ts": "2026-11-22T07:25:49.440133Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,6 +273,20 @@
         "source": "BleepingComputer"
       },
       {
+        "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+        "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+        "pubDate": "Sun, 22 Nov 2026 10:36:55 +0530",
+        "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Reten",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+        "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+        "pubDate": "Sun, 22 Nov 2026 10:33:41 +0530",
+        "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files,",
+        "source": "TheHackerNews"
+      },
+      {
         "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
         "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
         "pubDate": "Sat, 21 Nov 2026 17:59:58 -0500",
@@ -376,20 +390,6 @@
         "pubDate": "Fri, 20 Nov 2026 16:02:50 +0530",
         "description": "Threat actors have been observed exploiting a recently disclosed critical security flaw in Cisco Expressway to breach a Russian organization shortly after the public release of a proof-of-concept (PoC) exploit.\n\nThe activity involves the exploitation",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-        "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-        "pubDate": "Fri, 20 Nov 2026 15:08:15 +0530",
-        "description": "The suspected China-nexus cyber espionage group known as Armory Castle (formerly UNC5221) has been attributed to the zero-day exploitation of a critical security flaw in VMware vCenter Server in early September 2026.\n\nThe vulnerability, tracked as CV",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-        "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-        "pubDate": "Fri, 20 Nov 2026 13:51:43 -0500",
-        "description": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
