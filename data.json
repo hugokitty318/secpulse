@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-22T07:25:49.440133Z",
+  "ts": "2026-11-22T15:39:48.655065Z",
   "tabs": {
     "cn_sec": [
       {
@@ -266,13 +266,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "ASUS warns of critical hard-coded key flaw in Control Center Express",
-        "link": "https://www.bleepingcomputer.com/news/security/asus-warns-of-critical-hard-coded-key-flaw-in-control-center-express/",
-        "pubDate": "Thu, 19 Nov 2026 16:15:59 -0500",
-        "description": "ASUS released Control Center Express v1.7.29 to fix three critical vulnerabilities that could let remote attackers gain administrative control of the management console and the devices it manages. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
         "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
         "pubDate": "Sun, 22 Nov 2026 10:36:55 +0530",
@@ -285,6 +278,13 @@
         "pubDate": "Sun, 22 Nov 2026 10:33:41 +0530",
         "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files,",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+        "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+        "pubDate": "Sun, 22 Nov 2026 10:15:25 -0500",
+        "description": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Can a TV be too large? An investigation",
+        "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
+        "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
+        "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
         "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
         "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
@@ -492,45 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Six AI-powered gadgets that could make your home office smarter",
-        "link": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
-        "pubDate": "Fri, 20 Nov 2026 14:00:00 +0000",
-        "description": "From notetakers to webcams, here are six AI-powered gadgets to upgrade your workspace.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon is complaining about NYC Council on shipping labels, too",
-        "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
-        "pubDate": "2026-11-21T16:59:31-05:00",
-        "description": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protec",
+        "title": "Protesters storm Meta offices in India",
+        "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
+        "pubDate": "2026-11-22T10:15:07-05:00",
+        "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leade",
         "source": "TheVerge"
       },
       {
-        "title": "The UN fails to agree on rules regulating ‘killer robots’",
-        "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-        "pubDate": "2026-11-21T15:03:37-05:00",
-        "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing o",
+        "title": "Nintendo’s Switch 2 console is $50 off for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1038181/nintendo-switch-2-black-friday-deal-mario-kart-world-bundle-2026-sale",
+        "pubDate": "2026-11-22T09:00:00-05:00",
+        "description": "Those hoping to save some cash on a Nintendo Switch 2 can do so starting today, November 22nd, through Saturday, December 5th, giving you plenty of time to think about it after Cyber Monday has passed. For a limited time, Nintendo has knocked $50 off",
         "source": "TheVerge"
       },
       {
-        "title": "The FBI and USDA were reportedly hacked",
-        "link": "https://www.theverge.com/tech/1039543/fbi-usda-hacked",
-        "pubDate": "2026-11-21T12:42:27-05:00",
-        "description": "Friday, it was reported that both the US Department of Agriculture (USDA) and the FBI were hacked. In reporting on the FBI hack, CNN noted that this is the second such attack on the agency in the last few months, this time targeting the National Crim",
+        "title": "‘The show is starting soon. Please turn on your headphones.’",
+        "link": "https://www.theverge.com/tech/1038879/off-broadway-love-me-auracast",
+        "pubDate": "2026-11-22T09:00:00-05:00",
+        "description": "Up a few concrete steps and through the front door of a 200-year-old row house in New York City, I follow a crowd of people into the 178-seat SoHo Playhouse. As we filter to our seats, ushers hand each person a black drawstring bag with a pair of wir",
         "source": "TheVerge"
       },
       {
-        "title": "John Roberts, the voice of Linda Belcher, is just happy to finish a thing",
-        "link": "https://www.theverge.com/report/1038463/john-roberts-linda-belcher-bobs-burgers-interview",
-        "pubDate": "2026-11-21T11:00:00-05:00",
-        "description": "You probably know John Roberts best as the voice of Linda Belcher on Bob's Burgers. The show just wrapped up its 16th season and shows no signs of slowing down anytime soon. The show remains a reliable source of laughs, top-notch puns, and frankly wh",
+        "title": "How Tamagotchis got us hooked on digital pets",
+        "link": "https://www.theverge.com/podcast/1039716/tamagotchi-history-digital-pets-anniversary",
+        "pubDate": "2026-11-22T08:15:27-05:00",
+        "description": "If you were are a kid in the late 1990s, there's a near-100 percent chance you either had a Tamagotchi or knew someone who did. The tiny digital pets came out of nowhere and became an overnight sensation, as millions of kids signed up to parent a cry",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon’s first digital photo frame is up to 50 percent off for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-21T11:00:00-05:00",
-        "description": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a grea",
+        "title": "Your questions about Apple HomeView’s audio, answered",
+        "link": "https://www.theverge.com/tech/1038713/apple-homeview-audio-smart-speaker-spotify-airplay",
+        "pubDate": "2026-11-22T08:00:00-05:00",
+        "description": "After I published my review of the HomeView, Apple's first smart display, y'all still had a ton of questions about how it works as a smart speaker. So, I spent a bunch more time testing its audio capabilities and support for third-party music apps - ",
         "source": "TheVerge"
       }
     ],
