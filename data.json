@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-21T20:03:26.402730Z",
+  "ts": "2026-11-22T00:18:27.736032Z",
   "tabs": {
     "cn_sec": [
       {
@@ -273,10 +273,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Transport for London breach exposes 265,000 Oyster card users' data",
-        "link": "https://www.bleepingcomputer.com/news/security/transport-for-london-breach-exposes-265-000-oyster-card-users-data/",
-        "pubDate": "Thu, 19 Nov 2026 13:20:01 -0500",
-        "description": "Transport for London (TfL) has announced that around 265,000 Oyster photocard customers may have had their account details exposed in a data breach. [...]",
+        "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
+        "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
+        "pubDate": "Sat, 21 Nov 2026 17:59:58 -0500",
+        "description": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -394,6 +394,20 @@
     ],
     "en_tech": [
       {
+        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
+        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
+        "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
+        "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "A tale of two Nvidias",
+        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+        "pubDate": "Sat, 21 Nov 2026 21:07:42 +0000",
+        "description": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Trump says reported FBI database hack is ‘not good’",
         "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
         "pubDate": "Sat, 21 Nov 2026 18:44:53 +0000",
@@ -485,18 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Behind Jensen Huang’s exit, questions about a management style reportedly built on fear",
-        "link": "https://techcrunch.com/2026/11/20/behind-jensen-huangs-exit-questions-about-a-management-style-reportedly-built-on-fear/",
-        "pubDate": "Fri, 20 Nov 2026 13:25:00 +0000",
-        "description": "Elon Musk may have been overstating it when he said Nvidia’s employees “love” the ousted Jensen Huang.",
-        "source": "TechCrunch"
+        "title": "Amazon is complaining about NYC Council on shipping labels, too",
+        "link": "https://www.theverge.com/tech/1039564/amazon-nyc-council-packages-shipping-label",
+        "pubDate": "2026-11-21T16:59:31-05:00",
+        "description": "Amazon is leaving no venue unexplored in its fight against the New York City Council and the Delivery Protection Act. The company is now putting labels on shipments claiming that the Council could add up to $5 to any Amazon order. The Delivery Protec",
+        "source": "TheVerge"
       },
       {
-        "title": "California AG subpoenas Nvidia over worries about Huang’s ties with China",
-        "link": "https://techcrunch.com/2026/11/20/california-ag-subpoenas-nvidia-over-worries-about-huangs-ties-with-china/",
-        "pubDate": "Fri, 20 Nov 2026 13:21:11 +0000",
-        "description": "\"The conduct of Nvidia and its former CEO raises bright red flags, including about the ways in which the company may have misled investors,\" California AG Rob Bonta said.",
-        "source": "TechCrunch"
+        "title": "The UN fails to agree on rules regulating ‘killer robots’",
+        "link": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
+        "pubDate": "2026-11-21T15:03:37-05:00",
+        "description": "One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventually, representatives left the meetings agreeing to \"start discussing o",
+        "source": "TheVerge"
       },
       {
         "title": "The FBI and USDA were reportedly hacked",
@@ -517,20 +531,6 @@
         "link": "https://www.theverge.com/gadgets/1038762/amazon-alexa-photo-frame-black-friday-2026-deal-sale",
         "pubDate": "2026-11-21T11:00:00-05:00",
         "description": "Amazon only announced its first digital photo frame less than a month ago, but it’s already getting a sizable discount for Black Friday. You can currently grab the Alexa Photo Frame at Amazon and Best Buy starting at $114 ($115 off), making it a grea",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Can Anthropic afford to put safety first?",
-        "link": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
-        "pubDate": "2026-11-21T10:00:00-05:00",
-        "description": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind Claude went public on the Nasdaq last Thursday. The numbers are gigan",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Our go-to earbuds for taking calls have fallen to their lowest price to date",
-        "link": "https://www.theverge.com/gadgets/1039160/anker-soundcore-liberty-5-pro-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-21T09:55:28-05:00",
-        "description": "If you’re looking for a new pair of earbuds, the Soundcore Liberty 5 Pro are on sale for $129.99 at Amazon, Best Buy, and Walmart right now. That’s the lowest price we’ve seen for Anker’s excellent wireless earbuds, which normally retail for $169.99 ",
         "source": "TheVerge"
       }
     ],
