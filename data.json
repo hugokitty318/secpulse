@@ -1,7 +1,28 @@
 {
-  "ts": "2026-11-22T21:15:50.733112Z",
+  "ts": "2026-11-23T01:57:26.398629Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "俄羅斯駭客Cold Relic竊取企業資料後，冒充受害組織員工發動網釣攻擊",
+        "link": "https://www.ithome.com.tw/news/180668",
+        "pubDate": "2026-11-23 08:00",
+        "description": "俄羅斯駭客組織Cold Relic竊取一家美國組織的雲端資料後，冒充該組織員工，對另一家組織發動網路釣魚攻擊，成功入侵使用者帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟揭露GitHub Copilot CLI釣魚攻擊風險，駭客恐藉合法登入程序操控AI代理",
+        "link": "https://www.ithome.com.tw/news/180676",
+        "pubDate": "2026-11-23 08:00",
+        "description": "微軟研究發現，攻擊者可能透過裝置驗證碼釣魚，誘騙GitHub Copilot CLI使用者核准登入要求，進而存取私人程式碼儲存庫、讀取開發紀錄，甚至操控AI代理執行命令",
+        "source": "iThome資安"
+      },
+      {
+        "title": "PHP 8.6新增I/O輪詢API改善大量連線監控，並導入部分函式套用",
+        "link": "https://www.ithome.com.tw/news/180690",
+        "pubDate": "2026-11-23  09:11:46",
+        "description": "PHP開發團隊發布PHP 8.6穩定版，新增I/O輪詢API（Io\\Poll），讓程式能透過作業系統原生機制監控大量網路連線。新版也導入部分函式套用（Partial Function Application），讓開發者預先指定函式參數，減少額外撰寫匿名函式，並調整Session安全預設值。",
+        "source": "iThome"
+      },
       {
         "title": "網擎策略投資微智安聯，臺灣資安業者攜手擴大產品布局、拓展海外市場",
         "link": "https://www.ithome.com.tw/news/180692",
@@ -80,10 +101,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "NIST完成量子位置驗證實驗，未來有望防範駭客從遠端冒用身分",
-        "link": "https://www.ithome.com.tw/news/180652",
+        "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
+        "link": "https://www.ithome.com.tw/news/180568",
         "pubDate": "2026-11-20 08:00",
-        "description": "美國NIST完成量子位置驗證實驗，利用量子糾纏與光速限制，確認通訊對象是否位於指定地點。這項技術未來有望用於金融交易及關鍵基礎設施的存取控制",
+        "description": "資安AI新創公司Corma今年8月才宣布取得6,000萬美元種子輪資金，11月再完成1.25億美元A輪募資，估值達10億美元。該公司自行訓練資安防禦專用AI基礎模型，透過AI代理協助企業調查入侵事件，新資金將投入模型研發與運算資源擴充",
         "source": "iThome資安"
       },
       {
@@ -99,20 +120,6 @@
         "pubDate": "2026-11-20 08:00",
         "description": "美國石溪大學研究人員部署300個蜜罐映像檔，觀察自動化工具如何從公開容器映像檔中擷取雲端服務金鑰。實驗期間，研究團隊記錄到超過14萬次使用AWS測試金鑰呼叫API的活動，最快在映像檔發布後7.86秒就出現API呼叫",
         "source": "iThome資安"
-      },
-      {
-        "title": "資安AI新創Corma相隔3個月再募資1.25億美元，估值達10億美元",
-        "link": "https://www.ithome.com.tw/news/180568",
-        "pubDate": "2026-11-20 08:00",
-        "description": "資安AI新創公司Corma今年8月才宣布取得6,000萬美元種子輪資金，11月再完成1.25億美元A輪募資，估值達10億美元。該公司自行訓練資安防禦專用AI基礎模型，透過AI代理協助企業調查入侵事件，新資金將投入模型研發與運算資源擴充",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google跟進OpenAI、Anthropic，Gemini開始支援Mac電腦操作",
-        "link": "https://www.ithome.com.tw/news/180677",
-        "pubDate": "2026-11-20  11:11:19",
-        "description": "Google周四（11/19）宣布，旗下AI助理Gemini新增Mac電腦操作功能，可直接操作Mac上的應用程式、檔案及網站，替使用者完成多步驟工作，跟進OpenAI及Anthropic等業者在電腦操作型AI代理人領域的布局。",
-        "source": "iThome"
       },
       {
         "title": "AWS Aurora DSQL開放跨洲多區域叢集，單一區域故障仍可讀寫",
@@ -134,13 +141,6 @@
         "pubDate": "2026-11-20  05:11:19",
         "description": "全球6G發展已由前瞻技術研究逐步邁向系統整合與跨國驗證階段，在經濟部與國科會支持下，國內首座「實驗網」（6G-FORMOSA）正式全面啟用。這座實驗網由工研院整合聯發科技、和碩、明泰、啟碁、濰元等18家產學研單位共同建置，並已串聯歐盟、英國6G實驗網，以及Eutelsat OneWeb、SES等國際衛星營運商，為臺灣與國際6G生態系接軌的重要測試驗證平臺。\n經濟部政務次長江文若指出，目前國際第一版的6G標準預計會在2029年由3GPP完成制定，而2035年全球6G市場規模可望達到875億美元，目",
         "source": "iThome"
-      },
-      {
-        "title": "AI趨勢周報第295期：微軟一口氣推出7款AI模型，拚效能也拚Token成本",
-        "link": "https://www.ithome.com.tw/news/180669",
-        "pubDate": "2026-11-20  05:11:10",
-        "description": "重點新聞（1113～1119）",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
@@ -152,24 +152,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "網銀帳密交給 AI 代理，連外洩被盜用都算客戶的？花旗改條款，美國大銀行陸續劃定責任歸屬",
-        "link": "https://techorange.com/2026/11/19/us-banks-ai-agent-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 16:26:41 +0800",
-        "description": "美國第三大商業銀行花旗（Citi）11 月更新線上用戶協議，新增「使用第三方 AI 代理」專節：客戶若把網路銀行登入帳密（Online Credentials，下稱網銀帳密）交給第三方 AI 代理（AI Agent），代理的所有存取與操作，花旗都會視為客戶授權；這組帳密若再遭轉傳或外洩，其他人或代理用它進行的操作也一樣。花旗透過自家網銀 Citi Online 與 App Citi Mobile 提供的 AI 代理、工具或功能（包括第三方代理），則不適用這節條款。 花旗不是唯一一家更新用戶協議的",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Gemini 4 Neon 程式評測逼近 Opus 5.5，API 標價卻比 Anthropic、OpenAI 中階模型貴 5 成：企業該怎麼算？",
-        "link": "https://techorange.com/2026/11/19/google-ai-models-gemini-4-neon/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 19 Nov 2026 12:39:05 +0800",
-        "description": "Google 近日推出新款中階 AI 模型 Gemini 4 Neon。Google 表示，這款模型能在複雜軟體工程、知識工作與科學研究流程中，「以前沿等級的智慧，快速完成端到端任務」。《The Decoder》指出，這是 Google 四週內推出的第四款 Gemini 4 新模型。 Neon 已在 Google AI Studio 與 Android Studio 的付費 Gemini API 上線，Google AI Pro 與 Ultra 訂閱用戶也能在 Gemini App 及 AI 輔",
-        "source": "TechOrange"
-      },
-      {
         "title": "【Visa 全球數位匯款報告】近七成民眾更看重「由誰提供」，信任與防詐是穩定幣普及關鍵",
         "link": "https://techorange.com/2026/11/21/future-of-global-money-movement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Sat, 21 Nov 2026 06:29:00 +0800",
         "description": "全球數位支付機構 Visa 正式發布《Money Travels: 2026 Digital Remittances Adoption Report》（2026 年數位匯款採用報告），調查涵蓋全球 20 國、共 45,000 名跨國匯款參與者；報告揭示跨境支付的競爭焦點已從早期的「數位管道普及」轉向「機構信任與安全保障」，顯示制度信任是推動新興支付走向大眾普及的關鍵。 所謂「數位匯款（Digital Remittances）」，是指民眾不再跑實體銀行，直接用手機網銀或行動錢包將生活費、醫療費跨境",
+        "source": "TechOrange"
+      },
+      {
+        "title": "RFID 抓單品數據、AI 做事後分析，Kroger 如何讓庫存決策一次比一次準？",
+        "link": "https://techorange.com/2026/11/23/kroger-rfid-ai-inventory-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 23 Nov 2026 08:59:01 +0800",
+        "description": "零售業的庫存管理正面臨新的技術變革。當商品種類增加、供應鏈與門市營運日益複雜，如何即時掌握商品數量、位置與銷售狀況，成為零售商提升營運效率的重要課題。美國連鎖超市 Kroger 正加速整合無線射頻辨識（RFID）、數位架上標籤（Digital Shelf Labels）、機器人與人工智慧（AI），改善商品庫存流動、鮮度管理及貨架供應率。 盤點速度提升近 70%！RFID 助陣精準控管生鮮損耗 其中，RFID 是 Kroger 目前改善庫存管理的重要試點。公司已在約 1,500 家門市的烘焙部門導",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，阿里巴巴雲端成長承壓",
+        "link": "https://techorange.com/2026/11/23/us-ai-chip-export-rules-tsmc-samsung-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Mon, 23 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，川普稱只賣舊款晶片 美國商務部工業暨安全局（BIS）11 月 19 日生效的 AI 晶片出口新規，進一步收緊中國企業取得先進算力的管道。據《Reuters》引述消息人士指出，台積電已暫停部分中國客戶採用 16 奈米及更先進製程的訂單，除非客戶取得美國出口許可；《Financial Times》則報導，台積電與三星（Samsung）均暫停部分對中出貨。台積電表示將遵守相關規定，但不評論市場傳",
         "source": "TechOrange"
       },
       {
@@ -394,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "‘You Can See Everything’ has made more than $100M worldwide",
+        "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
+        "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
+        "description": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
         "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
         "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
@@ -478,6 +485,13 @@
         "source": "TechCrunch"
       },
       {
+        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+        "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
+        "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
         "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
         "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
@@ -485,18 +499,11 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
-        "link": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
-        "pubDate": "Fri, 20 Nov 2026 19:53:41 +0000",
-        "description": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
-        "link": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
-        "pubDate": "Fri, 20 Nov 2026 19:32:08 +0000",
-        "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
-        "source": "TechCrunch"
+        "title": "We haven’t seen the last of the major tech outages",
+        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
+        "pubDate": "2026-11-22T17:48:02-05:00",
+        "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of Natio",
+        "source": "TheVerge"
       },
       {
         "title": "Delta flights in and out of Atlanta delayed due to system outage",
@@ -524,13 +531,6 @@
         "link": "https://www.theverge.com/entertainment/1039762/sheherazaad-khudgarzi-review",
         "pubDate": "2026-11-22T11:33:29-05:00",
         "description": "Sheherazaad started making ripples in the music world a few years ago with her EP Qasr, which was produced by Grammy Award winner Arooj Aftab. Now she's back with Khudgarzi, her reverb-drenched folk-noir debut LP that's primarily sung in Urdu. The in",
-        "source": "TheVerge"
-      },
-      {
-        "title": "Protesters storm Meta offices in India",
-        "link": "https://www.theverge.com/tech/1039732/protesters-storm-meta-offices-in-india",
-        "pubDate": "2026-11-22T10:15:07-05:00",
-        "description": "Members of the opposition Congress party protested outside Meta's offices in Delhi on Friday and appear to have entered the building in a video shared by CNN. Members of the party's youth wing are demanding the company restore accounts of party leade",
         "source": "TheVerge"
       }
     ],
