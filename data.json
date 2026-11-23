@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-23T10:40:36.959000Z",
+  "ts": "2026-11-23T22:14:40.346585Z",
   "tabs": {
     "cn_sec": [
       {
@@ -322,201 +322,201 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-        "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-        "pubDate": "Sat, 21 Nov 2026 10:17:27 -0500",
-        "description": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-        "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-        "pubDate": "Sat, 21 Nov 2026 09:26:04 -0500",
-        "description": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement agencies. [..",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
-        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
-        "pubDate": "Mon, 23 Nov 2026 14:41:56 +0530",
-        "description": "Cybersecurity researchers have urged users to discontinue using a legacy ASP.NET anti-CSRF library named Idunno.AntiCsrf (\"Idunno.AntiCsrf.dll\") following the discovery of a critical vulnerability that has been exploited in the wild.\n\nThe vulnerabili",
+        "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+        "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+        "pubDate": "Mon, 23 Nov 2026 23:15:15 +0530",
+        "description": "The China-aligned threat actor known as Webworm is suspected to be using a custom version of the open-source SoftEther VPN Bridge tool in an attempt to remove recognizable detection fingerprints, while disguising it as network-monitoring software to ",
         "source": "TheHackerNews"
       },
       {
-        "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-        "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-        "pubDate": "Mon, 23 Nov 2026 14:34:08 +0530",
-        "description": "Hackers exploited a vulnerability in GL.iNet's GoodCloud remote management service to install malware on some customer routers and KVM devices, the maker of travel routers and remote-access KVM hardware said in a security notice updated today.\n\nThe c",
+        "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+        "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+        "pubDate": "Mon, 23 Nov 2026 20:40:48 +0530",
+        "description": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.\n\nThis w",
         "source": "TheHackerNews"
       },
       {
-        "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-        "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-        "pubDate": "Mon, 23 Nov 2026 13:54:15 +0530",
-        "description": "The Indian Computer Emergency Response Team (CERT-In) has warned that threat actors are carrying out artificial intelligence (AI)-assisted cyber attacks targeting information and communication technology (ICT) assets in the country.\n\nThis unsanctione",
+        "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+        "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+        "pubDate": "Mon, 23 Nov 2026 18:52:20 +0530",
+        "description": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case",
         "source": "TheHackerNews"
       },
       {
-        "title": "Microsoft confirms Windows printing issues affecting Forcepoint users",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-printing-issues-after-kb5132043-windows-hotpatch/",
-        "pubDate": "Mon, 23 Nov 2026 04:11:15 -0500",
-        "description": "Microsoft confirmed printing issues on systems running Forcepoint DLP software after installing the KB5132043 November 2026 Windows 11 hotpatch. [...]",
+        "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+        "pubDate": "Mon, 23 Nov 2026 18:11:04 +0530",
+        "description": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+        "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+        "pubDate": "Mon, 23 Nov 2026 17:58:09 +0530",
+        "description": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.\n\nThe bug, tracked as CVE-2026-134624, is a server-si",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
+        "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
+        "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500",
+        "description": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "CISA flags critical Cisco RCE flaw as actively exploited in attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-critical-cisco-expressway-rce-flaw-as-actively-exploited/",
-        "pubDate": "Mon, 23 Nov 2026 02:44:19 -0500",
-        "description": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers are now exploiting a recently patched critical Cisco Expressway vulnerability in the wild. [...]",
+        "title": "OpenRouter drops AI providers over leaked prompts and secrets",
+        "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
+        "pubDate": "Mon, 23 Nov 2026 15:00:20 -0500",
+        "description": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-        "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-        "pubDate": "Fri, 20 Nov 2026 23:27:20 +0530",
-        "description": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages.\n\nThe vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5), has been d",
-        "source": "TheHackerNews"
+        "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
+        "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
+        "pubDate": "Mon, 23 Nov 2026 14:42:20 -0500",
+        "description": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
+        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "‘You Can See Everything’ has made more than $100M worldwide",
-        "link": "https://techcrunch.com/2026/11/22/you-can-see-everything-has-made-more-than-100m-worldwide/",
-        "pubDate": "Sun, 22 Nov 2026 21:42:48 +0000",
-        "description": "The new Elizabeth Holmes documentary is just beginning to roll out internationally.",
+        "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+        "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+        "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
+        "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
         "source": "TechCrunch"
       },
       {
-        "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-        "link": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-        "pubDate": "Sun, 22 Nov 2026 21:14:07 +0000",
-        "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+        "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+        "pubDate": "Mon, 23 Nov 2026 22:02:05 +0000",
+        "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
         "source": "TechCrunch"
       },
       {
-        "title": "The best apps to make new friends right now",
-        "link": "https://techcrunch.com/2026/11/22/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/",
-        "pubDate": "Sun, 22 Nov 2026 21:00:00 +0000",
-        "description": "We've compiled a list of friendship apps, from friend discovery platforms like BFF to event-focused ones like Timeleft.",
+        "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+        "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+        "pubDate": "Mon, 23 Nov 2026 21:47:41 +0000",
+        "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
         "source": "TechCrunch"
       },
       {
-        "title": "Why data centers are at the center of the Big Tech backlash",
-        "link": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-        "pubDate": "Sun, 22 Nov 2026 18:08:43 +0000",
-        "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+        "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+        "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+        "pubDate": "Mon, 23 Nov 2026 21:25:42 +0000",
+        "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
         "source": "TechCrunch"
       },
       {
-        "title": "TechCrunch Mobility: A/B testing robots vs. humans",
-        "link": "https://techcrunch.com/2026/11/22/techcrunch-mobility-a-b-testing-robots-vs-humans/",
-        "pubDate": "Sun, 22 Nov 2026 17:06:00 +0000",
-        "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and, now more than ever, the role AI is playing in it.",
+        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+        "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+        "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000",
+        "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
         "source": "TechCrunch"
       },
       {
-        "title": "Can a TV be too large? An investigation",
-        "link": "https://techcrunch.com/2026/11/22/can-a-tv-be-too-large-an-investigation/",
-        "pubDate": "Sun, 22 Nov 2026 15:00:00 +0000",
-        "description": "Can a TV be too large? This writer's recent upgrade to a 65-inch OLED came with some unexpected challenges.",
+        "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
+        "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
+        "pubDate": "Mon, 23 Nov 2026 19:31:41 +0000",
+        "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
         "source": "TechCrunch"
       },
       {
-        "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-        "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-        "pubDate": "Sat, 21 Nov 2026 21:37:10 +0000",
-        "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+        "pubDate": "Mon, 23 Nov 2026 19:14:46 +0000",
+        "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
         "source": "TechCrunch"
       },
       {
-        "title": "A tale of two Nvidias",
-        "link": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-        "pubDate": "Sat, 21 Nov 2026 21:07:42 +0000",
-        "description": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+        "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+        "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+        "pubDate": "Mon, 23 Nov 2026 18:12:22 +0000",
+        "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
         "source": "TechCrunch"
       },
       {
-        "title": "Trump says reported FBI database hack is ‘not good’",
-        "link": "https://techcrunch.com/2026/11/21/trump-says-reported-fbi-database-hack-is-not-good/",
-        "pubDate": "Sat, 21 Nov 2026 18:44:53 +0000",
-        "description": "The FBI is reportedly investigating a hack of the National Crime Information Center.",
+        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+        "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000",
+        "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
         "source": "TechCrunch"
       },
       {
-        "title": "Here are the top AI agents that can live in your text messages",
-        "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
-        "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000",
-        "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+        "title": "Meta throws out its net-zero goal — its competitors should be furious",
+        "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+        "pubDate": "Mon, 23 Nov 2026 17:13:45 +0000",
+        "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
         "source": "TechCrunch"
       },
       {
-        "title": "Is selling an AI version of your face to this microdrama startup the future of Hollywood?",
-        "link": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-        "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
-        "description": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
+        "title": "Jensen Huang isn’t out of the woods yet",
+        "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+        "pubDate": "Mon, 23 Nov 2026 16:57:40 +0000",
+        "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
         "source": "TechCrunch"
       },
       {
-        "title": "Alaska, your next governor is a Wikipedia nerd",
-        "link": "https://techcrunch.com/2026/11/21/alaska-your-next-governor-is-a-wikipedia-nerd/",
-        "pubDate": "Sat, 21 Nov 2026 15:18:29 +0000",
-        "description": "Jonathan Kreiss-Tomkins, Alaska's governor-elect, has made more than 13,000 WIkipedia edits.",
+        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+        "pubDate": "Mon, 23 Nov 2026 16:39:10 +0000",
+        "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
         "source": "TechCrunch"
       },
       {
-        "title": "Startup sues Apple in India over tap-to-share contacts feature",
-        "link": "https://techcrunch.com/2026/11/20/startup-sues-apple-in-india-over-tap-to-share-contacts-feature/",
-        "pubDate": "Sat, 21 Nov 2026 04:00:00 +0000",
-        "description": "A U.S. startup is seeking $162 million in damages and an injunction to impact iPhone and Apple Watch imports to India.",
+        "title": "CrowdStrike to acquire Zscaler for $44 billion",
+        "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
+        "pubDate": "Mon, 23 Nov 2026 16:20:11 +0000",
+        "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
         "source": "TechCrunch"
       },
       {
-        "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
-        "link": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-        "pubDate": "Mon, 23 Nov 2026 01:25:53 +0000",
-        "description": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+        "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
+        "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
+        "pubDate": "Mon, 23 Nov 2026 15:29:49 +0000",
+        "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
         "source": "TechCrunch"
       },
       {
-        "title": "Experts warn: Nearly everyone in AI is susceptible to a honey-trap scheme right now",
-        "link": "https://techcrunch.com/2026/11/20/experts-warn-nearly-everyone-in-ai-is-susceptible-to-a-honey-trap-scheme-right-now/",
-        "pubDate": "Fri, 20 Nov 2026 20:58:29 +0000",
-        "description": "Techies are building technology that can advance all aspects of the world — but can they protect their hearts? That's the vulnerability that honey pots exploit.",
+        "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+        "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+        "pubDate": "Mon, 23 Nov 2026 15:04:01 +0000",
+        "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
         "source": "TechCrunch"
       },
       {
-        "title": "Kodak’s next collectible is a tiny digital photo frame that doubles as a tracker",
-        "link": "https://www.theverge.com/tech/1038650/kodak-slidetag-keychain-photo-display-tracker-find-my-hub-google-apple-e-ink",
-        "pubDate": "2026-11-22T22:00:00-05:00",
-        "description": "After expanding its Charmera collection with a Millennium Edition featuring Y2K-inspired designs earlier this year, Reto's follow-up to its tiny Kodak camera is an equally small digital photo frame you can use to display your shots. But while the Cha",
+        "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+        "pubDate": "2026-11-23T17:10:32-05:00",
+        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence",
         "source": "TheVerge"
       },
       {
-        "title": "We haven’t seen the last of the major tech outages",
-        "link": "https://www.theverge.com/tech/1039851/major-tech-outages",
-        "pubDate": "2026-11-22T17:48:02-05:00",
-        "description": "Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chase. But the consensus is that there are more to come. Director of Natio",
+        "title": "Welcome to elite impunity, Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
+        "pubDate": "2026-11-23T17:09:26-05:00",
+        "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some k",
         "source": "TheVerge"
       },
       {
-        "title": "Delta flights in and out of Atlanta delayed due to system outage",
-        "link": "https://www.theverge.com/transportation/1039779/delta-flights-delayed-system-outage",
-        "pubDate": "2026-11-22T12:46:44-05:00",
-        "description": "All Delta flights in and out of Atlanta are facing significant delays on Sunday due to a problem with the system that calculates a plane's weight and balance. Hartsfield-Jackson Atlanta International Airport is Delta's largest hub and one of the busi",
+        "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+        "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+        "pubDate": "2026-11-23T16:36:48-05:00",
+        "description": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off)",
         "source": "TheVerge"
       },
       {
-        "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-        "link": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
-        "pubDate": "2026-11-22T12:25:20-05:00",
-        "description": "The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit user ShweetsStuff discovered the songs used during a Grand Theft Auto",
+        "title": "AI data centers throw another wrench into chaotic UN climate talks",
+        "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+        "pubDate": "2026-11-23T16:09:37-05:00",
+        "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called CO",
         "source": "TheVerge"
       },
       {
-        "title": "Some of our favorite Switch 2 games are cheaper through Black Friday",
-        "link": "https://www.theverge.com/gadgets/1037313/nintendo-switch-2-game-black-friday-cyber-monday-deal-sale",
-        "pubDate": "2026-11-22T12:00:00-05:00",
-        "description": "Black Friday is a great time to expand your game library because it’s a chance to catch deals that aren’t normally happening throughout the year. That’s true for Nintendo Switch 2 games, as well. In addition to a $50 off sale on one of its console bu",
+        "title": "Apple renews Ted Lasso for season 5",
+        "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
+        "pubDate": "2026-11-23T15:56:00-05:00",
+        "description": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are c",
         "source": "TheVerge"
       }
     ],
