@@ -1,7 +1,119 @@
 {
-  "ts": "2026-11-23T22:14:40.346585Z",
+  "ts": "2026-11-24T06:22:38.875968Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "駭客濫用ScreenConnect重大漏洞入侵MSP工程師電腦，9秒內取得遠端存取權",
+        "link": "https://www.ithome.com.tw/news/180750",
+        "pubDate": "2026-11-24 13:04",
+        "description": "Huntress觀察到攻擊者向MSP的ScreenConnect伺服器大量發送檔案執行請求，等待工程師加入工作階段，再利用CVE-2026-84869漏洞向其用戶端傳送並執行惡意檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google發布Chrome穩定版及延伸穩定版更新，修補重大等級的輸入驗證不當漏洞",
+        "link": "https://www.ithome.com.tw/news/180748",
+        "pubDate": "2026-11-24 12:50",
+        "description": "Google於11月23日發布Chrome更新，修補重大漏洞CVE-2026-134401，問題出在Variations元件的輸入驗證機制，值得留意的是，該公司不僅為電腦穩定版及Android版進行修補，也同時為延伸穩定版提供更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Apple揭露macOS重大漏洞，可能導致系統與App當機或執行任意程式碼",
+        "link": "https://www.ithome.com.tw/news/180747",
+        "pubDate": "2026-11-24 12:25",
+        "description": "Apple公開macOS Sequoia、Tahoe與Golden Gate已修補重大漏洞訊息，涉及AMD、AVEVideoEncoder與Kernel元件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "資安研究員公布Windows零時差漏洞FastUnlock，攻擊者有機會以此在鎖定螢幕的電腦執行程式",
+        "link": "https://www.ithome.com.tw/news/180746",
+        "pubDate": "2026-11-24 11:41",
+        "description": "研究人員Nightmare Eclipse近日公布新的Windows零時差漏洞FastUnlock，攻擊者在能夠實際接觸電腦的情況下，有機會藉由微軟帳號復原流程與朗讀程式（Narrator），在無須登入使用者帳號的狀態下執行程式碼或檔案",
+        "source": "iThome資安"
+      },
+      {
+        "title": "韓國三星證券客戶申訴系統遭駭，逾8,200名客戶個資外洩",
+        "link": "https://www.ithome.com.tw/news/180744",
+        "pubDate": "2026-11-24 11:19",
+        "description": "外洩資料包括姓名、帳戶號碼及駕照號碼等13類個資；另有勒索組織Hyflock聲稱竊取三星集團1TB資料，但兩起事件是否相關仍不明",
+        "source": "iThome資安"
+      },
+      {
+        "title": "思科、OpenAI合作推出開源AI基礎架構防護技術Shirudo",
+        "link": "https://www.ithome.com.tw/news/180742",
+        "pubDate": "2026-11-24 10:11",
+        "description": "思科與OpenAI合作推出開源防護技術Shirudo，讓AI代理人找出漏洞，並針對Linux核心撰寫及測試以eBPF為基礎的防護程式碼",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CrowdStrike以439億美元併購Zscaler，創下資安界交易紀錄",
+        "link": "https://www.ithome.com.tw/news/180740",
+        "pubDate": "2026-11-24 08:59",
+        "description": "CrowdStrike宣布將以439億美元的全股票交易併購Zscaler，藉此跨足網路安全領域，整合端點安全、零信任與AI安全等技術",
+        "source": "iThome資安"
+      },
+      {
+        "title": "2026年工控資安事故比例增至去年的1.7倍，逾7成事故期間廠區或系統曾停機",
+        "link": "https://www.ithome.com.tw/news/180694",
+        "pubDate": "2026-11-24 08:00",
+        "description": "SANS Institute公布2026年工控資安調查，34%的受訪者所屬組織過去一年曾發生資安事故，比例為2025年的1.7倍，72%的事故伴隨廠區或系統停機。然而，僅15%的受訪者認為，組織能在控制系統失效後，以人工操作維持安全生產超過48小時，反映工業組織在事故應變與營運復原方面仍有不足",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國總務署在既有身分驗證智慧卡上成功執行抗量子密碼演算法",
+        "link": "https://www.ithome.com.tw/news/180653",
+        "pubDate": "2026-11-24 08:00",
+        "description": "美國總務署（GSA）成功在既有個人身分驗證（PIV）智慧卡晶片上執行抗量子密碼演算法，並核發新憑證，顯示部分既有智慧卡可能不必汰換，就能支援後量子密碼學（PQC）轉型",
+        "source": "iThome資安"
+      },
+      {
+        "title": "微軟Entra Connect Health漏洞遭利用，企業管理員聯絡資訊與租用戶資料外洩",
+        "link": "https://www.ithome.com.tw/news/180716",
+        "pubDate": "2026-11-24 08:00",
+        "description": "微軟證實，旗下身分識別監控服務Microsoft Entra Connect Health的API漏洞遭到利用，導致部分企業租用戶的管理員聯絡資訊及組態資料外洩。微軟已完成修補，並提醒企業防範針對管理員的網路釣魚攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "雲端服務Rackspace Spot遭入侵，攻擊者可讀取客戶叢集內的機密資料",
+        "link": "https://www.ithome.com.tw/news/180726",
+        "pubDate": "2026-11-24 06:32",
+        "description": "駭客利用外洩憑證入侵Rackspace Spot，可在部分客戶的Kubernetes叢集建立未授權Pod和讀取Secrets，Rackspace隨後暫停平臺存取並清理環境，直到臺灣時間11月22日凌晨才恢復服務，同時要求客戶輪替憑證",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Anthropic推出Claude Ship，AI自動審查、修正及核准程式碼",
+        "link": "https://www.ithome.com.tw/news/180741",
+        "pubDate": "2026-11-24  09:11:16",
+        "description": "Anthropic周一（11/23）宣布推出Claude Ship，將AI程式開發的自動化範圍從撰寫程式碼延伸至軟體交付流程，讓AI能夠自動審查及修正程式碼，甚至依據企業的自定政策來核准程式碼的變更，目前開放Claude Team及Enterprise用戶測試。\n隨著愈來愈多開發人員使用AI代理人撰寫程式碼，後續的人工審查及核准流程可能成為軟體開發的瓶頸。Anthropic表示，旗下Claude Code團隊的大部分程式碼已由Claude撰寫，為了加快提交程式碼後的處理流程，開發了Claude ",
+        "source": "iThome"
+      },
+      {
+        "title": "Nvidia董事會宣布黃仁勳回鍋，離職11天後重掌執行長職務",
+        "link": "https://www.ithome.com.tw/news/180739",
+        "pubDate": "2026-11-24  08:11:42",
+        "description": "Nvidia周一（11/23）宣布黃仁勳恢復總裁、執行長及董事職務，結束11天的離職風波。黃仁勳當天返回公司總部，受到員工熱烈歡迎，並承諾成為更好的執行長。據媒體報導，雙方上周六開始協商，周日決定復職，美國總統川普（Donald Trump）也親自介入。",
+        "source": "iThome"
+      },
+      {
+        "title": "Kubernetes 1.38預告調整cgroup驅動程式設定，舊版容器執行環境恐影響節點啟動",
+        "link": "https://www.ithome.com.tw/news/180752",
+        "pubDate": "2026-11-24  02:11:11",
+        "description": "Kubernetes 1.38預定12月16日正式發布，開發團隊提前公布新版功能與不相容變更，讓叢集管理員有時間做好升級準備。新版將預設停用舊有的cgroup驅動程式設定機制，若容器執行環境無法回報驅動程式資訊，可能導致節點無法完成註冊。Pod層級資源配置及GPU等可分割裝置的支援也預計升為穩定版。",
+        "source": "iThome"
+      },
+      {
+        "title": "OpenAI將電腦使用代理人提供給醫療業",
+        "link": "https://www.ithome.com.tw/news/180749",
+        "pubDate": "2026-11-24  01:11:45",
+        "description": "OpenAI本月稍早宣佈具有電腦操作能力的AI代理人（computer-use agents）提供給醫療產業用的ChatGPT方案，以代理人模擬人類使用電腦，代醫護人員自動化執行流程。",
+        "source": "iThome"
+      },
+      {
+        "title": "Amazon收購Decart AI運算最佳化技術，延攬核心研發團隊",
+        "link": "https://www.ithome.com.tw/news/180751",
+        "pubDate": "2026-11-24  01:11:00",
+        "description": "Amazon周一（11/23）宣布，將收購以色列AI新創Decart AI的運算最佳化技術，並延攬其3名共同創辦人及核心研發團隊，以提升自研AI晶片的效能，降低AI模型的訓練及推論成本。",
+        "source": "iThome"
+      },
       {
         "title": "電商開店平臺BVShop平臺揭露遭異常自動化存取，已通知多個品牌與主管機關",
         "link": "https://www.ithome.com.tw/news/180724",
@@ -24,117 +136,54 @@
         "source": "iThome資安"
       },
       {
-        "title": "Ghostscript字型載入器存在漏洞Upload2Shell，攻擊者可繞過沙箱執行任意命令",
+        "title": "Ghostscript字型載入器存在漏洞Upload2Shell，廣泛影響WordPress、Roundcube等多種應用系統及平臺",
         "link": "https://www.ithome.com.tw/news/180719",
         "pubDate": "2026-11-23 14:57",
         "description": "AI滲透測試公司Pwn.ai揭露名為Upload2Shell的漏洞CVE-2026-125396，該弱點存在於Ghostscript的字型載入器，一旦成功利用，攻擊者就有機會繞過沙箱防護機制，並執行任意程式碼",
         "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月23日，東亞多所大學遭鎖定，中國駭客用AI攻擊框架Cairn發動攻擊，11分鐘內發現並利用醫療影像AI軟體零時差漏洞",
-        "link": "https://www.ithome.com.tw/news/180718",
-        "pubDate": "2026-11-23 14:53",
-        "description": "Amazon威脅情報團隊Amazon Threat Intelligence於11月20日揭露一起AI自動化攻擊事件，指出中國相關駭客利用Cairn攻擊框架鎖定東亞多所大學，AI代理程式僅花約11分鐘，就自主發現並利用開放原始碼醫療影像AI軟體MONAI Label路徑遍歷零時差漏洞。MONAI Label則於11月22日推出安全更新，修補CVE-2026-133968及另一漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "日本Tower Records電商網站外洩千萬筆會員個資，網購出貨下單受影響",
-        "link": "https://www.ithome.com.tw/news/180717",
-        "pubDate": "2026-11-23 14:45",
-        "description": "日本連鎖唱片行Tower Records旗下電商網站遭駭客入侵，約1,100萬筆會員資料恐遭外洩，包括登入資訊及密碼，業者緊急暫停網站服務",
-        "source": "iThome資安"
-      },
-      {
-        "title": "荷蘭測試6款AI眼鏡揭安全漏洞，建議消費者不要購買",
-        "link": "https://www.ithome.com.tw/news/180714",
-        "pubDate": "2026-11-23 13:47",
-        "description": "荷蘭個人資料保護局測試6款AI攝影眼鏡，發現多款產品存在嚴重資安漏洞，錄影指示燈也不夠醒目，旁人可能不知道自己正被拍攝",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WhatsApp修補3個漏洞，其中Android版漏洞疑遭詐騙活動利用",
-        "link": "https://www.ithome.com.tw/news/180712",
-        "pubDate": "2026-11-23 13:16",
-        "description": "CVE-2026-23871可能讓攻擊者取得收訊者IP資訊，WhatsApp資安團隊在阻止詐騙活動時發現此漏洞，另兩個漏洞則尚無遭利用證據",
-        "source": "iThome資安"
-      },
-      {
-        "title": "新加坡CSA警告Apache HTTP/2重大漏洞已遭積極利用，公開PoC也已流傳",
-        "link": "https://www.ithome.com.tw/news/180711",
-        "pubDate": "2026-11-23 12:58",
-        "description": "CVE-2026-119618存在於Apache HTTP Server的mod_http2模組，攻擊者可藉此遠端執行程式碼，CSA呼籲使用者立即更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "倫敦交通局發行的Oyster相片版地鐵卡資料外洩",
-        "link": "https://www.ithome.com.tw/news/180710",
-        "pubDate": "2026-11-23 12:51",
-        "description": "倫敦交通局發行的Oyster相片卡網站遭駭，約26.5萬名用戶的個資可能外洩。倫敦交通局已將相關系統下線，展開調查並通報英國資訊委員辦公室（ICO）",
-        "source": "iThome資安"
-      },
-      {
-        "title": "社群交友服務業者尚凡揭露不明IP位址侵入資訊設備，旗下iPair、SweetRing公告系統維護",
-        "link": "https://www.ithome.com.tw/news/180708",
-        "pubDate": "2026-11-23 12:46",
-        "description": "以愛情公寓交友網站起家的上櫃公司尚凡（5278）發布資安重訊，指出發現不明IP位址侵入公司資訊設備，資安團隊偵測到異常後已啟動資安緊急應變機制，未說明更多細節。iPair、SweetRing網站目前則顯示維護公告",
-        "source": "iThome資安"
-      },
-      {
-        "title": "OpenJDK重大漏洞Java4Shell出現嘗試利用活動",
-        "link": "https://www.ithome.com.tw/news/180709",
-        "pubDate": "2026-11-23 12:35",
-        "description": "資安公司GreyNoise、Previdian、Cloudforce One、watchTowr發現，在OpenJDK重大漏洞Java4Shell（CVE-2026-114938）公開不久，有人開始探測及嘗試利用漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Apache Tomcat傳出重大漏洞，可能導致未經身分驗證攻擊者加入受信任伺服器叢集",
-        "link": "https://www.ithome.com.tw/news/180707",
-        "pubDate": "2026-11-23 12:20",
-        "description": "CVE-2026-133325影響Tomcat 11、10.1及9.0部分版本，攻擊者可利用TLS 1.3與預先共享金鑰設定缺陷，冒充受信任節點加入叢集",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全國電子發布資安重訊，會員收到含真實個資的假訂單釣魚郵件，來源待查",
-        "link": "https://www.ithome.com.tw/news/180706",
-        "pubDate": "2026-11-23 12:02",
-        "description": "國內知名3C家電通路商全國電子傳出資安事件，根據上市公司全國電（6281）於11月19日發布的重大訊息，該公司近期有會員收到冒用公司名義寄發的假訂單郵件，且郵件中的姓名、電子郵件及會員卡號竟與真實資料相符，疑似遭第三方利用進行釣魚詐騙。目前資料來源及實際影響範圍仍待釐清，全國電已展開調查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Cisco Expressway重大漏洞遭利用，攻擊者入侵企業並內部環境取得Root權限",
-        "link": "https://www.ithome.com.tw/news/180705",
-        "pubDate": "2026-11-23 11:45",
-        "description": "資安公司F6揭露首起利用Cisco Expressway重大漏洞CVE-2026-76466的攻擊活動，駭客入侵一家企業內部環境並取得Root權限，橫向移動至內部叢集節點，並部署Python腳本搜尋網路資源、資料庫及GitLab儲存庫，企圖竊取帳密與敏感資料",
-        "source": "iThome資安"
-      },
-      {
-        "title": "數發部將永續要求推進軟體開發，聯手9家軟體業者試推SCI量測產品碳排",
-        "link": "https://www.ithome.com.tw/news/180725",
-        "pubDate": "2026-11-23  05:11:21",
-        "description": "過去軟體產品的評估多聚焦功能、效能與安全性，但隨著企業對永續要求提高，軟體產品的能源使用與碳排資訊也逐漸成為關注項目。數發部近期啟動「自願性綠色軟體輔導試辦計畫」，以協助國內軟體業者導入綠色軟體方法，建立產品碳排計算與揭露能力。\n此次參與計畫共有9家企業、18項軟體產品參與輔導，協助業者依循國際軟體碳強度（Software Carbon Intensity, SCI）規範，從軟體架構設計、系統運作效率等面向進行檢視，並透過優化方式降低產品能耗，同時建立可量化的碳排數據。",
-        "source": "iThome"
-      },
-      {
-        "title": "COP31未達共識，環境部：加速推動AI成為減碳與氣候調適的新工具",
-        "link": "https://www.ithome.com.tw/news/180720",
-        "pubDate": "2026-11-23  04:11:27",
-        "description": "聯合國氣候變化綱要公約第31屆締約方大會（COP31）結束後，環境部指出，雖然各國對部分氣候議題仍存在歧見，但全球氣候治理正逐步從國際協商轉向具體行動。對臺灣而言，後續重點除了持續推動減碳政策，也必須回應能源轉型、數位化與AI快速發展所帶來的新挑戰。\n其中，AI在今年COP31會議的氣候治理議題逐漸受到重視。過去AI發展經常被視為增加能源需求的新來源，尤其大型模型訓練與推論需要大量運算資源，也帶動資料中心用電成長，全球大舉投入AI資料中心建設，AI資料中心的用電、用水等資源消耗，也引發AIDC的",
-        "source": "iThome"
-      },
-      {
-        "title": "GKE支援網路資料平面Dataplane V2原地遷移，企業無須另建叢集",
-        "link": "https://www.ithome.com.tw/news/180713",
-        "pubDate": "2026-11-23  01:11:22",
-        "description": "Google Cloud在Google Kubernetes Engine（GKE）推出網路資料平面Dataplane V2原地遷移預覽功能，讓符合條件的既有VPC原生叢集，直接從Dataplane V1轉換至Dataplane V2，不必另建叢集再搬遷工作負載。遷移期間會重建節點並重新排程Pod，企業仍須評估服務可能受到的影響。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
       {
-        "title": "【Visa 全球數位匯款報告】近七成民眾更看重「由誰提供」，信任與防詐是穩定幣普及關鍵",
-        "link": "https://techorange.com/2026/11/21/future-of-global-money-movement/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Sat, 21 Nov 2026 06:29:00 +0800",
-        "description": "全球數位支付機構 Visa 正式發布《Money Travels: 2026 Digital Remittances Adoption Report》（2026 年數位匯款採用報告），調查涵蓋全球 20 國、共 45,000 名跨國匯款參與者；報告揭示跨境支付的競爭焦點已從早期的「數位管道普及」轉向「機構信任與安全保障」，顯示制度信任是推動新興支付走向大眾普及的關鍵。 所謂「數位匯款（Digital Remittances）」，是指民眾不再跑實體銀行，直接用手機網銀或行動錢包將生活費、醫療費跨境",
+        "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解",
+        "link": "https://techorange.com/2026/11/24/nvidia-jensen-huang-reinstated-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 12:31:14 +0800",
+        "description": "NVIDIA 董事會美國時間 11/23 宣布，黃仁勳即日起復任總裁暨執行長並重回董事會，董事會全體一致通過。這距離他宣布辭職 11 天，距離董事會公開排除他回任只有 6 天。《Axios》引述《Bloomberg》統計，NVIDIA 當天市值增加約 9,400 億美元，是個股史上最大的單日增幅。 黃仁勳先前因婚外情曝光而辭職，其中一名對象被指控替中國刺探情報，中國則否認間諜指控。執行長人選雖已底定，他辭職期間浮上檯面的調查、出口管制與算力融資疑慮，有哪些隨之解除、哪些仍待解？ 川普介入後董事會",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【機器人訓練需千萬小時數據】Maxinsights 付錢請人戴攝影機，主打高品質訓練資料",
+        "link": "https://techorange.com/2026/11/24/maxinsights-ai-robot-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 10:03:17 +0800",
+        "description": "新創團隊 Maxinsights 付錢聘請人類在工作時於身上佩戴攝影機，將現實世界影像畫面轉化成 AI 機器人能夠利用的基礎模型訓練數據，更研發 AI 評估平台、力量感測手套兼顧資料品質。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【AI 代理不是用來裁員】美國網銀合規審查時間縮短 87%，省下人力轉向承接更多貸款",
+        "link": "https://techorange.com/2026/11/24/ai-agent-bank-loan-compliance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 10:02:59 +0800",
+        "description": "美國印第安納州第一網路銀行透過運用 AI 代理，將商業貸款的申請人合規審查時間，縮短多達 87%，原本需耗時 8 到 10 小時的審查流程，大幅縮短成僅不到 1 小時即可完成。",
+        "source": "TechOrange"
+      },
+      {
+        "title": "攝影機看懂很多事，只是以前沒人問它！NVIDIA 與生態系合作夥伴於「AI創新日」共同解析 Vision Reasoning 技術如何啟驅動實體 AI 新紀元",
+        "link": "https://techorange.com/2026/11/24/nvidia-vision-reasoning-physical-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 09:35:36 +0800",
+        "description": "TechOrange 科技報橘日前舉辦「AI Innovation Day：2027 AI 創新日」論壇，上半場聚焦 AI 如何重塑企業智慧決策與工作流程，下半場特別邀請 NVIDIA 首席技術專家暨開發者生態系統負責人黃威仁發表演講，並邀集包括鑫蘊林科、偲倢科技、聰泰科技、台達電、富據智能科技等生態系合作夥伴分享利用以 NVIDIA 技術驅動的 Vision AI 相關開發應用，現場並展示各種不同的視覺 AI 應用案例。 全球 camera 所收集的資料，真正有被 AI 應用的其實相當少，但這",
+        "source": "TechOrange"
+      },
+      {
+        "title": "模組化機器人不必是硬積木，TeCoBot 靠「張拉整體」彎曲、抓取還能組隊",
+        "link": "https://techorange.com/2026/11/24/tecobot-tensegrity-modular-robots/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 09:35:28 +0800",
+        "description": "美國科羅拉多州立大學（Colorado State University）機械工程系 Adaptive Robotics Lab 的研究團隊，11/11 在《Nature Machine Intelligence》發表模組化機器人 TeCoBot。這款機器人沒有傳統關節，身體由 4 個「張拉整體」（tensegrity）模組疊成，能像象鼻一樣彎曲、抓取物體；多台機器人還能用兩端的夾爪彼此對接，組成鏈狀、環狀或分支狀的不同形態，合作完成操作與移動任務。 研究團隊希望未來能派出成群的 TeCoBot",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】AI 伺服器簽約後還被加價！最高漲 45%，Dell、HPE 等大廠重議價格",
+        "link": "https://techorange.com/2026/11/24/ai-server-price-hike-45-percent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊AI 伺服器簽約後仍被要求加價！最高 45%，企業採購面臨新風險 《Financial Times》11 月 22 日報導，戴爾（Dell）、慧與（HPE）、聯想（Lenovo）及美超微（Supermicro）等供應商，因記憶體成本上揚，向部分已簽約客戶要求提高 AI 伺服器售價，個別調幅最高達 45%，並非整體市場平均。英國量化交易公司 XTX Markets 在訴訟中主張，向 Dell 採購約 5.49 億美元伺服器，另付 500 萬美元換",
         "source": "TechOrange"
       },
       {
@@ -198,41 +247,6 @@
         "link": "https://techorange.com/2026/11/23/ai-machenta-instant-learning-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Mon, 23 Nov 2026 09:49:05 +0800",
         "description": "英國新創團隊 Machenta 認為模擬技術才是達成快速、高效率，而且能夠低成本訓練 AI 機器人模型的最大關鍵；若可以讓機器人擁有即時學習能力，將徹底改變 AI 機器人產業經濟模式。",
-        "source": "TechOrange"
-      },
-      {
-        "title": "RFID 抓單品數據、AI 做事後分析，Kroger 如何讓庫存決策一次比一次準？",
-        "link": "https://techorange.com/2026/11/23/kroger-rfid-ai-inventory-management/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 08:59:01 +0800",
-        "description": "零售業的庫存管理正面臨新的技術變革。當商品種類增加、供應鏈與門市營運日益複雜，如何即時掌握商品數量、位置與銷售狀況，成為零售商提升營運效率的重要課題。美國連鎖超市 Kroger 正加速整合無線射頻辨識（RFID）、數位架上標籤（Digital Shelf Labels）、機器人與人工智慧（AI），改善商品庫存流動、鮮度管理及貨架供應率。 盤點速度提升近 70%！RFID 助陣精準控管生鮮損耗 其中，RFID 是 Kroger 目前改善庫存管理的重要試點。公司已在約 1,500 家門市的烘焙部門導",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【科技早餐】美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，阿里巴巴雲端成長承壓",
-        "link": "https://techorange.com/2026/11/23/us-ai-chip-export-rules-tsmc-samsung-china/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 8 則國內外重要科技新聞。 ＊美國 AI 晶片新規生效！台積電、三星暫停部分對中出貨，川普稱只賣舊款晶片 美國商務部工業暨安全局（BIS）11 月 19 日生效的 AI 晶片出口新規，進一步收緊中國企業取得先進算力的管道。據《Reuters》引述消息人士指出，台積電已暫停部分中國客戶採用 16 奈米及更先進製程的訂單，除非客戶取得美國出口許可；《Financial Times》則報導，台積電與三星（Samsung）均暫停部分對中出貨。台積電表示將遵守相關規定，但不評論市場傳",
-        "source": "TechOrange"
-      },
-      {
-        "title": "美國零售雙雄 Q3 財報秀 AI 實力：Target 逾九成品項導入 AI 補貨，Walmart 為「自帶 AI 代理」鋪路",
-        "link": "https://techorange.com/2026/11/20/target-walmart-q3-ai-strategy/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 20 Nov 2026 18:54:24 +0800",
-        "description": "走進超市卻發現想買的牛奶缺貨，或是在網購時滑了幾百則評價還是不知道該不該下手——這些日常購物最讓人頭痛的小事，正是美國兩大零售巨頭目標百貨（Target）與沃爾瑪（Walmart）在 2026 年第三季財報中聚焦的核心之一。兩家公司分別針對 AI 助攻營運的環節有所側重：Target 專注把後端補貨與 App 逛街購物體驗做得更細膩；Walmart 則在會員成長上有亮眼成績，透過「Walmart+ 與 Sam’s Club Plus 雙會員合購方案」，搶先訂閱的家庭在初期的網路商店消費金額比之前",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Google Chrome 打造「鏡像維度」合成網路，以 30 倍效率安全測試 AI 瀏覽代理",
-        "link": "https://techorange.com/2026/11/20/chrome-mirror-dimension-ai-agent-security/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 20 Nov 2026 18:41:54 +0800",
-        "description": "具備網頁操作能力的 AI 代理（Web-use Agents）走入日常，人們開始習慣交辦跨網站的複雜任務。例如：請瀏覽器直接幫你進行網購比價，或對著智慧電視遙控器用語音尋找特定電影在哪個串流平台並直接播放。用戶並未提供具體網址，AI 必須自行判斷目標網站、跨平台搜尋並完成一連串操作。然而，當 AI 獲得了在瀏覽器中點擊、輸入甚至登入帳號的權限時，如何確保它們不會在充滿惡意的真實網路中遭到誤導或失控，成為瀏覽器開發者面臨的首要難題。 為了驗證並強化 Chrome「自動瀏覽」功能的內建安全防護，Go",
-        "source": "TechOrange"
-      },
-      {
-        "title": "Uber 清技術債，為何不全交給 AI 代理？拆解傳統工具、審查代理如何層層把關",
-        "link": "https://techorange.com/2026/11/20/using-ai-delete-code-agentic-tech-debt-cleanup/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Fri, 20 Nov 2026 18:22:06 +0800",
-        "description": "Uber 近日在工程部落格公開 AI 程式碼清理系統 AutoClean，能自動找出已全面上線、卻仍殘留在程式碼中的過期功能開關（feature flag），並產出經過測試、可供人工審查的程式碼差異（diff）。Uber 表示，AutoClean 過去幾年已清理超過 1.6 萬個功能開關、逾 100 萬行程式碼。這套系統並非讓 AI 代理（AI agent）包辦一切，而是讓代理與傳統程式碼轉換工具分工，再以持續整合（continuous integration，CI）、靜態檢查與多個審查代理層層",
         "source": "TechOrange"
       }
     ],
@@ -380,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "Figma employee sues, alleging company forced her to confront harassers",
+        "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
+        "pubDate": "Mon, 23 Nov 2026 23:07:49 +0000",
+        "description": "Figma and its CEO are being sued by a current employee for alleged sexual harassment and discrimination.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
         "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
         "pubDate": "Mon, 23 Nov 2026 22:05:50 +0000",
@@ -478,49 +499,52 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-        "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-        "pubDate": "Mon, 23 Nov 2026 15:04:01 +0000",
-        "description": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang is back. What happens next?",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-        "pubDate": "2026-11-23T17:10:32-05:00",
-        "description": "After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an investigation. However, after The New York Times reported there was evidence",
+        "title": "Google alternative Kagi launches an email service",
+        "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
+        "pubDate": "2026-11-23T19:02:52-05:00",
+        "description": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance",
         "source": "TheVerge"
       },
       {
-        "title": "Welcome to elite impunity, Jensen Huang",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
-        "pubDate": "2026-11-23T17:09:26-05:00",
-        "description": "I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basically everyone except President Donald Trump and Vice President JD Vance, who made sure it happened. Now, those of us who had some k",
+        "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
+        "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
+        "pubDate": "2026-11-23T18:25:01-05:00",
+        "description": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rocksta",
         "source": "TheVerge"
       },
       {
-        "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
-        "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
-        "pubDate": "2026-11-23T16:36:48-05:00",
-        "description": "If you’re still sporting an Apple Watch that launched five or so years ago, now is a good time to upgrade. Apple’s latest smartwatch, the 42mm Apple Watch Series 12 with Wi-Fi and GPS connectivity, has dropped to a new all-time low of $299 ($100 off)",
+        "title": "The Verge’s 2026 holiday gift guide",
+        "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
+        "pubDate": "2026-11-23T18:14:10-05:00",
+        "description": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just ",
         "source": "TheVerge"
       },
       {
-        "title": "AI data centers throw another wrench into chaotic UN climate talks",
-        "link": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
-        "pubDate": "2026-11-23T16:09:37-05:00",
-        "description": "The clean energy revolution hinges on electrifying the entire global economy just as power-hungry data centers are surging. It's a challenge delegates from all over the world had to grapple with during the United Nations climate conference, called CO",
+        "title": "Ladybird, the first new browser engine in years, is now available to test",
+        "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
+        "pubDate": "2026-11-23T17:38:09-05:00",
+        "description": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of",
         "source": "TheVerge"
       },
       {
-        "title": "Apple renews Ted Lasso for season 5",
-        "link": "https://www.theverge.com/entertainment/1040699/ted-lasso-season-5-apple-tv",
-        "pubDate": "2026-11-23T15:56:00-05:00",
-        "description": "One of Apple's biggest shows is sticking around for at least one more season. The streamer announced today that Ted Lasso has been renewed for a fifth season on Apple TV, after what the company calls a \"record-breaking season four debut.\" There are c",
+        "title": "Trump engineered a risky comeback for Jensen Huang",
+        "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+        "pubDate": "2026-11-23T17:25:12-05:00",
+        "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show sh",
         "source": "TheVerge"
       }
     ],
     "cve": [
+      {
+        "title": "Google Chrome Remote Code Execution Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20261124",
+        "pubDate": "Tue, 24 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Google Chrome Remote Code Execution Vulnerability"
+      },
       {
         "title": "Drupal Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
@@ -550,16 +574,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "Synology DiskStation Manager"
-      },
-      {
-        "title": "F5 Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20261119",
-        "pubDate": "Thu, 19 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "F5 Products"
       },
       {
         "title": "F5 BIG-IP Remote Code Execution Vulnerability",
