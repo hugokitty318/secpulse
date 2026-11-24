@@ -1,7 +1,63 @@
 {
-  "ts": "2026-11-24T06:22:38.875968Z",
+  "ts": "2026-11-24T18:16:56.517820Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "車麗屋購物網站遭自動化攻擊，部分會員個資疑似外洩",
+        "link": "https://www.ithome.com.tw/news/180759",
+        "pubDate": "2026-11-24 17:30",
+        "description": "汽車百貨零售公司車麗屋（7955）發布資安重訊，購物網站11月21日遭自動化攻擊入侵，疑有第三方未經授權存取部分會員資料，並冒用車麗屋名義寄送電子郵件及簡訊。車麗屋已完成系統修補、封鎖異常存取來源並通知會員，目前事件影響範圍仍在調查中",
+        "source": "iThome資安"
+      },
+      {
+        "title": "挪威天然氣與電力公司遭駭，當局指出攻擊者利用Azure API管理服務漏洞得逞",
+        "link": "https://www.ithome.com.tw/news/180758",
+        "pubDate": "2026-11-24 16:32",
+        "description": "上週挪威天然氣公司Equinor與電力公司Skagerak Energi接連傳出資安事故，挪威國家安全局（NSM）指出，攻擊者利用微軟Azure API管理服務（APIM）的漏洞，竊取平臺上存放的存取權杖與敏感憑證，呼籲其他APIM用戶要儘速確認是否受害",
+        "source": "iThome資安"
+      },
+      {
+        "title": "CISA警告醫療影像軟體、N-able郵件防護平臺漏洞遭積極利用",
+        "link": "https://www.ithome.com.tw/news/180757",
+        "pubDate": "2026-11-24 16:06",
+        "description": "美國網路安全與基礎設施安全局（CISA）更新已知遭利用漏洞名單（KEV）內容，加入醫療影像軟體MONAI Label、N-able郵件防護系統Mail Assure的資安漏洞，並要求聯邦機構緊急修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "韓國電力公社兩套系統遭入侵，約152萬人個資外洩，部分涉及銀行帳號及信用卡卡號",
+        "link": "https://www.ithome.com.tw/news/180753",
+        "pubDate": "2026-11-24 16:02",
+        "description": "韓國電力公社（KEPCO）遭駭，旗下電費查詢及繳納服務平臺與電子採購系統遭入侵，合計約152萬名用戶、企業代表及員工的個資外洩，部分外洩資料涉及銀行帳號、信用卡卡號及電費帳單資訊。韓國個人資料保護委員會（PIPC）已接獲通報並介入調查，另也揭露韓國電力公社曾發現暗網上出現與此次資料外洩有關的貼文",
+        "source": "iThome資安"
+      },
+      {
+        "title": "D-Link老舊路由器DIR-600L被揭露存在三項漏洞，官方強調10年前停產，不會釋出修補",
+        "link": "https://www.ithome.com.tw/news/180732",
+        "pubDate": "2026-11-24 15:24",
+        "description": "近期D-Link舊款路由器DIR-600L被揭露存在三項漏洞，D-Link表示該款產品早在2016年即已終止技術支援，因此不會再釋出韌體修補，建議用戶儘速升級至現行世代產品",
+        "source": "iThome資安"
+      },
+      {
+        "title": "電商資訊服務業者再傳資安事件，立富康內部管理帳密遭盜用",
+        "link": "https://www.ithome.com.tw/news/180755",
+        "pubDate": "2026-11-24 15:09",
+        "description": "立富康於11月13日發布資安事件公告，揭露旗下訂單管理系統遭未經授權存取，攻擊者利用取得的內部管理帳號密碼，透過自動化程式批次查詢訂單資料。該公司在發現異常後，7分鐘內便封鎖異常來源。該公司表示，多數品牌並未受到此次事件影響，針對帳號密碼確切外洩途徑，已請第三方資安公司獨立鑑識",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月24日，CrowdStrike以439億美元併購Zscaler，創下資安界交易紀錄",
+        "link": "https://www.ithome.com.tw/news/180756",
+        "pubDate": "2026-11-24 14:56",
+        "description": "CrowdStrike宣布將以439億美元的全股票交易併購Zscaler，藉此擴展網路安全領域，整合端點安全、零信任與AI安全等技術",
+        "source": "iThome資安"
+      },
+      {
+        "title": "N-able揭露電子郵件過濾服務系統重大漏洞",
+        "link": "https://www.ithome.com.tw/news/180754",
+        "pubDate": "2026-11-24 14:47",
+        "description": "N-able揭露郵件安全服務Mail Assure重大伺服器請求偽造（SSRF）漏洞CVE-2026-134624，該弱點的發現，源自調查雲端服務遭到入侵的資安事故",
+        "source": "iThome資安"
+      },
       {
         "title": "駭客濫用ScreenConnect重大漏洞入侵MSP工程師電腦，9秒內取得遠端存取權",
         "link": "https://www.ithome.com.tw/news/180750",
@@ -52,48 +108,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "2026年工控資安事故比例增至去年的1.7倍，逾7成事故期間廠區或系統曾停機",
-        "link": "https://www.ithome.com.tw/news/180694",
-        "pubDate": "2026-11-24 08:00",
-        "description": "SANS Institute公布2026年工控資安調查，34%的受訪者所屬組織過去一年曾發生資安事故，比例為2025年的1.7倍，72%的事故伴隨廠區或系統停機。然而，僅15%的受訪者認為，組織能在控制系統失效後，以人工操作維持安全生產超過48小時，反映工業組織在事故應變與營運復原方面仍有不足",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國總務署在既有身分驗證智慧卡上成功執行抗量子密碼演算法",
-        "link": "https://www.ithome.com.tw/news/180653",
-        "pubDate": "2026-11-24 08:00",
-        "description": "美國總務署（GSA）成功在既有個人身分驗證（PIV）智慧卡晶片上執行抗量子密碼演算法，並核發新憑證，顯示部分既有智慧卡可能不必汰換，就能支援後量子密碼學（PQC）轉型",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟Entra Connect Health漏洞遭利用，企業管理員聯絡資訊與租用戶資料外洩",
-        "link": "https://www.ithome.com.tw/news/180716",
-        "pubDate": "2026-11-24 08:00",
-        "description": "微軟證實，旗下身分識別監控服務Microsoft Entra Connect Health的API漏洞遭到利用，導致部分企業租用戶的管理員聯絡資訊及組態資料外洩。微軟已完成修補，並提醒企業防範針對管理員的網路釣魚攻擊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "雲端服務Rackspace Spot遭入侵，攻擊者可讀取客戶叢集內的機密資料",
-        "link": "https://www.ithome.com.tw/news/180726",
-        "pubDate": "2026-11-24 06:32",
-        "description": "駭客利用外洩憑證入侵Rackspace Spot，可在部分客戶的Kubernetes叢集建立未授權Pod和讀取Secrets，Rackspace隨後暫停平臺存取並清理環境，直到臺灣時間11月22日凌晨才恢復服務，同時要求客戶輪替憑證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic推出Claude Ship，AI自動審查、修正及核准程式碼",
-        "link": "https://www.ithome.com.tw/news/180741",
-        "pubDate": "2026-11-24  09:11:16",
-        "description": "Anthropic周一（11/23）宣布推出Claude Ship，將AI程式開發的自動化範圍從撰寫程式碼延伸至軟體交付流程，讓AI能夠自動審查及修正程式碼，甚至依據企業的自定政策來核准程式碼的變更，目前開放Claude Team及Enterprise用戶測試。\n隨著愈來愈多開發人員使用AI代理人撰寫程式碼，後續的人工審查及核准流程可能成為軟體開發的瓶頸。Anthropic表示，旗下Claude Code團隊的大部分程式碼已由Claude撰寫，為了加快提交程式碼後的處理流程，開發了Claude ",
-        "source": "iThome"
-      },
-      {
-        "title": "Nvidia董事會宣布黃仁勳回鍋，離職11天後重掌執行長職務",
-        "link": "https://www.ithome.com.tw/news/180739",
-        "pubDate": "2026-11-24  08:11:42",
-        "description": "Nvidia周一（11/23）宣布黃仁勳恢復總裁、執行長及董事職務，結束11天的離職風波。黃仁勳當天返回公司總部，受到員工熱烈歡迎，並承諾成為更好的執行長。據媒體報導，雙方上周六開始協商，周日決定復職，美國總統川普（Donald Trump）也親自介入。",
-        "source": "iThome"
-      },
-      {
         "title": "Kubernetes 1.38預告調整cgroup驅動程式設定，舊版容器執行環境恐影響節點啟動",
         "link": "https://www.ithome.com.tw/news/180752",
         "pubDate": "2026-11-24  02:11:11",
@@ -113,37 +127,44 @@
         "pubDate": "2026-11-24  01:11:00",
         "description": "Amazon周一（11/23）宣布，將收購以色列AI新創Decart AI的運算最佳化技術，並延攬其3名共同創辦人及核心研發團隊，以提升自研AI晶片的效能，降低AI模型的訓練及推論成本。",
         "source": "iThome"
-      },
-      {
-        "title": "電商開店平臺BVShop平臺揭露遭異常自動化存取，已通知多個品牌與主管機關",
-        "link": "https://www.ithome.com.tw/news/180724",
-        "pubDate": "2026-11-23 17:12",
-        "description": "國內電商開店平臺資安風險持續受到關注，繼先前多起類似事件後，BVShop營運業者架值資訊科技於11月17日發布公告，揭露平臺於11月15日偵測到異常自動化存取行為，部分商家訂單資訊遭未經授權存取，已有水宅研居、香菇姐姐等品牌陸續接獲通知並對外示警",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露PHP重大漏洞phpAfterShell，問題源自PHP2Shell修補不夠完整",
-        "link": "https://www.ithome.com.tw/news/180722",
-        "pubDate": "2026-11-23 16:20",
-        "description": "資安公司DepthFirst公布重大等級的PHP漏洞phpAfterShell（CVE-2026-126714），攻擊者可利用PHP處理檔案上傳進度時，連線階段（Session）檔案遭中斷寫入所留下的資料殘留，進一步觸發反序列化及記憶體毀損。該弱點的發現，顯示先前針對PHP2Shell的漏洞修補，未完全處理底層連線階段的檔案寫入問題",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Shopline部分商店出貨資訊疑遭未授權存取，Funte、Simon訂單資料受影響",
-        "link": "https://www.ithome.com.tw/news/180721",
-        "pubDate": "2026-11-23 16:20",
-        "description": "11月17日Shopline揭露資安事件，指出部分商店出貨資訊疑似遭未經授權存取，當下已阻斷異常存取途徑並強化防護，自隔日起未再監測到其他未經授權的存取情形。到了11月20日，已有升降桌品牌Funte及服飾品牌Simon兩品牌業者發布公告，表示接獲Shopline通知並列入這起事故的受影響名單",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Ghostscript字型載入器存在漏洞Upload2Shell，廣泛影響WordPress、Roundcube等多種應用系統及平臺",
-        "link": "https://www.ithome.com.tw/news/180719",
-        "pubDate": "2026-11-23 14:57",
-        "description": "AI滲透測試公司Pwn.ai揭露名為Upload2Shell的漏洞CVE-2026-125396，該弱點存在於Ghostscript的字型載入器，一旦成功利用，攻擊者就有機會繞過沙箱防護機制，並執行任意程式碼",
-        "source": "iThome資安"
       }
     ],
     "cn_tech": [
+      {
+        "title": "超車特斯拉！賓士成首家獲德國高階輔助駕駛認證車廠，取得 2027 歐盟部署先機",
+        "link": "https://techorange.com/2026/11/24/mercedes-beats-tesla-eu-self-driving-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 17:44:04 +0800",
+        "description": "隨著美、中車廠持續推動自動駕駛技術商業化，在自動駕駛與人工智慧領域落後於美、中兩國的歐洲，正成為智慧汽車與無人計程車（robotaxi）的新戰場。德國豪華車廠賓士（Mercedes-Benz）近日意外拔得頭籌，領先馬斯克（Elon Musk）旗下的特斯拉（Tesla），成為首家獲得德國政府認證點對點（涵蓋市區）輔助駕駛軟體的車廠。這項認證讓賓士得以在 2027 年於全歐盟部署該項技術，在歐洲自駕競賽中取得領先特斯拉的優勢。 獲 Level 2 輔助駕駛認證，賓士攜手輝達布局歐盟市場 據《金融時報",
+        "source": "TechOrange"
+      },
+      {
+        "title": "建了資料湖，AI 代理為何還是看不懂業務？拆解知識圖譜在企業 AI 的新角色",
+        "link": "https://techorange.com/2026/11/24/semantic-knowledge-graph-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 17:24:41 +0800",
+        "description": "科技媒體《CIO》近日報導，知識圖譜（knowledge graph）原本就能協助組織資訊，如今隨著代理式 AI（agentic AI）興起而重獲新生。報導指出，知識圖譜能讓 AI 代理（AI agent）找到所需的確切資訊，語意知識圖譜（semantic knowledge graph）則在知識圖譜之上加入語意層（semantic layer），讓代理知道這些資訊在企業中代表什麼、實際上如何使用。 企業導入生成式 AI 時，常見做法是透過檢索增強生成（retrieval-augmented g",
+        "source": "TechOrange"
+      },
+      {
+        "title": "Anthropic 推 Claude Ship 讓 AI 核准程式碼，企業如何設定核准規則？",
+        "link": "https://techorange.com/2026/11/24/anthropic-claude-ship-ai-code-approvals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 15:24:49 +0800",
+        "description": "Anthropic 於美國時間 11/23 推出 Claude Ship，由三個 AI 代理接手開發者在 GitHub 送出 PR（拉取請求，開發者提交程式碼變更、待審查後合併的請求）之後的流程：審查程式碼、修正問題，再依各團隊設定的政策，判斷還需要誰核准、哪些變更 Claude 可以代為核准。Anthropic 的說法是，開發者送出 PR 後，就能回頭繼續開發。其中 Code Review 已正式推出，負責修正的 PR Steward 與負責核准的 Claude Approvals 仍是公開測",
+        "source": "TechOrange"
+      },
+      {
+        "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
+        "link": "https://techorange.com/2026/11/24/ai-safety-cant-depend-emergency-brake-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 14:21:11 +0800",
+        "description": "Amazon 旗下雲端服務 Amazon Web Services（AWS）執行長 Matt Garman 近日在 Amazon 官方新聞網站發表文章，主張 AI 安全不能只靠緊急煞車，而需要更好的工程設計。《Reuters》將這番主張概括為：通往更安全 AI 的路，不是緊急停止開關（kill switch），而是更好的工程設計。Garman 指出，在政策與原則仍在辯論之際，企業如今已在正式環境部署 AI；打造可信任 AI 系統的實用工具早已存在，身分、記錄與隔離等行之有年的資安基本原則同樣適用",
+        "source": "TechOrange"
+      },
+      {
+        "title": "CrowdStrike 以 439 億美元收購 Zscaler：端點與零信任平台整合將如何影響企業用戶資安？",
+        "link": "https://techorange.com/2026/11/24/cybersecurity-crowdstrike-zscaler-merger-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Tue, 24 Nov 2026 14:20:50 +0800",
+        "description": "美國資安龍頭 CrowdStrike 於 11 月 23 日宣布，已簽署最終協議，將透過全股票交易以約 439 億美元收購雲端安全大廠 Zscaler，預計於 CrowdStrike 2028 會計年度下半年完成交割。雙方產品重疊度低，CrowdStrike 藉此補齊網路安全拼圖，打造「單一平台、單一資料層、單一合約」的資安版圖。 CrowdStrike 擴大平台版圖、逾 1,850 億美元潛在市場 CrowdStrike 繼本月稍早陸續收購自動化 AI 安全測試新創 Dreadnode（據《華",
+        "source": "TechOrange"
+      },
       {
         "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解",
         "link": "https://techorange.com/2026/11/24/nvidia-jensen-huang-reinstated-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -213,126 +234,133 @@
         "pubDate": "Mon, 23 Nov 2026 15:47:15 +0800",
         "description": "量子運算長期被寄望用來模擬分子行為、開發新藥，或最佳化供應鏈與航班排程，但《CNBC》指出，許多最大的目標可能還要數年、甚至數十年才能實現。相較之下，量子軟體已經在一個更迫切的課題上進行測試：能源轉型，從維持電網穩定，到尋找更好的太陽能電池與製氫材料。 在電網相關的試點中，量子電腦並非單獨運算，而是與傳統運算分工，處理調度、排程這類特定的最佳化問題。對評估新技術投入時機的能源業主管而言，比起量子運算何時成熟，更實際的問題是：哪些應用已在測試、哪些還停留在預測，企業現在該從哪裡開始準備？ Phas",
         "source": "TechOrange"
-      },
-      {
-        "title": "AI 代理從零設計全新 CPU 架構「Frostbite」！Architect Labs 宣稱流片前模擬每瓦效能達循序核心 4.59 倍",
-        "link": "https://techorange.com/2026/11/23/architect-labs-ai-cpu-frostbite/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 15:00:14 +0800",
-        "description": "位於美國矽谷帕羅奧圖（Palo Alto）的新創公司 Architect Labs 近日發表研究部落格文章指出，旗下 AI 系統發現、設計並驗證出一款具備全新指令集的通用 CPU「Frostbite」。在 7 奈米製程的流片前（Pre-silicon，指實際送交晶圓廠生產前的模擬測試）評估中，橫跨 25 項運算任務的測試顯示，由四個運算區塊組成的 Frostbite 叢集，其能源效率（每瓦效能）達到尺寸相近、且經過矽晶片驗證的傳統「雙發射循序執行」CPU 核心的 4.59 倍，每單位晶片面積的效",
-        "source": "TechOrange"
-      },
-      {
-        "title": "AI 提示詞送出後誰看得到？近 200 萬筆誘餌實測：標記「零資料保留」的請求也遭竊，OpenRouter 下架 3 家推論服務供應商",
-        "link": "https://techorange.com/2026/11/23/security-ai-leaky-supply-chain/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 12:51:22 +0800",
-        "description": "工業資安公司 Dragos 研究長 HD Moore 近日公布一項大規模實驗：研究團隊在近 200 萬筆 AI 提示詞（prompt）中植入獨一無二、可追蹤的誘餌憑證與秘密連結，再觀察這些秘密在哪裡出現。結果有證據顯示，至少三家 AI 推論服務供應商（inference provider，又稱主機服務商）遭攻擊者入侵，攻擊者利用存取權竊取這些業者收到的提示詞，研究團隊的誘餌也在其中；推論市場中也有多家轉售業者記錄提示詞，並以某種方式轉交給後來使用這些憑證的人，還有多起推論服務供應商未遵守使用者隱",
-        "source": "TechOrange"
-      },
-      {
-        "title": "OpenAI 公開內部「困惑度」數據，想替業界訂「煞車線」：這把量尺能成為共同標準嗎？",
-        "link": "https://techorange.com/2026/11/23/openai-perplexity-common-limits/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 11:56:55 +0800",
-        "description": "OpenAI 首席科學家帕喬基（Jakub Pachocki）美國時間 11/22 在官方部落格發表〈Perplexity and Intelligence〉，公開公司內部追蹤的歷代模型「困惑度」（perplexity）數據，並提議前沿 AI 業者以困惑度和其他指標訂出共同上限。如《TechCrunch》提醒，這裡的困惑度是衡量模型的指標，與同名的 AI 搜尋公司 Perplexity 無關。據《Reuters》報導，OpenAI 執行長阿特曼（Sam Altman）隨後在 X 發文支持，稱這篇",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【2027 製造業五大趨勢】AI、混合雲、人力、供應鏈與永續同時到來，統一營運平台可望成整合關鍵",
-        "link": "https://techorange.com/2026/11/23/manufacturing-trends-2027/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 10:37:09 +0800",
-        "description": "美國全國製造商協會（NAM）2026 年第 2 季調查顯示，83.1% 的製造商把原物料成本上漲列為最大挑戰，71.8% 把貿易不確定性排在第二。 在這樣的壓力下，2027 年製造業還將同時面對 AI、混合雲、人力、供應鏈韌性與永續 5 項趨勢。若把它們當成各自獨立的專案推動，製造商會花得更多、成效更低；改用統一的製造營運管理（MOM）平台，也就是整合生產、品質與作業等工廠現場流程的系統來推動，效益會更好。 AI 要落地，先得有接得上的資料與架構 AI 已從試點走入生產決策。製造業領袖組織 Ma",
-        "source": "TechOrange"
-      },
-      {
-        "title": "【用氛圍編碼的方式教機器人】Machenta 以「模擬資料」取代真實世界蒐集，主打示範一次就教會新任務",
-        "link": "https://techorange.com/2026/11/23/ai-machenta-instant-learning-robot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Mon, 23 Nov 2026 09:49:05 +0800",
-        "description": "英國新創團隊 Machenta 認為模擬技術才是達成快速、高效率，而且能夠低成本訓練 AI 機器人模型的最大關鍵；若可以讓機器人擁有即時學習能力，將徹底改變 AI 機器人產業經濟模式。",
-        "source": "TechOrange"
       }
     ],
     "en_sec": [
       {
-        "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
-        "pubDate": "Sun, 22 Nov 2026 13:45:37 -0500",
-        "description": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving remote access",
+        "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
+        "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+        "pubDate": "Tue, 24 Nov 2026 22:24:07 +0530",
+        "description": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a backdoor called KuboShell that us",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+        "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+        "pubDate": "Tue, 24 Nov 2026 18:58:26 +0530",
+        "description": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.\n\nThe critical vulnerability, tracked as CV",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+        "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+        "pubDate": "Tue, 24 Nov 2026 18:58:21 +0530",
+        "description": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.\n\nThe cluster, dubbed O-UNC-053, is",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+        "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+        "pubDate": "Tue, 24 Nov 2026 18:12:09 +0530",
+        "description": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+        "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+        "pubDate": "Tue, 24 Nov 2026 17:32:00 +0530",
+        "description": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.\n\nThe sam",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+        "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+        "pubDate": "Tue, 24 Nov 2026 17:31:54 +0530",
+        "description": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC re",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+        "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+        "pubDate": "Tue, 24 Nov 2026 16:14:49 +0530",
+        "description": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+        "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+        "pubDate": "Tue, 24 Nov 2026 14:04:20 +0530",
+        "description": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an installation's data",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Radware discloses breach exposing customer cloud access keys",
+        "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+        "pubDate": "Tue, 24 Nov 2026 12:49:05 -0500",
+        "description": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
-        "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
-        "pubDate": "Sun, 22 Nov 2026 10:43:04 -0500",
-        "description": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+        "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
+        "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
+        "pubDate": "Tue, 24 Nov 2026 11:32:57 +0530",
+        "description": "OpenAI and Cisco have teamed up to launch Shirudo (meaning \"shield\" in Japanese), an open-source Linux runtime that allows artificial intelligence (AI) agents to defend systems without downtime.\n\n\"It lets agents write dynamic eBPF controls to shield ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+        "pubDate": "Tue, 24 Nov 2026 11:32:45 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation.\n\nThe critical vulnera",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+        "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
+        "pubDate": "Tue, 24 Nov 2026 11:30:19 -0500",
+        "description": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-        "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-        "pubDate": "Sun, 22 Nov 2026 10:36:55 +0530",
-        "description": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week.\n\nSome of the stolen requests were flagged as Zero Data Reten",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-        "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-        "pubDate": "Sun, 22 Nov 2026 10:33:41 +0530",
-        "description": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it.\n\nGhostscript is the interpreter that many Linux servers use to convert uploaded PDFs, PostScript files,",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
-        "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
-        "pubDate": "Sun, 22 Nov 2026 10:15:25 -0500",
-        "description": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+        "title": "European Commission confirms data theft in EU Academy breach",
+        "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
+        "pubDate": "Tue, 24 Nov 2026 11:22:44 -0500",
+        "description": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-        "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-        "pubDate": "Sat, 21 Nov 2026 17:59:58 -0500",
-        "description": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
+        "title": "Hackers compromise Check Point Servers in 22 organizations",
+        "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+        "pubDate": "Tue, 24 Nov 2026 11:15:23 -0500",
+        "description": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
         "source": "BleepingComputer"
       },
       {
-        "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-        "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-        "pubDate": "Sat, 21 Nov 2026 17:23:07 +0530",
-        "description": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown.\n\nThe same attack could be extended to reach the credentials Muse stores ",
-        "source": "TheHackerNews"
+        "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
+        "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
+        "pubDate": "Tue, 24 Nov 2026 10:10:10 -0500",
+        "description": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-        "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-        "pubDate": "Sat, 21 Nov 2026 16:35:53 +0530",
-        "description": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG.\n\nThe GnuPG project warned yesterday that the flaw could be used to steal data from affected ",
-        "source": "TheHackerNews"
+        "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+        "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
+        "pubDate": "Tue, 24 Nov 2026 10:01:11 -0500",
+        "description": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated remediation ca",
+        "source": "BleepingComputer"
       },
       {
-        "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-        "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-        "pubDate": "Sat, 21 Nov 2026 16:33:17 +0530",
-        "description": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week.\n\nThe flaw allows",
-        "source": "TheHackerNews"
+        "title": "McDonald's Japan data breach exposes customer location information",
+        "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
+        "pubDate": "Tue, 24 Nov 2026 09:09:37 -0500",
+        "description": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
+        "source": "BleepingComputer"
       },
       {
-        "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-        "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-        "pubDate": "Sat, 21 Nov 2026 14:19:20 +0530",
-        "description": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\"\n\nThe feature applies to agentic sys",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-        "pubDate": "Sat, 21 Nov 2026 14:19:13 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence of active ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-        "pubDate": "Sat, 21 Nov 2026 13:01:58 -0500",
-        "description": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration information. [...]",
+        "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
+        "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
+        "pubDate": "Tue, 24 Nov 2026 08:34:23 -0500",
+        "description": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
         "source": "BleepingComputer"
       },
       {
@@ -348,51 +376,79 @@
         "pubDate": "Mon, 23 Nov 2026 20:40:48 +0530",
         "description": "A stolen key. A trusted message. A routine update. None of these looks like the start of a major security problem. That's partly why they work. Attackers don't always need to break down a door. Sometimes they just use one that's already open.\n\nThis w",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-        "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-        "pubDate": "Mon, 23 Nov 2026 18:52:20 +0530",
-        "description": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code.\n\nThe vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1), is a case",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-        "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-        "pubDate": "Mon, 23 Nov 2026 18:11:04 +0530",
-        "description": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers.\n\nThe activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw that allows a",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
-        "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
-        "pubDate": "Mon, 23 Nov 2026 17:58:09 +0530",
-        "description": "N-able yesterday disclosed a critical flaw it found while investigating the breach of its Mail Assure and SpamExperts Hosted Cloud, an email filtering service it runs for managed service providers.\n\nThe bug, tracked as CVE-2026-134624, is a server-si",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-        "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-        "pubDate": "Mon, 23 Nov 2026 15:54:51 -0500",
-        "description": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "OpenRouter drops AI providers over leaked prompts and secrets",
-        "link": "https://www.bleepingcomputer.com/news/security/openrouter-drops-ai-providers-over-leaked-prompts-and-secrets/",
-        "pubDate": "Mon, 23 Nov 2026 15:00:20 -0500",
-        "description": "OpenRouter removed three AI providers from its platform after discovering that they had violated their stated data-handling policies and exposed sensitive data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Azure flaw exploited to steal customers' API credentials",
-        "link": "https://www.bleepingcomputer.com/news/security/microsoft-azure-flaw-exploited-to-steal-customers-api-credentials/",
-        "pubDate": "Mon, 23 Nov 2026 14:42:20 -0500",
-        "description": "Microsoft is warning customers that a security vulnerability in Azure API Management (APIM) Classic tiers was exploited to steal stored API credentials, with Norwegian authorities linking the flaw to cyberattacks against energy companies. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
+      {
+        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
+        "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+        "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000",
+        "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
+        "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+        "pubDate": "Tue, 24 Nov 2026 17:44:34 +0000",
+        "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
+        "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+        "pubDate": "Tue, 24 Nov 2026 17:29:09 +0000",
+        "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
+        "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+        "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000",
+        "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
+        "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+        "pubDate": "Tue, 24 Nov 2026 16:46:00 +0000",
+        "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
+        "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+        "pubDate": "Tue, 24 Nov 2026 16:40:46 +0000",
+        "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Why a Crusoe investor is betting on solar and batteries to power future AI data centers",
+        "link": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+        "pubDate": "Tue, 24 Nov 2026 16:10:00 +0000",
+        "description": "Next-generation data centers will need tens of gigawatts of power every year. One of Crusoe's investors thinks solar and energy storage are the obvious choice.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Pinterest will now let parents limit the AI-generated content their teens see",
+        "link": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+        "pubDate": "Tue, 24 Nov 2026 16:02:37 +0000",
+        "description": "While other social platforms have focused on restricting teens' access to AI chatbots, Pinterest is addressing the AI content filling their feeds.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
+        "link": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+        "pubDate": "Tue, 24 Nov 2026 15:51:07 +0000",
+        "description": "Amazon’s decision to acquire Decart for a reported $7.5 billion is part of its efforts to improve the efficiency of its Trainium chips.",
+        "source": "TechCrunch"
+      },
+      {
+        "title": "Huang reportedly admitted to more than two affairs to Nvidia’s board",
+        "link": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+        "pubDate": "Tue, 24 Nov 2026 13:29:53 +0000",
+        "description": "During a meeting before his reinstatement, Huang admitted to more affairs beyond the two that have been reported in the news, according to The Wall Street Journal.",
+        "source": "TechCrunch"
+      },
       {
         "title": "Figma employee sues, alleging company forced her to confront harassers",
         "link": "https://techcrunch.com/2026/11/23/figma-employee-sues-alleging-company-forced-her-to-confront-harassers/",
@@ -429,108 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
-        "link": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
-        "pubDate": "Mon, 23 Nov 2026 20:38:53 +0000",
-        "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "‘Outrageous,’ ‘reckless,’ ‘wow’: Here’s what politicians are saying about Jensen Huang’s return to Nvidia",
-        "link": "https://techcrunch.com/2026/11/23/outrageous-reckless-wow-heres-what-politicians-are-saying-about-jensen-huangs-return-to-nvidia/",
-        "pubDate": "Mon, 23 Nov 2026 19:31:41 +0000",
-        "description": "Politicians on both sides of the aisle seem angry, agitated, and nonplussed by the return of Jensen Huang to Nvidia leadership less than two weeks after his ousting.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
-        "link": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
-        "pubDate": "Mon, 23 Nov 2026 19:14:46 +0000",
-        "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
-        "link": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
-        "pubDate": "Mon, 23 Nov 2026 18:12:22 +0000",
-        "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
-        "link": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
-        "pubDate": "Mon, 23 Nov 2026 17:14:23 +0000",
-        "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Meta throws out its net-zero goal — its competitors should be furious",
-        "link": "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
-        "pubDate": "Mon, 23 Nov 2026 17:13:45 +0000",
-        "description": "Meta walked back its 2030 net-zero goal in its 2026 sustainability report, a decision that could send ripples throughout the tech industry.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Jensen Huang isn’t out of the woods yet",
-        "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-        "pubDate": "Mon, 23 Nov 2026 16:57:40 +0000",
-        "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-        "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-        "pubDate": "Mon, 23 Nov 2026 16:39:10 +0000",
-        "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "CrowdStrike to acquire Zscaler for $44 billion",
-        "link": "https://techcrunch.com/2026/11/23/crowdstrike-to-acquire-zscaler-for-44-billion/",
-        "pubDate": "Mon, 23 Nov 2026 16:20:11 +0000",
-        "description": "The cybersecurity giant said that the deal to buy Zscaler, which provides zero-trust products to large enterprises, will better equip their customers to use AI agents.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Dutch privacy authority urges consumers not to buy ‘pervert glasses’",
-        "link": "https://techcrunch.com/2026/11/23/dutch-privacy-authority-urges-consumers-not-to-buy-pervert-glasses/",
-        "pubDate": "Mon, 23 Nov 2026 15:29:49 +0000",
-        "description": "The Netherlands' data protection agency said smart wearables violate people's privacy, get information wrong, and can result in unsafe situations.",
-        "source": "TechCrunch"
-      },
-      {
-        "title": "Google alternative Kagi launches an email service",
-        "link": "https://www.theverge.com/tech/1041000/kagi-mail-email-google-gmail-alternative",
-        "pubDate": "2026-11-23T19:02:52-05:00",
-        "description": "Kagi, which already offers a paid alternative to Google Search and its own Orion browser as a rival to Chrome, is taking on another Google service: Gmail. Today, Kagi announced a public beta of Kagi Mail, a new email service that has \"no surveillance",
+        "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+        "link": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+        "pubDate": "2026-11-24T13:15:00-05:00",
+        "description": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questions about whether generative AI was used in the fil",
         "source": "TheVerge"
       },
       {
-        "title": "The hacker behind early GTA VI leaks has been sentenced — and released",
-        "link": "https://www.theverge.com/games/1040966/arion-kurtaj-gta-vi-leaks-sentenced-released",
-        "pubDate": "2026-11-23T18:25:01-05:00",
-        "description": "Arion Kurtaj, who pleaded guilty last week to hacking Grand Theft Auto VI developer Rockstar Games and other companies, including Uber and Revolut, was sentenced to seven years in prison but released on license, the BBC reports. After hacking Rocksta",
+        "title": "Dreame and Eufy are offering nearly 60 percent off robovacs for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1040315/black-friday-best-early-robot-vacuum-mop-deals-2026",
+        "pubDate": "2026-11-24T12:30:00-05:00",
+        "description": "Between putting up decorations, entertaining guests, and meal prep, the holidays are busy enough without worrying about vacuuming. Thankfully, a proper robot vacuum can do the dirty work while you focus on more enjoyable things. And thanks to Black F",
         "source": "TheVerge"
       },
       {
-        "title": "The Verge’s 2026 holiday gift guide",
-        "link": "https://www.theverge.com/gadgets/1026041/holiday-gift-guide-2026",
-        "pubDate": "2026-11-23T18:14:10-05:00",
-        "description": "Gift-giving isn't just about grabbing something solid under a determined spending limit. It's an expression of love, a way to show someone how well you really know them. That doesn't mean you have to do it all on your own, though. Sometimes you just ",
+        "title": "Tidal will start banning AI-generated music next month",
+        "link": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+        "pubDate": "2026-11-24T12:17:09-05:00",
+        "description": "Tidal is officially banning AI-generated music on December 9th. As a result of this change, Tidal will delete around 29 million AI-generated songs and reject an estimated 80,000 to 85,000 tracks per day, according to Tidal music lead Robert Andersen.",
         "source": "TheVerge"
       },
       {
-        "title": "Ladybird, the first new browser engine in years, is now available to test",
-        "link": "https://www.theverge.com/tech/1040872/ladybird-indie-browser-engine-alpha-testing",
-        "pubDate": "2026-11-23T17:38:09-05:00",
-        "description": "Ladybird, an independent web browser with a built-from-scratch engine, is finally available for testing. On Monday, Ladybird developer Andreas Kling announced that the browser is launching in alpha on macOS and Linux following more than four years of",
+        "title": "US Commerce Department adds Megaspeed to trade blacklist as Huang retakes control of Nvidia",
+        "link": "https://www.theverge.com/policy/1041270/nvidia-megaspeed-commerce-dept-entity-list",
+        "pubDate": "2026-11-24T11:37:03-05:00",
+        "description": "As Jensen Huang returns to his post as Nvidia's CEO with support from the Trump administration, the Department of Commerce has added Megaspeed to its Entity List, which blocks trade with the company, citing national security risks. As reported earlie",
         "source": "TheVerge"
       },
       {
-        "title": "Trump engineered a risky comeback for Jensen Huang",
-        "link": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
-        "pubDate": "2026-11-23T17:25:12-05:00",
-        "description": "After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to submit to the new reality. Appearing on Stephen A. Smith's radio show sh",
+        "title": "Jensen Huang deepfakes are the hot new AI slop",
+        "link": "https://www.theverge.com/tech/1041222/jensen-huang-nvidia-scandal-deepfakes",
+        "pubDate": "2026-11-24T11:30:00-05:00",
+        "description": "Jensen Huang is partying it up in Ibiza. In a video with nearly 6 million views on Instagram, the former CEO of Nvidia is dancing in a crowded club, champagne glass in hand, still wearing his signature black leather jacket. Suddenly, from behind him,",
         "source": "TheVerge"
       }
     ],
