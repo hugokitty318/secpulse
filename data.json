@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-25T12:43:27.000051Z",
+  "ts": "2026-11-25T22:28:21.050911Z",
   "tabs": {
     "cn_sec": [
       {
@@ -229,20 +229,41 @@
         "source": "TechOrange"
       },
       {
-        "title": "【機器人訓練需千萬小時數據】Maxinsights 付錢請人戴攝影機，主打高品質訓練資料",
-        "link": "https://techorange.com/2026/11/24/maxinsights-ai-robot-training-data/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 10:03:17 +0800",
-        "description": "新創團隊 Maxinsights 付錢聘請人類在工作時於身上佩戴攝影機，將現實世界影像畫面轉化成 AI 機器人能夠利用的基礎模型訓練數據，更研發 AI 評估平台、力量感測手套兼顧資料品質。",
+        "title": "【科技早餐】台積電美國擴產新進展！向德州申請減稅，評估 226 億美元晶圓廠投資",
+        "link": "https://techorange.com/2026/11/26/tsmc-texas-fab-investment-dell-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電向德州申請減稅！評估 226 億美元晶圓廠投資 台積電（TSMC）美國擴產計畫有了新進展。根據德州布拉索斯郡政府公告，台積電美國子公司於 11 月 23 日提出租稅優惠申請，評估在當地投資 226 億美元興建晶圓廠，採用 2 奈米或更先進製程，生產 AI、高效能運算及行動裝置晶片。德州主計長辦公室已建議將申請案交由州長及當地學區審議，學區董事會將於 12 月 10 日舉行公聽會，討論是否提供為期 10 年的特定房產課稅價值限制。台積電已證",
         "source": "TechOrange"
       }
     ],
     "en_sec": [
+      {
+        "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+        "pubDate": "Wed, 25 Nov 2026 18:18:54 +0530",
+        "description": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr.\n\nThe vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below -\n\n\n  CVE-2026-120705 (CVSS score: 8.6) ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+        "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+        "pubDate": "Wed, 25 Nov 2026 18:00:08 +0530",
+        "description": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution, it has taken",
+        "source": "TheHackerNews"
+      },
       {
         "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
         "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
         "pubDate": "Wed, 25 Nov 2026 17:21:48 +0530",
         "description": "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.\n  Validity-only triage mi",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+        "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500",
+        "description": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
@@ -252,11 +273,25 @@
         "source": "TheHackerNews"
       },
       {
+        "title": "1Password customer data stolen after employee GitHub account breach",
+        "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+        "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500",
+        "description": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+        "source": "BleepingComputer"
+      },
+      {
         "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
         "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
         "pubDate": "Wed, 25 Nov 2026 16:13:07 +0530",
         "description": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.\n\nAbdulrahman Alfozan, a ",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+        "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+        "pubDate": "Wed, 25 Nov 2026 14:39:31 -0500",
+        "description": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
@@ -285,6 +320,27 @@
         "pubDate": "Wed, 25 Nov 2026 11:51:12 +0530",
         "description": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.\n\nT",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+        "pubDate": "Wed, 25 Nov 2026 11:13:40 -0500",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+        "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+        "pubDate": "Wed, 25 Nov 2026 10:00:10 -0500",
+        "description": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client d",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+        "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+        "pubDate": "Wed, 25 Nov 2026 10:00:00 -0500",
+        "description": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors t",
+        "source": "BleepingComputer"
       },
       {
         "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
@@ -320,203 +376,147 @@
         "pubDate": "Tue, 24 Nov 2026 22:24:07 +0530",
         "description": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a backdoor called KuboShell that us",
         "source": "TheHackerNews"
-      },
-      {
-        "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-        "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-        "pubDate": "Tue, 24 Nov 2026 18:58:26 +0530",
-        "description": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication.\n\nThe critical vulnerability, tracked as CV",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-        "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-        "pubDate": "Tue, 24 Nov 2026 18:58:21 +0530",
-        "description": "A threat cluster previously assessed to be affiliated with the ShinyHunters extortion crew may have rebranded and continued operations under a new name called INCEPTION, according to Okta's Threat Intelligence team.\n\nThe cluster, dubbed O-UNC-053, is",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-        "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-        "pubDate": "Tue, 24 Nov 2026 18:12:09 +0530",
-        "description": "Pinning GitHub Actions to an exact version of their code, known as SHA pinning, has become the go-to defense against software supply chain attacks. Attackers have already found a way around it.\n\nIn March 2026, the hackers who hijacked Trivy, a widely",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
-        "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
-        "pubDate": "Tue, 24 Nov 2026 17:32:00 +0530",
-        "description": "A quirk in how the .NET Framework loads a program file let a local attacker run untrusted code past two separate protections on Windows built to block it, Google Project Zero researcher James Forshaw showed in a write-up published yesterday.\n\nThe sam",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-        "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-        "pubDate": "Tue, 24 Nov 2026 17:31:54 +0530",
-        "description": "What if your biggest SOC budget problem isn't how much you spend, but how much analyst time you lose?\n\nAccording to ANY.RUN's estimates, SOC teams could recover 450 analyst hours per 1,000 investigated alerts through faster threat analysis and IOC re",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Rackspace shuts down Spot cloud platform after security breach",
-        "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-        "pubDate": "Tue, 24 Nov 2026 16:37:30 -0500",
-        "description": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
-        "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
-        "pubDate": "Tue, 24 Nov 2026 16:14:49 +0530",
-        "description": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor and Skagerak",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "New Inception extortion gang launches large-scale vishing campaign",
-        "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-        "pubDate": "Tue, 24 Nov 2026 15:21:20 -0500",
-        "description": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
-        "source": "BleepingComputer"
       }
     ],
     "en_tech": [
       {
-        "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-        "link": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
-        "pubDate": "Wed, 25 Nov 2026 00:12:02 +0000",
-        "description": "Yale's Jeffrey Sonnenfeld warns that what the market cheered Monday, Jensen Huang's White House–backed return as Nvidia's CEO and board member, could prove a giant mistake, exposing the directors to \"historic\" personal liability from a growing pile o",
+        "title": "FCC approves SpaceX plan to put AI data centers in space",
+        "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+        "pubDate": "Wed, 25 Nov 2026 20:56:44 +0000",
+        "description": "The FCC dismissed some of the key concerns raised by opponents, including potential threats to scientific research, because the agency determined they fell outside its regulatory authority.",
         "source": "TechCrunch"
       },
       {
-        "title": "Trump reportedly says pardoning Jensen Huang is ‘an option’",
-        "link": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
-        "pubDate": "Wed, 25 Nov 2026 00:10:27 +0000",
-        "description": "Huang faces ongoing questions about his relationship with Alice Huang, an executive with alleged ties to Chinese intelligence who previously worked for a company that has been accused of illegally diverting Nvidia chips to China.",
+        "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+        "link": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+        "pubDate": "Wed, 25 Nov 2026 20:03:27 +0000",
+        "description": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
         "source": "TechCrunch"
       },
       {
-        "title": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
-        "link": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
-        "pubDate": "Tue, 24 Nov 2026 22:27:52 +0000",
-        "description": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+        "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+        "link": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+        "pubDate": "Wed, 25 Nov 2026 19:54:57 +0000",
+        "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
         "source": "TechCrunch"
       },
       {
-        "title": "In all-hands meeting, Jensen Huang thanks White House and says he’s in therapy",
-        "link": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
-        "pubDate": "Tue, 24 Nov 2026 21:48:27 +0000",
-        "description": "The Nvidia founder apologized to his staff on Tuesday and said he was grateful for a second chance to lead the company.",
+        "title": "The canceled Tesla Cybertruck is the fastest-selling used truck in America",
+        "link": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+        "pubDate": "Wed, 25 Nov 2026 19:54:32 +0000",
+        "description": "The Tesla Cybertruck was the fastest-selling used truck last month, averaging just 39.1 days on the market compared to 65.5 days for trucks overall.",
         "source": "TechCrunch"
       },
       {
-        "title": "Even the best AI agents struggle with everyday life",
-        "link": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
-        "pubDate": "Tue, 24 Nov 2026 21:33:29 +0000",
-        "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
+        "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+        "link": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+        "pubDate": "Wed, 25 Nov 2026 19:44:24 +0000",
+        "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
         "source": "TechCrunch"
       },
       {
-        "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
-        "pubDate": "Tue, 24 Nov 2026 21:32:38 +0000",
-        "description": "Walmart now lets customers shop Black Friday deals through Muse, Meta’s AI agent.",
+        "title": "1Password said hackers broke into its internal systems, but customer passwords are safe",
+        "link": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+        "pubDate": "Wed, 25 Nov 2026 18:49:52 +0000",
+        "description": "The password manager maker said an attacker gained access to an employee's corporate account and took some information about customers.",
         "source": "TechCrunch"
       },
       {
-        "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
-        "link": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
-        "pubDate": "Tue, 24 Nov 2026 21:19:52 +0000",
-        "description": "The startup's encrypted AI architecture is designed to prevent even the company itself from accessing users' private data.",
+        "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
+        "link": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+        "pubDate": "Wed, 25 Nov 2026 18:11:46 +0000",
+        "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
         "source": "TechCrunch"
       },
       {
-        "title": "Dozens of oil and shipping tankers hacked in recent weeks, per report",
-        "link": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
-        "pubDate": "Tue, 24 Nov 2026 21:09:04 +0000",
-        "description": "Iran is the chief suspect behind the dozens of cyberattacks targeting oil and chemical shipping vessels.",
+        "title": "DOJ accuses former cyber executive of defrauding ransomware victims by secretly paying hackers",
+        "link": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+        "pubDate": "Wed, 25 Nov 2026 17:36:51 +0000",
+        "description": "U.S. prosecutors accused the former executive of defrauding victims of ransomware by paying the hackers, charging victims more, and pocketing the difference.",
         "source": "TechCrunch"
       },
       {
-        "title": "Anthropic shares fall below IPO price, a worrying sign for AI startups",
-        "link": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
-        "pubDate": "Tue, 24 Nov 2026 18:30:42 +0000",
-        "description": "Anthropic’s post-IPO slump could put pressure on AI startup valuations.",
+        "title": "Character.AI’s plan to auction off users’ private chats challenged by state AGs",
+        "link": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+        "pubDate": "Wed, 25 Nov 2026 17:35:58 +0000",
+        "description": "The proposed Character.ai bankruptcy sale includes sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors, the state AGs said.",
         "source": "TechCrunch"
       },
       {
-        "title": "UK warns AI-driven cyberattacks are exposing years of weak security",
-        "link": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
-        "pubDate": "Tue, 24 Nov 2026 18:02:59 +0000",
-        "description": "The British cyber agency says that \"building strong foundations has never mattered more\" as AI hacking tools rely on exploiting simple security flaws.",
+        "title": "X’s latest update for creators focuses on vertical video",
+        "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+        "pubDate": "Wed, 25 Nov 2026 17:28:29 +0000",
+        "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
         "source": "TechCrunch"
       },
       {
-        "title": "Threads comes to iPad and takes a page from X’s playbook with cashtags",
-        "link": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
-        "pubDate": "Tue, 24 Nov 2026 17:44:34 +0000",
-        "description": "The addition of live stock quotes and charts could help Threads attract the financial community that has historically relied on X.",
+        "title": "WhatsApp now lets you schedule messages in group and individual chats",
+        "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+        "pubDate": "Wed, 25 Nov 2026 16:57:51 +0000",
+        "description": "Users can schedule messages from 10 minutes later to after 14 days.",
         "source": "TechCrunch"
       },
       {
-        "title": "Electric truck startup Harbinger gets financing boost from Palmer Luckey’s bank",
-        "link": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
-        "pubDate": "Tue, 24 Nov 2026 17:29:09 +0000",
-        "description": "Harbinger has tapped Palmer Luckey's Erebor Bank as a new source of capital as the electric truck startup looks to diversify how it funds its growth.",
+        "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
+        "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+        "pubDate": "Wed, 25 Nov 2026 15:08:37 +0000",
+        "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
         "source": "TechCrunch"
       },
       {
-        "title": "Meta brings its Muse AI assistant directly into Instagram DMs",
-        "link": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
-        "pubDate": "Tue, 24 Nov 2026 17:00:00 +0000",
-        "description": "The new integration gets rid of the need for users to toggle between Instagram and the Muse app when they want to interact with the AI agent.",
+        "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
+        "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+        "pubDate": "Wed, 25 Nov 2026 14:20:28 +0000",
+        "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
         "source": "TechCrunch"
       },
       {
-        "title": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates music streaming",
-        "link": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
-        "pubDate": "Tue, 24 Nov 2026 16:46:00 +0000",
-        "description": "The company said it will still accept songs that were made with AI assistance, but not fully generated.",
+        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+        "pubDate": "Wed, 25 Nov 2026 14:10:18 +0000",
+        "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
         "source": "TechCrunch"
       },
       {
-        "title": "Uber and Nuro begin driverless testing of Lucid robotaxis ahead of 2027 launch",
-        "link": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
-        "pubDate": "Tue, 24 Nov 2026 16:40:46 +0000",
-        "description": "Uber and Nuro have started testing driverless Lucid Gravity SUVs on public streets in the San Francisco Bay Area.",
+        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
+        "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+        "pubDate": "Wed, 25 Nov 2026 13:08:19 +0000",
+        "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
         "source": "TechCrunch"
       },
       {
-        "title": "Microsoft declares ‘Code Red’ after huge Outlook outage",
-        "link": "https://www.theverge.com/news/1042025/microsoft-code-red-outlook-outage",
-        "pubDate": "2026-11-25T06:12:42-05:00",
-        "description": "This month's Exchange Online and Microsoft Outlook outage has prompted the software giant to declare an unusual \"Code Red\" internally, Reuters reports. The nearly 24-hour outage took down email for millions of customers, and was triggered by a bug th",
+        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+        "pubDate": "2026-11-25T16:51:26-05:00",
+        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but",
         "source": "TheVerge"
       },
       {
-        "title": "US financial crimes bureau discloses ‘cybersecurity incident’",
-        "link": "https://www.theverge.com/policy/1041957/fincen-treasury-cybersecurity-incident",
-        "pubDate": "2026-11-24T20:00:00-05:00",
-        "description": "The Financial Crimes Enforcement Network (FinCEN) disclosed on Tuesday that it's investigating a \"cybersecurity incident.\" The bureau, which is part of the Treasury Department, said it's looking into an \"incident that resulted in unauthorized access ",
+        "title": "The Verge’s 2026 holiday gift guide for travelers",
+        "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
+        "pubDate": "2026-11-25T16:48:00-05:00",
+        "description": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kind",
         "source": "TheVerge"
       },
       {
-        "title": "The Verge’s 2026 gift guide for dads",
-        "link": "https://www.theverge.com/gadgets/1024777/best-gifts-for-dad-2026",
-        "pubDate": "2026-11-24T18:59:29-05:00",
-        "description": "Gone are the days when you could just buy your father a random tie or some leather-clad alcohol vessel or a shaving kit. Dads want - nay, deserve - something memorable. Luckily for you, it's not that hard to find something special that he'll approve ",
+        "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
+        "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
+        "pubDate": "2026-11-25T15:31:48-05:00",
+        "description": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very ",
         "source": "TheVerge"
       },
       {
-        "title": "Why the US Army is about to blow up nearly 10,000 pounds of unstable explosives in Iowa",
-        "link": "https://www.theverge.com/science/1041819/us-army-detonation-lead-explosives-iowa",
-        "pubDate": "2026-11-24T18:25:46-05:00",
-        "description": "The US Army is moving ahead with plans to detonate the nation's stockpile of lead azide at an ammunition plant in Middletown, Iowa, at approximately 9:00AM CST on Wednesday. The Verge reached out to experts on what to expect, and will keep this post ",
+        "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
+        "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
+        "pubDate": "2026-11-25T14:45:51-05:00",
+        "description": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Pl",
         "source": "TheVerge"
       },
       {
-        "title": "Huawei found guilty of stealing trade secrets",
-        "link": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
-        "pubDate": "2026-11-24T17:23:27-05:00",
-        "description": "A jury has found Huawei guilty of stealing US trade secrets, as reported earlier by NBC News and Bloomberg. The verdict, handed down in a federal court in New York, concludes a years-long legal battle that accused the Chinese telecom giant of stealin",
+        "title": "1Password breach leaked customer names and emails, but not passwords",
+        "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
+        "pubDate": "2026-11-25T14:10:15-05:00",
+        "description": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, accordi",
         "source": "TheVerge"
       }
     ],
