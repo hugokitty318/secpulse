@@ -1,7 +1,84 @@
 {
-  "ts": "2026-11-25T22:28:21.050911Z",
+  "ts": "2026-11-26T04:21:31.552572Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "React Server Components修補未經身分驗證RCE漏洞",
+        "link": "https://www.ithome.com.tw/news/180810",
+        "pubDate": "2026-11-26 12:11",
+        "description": "CVE-2026-126187源自伺服器元件資料處理缺陷，攻擊者可傳送特製負載執行任意程式碼，影響三種RSC傳輸套件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SecurityScorecard示警Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件與代理節點",
+        "link": "https://www.ithome.com.tw/news/180809",
+        "pubDate": "2026-11-26 11:37",
+        "description": "暴露於公開網路的冷凍控制器遭攻擊者濫用，駭客疑似利用登入驗證漏洞入侵，部分設備遭劫持用於郵件發送、網路隧道閘道及住宅代理出口",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Palo Alto Networks修補防火牆已遭利用的Linux核心漏洞Fragnesia",
+        "link": "https://www.ithome.com.tw/news/180808",
+        "pubDate": "2026-11-26 11:34",
+        "description": "本週資安廠商Palo Alto Networks發布公告，旗下防火牆作業系統PAN-OS受到Linux核心漏洞Fragnesia（CVE-2026-46300）影響，且已有漏洞利用活動，呼籲用戶儘速更新",
+        "source": "iThome資安"
+      },
+      {
+        "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
+        "link": "https://www.ithome.com.tw/news/180806",
+        "pubDate": "2026-11-26 11:26",
+        "description": "連鎖餐飲集團瓦城（2729）發布資安重訊，子公司泰味國際接獲委外購物網站服務廠商通知，雲端發票平臺近期出現異常資料存取情形，初步評估影響290人",
+        "source": "iThome資安"
+      },
+      {
+        "title": "英國NCSC示警AI輔助網路攻擊顯著增加，駭客數分鐘內就可能利用企業既有資安弱點",
+        "link": "https://www.ithome.com.tw/news/180781",
+        "pubDate": "2026-11-26 08:00",
+        "description": "英國NCSC指出，自今年9月以來，AI輔助網路攻擊顯著增加，駭客利用AI代理式攻擊框架，從發現企業既有資安弱點到加以利用，可能僅需數分鐘。不過，目前觀測到的攻擊幾乎都能透過落實基本資安防護措施及零信任架構加以防範",
+        "source": "iThome資安"
+      },
+      {
+        "title": "盤點2027年七大供應鏈資安風險，企業防護範圍從開源軟體擴及AI模型與代理",
+        "link": "https://www.ithome.com.tw/news/180745",
+        "pubDate": "2026-11-26 08:00",
+        "description": "2027年攻擊者恐更頻繁鎖定軟體建置與部署流程發動供應鏈攻擊，也可能竄改AI模型權重，或在AI代理及其使用的工具中植入後門。此外，各國監管政策的變化也可能影響AI模型服務的可用性，進而衝擊企業營運",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
+        "link": "https://www.ithome.com.tw/news/180723",
+        "pubDate": "2026-11-26 08:00",
+        "description": "Google推出AI代理語意治理政策預覽版，可在AI代理執行工具操作前，檢查是否符合使用者要求及企業政策，並阻擋違規操作。不過，這項功能目前不支援模型的串流回應，LLM判斷也可能出錯",
+        "source": "iThome資安"
+      },
+      {
+        "title": "ChatGPT開始合併Chat、Work，預定12月擴大部署",
+        "link": "https://www.ithome.com.tw/news/180807",
+        "pubDate": "2026-11-26  11:11:20",
+        "description": "OpenAI 11月宣布將合併對話(chat)、Work及Codex的token用量配額的計畫。在ChatGPT、Work本月稍早合併後，OpenAI官方公告開始針對部份用戶合併chat和Work，預定12月擴大部署",
+        "source": "iThome"
+      },
+      {
+        "title": "紐約州長簽署禁止銷售AI聊天機器人玩具的5年禁令",
+        "link": "https://www.ithome.com.tw/news/180803",
+        "pubDate": "2026-11-26  10:11:58",
+        "description": "美國紐約州長Kathy Hochul周二（11/24）簽署一項為期5年的AI聊天機器人玩具禁令，禁止在紐約州製造、經銷及銷售內嵌AI聊天機器人的連網玩具，以保護兒童的身心健康及隱私，新法將於簽署後90天生效，違法業者每項違規行為每日最高可被處以1.5萬美元的罰款。",
+        "source": "iThome"
+      },
+      {
+        "title": "Claude新功能可將物件變成獨立Mac、Windows App",
+        "link": "https://www.ithome.com.tw/news/180804",
+        "pubDate": "2026-11-26  10:11:05",
+        "description": "Anthropic宣布今天開始，以beta版為Mac和Windows版Claude App部署一項功能，可輕鬆將Claude生成的物件轉成桌機版應用程式，擁有圖示和視窗，還能分享他人。",
+        "source": "iThome"
+      },
+      {
+        "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
+        "link": "https://www.ithome.com.tw/news/180802",
+        "pubDate": "2026-11-26  09:11:07",
+        "description": "美國聯邦通訊委員會（Federal Communications Commission，FCC）周三（11/25）宣布，已核發美國史上首張太空資料中心星系部署許可，授權SpaceX部署多達100萬顆具備運算能力的衛星，打造名為Starmind的太空資料中心星系，以滿足超級智慧（Super Intelligence，SI）快速成長的運算需求。",
+        "source": "iThome"
+      },
       {
         "title": "數發部建立風險分級與內控制度，協助各部會展開AI治理",
         "link": "https://www.ithome.com.tw/news/178458",
@@ -59,73 +136,10 @@
         "source": "iThome資安"
       },
       {
-        "title": "程式語言Elixir套件平臺Hex.pm遭駭，使用者資料與簽章金鑰恐外洩",
-        "link": "https://www.ithome.com.tw/news/180791",
-        "pubDate": "2026-11-25 14:08",
-        "description": "駭客利用潛藏十年的反序列化漏洞，入侵Elixir套件平臺Hex.pm的6臺伺服器，官方已修補漏洞，並要求使用者變更密碼及重設雙因素驗證",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Anthropic推出Siren安全評估機制，以蜜罐測試AI代理人的沙箱逃逸風險",
-        "link": "https://www.ithome.com.tw/news/180792",
-        "pubDate": "2026-11-25 14:05",
-        "description": "AI模型開發商Anthropic推出安全評估機制Siren，利用蜜罐測試AI代理人是否會突破沙箱限制。測試顯示，明確告知模型應遵守的安全規範，可降低近7成至逾9成的沙箱外部資源存取或嘗試存取行為",
-        "source": "iThome資安"
-      },
-      {
-        "title": "SolarWinds修補Serv-U重大權限提升漏洞",
-        "link": "https://www.ithome.com.tw/news/180790",
-        "pubDate": "2026-11-25 12:56",
-        "description": "CVE-2026-123167源自路徑遍歷缺陷，具網域管理員權限的攻擊者可存取受限制檔案，用戶應升級至已修補的Serv-U 2026.4版",
-        "source": "iThome資安"
-      },
-      {
-        "title": "網擎揭露AI應用布局，從郵件產品功能創新到加速軟體開發與測試",
-        "link": "https://www.ithome.com.tw/news/180693",
-        "pubDate": "2026-11-25 12:25",
-        "description": "網擎積極發展以AI擴增郵件稽核應用與郵件威脅自動防禦技術，內部也將AI導入程式碼撰寫、審查及軟體測試流程，每週自動測試案例產出量從38個增至120個，執行2,800個測試案例所需時間也從22小時縮短至8小時",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google修補Nest Hub裝置53個漏洞，包括可能導致遠端執行程式碼的藍牙重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180789",
-        "pubDate": "2026-11-25 12:10",
-        "description": "11月份公告涵蓋27個High及26個Moderate等級漏洞，問題集中於Bluetooth與Cast元件，可能導致遠端執行程式碼、服務阻斷或提升權限",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Broadcom修補VMware產品23個漏洞，含影響vCenter的身分驗證繞過重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180786",
-        "pubDate": "2026-11-25 11:22",
-        "description": "繼稍早疑似遭中國駭客利用的CVE-2026-123890之後，VMware再次修補另一vCenter身分驗證繞過漏洞CVE-2026-123903，也同樣存在於VMware Directory Service",
-        "source": "iThome資安"
-      },
-      {
-        "title": "微軟啟動紅色警戒計畫，目標1小時內修復全球服務故障",
-        "link": "https://www.ithome.com.tw/news/180785",
-        "pubDate": "2026-11-25 11:19",
-        "description": "微軟本月發生Microsoft 365全球大規模當機事故，波及各國政府、金融交易業者及航空公司。據路透社報導，微軟已於內部啟動紅色警戒（Code Red）計畫，目標是將重大事故的全球服務修復時間縮短至1小時內，並規畫導入AI代理，協助工程師加速故障診斷",
-        "source": "iThome資安"
-      },
-      {
         "title": "DeepMind推出AI可靠性評測，揭頂尖模型仍難穩定完成簡單任務",
         "link": "https://www.ithome.com.tw/news/180797",
         "pubDate": "2026-11-25  05:11:57",
         "description": "Google DeepMind在AI與資料科學競賽平臺Kaggle推出大型語言模型基準測試Humanity’s First Exam（HFE），衡量AI模型能否穩定完成簡單的日常任務。",
-        "source": "iThome"
-      },
-      {
-        "title": "要讓生成式AI走進終端裝置，臺大團隊設計高能效Transformer學習晶片",
-        "link": "https://www.ithome.com.tw/news/180800",
-        "pubDate": "2026-11-25  05:11:25",
-        "description": "在國科會晶創臺灣方案的支援下，臺大電機工程學系暨電子工程學研究所楊家驤教授團隊今日（11/25）揭露自行設計的兩代Transformer學習處理器晶片，定位為NPU類型晶片，透過減少不必要的運算、簡化AI運算流程，來加速Transformer模型的訓練、微調和推論。\n除了兩代晶片，他們也設計出第三代，主要改善生成式AI推論時的資料搬移效率，已於今年10月採16奈米製程下線。團隊希望，這些研發能促進生成式AI在本地端或裝置端執行的可行性。",
-        "source": "iThome"
-      },
-      {
-        "title": "美國防堵AI晶片違規轉運，阿里巴巴子公司等7家企業遭列出口管制清單",
-        "link": "https://www.ithome.com.tw/news/180794",
-        "pubDate": "2026-11-25  03:11:24",
-        "description": "美國商務部工業與安全局（BIS）11月24日公開出口管制新規，將Megaspeed及阿里巴巴旗下新加坡子公司等7家東南亞公司列入實體清單（Entity List），理由是列名公司涉及先進運算產品違規轉供的風險甚高，可能使產品流向未經授權的使用者，或用於未經授權的用途。馬來西亞政府同日也宣布，將通知境內資料中心業者，建議不要向列名公司提供服務。",
         "source": "iThome"
       }
     ],
@@ -194,38 +208,38 @@
         "source": "TechOrange"
       },
       {
-        "title": "建了資料湖，AI 代理為何還是看不懂業務？拆解知識圖譜在企業 AI 的新角色",
-        "link": "https://techorange.com/2026/11/24/semantic-knowledge-graph-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 17:24:41 +0800",
-        "description": "科技媒體《CIO》近日報導，知識圖譜（knowledge graph）原本就能協助組織資訊，如今隨著代理式 AI（agentic AI）興起而重獲新生。報導指出，知識圖譜能讓 AI 代理（AI agent）找到所需的確切資訊，語意知識圖譜（semantic knowledge graph）則在知識圖譜之上加入語意層（semantic layer），讓代理知道這些資訊在企業中代表什麼、實際上如何使用。 企業導入生成式 AI 時，常見做法是透過檢索增強生成（retrieval-augmented g",
+        "title": "美 301 新關稅點名台灣等 14 個經濟體，台灣政府：有信心維持 15%、協議不重談",
+        "link": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 12:04:30 +0800",
+        "description": "美國總統川普的共和黨雖在期中選舉失利，川普政府仍再度祭出新一波關稅。美國貿易代表署（Office of the United States Trade Representative，USTR）近日針對中國、日本、歐盟、台灣等 14 個主要貿易夥伴，提出最高潛在稅率 20% 至 40% 的新關稅，以對抗美方指這些國家助長的工業產能過剩。不過，USTR 表示，打算將新關稅上限控制在已完成或仍在協商中的貿易協議所議定的較低水準。台灣政府則表示，有信心維持先前與美方談定的 15% 關稅，既有協議也不會重",
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 推 Claude Ship 讓 AI 核准程式碼，企業如何設定核准規則？",
-        "link": "https://techorange.com/2026/11/24/anthropic-claude-ship-ai-code-approvals/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 15:24:49 +0800",
-        "description": "Anthropic 於美國時間 11/23 推出 Claude Ship，由三個 AI 代理接手開發者在 GitHub 送出 PR（拉取請求，開發者提交程式碼變更、待審查後合併的請求）之後的流程：審查程式碼、修正問題，再依各團隊設定的政策，判斷還需要誰核准、哪些變更 Claude 可以代為核准。Anthropic 的說法是，開發者送出 PR 後，就能回頭繼續開發。其中 Code Review 已正式推出，負責修正的 PR Steward 與負責核准的 Claude Approvals 仍是公開測",
+        "title": "OpenAI 以 AI 設計電路、亞馬遜收購跨晶片最佳化技術，為半導體設計與軟體競爭帶來哪些新變數？",
+        "link": "https://techorange.com/2026/11/26/ai-chip-design-software-optimization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 10:52:24 +0800",
+        "description": "對於特殊應用積體電路（ASIC）設計服務、雲端服務供應商（CSP）晶片部門與電子設計自動化（EDA）業者而言，科技巨頭透過自研晶片分散硬體供應風險，已是近年業界熟知的趨勢。 然而，綜觀近期浮現的多項產業動態——包括微軟（Microsoft）公布 Maia 晶片部署藍圖、OpenAI 揭露自研晶片「Jalapeño」的研發進展，以及與超微（AMD）改良旗艦 GPU IP 的合作成果、亞馬遜（Amazon）收購以色列新創 Decart 的技術與團隊，以及西門子（Siemens EDA）與台積電（TS",
         "source": "TechOrange"
       },
       {
-        "title": "AI 安全不能只靠「緊急煞車」，AWS 執行長：模型周邊的工程，比選哪個模型更重要",
-        "link": "https://techorange.com/2026/11/24/ai-safety-cant-depend-emergency-brake-engineering/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 14:21:11 +0800",
-        "description": "Amazon 旗下雲端服務 Amazon Web Services（AWS）執行長 Matt Garman 近日在 Amazon 官方新聞網站發表文章，主張 AI 安全不能只靠緊急煞車，而需要更好的工程設計。《Reuters》將這番主張概括為：通往更安全 AI 的路，不是緊急停止開關（kill switch），而是更好的工程設計。Garman 指出，在政策與原則仍在辯論之際，企業如今已在正式環境部署 AI；打造可信任 AI 系統的實用工具早已存在，身分、記錄與隔離等行之有年的資安基本原則同樣適用",
+        "title": "IT 維運如何跟上 AI 應用迭代速度？HPE 和凌羣攜手合作推廣標準化託管服務，釋放企業 IT 創新潛能",
+        "link": "https://techorange.com/2026/11/26/hpe-syscom-mananged-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 10:30:00 +0800",
+        "description": "企業導入 AI 的速度正在加快，當所有目光都集中在前端應用成果時，往往容易忽略後端基礎架構（Infrastructure）所承受的維運壓力。AI 開發團隊可能每三、四個月就要測試新專案，傳統 IT 部門首要任務則是確保系統每天穩定運作、不能當機。隨著新應用持續增加，既有基礎架構的管理複雜度與維運負擔也隨之提升。 面對「前端求快、後端求穩」的矛盾，凌羣電腦總經理劉瑞隆認為，企業需要重新檢視既有模式。HPE（慧與科技）與凌羣攜手合作，為企業提供 Managed Services（託管服務），結合專業",
         "source": "TechOrange"
       },
       {
-        "title": "CrowdStrike 以 439 億美元收購 Zscaler：端點與零信任平台整合將如何影響企業用戶資安？",
-        "link": "https://techorange.com/2026/11/24/cybersecurity-crowdstrike-zscaler-merger-impact/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 14:20:50 +0800",
-        "description": "美國資安龍頭 CrowdStrike 於 11 月 23 日宣布，已簽署最終協議，將透過全股票交易以約 439 億美元收購雲端安全大廠 Zscaler，預計於 CrowdStrike 2028 會計年度下半年完成交割。雙方產品重疊度低，CrowdStrike 藉此補齊網路安全拼圖，打造「單一平台、單一資料層、單一合約」的資安版圖。 CrowdStrike 擴大平台版圖、逾 1,850 億美元潛在市場 CrowdStrike 繼本月稍早陸續收購自動化 AI 安全測試新創 Dreadnode（據《華",
+        "title": "【室內燈光也能發電】美國新創 RadianX 用新型太陽能板，延長感測器、穿戴裝置的續航",
+        "link": "https://techorange.com/2026/11/26/radianx/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 08:59:25 +0800",
+        "description": "電子閱讀器、穿戴裝置與工廠感測器，都需要穩定的電力才能運作，目前這類裝置多仰賴充電式或可更換電池，使用者必須定期充電或換電池，才能避免設備中斷運作。不過，當企業部署大量感測器，或將設備安裝在不易接近的位置時，電池維護也會帶來額外的人力與成本負擔，而美國新創 RadianX 就想嘗試透過「光能採集」降低這項負擔。 鈣鈦礦模組，靠室內燈光發電 RadianX 開發的鈣鈦礦太陽能模組，能將戶外陽光或室內燈光轉換為電力，為電子裝置補充能源。 相較於傳統太陽能技術，RadianX 強調其模組在室內弱光環境",
         "source": "TechOrange"
       },
       {
-        "title": "黃仁勳 6 天重返 NVIDIA，只解決由誰當家：調查、出口管制、融資疑慮仍未解",
-        "link": "https://techorange.com/2026/11/24/nvidia-jensen-huang-reinstated-ceo/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 12:31:14 +0800",
-        "description": "NVIDIA 董事會美國時間 11/23 宣布，黃仁勳即日起復任總裁暨執行長並重回董事會，董事會全體一致通過。這距離他宣布辭職 11 天，距離董事會公開排除他回任只有 6 天。《Axios》引述《Bloomberg》統計，NVIDIA 當天市值增加約 9,400 億美元，是個股史上最大的單日增幅。 黃仁勳先前因婚外情曝光而辭職，其中一名對象被指控替中國刺探情報，中國則否認間諜指控。執行長人選雖已底定，他辭職期間浮上檯面的調查、出口管制與算力融資疑慮，有哪些隨之解除、哪些仍待解？ 川普介入後董事會",
+        "title": "OpenAI 推「OpenWorks」：每月最高付 8,000 美元請在地顧問，免費一對一教美國小企業用 AI",
+        "link": "https://techorange.com/2026/11/26/openai-openworks-small-business-ai-partners/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 08:10:00 +0800",
+        "description": "美國時間 11/23，OpenAI 推出試辦計畫 OpenWorks，在全美 20 個社區招募在地 AI 專家擔任「OpenWorks 夥伴」（OpenWorks Partners），每月提供最高 8,000 美元津貼，請他們一對一協助當地小型企業導入 AI。企業可以免費參加，不過試辦只開放美國獨立經營的小型企業，台灣企業目前無法申請。 根據《Forbes》引述美國人口普查局的調查，5 月初約 19.8% 的美國企業在營運的任一環節使用到 AI；從企業規模觀察，員工 250 人以上的企業有 37",
         "source": "TechOrange"
       },
       {
@@ -380,6 +394,13 @@
     ],
     "en_tech": [
       {
+        "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+        "link": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+        "pubDate": "Wed, 25 Nov 2026 22:44:32 +0000",
+        "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+        "source": "TechCrunch"
+      },
+      {
         "title": "FCC approves SpaceX plan to put AI data centers in space",
         "link": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
         "pubDate": "Wed, 25 Nov 2026 20:56:44 +0000",
@@ -478,11 +499,18 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Flipkart CEO Kalyan Krishnamurthy to step down next week amid IPO uncertainty",
-        "link": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
-        "pubDate": "Wed, 25 Nov 2026 13:08:19 +0000",
-        "description": "Flipkart's product and technology chief Balaji Thiagarajan will lead the company alongside its board until a successor is found.",
-        "source": "TechCrunch"
+        "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
+        "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
+        "pubDate": "2026-11-25T19:04:34-05:00",
+        "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-",
+        "source": "TheVerge"
+      },
+      {
+        "title": "Amazon loses its latest attempt to get out of handling more recall notices",
+        "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
+        "pubDate": "2026-11-25T18:56:44-05:00",
+        "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued t",
+        "source": "TheVerge"
       },
       {
         "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
@@ -503,20 +531,6 @@
         "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
         "pubDate": "2026-11-25T15:31:48-05:00",
         "description": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very ",
-        "source": "TheVerge"
-      },
-      {
-        "title": "EPA reports ‘zero’ airborne lead following controlled Army detonation in Iowa",
-        "link": "https://www.theverge.com/science/1042109/us-army-detonation-lead-azide-explosives-iowa-ammunition-plant",
-        "pubDate": "2026-11-25T14:45:51-05:00",
-        "description": "Saying it was necessary to prevent the possible spontaneous explosion of a stockpile of material used in igniters and blasting caps, the US Army conducted a controlled detonation of over 9,700 pounds of lead azide today at the Iowa Army Ammunition Pl",
-        "source": "TheVerge"
-      },
-      {
-        "title": "1Password breach leaked customer names and emails, but not passwords",
-        "link": "https://www.theverge.com/tech/1042409/1password-data-breach-leak",
-        "pubDate": "2026-11-25T14:10:15-05:00",
-        "description": "1Password says a hacker stole customer names and email addresses after gaining access to its backend systems. The breach didn't expose passwords or other information stored in customer vaults, but could put users at risk of phishing attempts, accordi",
         "source": "TheVerge"
       }
     ],
@@ -552,14 +566,34 @@
         "products": "Google Chrome Remote Code Execution Vulnerability"
       },
       {
-        "title": "Drupal Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
-        "pubDate": "Thu, 19 Nov 2026 11:00:00 +0800",
+        "title": "Drupal Security Restriction Bypass Vulnerability",
+        "link": "https://www.hkcert.org/security-bulletin/drupal-security-restriction-bypass-vulnerability_20261126",
+        "pubDate": "Thu, 26 Nov 2026 11:00:00 +0800",
         "description": "",
         "source": "HKCERT",
         "severity": "medium",
         "cveIds": "",
-        "products": "Drupal"
+        "products": "Drupal Security Restriction Bypass Vulnerability"
+      },
+      {
+        "title": "Microsoft Edge Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261126",
+        "pubDate": "Thu, 26 Nov 2026 10:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "Microsoft Edge"
+      },
+      {
+        "title": "GitLab Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261126",
+        "pubDate": "Thu, 26 Nov 2026 09:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "GitLab"
       },
       {
         "title": "F5 BIG-IP Remote Code Execution Vulnerability",
@@ -640,26 +674,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "ASUS Router"
-      },
-      {
-        "title": "Citrix XenServer Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261120",
-        "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Citrix XenServer"
-      },
-      {
-        "title": "Splunk Products Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261120",
-        "pubDate": "Fri, 20 Nov 2026 09:00:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "Splunk Products"
       }
     ]
   }
