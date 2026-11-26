@@ -1,7 +1,84 @@
 {
-  "ts": "2026-11-26T04:21:31.552572Z",
+  "ts": "2026-11-26T14:25:23.458897Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "香帥蛋糕、一事製菓揭露資安事件，電子發票服務商PayNow對外API遭異常存取，波及500商家",
+        "link": "https://www.ithome.com.tw/news/180833",
+        "pubDate": "2026-11-26 21:08",
+        "description": "電子發票加值服務平臺PayNow遭未經授權存取，已有初步調查結果，該公司表示約500家商家受到影響，涉及約281萬張不重複電子發票資料外洩，近日已有香帥蛋糕、一事製菓等品牌業者陸續發布公告，提醒消費者慎防冒名詐騙",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國財政部金融犯罪執法局遭入侵，反洗錢批次申報服務中斷",
+        "link": "https://www.ithome.com.tw/news/180830",
+        "pubDate": "2026-11-26 18:04",
+        "description": "美國財政部金融犯罪執法局（FinCEN）遭入侵，導致金融機構批次申報服務中斷，美國財政部已聯合FBI及CISA調查事件",
+        "source": "iThome資安"
+      },
+      {
+        "title": "地理資訊伺服器GeoServer漏洞遭串連用於攻擊活動",
+        "link": "https://www.ithome.com.tw/news/180829",
+        "pubDate": "2026-11-26 17:36",
+        "description": "開源地理資訊伺服器GeoServer近期修補的資安漏洞CVE-2026-120705、CVE-2026-129243，傳出遭串連用於實際攻擊，資安公司watchTowr呼籲用戶應儘速修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "WordPress攔截6款遭植入後門的外掛程式，起因疑為開發者帳號遭盜用",
+        "link": "https://www.ithome.com.tw/news/180828",
+        "pubDate": "2026-11-26 16:38",
+        "description": "WordPress於11月22日成功攔截6款WP Connect開發的外掛程式新版本發布，起因是這些外掛遭植入後門程式，攻擊者可透過後門遠端執行PHP程式碼、下達Shell命令、竊取密碼雜湊及植入Webshell，一旦正式上架，恐影響超過3,600個已安裝舊版外掛的網站",
+        "source": "iThome資安"
+      },
+      {
+        "title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬，歹徒濫用無障礙權限盜轉存款",
+        "link": "https://www.ithome.com.tw/news/180826",
+        "pubDate": "2026-11-26 16:10",
+        "description": "今年9月以來，國內已有22家金融機構的客戶反映帳戶遭盜轉，累計財損逾1,742萬元。刑事局透過部分受害者手機的數位鑑識，發現歹徒利用偽冒短劇App的Android惡意程式規避手機安全防護，並濫用無障礙權限，在數十秒內自行完成12類權限授權，具備遠端操控手機、側錄密碼、讀取及刪除簡訊等能力",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Danfoss冷凍控制器等10個漏洞遭到積極利用",
+        "link": "https://www.ithome.com.tw/news/180827",
+        "pubDate": "2026-11-26 16:06",
+        "description": "美國網路安全與基礎設施安全局（CISA） 一口氣將10個新漏洞加入已知遭利用漏洞名單（KEV），涵蓋Danfoss、Juniper、Mitel，以及Vates等4個廠牌的產品漏洞",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月26日，Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件發送與代理節點",
+        "link": "https://www.ithome.com.tw/news/180823",
+        "pubDate": "2026-11-26 14:49",
+        "description": "資安公司SecurityScorecard揭露暴露於公開網路的冷凍控制器遭攻擊者濫用，駭客疑似利用身分驗證漏洞入侵，部分設備遭劫持用於郵件發送、網路隧道閘道及住宅代理伺服器節點",
+        "source": "iThome資安"
+      },
+      {
+        "title": "FBI疑似再發生資安事故，犯罪資料庫被駭",
+        "link": "https://www.ithome.com.tw/news/180822",
+        "pubDate": "2026-11-26 14:48",
+        "description": "FBI再傳重大資安事故，這次遭駭的是全美執法單位仰賴的犯罪資訊資料庫（NCIC），內含通緝犯、失蹤人口、失竊車輛及犯罪紀錄等資訊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
+        "link": "https://www.ithome.com.tw/news/180820",
+        "pubDate": "2026-11-26 13:21",
+        "description": "密碼管理服務業者1Password揭露資安事件，駭客透過員工的GitHub帳號竊取公司原始碼，並在後端服務植入惡意程式碼，導致部分客戶帳號資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "多國警方聯手瓦解Gootloader等惡意程式基礎設施，查獲640萬筆遭竊憑證",
+        "link": "https://www.ithome.com.tw/news/180813",
+        "pubDate": "2026-11-26 12:49",
+        "description": "Endgame行動同步打擊Gootloader、CastleRAT及StealC等惡意程式基礎設施，查扣235臺伺服器與257個網域，並清理681個遭入侵網站",
+        "source": "iThome資安"
+      },
+      {
+        "title": "全球22家企業組織Check Point管理伺服器被入侵，駭客利用已知漏洞取得管理員權限",
+        "link": "https://www.ithome.com.tw/news/180811",
+        "pubDate": "2026-11-26 12:14",
+        "description": "威脅情報公司GreyNoise揭露GT13入侵活動，全球22家企業組織Check Point管理伺服器遭入侵，攻擊者利用漏洞執行管理命令、竊取防火牆設定與憑證，並疑似透過AI代理自動化攻擊流程",
+        "source": "iThome資安"
+      },
       {
         "title": "React Server Components修補未經身分驗證RCE漏洞",
         "link": "https://www.ithome.com.tw/news/180810",
@@ -10,7 +87,7 @@
         "source": "iThome資安"
       },
       {
-        "title": "SecurityScorecard示警Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件與代理節點",
+        "title": "Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件發送與代理節點",
         "link": "https://www.ithome.com.tw/news/180809",
         "pubDate": "2026-11-26 11:37",
         "description": "暴露於公開網路的冷凍控制器遭攻擊者濫用，駭客疑似利用登入驗證漏洞入侵，部分設備遭劫持用於郵件發送、網路隧道閘道及住宅代理出口",
@@ -31,115 +108,38 @@
         "source": "iThome資安"
       },
       {
-        "title": "英國NCSC示警AI輔助網路攻擊顯著增加，駭客數分鐘內就可能利用企業既有資安弱點",
-        "link": "https://www.ithome.com.tw/news/180781",
-        "pubDate": "2026-11-26 08:00",
-        "description": "英國NCSC指出，自今年9月以來，AI輔助網路攻擊顯著增加，駭客利用AI代理式攻擊框架，從發現企業既有資安弱點到加以利用，可能僅需數分鐘。不過，目前觀測到的攻擊幾乎都能透過落實基本資安防護措施及零信任架構加以防範",
-        "source": "iThome資安"
-      },
-      {
-        "title": "盤點2027年七大供應鏈資安風險，企業防護範圍從開源軟體擴及AI模型與代理",
-        "link": "https://www.ithome.com.tw/news/180745",
-        "pubDate": "2026-11-26 08:00",
-        "description": "2027年攻擊者恐更頻繁鎖定軟體建置與部署流程發動供應鏈攻擊，也可能竄改AI模型權重，或在AI代理及其使用的工具中植入後門。此外，各國監管政策的變化也可能影響AI模型服務的可用性，進而衝擊企業營運",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Google擴充AI代理安全防護，新增執行前政策檢查機制",
-        "link": "https://www.ithome.com.tw/news/180723",
-        "pubDate": "2026-11-26 08:00",
-        "description": "Google推出AI代理語意治理政策預覽版，可在AI代理執行工具操作前，檢查是否符合使用者要求及企業政策，並阻擋違規操作。不過，這項功能目前不支援模型的串流回應，LLM判斷也可能出錯",
-        "source": "iThome資安"
-      },
-      {
-        "title": "ChatGPT開始合併Chat、Work，預定12月擴大部署",
-        "link": "https://www.ithome.com.tw/news/180807",
-        "pubDate": "2026-11-26  11:11:20",
-        "description": "OpenAI 11月宣布將合併對話(chat)、Work及Codex的token用量配額的計畫。在ChatGPT、Work本月稍早合併後，OpenAI官方公告開始針對部份用戶合併chat和Work，預定12月擴大部署",
+        "title": "臺南市探索無人載具應用於城市巡檢與消防救災，評估熱影像及氣體感測技術",
+        "link": "https://www.ithome.com.tw/news/180832",
+        "pubDate": "2026-11-26  06:11:25",
+        "description": "面對城市公共安全及災害應變需求，運用智慧科技協助現場人員掌握環境風險，已成為智慧城市發展的應用方向。臺南市政府近期與業者簽署合作備忘錄，將透過智慧無人載具技術交流及場域驗證，來評估將機器人應用於日常巡檢、消防救災、災害預防及場域數位化等市政工作。\n此次合作關注的應用之一，是利用搭載感測設備的巡檢機器人，協助人員掌握現場環境。依據市府公布的規劃，相關設備可搭載紅外線、熱影像及氣體感測器，偵測車輛異常高溫及危險氣體，並透過中控臺回傳現場資訊，讓管理人員及時掌握異常狀況，作為後續應變及處置的參考。",
         "source": "iThome"
       },
       {
-        "title": "紐約州長簽署禁止銷售AI聊天機器人玩具的5年禁令",
-        "link": "https://www.ithome.com.tw/news/180803",
-        "pubDate": "2026-11-26  10:11:58",
-        "description": "美國紐約州長Kathy Hochul周二（11/24）簽署一項為期5年的AI聊天機器人玩具禁令，禁止在紐約州製造、經銷及銷售內嵌AI聊天機器人的連網玩具，以保護兒童的身心健康及隱私，新法將於簽署後90天生效，違法業者每項違規行為每日最高可被處以1.5萬美元的罰款。",
+        "title": "導入AI省逾4.7萬工時，聖地牙哥市雲端部署從數月縮至數分鐘",
+        "link": "https://www.ithome.com.tw/news/180831",
+        "pubDate": "2026-11-26  06:11:15",
+        "description": "美國加州聖地牙哥市政府近日公布的內部數位轉型成效顯示，透過將生成式人工智慧（AI）工具普及至基層公務體系，並重整底層雲端網路架構，已實質縮減了行政作業與基礎設施部署的時間成本，為大型市政機關的營運效率帶來明顯改變。",
         "source": "iThome"
       },
       {
-        "title": "Claude新功能可將物件變成獨立Mac、Windows App",
-        "link": "https://www.ithome.com.tw/news/180804",
-        "pubDate": "2026-11-26  10:11:05",
-        "description": "Anthropic宣布今天開始，以beta版為Mac和Windows版Claude App部署一項功能，可輕鬆將Claude生成的物件轉成桌機版應用程式，擁有圖示和視窗，還能分享他人。",
+        "title": "澳洲立法強化AI聊天機器人與社群平臺安全責任，違規罰款可達全球營收5%",
+        "link": "https://www.ithome.com.tw/news/180825",
+        "pubDate": "2026-11-26  04:11:01",
+        "description": "澳洲國會11月25日通過數位注意義務（Digital Duty of Care）法案，要求社群媒體、線上遊戲、AI聊天機器人及其他受規範的數位服務業者，主動防範可能對使用者造成嚴重傷害的內容及行為，並降低服務功能造成傷害的風險。違反數位注意義務的企業，罰款上限為全球營收5%或1.092億澳元，取兩者較高金額。數位注意義務預計12個月後生效。",
         "source": "iThome"
       },
       {
-        "title": "SpaceX取得100萬顆衛星部署許可，以打造太空資料中心",
-        "link": "https://www.ithome.com.tw/news/180802",
-        "pubDate": "2026-11-26  09:11:07",
-        "description": "美國聯邦通訊委員會（Federal Communications Commission，FCC）周三（11/25）宣布，已核發美國史上首張太空資料中心星系部署許可，授權SpaceX部署多達100萬顆具備運算能力的衛星，打造名為Starmind的太空資料中心星系，以滿足超級智慧（Super Intelligence，SI）快速成長的運算需求。",
+        "title": "歐盟提出量子法案，力拚2030年成為全球量子技術領導者",
+        "link": "https://www.ithome.com.tw/news/180816",
+        "pubDate": "2026-11-26  01:11:40",
+        "description": "歐盟執委會（European Commission，EC）周三（11/25）提出《量子法案》（Quantum Act），希望加速量子技術的商業化、強化供應鏈及推動後量子密碼學的部署，同時規畫成立主權科技股權基金（Sovereign Tech Equity Fund），以支援歐盟關鍵技術的發展。",
         "source": "iThome"
       },
       {
-        "title": "數發部建立風險分級與內控制度，協助各部會展開AI治理",
-        "link": "https://www.ithome.com.tw/news/178458",
-        "pubDate": "2026-11-25 17:56",
-        "description": "數發部今年8月提出政府AI治理藍圖，強調AI導入不能只追求應用，也需建立風險管理制度。如今AI風險分類、分級內控及檢核機制已逐步落地，環境部等部會開始依循架構建立AI治理流程。隨著AI Agent發展，數發部也進一步研議身分、授權與責任歸屬等新治理議題。",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla修補收信軟體Thunderbird重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180799",
-        "pubDate": "2026-11-25 17:18",
-        "description": "Mozilla基金會推出收信軟體Thunderbird 161，總共修補115個資安漏洞，其中評為重大等級的CVE-2026-136226最值得留意，此弱點可讓Thunderbird顯示的寄件者與實際用來驗證OpenPGP數位簽章的身分不同，使郵件看起來像是由其他人合法簽署，增加釣魚及身分冒用風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Mozilla發布Firefox 161，修補110個漏洞",
-        "link": "https://www.ithome.com.tw/news/180798",
-        "pubDate": "2026-11-25 16:58",
-        "description": "Mozilla推出Firefox 161，並修補110個漏洞，其中超過一半的嚴重程度為高風險等級，用戶應儘速升級因應",
-        "source": "iThome資安"
-      },
-      {
-        "title": "CISA警告Drupal等3種應用系統的漏洞遭積極利用",
-        "link": "https://www.ithome.com.tw/news/180796",
-        "pubDate": "2026-11-25 16:17",
-        "description": "美國網路安全與基礎設施安全局（CISA）警告，Drupal、Idunno AntiCsrf、Optimizely Web Experimentation的資安漏洞遭積極利用，並要求聯邦機構緊急修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "葡萄王集團不到一個月兩度受委外廠商資安事件波及，子公司葡眾接獲統一資訊通知，加密會員資料遭異常存取",
-        "link": "https://www.ithome.com.tw/news/180795",
-        "pubDate": "2026-11-25 15:32",
-        "description": "上市生技公司葡萄王於11月24日發布資安重訊，揭露旗下子公司葡眾企業的加密會員資料遭未經授權存取，相關異常由委外服務廠商統一資訊發現並通知，目前尚未確認會員資料是否受影響，實際影響範圍仍待調查",
-        "source": "iThome資安"
-      },
-      {
-        "title": "黑貓宅急便委外系統廠商摩奇創意遭駭，統一速達指出部分預約寄件民眾個資外洩",
-        "link": "https://www.ithome.com.tw/news/180787",
-        "pubDate": "2026-11-25 15:00",
-        "description": "近期國內外物流產業接連傳出第三方服務供應商資安事件，國內黑貓宅急便也受到波及，統一速達表示，因委外系統廠商摩奇創意發生資安事件，導致部分透過官網預約寄件的民眾個資外洩，目前尚未公布受影響人數",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月25日，Broadcom修補VMware產品23個漏洞，含影響vCenter的身分驗證繞過重大漏洞",
-        "link": "https://www.ithome.com.tw/news/180793",
-        "pubDate": "2026-11-25 14:50",
-        "description": "繼稍早疑似遭中國駭客利用的CVE-2026-123890之後，VMware再次修補另一vCenter身分驗證繞過漏洞CVE-2026-123903，兩個漏洞均存在於VMware Directory Service",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Radware Cloud WAF內部管理API暴露於公開網路，部分客戶的雲端存取憑證恐已外洩",
-        "link": "https://www.ithome.com.tw/news/180780",
-        "pubDate": "2026-11-25 14:12",
-        "description": "資安媒體Bleeping Computer取得Radware的內部調查報告，揭露該公司雲端網頁應用防火牆（Cloud WAF）的管理API因暴露於公開網路且缺乏身分驗證，遭到未經授權存取，部分客戶的雲端存取憑證恐已外洩。已有客戶回報收到AWS異常存取警示，但截至該媒體刊出報導時，Radware尚未發布公開聲明",
-        "source": "iThome資安"
-      },
-      {
-        "title": "DeepMind推出AI可靠性評測，揭頂尖模型仍難穩定完成簡單任務",
-        "link": "https://www.ithome.com.tw/news/180797",
-        "pubDate": "2026-11-25  05:11:57",
-        "description": "Google DeepMind在AI與資料科學競賽平臺Kaggle推出大型語言模型基準測試Humanity’s First Exam（HFE），衡量AI模型能否穩定完成簡單的日常任務。",
+        "title": "JetBrains推出Go by GoLand擴充套件，讓Cursor與VS Code跨模組分析大型Go專案",
+        "link": "https://www.ithome.com.tw/news/180812",
+        "pubDate": "2026-11-26  01:11:32",
+        "description": "JetBrains推出Go by GoLand擴充套件公開預覽版，將原本整合於GoLand開發環境的部分功能帶入Cursor與VS Code，讓開發者不必更換編輯器，即可使用GoLand的程式碼導覽、分析、重構及除錯功能，支援包含多個模組的大型Go語言專案。\nGo by GoLand採用語言伺服器協定（LSP）及除錯協定（DAP），將程式碼分析及除錯功能與編輯器分離，讓不同開發工具可透過標準化介面取得語言分析結果及執行除錯操作。",
         "source": "iThome"
       }
     ],
@@ -166,45 +166,45 @@
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI、Anthropic 未發布模型強到難以控制？知情人士：許多員工不信能安全發布",
-        "link": "https://techorange.com/2026/11/25/anthropic-openai-unreleased-ai-safety-risks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 12:46:42 +0800",
-        "description": "《Axios》近日引述二十多名熟悉內部討論的知情人士報導，Anthropic 與 OpenAI 正面臨日益急迫的問題：兩家公司尚未發布的內部模型愈來愈強大，許多員工已不再相信這些模型能安全發布。知情人士表示，研究人員尚未找到控制最先進模型的技術方法，而 AI 系統的能力與人類控制能力之間的落差持續擴大，可能大幅拖慢 AI 熱潮。 根據知情人士的說法，模型在數學、科學、資安與 AI 研究等領域的推理能力快速進步，也讓這些模型在內部測試中難以、甚至無法被約束或控制。Anthropic 與 OpenA",
+        "title": "歐盟《量子法案》亮相，將搭配最高 500 億歐元主權科技基金押注 AI 與量子",
+        "link": "https://techorange.com/2026/11/26/u-quantum-act-sovereign-fund/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 18:33:05 +0800",
+        "description": "歐盟執委會（European Commission）正式公布長達 94 頁的《歐盟量子法案》（EU Quantum Act）完整草案，目標是把歐洲頂尖的量子研究實力，真正轉化為有競爭力的商業產業。 雖然這份草案目前還沒有編列實際的研發預算（需待 2028 年啟動的下一期長期預算案），而且送交歐洲議會與各國審議預計還要花上約兩年時間，但法案裡已經畫出兩大方向：「嚴格限制非歐盟供應鏈」與「強制採購抗量子資安產品」。對有意切入歐洲量子與資安供應鏈的台灣業者來說，等於提前預告了未來進入歐洲市場的門檻與新",
         "source": "TechOrange"
       },
       {
-        "title": "Anthropic 實測新版 Claude 仍有 2～3 成情境越出沙箱，導入 AI 代理還能加哪些防線？",
-        "link": "https://techorange.com/2026/11/25/anthropic-siren-ai-agent-honeypot/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 12:22:43 +0800",
-        "description": "AI 代理（AI agent）通常在沙箱（sandbox）中工作，也就是限制它能存取哪些檔案、工具與網路的隔離環境。如果沙箱設定留了漏洞，代理會不會自己走出去？Anthropic 美國時間 11/24 公布新評估 Siren，在 26 個刻意留下弱點的沙箱中，讓 Claude 代理執行例行維運任務，再於沙箱外放置憑證、重要檔案等誘餌（honeypot），而且題目從不授權它離開，藉此觀察它怎麼做。 7 月，Anthropic 清查評測紀錄後才揭露，Claude 曾在誤設為可連網的測試環境中，把真實",
+        "title": "AI 代理怎麼挑商品？a16z 實測逾 1.1 萬次：特定需求能翻轉首選，遇到登入牆就卡關",
+        "link": "https://techorange.com/2026/11/26/ai-b2a-economy-agents/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 17:38:31 +0800",
+        "description": "創投公司 Andreessen Horowitz（a16z）近日與販售 AI 代理可見度服務的新創 The Prompting Company 合作，以 1,270 個提示詞，對 xAI 的 Grok Bot、Meta 的 Muse、新創 Instinct 與 OpenAI 的 Dots 四款消費者 AI 代理（AI agent）完成 11,307 次測試，觀察代理如何挑選商品與軟體，並歸納出企業爭取代理青睞的五項做法。 a16z 認為，代理將愈來愈常影響人們購買哪些產品、使用哪些 App，以及",
         "source": "TechOrange"
       },
       {
-        "title": "只做身體、大腦讓客戶自己裝，Booster Robotics 想成為人形機器人界的 Android",
-        "link": "https://techorange.com/2026/11/25/booster-robotics/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 09:24:07 +0800",
-        "description": "要讓人形機器人上工，多數業者會同時自研機器人本體、控制機器人的 AI 與整合軟體，成本高、難度大，失敗的機會也多。中國人形機器人新創 Booster Robotics 則反其道而行，只做身體，「大腦」交給客戶自己挑選或開發。 只做身體，目標是當人形機器人界的 Android Booster Robotics 執行長 Clarence Huang 在里斯本科技大會 Web Summit 上表示，他們生產硬體，但不專注在軟體；在全球至少已有 470 款人形機器人的市場中，這是一項明顯的差異。 Boo",
+        "title": "FCC 首度放行太空資料中心：SpaceX 獲准部署百萬顆低軌 AI 衛星，規模達目前全球衛星總數近 60 倍",
+        "link": "https://techorange.com/2026/11/26/fcc-approves-spacex-orbital-datacenter/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 17:22:41 +0800",
+        "description": "美國聯邦通訊委員會（FCC）在 11 月 25 日正式宣布，有條件批准伊隆·馬斯克（Elon Musk）旗下 SpaceX 的「星際思維」（Starmind，暫譯）衛星星座計畫，准許其部署多達 100 萬顆具備人工智慧（AI）運算能力的軌道衛星。這是 FCC 首次點頭放行太空資料中心衛星星座，不僅將太空基礎設施與 AI 算力競賽推向新階段，也引來亞馬遜（Amazon）、衛訊公司（Viasat）與天文學界的公開反對。 鎖定太陽能供電，SpaceX 稱可緩解地面資料中心電力壓力 隨著 AI 模型與應",
         "source": "TechOrange"
       },
       {
-        "title": "誰在用 AI、Token 花多少都不清楚？極風雲創主張先做入口、控管與知識庫，Elastic 提醒資料先分類",
-        "link": "https://techorange.com/2026/11/25/twister5-elastic-enterprise-ai-governance/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 08:10:00 +0800",
-        "description": "專訪：沈貝怡撰稿：張哲瑋 企業導入 AI 的腳步很快，管理卻常常跟不上。《全新一週》主持人沈貝怡觀察，不少企業一開始以「野生式」的方式導入，鼓勵各部門自己想想 AI 能怎麼用，到後來才發現「搞不清楚、管不了」，還潛藏許多風險。她借用台灣製造業常說的缺水、缺電、缺工、缺地、缺人「五缺」，形容 AI 時代也出現了「新 AI 五缺」。 本集邀請極風雲創（Twister5）創辦人暨董事長張紘綱，與 Elastic 大中華區區域資深方案架構師陳賢博對談。張紘綱在 Juniper、Check Point、F",
+        "title": "內容平台不能再說自己只是「布告欄」：澳洲立法管推薦演算法，美國法院追究設計過失",
+        "link": "https://techorange.com/2026/11/26/australia-duty-of-care-platform-design-liability/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 16:25:28 +0800",
+        "description": "澳洲國會在澳洲時間 11/25 通過《網路安全修正（數位照護責任）法案》（Online Safety Amendment (Digital Duty of Care) Bill 2026，下稱《數位照護責任法》）。依通訊部長 Anika Wells 在澳洲時間 11/24 與綠黨達成的協議，民眾將取得「私人訴權」（private right of action），可以直接起訴違反照護責任（duty of care）的數位平台，不必只能依賴過失、消費者保護等較複雜的法律途徑；企業違反照護責任的罰款",
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】OpenAI 聯手 Cisco 推出開源資安工具！測試不重啟服務就能阻擋漏洞攻擊",
-        "link": "https://techorange.com/2026/11/25/openai-cisco-shirudo-ai-cybersecurity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊OpenAI 聯手 Cisco 推出開源資安工具，測試不重啟服務就能阻擋漏洞攻擊 OpenAI 與思科（Cisco）11 月 23 日共同推出開源專案 Shirudo，協助企業在 Linux 系統尚未完成漏洞修補前，先部署暫時性的防護措施。Shirudo 運用 Linux 的 eBPF 技術監控系統活動，讓 AI 代理協助分析漏洞、產生防護程式並進行測試，經管理人員核准後，無須重新啟動服務即可部署。在兩家公司公布的受控測試中，由 OpenAI ",
+        "title": "【Google Cloud 林書平專欄】企業部署 AI，如何兼顧數位主權與技術創新？",
+        "link": "https://techorange.com/2026/11/26/ai-digital-sovereignty-google-cloud/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 14:50:47 +0800",
+        "description": "文 / Google Cloud 台灣技術總經理 林書平 數位主權是近年全球產業關注的焦點之一，而八月底台灣剛落幕的 2026 科技主權高峰論壇中，在探討如何守護 AI 與數位主權之際，許多企業領導者也正面臨著相同的技術焦慮。這份焦慮源自於一個看似矛盾的營運兩難，多數組織仍受限於舊有思維，誤將「資料控管」與「創新技術」視為一場零和遊戲。就我觀察，數位主權早已不再單純作為國家層級的戰略議題，更是企業在部署 AI 時必須面臨的現實門檻。 企業部署 AI，必須重新思考三個層次的數位主權 對於有嚴格法規",
         "source": "TechOrange"
       },
       {
-        "title": "超車特斯拉！賓士成首家獲德國高階輔助駕駛認證車廠，取得 2027 歐盟部署先機",
-        "link": "https://techorange.com/2026/11/24/mercedes-beats-tesla-eu-self-driving-approval/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Tue, 24 Nov 2026 17:44:04 +0800",
-        "description": "隨著美、中車廠持續推動自動駕駛技術商業化，在自動駕駛與人工智慧領域落後於美、中兩國的歐洲，正成為智慧汽車與無人計程車（robotaxi）的新戰場。德國豪華車廠賓士（Mercedes-Benz）近日意外拔得頭籌，領先馬斯克（Elon Musk）旗下的特斯拉（Tesla），成為首家獲得德國政府認證點對點（涵蓋市區）輔助駕駛軟體的車廠。這項認證讓賓士得以在 2027 年於全歐盟部署該項技術，在歐洲自駕競賽中取得領先特斯拉的優勢。 獲 Level 2 輔助駕駛認證，賓士攜手輝達布局歐盟市場 據《金融時報",
+        "title": "測 AI 代理預測力，先別讓它偷看答案：Perplexity 推「時光機」，搜尋只看指定時間點前的網頁",
+        "link": "https://techorange.com/2026/11/26/perplexity-time-machine-ai-agents-past-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Thu, 26 Nov 2026 12:35:40 +0800",
+        "description": "美國時間 11/25，AI 搜尋公司 Perplexity 為開發者的 Search API 與 Context API 推出 Time Machine 功能：在請求中指定一個時間點，AI 代理（AI agent）就只能搜尋、讀取 Perplexity 在該時點以前存下的網頁副本。Perplexity 說明推出的原因：即時網路總是知道事情的結局，今天問 AI 代理在選舉或財報電話會議前已知哪些資訊，它會找到早已報導結果的網頁。 Perplexity 指出，衡量 AI 代理研究與推理能力的好方法之",
         "source": "TechOrange"
       },
       {
@@ -499,38 +499,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Now Google’s Familiar Faces AI feature works on Walmart’s $35 smart home camera too",
-        "link": "https://www.theverge.com/tech/1042938/google-home-familiar-faces-onn-cameras",
-        "pubDate": "2026-11-25T19:04:34-05:00",
-        "description": "A couple of Walmart's budget-friendly smart home cameras will be able to recognize people around your house now using Google's familiar face detection feature. A new Google Home update brings Familiar Faces support to the $35 Onn Outdoor Camera Plug-",
+        "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
+        "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-26T09:00:00-05:00",
+        "description": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the gam",
         "source": "TheVerge"
       },
       {
-        "title": "Amazon loses its latest attempt to get out of handling more recall notices",
-        "link": "https://www.theverge.com/tech/1042870/amazon-recall-order-cpsc",
-        "pubDate": "2026-11-25T18:56:44-05:00",
-        "description": "Amazon is on the hook to recall more than 400,000 hazardous products after losing its legal battle against the US Consumer Product Safety Commission (CPSC). The US District Court for the District of Maryland ruled in favor of the CPSC, which argued t",
+        "title": "Samsung’s R95H TV shows what RGB LED is capable of",
+        "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
+        "pubDate": "2026-11-26T09:00:00-05:00",
+        "description": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some o",
         "source": "TheVerge"
       },
       {
-        "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-        "link": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
-        "pubDate": "2026-11-25T16:51:26-05:00",
-        "description": "Last year, Google filed a patent for a system called My Channel that's designed to create feeds filled with personalized, AI-generated videos and advertisements based on information the company knows about its users. The patent has been rejected, but",
+        "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
+        "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
+        "pubDate": "2026-11-26T07:00:00-05:00",
+        "description": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway ",
         "source": "TheVerge"
       },
       {
-        "title": "The Verge’s 2026 holiday gift guide for travelers",
-        "link": "https://www.theverge.com/gadgets/1021917/best-gifts-for-travelers-2026",
-        "pubDate": "2026-11-25T16:48:00-05:00",
-        "description": "Everyone has that traveler in their life. That person who feels more at home on a 14-hour train ride than a quiet Sunday on the couch. They speak multiple languages, have a gut like a goat, and make friends wherever they go. Whether they're your kind",
+        "title": "X is finally getting its first parental controls",
+        "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
+        "pubDate": "2026-11-26T05:45:50-05:00",
+        "description": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spe",
         "source": "TheVerge"
       },
       {
-        "title": "WhatsApp’s new scheduled messages let you choose the right time to send",
-        "link": "https://www.theverge.com/tech/1042532/whatsapp-scheduled-messages",
-        "pubDate": "2026-11-25T15:31:48-05:00",
-        "description": "WhatsApp's 3 billion users are getting an option that Meta says is one of the most requested features, with the ability to schedule messages in advance for both private conversations and group chats. Most messaging platforms have had this for a very ",
+        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+        "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+        "pubDate": "2026-11-26T04:54:40-05:00",
+        "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning t",
         "source": "TheVerge"
       }
     ],
