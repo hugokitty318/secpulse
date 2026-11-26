@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-26T14:25:23.458897Z",
+  "ts": "2026-11-26T23:16:39.262288Z",
   "tabs": {
     "cn_sec": [
       {
@@ -159,13 +159,6 @@
         "source": "TechOrange"
       },
       {
-        "title": "前 xAI 共同創辦人成立新創 Epochal，推「時間傳送門」訓練 AI 預測未來",
-        "link": "https://techorange.com/2026/11/25/ex-xai-founders-launch-epochal-time-portal/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 14:48:28 +0800",
-        "description": "三位前 xAI 共同創辦人張國棟（Guodong Zhang）、戴子航（Zihang Dai）與曼努埃爾·克羅伊斯（Manuel Kroiss），近日宣布成立全新 AI 新創公司 Epochal，並推出首款產品 Time Portal（時間傳送門）。據《Bloomberg》報導，張國棟已個人注資 1 億美元，目前尚未公布其他投資人名單。除馬斯克（Elon Musk）外，xAI 其餘共同創辦人均已相繼離職。另一位共同創辦人伊戈爾·巴布什金（Igor Babuschkin）亦於今年 8 月為其新創 ",
-        "source": "TechOrange"
-      },
-      {
         "title": "歐盟《量子法案》亮相，將搭配最高 500 億歐元主權科技基金押注 AI 與量子",
         "link": "https://techorange.com/2026/11/26/u-quantum-act-sovereign-fund/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
         "pubDate": "Thu, 26 Nov 2026 18:33:05 +0800",
@@ -248,6 +241,13 @@
         "pubDate": "Thu, 26 Nov 2026 05:30:00 +0800",
         "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電向德州申請減稅！評估 226 億美元晶圓廠投資 台積電（TSMC）美國擴產計畫有了新進展。根據德州布拉索斯郡政府公告，台積電美國子公司於 11 月 23 日提出租稅優惠申請，評估在當地投資 226 億美元興建晶圓廠，採用 2 奈米或更先進製程，生產 AI、高效能運算及行動裝置晶片。德州主計長辦公室已建議將申請案交由州長及當地學區審議，學區董事會將於 12 月 10 日舉行公聽會，討論是否提供為期 10 年的特定房產課稅價值限制。台積電已證",
         "source": "TechOrange"
+      },
+      {
+        "title": "【科技早餐】美國 AI 晶片管制衝擊亞洲融資！66 億美元資料中心貸款案傳延宕",
+        "link": "https://techorange.com/2026/11/27/us-ai-chip-curbs-asia-data-center-financing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 05:30:00 +0800",
+        "description": "【科技早餐】今天精選 6 則國內外重要科技新聞。 ＊美國 AI 晶片管制衝擊亞洲融資！66 億美元資料中心貸款案傳延宕 《Bloomberg》11 月 25 日報導，美國擴大 AI 晶片出口管制後，亞洲銀行正重新審查涉及字節跳動、阿里巴巴與騰訊等中國科技企業的資料中心融資案。美國私募基金貝恩資本（Bain Capital）旗下的 Bridge Data Centres 正尋求將貸款規模擴大至 66 億美元，旗下馬來西亞資料中心的客戶包括字節跳動。據知情人士透露，部分放款機構已暫緩推進貸款，進一步",
+        "source": "TechOrange"
       }
     ],
     "en_sec": [
@@ -329,13 +329,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
-        "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
-        "pubDate": "Wed, 25 Nov 2026 11:51:12 +0530",
-        "description": "WordPress has removed six WordPress plugins developed by WP Connect after they were backdoored on November 22, 2026, to enable arbitrary code execution on sites that have them installed, following a suspected compromise of the developer's account.\n\nT",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
         "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
         "pubDate": "Wed, 25 Nov 2026 11:13:40 -0500",
@@ -385,10 +378,17 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-        "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
-        "pubDate": "Tue, 24 Nov 2026 22:24:07 +0530",
-        "description": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus.\n\nCentral to the group's operations is a backdoor called KuboShell that us",
+        "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+        "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+        "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530",
+        "description": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.\n\n\"The loader hides in a small utils package or i",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+        "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+        "pubDate": "Thu, 26 Nov 2026 16:27:55 +0530",
+        "description": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.\n\nAt Push Security, ",
         "source": "TheHackerNews"
       }
     ],
@@ -464,73 +464,73 @@
         "source": "TechCrunch"
       },
       {
-        "title": "X’s latest update for creators focuses on vertical video",
-        "link": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
-        "pubDate": "Wed, 25 Nov 2026 17:28:29 +0000",
-        "description": "As short-form video ramps up in popularity, X's new creation tools are part of its effort to compete with YouTube and Instagram.",
+        "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+        "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+        "pubDate": "Thu, 26 Nov 2026 20:03:54 +0000",
+        "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
         "source": "TechCrunch"
       },
       {
-        "title": "WhatsApp now lets you schedule messages in group and individual chats",
-        "link": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
-        "pubDate": "Wed, 25 Nov 2026 16:57:51 +0000",
-        "description": "Users can schedule messages from 10 minutes later to after 14 days.",
+        "title": "Is Alice Huang a spy or not?",
+        "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
+        "pubDate": "Thu, 26 Nov 2026 20:00:00 +0000",
+        "description": "The central, still-unproven claim in the Nvidia scandal is that Alice Huang, the former Megaspeed exec with whom Nvidia CEO Jensen Huang had an extramarital affair, is a Chinese spy.",
         "source": "TechCrunch"
       },
       {
-        "title": "Allstate suffers multiday tech outage ahead of Thanksgiving",
-        "link": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
-        "pubDate": "Wed, 25 Nov 2026 15:08:37 +0000",
-        "description": "The disruption comes at a particularly bad time for the insurance giant, as millions of Americans prepare to travel for the Thanksgiving holiday weekend.",
+        "title": "X finally gets parental controls after 20 years",
+        "link": "https://techcrunch.com/2026/11/26/x-finally-gets-parental-controls-after-20-years/",
+        "pubDate": "Thu, 26 Nov 2026 19:31:50 +0000",
+        "description": "Elon Musk's social network X has finally added parental controls for teenagers, giving parents and guardians a way to manage what their kids see on the platform.",
         "source": "TechCrunch"
       },
       {
-        "title": "Todoist confirms 6% of customers’ details were stolen in data breach",
-        "link": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
-        "pubDate": "Wed, 25 Nov 2026 14:20:28 +0000",
-        "description": "Todoist said a hacker gained access to its production systems and stole customer data, including email IDs, password hashes, and account creation dates.",
+        "title": "A month with the iPhone Duo has changed how I use my phone",
+        "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+        "pubDate": "Thu, 26 Nov 2026 17:00:00 +0000",
+        "description": "From reading more books to breaking mindless scrolling habits, Apple's foldable has changed my daily routines in ways I didn't anticipate.",
         "source": "TechCrunch"
       },
       {
-        "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-        "link": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
-        "pubDate": "Wed, 25 Nov 2026 14:10:18 +0000",
-        "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+        "link": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+        "pubDate": "Thu, 26 Nov 2026 16:00:00 +0000",
+        "description": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
         "source": "TechCrunch"
       },
       {
-        "title": "Here’s where you can save (a little) on the Ocarina of Time remake",
-        "link": "https://www.theverge.com/gadgets/1040110/zelda-ocarina-of-time-switch-2-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-26T09:00:00-05:00",
-        "description": "A lot of people have The Legend of Zelda: Ocarina of Time for the Nintendo Switch 2 on their holiday wishlist. In case you haven’t bought it yet, I wanted to share some small but welcome deals happening on the physical and digital versions of the gam",
+        "title": "Netflix’s coziest show has made a very quiet return",
+        "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
+        "pubDate": "2026-11-26T16:00:00-05:00",
+        "description": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-progr",
         "source": "TheVerge"
       },
       {
-        "title": "Samsung’s R95H TV shows what RGB LED is capable of",
-        "link": "https://www.theverge.com/tech/1042613/samsung-r95h-rgb-led-tv-review",
-        "pubDate": "2026-11-26T09:00:00-05:00",
-        "description": "RGB LED TVs finally became affordable in 2026, and there's always a lot of promise when new TV technologies come out. More color, higher brightness, improved performance - RGB LED TVs have a lot to prove. The Samsung R95H does a lot to deliver some o",
+        "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
+        "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
+        "pubDate": "2026-11-26T14:00:00-05:00",
+        "description": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I review",
         "source": "TheVerge"
       },
       {
-        "title": "Waymo conquered city streets — why does it keep stumbling on freeways?",
-        "link": "https://www.theverge.com/transportation/1042151/waymo-highway-ban-ai-safety-recalls",
-        "pubDate": "2026-11-26T07:00:00-05:00",
-        "description": "Most people know not to try to pass highway patrol cars while performing a traffic break on a freeway. But on November 6th, a driverless Waymo on Interstate 280 failed that test. Video shows the robotaxi attempting to overtake two California Highway ",
+        "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-26T12:07:00-05:00",
+        "description": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, ",
         "source": "TheVerge"
       },
       {
-        "title": "X is finally getting its first parental controls",
-        "link": "https://www.theverge.com/news/1043078/x-parental-controls-features",
-        "pubDate": "2026-11-26T05:45:50-05:00",
-        "description": "X is finally rolling out parental controls that allow parents and guardians to manage teens' accounts on the platform. While teens will retain ownership of their own account, parents and guardians will be able to see how much time their child has spe",
+        "title": "Android app developers will soon have to share their address publicly",
+        "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
+        "pubDate": "2026-11-26T12:06:24-05:00",
+        "description": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations",
         "source": "TheVerge"
       },
       {
-        "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-        "link": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
-        "pubDate": "2026-11-26T04:54:40-05:00",
-        "description": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings. In a deluge of nearly identical press releases, the various AGs accuse the company of planning t",
+        "title": "The best Black Friday deals we’ve already found",
+        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
+        "pubDate": "2026-11-26T11:55:00-05:00",
+        "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with price",
         "source": "TheVerge"
       }
     ],
