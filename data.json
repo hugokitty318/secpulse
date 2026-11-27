@@ -1,7 +1,77 @@
 {
-  "ts": "2026-11-27T05:19:46.907195Z",
+  "ts": "2026-11-27T15:33:34.142047Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "日本摩斯漢堡不到一個月揭露5起資安事件，皆涉及第三方服務",
+        "link": "https://www.ithome.com.tw/news/180862",
+        "pubDate": "2026-11-27 21:26",
+        "description": "日本摩斯漢堡不到一個月接連發布5起涉及第三方服務或委外維運系統的資安事件公告，涉及預付卡、社群行銷、物流配送、電子郵件發送及網路訂餐等業務所使用的第三方服務及委外維運系統，其中電子郵件發送服務商Arara遭駭造成的影響最大，導致逾751萬筆摩斯網路會員資料外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "AI治理從制度走向安全驗證，BSI解析ISO/IEC 27090與42119新進展，強調企業須跨部門管理AI風險",
+        "link": "https://www.ithome.com.tw/news/180834",
+        "pubDate": "2026-11-27 21:01",
+        "description": "針對AI治理議題，BSI英國標準協會近日於「2026 BSI國際標準管理年會」數位信任論壇上，介紹AI安全標準與治理驗證的最新進展，包括今年10月發布的ISO/IEC 27090、持續發展中的ISO/IEC 42119系列AI測試標準，以及AIFF治理框架與AI MoT信賴標誌，也探討企業落實AI治理的挑戰",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安週報】1123～1127，網銀盜轉手法曝光，第三方資訊服務供應商資安事件延燒至物流與電子發票服務",
+        "link": "https://www.ithome.com.tw/news/180857",
+        "pubDate": "2026-11-27 16:58",
+        "description": "回顧2026年11月第四週的資安動態，國內網銀盜轉及第三方資訊服務供應商資安事件持續受到關注。AI資安方面，傳統釣魚攻擊可能因AI代理應用而擴大衝擊，第三方AI推論服務也傳出提示詞外洩事件。資安產業則迎來史上最大併購案，CrowdStrike宣布以439億美元併購Zscaler",
+        "source": "iThome資安"
+      },
+      {
+        "title": "假求職測驗暗藏惡意NuGet套件，駭客藉開發人員應徵流程散布惡意軟體",
+        "link": "https://www.ithome.com.tw/news/180860",
+        "pubDate": "2026-11-27 16:30",
+        "description": "鎖定求職的軟體開發人員的攻擊蔓延到NuGet套件儲存庫！資安公司Socket揭露將惡意程式碼包裝成NuGet套件的攻擊活動，駭客誘使應徵者在本機開發環境執行測驗程式碼，藉此入侵開發人員設備",
+        "source": "iThome資安"
+      },
+      {
+        "title": "北韓駭客從事供應鏈攻擊PolinRider，污染逾375個GitHub儲存庫以散布惡意軟體",
+        "link": "https://www.ithome.com.tw/news/180858",
+        "pubDate": "2026-11-27 16:04",
+        "description": "資安公司SafeDep揭露，北韓駭客將惡意軟體攻擊活動PolinRider擴大至Python專案，透過GitHub儲存庫植入僅58行的Python載入程式，利用以太坊區塊鏈交易資料取得惡意JavaScript，再連線至C2伺服器下載後續程式碼，研究人員已在375個公開儲存庫發現相關程式碼，涉及260個GitHub帳號",
+        "source": "iThome資安"
+      },
+      {
+        "title": "SYS010竊資攻擊濫用瀏覽器管理功能，可攔讀並刪除Gmail與Outlook郵件",
+        "link": "https://www.ithome.com.tw/news/180855",
+        "pubDate": "2026-11-27 15:37",
+        "description": "SYS010攻擊活動鎖定Meta企業帳號，駭客藉免費動態桌布軟體散布惡意程式，強制安裝竊資擴充套件，其中Chrome版本可竊取郵件及永久刪除安全警示，藉此掩蓋帳號遭入侵的跡象",
+        "source": "iThome資安"
+      },
+      {
+        "title": "MiCollab漏洞修補前已遭利用，攻擊者約在1小時取得網域控制權限",
+        "link": "https://www.ithome.com.tw/news/180854",
+        "pubDate": "2026-11-27 15:12",
+        "description": "Accenture揭露鎖定Mitel企業整合通訊與協作系統MiCollabu零時差漏洞攻擊，攻擊者藉此在1個小時的時間滲透受害組織的內部網路環境，最終入侵備份伺服器及企業資料庫竊取資料。值得留意的是，相關攻擊活動正好出現在Mitel發布修補程式的前一天",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美國鈾礦場因資安事件暫停運作",
+        "link": "https://www.ithome.com.tw/news/180852",
+        "pubDate": "2026-11-27 14:51",
+        "description": "澳洲礦業公司Peninsula Energy證實，旗下位於美國懷俄明州的Lance鈾礦場發生資安事件。由於事件涉及礦場作業與控制系統，業者緊急採取防護措施，並偕同外部資安及數位鑑識專家展開調查",
+        "source": "iThome資安"
+      },
+      {
+        "title": "【資安日報】11月27日，中國及北韓駭客皆已於武器庫中加入ARTEX",
+        "link": "https://www.ithome.com.tw/news/180851",
+        "pubDate": "2026-11-27 14:48",
+        "description": "微軟揭露，至少6個駭客組織已開始利用AI自主滲透測試框架ARTEX發動攻擊，包括來自中國及北韓的駭客。在微軟觀察到的一起攻擊中，AI代理人從搜尋GitHub上的外洩憑證，到竊取Azure Key Vault資料，前後僅花了5分鐘",
+        "source": "iThome資安"
+      },
+      {
+        "title": "美CIA等情報機構傳遭駭，外洩非機密資料",
+        "link": "https://www.ithome.com.tw/news/180850",
+        "pubDate": "2026-11-27 14:43",
+        "description": "美國CIA等3家情報機構傳遭駭。據媒體引述消息人士報導，駭客疑似利用可自動執行多階段攻擊的AI工具ARTEX，入侵公開來源情報分析系統，這起事件可能與中國有關",
+        "source": "iThome資安"
+      },
       {
         "title": "WPIDE修補未經驗證遠端程式碼執行漏洞，未更新可能導致管理員遭誘使執行惡意PHP",
         "link": "https://www.ithome.com.tw/news/180848",
@@ -38,94 +108,24 @@
         "source": "iThome資安"
       },
       {
-        "title": "日本JAXA網站遭駭，2,000名用戶帳密外洩",
-        "link": "https://www.ithome.com.tw/news/180839",
-        "pubDate": "2026-11-27 10:24",
-        "description": "日本宇宙航空研究開發機構（JAXA）旗下衛星觀測資料網站遭駭，攻擊者利用指令注入漏洞植入後門程式，導致2,000名用戶的帳號名稱及加密密碼外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "研究人員揭露已遭利用的Drupal重大漏洞Fail2Install細節",
-        "link": "https://www.ithome.com.tw/news/180838",
-        "pubDate": "2026-11-27 10:22",
-        "description": "資安公司Searchlight Cyber公布Drupal重大漏洞CVE-2026-132165（Fail2Install）細節，指出Drupal核心的安裝程序存在能繞過系統防護機制的攻擊鏈，且無論Drupal搭配的資料庫與網頁伺服器架構，都有可能存在風險",
-        "source": "iThome資安"
-      },
-      {
-        "title": "中國及北韓駭客皆已於武器庫中加入ARTEX",
-        "link": "https://www.ithome.com.tw/news/180835",
-        "pubDate": "2026-11-27 10:02",
-        "description": "微軟揭露，至少6個駭客組織已開始利用AI自主滲透測試框架ARTEX發動攻擊，包括來自中國及北韓的駭客。在微軟觀察到的一起攻擊中，駭客利用AI代理人搜尋外洩憑證到竊取Azure Key Vault資料，前後僅花了5分鐘",
-        "source": "iThome資安"
-      },
-      {
-        "title": "雲端安全聯盟提出AI治理框架整合指引，強調模型安全測試與執行過程可追溯性",
-        "link": "https://www.ithome.com.tw/news/180801",
-        "pubDate": "2026-11-27 08:00",
-        "description": "雲端安全聯盟（CSA）提出3套AI治理框架的整合做法，建議企業及早納入模型安全措施，定期進行安全測試，建立追蹤機制，以利查明AI系統的執行過程及各項作業所使用的身分，並分階段部署AI系統",
-        "source": "iThome資安"
-      },
-      {
-        "title": "BeyondTrust預測2027年企業資安新挑戰，AI代理權限遭濫用，對外開放系統重大漏洞應變時間縮短至數小時",
-        "link": "https://www.ithome.com.tw/news/180760",
-        "pubDate": "2026-11-27 08:00",
-        "description": "企業若授予AI代理過多權限，恐讓攻擊者有機可乘，而這些權限若透過委派延伸至其他企業，也將帶來新的供應鏈風險。隨著AI加速漏洞挖掘，對外開放系統的重大漏洞可能在公開揭露後數小時內就遭到利用，企業也須重新檢視漏洞管理、資安維運及AI治理模式",
-        "source": "iThome資安"
-      },
-      {
-        "title": "義大利、瑞士示警AI代理式攻擊，籲24小時內修補對外系統漏洞",
-        "link": "https://www.ithome.com.tw/news/180821",
-        "pubDate": "2026-11-27 08:00",
-        "description": "義大利發現駭客運用多個AI代理同時執行攻擊任務，部分案例中，短短數小時內就入侵大量系統。瑞士也首度確認AI代理式攻擊案例，受害對象包括關鍵基礎設施營運業者，並建議企業於重大安全更新發布後24小時內完成對外系統修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
-        "link": "https://www.ithome.com.tw/news/180847",
-        "pubDate": "2026-11-27  12:11:54",
-        "description": "美國加州及伊利諾州等42名檢察長周二（11/24）宣布，已聯手向破產法院提出異議，反對AI聊天機器人業者Character.AI於12月1日拍賣旗下平臺及逾2,100萬個美國用戶帳號的私人聊天紀錄，其中有超過210萬個帳號由未成年人註冊，且擬議交易並未提供任何用戶隱私保障措施。",
+        "title": "西班牙要求大型資料中心符合能源與水效率標準，強化AI算力基礎建設的永續監管",
+        "link": "https://www.ithome.com.tw/news/180859",
+        "pubDate": "2026-11-27  06:11:32",
+        "description": "西班牙政府近期通過《Real Decreto 1032/2026》，以規範資料中心的能源永續、環境要求、韌性與數位主權條件，並由西班牙生態轉型與人口挑戰部（MITECO）公布相關內容。新的法規要求大型資料中心必須符合新的能源與環境標準，才能取得電網接入資格，適用對象包括電力容量超過10MW的資料中心。",
         "source": "iThome"
       },
       {
-        "title": "香帥蛋糕、一事製菓揭露資安事件，電子發票服務商PayNow對外API遭異常存取，波及500商家",
-        "link": "https://www.ithome.com.tw/news/180833",
-        "pubDate": "2026-11-26 21:08",
-        "description": "電子發票加值服務平臺PayNow遭未經授權存取，已有初步調查結果，該公司表示約500家商家受到影響，涉及約281萬張不重複電子發票資料外洩，近日已有香帥蛋糕、一事製菓等品牌業者陸續發布公告，提醒消費者慎防冒名詐騙",
-        "source": "iThome資安"
-      },
-      {
-        "title": "美國財政部金融犯罪執法局遭入侵，反洗錢批次申報服務中斷",
-        "link": "https://www.ithome.com.tw/news/180830",
-        "pubDate": "2026-11-26 18:04",
-        "description": "美國財政部金融犯罪執法局（FinCEN）遭入侵，導致金融機構批次申報服務中斷，美國財政部已聯合FBI及CISA調查事件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "地理資訊伺服器GeoServer漏洞遭串連用於攻擊活動",
-        "link": "https://www.ithome.com.tw/news/180829",
-        "pubDate": "2026-11-26 17:36",
-        "description": "開源地理資訊伺服器GeoServer近期修補的資安漏洞CVE-2026-120705、CVE-2026-129243，傳出遭串連用於實際攻擊，資安公司watchTowr呼籲用戶應儘速修補",
-        "source": "iThome資安"
-      },
-      {
-        "title": "WordPress攔截6款遭植入後門的外掛程式，起因疑為開發者帳號遭盜用",
-        "link": "https://www.ithome.com.tw/news/180828",
-        "pubDate": "2026-11-26 16:38",
-        "description": "WordPress於11月22日成功攔截6款WP Connect開發的外掛程式新版本發布，起因是這些外掛遭植入後門程式，攻擊者可透過後門遠端執行PHP程式碼、下達Shell命令、竊取密碼雜湊及植入Webshell，一旦正式上架，恐影響超過3,600個已安裝舊版外掛的網站",
-        "source": "iThome資安"
-      },
-      {
-        "title": "臺南市探索無人載具應用於城市巡檢與消防救災，評估熱影像及氣體感測技術",
-        "link": "https://www.ithome.com.tw/news/180832",
-        "pubDate": "2026-11-26  06:11:25",
-        "description": "面對城市公共安全及災害應變需求，運用智慧科技協助現場人員掌握環境風險，已成為智慧城市發展的應用方向。臺南市政府近期與業者簽署合作備忘錄，將透過智慧無人載具技術交流及場域驗證，來評估將機器人應用於日常巡檢、消防救災、災害預防及場域數位化等市政工作。\n此次合作關注的應用之一，是利用搭載感測設備的巡檢機器人，協助人員掌握現場環境。依據市府公布的規劃，相關設備可搭載紅外線、熱影像及氣體感測器，偵測車輛異常高溫及危險氣體，並透過中控臺回傳現場資訊，讓管理人員及時掌握異常狀況，作為後續應變及處置的參考。",
+        "title": "印度主權AI計畫再添新成果，Chariot-1從零訓練強化多語言能力",
+        "link": "https://www.ithome.com.tw/news/180856",
+        "pubDate": "2026-11-27  03:11:32",
+        "description": "印度電子資訊科技部（MeitY）於11月26日宣布，由Chariot Artificial Intelligence開發的Chariot-1 Foundation Models正式推出。該模型是在印度政府推動主權AI計畫IndiaAI Mission支持下發展，Chariot Artificial Intelligence也是首批獲選開發主權基礎模型（Sovereign Foundation Models）的團隊之一。",
         "source": "iThome"
       },
       {
-        "title": "導入AI省逾4.7萬工時，聖地牙哥市雲端部署從數月縮至數分鐘",
-        "link": "https://www.ithome.com.tw/news/180831",
-        "pubDate": "2026-11-26  06:11:15",
-        "description": "美國加州聖地牙哥市政府近日公布的內部數位轉型成效顯示，透過將生成式人工智慧（AI）工具普及至基層公務體系，並重整底層雲端網路架構，已實質縮減了行政作業與基礎設施部署的時間成本，為大型市政機關的營運效率帶來明顯改變。",
+        "title": "OpenAI修正GPT-6.2計費系統錯誤，Astra、Sol模型將更快用罄使用限額",
+        "link": "https://www.ithome.com.tw/news/180853",
+        "pubDate": "2026-11-27  03:11:04",
+        "description": "OpenAI週四（11月26日）通知，稍早GPT-6.2的計費系統錯誤已修正，將讓Astra、Sol兩個頂級模型更快用完token使用限額。\nOpenAI解釋，稍早的錯誤導致大多數用戶使用GPT-6.2 Astra和Sol時消耗的用量配額低於原本應計入的額度。現在錯誤已修正，因此同樣的工作將消耗更多用量配額。和上週相比，Astra用完配額的速度將加快40%，而Sol則加快25%。",
         "source": "iThome"
       }
     ],
@@ -166,45 +166,45 @@
         "source": "TechOrange"
       },
       {
-        "title": "測 AI 代理預測力，先別讓它偷看答案：Perplexity 推「時光機」，搜尋只看指定時間點前的網頁",
-        "link": "https://techorange.com/2026/11/26/perplexity-time-machine-ai-agents-past-web/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 12:35:40 +0800",
-        "description": "美國時間 11/25，AI 搜尋公司 Perplexity 為開發者的 Search API 與 Context API 推出 Time Machine 功能：在請求中指定一個時間點，AI 代理（AI agent）就只能搜尋、讀取 Perplexity 在該時點以前存下的網頁副本。Perplexity 說明推出的原因：即時網路總是知道事情的結局，今天問 AI 代理在選舉或財報電話會議前已知哪些資訊，它會找到早已報導結果的網頁。 Perplexity 指出，衡量 AI 代理研究與推理能力的好方法之",
+        "title": "美國算力管制與反蒸餾雙重夾擊：傳中國 AI 旗艦模型恐延宕，月之暗面取消印尼交易轉向歐洲租算力",
+        "link": "https://techorange.com/2026/11/27/us-curbs-delay-china-ai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 19:02:42 +0800",
+        "description": "美國商務部工業暨安全局（BIS）於 2026 年 11 月 19 日正式發布並實施臨時最終規則（Interim Final Rule, IFR）《Addressing Remote Access to Advanced Semiconductors》，將算力管制延伸至海外資料中心。與此同時，綜合《Reuters》與相關外媒報導，OpenAI 與 Anthropic 也同步收緊針對「模型蒸餾（Distillation）」的技術防線。在硬體算力租賃與訓練資料取得雙重受限下，智譜 AI（Z.AI）與月",
         "source": "TechOrange"
       },
       {
-        "title": "美 301 新關稅點名台灣等 14 個經濟體，台灣政府：有信心維持 15%、協議不重談",
-        "link": "https://techorange.com/2026/11/26/new-tariffs-14-trading-partners-fight-excess-factory-capacity/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 12:04:30 +0800",
-        "description": "美國總統川普的共和黨雖在期中選舉失利，川普政府仍再度祭出新一波關稅。美國貿易代表署（Office of the United States Trade Representative，USTR）近日針對中國、日本、歐盟、台灣等 14 個主要貿易夥伴，提出最高潛在稅率 20% 至 40% 的新關稅，以對抗美方指這些國家助長的工業產能過剩。不過，USTR 表示，打算將新關稅上限控制在已完成或仍在協商中的貿易協議所議定的較低水準。台灣政府則表示，有信心維持先前與美方談定的 15% 關稅，既有協議也不會重",
+        "title": "Volvo 首度在工廠導入人形機器人：比利時廠訓練 AEON，2027 年中拚投產",
+        "link": "https://techorange.com/2026/11/27/volvo-cars-trains-hexagon-robotics-humanoids-manufacturing/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 18:33:08 +0800",
+        "description": "Volvo Cars 近日宣布，已在比利時根特（Ghent）工廠導入瑞典科技集團 Hexagon 旗下機器人部門 Hexagon Robotics 的人形機器人 AEON，在真實工業任務中進行訓練與驗證，希望協助員工處理重複性高、不符人體工學的工作。根特是 Volvo Cars 第一座試用人形機器人的工廠，AEON 目前與員工及既有自動化設備一起學習，2027 年上半年將展開工廠試行，目標是從 2027 年年中起投入正式生產作業。 Volvo Cars 表示，這項計畫是為了讓製造更安全、更有彈性",
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI 以 AI 設計電路、亞馬遜收購跨晶片最佳化技術，為半導體設計與軟體競爭帶來哪些新變數？",
-        "link": "https://techorange.com/2026/11/26/ai-chip-design-software-optimization/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 10:52:24 +0800",
-        "description": "對於特殊應用積體電路（ASIC）設計服務、雲端服務供應商（CSP）晶片部門與電子設計自動化（EDA）業者而言，科技巨頭透過自研晶片分散硬體供應風險，已是近年業界熟知的趨勢。 然而，綜觀近期浮現的多項產業動態——包括微軟（Microsoft）公布 Maia 晶片部署藍圖、OpenAI 揭露自研晶片「Jalapeño」的研發進展，以及與超微（AMD）改良旗艦 GPU IP 的合作成果、亞馬遜（Amazon）收購以色列新創 Decart 的技術與團隊，以及西門子（Siemens EDA）與台積電（TS",
+        "title": "機器人 ChatGPT 時刻何時爆發？工研院、微軟、NVIDIA 深度拆解三個關鍵",
+        "link": "https://techorange.com/2026/11/27/hhtd26-foxconn-itri-microsoft-nvidia/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 14:23:27 +0800",
+        "description": "Foxconn 鴻海科技集團與 TechOrange 科技報橘日前於「HHTD 鴻海科技日」聯合舉辦「台灣 AI 機器人產業開發大會」，其中的壓軸對談邀請到工研院副院長胡竹生、台灣微軟資深策略業務發展總監章恩齊，與 NVIDIA 資深解決方案架構師劉冠良共同探討「AI Robot 的GPT 時刻何時爆發？」，歸納整場對談內容，若機器人要迎來 ChatGPT 時刻，至少有三個關鍵，而每一道關鍵，都藏著台灣的機會。 第一個關鍵：機器人的大腦 胡竹生指出，雲端大模型雖然進展快速，但要落地到機器人身上，",
         "source": "TechOrange"
       },
       {
-        "title": "IT 維運如何跟上 AI 應用迭代速度？HPE 和凌羣攜手合作推廣標準化託管服務，釋放企業 IT 創新潛能",
-        "link": "https://techorange.com/2026/11/26/hpe-syscom-mananged-service/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 10:30:00 +0800",
-        "description": "企業導入 AI 的速度正在加快，當所有目光都集中在前端應用成果時，往往容易忽略後端基礎架構（Infrastructure）所承受的維運壓力。AI 開發團隊可能每三、四個月就要測試新專案，傳統 IT 部門首要任務則是確保系統每天穩定運作、不能當機。隨著新應用持續增加，既有基礎架構的管理複雜度與維運負擔也隨之提升。 面對「前端求快、後端求穩」的矛盾，凌羣電腦總經理劉瑞隆認為，企業需要重新檢視既有模式。HPE（慧與科技）與凌羣攜手合作，為企業提供 Managed Services（託管服務），結合專業",
+        "title": "小鵬人形機器人明年量產、先當門市店員，顧宏地：商用站穩後 1～2 年才考慮進家庭",
+        "link": "https://techorange.com/2026/11/27/xpeng-iron-humanoid-household-chores-china-gap/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 14:18:33 +0800",
+        "description": "中國電動車廠小鵬汽車 11/25 在廣州科技日展示新一代人形機器人 IRON，計畫明年先讓它在自家汽車門市以店員身分受訓。至於何時能走進一般家庭，小鵬聯席總裁顧宏地（Brian Gu）11/26 接受《CNBC》訪問時表示：「也許在成功部署到商用場域之後，大概再一兩年，我們就能開始考慮部署到家庭環境。」他也說，技術正快速推進。 小鵬描繪的是一條從門市走向家庭的路線。不過放大到整個產業，中國廠商的人形機器人出貨量雖然領先全球，多數機器人仍用在研究教育、展演與資料蒐集；業界主管與研究人員也指出，中國",
         "source": "TechOrange"
       },
       {
-        "title": "【室內燈光也能發電】美國新創 RadianX 用新型太陽能板，延長感測器、穿戴裝置的續航",
-        "link": "https://techorange.com/2026/11/26/radianx/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 08:59:25 +0800",
-        "description": "電子閱讀器、穿戴裝置與工廠感測器，都需要穩定的電力才能運作，目前這類裝置多仰賴充電式或可更換電池，使用者必須定期充電或換電池，才能避免設備中斷運作。不過，當企業部署大量感測器，或將設備安裝在不易接近的位置時，電池維護也會帶來額外的人力與成本負擔，而美國新創 RadianX 就想嘗試透過「光能採集」降低這項負擔。 鈣鈦礦模組，靠室內燈光發電 RadianX 開發的鈣鈦礦太陽能模組，能將戶外陽光或室內燈光轉換為電力，為電子裝置補充能源。 相較於傳統太陽能技術，RadianX 強調其模組在室內弱光環境",
+        "title": "迎戰星鏈！歐洲最大衛星工廠比利時開幕，年產可達 500 顆、撐起歐盟 IRIS² 計畫",
+        "link": "https://techorange.com/2026/11/27/europe-satellite-factory-iris2-starlink/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 14:12:08 +0800",
+        "description": "為了不再過度依賴美國的太空與網路設施，歐洲正加快腳步建立自己的衛星通訊網。11 月 24 日，歐洲規模最大的衛星製造工廠在比利時正式開幕。這家工廠的營運商 Aerospacelab 已在今年 9 月拿下歐盟「IRIS²」計畫高達 24 億歐元的衛星製造合約，準備打造歐盟版本的衛星網路，為低軌衛星市場帶來星鏈（Starlink）以外的歐洲方案。 每年可望生產 500 顆衛星！歐洲「超級工廠」正式亮相 這座位於比利時南部、佔地 2 萬平方公尺的橢圓形新廠房，11 月 24 日由比利時國王菲利普親自主",
         "source": "TechOrange"
       },
       {
-        "title": "OpenAI 推「OpenWorks」：每月最高付 8,000 美元請在地顧問，免費一對一教美國小企業用 AI",
-        "link": "https://techorange.com/2026/11/26/openai-openworks-small-business-ai-partners/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 08:10:00 +0800",
-        "description": "美國時間 11/23，OpenAI 推出試辦計畫 OpenWorks，在全美 20 個社區招募在地 AI 專家擔任「OpenWorks 夥伴」（OpenWorks Partners），每月提供最高 8,000 美元津貼，請他們一對一協助當地小型企業導入 AI。企業可以免費參加，不過試辦只開放美國獨立經營的小型企業，台灣企業目前無法申請。 根據《Forbes》引述美國人口普查局的調查，5 月初約 19.8% 的美國企業在營運的任一環節使用到 AI；從企業規模觀察，員工 250 人以上的企業有 37",
+        "title": "AI 購物助理迎假期大考：Google、Meta、OpenAI 搶進，Amazon 築牆護今年逾 800 億美元廣告事業",
+        "link": "https://techorange.com/2026/11/27/holidays-to-test-ai-shopping-bots-from-google-amazon-meta-openai/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 13:04:07 +0800",
+        "description": "Google、Amazon、Meta 與 OpenAI 都想幫消費者挑選節慶禮物。《Bloomberg》近日報導，今年美國假期購物季將是 AI 購物助理的一次考驗，檢驗購物者最終會採納誰的建議；另一篇報導則指出，顧客與雇主都把 AI 帶進實體門市，讓零售員工面臨新的挑戰。 馬里蘭大學 42 歲的行銷學教授 Daniel McCarthy 熱愛跑步，某天滑 Instagram 時，看到鎖定腳踝無力運動員的廣告，產品標榜能強化足部與腳踝力量。McCarthy 沒有直接購買，而是把廣告截圖貼到 Cha",
         "source": "TechOrange"
       },
       {
@@ -266,13 +266,6 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-        "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-        "pubDate": "Wed, 25 Nov 2026 16:53:26 +0530",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026.\n\nThe vulnerab",
-        "source": "TheHackerNews"
-      },
-      {
         "title": "1Password customer data stolen after employee GitHub account breach",
         "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
         "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500",
@@ -280,94 +273,10 @@
         "source": "BleepingComputer"
       },
       {
-        "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-        "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-        "pubDate": "Wed, 25 Nov 2026 16:13:07 +0530",
-        "description": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday.\n\nAbdulrahman Alfozan, a ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-        "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-        "pubDate": "Wed, 25 Nov 2026 14:39:31 -0500",
-        "description": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-        "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-        "pubDate": "Wed, 25 Nov 2026 14:36:59 +0530",
-        "description": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from.\n\nThe flaw used in the attack had been in the registry's code since February",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-        "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-        "pubDate": "Wed, 25 Nov 2026 12:20:19 +0530",
-        "description": "An unknown threat actor has been using artificial intelligence (AI)-driven offensive tooling in a campaign targeting Check Point Security Management servers, impacting 22 distinct organizations across the world.\n\nThe intrusion activity, tracked by Gr",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-        "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-        "pubDate": "Wed, 25 Nov 2026 12:07:06 +0530",
-        "description": "Palo Alto Networks Unit 42 has disclosed that it's tracking and has responded to \"numerous waves of vishing attacks\" orchestrated by Com-affiliated threat actors since August 2026 that have led to data theft and extortion attempts.\n\nThe attacks have ",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-        "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-        "pubDate": "Wed, 25 Nov 2026 11:13:40 -0500",
-        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-        "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-        "pubDate": "Wed, 25 Nov 2026 10:00:10 -0500",
-        "description": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep sensitive client d",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-        "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-        "pubDate": "Wed, 25 Nov 2026 10:00:00 -0500",
-        "description": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by the vendors t",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-        "pubDate": "Wed, 25 Nov 2026 06:16:32 -0500",
-        "description": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers now exploit critical Drupal RCE flaw to hijack sites",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploit-critical-drupal-rce-flaw-to-hijack-sites/",
-        "pubDate": "Wed, 25 Nov 2026 05:10:20 -0500",
-        "description": "The Drupal security team has confirmed that a critical vulnerability that lets attackers hijack unpatched sites has been actively exploited since at least Thursday. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Microsoft confirms authentication issues after November updates",
-        "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-        "pubDate": "Wed, 25 Nov 2026 04:02:57 -0500",
-        "description": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "Hackers reportedly breached CIA intelligence analysis system",
-        "link": "https://www.bleepingcomputer.com/news/security/hackers-reportedly-breached-cia-intelligence-analysis-system/",
-        "pubDate": "Wed, 25 Nov 2026 02:45:03 -0500",
-        "description": "Unknown attackers have reportedly breached an open-source intelligence analysis system at the US Central Intelligence Agency (CIA) [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
         "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
         "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530",
-        "description": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025.\n\n\"The loader hides in a small utils package or i",
+        "description": "The threat actors behind the PolinRider campaign have compromised over 7,600 GitHub repositories, in some cases planting a Python loader capable of delivering next-stage payloads, as evidence emerges that the activity may have started as far back as ",
         "source": "TheHackerNews"
       },
       {
@@ -375,6 +284,97 @@
         "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
         "pubDate": "Thu, 26 Nov 2026 16:27:55 +0530",
         "description": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about.\n\nAt Push Security, ",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+        "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+        "pubDate": "Thu, 26 Nov 2026 16:27:25 +0530",
+        "description": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and other secrets w",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+        "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+        "pubDate": "Thu, 26 Nov 2026 16:06:22 -0500",
+        "description": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+        "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+        "pubDate": "Thu, 26 Nov 2026 12:58:42 -0500",
+        "description": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+        "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+        "pubDate": "Thu, 26 Nov 2026 12:32:34 +0530",
+        "description": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild.\n\nThe vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper checking for unus",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+        "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+        "pubDate": "Thu, 26 Nov 2026 12:15:27 -0500",
+        "description": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+        "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+        "pubDate": "Thu, 26 Nov 2026 12:14:46 +0530",
+        "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last week.\n\nThe Mi",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+        "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+        "pubDate": "Thu, 26 Nov 2026 10:23:28 -0500",
+        "description": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+        "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+        "pubDate": "Thu, 26 Nov 2026 09:18:52 +0530",
+        "description": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment.\n\n\"Most of the packages pose as WinUI 3 and WPF [Windows Presentation Foundat",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+        "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+        "pubDate": "Thu, 26 Nov 2026 06:50:17 -0500",
+        "description": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+        "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+        "pubDate": "Fri, 27 Nov 2026 17:19:34 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a cyber attack in which a threat actor leveraged a Microsoft Store application to deliver a remote access trojan (RAT) called Vinci RAT.\n\nThe intrusion, according to eSentire, begins with a redirect",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+        "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+        "pubDate": "Fri, 27 Nov 2026 16:02:18 +0530",
+        "description": "Most security metrics are not built to be used. They are built to be shown. Somewhere between the quarterly review and the next status update, a set of numbers gets assembled that looks reassuring in a room and tells almost no one what is actually ha",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+        "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+        "pubDate": "Fri, 27 Nov 2026 14:59:30 +0530",
+        "description": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.\n\n\"Evidence indicates that malicious files were generated",
+        "source": "TheHackerNews"
+      },
+      {
+        "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+        "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
+        "pubDate": "Fri, 27 Nov 2026 11:34:20 +0530",
+        "description": "Attackers using AI agents have broken into computer systems at Swiss organizations in four of five confirmed attacks, the first such cases in the country, the country's cybersecurity agency said yesterday.\n\nThree of the attacks targeted critical infr",
         "source": "TheHackerNews"
       }
     ],
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "Netflix’s coziest show has made a very quiet return",
-        "link": "https://www.theverge.com/entertainment/1043489/midnight-diner-season3",
-        "pubDate": "2026-11-26T16:00:00-05:00",
-        "description": "The bigger Netflix gets, the easier it is to miss stuff. This is true of all digital platforms, of course, but it's especially true of Netflix of late, as the streaming service's lineup now also includes a growing library of reality shows, live-progr",
+        "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
+        "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-27T10:30:00-05:00",
+        "description": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.",
         "source": "TheVerge"
       },
       {
-        "title": "The Garmin Forerunner 265S is down to $300, its best price of the year",
-        "link": "https://www.theverge.com/gadgets/1042483/garmin-forerunner-265s-fitness-tracker-wearable-deal-sale-black-friday",
-        "pubDate": "2026-11-26T14:00:00-05:00",
-        "description": "The Forerunner 265S may not be the newest or flashiest Garmin, but it’s one that I’ve always loved most in testing. For runners with smaller wrists, it fits nicely. The battery life is pretty good thanks in part to its OLED touchscreen. When I review",
+        "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
+        "pubDate": "2026-11-27T10:15:28-05:00",
+        "description": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly availab",
         "source": "TheVerge"
       },
       {
-        "title": "The MacBook Neo is receiving a rare $100 discount for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1035932/apple-macbook-neo-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-26T12:07:00-05:00",
-        "description": "If you’re looking for a new laptop or a gift for the student in your life, you can save $100 on the MacBook Neo at several retailers, in both storage sizes and all four colors. The 256GB model is currently discounted to $599.99 at Amazon and Costco, ",
+        "title": "Buying a laptop right now is rough, but these Black Friday deals help",
+        "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
+        "pubDate": "2026-11-27T09:30:00-05:00",
+        "description": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time t",
         "source": "TheVerge"
       },
       {
-        "title": "Android app developers will soon have to share their address publicly",
-        "link": "https://www.theverge.com/tech/1043228/android-play-store-google-developer-address-eu",
-        "pubDate": "2026-11-26T12:06:24-05:00",
-        "description": "Independent Android app developers are worried about their privacy after Google announced that from next year many of them will be required to share a phone number and address publicly. The policy change is intended to meet European Union regulations",
+        "title": "The absolute best Black Friday deals we’ve found (so far)",
+        "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
+        "pubDate": "2026-11-27T09:19:44-05:00",
+        "description": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e",
         "source": "TheVerge"
       },
       {
-        "title": "The best Black Friday deals we’ve already found",
-        "link": "https://www.theverge.com/gadgets/1028991/black-friday-best-early-deals-2026",
-        "pubDate": "2026-11-26T11:55:00-05:00",
-        "description": "The countdown to Black Friday is on, and many discounts have already arrived. Although the shopping holiday isn’t officially until tomorrow, November 27th, retailers are already dropping early deals on some of our favorite tech. Of course, with price",
+        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+        "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
+        "pubDate": "2026-11-27T09:00:00-05:00",
+        "description": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open th",
         "source": "TheVerge"
       }
     ],
