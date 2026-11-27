@@ -1,5 +1,5 @@
 {
-  "ts": "2026-11-27T15:33:34.142047Z",
+  "ts": "2026-11-27T23:43:22.410850Z",
   "tabs": {
     "cn_sec": [
       {
@@ -252,27 +252,6 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-        "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-        "pubDate": "Wed, 25 Nov 2026 17:21:48 +0530",
-        "description": "TL;DR\n\n\n  More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break.\n  Validity-only triage mi",
-        "source": "TheHackerNews"
-      },
-      {
-        "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-        "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-        "pubDate": "Wed, 25 Nov 2026 17:05:09 -0500",
-        "description": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-        "source": "BleepingComputer"
-      },
-      {
-        "title": "1Password customer data stolen after employee GitHub account breach",
-        "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-        "pubDate": "Wed, 25 Nov 2026 16:33:33 -0500",
-        "description": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-        "source": "BleepingComputer"
-      },
-      {
         "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
         "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
         "pubDate": "Thu, 26 Nov 2026 20:43:41 +0530",
@@ -343,11 +322,11 @@
         "source": "TheHackerNews"
       },
       {
-        "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
-        "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
-        "pubDate": "Thu, 26 Nov 2026 06:50:17 -0500",
-        "description": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
-        "source": "BleepingComputer"
+        "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+        "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+        "pubDate": "Fri, 27 Nov 2026 22:06:11 +0530",
+        "description": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements.\n\nThe previously undo",
+        "source": "TheHackerNews"
       },
       {
         "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
@@ -369,6 +348,27 @@
         "pubDate": "Fri, 27 Nov 2026 14:59:30 +0530",
         "description": "Cybersecurity researchers have disclosed details of a software supply chain attack that has tampered with Q-Dir and DesktopOK installation files distributed via the official SoftwareOK website.\n\n\"Evidence indicates that malicious files were generated",
         "source": "TheHackerNews"
+      },
+      {
+        "title": "pCloud confirms password manager hack after suspicious login alerts",
+        "link": "https://www.bleepingcomputer.com/news/security/pcloud-confirms-password-manager-hack-after-suspicious-login-alerts/",
+        "pubDate": "Fri, 27 Nov 2026 14:26:04 -0500",
+        "description": "The pCloud Pass password manager suffered a cyberattack, with users reporting that unknown devices had connected to their accounts even with two-factor authentication (2FA) enabled. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "New Boston Scientific data breach exposes personal, medical info",
+        "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
+        "pubDate": "Fri, 27 Nov 2026 13:57:42 -0500",
+        "description": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
+        "source": "BleepingComputer"
+      },
+      {
+        "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
+        "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
+        "pubDate": "Fri, 27 Nov 2026 12:06:13 -0500",
+        "description": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
+        "source": "BleepingComputer"
       },
       {
         "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
@@ -485,38 +485,38 @@
         "source": "TechCrunch"
       },
       {
-        "title": "You can grab a 12-pack of Zepath’s rechargeable AA batteries for just $24",
-        "link": "https://www.theverge.com/gadgets/1043272/zepath-rechargeable-aa-batteries-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-27T10:30:00-05:00",
-        "description": "If you’re picking up any gifts that require AA batteries, it’s not a bad idea to buy a set you can keep using long after the holidays. Thankfully, you can currently get a 12-pack of Zepath’s rechargeable 3,000mWh AAs on Amazon with a charger for $23.",
+        "title": "Roborock, Dreame, and Eufy are cutting robovac prices in half for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1044487/best-black-friday-robot-vacuum-mop-deals-2026",
+        "pubDate": "2026-11-27T18:32:17-05:00",
+        "description": "Black Friday is here, and if you want a little help keeping your floors clean this holiday season, now is a great time to pick up a robot vacuum. Some of the best models we’ve tested over the last year or two are on sale for up to 60 percent off, whe",
         "source": "TheVerge"
       },
       {
-        "title": "Apple’s AirPods Pro 3 are a whopping $100 off for Black Friday",
-        "link": "https://www.theverge.com/gadgets/1039978/airpods-pro-3-apple-earbuds-black-friday-2026-deal-sale",
-        "pubDate": "2026-11-27T10:15:28-05:00",
-        "description": "The AirPods Pro 3 are cheaper than ever. Despite receiving an early discount last week, Apple’s latest flagship wireless earbuds are still on sale for just $149 at Amazon, Best Buy, and Walmart. They originally sold for $249, but are commonly availab",
+        "title": "Yooka-Laylee’s free upgrade is skipping Xbox",
+        "link": "https://www.theverge.com/games/1044715/yooka-laylees-free-upgrade-is-skipping-xbox",
+        "pubDate": "2026-11-27T18:30:32-05:00",
+        "description": "Playtronic Games is getting ready to launch Yooka-Laylee and the Impossible Lair: Definitive Edition as a free update on PlayStation 5, Switch 2, and PC on December 15th. Unfortunately for Xbox owners, the developer says it \"can't commit to any addit",
         "source": "TheVerge"
       },
       {
-        "title": "Buying a laptop right now is rough, but these Black Friday deals help",
-        "link": "https://www.theverge.com/gadgets/1042512/best-black-friday-laptop-notebook-deals-2026",
-        "pubDate": "2026-11-27T09:30:00-05:00",
-        "description": "Laptop prices have been a hot-button topic all year long thanks to RAMageddon. We’ve seen existing models get more expensive and new models arrive at higher prices than last-gen — sometimes with lower specs, too. 2026 in general has been a bad time t",
+        "title": "Many of our favorite Blu-ray movies are over 50 percent off for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1040471/4k-bluray-movie-film-black-friday-deal-sale",
+        "pubDate": "2026-11-27T18:30:00-05:00",
+        "description": "No shade to those who love their subscription services, but viewing physical movies is a time-honored tradition that shouldn’t go away. Watching them doesn’t feel all that different, but deciding which movie to watch feels less annoying; sifting thro",
         "source": "TheVerge"
       },
       {
         "title": "The absolute best Black Friday deals we’ve found (so far)",
         "link": "https://www.theverge.com/gadgets/1039190/best-black-friday-2026-deals-tech-gadgets-gift-ideas",
-        "pubDate": "2026-11-27T09:19:44-05:00",
+        "pubDate": "2026-11-27T17:43:57-05:00",
         "description": "This year’s Black Friday deals have launched in waves over the past several weeks, but now the floodgates have officially opened. You can now take advantage of the lowest prices we’ve seen in-store and online for video games, wireless earbuds, TVs, e",
         "source": "TheVerge"
       },
       {
-        "title": "Android’s DIY widgets are a bit of vibe-coding fun",
-        "link": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
-        "pubDate": "2026-11-27T09:00:00-05:00",
-        "description": "Aside from dealing with my calendar, there's one thing I want AI to do: tell me if I'm about to miss the bus. What I need is a widget. It needs to tell me real-time arrivals for the bus stop near my house. Tapping around on my phone screen to open th",
+        "title": "The new iPad Mini is getting its first major discount for Black Friday",
+        "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+        "pubDate": "2026-11-27T17:30:00-05:00",
+        "description": "We were big fans of Apple’s new iPad Mini when we reviewed it in early November, but its steep starting price of $699 was hard to swallow. Thankfully, the small tablet is already getting a sizable discount for Black Friday. Right now, Amazon and Walm",
         "source": "TheVerge"
       }
     ],
