@@ -1,7 +1,91 @@
 {
-  "ts": "2026-11-26T23:16:39.262288Z",
+  "ts": "2026-11-27T05:19:46.907195Z",
   "tabs": {
     "cn_sec": [
+      {
+        "title": "WPIDE修補未經驗證遠端程式碼執行漏洞，未更新可能導致管理員遭誘使執行惡意PHP",
+        "link": "https://www.ithome.com.tw/news/180848",
+        "pubDate": "2026-11-27 12:56",
+        "description": "CVE-2026-124251源自跨網站請求偽造（CSRF）防護機制遭繞過，影響WPIDE 3.6.4及更早版本，已於3.6.5版修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "幣安解除63.4億美元數位資產竊案相關提款限制",
+        "link": "https://www.ithome.com.tw/news/180845",
+        "pubDate": "2026-11-27 12:22",
+        "description": "幣安10月底因熱錢包遭入侵而暫停提款，目前已完成提款服務復原，並重申使用者資產均有足額儲備，提醒使用者提防假冒客服的釣魚攻擊",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Drupal揭露已遭利用的安裝程式新漏洞",
+        "link": "https://www.ithome.com.tw/news/180846",
+        "pubDate": "2026-11-27 12:17",
+        "description": "Drupal於11月25日發布資安公告，揭露核心安裝程式的存取控制繞過漏洞CVE-2026-136716，攻擊者可利用特定安裝狀態接管網站。值得留意的是，該漏洞已遭駭客用於實際攻擊，Drupal呼籲管理員儘速更新並檢查網站是否遭入侵",
+        "source": "iThome資安"
+      },
+      {
+        "title": "近4,200個AI自主攻擊框架暴露於公開網路，臺灣也發現10個",
+        "link": "https://www.ithome.com.tw/news/180843",
+        "pubDate": "2026-11-27 11:12",
+        "description": "Shadowserver最新統計數字較前次調查增加，ARTEX仍占約七成，另透過蜜罐觀察到80多個相關IP位址發動逾萬次探測，鎖定VPN、開發工具及AI服務，並嘗試竊取憑證與轉送網路流量",
+        "source": "iThome資安"
+      },
+      {
+        "title": "袋鼠金融平臺遭外部攻擊，部分使用者個資外洩",
+        "link": "https://www.ithome.com.tw/news/180841",
+        "pubDate": "2026-11-27 10:27",
+        "description": "防詐科技公司Gogolook（6902）子公司袋鼠金融科技營運的平臺袋鼠金融（Roo.Cash）遭外部攻擊，造成部分使用者個人資料外洩。袋鼠金融已暫停受影響系統的兌換及查詢功能，並進行資安修補與存取管制，目前仍在調查事件及確認影響範圍",
+        "source": "iThome資安"
+      },
+      {
+        "title": "日本JAXA網站遭駭，2,000名用戶帳密外洩",
+        "link": "https://www.ithome.com.tw/news/180839",
+        "pubDate": "2026-11-27 10:24",
+        "description": "日本宇宙航空研究開發機構（JAXA）旗下衛星觀測資料網站遭駭，攻擊者利用指令注入漏洞植入後門程式，導致2,000名用戶的帳號名稱及加密密碼外洩",
+        "source": "iThome資安"
+      },
+      {
+        "title": "研究人員揭露已遭利用的Drupal重大漏洞Fail2Install細節",
+        "link": "https://www.ithome.com.tw/news/180838",
+        "pubDate": "2026-11-27 10:22",
+        "description": "資安公司Searchlight Cyber公布Drupal重大漏洞CVE-2026-132165（Fail2Install）細節，指出Drupal核心的安裝程序存在能繞過系統防護機制的攻擊鏈，且無論Drupal搭配的資料庫與網頁伺服器架構，都有可能存在風險",
+        "source": "iThome資安"
+      },
+      {
+        "title": "中國及北韓駭客皆已於武器庫中加入ARTEX",
+        "link": "https://www.ithome.com.tw/news/180835",
+        "pubDate": "2026-11-27 10:02",
+        "description": "微軟揭露，至少6個駭客組織已開始利用AI自主滲透測試框架ARTEX發動攻擊，包括來自中國及北韓的駭客。在微軟觀察到的一起攻擊中，駭客利用AI代理人搜尋外洩憑證到竊取Azure Key Vault資料，前後僅花了5分鐘",
+        "source": "iThome資安"
+      },
+      {
+        "title": "雲端安全聯盟提出AI治理框架整合指引，強調模型安全測試與執行過程可追溯性",
+        "link": "https://www.ithome.com.tw/news/180801",
+        "pubDate": "2026-11-27 08:00",
+        "description": "雲端安全聯盟（CSA）提出3套AI治理框架的整合做法，建議企業及早納入模型安全措施，定期進行安全測試，建立追蹤機制，以利查明AI系統的執行過程及各項作業所使用的身分，並分階段部署AI系統",
+        "source": "iThome資安"
+      },
+      {
+        "title": "BeyondTrust預測2027年企業資安新挑戰，AI代理權限遭濫用，對外開放系統重大漏洞應變時間縮短至數小時",
+        "link": "https://www.ithome.com.tw/news/180760",
+        "pubDate": "2026-11-27 08:00",
+        "description": "企業若授予AI代理過多權限，恐讓攻擊者有機可乘，而這些權限若透過委派延伸至其他企業，也將帶來新的供應鏈風險。隨著AI加速漏洞挖掘，對外開放系統的重大漏洞可能在公開揭露後數小時內就遭到利用，企業也須重新檢視漏洞管理、資安維運及AI治理模式",
+        "source": "iThome資安"
+      },
+      {
+        "title": "義大利、瑞士示警AI代理式攻擊，籲24小時內修補對外系統漏洞",
+        "link": "https://www.ithome.com.tw/news/180821",
+        "pubDate": "2026-11-27 08:00",
+        "description": "義大利發現駭客運用多個AI代理同時執行攻擊任務，部分案例中，短短數小時內就入侵大量系統。瑞士也首度確認AI代理式攻擊案例，受害對象包括關鍵基礎設施營運業者，並建議企業於重大安全更新發布後24小時內完成對外系統修補",
+        "source": "iThome資安"
+      },
+      {
+        "title": "Character.AI擬拍賣用戶聊天紀錄，美國42名檢察長反對",
+        "link": "https://www.ithome.com.tw/news/180847",
+        "pubDate": "2026-11-27  12:11:54",
+        "description": "美國加州及伊利諾州等42名檢察長周二（11/24）宣布，已聯手向破產法院提出異議，反對AI聊天機器人業者Character.AI於12月1日拍賣旗下平臺及逾2,100萬個美國用戶帳號的私人聊天紀錄，其中有超過210萬個帳號由未成年人註冊，且擬議交易並未提供任何用戶隱私保障措施。",
+        "source": "iThome"
+      },
       {
         "title": "香帥蛋糕、一事製菓揭露資安事件，電子發票服務商PayNow對外API遭異常存取，波及500商家",
         "link": "https://www.ithome.com.tw/news/180833",
@@ -31,83 +115,6 @@
         "source": "iThome資安"
       },
       {
-        "title": "網銀盜轉案逾百起，刑事局揭露偽冒短劇App散布Android木馬，歹徒濫用無障礙權限盜轉存款",
-        "link": "https://www.ithome.com.tw/news/180826",
-        "pubDate": "2026-11-26 16:10",
-        "description": "今年9月以來，國內已有22家金融機構的客戶反映帳戶遭盜轉，累計財損逾1,742萬元。刑事局透過部分受害者手機的數位鑑識，發現歹徒利用偽冒短劇App的Android惡意程式規避手機安全防護，並濫用無障礙權限，在數十秒內自行完成12類權限授權，具備遠端操控手機、側錄密碼、讀取及刪除簡訊等能力",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Danfoss冷凍控制器等10個漏洞遭到積極利用",
-        "link": "https://www.ithome.com.tw/news/180827",
-        "pubDate": "2026-11-26 16:06",
-        "description": "美國網路安全與基礎設施安全局（CISA） 一口氣將10個新漏洞加入已知遭利用漏洞名單（KEV），涵蓋Danfoss、Juniper、Mitel，以及Vates等4個廠牌的產品漏洞",
-        "source": "iThome資安"
-      },
-      {
-        "title": "【資安日報】11月26日，Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件發送與代理節點",
-        "link": "https://www.ithome.com.tw/news/180823",
-        "pubDate": "2026-11-26 14:49",
-        "description": "資安公司SecurityScorecard揭露暴露於公開網路的冷凍控制器遭攻擊者濫用，駭客疑似利用身分驗證漏洞入侵，部分設備遭劫持用於郵件發送、網路隧道閘道及住宅代理伺服器節點",
-        "source": "iThome資安"
-      },
-      {
-        "title": "FBI疑似再發生資安事故，犯罪資料庫被駭",
-        "link": "https://www.ithome.com.tw/news/180822",
-        "pubDate": "2026-11-26 14:48",
-        "description": "FBI再傳重大資安事故，這次遭駭的是全美執法單位仰賴的犯罪資訊資料庫（NCIC），內含通緝犯、失蹤人口、失竊車輛及犯罪紀錄等資訊",
-        "source": "iThome資安"
-      },
-      {
-        "title": "駭客入侵1Password員工GitHub帳號竊走公司原始碼，植入惡意程式碼下載客戶資料",
-        "link": "https://www.ithome.com.tw/news/180820",
-        "pubDate": "2026-11-26 13:21",
-        "description": "密碼管理服務業者1Password揭露資安事件，駭客透過員工的GitHub帳號竊取公司原始碼，並在後端服務植入惡意程式碼，導致部分客戶帳號資料外洩",
-        "source": "iThome資安"
-      },
-      {
-        "title": "多國警方聯手瓦解Gootloader等惡意程式基礎設施，查獲640萬筆遭竊憑證",
-        "link": "https://www.ithome.com.tw/news/180813",
-        "pubDate": "2026-11-26 12:49",
-        "description": "Endgame行動同步打擊Gootloader、CastleRAT及StealC等惡意程式基礎設施，查扣235臺伺服器與257個網域，並清理681個遭入侵網站",
-        "source": "iThome資安"
-      },
-      {
-        "title": "全球22家企業組織Check Point管理伺服器被入侵，駭客利用已知漏洞取得管理員權限",
-        "link": "https://www.ithome.com.tw/news/180811",
-        "pubDate": "2026-11-26 12:14",
-        "description": "威脅情報公司GreyNoise揭露GT13入侵活動，全球22家企業組織Check Point管理伺服器遭入侵，攻擊者利用漏洞執行管理命令、竊取防火牆設定與憑證，並疑似透過AI代理自動化攻擊流程",
-        "source": "iThome資安"
-      },
-      {
-        "title": "React Server Components修補未經身分驗證RCE漏洞",
-        "link": "https://www.ithome.com.tw/news/180810",
-        "pubDate": "2026-11-26 12:11",
-        "description": "CVE-2026-126187源自伺服器元件資料處理缺陷，攻擊者可傳送特製負載執行任意程式碼，影響三種RSC傳輸套件",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Copeland XWEB PRO冷凍控制器遭劫持，淪為垃圾郵件發送與代理節點",
-        "link": "https://www.ithome.com.tw/news/180809",
-        "pubDate": "2026-11-26 11:37",
-        "description": "暴露於公開網路的冷凍控制器遭攻擊者濫用，駭客疑似利用登入驗證漏洞入侵，部分設備遭劫持用於郵件發送、網路隧道閘道及住宅代理出口",
-        "source": "iThome資安"
-      },
-      {
-        "title": "Palo Alto Networks修補防火牆已遭利用的Linux核心漏洞Fragnesia",
-        "link": "https://www.ithome.com.tw/news/180808",
-        "pubDate": "2026-11-26 11:34",
-        "description": "本週資安廠商Palo Alto Networks發布公告，旗下防火牆作業系統PAN-OS受到Linux核心漏洞Fragnesia（CVE-2026-46300）影響，且已有漏洞利用活動，呼籲用戶儘速更新",
-        "source": "iThome資安"
-      },
-      {
-        "title": "泰味國際委外雲端發票平臺遭異常存取，290人受影響",
-        "link": "https://www.ithome.com.tw/news/180806",
-        "pubDate": "2026-11-26 11:26",
-        "description": "連鎖餐飲集團瓦城（2729）發布資安重訊，子公司泰味國際接獲委外購物網站服務廠商通知，雲端發票平臺近期出現異常資料存取情形，初步評估影響290人",
-        "source": "iThome資安"
-      },
-      {
         "title": "臺南市探索無人載具應用於城市巡檢與消防救災，評估熱影像及氣體感測技術",
         "link": "https://www.ithome.com.tw/news/180832",
         "pubDate": "2026-11-26  06:11:25",
@@ -120,44 +127,9 @@
         "pubDate": "2026-11-26  06:11:15",
         "description": "美國加州聖地牙哥市政府近日公布的內部數位轉型成效顯示，透過將生成式人工智慧（AI）工具普及至基層公務體系，並重整底層雲端網路架構，已實質縮減了行政作業與基礎設施部署的時間成本，為大型市政機關的營運效率帶來明顯改變。",
         "source": "iThome"
-      },
-      {
-        "title": "澳洲立法強化AI聊天機器人與社群平臺安全責任，違規罰款可達全球營收5%",
-        "link": "https://www.ithome.com.tw/news/180825",
-        "pubDate": "2026-11-26  04:11:01",
-        "description": "澳洲國會11月25日通過數位注意義務（Digital Duty of Care）法案，要求社群媒體、線上遊戲、AI聊天機器人及其他受規範的數位服務業者，主動防範可能對使用者造成嚴重傷害的內容及行為，並降低服務功能造成傷害的風險。違反數位注意義務的企業，罰款上限為全球營收5%或1.092億澳元，取兩者較高金額。數位注意義務預計12個月後生效。",
-        "source": "iThome"
-      },
-      {
-        "title": "歐盟提出量子法案，力拚2030年成為全球量子技術領導者",
-        "link": "https://www.ithome.com.tw/news/180816",
-        "pubDate": "2026-11-26  01:11:40",
-        "description": "歐盟執委會（European Commission，EC）周三（11/25）提出《量子法案》（Quantum Act），希望加速量子技術的商業化、強化供應鏈及推動後量子密碼學的部署，同時規畫成立主權科技股權基金（Sovereign Tech Equity Fund），以支援歐盟關鍵技術的發展。",
-        "source": "iThome"
-      },
-      {
-        "title": "JetBrains推出Go by GoLand擴充套件，讓Cursor與VS Code跨模組分析大型Go專案",
-        "link": "https://www.ithome.com.tw/news/180812",
-        "pubDate": "2026-11-26  01:11:32",
-        "description": "JetBrains推出Go by GoLand擴充套件公開預覽版，將原本整合於GoLand開發環境的部分功能帶入Cursor與VS Code，讓開發者不必更換編輯器，即可使用GoLand的程式碼導覽、分析、重構及除錯功能，支援包含多個模組的大型Go語言專案。\nGo by GoLand採用語言伺服器協定（LSP）及除錯協定（DAP），將程式碼分析及除錯功能與編輯器分離，讓不同開發工具可透過標準化介面取得語言分析結果及執行除錯操作。",
-        "source": "iThome"
       }
     ],
     "cn_tech": [
-      {
-        "title": "不用大型無塵室也能學晶片製造？日本 mobileFab 把 30 公分微影設備搬上卡車",
-        "link": "https://techorange.com/2026/11/25/tech-industry-semiconductors-japan-chipmaking-labs-trucks/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 18:00:02 +0800",
-        "description": "日本正嘗試把半導體實驗室搬上卡車。由日本 Minimal Fab Promotion Organization 推動的 mobileFab 計畫，將三台小型晶圓處理設備裝進貨櫃，未來可移動至學校與企業，讓學生及工程師有機會實際操作半導體製程設備，接觸晶片製造技術。 根據《Tom’s Hardware》報導，mobileFab 配備光阻塗布機、無光罩微影設備及光阻顯影設備，單台設備寬度約 30 公分，使用直徑約 12.5 毫米的晶圓。這套系統將於 2026 年 12 月 9 日至 11 日舉行的 ",
-        "source": "TechOrange"
-      },
-      {
-        "title": "穩定幣市值持平，業者仍搶築「圍牆花園」：Payoneer 籌設信託銀行、Visa 開放穩定幣預先撥款",
-        "link": "https://techorange.com/2026/11/25/stablecoins-walled-gardens/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Wed, 25 Nov 2026 14:55:49 +0800",
-        "description": "美國時間 11/20，跨境支付業者 Payoneer 宣布取得美國貨幣監理署（OCC）初步有條件核准，籌設全國性信託銀行 PAYO Digital Bank，定位是「支援全球商業的穩定幣功能」。美國支付產業媒體《PYMNTS》分析，圍繞數位美元，一種新型金融中介正在出現，商業目標卻和傳統金融業者相似：獲取客戶、保管客戶的錢、協助取得信貸，並對周邊服務收費。 據聯準會統計，穩定幣市值過去一年相對持平，《PYMNTS》認為這讓周邊金融服務的擴張更值得注意，並以「圍牆花園」（walled garden",
-        "source": "TechOrange"
-      },
       {
         "title": "歐盟《量子法案》亮相，將搭配最高 500 億歐元主權科技基金押注 AI 與量子",
         "link": "https://techorange.com/2026/11/26/u-quantum-act-sovereign-fund/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
@@ -236,10 +208,24 @@
         "source": "TechOrange"
       },
       {
-        "title": "【科技早餐】台積電美國擴產新進展！向德州申請減稅，評估 226 億美元晶圓廠投資",
-        "link": "https://techorange.com/2026/11/26/tsmc-texas-fab-investment-dell-ai-server/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
-        "pubDate": "Thu, 26 Nov 2026 05:30:00 +0800",
-        "description": "【科技早餐】今天精選 7 則國內外重要科技新聞。 ＊台積電向德州申請減稅！評估 226 億美元晶圓廠投資 台積電（TSMC）美國擴產計畫有了新進展。根據德州布拉索斯郡政府公告，台積電美國子公司於 11 月 23 日提出租稅優惠申請，評估在當地投資 226 億美元興建晶圓廠，採用 2 奈米或更先進製程，生產 AI、高效能運算及行動裝置晶片。德州主計長辦公室已建議將申請案交由州長及當地學區審議，學區董事會將於 12 月 10 日舉行公聽會，討論是否提供為期 10 年的特定房產課稅價值限制。台積電已證",
+        "title": "NVIDIA 暫停東南亞四國伺服器出貨，美國新規把「算力給誰用」納入許可審查",
+        "link": "https://techorange.com/2026/11/27/nvidia-halts-southeast-asia-servers-export-controls/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 11:57:29 +0800",
+        "description": "據《金融時報》與《華爾街日報》報導，NVIDIA 已要求製造夥伴，暫停把搭載其晶片的伺服器出貨到馬來西亞、新加坡、泰國與印尼，期限未定。這一步發生在美國商務部新規於美國時間 11/19 生效之後：新規除了管制晶片運送到哪裡，也把海外資料中心替哪些企業提供算力，明確納入許可審查。 台灣 AI 伺服器供應鏈也可能受到波及。集邦科技（TrendForce）評估，短期內台廠出到東南亞的伺服器，客戶會更集中在美系雲端業者，承接其他客戶的訂單則要多過一道許可審查。不過，管制該收緊到什麼程度，各方看法不一：晶",
+        "source": "TechOrange"
+      },
+      {
+        "title": "美國 7-Eleven 把 AI 用進招募、結帳到設備維修，招人時間從 10 天縮到不到 3 天",
+        "link": "https://techorange.com/2026/11/27/7-eleven-ai-data-automation-convenience/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 10:46:37 +0800",
+        "description": "在數位優先的零售環境下，美國連鎖便利商店巨頭 7-Eleven 透過人工智慧、數據整合與自動化技術全面改造門市與後勤營運，致力於大規模提升便利零售的服務水準。 導入電腦視覺與無摩擦結帳，優化門市結帳效率 在門市消費體驗方面，7-Eleven 已導入手機掃描付款、自助結帳，以及 AI 驅動的 Quick Checkout（QCO）等技術，讓顧客能透過不同方式完成購物，減少櫃檯排隊時間。 7-Eleven 也持續測試無摩擦結帳（Frictionless Checkout）技術，並在美國部分門市擴大 ",
+        "source": "TechOrange"
+      },
+      {
+        "title": "【雲端的下一個客戶可能是 AI 代理】Quake AI 主張以 API 取代介面，稱代理運算量可降至千分之一",
+        "link": "https://techorange.com/2026/11/27/quake-ai-api-neocloud-agent/?utm_source=rss&utm_medium=feed&utm_campaign=techorange_rss",
+        "pubDate": "Fri, 27 Nov 2026 09:12:38 +0800",
+        "description": "新雲端（Neocloud）業者 Quake AI 認為，未來網路服務需要進行互動的對象，將不會再是真實的人類，而是要服務人類所指派的 AI 代理，以 API 達成「機器對機器」之間的溝通。",
         "source": "TechOrange"
       },
       {
@@ -636,6 +622,16 @@
         "products": "WhatsApp"
       },
       {
+        "title": "MongoDB Multiple Vulnerabilities",
+        "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261127",
+        "pubDate": "Fri, 27 Nov 2026 11:00:00 +0800",
+        "description": "",
+        "source": "HKCERT",
+        "severity": "medium",
+        "cveIds": "",
+        "products": "MongoDB"
+      },
+      {
         "title": "ChromeOS Multiple Vulnerabilities",
         "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261120",
         "pubDate": "Fri, 20 Nov 2026 11:00:00 +0800",
@@ -664,16 +660,6 @@
         "severity": "medium",
         "cveIds": "",
         "products": "PHP"
-      },
-      {
-        "title": "ASUS Router Multiple Vulnerabilities",
-        "link": "https://www.hkcert.org/security-bulletin/asus-router-multiple-vulnerabilities_20261120",
-        "pubDate": "Fri, 20 Nov 2026 10:58:00 +0800",
-        "description": "",
-        "source": "HKCERT",
-        "severity": "medium",
-        "cveIds": "",
-        "products": "ASUS Router"
       }
     ]
   }
